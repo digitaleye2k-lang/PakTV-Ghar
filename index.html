@@ -376,6 +376,15 @@ function renderShowPage(){
   const maxIndexed=available.filter(e=>Number.isInteger(e.episode)).reduce((n,e)=>Math.max(n,e.episode),0);
   const lastUpload=details.upload?.number || maxIndexed || null;
   const currentHint=lastUpload||details.tv?.number||details.listed||'';
+  // For a sourced number, offer an episode chooser up to that number.
+  // These are search options only, never represented as verified video links.
+  const episodeSearchControl=Number.isInteger(Number(currentHint)) && Number(currentHint)>0 && Number(currentHint)<=400?
+    '<select id="episodeNumber" aria-label="Episode number to search on YouTube">'+
+    Array.from({length:Number(currentHint)},(_,i)=>'<option value="'+(i+1)+'"'+
+      (i+1===Number(currentHint)?' selected':'')+'>Episode '+(i+1)+' (search)</option>').join('')+
+    '</select>':
+    '<input id="episodeNumber" type="number" min="1" max="1200" step="1" inputmode="numeric" placeholder="e.g. 18"'+
+    (currentHint?' value="'+escapeHTML(String(currentHint))+'"':'')+'>';
   const status=state.episodeLoading?'Looking up indexed publisher videos…':
     available.length?available.length+' directly indexed official items found':
     'No directly indexed full episodes found for this show yet';
@@ -419,8 +428,7 @@ function renderShowPage(){
     '<div class="episode-finder"><h3>Find an episode by number</h3>'+
     '<p>There is <b>no assumed 300-episode limit</b>. Enter a number you want and search YouTube. Only the results above have confirmed indexed links.</p>'+
     '<div class="episode-picker"><label class="visually-hidden" for="episodeNumber">Episode number to search</label>'+
-    '<input id="episodeNumber" type="number" min="1" max="1200" step="1" inputmode="numeric" placeholder="e.g. 18"'+
-    (currentHint?' value="'+escapeHTML(String(currentHint))+'"':'')+'>'+
+    episodeSearchControl+
     '<button class="btn-secondary" type="button" data-find-episode>🔎 Search that episode</button></div></div>'+
     '<div class="load-more"><button type="button" class="small-button" data-reload-episodes>↻ Refresh indexed episodes</button></div>'+
     '</section>'+renderInfo();
