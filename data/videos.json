@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "id": "R12rkKk1LtM",
+      "title": "Governor’s Rule in KP | Crackdown Begins? Is Khan Ready for a Deal? | NEO News | Neo Special",
+      "channel": "Matiullah Jan MJtv",
+      "channelId": "matiullah",
+      "youtubeChannelId": "UCAsvFcpUQegneSh0QAUd64A",
+      "category": "vloggers",
+      "date": "2026-10-12",
+      "published": "2026-10-12T17:18:59+00:00",
+      "description": "Official upload from Matiullah Jan MJtv"
+    },
+    {
       "id": "a6cFc27uqus",
       "title": "Emergency in KPK? Province Under Army Control | Protests,Clashes & Arrests|Sohail Afridi’s Location",
       "channel": "Sabir Shakir",
@@ -10,6 +21,19 @@
       "date": "2026-10-12",
       "published": "2026-10-12T17:11:55+00:00",
       "description": "Official upload from Sabir Shakir"
+    },
+    {
+      "id": "0Yif1LS-bT4",
+      "title": "Kaisa Yeh Ishq Last Episode 62 [Eng Sub] Zoha Tauqeer - Hashaam Khan | 12th Oct 2026 | HAR PAL GEO",
+      "channel": "Har Pal Geo",
+      "channelId": "harpalgeo",
+      "category": "dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T17:00:05Z",
+      "description": "Verified broadcaster-channel upload",
+      "availableGB": false,
+      "availablePK": true,
+      "embeddable": true
     },
     {
       "id": "I1bu47KkTeE",
@@ -54,6 +78,19 @@
       "date": "2026-10-12",
       "published": "2026-10-12T16:01:38+00:00",
       "description": "Official upload from Matiullah Jan MJtv"
+    },
+    {
+      "id": "QpzPYN2DuEg",
+      "title": "Rutba EP 2 | 12 Oct 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ARY Digital",
+      "channel": "ARY Digital",
+      "channelId": "arydigital",
+      "category": "dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T16:00:08Z",
+      "description": "Verified broadcaster-channel upload",
+      "availableGB": false,
+      "availablePK": true,
+      "embeddable": true
     },
     {
       "id": "q88KV55xKqA",
@@ -369,6 +406,19 @@
       "description": "Official upload from Hasna Mana Hai"
     },
     {
+      "id": "OgVDeLaWZwU",
+      "title": "Kaisa Yeh Ishq 2nd Last Episode 61 [Eng Sub] Zoha Tauqeer - Hashaam Khan | 11th October 2026",
+      "channel": "Har Pal Geo",
+      "channelId": "harpalgeo",
+      "category": "dramas",
+      "date": "2026-10-11",
+      "published": "2026-10-11T17:00:19Z",
+      "description": "Verified broadcaster-channel upload",
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true
+    },
+    {
       "id": "UxLHSxt_XWA",
       "title": "BREAKING NEWS! Governor’s Rule Storm in Pakistan | Maulana Exposes field marshal, Zardari & PML-N",
       "channel": "Sabir Shakir",
@@ -389,6 +439,19 @@
       "date": "2026-10-11",
       "published": "2026-10-11T12:04:55+00:00",
       "description": "Official upload from Sabir Shakir"
+    },
+    {
+      "id": "-OSZ6BfKy8c",
+      "title": "Kaisa Yeh Ishq Episode 60 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Zoha Tauqeer - Hashaam Khan | HAR PAL GEO",
+      "channel": "Har Pal Geo",
+      "channelId": "harpalgeo",
+      "category": "dramas",
+      "date": "2026-10-11",
+      "published": "2026-10-11T12:00:09Z",
+      "description": "Verified broadcaster-channel upload",
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true
     },
     {
       "id": "6C_0f_yPoG8",
@@ -756,5 +819,5 @@
       "description": "Official upload from The Pakistan Experience"
     }
   ],
-  "mode": "feeds"
+  "mode": "youtube"
 }

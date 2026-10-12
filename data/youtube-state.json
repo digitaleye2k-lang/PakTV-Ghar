@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-12",
-  "dailySearches": 8,
+  "dailySearches": 16,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -21,6 +21,76 @@
       "verifiedVia": "published_channel_id"
     }
   },
-  "entries": {},
-  "cursor": 4
+  "entries": {
+    "arydigital-rutba": [
+      {
+        "id": "QpzPYN2DuEg",
+        "title": "Rutba EP 2 | 12 Oct 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ARY Digital",
+        "episode": 2,
+        "date": "2026-10-12",
+        "published": "2026-10-12T16:00:08Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/QpzPYN2DuEg/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:20:21.512502+00:00"
+      }
+    ],
+    "harpalgeo-kaisa-yeh-ishq": [
+      {
+        "id": "0Yif1LS-bT4",
+        "title": "Kaisa Yeh Ishq Last Episode 62 [Eng Sub] Zoha Tauqeer - Hashaam Khan | 12th Oct 2026 | HAR PAL GEO",
+        "episode": 62,
+        "date": "2026-10-12",
+        "published": "2026-10-12T17:00:05Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/0Yif1LS-bT4/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:20:21.512502+00:00"
+      },
+      {
+        "id": "OgVDeLaWZwU",
+        "title": "Kaisa Yeh Ishq 2nd Last Episode 61 [Eng Sub] Zoha Tauqeer - Hashaam Khan | 11th October 2026",
+        "episode": 61,
+        "date": "2026-10-11",
+        "published": "2026-10-11T17:00:19Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/OgVDeLaWZwU/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:20:21.512502+00:00"
+      },
+      {
+        "id": "-OSZ6BfKy8c",
+        "title": "Kaisa Yeh Ishq Episode 60 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Zoha Tauqeer - Hashaam Khan | HAR PAL GEO",
+        "episode": 60,
+        "date": "2026-10-11",
+        "published": "2026-10-11T12:00:09Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/-OSZ6BfKy8c/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:20:21.512502+00:00"
+      }
+    ]
+  },
+  "cursor": 8,
+  "apiValidated": true
 }
