@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T22:29:53.922107+05:00",
+  "generatedAt": "2026-10-12T22:30:41.896233+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "tvToday": {
@@ -131,7 +131,17 @@
     },
     "hum-bombay-tailors": {
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/blobglammagazi001441984f/Hum_Tv/uploads/2022/01/Bombay-Tailors-500.jpg.jpg",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 27,
+        "id": "nDzoy9No8WE",
+        "title": "Bombay Tailors - Episode 27 [Eng Sub] 12th Oct 2026 [ Anika Zulfikar & Ali Ansari ] - HUM TV",
+        "date": "2026-10-12",
+        "source": "Official YouTube upload",
+        "availableGB": false,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "arydigital-dar-e-nijaat": {
       "lastAttempt": "2026-10-12T20:10:58.068142+05:00",
@@ -155,7 +165,17 @@
     },
     "hum-hurmat": {
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/10/Hurmat-5002.jpg.jpg",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 3,
+        "id": "uY8hogzkLB8",
+        "title": "Hurmat - Episode 03 - [Eng Sub] 12th Oct 2026 - [ Dananeer Mobeen & Shahveer Jafry ] - HUM TV",
+        "date": "2026-10-12",
+        "source": "Official YouTube upload",
+        "availableGB": false,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "arydigital-izzat": {
       "lastAttempt": "2026-10-12T20:10:58.069050+05:00",
@@ -167,7 +187,17 @@
     },
     "hum-khushi": {
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Khushi-500.jpg.jpg",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 30,
+        "id": "cHKT6woUT0Y",
+        "title": "Khushi - Episode 30 - [Eng Sub] 12th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "date": "2026-10-12",
+        "source": "Official YouTube upload",
+        "availableGB": false,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "arydigital-main-tera": {
       "lastAttempt": "2026-10-12T20:10:58.070361+05:00",
