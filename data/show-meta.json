@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T20:11:01.206455+05:00",
+  "generatedAt": "2026-10-12T20:13:30.082232+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "tvToday": {
@@ -431,6 +431,213 @@
     },
     "harpalgeo-jaan-se-pyara-juni": {
       "lastAttempt": "2026-10-12T20:11:00.496828+05:00"
+    },
+    "arydigital-jaan-e-jahan": {
+      "lastAttempt": "2026-10-12T20:13:27.715764+05:00",
+      "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2F280x400_1762277879208_10ef843de3.webp&w=1920&q=75",
+      "posterSource": "Official broadcaster"
+    },
+    "hum-jafaa": {
+      "lastAttempt": "2026-10-12T20:13:27.716222+05:00"
+    },
+    "arydigital-jalan": {
+      "lastAttempt": "2026-10-12T20:13:27.716464+05:00",
+      "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_f3ca0f7646.jpg&w=1920&q=75",
+      "posterSource": "Official broadcaster"
+    },
+    "arydigital-jeeto-pakistan": {
+      "lastAttempt": "2026-10-12T20:13:27.716669+05:00",
+      "fetchWarning": "HTTPError"
+    },
+    "harpalgeo-jhoom": {
+      "lastAttempt": "2026-10-12T20:13:27.717531+05:00",
+      "poster": "https://harpalgeo.tv/assets/uploads/programs/518_7556387_programs.jpg",
+      "posterSource": "Official broadcaster",
+      "latestPublisherEpisode": 14,
+      "latestPublisherLabel": "Highest full episode listed on broadcaster website",
+      "latestPublisherSource": "https://harpalgeo.tv/program/Jhoom"
+    },
+    "arydigital-kabhi-main-kabhi-tum": {
+      "lastAttempt": "2026-10-12T20:13:27.717957+05:00",
+      "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FKabhi_mein_kabhi_tum_Poster_jpg_416e28ac0d.jpeg&w=1920&q=75",
+      "posterSource": "Official broadcaster"
+    },
+    "harpalgeo-kaffara": {
+      "lastAttempt": "2026-10-12T20:13:27.718381+05:00",
+      "poster": "https://harpalgeo.tv/assets/uploads/programs/564_276639_programs.jpg",
+      "posterSource": "Official broadcaster",
+      "latestPublisherEpisode": 88,
+      "latestPublisherLabel": "Highest full episode listed on broadcaster website",
+      "latestPublisherSource": "https://harpalgeo.tv/program/Kaffara"
+    },
+    "arydigital-kaisi-teri-khudgarzi": {
+      "lastAttempt": "2026-10-12T20:13:27.718792+05:00",
+      "fetchWarning": "HTTPError"
+    },
+    "harpalgeo-khaali-haath": {
+      "lastAttempt": "2026-10-12T20:13:27.719153+05:00"
+    },
+    "harpalgeo-khaani": {
+      "lastAttempt": "2026-10-12T20:13:27.719550+05:00",
+      "poster": "https://harpalgeo.tv/assets/uploads/programs/231_908914_programs.jpg",
+      "posterSource": "Official broadcaster",
+      "latestPublisherEpisode": 30,
+      "latestPublisherLabel": "Highest full episode listed on broadcaster website",
+      "latestPublisherSource": "https://harpalgeo.tv/program/Khaani"
+    },
+    "dunya-khabaryar": {
+      "lastAttempt": "2026-10-12T20:13:27.719964+05:00"
+    },
+    "dunya-khabarzar": {
+      "lastAttempt": "2026-10-12T20:13:27.720935+05:00"
+    },
+    "harpalgeo-khuda-aur-muhabbat-3": {
+      "lastAttempt": "2026-10-12T20:13:27.720976+05:00"
+    },
+    "hum-kuch-ankahi": {
+      "lastAttempt": "2026-10-12T20:13:27.913466+05:00"
+    },
+    "arydigital-kuch-ankahi": {
+      "lastAttempt": "2026-10-12T20:13:27.913486+05:00",
+      "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1761674823187_6f96d72e5a.webp&w=1920&q=75",
+      "posterSource": "Official broadcaster"
+    },
+    "arydigital-loose-talk": {
+      "lastAttempt": "2026-10-12T20:13:27.920252+05:00",
+      "fetchWarning": "HTTPError"
+    },
+    "harpalgeo-mann-mast-malang": {
+      "lastAttempt": "2026-10-12T20:13:27.920768+05:00"
+    },
+    "hum-mann-mayal": {
+      "lastAttempt": "2026-10-12T20:13:28.097705+05:00"
+    },
+    "harpalgeo-mannat-murad": {
+      "lastAttempt": "2026-10-12T20:13:28.097725+05:00"
+    },
+    "harpalgeo-mast-mohabbat": {
+      "lastAttempt": "2026-10-12T20:13:28.112839+05:00"
+    },
+    "arydigital-mayi-ri": {
+      "lastAttempt": "2026-10-12T20:13:28.129706+05:00",
+      "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2F280x400_1761310383206_fd29d4c15c.webp&w=1920&q=75",
+      "posterSource": "Official broadcaster"
+    },
+    "hum-meem-se-mohabbat": {
+      "lastAttempt": "2026-10-12T20:13:28.195951+05:00"
+    },
+    "harpalgeo-mere-humnasheen": {
+      "lastAttempt": "2026-10-12T20:13:28.195977+05:00"
+    },
+    "arydigital-mere-humsafar": {
+      "lastAttempt": "2026-10-12T20:13:28.355389+05:00",
+      "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2F280_x_400_1726139090900_728605f12a.jpg&w=1920&q=75",
+      "posterSource": "Official broadcaster"
+    },
+    "harpalgeo-mohabbat-tumse-nafrat-hai": {
+      "lastAttempt": "2026-10-12T20:13:28.474444+05:00"
+    },
+    "harpalgeo-mushk": {
+      "lastAttempt": "2026-10-12T20:13:28.504684+05:00"
+    },
+    "hum-nadaan": {
+      "lastAttempt": "2026-10-12T20:13:28.536418+05:00"
+    },
+    "arydigital-noor-jahan": {
+      "lastAttempt": "2026-10-12T20:13:28.536440+05:00",
+      "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2F280x400_1784033838692_88fa5bf15f.webp&w=1920&q=75",
+      "posterSource": "Official broadcaster"
+    },
+    "hum-parizaad": {
+      "lastAttempt": "2026-10-12T20:13:28.562108+05:00"
+    },
+    "arydigital-pehli-si-muhabbat": {
+      "lastAttempt": "2026-10-12T20:13:28.562135+05:00",
+      "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1765895627656_604909cfd2.webp&w=1920&q=75",
+      "posterSource": "Official broadcaster"
+    },
+    "hum-pyar-ke-sadqay": {
+      "lastAttempt": "2026-10-12T20:13:28.676461+05:00"
+    },
+    "harpalgeo-qalandar": {
+      "lastAttempt": "2026-10-12T20:13:28.676488+05:00",
+      "poster": "https://harpalgeo.tv/assets/uploads/programs/495_7353401_programs.jpg",
+      "posterSource": "Official broadcaster",
+      "latestPublisherEpisode": 58,
+      "latestPublisherLabel": "Highest full episode listed on broadcaster website",
+      "latestPublisherSource": "https://harpalgeo.tv/program/Qalandar"
+    },
+    "arydigital-quddusi-sahab-ki-bewah": {
+      "lastAttempt": "2026-10-12T20:13:28.734049+05:00",
+      "fetchWarning": "HTTPError"
+    },
+    "arydigital-qurban": {
+      "lastAttempt": "2026-10-12T20:13:28.757764+05:00",
+      "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1761152025381_02696eafab.webp&w=1920&q=75",
+      "posterSource": "Official broadcaster"
+    },
+    "harpalgeo-radd": {
+      "lastAttempt": "2026-10-12T20:13:28.798415+05:00"
+    },
+    "hum-ranjha-ranjha-kardi": {
+      "lastAttempt": "2026-10-12T20:13:28.894718+05:00"
+    },
+    "hum-raqs-e-bismil": {
+      "lastAttempt": "2026-10-12T20:13:28.894738+05:00"
+    },
+    "harpalgeo-ruposh": {
+      "lastAttempt": "2026-10-12T20:13:28.894750+05:00",
+      "poster": "https://harpalgeo.tv/assets/uploads/programs/462_2687322_programs.jpg",
+      "posterSource": "Official broadcaster"
+    },
+    "hum-sang-e-mah": {
+      "lastAttempt": "2026-10-12T20:13:28.931277+05:00"
+    },
+    "dunya-seeti-41": {
+      "lastAttempt": "2026-10-12T20:13:28.931298+05:00"
+    },
+    "harpalgeo-sirf-tum": {
+      "lastAttempt": "2026-10-12T20:13:28.931309+05:00"
+    },
+    "harpalgeo-siyani": {
+      "lastAttempt": "2026-10-12T20:13:28.960073+05:00",
+      "poster": "https://harpalgeo.tv/assets/uploads/programs/486_2692934_programs.jpg",
+      "posterSource": "Official broadcaster",
+      "latestPublisherEpisode": 140,
+      "latestPublisherLabel": "Highest full episode listed on broadcaster website",
+      "latestPublisherSource": "https://harpalgeo.tv/program/Siyani"
+    },
+    "arydigital-sukoon": {
+      "lastAttempt": "2026-10-12T20:13:29.043319+05:00",
+      "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1758557233183_0c269f80fa.webp&w=1920&q=75",
+      "posterSource": "Official broadcaster"
+    },
+    "hum-suno-chanda": {
+      "lastAttempt": "2026-10-12T20:13:29.050552+05:00"
+    },
+    "hum-suno-chanda-2": {
+      "lastAttempt": "2026-10-12T20:13:29.050573+05:00"
+    },
+    "harpalgeo-tere-aany-se": {
+      "lastAttempt": "2026-10-12T20:13:29.050586+05:00"
+    },
+    "harpalgeo-tere-bin": {
+      "lastAttempt": "2026-10-12T20:13:29.051536+05:00"
+    },
+    "harpalgeo-tere-bin-2": {
+      "lastAttempt": "2026-10-12T20:13:29.051724+05:00"
+    },
+    "geonews-the-shareef-show-mubarak-ho": {
+      "lastAttempt": "2026-10-12T20:13:29.083799+05:00"
+    },
+    "hum-udaari": {
+      "lastAttempt": "2026-10-12T20:13:29.083820+05:00"
+    },
+    "hum-yaqeen-ka-safar": {
+      "lastAttempt": "2026-10-12T20:13:29.083832+05:00"
+    },
+    "hum-zindagi-gulzar-hai": {
+      "lastAttempt": "2026-10-12T20:13:29.083842+05:00"
     }
   },
   "notes": "Episode numbers have labelled sources. A TV broadcast or programme page is not confirmation of a playable upload."
