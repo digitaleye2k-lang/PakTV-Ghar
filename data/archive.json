@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-12T19:21:23.302279+00:00",
+  "generatedAt": "2026-10-12T19:49:16.697964+00:00",
   "dateTimezone": "UTC",
-  "cursor": 20,
+  "cursor": 32,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -91,56 +91,56 @@
       "uploadsId": "UUuqBZWK9Wrol_4Y22DzisFQ",
       "handle": "FoodfusionPk",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T19:16:08.031327+00:00"
+      "lastFetchedAt": "2026-10-12T19:49:16.697964+00:00"
     },
     "samaa": {
       "youtubeId": "UCJekW1Vj5fCVEGdye_mBN6Q",
       "uploadsId": "UUJekW1Vj5fCVEGdye_mBN6Q",
       "handle": "SAMAATV",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T19:16:08.031327+00:00"
+      "lastFetchedAt": "2026-10-12T19:49:16.697964+00:00"
     },
     "hasbehaal": {
       "youtubeId": "UCyiJNpF7RgpPhyeKc4wnQkg",
       "uploadsId": "UUyiJNpF7RgpPhyeKc4wnQkg",
       "handle": "hasbehaalofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T19:16:08.031327+00:00"
+      "lastFetchedAt": "2026-10-12T19:49:16.697964+00:00"
     },
     "pakexperience": {
       "youtubeId": "UC44l9XMwecN5nSgIF2Dvivg",
       "uploadsId": "UU44l9XMwecN5nSgIF2Dvivg",
       "handle": "ThePakistanExperience",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T19:16:08.031327+00:00"
+      "lastFetchedAt": "2026-10-12T19:49:16.697964+00:00"
     },
     "maaz": {
       "youtubeId": "UCz0M2pV4jOUUQ88lOd2q08A",
       "uploadsId": "UUz0M2pV4jOUUQ88lOd2q08A",
       "handle": "MaazSafderWorld",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T19:18:15.473241+00:00"
+      "lastFetchedAt": "2026-10-12T19:49:16.697964+00:00"
     },
     "matiullah": {
       "youtubeId": "UC-hJ0cobUiWlBFTHgLwt8sQ",
       "uploadsId": "UU-hJ0cobUiWlBFTHgLwt8sQ",
       "handle": "MatiullahJanMJtv",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T19:18:15.473241+00:00"
+      "lastFetchedAt": "2026-10-12T19:49:16.697964+00:00"
     },
     "p4pakao": {
       "youtubeId": "UCI9tIvSPsdxNEICjZk7ujUA",
       "uploadsId": "UUI9tIvSPsdxNEICjZk7ujUA",
       "handle": "p4pakaoofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T19:18:15.473241+00:00"
+      "lastFetchedAt": "2026-10-12T19:49:16.697964+00:00"
     },
     "dawnnews": {
       "youtubeId": "UCaxR-D8FjZ-2otbU0_Y2grg",
       "uploadsId": "UUaxR-D8FjZ-2otbU0_Y2grg",
       "handle": "dawnnewspakistan",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T19:18:15.473241+00:00"
+      "lastFetchedAt": "2026-10-12T19:49:16.697964+00:00"
     },
     "irfanjunejo": {
       "youtubeId": "UCUuDUW0Y6IQZYDvH1QQBsgA",
@@ -231,14 +231,14 @@
       "uploadsId": "UU2m98kh188cg_9x248IZM9A",
       "handle": "aajentertainment",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-12T19:16:08.031327+00:00"
+      "lastFetchedAt": "2026-10-12T19:49:16.697964+00:00"
     },
     "mooroo": {
       "youtubeId": "UC-rP-oFlxQGpSLYHBlhIWkg",
       "uploadsId": "UU-rP-oFlxQGpSLYHBlhIWkg",
       "handle": "mooroosicity",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-12T19:16:08.031327+00:00"
+      "lastFetchedAt": "2026-10-12T19:49:16.697964+00:00"
     },
     "aryfilms": {
       "youtubeId": "UC2PYniNHljOED9xNaMpiMiQ",
@@ -256,6 +256,132 @@
     }
   },
   "videos": [
+    {
+      "id": "_L2g3GUk-_A",
+      "title": "Emergency in KP | Sohail Afridi Arrested | Shaukat Ali Yousafzai Exclusive Talk with Nadeem Malik",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "talk",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T19:45:17Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 867,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/_L2g3GUk-_A/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "xvS9Q64v9Xw",
+      "title": "Govt Announces Drop in Petrol Prices | Dawn News Headlines: 12 AM",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T19:40:26Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 847,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/xvS9Q64v9Xw/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "IUkXK9ee4SE",
+      "title": "KP Governor, Interior Minister Chair High Level Apex Meeting | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T19:35:38Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 143,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/IUkXK9ee4SE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "VIxqCKZO_Y8",
+      "title": "Emergency, Governor’s Rule in KP | Shahzad Chaudhry Slams Sohail Afridi | Samaa TV",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T19:30:27Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 536,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/VIxqCKZO_Y8/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "xO8UIt0IIzw",
+      "title": "Shaukat Yousafzai Takes a U-Turn on His Statement About Resigning from Assemblies | Samaa TV",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T19:30:10Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 98,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/xO8UIt0IIzw/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "aa7O_F-sYUU",
+      "title": "Emergency in KP| New Petrol Price | Jantar Mantar Protest in India | 12 AM News Headlines | Samaa TV",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T19:21:55Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 649,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/aa7O_F-sYUU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "uLieOO8dn94",
+      "title": "Governor’s Rule Is Bad, but Better Than Hooliganism, Thuggery and Drug Mafia Rule: Ikhtiar Wali Khan",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T19:18:21Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 180,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/uLieOO8dn94/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
     {
       "id": "BUFN7B2SnhE",
       "title": "Emergency in KP | Sohail Afridi out | Senior Journalist Nadeem Malik Lashes out at PML-N",
@@ -54095,6 +54221,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Imran Riaz Khan: channel unavailable",
+  "lastError": "Junaid Akram: channel unavailable; Express News: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
