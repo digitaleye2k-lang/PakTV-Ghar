@@ -1,56 +1,4 @@
 {
-  "hum-khushi": {
-    "episodes": [
-      {
-        "id": "cHKT6woUT0Y",
-        "title": "Khushi - Episode 30 - [Eng Sub] 12th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 30,
-        "date": "2026-10-12",
-        "published": "2026-10-12T15:00:05Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": false,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/cHKT6woUT0Y/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      },
-      {
-        "id": "4qgcZlaUMX4",
-        "title": "Khushi - Episode 29 Highlight - 12th Oct 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
-        "episode": 29,
-        "date": "2026-10-12",
-        "published": "2026-10-12T12:00:34Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/4qgcZlaUMX4/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      },
-      {
-        "id": "-7COdwR1U9Y",
-        "title": "Khushi - Episode 29 - [Eng Sub] 11th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 29,
-        "date": "2026-10-11",
-        "published": "2026-10-11T15:00:20Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/-7COdwR1U9Y/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      }
-    ]
-  },
   "hum-hurmat": {
     "episodes": [
       {
@@ -113,14 +61,6 @@
         "title": "Izzat Episode 23 | 12 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
         "episode": 23,
         "id": "3DKwOWGVLr4",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-12"
-      },
-      {
-        "title": "Izzat Episode 23 | 12 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 23,
-        "id": "ZnQjUrNJrEU",
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-10-12"
@@ -204,74 +144,6 @@
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-12"
-      }
-    ]
-  },
-  "harpalgeo-uswa": {
-    "episodes": [
-      {
-        "id": "7mpQfSZvLZE",
-        "title": "Uswah Episode 20 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 12th October 2026",
-        "episode": 20,
-        "date": "2026-10-12",
-        "published": "2026-10-12T15:00:13Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": false,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/7mpQfSZvLZE/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
-      },
-      {
-        "id": "WLwsbzPb4hI",
-        "title": "Uswah Episode 19 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 11th October 2026",
-        "episode": 19,
-        "date": "2026-10-11",
-        "published": "2026-10-11T15:00:32Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/WLwsbzPb4hI/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
-      },
-      {
-        "id": "2iuXpAXNhVg",
-        "title": "Uswah Episode 18 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 10th October 2026",
-        "episode": 18,
-        "date": "2026-10-10",
-        "published": "2026-10-10T15:00:35Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/2iuXpAXNhVg/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
-      },
-      {
-        "id": "gdBUOTcp3KQ",
-        "title": "Uswah Episode 17 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 9th October 2026",
-        "episode": 17,
-        "date": "2026-10-09",
-        "published": "2026-10-09T15:00:35Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/gdBUOTcp3KQ/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
       }
     ]
   },
@@ -415,6 +287,74 @@
       }
     ]
   },
+  "harpalgeo-uswa": {
+    "episodes": [
+      {
+        "id": "7mpQfSZvLZE",
+        "title": "Uswah Episode 20 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 12th October 2026",
+        "episode": 20,
+        "date": "2026-10-12",
+        "published": "2026-10-12T15:00:13Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/7mpQfSZvLZE/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
+      },
+      {
+        "id": "WLwsbzPb4hI",
+        "title": "Uswah Episode 19 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 11th October 2026",
+        "episode": 19,
+        "date": "2026-10-11",
+        "published": "2026-10-11T15:00:32Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/WLwsbzPb4hI/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
+      },
+      {
+        "id": "2iuXpAXNhVg",
+        "title": "Uswah Episode 18 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 10th October 2026",
+        "episode": 18,
+        "date": "2026-10-10",
+        "published": "2026-10-10T15:00:35Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/2iuXpAXNhVg/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
+      },
+      {
+        "id": "gdBUOTcp3KQ",
+        "title": "Uswah Episode 17 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 9th October 2026",
+        "episode": 17,
+        "date": "2026-10-09",
+        "published": "2026-10-09T15:00:35Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/gdBUOTcp3KQ/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
+      }
+    ]
+  },
   "hum-aangan": {
     "episodes": [
       {
@@ -432,6 +372,58 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/K1SHRLAXBuE/hqdefault.jpg",
         "checkedAt": "2026-10-12T17:29:47.310917+00:00"
+      }
+    ]
+  },
+  "hum-khushi": {
+    "episodes": [
+      {
+        "id": "cHKT6woUT0Y",
+        "title": "Khushi - Episode 30 - [Eng Sub] 12th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 30,
+        "date": "2026-10-12",
+        "published": "2026-10-12T15:00:05Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/cHKT6woUT0Y/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
+      },
+      {
+        "id": "4qgcZlaUMX4",
+        "title": "Khushi - Episode 29 Highlight - 12th Oct 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
+        "episode": 29,
+        "date": "2026-10-12",
+        "published": "2026-10-12T12:00:34Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/4qgcZlaUMX4/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
+      },
+      {
+        "id": "-7COdwR1U9Y",
+        "title": "Khushi - Episode 29 - [Eng Sub] 11th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 29,
+        "date": "2026-10-11",
+        "published": "2026-10-11T15:00:20Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/-7COdwR1U9Y/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
       }
     ]
   },

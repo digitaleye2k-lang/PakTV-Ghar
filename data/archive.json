@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-12T18:17:22.132649+00:00",
+  "generatedAt": "2026-10-12T18:18:06.798059+00:00",
   "dateTimezone": "UTC",
-  "cursor": 7,
+  "cursor": 19,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -56,35 +56,35 @@
       "uploadsId": "UUt8NJjYKc2aT3T0TnbcWxSw",
       "handle": "streetfoodpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T18:07:04.937589+00:00"
+      "lastFetchedAt": "2026-10-12T18:18:06.798059+00:00"
     },
     "hum": {
       "youtubeId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
       "uploadsId": "UUEeEQxm6qc_qaTE7qTV5aLQ",
       "handle": "HUMTV",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T18:07:04.937589+00:00"
+      "lastFetchedAt": "2026-10-12T18:18:06.798059+00:00"
     },
     "arydigital": {
       "youtubeId": "UC4JCksJF76g_MdzPVBJoC3Q",
       "uploadsId": "UU4JCksJF76g_MdzPVBJoC3Q",
       "handle": "ARYDigitalasia",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T18:07:04.937589+00:00"
+      "lastFetchedAt": "2026-10-12T18:18:06.798059+00:00"
     },
     "sabir": {
       "youtubeId": "UCY7eFg5TEMsk_aTqM0pVB4w",
       "uploadsId": "UUY7eFg5TEMsk_aTqM0pVB4w",
       "handle": "sabirshakirpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T18:07:04.937589+00:00"
+      "lastFetchedAt": "2026-10-12T18:18:06.798059+00:00"
     },
     "harpalgeo": {
       "youtubeId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
       "uploadsId": "UUe9JSDmyqNgA_l2BzGHq1Ug",
       "handle": "HarPalGeoOfficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T18:08:44.181827+00:00"
+      "lastFetchedAt": "2026-10-12T18:18:06.798059+00:00"
     },
     "foodfusion": {
       "youtubeId": "UCuqBZWK9Wrol_4Y22DzisFQ",
@@ -196,42 +196,42 @@
       "uploadsId": "UUF2ltLX1dnPa6-L1paPaMzw",
       "handle": "GreenEntertainmentTV",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-12T18:08:44.181827+00:00"
+      "lastFetchedAt": "2026-10-12T18:18:06.798059+00:00"
     },
     "ptvhome": {
       "youtubeId": "UCMfwlaPLGMn44BKvHv15yzA",
       "uploadsId": "UUMfwlaPLGMn44BKvHv15yzA",
       "handle": "PTVHomeEntertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-12T18:08:44.181827+00:00"
+      "lastFetchedAt": "2026-10-12T18:18:06.798059+00:00"
     },
     "expressent": {
       "youtubeId": "UCU1r97baEf3JJI5fY6NtMpA",
       "uploadsId": "UUU1r97baEf3JJI5fY6NtMpA",
       "handle": "expressentertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-12T18:08:44.181827+00:00"
+      "lastFetchedAt": "2026-10-12T18:18:06.798059+00:00"
     },
     "ptvnews": {
       "youtubeId": "UC5RvV_LtR1dxPCVFGw6dxXA",
       "uploadsId": "UU5RvV_LtR1dxPCVFGw6dxXA",
       "handle": "PTVNewsOfficial",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-12T18:08:44.181827+00:00"
+      "lastFetchedAt": "2026-10-12T18:18:06.798059+00:00"
     },
     "aajnews": {
       "youtubeId": "UCgBAPAcLsh_MAPvJprIz89w",
       "uploadsId": "UUgBAPAcLsh_MAPvJprIz89w",
       "handle": "aajtvofficial",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-12T18:08:44.181827+00:00"
+      "lastFetchedAt": "2026-10-12T18:18:06.798059+00:00"
     },
     "aajent": {
       "youtubeId": "UC2m98kh188cg_9x248IZM9A",
       "uploadsId": "UU2m98kh188cg_9x248IZM9A",
       "handle": "aajentertainment",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-12T18:08:44.181827+00:00"
+      "lastFetchedAt": "2026-10-12T18:18:06.798059+00:00"
     },
     "mooroo": {
       "youtubeId": "UC-rP-oFlxQGpSLYHBlhIWkg",
@@ -242,6 +242,60 @@
     }
   },
   "videos": [
+    {
+      "id": "EYVAVJPTizM",
+      "title": "Khushi Mujh Se Pyar Nahi Karti Thi...! ft. Sumaiyya Bukhsh &  Mariam Ejaz - HUM TV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:15:40Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 146,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/EYVAVJPTizM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "WJF_bz5UCjY",
+      "title": "Ammara Hum Logo Se Inteqam Lene Ayi Hai | Hiba Aziz - Danial Afzal | Dastoor | Green TV",
+      "channel": "Green Entertainment",
+      "channelId": "greentv",
+      "youtubeChannelId": "UCF2ltLX1dnPa6-L1paPaMzw",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:15:20Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 191,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/WJF_bz5UCjY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "RVkCQ32ablU",
+      "title": "Har Banda Bas Trend Ke Peechay Bhag Raha Hai...! #BombayTailors #humtv",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:15:16Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 130,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/RVkCQ32ablU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
     {
       "id": "mpnkVE4PwNs",
       "title": "Gold Medalist Student Case | New Questions Emerge as Investigation Continues",
@@ -258,6 +312,42 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/mpnkVE4PwNs/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "6v_yaSHfzv0",
+      "title": "Aaj Apko Aur Bhabhi ko Dinner Par Jana Chahiye | Humayoun Ashraf - Sumaiyya Bukhsh | Madaar",
+      "channel": "Green Entertainment",
+      "channelId": "greentv",
+      "youtubeChannelId": "UCF2ltLX1dnPa6-L1paPaMzw",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:10:39Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 146,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/6v_yaSHfzv0/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "c5L3svxr6ws",
+      "title": "Finally Ameer Hogaye! 🤑💸 | Momo | Khoobsurat | Bulbulay | Non Stop Comedy",
+      "channel": "ARY Digital",
+      "channelId": "arydigital",
+      "youtubeChannelId": "UC4JCksJF76g_MdzPVBJoC3Q",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:10:37Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1156,
+      "availableGB": false,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/c5L3svxr6ws/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -52407,6 +52497,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable; Dunya News: HTTP 404: playlistNotFound",
+  "lastError": "Imran Riaz Khan: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
