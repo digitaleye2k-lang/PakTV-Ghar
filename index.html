@@ -346,7 +346,8 @@ function spotlightChoices(){
 function spotlightFallback(){
   const seed=SEED_VIDEOS.find(v=>v.category==='dramas')||SEED_VIDEOS[0];
   return '<div class="spotlight-slide is-active" aria-hidden="false">'+
-    '<div class="spotlight-art"><img src="'+escapeHTML(thumb(seed.id))+'" alt="" fetchpriority="high"></div>'+
+    '<div class="spotlight-art"><img class="spotlight-backdrop" src="'+escapeHTML(thumb(seed.id))+'" alt="" fetchpriority="high">'+
+    '<img class="spotlight-feature-art" src="'+escapeHTML(thumb(seed.id))+'" alt="" loading="eager"></div>'+
     '<div class="spotlight-shade"></div><div class="spotlight-slide-inner">'+
     '<span class="spotlight-kicker"><span>✦ PAKTV GHAR</span> YOUR PAKISTANI TV HOME</span>'+
     '<h1>Every story.<br>One beautiful place.</h1>'+
@@ -366,9 +367,12 @@ function hero(){
     const background=meta.poster;
     return '<article class="spotlight-slide'+(active?' is-active':'')+'" data-spotlight-slide="'+i+'" '+
       'aria-hidden="'+(!active)+'"'+(active?'':' inert')+'>'+
-      '<div class="spotlight-art"><img src="'+escapeHTML(background)+'" alt="" '+
+      '<div class="spotlight-art"><img class="spotlight-backdrop" src="'+escapeHTML(background)+'" alt="" '+
       (i===0?'fetchpriority="high" loading="eager"':'loading="lazy"')+
-      ' decoding="async" referrerpolicy="no-referrer" onerror="this.style.opacity=0"></div>'+
+      ' decoding="async" referrerpolicy="no-referrer" onerror="this.style.opacity=0">'+
+      '<img class="spotlight-feature-art" src="'+escapeHTML(background)+'" alt="" '+
+      (i===0?'loading="eager"':'loading="lazy"')+
+      ' decoding="async" referrerpolicy="no-referrer" onerror="this.style.display=\'none\'"></div>'+
       '<div class="spotlight-shade"></div><div class="spotlight-slide-inner">'+
       '<span class="spotlight-kicker"><span>✦ FEATURED DRAMA</span> '+escapeHTML(label)+'</span>'+
       '<h1>'+escapeHTML(show.name)+'</h1>'+
