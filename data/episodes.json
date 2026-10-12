@@ -55,18 +55,6 @@
       }
     ]
   },
-  "arydigital-izzat": {
-    "episodes": [
-      {
-        "title": "Izzat Episode 23 | 12 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 23,
-        "id": "3DKwOWGVLr4",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-12"
-      }
-    ]
-  },
   "arydigital-rutba": {
     "episodes": [
       {
@@ -222,6 +210,18 @@
         "episode": null,
         "id": "G5wmeyRgSmo",
         "source": "Geo News",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      }
+    ]
+  },
+  "arydigital-bulbulay": {
+    "episodes": [
+      {
+        "title": "Finally Ameer Hogaye! 🤑💸 | Momo | Khoobsurat | Bulbulay | Non Stop Comedy",
+        "episode": null,
+        "id": "c5L3svxr6ws",
+        "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-10-12"
       }
