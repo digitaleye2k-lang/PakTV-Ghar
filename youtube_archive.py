@@ -18,6 +18,13 @@ PAGES_PER_CHANNEL = 3
 PER_CHANNEL_LIMIT = 220
 ARCHIVE_RETENTION_DAYS = 365
 MAX_ARCHIVE_VIDEOS = 4400
+MOVIE_ARCHIVE_RETENTION_DAYS = 3650
+# Publisher-uploaded full films / feature-length telefilms, not teasers or
+# arbitrary third-party copies. A label alone does not prove worldwide rights.
+MOVIE_TITLE = re.compile(r'\b(?:full\s+(?:pakistani\s+)?(?:movie|film)|(?:movie|film)\s+full|complete\s+(?:movie|film)|tele[ -]?film)\b', re.I)
+NOT_MOVIE = re.compile(r'\b(?:trailer|teaser|promo|review|reaction|ost|soundtrack|song|behind\s+the\s+scenes|highlights|shorts|episode\s*\d+)\b', re.I)
+MOVIE_SEED_IDS = {'aryfilms': ('htZXQ5wIxAg',)}  # Sharpasand, publisher-owned ARY Films upload.
+
 PROGRAMMES = (
     'capital talk', 'off the record', 'aaj shahzeb khanzada', 'kal tak',
     'the reporters', '11th hour', '11th hour with waseem badami',
@@ -78,6 +85,12 @@ def normalise_video(resource, channel):
     # shorter than a full drama episode so don't apply a blanket 10m cutoff.
     if seconds < 95:
         return None
+    if channel['category'] == 'movies':
+        # Enforce full-length videos listed by the source as movies/telefilms.
+        # A TV-drama compilation titled "Full Movie" is labelled as such,
+        # not represented as an independent theatrical release.
+        if seconds < 60*60 or NOT_MOVIE.search(title) or not MOVIE_TITLE.search(title):
+            return None
     return {
         'id': vid, 'title': title, 'channel': channel['name'],
         'channelId': channel['id'], 'youtubeChannelId': channel['youtubeId'],
@@ -98,8 +111,10 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
     previous = previous or {}
     entries = {}
     earliest = (now - timedelta(days=ARCHIVE_RETENTION_DAYS)).date().isoformat()
+    movie_earliest = (now - timedelta(days=MOVIE_ARCHIVE_RETENTION_DAYS)).date().isoformat()
     for v in previous.get('videos', []):
-        if VIDEO_ID.fullmatch(v.get('id','')) and v.get('date','') >= earliest:
+        threshold = movie_earliest if v.get('category') == 'movies' else earliest
+        if VIDEO_ID.fullmatch(v.get('id','')) and v.get('date','') >= threshold:
             entries[v['id']] = v
     cache = dict(previous.get('channels') or {})
     start = int(previous.get('cursor', 0)) % len(CHANNELS)
@@ -148,13 +163,15 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
                     if VIDEO_ID.fullmatch(vid): candidates.add(vid)
                 page_token=page.get('nextPageToken') or ''
                 if not page_token:break
+            if source['category'] == 'movies':
+                candidates.update(v for v in MOVIE_SEED_IDS.get(sid, ()) if VIDEO_ID.fullmatch(v))
             for ids in [sorted(candidates)[i:i+50] for i in range(0,len(candidates),50)]:
                 video_batch = youtube_json('videos', {
                     'part':'snippet,status,contentDetails', 'id': ','.join(ids)
                 }, key, transport)
                 for v in video_batch.get('items',[]):
                     converted = normalise_video(v,entry)
-                    if converted and converted['date'] >= earliest:
+                    if converted and converted['date'] >= (movie_earliest if converted['category']=='movies' else earliest):
                         entries[converted['id']] = converted
                         checked_with_videos += 1
             cache[sid]['lastFetchedAt'] = now.isoformat()
