@@ -43,6 +43,18 @@
 .legal-footer strong{color:#e5ebf8;font-weight:700}
 .legal-footer .legal-footer-actions{margin-bottom:0}
 .legal-footer a{color:#ffbe78;text-decoration:underline;text-underline-offset:3px;font-weight:700}
+
+/* Sponsor placements: visually separate advertising from the video catalogue. */
+.ad-placement{margin:18px max(38px,4vw) 22px;padding:14px 18px;background:#10182a;border:1px solid #28354d;border-radius:16px;min-width:0}
+.ad-placement-top{display:flex;flex-direction:column;align-items:center;gap:8px}
+.ad-placement-bottom{display:flex;flex-direction:column;align-items:center;gap:14px;text-align:center}
+.ad-label{display:block;text-transform:uppercase;letter-spacing:1.3px;font-size:10px;font-weight:800;color:#93a4c0}
+.ad-banner-scroll{width:100%;max-width:100%;overflow-x:auto;overflow-y:hidden;display:flex;justify-content:safe center}
+.ad-banner-fixed{width:468px;min-width:468px;min-height:60px;flex:none}
+.ad-native-slot{width:100%;max-width:980px;min-height:80px}
+.ad-placement a.sponsored-link{display:inline-block;font-size:13px;font-weight:700;color:#ffbe78;text-decoration:underline;text-underline-offset:3px;line-height:1.6}
+.ad-placement small{font-size:11px;color:#95a5c0;line-height:1.4}
+@media(max-width:680px){.ad-placement{margin:12px 14px 20px;padding:14px 10px}.ad-banner-scroll{justify-content:flex-start}}
 </style>
 
 
@@ -73,7 +85,37 @@
       <button type="button" class="top-favs" id="topFavourites" aria-label="See favourites">♡ <span>Favourites</span></button>
     </header>
 
+    <!-- Sponsored display placement; 468px creative scrolls safely on narrow screens. -->
+    <section class="ad-placement ad-placement-top" aria-label="Advertisement">
+      <span class="ad-label">Advertisement</span>
+      <div class="ad-banner-scroll">
+        <div class="ad-banner-fixed">
+          <script>
+            atOptions = {
+              'key' : 'ac85365b8166d90133c08c7e2e7eccec',
+              'format' : 'iframe',
+              'height' : 60,
+              'width' : 468,
+              'params' : {}
+            };
+          </script>
+          <script src="https://www.highrevenueformat.com/ac85365b8166d90133c08c7e2e7eccec/invoke.js"></script>
+        </div>
+      </div>
+    </section>
+
     <main id="mainContent" tabindex="-1"></main>
+    <!-- Third-party native ad placement; video content is never stored here. -->
+    <section class="ad-placement ad-placement-bottom" aria-label="Sponsored links and advertisements">
+      <span class="ad-label">Sponsored advertisement</span>
+      <div class="ad-native-slot">
+        <script async="async" data-cfasync="false" src="https://pl31793698.profitableratecpmnetwork.com/8d58a68f4a6bcd33f948f07d9c5d0c85/invoke.js"></script>
+        <div id="container-8d58a68f4a6bcd33f948f07d9c5d0c85"></div>
+      </div>
+      <a class="sponsored-link" href="https://www.profitableratecpmnetwork.com/e75uq871kx?key=7508f44a211e23104bfd6ff6ae290466" target="_blank" rel="sponsored noopener noreferrer">Visit sponsor ↗</a>
+      <small>Advertisement — external website, not a TV programme.</small>
+    </section>
+
     <footer class="site-footer legal-footer" aria-label="Copyright and content disclaimer">
       <div class="legal-footer-inner">
         <h2>Copyright &amp; Content Disclaimer</h2>
@@ -285,5 +327,8 @@ state.page=locationPage();bindEvents();paint();refreshFeeds();loadSchedule();loa
 })();
 
 </script>
+
+<!-- Adsterra standalone advertisement script. Third-party scripts may set cookies or show extra advertising. -->
+<script src="https://pl31793699.profitableratecpmnetwork.com/9e/d2/5b/9ed25bbb75a6ead1d017f33f41e1dc2d.js"></script>
 </body>
 </html>
