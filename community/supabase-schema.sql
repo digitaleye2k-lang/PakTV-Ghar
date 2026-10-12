@@ -75,9 +75,24 @@ revoke all on public.community_messages,public.community_reports,
   public.community_submissions,public.community_moderators,
   public.community_blocked_terms,public.community_visitor_tokens,
   public.community_visit_totals from anon,authenticated;
-grant select on public.community_messages to anon,authenticated;
+-- No direct SELECT on the chat table: it contains a private guest UUID.
+-- Browser callers read only safe, public columns through pgh_public_messages.
 create policy pgh_visible_messages on public.community_messages for select to anon,authenticated
   using(status='visible');
+create or replace function public.pgh_public_messages(p_topic text,p_limit integer default 75)
+returns table(id bigint,topic text,nickname text,body text,created_at timestamptz)
+language plpgsql stable security definer set search_path=''
+as $
+begin
+ if p_topic not in ('general','dramas','movies','comedy','politics','youtubers') then
+   raise exception 'Invalid discussion room'; end if;
+ return query select m.id,m.topic,m.nickname,m.body,m.created_at
+   from public.community_messages m where m.topic=p_topic and m.status='visible'
+   order by m.created_at desc limit least(greatest(coalesce(p_limit,75),1),75);
+end;
+$;
+revoke all on function public.pgh_public_messages(text,integer) from public,anon,authenticated;
+grant execute on function public.pgh_public_messages(text,integer) to anon,authenticated;
 -- Moderators get access via a narrowly scoped RPC; never expose private contact data.
 create or replace function public.pgh_moderator()
 returns boolean language sql stable security definer set search_path=''
