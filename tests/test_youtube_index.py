@@ -78,7 +78,7 @@ class IndexTests(unittest.TestCase):
                                               now=NOW + timedelta(hours=2))
         self.assertEqual(stats2['searches'], 2)
         self.assertTrue(entries2[SHOW['id']])
-        self.assertEqual(len([c for c in calls if c[0] == 'channels']), 0)  # Known public broadcaster IDs
+        self.assertEqual(len([c for c in calls if c[0] == 'channels']), 1)  # Express channel resolved once, then cached
 
     def test_rss_verified_channels_skip_api_handle_lookup(self):
         calls = []
@@ -93,7 +93,7 @@ class IndexTests(unittest.TestCase):
             raise AssertionError(endpoint)
         entries, cache, stats = index_api(
             [SHOW], 'test-placeholder-key', {}, transport=transport,
-            now=NOW, known_channel_ids={'hum': CID, 'arydigital': CID, 'harpalgeo': CID})
+            now=NOW, known_channel_ids={'hum': CID, 'arydigital': CID, 'harpalgeo': CID, 'greentv': CID, 'ptvhome': CID, 'expressent': CID})
         self.assertEqual(stats['newVideos'], 1)
         self.assertEqual(stats['searches'], 2)
         self.assertEqual(cache['channels']['hum']['id'], CID)
