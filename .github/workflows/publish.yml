@@ -38,10 +38,34 @@ jobs:
         run: |
           git config user.name "PakTV Schedule Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/*.json
-          if ! git diff --cached --quiet; then
+          # Scheduled runs and the GitHub Pages bot can commit while this
+          # workflow refreshes data. Preserve the generated files, then
+          # rebase onto the most recent main without merge conflicts.
+          snapshot="$RUNNER_TEMP/paktv-generated-data"
+          mkdir -p "$snapshot"
+          cp data/*.json "$snapshot/"
+          published=false
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard FETCH_HEAD
+            cp "$snapshot/"*.json data/
+            git add data/*.json
+            if git diff --cached --quiet; then
+              echo "Episode and schedule data are already current."
+              published=true
+              break
+            fi
             git commit -m "chore: refresh Pakistani TV schedules [skip ci]"
-            git push
+            if git push origin HEAD:main; then
+              published=true
+              break
+            fi
+            echo "Repository advanced during the save; retrying ($attempt/5)."
+            sleep "$attempt"
+          done
+          if [ "$published" != true ]; then
+            echo "Could not publish after 5 retries." >&2
+            exit 1
           fi
       - uses: actions/configure-pages@v5
         with:
