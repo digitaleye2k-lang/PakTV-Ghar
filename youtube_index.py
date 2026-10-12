@@ -130,6 +130,20 @@ def youtube_json(endpoint, parameters, api_key, transport=None):
             reason = ((reasons[0] or {}).get('reason') if reasons else '') or err.get('status') or ''
             if not re.fullmatch(r'[A-Za-z][A-Za-z0-9._-]{0,59}', reason):
                 reason = 'unknown'
+            # Match only fixed error categories, never log provider text. Google's
+            # raw error message can echo sensitive request data.
+            message = str(err.get('message', '')).casefold()
+            if ('api key not valid' in message or 'invalid api key' in message or
+                ('key' in message and 'invalid' in message)):
+                reason = 'invalidApiKey'
+            elif ('api has not been used' in message or 'api is disabled' in message or
+                  'access not configured' in message or 'api is not enabled' in message):
+                reason = 'apiNotEnabled'
+            elif ('key' in message and ('restricted' in message or 'referer' in message or
+                                        'referrer' in message or 'ip address' in message)):
+                reason = 'keyRestrictions'
+            elif 'quota' in message and ('exceeded' in message or 'limit' in message):
+                reason = 'quotaExceeded'
         except (ValueError, TypeError, AttributeError, KeyError):
             reason = 'unknown'
         raise SafeAPIError('HTTP ' + str(code) + ': ' + reason) from None
