@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T22:35:03.056190+05:00",
+  "generatedAt": "2026-10-12T22:36:09.625467+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "tvToday": {
@@ -394,7 +394,19 @@
       "lastAttempt": "2026-10-12T20:10:59.107151+05:00"
     },
     "harpalgeo-pehli-barish": {
-      "lastAttempt": "2026-10-12T20:10:59.107185+05:00"
+      "lastAttempt": "2026-10-12T20:10:59.107185+05:00",
+      "latestUpload": {
+        "number": 41,
+        "id": "vbSfVB_VkrM",
+        "title": "Pehli Barish Episode 41 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Aijaz Aslam - Saboor Ali || Har Pal Geo",
+        "date": "2026-08-10",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/vbSfVB_VkrM/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-shaidai": {
       "lastAttempt": "2026-10-12T20:10:59.107803+05:00",
@@ -402,7 +414,17 @@
       "posterSource": "Official broadcaster",
       "latestPublisherEpisode": 28,
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
-      "latestPublisherSource": "https://harpalgeo.tv/program/Shaidai"
+      "latestPublisherSource": "https://harpalgeo.tv/program/Shaidai",
+      "latestUpload": {
+        "number": 30,
+        "id": "kT5HHJDY8NA",
+        "title": "Shaidai Last Episode 30 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Feroze Khan - Sahar Hashmi | Har Pal Geo",
+        "date": "2026-07-31",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "hum-sirf-shabana": {
       "lastAttempt": "2026-10-12T20:10:59.131585+05:00"
