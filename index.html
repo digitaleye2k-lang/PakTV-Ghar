@@ -292,12 +292,15 @@ function feedSection(vids){if(vids.length)return `<div class="media-grid">${vids
 function renderInfo(){return `<div class="notice-box">💡 <b>Watching from outside Pakistan?</b> YouTube decides which videos play in each country, and individual publishers can disable embeds. If an embedded player is unavailable, use <b>Open on YouTube</b>. This site does not silently switch your VPN or bypass restrictions.</div>`}
 function renderCategory(cat){
 if(cat==='dramas'||cat==='comedy')return renderLibrary(cat);
-const name=CATEGORY_LABELS[cat];const labels={news:'Headlines and current affairs directly from Pakistan.',talk:'Political debate, interviews and evening shows.',vloggers:'Journalists, commentators, creators and independent voices.'};
-const catChannels=CHANNELS.filter(c=>c.category===cat);const catShows=cat==='talk'?SHOWS:[];const recent=catVideos(cat);
+const name=CATEGORY_LABELS[cat];const labels={news:'Headlines and current affairs directly from Pakistan.',talk:'Political debate, interviews and evening shows.',vloggers:'Explore family vlogs, food bloggers, travel creators, journalists and Pakistani YouTube channels.'};
+const catChannels=CHANNELS.filter(c=>c.category===cat&&(cat!=='vloggers'||state.creatorGenre==='all'||(c.genre||'News & commentary')===state.creatorGenre));
+const recent=catVideos(cat).filter(v=>cat!=='vloggers'||state.creatorGenre==='all'||v.genre===state.creatorGenre);
+const creators=['all','Food & recipes','Food & travel','Lifestyle & vlogs','Travel & lifestyle','News & commentary','Interviews & commentary'];
 return `<div class="page-title"><span class="eyebrow">YOUR PAKISTANI TV</span><h1>${escapeHTML(name)}</h1><p>${escapeHTML(labels[cat]||'Watch official publisher videos.')}</p></div>
+${cat==='vloggers'?'<div class="creator-genres" role="group" aria-label="YouTuber genres">'+creators.map(g=>'<button type="button" class="chip '+(state.creatorGenre===g?'active':'')+'" data-creator-genre="'+escapeHTML(g)+'">'+escapeHTML(g==='all'?'All creators':g)+'</button>').join('')+'</div>':''}
 ${cat==='talk'?`${sectionHead('Explore programmes','Open any programme to browse available episodes.')}<div class="series-grid">${LIBRARY.filter(s=>s.type==='talk').map(seriesCard).join('')}</div>`:''}
-${recent.length?`${sectionHead('Recent videos','Watch here, or open the original YouTube source.')}<div class="media-grid">${recent.slice(0,16).map(videoCard).join('')}</div>`:''}
-${sectionHead('Official channels','Browse official publishers.')}<div class="channel-grid">${(cat==='talk'?CHANNELS.filter(c=>c.category==='news'):catChannels).map(channelCard).join('')}</div>`}
+${recent.length?`${sectionHead('Recent videos','Watch here, or open the original YouTube source.')}<div class="media-grid">${recent.slice(0,state.visibleVideos).map(videoCard).join('')}</div>${recent.length>state.visibleVideos?'<div class="load-more"><button type="button" class="btn-secondary" data-video-more>Show more uploads ('+(recent.length-state.visibleVideos)+' remaining) ↓</button></div>':''}`:''}
+${sectionHead('YouTube channels','Browse and save channels, or open their uploaded videos.')}<div class="channel-grid">${(cat==='talk'?CHANNELS.filter(c=>c.category==='news'):catChannels).map(channelCard).join('')}</div>`}
 
 function archiveDateUTC(offset=0){
   const d=new Date();d.setUTCHours(12,0,0,0);d.setUTCDate(d.getUTCDate()+offset);
