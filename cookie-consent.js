@@ -60,7 +60,7 @@
     root.innerHTML=[
       '<section id="paktvCookieBanner" class="privacy-banner" aria-label="Cookie and advertising choices" hidden>',
       '<div class="privacy-banner-inner"><div class="privacy-message"><strong>Privacy &amp; Cookie Choices</strong>',
-      '<p>PakTV Ghar remembers your settings. With permission, third-party advertising providers (Adsterra) may use cookies and device data. Advertising is optional and the shows remain available if you refuse. <a href="./privacy.html">Privacy &amp; Cookies Policy</a>.</p>',
+      '<p>PakTV Ghar remembers your settings. With permission, Adsterra may use cookies and device data, and its extra ad script may open promotions. All ads are optional. Shows remain available if you refuse. <a href="./privacy.html">Privacy &amp; Cookies Policy</a>.</p>',
       '</div><div class="privacy-buttons">',
       '<button class="privacy-btn privacy-secondary" id="privacyReject" type="button">Reject optional</button>',
       '<button class="privacy-btn privacy-primary" id="privacyAccept" type="button">Accept all</button>',
