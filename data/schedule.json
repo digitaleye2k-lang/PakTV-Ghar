@@ -1,1 +1,347 @@
-{"date":"","weekday":"","timezone":"Asia/Karachi","items":[],"errors":["Waiting for first scheduled update"]}
+{
+  "date": "2026-10-12",
+  "weekday": "Monday",
+  "timezone": "Asia/Karachi",
+  "generatedAt": "2026-10-12T18:42:31.710218+05:00",
+  "items": [
+    {
+      "name": "Mohabbat",
+      "showId": "harpalgeo-mohabbat",
+      "channel": "Har Pal Geo",
+      "time": "00:00",
+      "episode": 4,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Nashtar",
+      "showId": "harpalgeo-nashtar",
+      "channel": "Har Pal Geo",
+      "time": "01:00",
+      "episode": 18,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Kaisa Yeh Ishq",
+      "showId": "harpalgeo-kaisa-yeh-ishq",
+      "channel": "Har Pal Geo",
+      "time": "02:00",
+      "episode": 61,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Uswa",
+      "showId": "harpalgeo-uswa",
+      "channel": "Har Pal Geo",
+      "time": "03:00",
+      "episode": 19,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Mohabbat",
+      "showId": "harpalgeo-mohabbat",
+      "channel": "Har Pal Geo",
+      "time": "04:00",
+      "episode": 4,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Quran Sab Ke Liye",
+      "showId": null,
+      "channel": "Har Pal Geo",
+      "time": "05:00",
+      "episode": null,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Nashtar",
+      "showId": "harpalgeo-nashtar",
+      "channel": "Har Pal Geo",
+      "time": "06:00",
+      "episode": 18,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Kaisa Yeh Ishq",
+      "showId": "harpalgeo-kaisa-yeh-ishq",
+      "channel": "Har Pal Geo",
+      "time": "07:00",
+      "episode": 61,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Uswa",
+      "showId": "harpalgeo-uswa",
+      "channel": "Har Pal Geo",
+      "time": "08:00",
+      "episode": 19,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Hasna Mana Hai",
+      "showId": null,
+      "channel": "Har Pal Geo",
+      "time": "09:00",
+      "episode": null,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Shiddat",
+      "showId": null,
+      "channel": "Har Pal Geo",
+      "time": "10:00",
+      "episode": null,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Khafa",
+      "showId": "harpalgeo-khafa",
+      "channel": "Har Pal Geo",
+      "time": "11:00",
+      "episode": 19,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Khafa",
+      "showId": "harpalgeo-khafa",
+      "channel": "Har Pal Geo",
+      "time": "11:30",
+      "episode": 20,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Uswa",
+      "showId": "harpalgeo-uswa",
+      "channel": "Har Pal Geo",
+      "time": "12:30",
+      "episode": 19,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Nashtar",
+      "showId": "harpalgeo-nashtar",
+      "channel": "Har Pal Geo",
+      "time": "13:30",
+      "episode": 18,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Kaisa Yeh Ishq",
+      "showId": "harpalgeo-kaisa-yeh-ishq",
+      "channel": "Har Pal Geo",
+      "time": "14:30",
+      "episode": 60,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Kaisa Yeh Ishq",
+      "showId": "harpalgeo-kaisa-yeh-ishq",
+      "channel": "Har Pal Geo",
+      "time": "15:00",
+      "episode": 61,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Mohabbat",
+      "showId": "harpalgeo-mohabbat",
+      "channel": "Har Pal Geo",
+      "time": "16:00",
+      "episode": 3,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Mohabbat",
+      "showId": "harpalgeo-mohabbat",
+      "channel": "Har Pal Geo",
+      "time": "16:30",
+      "episode": 4,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Khafa",
+      "showId": "harpalgeo-khafa",
+      "channel": "Har Pal Geo",
+      "time": "17:30",
+      "episode": 19,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Uswa",
+      "showId": "harpalgeo-uswa",
+      "channel": "Har Pal Geo",
+      "time": "18:30",
+      "episode": 19,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Izzat",
+      "showId": "arydigital-izzat",
+      "channel": "ARY Digital",
+      "time": "19:00",
+      "episode": null,
+      "repeat": null,
+      "sourceUrl": "https://dramas.pk/?pdhs_date=2026-10-12",
+      "sourceLabel": "Dramas.pk TV guide (backup, not broadcaster)"
+    },
+    {
+      "name": "Khushi",
+      "showId": "hum-khushi",
+      "channel": "HUM TV",
+      "time": "19:00",
+      "episode": null,
+      "repeat": null,
+      "sourceUrl": "https://hum.tv/",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Uswa",
+      "showId": "harpalgeo-uswa",
+      "channel": "Har Pal Geo",
+      "time": "19:00",
+      "episode": 20,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "RUTBA",
+      "showId": "arydigital-rutba",
+      "channel": "ARY Digital",
+      "time": "20:00",
+      "episode": null,
+      "repeat": null,
+      "sourceUrl": "https://dramas.pk/?pdhs_date=2026-10-12",
+      "sourceLabel": "Dramas.pk TV guide (backup, not broadcaster)"
+    },
+    {
+      "name": "Hurmat",
+      "showId": "hum-hurmat",
+      "channel": "HUM TV",
+      "time": "20:00",
+      "episode": null,
+      "repeat": null,
+      "sourceUrl": "https://hum.tv/",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Mohabbat",
+      "showId": "harpalgeo-mohabbat",
+      "channel": "Har Pal Geo",
+      "time": "20:00",
+      "episode": 5,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Main Tera",
+      "showId": "arydigital-main-tera",
+      "channel": "ARY Digital",
+      "time": "21:00",
+      "episode": null,
+      "repeat": null,
+      "sourceUrl": "https://dramas.pk/?pdhs_date=2026-10-12",
+      "sourceLabel": "Dramas.pk TV guide (backup, not broadcaster)"
+    },
+    {
+      "name": "Bombay Tailors",
+      "showId": "hum-bombay-tailors",
+      "channel": "HUM TV",
+      "time": "21:00",
+      "episode": null,
+      "repeat": null,
+      "sourceUrl": "https://hum.tv/",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Kaisa Yeh Ishq",
+      "showId": "harpalgeo-kaisa-yeh-ishq",
+      "channel": "Har Pal Geo",
+      "time": "21:00",
+      "episode": 62,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Tamasha season 5",
+      "showId": "arydigital-tamasha-season-5",
+      "channel": "ARY Digital",
+      "time": "22:00",
+      "episode": null,
+      "repeat": null,
+      "sourceUrl": "https://dramas.pk/?pdhs_date=2026-10-12",
+      "sourceLabel": "Dramas.pk TV guide (backup, not broadcaster)"
+    },
+    {
+      "name": "Hasna Mana Hai",
+      "showId": null,
+      "channel": "Har Pal Geo",
+      "time": "22:00",
+      "episode": null,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Meri Zaat...",
+      "showId": null,
+      "channel": "Har Pal Geo",
+      "time": "23:00",
+      "episode": null,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    }
+  ],
+  "sources": {
+    "hum": "official",
+    "arydigital": "independent guide fallback",
+    "harpalgeo": "official"
+  },
+  "errors": [
+    "ARY Digital: No scheduled entries in retrieved page"
+  ],
+  "note": "Schedule entries are TV slots, not proof episodes were uploaded. Times and reruns can change."
+}
