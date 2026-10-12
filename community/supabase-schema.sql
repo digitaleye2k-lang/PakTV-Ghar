@@ -47,7 +47,7 @@ insert into public.community_blocked_terms(phrase) values
 ('idiot'),('moron'),('stupid'),('shutup'),('loser'),('dumbass'),
 ('fuckyou'),('bastard'),('kill yourself'),('killyourself'),
 ('gobacktoyourcountry'),('hateall'),('fucking'),('retard'),
-('nigger'),('nigga'),('paki'),('chink'),('spic'),('kafir'),
+('nigger'),('nigga'),('chink'),('spic'),('kafir'),
 ('harami'),('kutte'),('kutta'),('kamina')
 on conflict do nothing;
 create table if not exists public.community_visitor_tokens (
@@ -274,6 +274,47 @@ end;
 $$;
 revoke all on function public.pgh_review_queue() from public;
 grant execute on function public.pgh_review_queue() to authenticated;
+-- Private submissions and moderation reports are accessible ONLY to project owners.
+create or replace function public.pgh_owner()
+returns boolean language sql stable security definer set search_path=''
+as $select exists(select 1 from public.community_moderators where user_id=auth.uid() and role='owner')$;
+revoke all on function public.pgh_owner() from public;
+grant execute on function public.pgh_owner() to authenticated;
+create or replace function public.pgh_review_submissions()
+returns table(id bigint,kind text,nickname text,email text,subject text,details text,related_url text,status text,created_at timestamptz)
+language plpgsql stable security definer set search_path=''
+as $
+begin
+ if not public.pgh_owner() then raise exception 'Site-owner access required'; end if;
+ return query select s.id,s.kind,s.nickname,s.email,s.subject,s.details,s.related_url,s.status,s.created_at
+ from public.community_submissions s order by s.created_at desc limit 150;
+end;
+$;
+revoke all on function public.pgh_review_submissions() from public;
+grant execute on function public.pgh_review_submissions() to authenticated;
+create or replace function public.pgh_review_message_reports()
+returns table(id bigint,message_id bigint,category text,note text,created_at timestamptz)
+language plpgsql stable security definer set search_path=''
+as $
+begin
+ if not public.pgh_moderator() then raise exception 'Moderator access required'; end if;
+ return query select r.id,r.message_id,r.category,r.note,r.created_at
+ from public.community_reports r order by r.created_at desc limit 100;
+end;
+$;
+revoke all on function public.pgh_review_message_reports() from public;
+grant execute on function public.pgh_review_message_reports() to authenticated;
+create or replace function public.pgh_decide_submission(p_id bigint,p_status text)
+returns void language plpgsql security definer set search_path=''
+as $
+begin
+ if not public.pgh_owner() then raise exception 'Owner access required'; end if;
+ if p_status not in ('reviewing','resolved','rejected') then raise exception 'Invalid review status'; end if;
+ update public.community_submissions set status=p_status where id=p_id;
+end;
+$;
+revoke all on function public.pgh_decide_submission(bigint,text) from public;
+grant execute on function public.pgh_decide_submission(bigint,text) to authenticated;
 -- Public aggregate counts without raw visitor identifiers.
 create or replace function public.pgh_visit_summary()
 returns jsonb language sql stable security definer set search_path=''
