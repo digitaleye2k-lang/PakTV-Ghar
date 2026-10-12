@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-10-12T19:18:15.473241+00:00",
+  "generatedAt": "2026-10-12T19:19:40.918367+00:00",
   "dateTimezone": "UTC",
-  "cursor": 39,
+  "cursor": 8,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
       "uploadsId": "UU_vt34wimdCzdkrzVejwX9g",
       "handle": "geonews",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:12:37.731357+00:00"
+      "lastFetchedAt": "2026-10-12T19:19:40.918367+00:00"
     },
     "ducky": {
       "youtubeId": "UC_c-RTowPbIlzMkIa_O7s6Q",
       "uploadsId": "UU_c-RTowPbIlzMkIa_O7s6Q",
       "handle": "duckybhai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:14:24.378071+00:00"
+      "lastFetchedAt": "2026-10-12T19:19:40.918367+00:00"
     },
     "arynews": {
       "youtubeId": "UCMmpLL2ucRHAXbNHiCPyIyg",
       "uploadsId": "UUMmpLL2ucRHAXbNHiCPyIyg",
       "handle": "ArynewsTvofficial",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:14:24.378071+00:00"
+      "lastFetchedAt": "2026-10-12T19:19:40.918367+00:00"
     },
     "rhs": {
       "youtubeId": "UCgFG7lz7BI5hsNEifevrWSw",
       "uploadsId": "UUgFG7lz7BI5hsNEifevrWSw",
       "handle": "ranahamzasaifrhs",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:14:24.378071+00:00"
+      "lastFetchedAt": "2026-10-12T19:19:40.918367+00:00"
     },
     "dunya": {
       "youtubeId": "UCG7xCQTxgy93j6r49wl48rw",
@@ -42,7 +42,7 @@
       "uploadsId": "UUQexaAjPn3-1MCE4DmBK3Tg",
       "handle": "villagefoodsecrets",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:14:24.378071+00:00"
+      "lastFetchedAt": "2026-10-12T19:19:40.918367+00:00"
     },
     "geohasna": {
       "youtubeId": "UC6HQ4d3xq9EgSeJgMhc-4AQ",
@@ -182,14 +182,14 @@
       "uploadsId": "UUMhx-uS3O-G_6_lTrYmDKLw",
       "handle": "RubyKaKitchen",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-12T19:12:37.731357+00:00"
+      "lastFetchedAt": "2026-10-12T19:19:40.918367+00:00"
     },
     "ijazfood": {
       "youtubeId": "UCc1BSASBDsE_XYOTxD9SNmA",
       "uploadsId": "UUc1BSASBDsE_XYOTxD9SNmA",
       "handle": "IjazAnsariFoodSecrets",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-12T19:12:37.731357+00:00"
+      "lastFetchedAt": "2026-10-12T19:19:40.918367+00:00"
     },
     "greentv": {
       "youtubeId": "UCF2ltLX1dnPa6-L1paPaMzw",
@@ -245,14 +245,14 @@
       "uploadsId": "UU2PYniNHljOED9xNaMpiMiQ",
       "handle": "ARYFilms",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-12T19:12:37.731357+00:00"
+      "lastFetchedAt": "2026-10-12T19:19:40.918367+00:00"
     },
     "drmmovies": {
       "youtubeId": "UCDmQsP_LTEWPZ2AXS9eWTrQ",
       "uploadsId": "UUDmQsP_LTEWPZ2AXS9eWTrQ",
       "handle": "pakistani_movies",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-12T19:12:37.731357+00:00"
+      "lastFetchedAt": "2026-10-12T19:19:40.918367+00:00"
     }
   },
   "videos": [
@@ -272,6 +272,42 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/BUFN7B2SnhE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "RLTWyq8vkp8",
+      "title": "What Really Happened During Govt-PTI Talks? #arynews #shorts #government #pti #negotiations",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T19:15:22Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 148,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/RLTWyq8vkp8/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "50Fzh6FbIdE",
+      "title": "PTI’s 13-Year Rule in Khyber Pakhtunkhwa Ends? Waseem Badami’s Report",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T19:13:51Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 256,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/50Fzh6FbIdE/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -54023,6 +54059,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Express News: channel unavailable; Asad Toor: channel unavailable; Siddique Jaan: channel unavailable",
+  "lastError": "HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable; Dunya News: HTTP 404: playlistNotFound",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
