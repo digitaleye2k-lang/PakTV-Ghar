@@ -361,7 +361,71 @@ function scheduleCards(limit=0){
 function scheduleLinks(){return `<div class="source-links"><a href="https://hum.tv/" target="_blank" rel="noopener noreferrer">HUM TV ↗</a><a href="https://arydigital.tv/schedule" target="_blank" rel="noopener noreferrer">ARY Digital ↗</a><a href="https://harpalgeo.tv/schedule" target="_blank" rel="noopener noreferrer">Har Pal Geo ↗</a></div>`}
 function renderTodayMini(){return `${sectionHead('📅 Airing in Pakistan today',nowInPakistan()+' · programme schedule, not uploaded episodes','today','Full TV guide →')}${scheduleCards(6)}`}
 function renderToday(){return `<div class="page-title"><span class="eyebrow">PAKISTAN STANDARD TIME · PKT</span><h1>📅 Today on Pakistani TV</h1><p>${escapeHTML(nowInPakistan())}. Latest broadcaster listings are checked automatically; backups are labelled when used.</p></div><div class="notice-box">📺 <b>Scheduled on TV ≠ uploaded to YouTube.</b> An episode only becomes playable once its publisher makes it available. All times below are Pakistan time, not UK time.</div>${scheduleCards()}${scheduleLinks()}${state.schedule?.errors?.length?`<div class="notice-box">Some source listings could not be loaded: ${escapeHTML(state.schedule.errors.join('; '))}. Check their official schedules directly.</div>`:''}`}
-function renderShowPage(){const show=LIBRARY.find(s=>s.id===showId());if(!show)return renderHome();const episodes=state.episodeLoadedFor===show.id?state.episodeList:[];const available=episodes.filter(e=>e.id||e.url);const status=state.episodeLoading?'Searching official upload indexes…':available.length?`${available.length} confirmed items found in the current index`:'No confirmed episode links retrieved yet';const selected=available.length?available[0]:null;return `<div class="page-title show-heading"><button class="back-link" type="button" data-nav="${show.type==='drama'?'dramas':'comedy'}">← Browse programmes</button><span class="eyebrow">${escapeHTML(networkName[show.network]||show.network)} · ${escapeHTML(show.type)}</span><h1>${escapeHTML(show.name)}</h1><p>Choose an available full episode below. Older episodes can also be found by number on the original publisher's channel.</p></div><div class="show-actions"><button class="btn-secondary" type="button" data-series-fav="${escapeHTML(show.id)}">${state.favoriteShows.includes(show.id)?'♥ Saved to favourites':'♡ Save programme'}</button><a class="btn-secondary" href="${escapeHTML(broadcasterLink(show))}" target="_blank" rel="noopener noreferrer">Official broadcaster page ↗</a><a class="btn-secondary" href="${escapeHTML(publisherSearch(show,''))}" target="_blank" rel="noopener noreferrer">All episodes on YouTube ↗</a></div><section class="episode-panel"><h2>▶ Select an episode</h2><p class="subtitle">${escapeHTML(status)}. Lists are updated by scheduled indexing of available official sources. Teasers and promos are excluded.</p>${available.length?`<label for="episodeSelect" class="episode-label">Verified episode results</label><div class="episode-picker"><select id="episodeSelect" aria-label="Choose available episode">${available.map((v,i)=>`<option value="${i}">${escapeHTML((v.episode?'Episode '+v.episode:'Full show')+' — '+v.title.slice(0,75))}</option>`).join('')}</select><button type="button" class="btn-primary" data-play-selected>▶ Open selected</button></div><div class="episode-results">${available.slice(0,36).map((e,i)=>`<div class="episode-row"><strong>${escapeHTML(e.episode?'EP '+e.episode:'SHOW')}</strong><span>${escapeHTML(e.title)}</span>${e.id?`<button class="small-button accent" type="button" data-episode="${i}">▶ Play</button>`:`<a class="small-button accent" href="${escapeHTML(e.url)}" target="_blank" rel="noopener noreferrer">↗ Official site</a>`}</div>`).join('')}</div>`:''}<div class="episode-finder"><h3>Looking for a different episode?</h3><p>Select its number to search the publisher's official YouTube uploads. This is a search, not a claim that every episode exists or is playable.</p><div class="episode-picker"><label for="episodeNumber" class="visually-hidden">Episode number to find</label><select id="episodeNumber">${Array.from({length:300},(_,i)=>`<option value="${i+1}">Episode ${i+1}</option>`).join('')}</select><button type="button" class="btn-secondary" data-find-episode>🔎 Find episode</button></div></div><div class="load-more"><button type="button" class="small-button" data-reload-episodes>↻ Recheck available episodes</button></div></section>${renderInfo()}`}
+
+function showEpisodeFact(label,number,note,link){
+  const value=number?'Episode '+number:'Not confirmed';
+  return '<div class="latest-fact"><span>'+escapeHTML(label)+'</span><strong>'+escapeHTML(value)+'</strong><small>'+escapeHTML(note)+'</small>'+
+    (link?'<small><a href="'+escapeHTML(link)+'" target="_blank" rel="noopener noreferrer">View original source ↗</a></small>':'')+'</div>';
+}
+function renderShowPage(){
+  const show=LIBRARY.find(s=>s.id===showId());
+  if(!show)return renderHome();
+  const details=showDetails(show);
+  const episodes=state.episodeLoadedFor===show.id?state.episodeList:[];
+  const available=episodes.filter(e=>e.id||e.url);
+  const maxIndexed=available.filter(e=>Number.isInteger(e.episode)).reduce((n,e)=>Math.max(n,e.episode),0);
+  const lastUpload=details.upload?.number || maxIndexed || null;
+  const currentHint=lastUpload||details.tv?.number||details.listed||'';
+  const status=state.episodeLoading?'Looking up indexed publisher videos…':
+    available.length?available.length+' directly indexed official items found':
+    'No directly indexed full episodes found for this show yet';
+  const network=networkName[show.network]||show.network;
+  const latestWatch=details.upload?.id?'<a class="btn-primary" target="_blank" rel="noopener noreferrer" href="'+escapeHTML(videoURL(details.upload.id))+'">▶ Watch latest indexed YouTube upload</a>':'';
+  const header='<div class="show-cover"><div class="series-poster poster-'+escapeHTML(show.network)+'">'+
+    '<span class="poster-identity">'+escapeHTML(show.name)+'</span>'+showArtwork(show)+
+    '<span class="poster-network">'+escapeHTML(networkShort[show.network]||show.network.toUpperCase())+'</span></div>'+
+    '<div class="page-title show-heading"><button class="back-link" type="button" data-nav="'+(show.type==='drama'?'dramas':'comedy')+'">← Browse programmes</button>'+
+    '<span class="eyebrow">'+escapeHTML(network)+' · '+escapeHTML(show.type)+'</span><h1>'+escapeHTML(show.name)+'</h1>'+
+    '<p>See the latest episode information we can verify, then choose a video or search for another episode.</p></div></div>';
+  const statusCards='<div class="latest-facts" aria-label="Latest episode information">'+
+    showEpisodeFact('Latest indexed official YouTube upload',lastUpload,
+      'Only confirms videos found in our limited publisher index.',details.upload?.id?videoURL(details.upload.id):null)+
+    showEpisodeFact('Listed on Pakistani TV today',details.tv?.number,
+      details.tv?.number?'A TV slot for '+(details.tv.time||'today')+' PKT; not proof the episode is online.':'Not published in the TV listings we currently have.',details.tv?.source)+
+    showEpisodeFact('Highest episode in broadcaster guide',details.listed,
+      details.listed?'Based on the broadcaster programme page; not proof of an upload today.':'The broadcaster did not publish a machine-readable episode count.',details.meta.latestPublisherSource)+
+    '</div>';
+  const dropdown=available.length?
+    '<label for="episodeSelect" class="episode-label">Available episodes in the indexed publisher feed</label>'+
+    '<div class="episode-picker"><select id="episodeSelect" aria-label="Select an indexed episode">'+
+    available.map((v,i)=>'<option value="'+i+'">'+escapeHTML((v.episode?'Episode '+v.episode:'Video')+' — '+v.title.slice(0,75))+'</option>').join('')+
+    '</select><button type="button" class="btn-primary" data-play-selected>▶ Play selected</button></div>'+
+    '<div class="episode-results">'+available.slice(0,36).map((e,i)=>'<div class="episode-row">'+
+      '<strong>'+escapeHTML(e.episode?'EP '+e.episode:'VIDEO')+'</strong>'+
+      '<span>'+escapeHTML(e.title)+'</span>'+
+      (e.id?'<button class="small-button accent" type="button" data-episode="'+i+'">▶ Play</button>':
+        '<a class="small-button accent" href="'+escapeHTML(e.url||'#')+'" target="_blank" rel="noopener noreferrer">↗ Official site</a>')+
+    '</div>').join('')+'</div>':'';
+  return header+
+    '<div class="show-actions"><button class="btn-secondary" type="button" data-series-fav="'+escapeHTML(show.id)+'">'+
+    (state.favoriteShows.includes(show.id)?'♥ Saved to favourites':'♡ Save programme')+'</button>'+
+    '<a class="btn-secondary" target="_blank" rel="noopener noreferrer" href="'+escapeHTML(broadcasterLink(show))+'">Official broadcaster page ↗</a>'+
+    '<a class="btn-secondary" target="_blank" rel="noopener noreferrer" href="'+escapeHTML(publisherSearch(show,''))+'">Search episodes on YouTube ↗</a>'+
+    latestWatch+'</div>'+
+    statusCards+
+    '<section class="episode-panel"><h2>▶ Episodes &amp; availability</h2>'+
+    '<p class="subtitle">'+escapeHTML(status)+'. Episode information updates automatically when official sources are reachable.</p>'+
+    dropdown+
+    '<div class="episode-finder"><h3>Find an episode by number</h3>'+
+    '<p>There is <b>no assumed 300-episode limit</b>. Enter a number you want and search YouTube. Only the results above have confirmed indexed links.</p>'+
+    '<div class="episode-picker"><label class="visually-hidden" for="episodeNumber">Episode number to search</label>'+
+    '<input id="episodeNumber" type="number" min="1" max="1200" step="1" inputmode="numeric" placeholder="e.g. 18"'+
+    (currentHint?' value="'+escapeHTML(String(currentHint))+'"':'')+'>'+
+    '<button class="btn-secondary" type="button" data-find-episode>🔎 Search that episode</button></div></div>'+
+    '<div class="load-more"><button type="button" class="small-button" data-reload-episodes>↻ Refresh indexed episodes</button></div>'+
+    '</section>'+renderInfo();
+}
+
 function favoriteShow(id){let s=LIBRARY.find(x=>x.id===id);if(!s)return;let set=new Set(state.favoriteShows);set.has(id)?set.delete(id):set.add(id);state.favoriteShows=[...set];safeSet('pgh_show_favs',state.favoriteShows);toast(set.has(id)?'Programme added to favourites ♥':'Programme removed');paint()}
 function openSeries(id){if(!LIBRARY.some(s=>s.id===id))return;location.hash='show-'+encodeURIComponent(id);if(state.page==='show'&&showId()===id){paint();loadEpisodes(0)}}
 async function loadDiscovery(){try{const resp=await fetch('./data/discover.json?t='+Date.now(),{signal:AbortSignal.timeout(26000)});if(!resp.ok)return;const data=await resp.json();const known=new Set(LIBRARY.map(x=>x.id));let added=0;for(const show of data.shows||[]){if(typeof show.id!=='string'||typeof show.name!=='string'||known.has(show.id)||!['hum','arydigital','harpalgeo'].includes(show.network))continue;known.add(show.id);LIBRARY.push(show);added++}if(added&&(state.page==='home'||state.page==='dramas'||state.page==='search'||state.page==='comedy'))paint()}catch{}}
@@ -369,7 +433,7 @@ async function loadSchedule(){state.scheduleLoading=true;try{const r=await fetch
 async function loadEpisodes(page=0){const id=showId();if(!LIBRARY.some(s=>s.id===id))return;state.episodeLoadedFor=id;state.episodeList=[];state.episodeLoading=true;state.episodePage=page;paint();try{const r=await fetch('./data/episodes.json?t='+Date.now(),{signal:AbortSignal.timeout(18000)});if(!r.ok)throw Error('Offline');const data=await r.json();if(showId()!==id)return;state.episodeList=Array.isArray(data[id]?.episodes)?data[id].episodes:[]}catch{}finally{if(showId()===id){state.episodeLoading=false;paint()}}}
 function playIndexed(index){const item=state.episodeList[index];if(!item)return;if(item.id){const s=LIBRARY.find(x=>x.id===state.episodeLoadedFor);watchVideo({id:item.id,title:item.title,channel:item.source||networkName[s?.network]||'Official YouTube',channelId:s?.network,category:s?.type==='drama'?'dramas':'talk',date:item.date||'',description:'Found on the official channel or broadcaster website.'})}else if(item.url)window.open(item.url,'_blank','noopener,noreferrer')}
 // Event delegation intentionally works after page re-renders.
-document.addEventListener('click',e=>{const link=e.target.closest('[data-series]');if(link){openSeries(link.dataset.series);return}const fav=e.target.closest('[data-series-fav]');if(fav){favoriteShow(fav.dataset.seriesFav);return}const era=e.target.closest('[data-era]');if(era){state.libraryFilter=era.dataset.era;state.visibleShows=30;paint();return}const net=e.target.closest('[data-net]');if(net){state.networkFilter=net.dataset.net;state.visibleShows=30;paint();return}if(e.target.closest('[data-more]')){state.visibleShows+=30;paint();return}const play=e.target.closest('[data-episode]');if(play){playIndexed(Number(play.dataset.episode));return}if(e.target.closest('[data-play-selected]')){playIndexed(Number(el('episodeSelect')?.value||0));return}if(e.target.closest('[data-reload-episodes]')){loadEpisodes(0);return}if(e.target.closest('[data-find-episode]')){const show=LIBRARY.find(x=>x.id===showId());const number=el('episodeNumber')?.value;if(show&&number)window.open(publisherSearch(show,number),'_blank','noopener,noreferrer')}});
+document.addEventListener('click',e=>{const link=e.target.closest('[data-series]');if(link){openSeries(link.dataset.series);return}const fav=e.target.closest('[data-series-fav]');if(fav){favoriteShow(fav.dataset.seriesFav);return}const era=e.target.closest('[data-era]');if(era){state.libraryFilter=era.dataset.era;state.visibleShows=30;paint();return}const net=e.target.closest('[data-net]');if(net){state.networkFilter=net.dataset.net;state.visibleShows=30;paint();return}if(e.target.closest('[data-more]')){state.visibleShows+=30;paint();return}const play=e.target.closest('[data-episode]');if(play){playIndexed(Number(play.dataset.episode));return}if(e.target.closest('[data-play-selected]')){playIndexed(Number(el('episodeSelect')?.value||0));return}if(e.target.closest('[data-reload-episodes]')){loadEpisodes(0);return}if(e.target.closest('[data-find-episode]')){const show=LIBRARY.find(x=>x.id===showId());const input=el('episodeNumber');const number=Number(input?.value);if(show&&Number.isInteger(number)&&number>=1&&number<=1200)window.open(publisherSearch(show,number),'_blank','noopener,noreferrer');else toast('Enter a valid episode number from 1 to 1200.')}});
 state.page=locationPage();bindEvents();paint();refreshFeeds();loadSchedule();loadDiscovery();if(state.page==='show')loadEpisodes(0);setInterval(()=>{refreshFeeds();loadSchedule();loadDiscovery()},15*60*1000);
 })();
 
