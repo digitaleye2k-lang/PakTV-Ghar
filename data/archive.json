@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-12T18:37:19.381737+00:00",
+  "generatedAt": "2026-10-12T18:41:44.169896+00:00",
   "dateTimezone": "UTC",
-  "cursor": 24,
+  "cursor": 36,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -105,56 +105,56 @@
       "uploadsId": "UUyiJNpF7RgpPhyeKc4wnQkg",
       "handle": "hasbehaalofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T18:20:46.492844+00:00"
+      "lastFetchedAt": "2026-10-12T18:41:44.169896+00:00"
     },
     "pakexperience": {
       "youtubeId": "UC44l9XMwecN5nSgIF2Dvivg",
       "uploadsId": "UU44l9XMwecN5nSgIF2Dvivg",
       "handle": "ThePakistanExperience",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T18:20:46.492844+00:00"
+      "lastFetchedAt": "2026-10-12T18:41:44.169896+00:00"
     },
     "maaz": {
       "youtubeId": "UCz0M2pV4jOUUQ88lOd2q08A",
       "uploadsId": "UUz0M2pV4jOUUQ88lOd2q08A",
       "handle": "MaazSafderWorld",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T18:20:46.492844+00:00"
+      "lastFetchedAt": "2026-10-12T18:41:44.169896+00:00"
     },
     "matiullah": {
       "youtubeId": "UC-hJ0cobUiWlBFTHgLwt8sQ",
       "uploadsId": "UU-hJ0cobUiWlBFTHgLwt8sQ",
       "handle": "MatiullahJanMJtv",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T18:20:46.492844+00:00"
+      "lastFetchedAt": "2026-10-12T18:41:44.169896+00:00"
     },
     "p4pakao": {
       "youtubeId": "UCI9tIvSPsdxNEICjZk7ujUA",
       "uploadsId": "UUI9tIvSPsdxNEICjZk7ujUA",
       "handle": "p4pakaoofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T18:20:46.492844+00:00"
+      "lastFetchedAt": "2026-10-12T18:41:44.169896+00:00"
     },
     "dawnnews": {
       "youtubeId": "UCaxR-D8FjZ-2otbU0_Y2grg",
       "uploadsId": "UUaxR-D8FjZ-2otbU0_Y2grg",
       "handle": "dawnnewspakistan",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T18:32:46.798505+00:00"
+      "lastFetchedAt": "2026-10-12T18:41:44.169896+00:00"
     },
     "irfanjunejo": {
       "youtubeId": "UCUuDUW0Y6IQZYDvH1QQBsgA",
       "uploadsId": "UUUuDUW0Y6IQZYDvH1QQBsgA",
       "handle": "irfanjunejo",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T18:32:46.798505+00:00"
+      "lastFetchedAt": "2026-10-12T18:41:44.169896+00:00"
     },
     "kunfoods": {
       "youtubeId": "UCJEGvNxXunjqrcd2Xg9ntMQ",
       "uploadsId": "UUJEGvNxXunjqrcd2Xg9ntMQ",
       "handle": "KunFoods",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-12T18:32:46.798505+00:00"
+      "lastFetchedAt": "2026-10-12T18:41:44.169896+00:00"
     },
     "kitchenamna": {
       "youtubeId": "UCQ2P7C8UGoVM6AhqsVx-M0Q",
@@ -238,7 +238,7 @@
       "uploadsId": "UU-rP-oFlxQGpSLYHBlhIWkg",
       "handle": "mooroosicity",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-12T18:20:46.492844+00:00"
+      "lastFetchedAt": "2026-10-12T18:41:44.169896+00:00"
     },
     "aryfilms": {
       "youtubeId": "UC2PYniNHljOED9xNaMpiMiQ",
@@ -308,6 +308,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/0YKc4TJJb8s/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "8XZ19mb8KeE",
+      "title": "Apni gari sale karraha hon papa ke kehne par🥲",
+      "channel": "Maaz Safder",
+      "channelId": "maaz",
+      "youtubeChannelId": "UCz0M2pV4jOUUQ88lOd2q08A",
+      "category": "vloggers",
+      "genre": "Lifestyle & vlogs",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:31:08Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1146,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/8XZ19mb8KeE/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -53501,6 +53519,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Junaid Akram: channel unavailable",
+  "lastError": "Express News: channel unavailable; Asad Toor: channel unavailable; Siddique Jaan: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
