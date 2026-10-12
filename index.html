@@ -96,6 +96,7 @@
 
 
   <link rel="stylesheet" href="./cinema.css">
+  <link rel="stylesheet" href="./spotlight.css">
   <link rel="stylesheet" href="./cookie-consent.css">
 </head>
 <body>
@@ -317,24 +318,171 @@ function sectionHead(title,sub='',all='',label='See all →'){return `<div class
 function videoCard(v){const saved=state.favoriteVideos.includes(v.id);return `<article class="video-card"><div class="video-thumb"><a href="${videoURL(v.id)}" data-video="${escapeHTML(v.id)}" aria-label="Watch ${escapeHTML(v.title)} here"><img src="${thumb(v.id)}" alt="" loading="lazy" onerror="this.style.opacity='.15'"><span class="thumb-play" aria-hidden="true">▶</span><span class="source-tag">${escapeHTML(v.channel)}</span></a></div><div class="video-body"><h3>${escapeHTML(v.title)}</h3><div class="video-meta"><span>${escapeHTML(v.date||'Watch now')}</span><button type="button" data-video-fav="${escapeHTML(v.id)}" class="${saved?'saved':''}" title="${saved?'Remove favourite':'Add favourite'}" aria-label="${saved?'Remove from':'Add to'} favourites">${saved?'♥':'♡'}</button></div></div></article>`}
 function channelCard(c){const fav=state.favoriteChannels.includes(c.id);return `<article class="channel-card"><div class="channel-top"><div class="channel-avatar" style="--avatar-bg:linear-gradient(135deg,${c.colors[0]},${c.colors[1]})">${escapeHTML(c.initials)}</div><div><h3>${escapeHTML(c.name)}</h3><span>Official YouTube source</span></div></div><p class="channel-desc">${escapeHTML(c.description)}</p><div class="channel-actions"><button class="small-button accent" type="button" data-channel="${c.id}">▶ Videos</button><a class="small-button" href="${channelURL(c)}" target="_blank" rel="noopener noreferrer" aria-label="Open ${escapeHTML(c.name)} on YouTube">↗ YouTube</a><button type="button" class="small-button pin ${fav?'saved':''}" data-channel-fav="${c.id}" title="${fav?'Unpin channel':'Pin favourite channel'}" aria-label="${fav?'Unpin':'Pin'} ${escapeHTML(c.name)}">${fav?'♥':'♡'}</button></div></article>`}
 function showCard(show){const channel=fromChannel(show.channelId);return `<article class="channel-card"><div class="channel-top"><div class="channel-avatar" style="--avatar-bg:linear-gradient(135deg,#ae7a67,#595491)">${show.icon}</div><div><h3>${escapeHTML(show.name)}</h3><span>${escapeHTML(show.channel)}</span></div></div><p class="channel-desc">${escapeHTML(show.description)}</p><div class="channel-actions"><button class="small-button accent" data-show="${show.id}" type="button">⌕ Find episodes</button>${channel?`<a class="small-button" href="${channelURL(channel)}" target="_blank" rel="noopener noreferrer">↗ Channel</a>`:''}</div></article>`}
+// Featured drama carousel uses artwork already indexed from official TV sources.
+// The current slide is changed without repainting the rest of the site.
+const SPOTLIGHT_IDS=[
+  'hum-khushi','arydigital-izzat','harpalgeo-mohabbat',
+  'arydigital-rutba','harpalgeo-nashtar','hum-aangan',
+  'arydigital-main-tera','hum-hurmat'
+];
+const SPOTLIGHT_INTERVAL=7500;
+let spotlightIndex=0;
+let spotlightTimer=null;
+let spotlightPaused=false;
+let spotlightHovered=false;
+let spotlightFocused=false;
+const spotlightReducedMotion=window.matchMedia('(prefers-reduced-motion: reduce)');
+function spotlightChoices(){
+  const found=SPOTLIGHT_IDS.map(id=>LIBRARY.find(show=>show.id===id))
+    .filter(show=>show&&typeof state.showMeta[show.id]?.poster==='string'&&
+      /^https:\/\//.test(state.showMeta[show.id].poster));
+  // Include other genuinely illustrated serials if our spotlight choices rotate.
+  const extra=LIBRARY.filter(show=>show.type==='drama'&&
+    state.showMeta[show.id]?.poster&&/^https:\/\//.test(state.showMeta[show.id].poster));
+  const used=new Set();
+  const choices=[...found,...extra].filter(show=>!used.has(show.id)&&used.add(show.id));
+  return choices.slice(0,6);
+}
+function spotlightFallback(){
+  const seed=SEED_VIDEOS.find(v=>v.category==='dramas')||SEED_VIDEOS[0];
+  return '<div class="spotlight-slide is-active" aria-hidden="false">'+
+    '<div class="spotlight-art"><img src="'+escapeHTML(thumb(seed.id))+'" alt="" fetchpriority="high"></div>'+
+    '<div class="spotlight-shade"></div><div class="spotlight-slide-inner">'+
+    '<span class="spotlight-kicker"><span>✦ PAKTV GHAR</span> YOUR PAKISTANI TV HOME</span>'+
+    '<h1>Every story.<br>One beautiful place.</h1>'+
+    '<p class="spotlight-description">Dramas, current affairs, comedy and Pakistani creators. Find your next favourite from the original publishers.</p>'+
+    '<div class="spotlight-buttons"><button class="btn-primary" type="button" data-nav="dramas">▶ Explore dramas</button>'+
+    '<button class="btn-secondary" type="button" data-nav="archive">▦ Explore archive</button></div>'+
+    '</div></div>';
+}
 function hero(){
-  const selected=LIBRARY.find(show=>show.type==='drama'&&show.status==='airing'&&state.showMeta[show.id]?.poster)||
-    LIBRARY.find(show=>show.type==='drama'&&state.showMeta[show.id]?.poster);
-  const poster=selected&&state.showMeta[selected.id]?.poster;
-  const background=typeof poster==='string'&&/^https:\/\//.test(poster)?poster:thumb(SEED_VIDEOS[0].id);
-  const title=selected?escapeHTML(selected.name):'Stories worth <span>staying for.</span>';
-  const info=selected?'Featured from the '+escapeHTML(networkName[selected.network]||'Pakistani TV')+' collection. Browse available episodes and enjoy more stories from Pakistan.':
-    'Pakistani dramas, live news, hilarious comedy and the YouTubers you love. One place for all your favourites.';
-  const action=selected?
-    '<button type="button" class="btn-primary" data-series="'+escapeHTML(selected.id)+'">▶ &nbsp;Explore episodes</button>':
-    '<button type="button" class="btn-primary" data-nav="dramas">▶ &nbsp;Explore dramas</button>';
-  return '<section class="hero cinema-hero" aria-label="Featured Pakistani entertainment" style="--hero-image:url(&quot;'+escapeHTML(background)+'&quot;)">'+
-    '<div class="hero-content"><span class="eyebrow">✦ THE PAKTV GHAR SPOTLIGHT</span>'+
-    '<h1>'+title+'</h1>'+
-    '<div class="hero-meta"><span>'+escapeHTML(selected?(networkName[selected.network]||'Pakistani drama'):'PakTV Ghar')+'</span>'+
-    '<span>Pakistani stories</span><b>Updated regularly</b></div>'+
-    '<p>'+info+'</p><div class="hero-pills">'+action+
-    '<button type="button" class="btn-secondary" data-nav="archive">▦ &nbsp;Browse the archive</button></div></div></section>';
+  const choices=spotlightChoices();
+  spotlightIndex=choices.length?spotlightIndex%choices.length:0;
+  const slideMarkup=choices.length?choices.map((show,i)=>{
+    const meta=state.showMeta[show.id]||{};
+    const active=i===spotlightIndex;
+    const latest=meta.latestUpload?.number;
+    const label=show.status==='airing'?'Currently featured':show.status==='archive'?'From the classics':'Pakistani drama';
+    const background=meta.poster;
+    return '<article class="spotlight-slide'+(active?' is-active':'')+'" data-spotlight-slide="'+i+'" '+
+      'aria-hidden="'+(!active)+'"'+(active?'':' inert')+'>'+
+      '<div class="spotlight-art"><img src="'+escapeHTML(background)+'" alt="" '+
+      (i===0?'fetchpriority="high" loading="eager"':'loading="lazy"')+
+      ' decoding="async" referrerpolicy="no-referrer" onerror="this.style.opacity=0"></div>'+
+      '<div class="spotlight-shade"></div><div class="spotlight-slide-inner">'+
+      '<span class="spotlight-kicker"><span>✦ FEATURED DRAMA</span> '+escapeHTML(label)+'</span>'+
+      '<h1>'+escapeHTML(show.name)+'</h1>'+
+      '<div class="spotlight-meta"><span>'+escapeHTML(networkName[show.network]||show.network)+'</span>'+
+      '<span>Official publisher links</span>'+
+      (latest?'<span>Indexed episode '+escapeHTML(latest)+'</span>':'')+'</div>'+
+      '<p class="spotlight-description">Step into the world of '+escapeHTML(show.name)+
+      '. Discover available episodes, explore the original broadcaster, and save this Pakistani drama to your favourites.</p>'+
+      '<div class="spotlight-buttons"><button class="btn-primary" type="button" data-series="'+escapeHTML(show.id)+'">▶ Browse episodes</button>'+
+      '<button class="btn-secondary" type="button" data-nav="dramas">View all dramas →</button></div>'+
+      '</div></article>';
+  }).join(''):spotlightFallback();
+  const count=choices.length;
+  return '<section class="spotlight-section" aria-label="Featured Pakistani drama slideshow">'+
+    '<div class="spotlight-topline"><span class="spotlight-title">PakTV Ghar · The Spotlight</span>'+
+    '<span class="spotlight-channel-count">HUM · ARY · GEO · GREEN · PTV</span></div>'+
+    '<div id="spotlightCarousel" class="spotlight-stage'+(spotlightPaused||spotlightReducedMotion.matches?' is-paused':'')+
+    '" aria-roledescription="carousel" aria-label="Featured Pakistani dramas" tabindex="0">'+
+    '<div class="spotlight-glimmer" aria-hidden="true"></div>'+slideMarkup+
+    '<div class="spotlight-sheen" aria-hidden="true"></div>'+
+    (count>1?'<div class="spotlight-controls"><div class="spotlight-control-left">'+
+     '<span class="spotlight-counter" aria-label="Slide number"><strong data-spotlight-count>'+(spotlightIndex+1)+
+     '</strong> / '+count+'</span><div class="spotlight-dots" aria-label="Choose featured drama">'+
+     choices.map((show,i)=>'<button class="spotlight-dot'+(i===spotlightIndex?' is-active':'')+
+        '" type="button" data-spotlight-index="'+i+'" aria-label="Show '+escapeHTML(show.name)+
+        '" aria-pressed="'+(i===spotlightIndex)+'"></button>').join('')+
+     '</div></div><div class="spotlight-buttons-right">'+
+     '<button class="spotlight-nav" type="button" data-spotlight-move="-1" aria-label="Previous drama">‹</button>'+
+     '<button class="spotlight-pause" type="button" data-spotlight-pause aria-label="'+(spotlightPaused?'Play slideshow':'Pause slideshow')+
+     '" aria-pressed="'+spotlightPaused+'">'+(spotlightPaused?'▶':'Ⅱ')+'</button>'+
+     '<button class="spotlight-nav" type="button" data-spotlight-move="1" aria-label="Next drama">›</button>'+
+     '</div></div>':'')+'</div>'+
+    (count>1?'<div class="spotlight-mini-track" role="group" aria-label="Featured drama previews">'+
+      choices.map((show,i)=>'<button type="button" class="spotlight-mini'+(i===spotlightIndex?' is-active':'')+
+      '" data-spotlight-index="'+i+'" aria-pressed="'+(i===spotlightIndex)+'" aria-label="Show '+escapeHTML(show.name)+'">'+
+      '<img src="'+escapeHTML(state.showMeta[show.id].poster)+'" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">'+
+      '<span><strong>'+escapeHTML(show.name)+'</strong><small>'+escapeHTML(networkName[show.network]||show.network)+'</small></span></button>').join('')+
+      '</div>':'')+'</section>';
+}
+function updateSpotlight(index){
+  const hero=document.getElementById('spotlightCarousel');
+  if(!hero)return;
+  const slides=Array.from(hero.querySelectorAll('[data-spotlight-slide]'));
+  if(slides.length<2)return;
+  spotlightIndex=(Number(index)%slides.length+slides.length)%slides.length;
+  slides.forEach((slide,i)=>{
+    const active=i===spotlightIndex;
+    slide.classList.toggle('is-active',active);
+    slide.setAttribute('aria-hidden',String(!active));
+    slide.inert=!active;
+  });
+  document.querySelectorAll('[data-spotlight-index]').forEach(dot=>{
+    const active=Number(dot.dataset.spotlightIndex)===spotlightIndex;
+    dot.classList.toggle('is-active',active);
+    dot.setAttribute('aria-pressed',String(active));
+  });
+  const count=hero.querySelector('[data-spotlight-count]');
+  if(count)count.textContent=String(spotlightIndex+1);
+  updateSpotlightTimer();
+}
+function updateSpotlightTimer(){
+  clearTimeout(spotlightTimer);
+  spotlightTimer=null;
+  const carousel=document.getElementById('spotlightCarousel');
+  if(!carousel||state.page!=='home')return;
+  const stop=spotlightPaused||spotlightHovered||spotlightFocused||
+    spotlightReducedMotion.matches||document.hidden;
+  carousel.classList.toggle('is-paused',stop);
+  if(stop||carousel.querySelectorAll('[data-spotlight-slide]').length<2)return;
+  spotlightTimer=setTimeout(()=>updateSpotlight(spotlightIndex+1),SPOTLIGHT_INTERVAL);
+}
+function initSpotlightEvents(){
+  document.addEventListener('click',event=>{
+    const index=event.target.closest('[data-spotlight-index]');
+    if(index){updateSpotlight(Number(index.dataset.spotlightIndex));return;}
+    const advance=event.target.closest('[data-spotlight-move]');
+    if(advance){updateSpotlight(spotlightIndex+Number(advance.dataset.spotlightMove));return;}
+    const pause=event.target.closest('[data-spotlight-pause]');
+    if(pause){
+      spotlightPaused=!spotlightPaused;
+      pause.textContent=spotlightPaused?'▶':'Ⅱ';
+      pause.setAttribute('aria-label',spotlightPaused?'Play slideshow':'Pause slideshow');
+      pause.setAttribute('aria-pressed',String(spotlightPaused));
+      updateSpotlightTimer();
+    }
+  });
+  document.addEventListener('keydown',event=>{
+    if(event.target.closest('#spotlightCarousel')&&
+       (event.key==='ArrowLeft'||event.key==='ArrowRight')){
+      event.preventDefault();
+      updateSpotlight(spotlightIndex+(event.key==='ArrowRight'?1:-1));
+    }
+  });
+  document.addEventListener('pointerover',event=>{
+    const panel=event.target.closest('#spotlightCarousel');
+    if(panel&&event.pointerType==='mouse'&&!panel.contains(event.relatedTarget)){
+      spotlightHovered=true;updateSpotlightTimer();
+    }
+  });
+  document.addEventListener('pointerout',event=>{
+    const panel=event.target.closest('#spotlightCarousel');
+    if(panel&&event.pointerType==='mouse'&&!panel.contains(event.relatedTarget)){
+      spotlightHovered=false;updateSpotlightTimer();
+    }
+  });
+  document.addEventListener('focusin',event=>{
+    if(event.target.closest('#spotlightCarousel')){spotlightFocused=true;updateSpotlightTimer();}
+  });
+  document.addEventListener('focusout',event=>{
+    const panel=event.target.closest('#spotlightCarousel');
+    if(panel&&!panel.contains(event.relatedTarget)){spotlightFocused=false;updateSpotlightTimer();}
+  });
+  document.addEventListener('visibilitychange',updateSpotlightTimer);
+  spotlightReducedMotion.addEventListener?.('change',updateSpotlightTimer);
 }
 function cinemaHeading(title,subtitle,link,label){
   return '<div class="cinema-heading"><div><h2>'+escapeHTML(title)+'</h2>'+
@@ -479,7 +627,7 @@ ${videos.length?`${sectionHead('Videos',`${videos.length} available result${vide
 ${shows.length?`${sectionHead('Political & TV shows','Search for a specific programme by name.')}<div class="channel-grid">${shows.map(showCard).join('')}</div>`:''}
 ${channels.length?`${sectionHead('Channels & YouTubers','Browse videos or open the publisher.')}<div class="channel-grid">${channels.map(channelCard).join('')}</div>`:''}
 ${q&&!any&&!state.searchLoading?`<div class="empty-state"><div class="empty-emoji">🔎</div><h3>No matching videos in this catalogue</h3><p>For a full YouTube search, use the button below. Or try a shorter search, like “Humsafar”, “Capital Talk” or “Geo”.</p><a class="btn-primary" href="${escapeHTML(searchYouTube(q))}" target="_blank" rel="noopener noreferrer">Search YouTube ↗</a></div>`:''}`}
-function paint(){renderNav();el('mainContent').innerHTML=state.page==='home'?renderHome():state.page==='today'?renderToday():state.page==='show'?renderShowPage():state.page==='archive'?renderArchive():state.page==='favourites'?renderFavourites():state.page==='search'?renderSearch():renderCategory(state.page);if(state.page==='search'){el('searchInput').value=state.query}document.documentElement.lang=state.language==='ur'?'ur':'en';const s=el('searchInput');s.placeholder=state.language==='ur'?'ڈرامے، خبریں، ٹاک شوز، یوٹیوبرز تلاش کریں...':'Search dramas, political shows, YouTubers...'}
+function paint(){renderNav();el('mainContent').innerHTML=state.page==='home'?renderHome():state.page==='today'?renderToday():state.page==='show'?renderShowPage():state.page==='archive'?renderArchive():state.page==='favourites'?renderFavourites():state.page==='search'?renderSearch():renderCategory(state.page);updateSpotlightTimer();if(state.page==='search'){el('searchInput').value=state.query}document.documentElement.lang=state.language==='ur'?'ur':'en';const s=el('searchInput');s.placeholder=state.language==='ur'?'ڈرامے، خبریں، ٹاک شوز، یوٹیوبرز تلاش کریں...':'Search dramas, political shows, YouTubers...'}
 function toast(message){el('toast').textContent=message;el('toast').classList.add('show');clearTimeout(state.toastTimer);state.toastTimer=setTimeout(()=>el('toast').classList.remove('show'),2200)}
 function favVideo(id){const set=new Set(state.favoriteVideos);const v=pickVideo(id);if(set.has(id)){set.delete(id);delete state.savedVideoData[id]}else{set.add(id);if(v)state.savedVideoData[id]=v}state.favoriteVideos=[...set];safeSet('pgh_video_favs',state.favoriteVideos);safeSet('pgh_video_data',state.savedVideoData);toast(set.has(id)?'Video saved to favourites ♥':'Video removed from favourites');if(state.currentVideo?.id===id)el('playerFav').textContent=set.has(id)?'♥ Saved':'♡ Save';paint()}
 function favChannel(id){const set=new Set(state.favoriteChannels);set.has(id)?set.delete(id):set.add(id);state.favoriteChannels=[...set];safeSet('pgh_channel_favs',state.favoriteChannels);toast(set.has(id)?'Channel added to favourites ♥':'Channel unpinned');paint()}
@@ -774,7 +922,7 @@ document.addEventListener('change',e=>{
   if(e.target.id==='archiveSearch'){state.archiveQuery=e.target.value.trim();state.archiveLimit=30;paint();}
 });
 document.addEventListener('click',e=>{const link=e.target.closest('[data-series]');if(link){openSeries(link.dataset.series);return}const fav=e.target.closest('[data-series-fav]');if(fav){favoriteShow(fav.dataset.seriesFav);return}const era=e.target.closest('[data-era]');if(era){state.libraryFilter=era.dataset.era;state.visibleShows=30;paint();return}const net=e.target.closest('[data-net]');if(net){state.networkFilter=net.dataset.net;state.visibleShows=30;paint();return}if(e.target.closest('[data-more]')){state.visibleShows+=30;paint();return}const play=e.target.closest('[data-episode]');if(play){playIndexed(Number(play.dataset.episode));return}if(e.target.closest('[data-play-selected]')){playIndexed(Number(el('episodeSelect')?.value||0));return}if(e.target.closest('[data-reload-episodes]')){loadEpisodes(0);return}if(e.target.closest('[data-find-episode]')){const show=LIBRARY.find(x=>x.id===showId());const input=el('episodeNumber');const number=Number(input?.value);if(show&&Number.isInteger(number)&&number>=1&&number<=1200)window.open(publisherSearch(show,number),'_blank','noopener,noreferrer');else toast('Enter a valid episode number from 1 to 1200.')}});
-state.page=locationPage();bindEvents();paint();refreshFeeds();loadArchive();loadSchedule();loadShowMetadata();loadDiscovery();if(state.page==='show')loadEpisodes(0);setInterval(()=>{refreshFeeds();loadArchive();loadSchedule();loadShowMetadata();loadDiscovery()},15*60*1000);
+state.page=locationPage();bindEvents();initSpotlightEvents();paint();refreshFeeds();loadArchive();loadSchedule();loadShowMetadata();loadDiscovery();if(state.page==='show')loadEpisodes(0);setInterval(()=>{refreshFeeds();loadArchive();loadSchedule();loadShowMetadata();loadDiscovery()},15*60*1000);
 })();
 
 </script>
