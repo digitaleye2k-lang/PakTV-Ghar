@@ -82,7 +82,7 @@ create policy pgh_visible_messages on public.community_messages for select to an
 create or replace function public.pgh_public_messages(p_topic text,p_limit integer default 75)
 returns table(id bigint,topic text,nickname text,body text,created_at timestamptz)
 language plpgsql stable security definer set search_path=''
-as $
+as $$
 begin
  if p_topic not in ('general','dramas','movies','comedy','politics','youtubers') then
    raise exception 'Invalid discussion room'; end if;
@@ -90,7 +90,7 @@ begin
    from public.community_messages m where m.topic=p_topic and m.status='visible'
    order by m.created_at desc limit least(greatest(coalesce(p_limit,75),1),75);
 end;
-$;
+$$;
 revoke all on function public.pgh_public_messages(text,integer) from public,anon,authenticated;
 grant execute on function public.pgh_public_messages(text,integer) to anon,authenticated;
 -- Moderators get access via a narrowly scoped RPC; never expose private contact data.
@@ -220,7 +220,7 @@ create or replace function public.pgh_private_inbox()
 returns table(id bigint,kind text,nickname text,email text,subject text,
  details text,related_url text,status text,created_at timestamptz)
 language plpgsql stable security definer set search_path=''
-as $
+as $$
 begin
  if not public.pgh_owner() then raise exception 'Owner access required'; end if;
  return query select s.id,s.kind,s.nickname,s.email,s.subject,s.details,
@@ -229,19 +229,19 @@ begin
  order by case when s.status='new' then 0 else 1 end,s.created_at desc
  limit 250;
 end;
-$;
+$$;
 revoke all on function public.pgh_private_inbox() from public,anon,authenticated;
 grant execute on function public.pgh_private_inbox() to authenticated;
 create or replace function public.pgh_resolve_submission(p_id bigint,p_status text)
 returns void language plpgsql security definer set search_path=''
-as $
+as $$
 begin
  if not public.pgh_owner() then raise exception 'Owner access required'; end if;
  if p_status not in ('new','reviewing','resolved','rejected') then
    raise exception 'Invalid status'; end if;
  update public.community_submissions set status=p_status where id=p_id;
 end;
-$;
+$$;
 revoke all on function public.pgh_resolve_submission(bigint,text) from public,anon,authenticated;
 grant execute on function public.pgh_resolve_submission(bigint,text) to authenticated;
 
@@ -275,46 +275,18 @@ $$;
 revoke all on function public.pgh_review_queue() from public;
 grant execute on function public.pgh_review_queue() to authenticated;
 -- Private submissions and moderation reports are accessible ONLY to project owners.
-create or replace function public.pgh_owner()
-returns boolean language sql stable security definer set search_path=''
-as $select exists(select 1 from public.community_moderators where user_id=auth.uid() and role='owner')$;
-revoke all on function public.pgh_owner() from public;
-grant execute on function public.pgh_owner() to authenticated;
-create or replace function public.pgh_review_submissions()
-returns table(id bigint,kind text,nickname text,email text,subject text,details text,related_url text,status text,created_at timestamptz)
-language plpgsql stable security definer set search_path=''
-as $
-begin
- if not public.pgh_owner() then raise exception 'Site-owner access required'; end if;
- return query select s.id,s.kind,s.nickname,s.email,s.subject,s.details,s.related_url,s.status,s.created_at
- from public.community_submissions s order by s.created_at desc limit 150;
-end;
-$;
-revoke all on function public.pgh_review_submissions() from public;
-grant execute on function public.pgh_review_submissions() to authenticated;
 create or replace function public.pgh_review_message_reports()
 returns table(id bigint,message_id bigint,category text,note text,created_at timestamptz)
 language plpgsql stable security definer set search_path=''
-as $
+as $$
 begin
  if not public.pgh_moderator() then raise exception 'Moderator access required'; end if;
  return query select r.id,r.message_id,r.category,r.note,r.created_at
  from public.community_reports r order by r.created_at desc limit 100;
 end;
-$;
+$$;
 revoke all on function public.pgh_review_message_reports() from public;
 grant execute on function public.pgh_review_message_reports() to authenticated;
-create or replace function public.pgh_decide_submission(p_id bigint,p_status text)
-returns void language plpgsql security definer set search_path=''
-as $
-begin
- if not public.pgh_owner() then raise exception 'Owner access required'; end if;
- if p_status not in ('reviewing','resolved','rejected') then raise exception 'Invalid review status'; end if;
- update public.community_submissions set status=p_status where id=p_id;
-end;
-$;
-revoke all on function public.pgh_decide_submission(bigint,text) from public;
-grant execute on function public.pgh_decide_submission(bigint,text) to authenticated;
 -- Public aggregate counts without raw visitor identifiers.
 create or replace function public.pgh_visit_summary()
 returns jsonb language sql stable security definer set search_path=''
@@ -339,8 +311,7 @@ begin
    raise exception 'Server-only'; end if;
  -- Keep short-lived per-visitor digests for no more than one week.
  delete from public.community_visitor_tokens where visited_on < current_date-7;
- if p_digest !~ '^[0-9a-f]{64}
- if p_country !~ '^[A-Z]{2}$' then p_country:='ZZ'; end if;
+ if p_digest !~ '^[0-9a-f]{64} if p_country !~ '^[A-Z]{2}$' then p_country:='ZZ'; end if;
  insert into public.community_visitor_tokens(visited_on,visit_digest,country_code)
  values(current_date,p_digest,p_country) on conflict do nothing;
  get diagnostics changed=row_count;
@@ -354,13 +325,10 @@ end;
 $$;
 revoke all on function public.pgh_record_visit(text,text) from public;
 grant execute on function public.pgh_record_visit(text,text) to service_role;
--- Optional retention job for chat and private reports (requires pg_cron,
--- an owner-approved deletion schedule and reviewing legal obligations first):
+-- To set a data-retention period, review privacy obligations first.
 -- DELETE FROM public.community_messages WHERE created_at < now()-interval '90 days';
 -- DELETE FROM public.community_submissions WHERE created_at < now()-interval '365 days'
 --   AND status IN ('resolved','rejected');
--- Visitor deduplication tokens are automatically cleaned after 7 days as new
--- visits arrive. This is distinct from long-term anonymised country totals.
  then raise exception 'Invalid visit digest'; end if;
  if p_country !~ '^[A-Z]{2}$' then p_country:='ZZ'; end if;
  insert into public.community_visitor_tokens(visited_on,visit_digest,country_code)
@@ -376,6 +344,7 @@ end;
 $$;
 revoke all on function public.pgh_record_visit(text,text) from public;
 grant execute on function public.pgh_record_visit(text,text) to service_role;
--- Cleanup can be run daily using pg_cron if supported; this command is safe manually.
--- delete from public.community_visitor_tokens where visited_on<current_date-3;
--- delete from public.community_messages where created_at<now()-interval '90 days';
+-- To set a data-retention period, review privacy obligations first.
+-- DELETE FROM public.community_messages WHERE created_at < now()-interval '90 days';
+-- DELETE FROM public.community_submissions WHERE created_at < now()-interval '365 days'
+--   AND status IN ('resolved','rejected');
