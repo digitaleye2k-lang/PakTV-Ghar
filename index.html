@@ -239,6 +239,17 @@ const EXTRA_PROGRAMMES=[
  {id:'geonews-report-card',name:'Report Card',network:'geonews',type:'talk',status:'library'},
  {id:'geonews-jirga',name:'Jirga',network:'geonews',type:'talk',status:'library'},
  {id:'samaa-red-line',name:'Red Line',network:'samaa',type:'talk',status:'library'},
+ {id:'arynews-the-reporters',name:'The Reporters',network:'arynews',type:'talk',status:'library'},
+ {id:'arynews-11th-hour',name:'11th Hour',network:'arynews',type:'talk',status:'library'},
+ {id:'arynews-off-the-record',name:'Off The Record',network:'arynews',type:'talk',status:'library'},
+ {id:'geonews-capital-talk',name:'Capital Talk',network:'geonews',type:'talk',status:'library'},
+ {id:'geonews-aaj-shahzeb',name:'Aaj Shahzeb Khanzada Kay Sath',network:'geonews',type:'talk',status:'library'},
+ {id:'dunya-on-the-front',name:'On The Front',network:'dunya',type:'talk',status:'library'},
+ {id:'expressnews-kal-tak',name:'Kal Tak',network:'expressnews',type:'talk',status:'library'},
+ {id:'dunya-hasb-e-haal',name:'Hasb-e-Haal',network:'dunya',type:'satire',status:'library'},
+ {id:'geonews-khabarnaak',name:'Khabarnaak',network:'geonews',type:'satire',status:'library'},
+ {id:'dunya-khabardar',name:'Khabardar',network:'dunya',type:'satire',status:'library'},
+ {id:'geohasna-full-shows',name:'Hasna Mana Hai',network:'geohasna',type:'comedy',status:'library'},
  {id:'geoclassics-khabarnaak-classics',name:'Khabarnaak Classics',network:'geonews',type:'satire',status:'archive'},
  {id:'p4pakao-comedy',name:'P 4 Pakao',network:'p4pakao',type:'comedy',status:'library'},
  {id:'hasbehaal-special',name:'Hasb-e-Haal Specials',network:'hasbehaal',type:'satire',status:'library'},
@@ -332,6 +343,7 @@ function archiveMatches(v){
   if(period==='date'&&(!state.archiveDate||day!==state.archiveDate))return false;
   if(state.archiveCategory!=='all'&&v.category!==state.archiveCategory)return false;
   if(state.archiveChannel!=='all'&&v.channelId!==state.archiveChannel)return false;
+  if(state.archiveGenre!=='all'&&v.genre!==state.archiveGenre)return false;
   if(state.archiveQuery&&!(((v.title||'')+' '+(v.channel||'')).toLowerCase().includes(state.archiveQuery.toLowerCase())))return false;
   return true;
 }
@@ -339,6 +351,7 @@ function renderArchive(){
   const all=uniqueVideos([...state.archiveVideos,...state.feed.filter(v=>/^\d{4}-\d{2}-\d{2}$/.test(v.date||''))]);
   const matched=all.filter(archiveMatches).sort((a,b)=>(b.published||b.date||'').localeCompare(a.published||a.date||''));
   const availableChannels=CHANNELS.filter(c=>all.some(v=>v.channelId===c.id));
+  const availableGenres=[...new Set(all.map(v=>v.genre).filter(Boolean))].sort();
   const periods=[['all','All dates'],['today','Today'],['yesterday','Yesterday'],['week','Last 7 days'],['month','Last 30 days'],['older','Older videos'],['date','Choose date']];
   return '<div class="page-title"><span class="eyebrow">EXPLORE THE VIDEO ARCHIVE</span>'+
     '<h1>Yesterday &amp; older Pakistani videos</h1>'+
@@ -351,6 +364,8 @@ function renderArchive(){
     [['all','All topics'],['news','News'],['talk','Political shows'],['comedy','Comedy'],['vloggers','YouTubers'],['dramas','Dramas']].map(([value,label])=>'<option value="'+value+'"'+(value===state.archiveCategory?' selected':'')+'>'+label+'</option>').join('')+
     '</select></label><label class="archive-field">Channel<select id="archiveChannel">'+
     '<option value="all">All channels</option>'+availableChannels.map(c=>'<option value="'+escapeHTML(c.id)+'"'+(state.archiveChannel===c.id?' selected':'')+'>'+escapeHTML(c.name)+'</option>').join('')+
+    '</select></label><label class="archive-field">Creator topic<select id="archiveGenre"><option value="all">All creator topics</option>'+
+    availableGenres.map(g=>'<option value="'+escapeHTML(g)+'"'+(g===state.archiveGenre?' selected':'')+'>'+escapeHTML(g)+'</option>').join('')+
     '</select></label><label class="archive-field">Find in archive<input id="archiveSearch" type="search" value="'+escapeHTML(state.archiveQuery)+'" placeholder="Search titles or channels"></label></div></div>'+
     '<p class="archive-count"><b>'+matched.length+'</b> indexed videos match these filters. '+all.length+' total cached videos so far.</p>'+
     (matched.length?'<div class="media-grid">'+matched.slice(0,state.archiveLimit).map(videoCard).join('')+'</div>':
