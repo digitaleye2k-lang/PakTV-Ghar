@@ -113,6 +113,27 @@ class IndexTests(unittest.TestCase):
         self.assertNotIn(fake_secret, str(ctx.exception))
         self.assertNotIn("https://", str(ctx.exception))
 
+    def test_bad_secret_format_is_rejected_without_requests(self):
+        from youtube_index import index_api
+        result, _, status = index_api([SHOW], "YOUTUBE_API_KEY", {}, now=NOW)
+        self.assertFalse(result)
+        self.assertIn("wrong format", status['error'])
+        self.assertEqual(status['searches'], 0)
+
+    def test_minimal_google_api_probe_separates_key_failure(self):
+        from youtube_index import index_api
+        key = "AIza" + "A" * 35  # Deliberate non-secret test fixture
+        error = b'{"error":{"code":400,"errors":[{"reason":"badRequest"}],"message":"Request contains an invalid argument."}}'
+        response = HTTPError("https://www.googleapis.com/youtube/v3/videos",
+                             400, "Bad Request", {}, BytesIO(error))
+        with patch("youtube_index.urlopen", side_effect=response):
+            entries, _, status = index_api([SHOW], key, {}, now=NOW)
+        self.assertEqual(entries, {})
+        self.assertIn("Minimal YouTube API credential check: HTTP 400: badRequest",
+                      status['error'])
+        self.assertEqual(status['searches'], 0)
+        self.assertNotIn(key, status['error'])
+
     def test_no_secret_no_requests(self):
         def bad(*a, **b):
             raise AssertionError("Unexpected request")
