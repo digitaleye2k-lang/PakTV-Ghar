@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-12T19:05:31.915865+00:00",
+  "generatedAt": "2026-10-12T19:06:44.145027+00:00",
   "dateTimezone": "UTC",
-  "cursor": 29,
+  "cursor": 41,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -29,7 +29,7 @@
       "uploadsId": "UUgFG7lz7BI5hsNEifevrWSw",
       "handle": "ranahamzasaifrhs",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:03:27.018501+00:00"
+      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
     },
     "dunya": {
       "youtubeId": "UCG7xCQTxgy93j6r49wl48rw",
@@ -42,147 +42,147 @@
       "uploadsId": "UUQexaAjPn3-1MCE4DmBK3Tg",
       "handle": "villagefoodsecrets",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:03:27.018501+00:00"
+      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
     },
     "geohasna": {
       "youtubeId": "UC6HQ4d3xq9EgSeJgMhc-4AQ",
       "uploadsId": "UU6HQ4d3xq9EgSeJgMhc-4AQ",
       "handle": "GeoHasnaManaHai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:03:27.018501+00:00"
+      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
     },
     "streetfoodpk": {
       "youtubeId": "UCt8NJjYKc2aT3T0TnbcWxSw",
       "uploadsId": "UUt8NJjYKc2aT3T0TnbcWxSw",
       "handle": "streetfoodpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:03:27.018501+00:00"
+      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
     },
     "hum": {
       "youtubeId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
       "uploadsId": "UUEeEQxm6qc_qaTE7qTV5aLQ",
       "handle": "HUMTV",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:03:27.018501+00:00"
+      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
     },
     "arydigital": {
       "youtubeId": "UC4JCksJF76g_MdzPVBJoC3Q",
       "uploadsId": "UU4JCksJF76g_MdzPVBJoC3Q",
       "handle": "ARYDigitalasia",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:03:27.018501+00:00"
+      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
     },
     "sabir": {
       "youtubeId": "UCY7eFg5TEMsk_aTqM0pVB4w",
       "uploadsId": "UUY7eFg5TEMsk_aTqM0pVB4w",
       "handle": "sabirshakirpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:03:27.018501+00:00"
+      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
     },
     "harpalgeo": {
       "youtubeId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
       "uploadsId": "UUe9JSDmyqNgA_l2BzGHq1Ug",
       "handle": "HarPalGeoOfficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T19:03:27.018501+00:00"
+      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
     },
     "foodfusion": {
       "youtubeId": "UCuqBZWK9Wrol_4Y22DzisFQ",
       "uploadsId": "UUuqBZWK9Wrol_4Y22DzisFQ",
       "handle": "FoodfusionPk",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T19:05:31.915865+00:00"
+      "lastFetchedAt": "2026-10-12T19:04:18.449148+00:00"
     },
     "samaa": {
       "youtubeId": "UCJekW1Vj5fCVEGdye_mBN6Q",
       "uploadsId": "UUJekW1Vj5fCVEGdye_mBN6Q",
       "handle": "SAMAATV",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T19:05:31.915865+00:00"
+      "lastFetchedAt": "2026-10-12T19:04:18.449148+00:00"
     },
     "hasbehaal": {
       "youtubeId": "UCyiJNpF7RgpPhyeKc4wnQkg",
       "uploadsId": "UUyiJNpF7RgpPhyeKc4wnQkg",
       "handle": "hasbehaalofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T19:05:31.915865+00:00"
+      "lastFetchedAt": "2026-10-12T19:04:18.449148+00:00"
     },
     "pakexperience": {
       "youtubeId": "UC44l9XMwecN5nSgIF2Dvivg",
       "uploadsId": "UU44l9XMwecN5nSgIF2Dvivg",
       "handle": "ThePakistanExperience",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T19:05:31.915865+00:00"
+      "lastFetchedAt": "2026-10-12T19:04:18.449148+00:00"
     },
     "maaz": {
       "youtubeId": "UCz0M2pV4jOUUQ88lOd2q08A",
       "uploadsId": "UUz0M2pV4jOUUQ88lOd2q08A",
       "handle": "MaazSafderWorld",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T19:05:31.915865+00:00"
+      "lastFetchedAt": "2026-10-12T19:04:18.449148+00:00"
     },
     "matiullah": {
       "youtubeId": "UC-hJ0cobUiWlBFTHgLwt8sQ",
       "uploadsId": "UU-hJ0cobUiWlBFTHgLwt8sQ",
       "handle": "MatiullahJanMJtv",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T18:42:33.299492+00:00"
+      "lastFetchedAt": "2026-10-12T19:06:44.145027+00:00"
     },
     "p4pakao": {
       "youtubeId": "UCI9tIvSPsdxNEICjZk7ujUA",
       "uploadsId": "UUI9tIvSPsdxNEICjZk7ujUA",
       "handle": "p4pakaoofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T18:42:33.299492+00:00"
+      "lastFetchedAt": "2026-10-12T19:06:44.145027+00:00"
     },
     "dawnnews": {
       "youtubeId": "UCaxR-D8FjZ-2otbU0_Y2grg",
       "uploadsId": "UUaxR-D8FjZ-2otbU0_Y2grg",
       "handle": "dawnnewspakistan",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T18:42:33.299492+00:00"
+      "lastFetchedAt": "2026-10-12T19:06:44.145027+00:00"
     },
     "irfanjunejo": {
       "youtubeId": "UCUuDUW0Y6IQZYDvH1QQBsgA",
       "uploadsId": "UUUuDUW0Y6IQZYDvH1QQBsgA",
       "handle": "irfanjunejo",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T18:42:33.299492+00:00"
+      "lastFetchedAt": "2026-10-12T19:06:44.145027+00:00"
     },
     "kunfoods": {
       "youtubeId": "UCJEGvNxXunjqrcd2Xg9ntMQ",
       "uploadsId": "UUJEGvNxXunjqrcd2Xg9ntMQ",
       "handle": "KunFoods",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-12T18:42:33.299492+00:00"
+      "lastFetchedAt": "2026-10-12T19:06:44.145027+00:00"
     },
     "kitchenamna": {
       "youtubeId": "UCQ2P7C8UGoVM6AhqsVx-M0Q",
       "uploadsId": "UUQ2P7C8UGoVM6AhqsVx-M0Q",
       "handle": "KitchenWithAmna",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-12T18:43:36.885355+00:00"
+      "lastFetchedAt": "2026-10-12T19:06:44.145027+00:00"
     },
     "geoclassics": {
       "youtubeId": "UCLUfX9--VscMEKnIE6thhbg",
       "uploadsId": "UULUfX9--VscMEKnIE6thhbg",
       "handle": "GeoNewsClassics",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-12T18:43:36.885355+00:00"
+      "lastFetchedAt": "2026-10-12T19:06:44.145027+00:00"
     },
     "wildlens": {
       "youtubeId": "UCf1XIplYiqNv9baGsFHwPPQ",
       "uploadsId": "UUf1XIplYiqNv9baGsFHwPPQ",
       "handle": "WildLensByAbrar",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-12T18:43:36.885355+00:00"
+      "lastFetchedAt": "2026-10-12T19:06:44.145027+00:00"
     },
     "ruby": {
       "youtubeId": "UCMhx-uS3O-G_6_lTrYmDKLw",
       "uploadsId": "UUMhx-uS3O-G_6_lTrYmDKLw",
       "handle": "RubyKaKitchen",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-12T18:43:36.885355+00:00"
+      "lastFetchedAt": "2026-10-12T19:06:44.145027+00:00"
     },
     "ijazfood": {
       "youtubeId": "UCc1BSASBDsE_XYOTxD9SNmA",
@@ -196,49 +196,49 @@
       "uploadsId": "UUF2ltLX1dnPa6-L1paPaMzw",
       "handle": "GreenEntertainmentTV",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-12T19:03:27.018501+00:00"
+      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
     },
     "ptvhome": {
       "youtubeId": "UCMfwlaPLGMn44BKvHv15yzA",
       "uploadsId": "UUMfwlaPLGMn44BKvHv15yzA",
       "handle": "PTVHomeEntertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-12T19:03:27.018501+00:00"
+      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
     },
     "expressent": {
       "youtubeId": "UCU1r97baEf3JJI5fY6NtMpA",
       "uploadsId": "UUU1r97baEf3JJI5fY6NtMpA",
       "handle": "expressentertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-12T19:05:31.915865+00:00"
+      "lastFetchedAt": "2026-10-12T19:04:18.449148+00:00"
     },
     "ptvnews": {
       "youtubeId": "UC5RvV_LtR1dxPCVFGw6dxXA",
       "uploadsId": "UU5RvV_LtR1dxPCVFGw6dxXA",
       "handle": "PTVNewsOfficial",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-12T19:05:31.915865+00:00"
+      "lastFetchedAt": "2026-10-12T19:04:18.449148+00:00"
     },
     "aajnews": {
       "youtubeId": "UCgBAPAcLsh_MAPvJprIz89w",
       "uploadsId": "UUgBAPAcLsh_MAPvJprIz89w",
       "handle": "aajtvofficial",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-12T19:05:31.915865+00:00"
+      "lastFetchedAt": "2026-10-12T19:04:18.449148+00:00"
     },
     "aajent": {
       "youtubeId": "UC2m98kh188cg_9x248IZM9A",
       "uploadsId": "UU2m98kh188cg_9x248IZM9A",
       "handle": "aajentertainment",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-12T19:05:31.915865+00:00"
+      "lastFetchedAt": "2026-10-12T19:04:18.449148+00:00"
     },
     "mooroo": {
       "youtubeId": "UC-rP-oFlxQGpSLYHBlhIWkg",
       "uploadsId": "UU-rP-oFlxQGpSLYHBlhIWkg",
       "handle": "mooroosicity",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-12T19:05:31.915865+00:00"
+      "lastFetchedAt": "2026-10-12T19:04:18.449148+00:00"
     },
     "aryfilms": {
       "youtubeId": "UC2PYniNHljOED9xNaMpiMiQ",
@@ -365,6 +365,78 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "GmP-Hfg60xo",
+      "title": "🔴 Live: Deputy Prime Minister Ishaq Dar Addresses a Seminar | Dawn News Live",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:53:35Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1971,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/GmP-Hfg60xo/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "t-8oAK08J-o",
+      "title": "Security Operations And Public Concerns | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:53:23Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 437,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/t-8oAK08J-o/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "-ac4EJGS8Zo",
+      "title": "What Is Left For PTI Now After Governor Rule In KP? | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:52:40Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 278,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/-ac4EJGS8Zo/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "CVUy_5vrPtY",
+      "title": "Where Did Governor Rule Decision In KP Come From? | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:51:28Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 652,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/CVUy_5vrPtY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "pjF9Vyv-F34",
       "title": "Bhai Bhabhi Ke Liye Kuch Karne Se Pehle Maa Se Ijazat Tou Lete | Humayoun Ashraf | Madaar | Green TV",
       "channel": "Green Entertainment",
@@ -380,6 +452,42 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/pjF9Vyv-F34/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "DAA8jzzXPhw",
+      "title": "KP: Arrests, Restrictions, New Appointments - Latest Update | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:49:13Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1161,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/DAA8jzzXPhw/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "nBGlMEoZdmQ",
+      "title": "Target IK: Governor's Rule On 'Security' Pretext Ends PTI Rule In KP | Zara Hat Kay | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:47:07Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2527,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/nBGlMEoZdmQ/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -12062,24 +12170,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/X2P0AOZGkx8/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "GmP-Hfg60xo",
-      "title": "🔴 Live: Deputy Prime Minister Ishaq Dar Addresses a Seminar | Dawn News Live",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-12",
-      "published": "2026-10-12T06:03:49Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 1956,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/GmP-Hfg60xo/hqdefault_live.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -53807,6 +53897,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Junaid Akram: channel unavailable; Express News: channel unavailable",
+  "lastError": "Asad Toor: channel unavailable; Siddique Jaan: channel unavailable; HUM TV Comedy: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
