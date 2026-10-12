@@ -120,9 +120,7 @@ async function loadChat(){
   if(!backend||loading)return;
   loading=true;
   try{
-    const {data,error}=await backend.from("community_messages")
-      .select("id,topic,nickname,body,created_at")
-      .eq("topic",chatRoom).order("created_at",{ascending:false}).limit(75);
+    const {data,error}=await backend.rpc("pgh_public_messages",{p_topic:chatRoom,p_limit:75});
     if(error)throw error;
     const box=el("chatMessages");box.replaceChildren();
     const list=(data||[]).slice().reverse();
