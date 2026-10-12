@@ -178,7 +178,10 @@ const CHANNELS = [
  {id:'hum',name:'HUM TV',handle:'HUMTV',category:'dramas',initials:'HUM',colors:['#ba779f','#6145ad'],description:'Full Pakistani dramas, classic serials and popular episodes.',featured:true},
  {id:'arydigital',name:'ARY Digital',handle:'ARYDigitalasia',category:'dramas',initials:'ARY',colors:['#dca369','#ae5d48'],description:'Drama serials, complete episodes and family entertainment.',featured:true},
  {id:'harpalgeo',name:'Har Pal Geo',handle:'HarPalGeoOfficial',category:'dramas',initials:'GEO',colors:['#6c7bda','#42529c'],description:'Geo Entertainment dramas and full episodes.',featured:true},
- {id:'expressent',name:'Express Entertainment',handle:'expressentertainment',category:'dramas',initials:'EX',colors:['#bb7a6a','#853847'],description:'Popular Pakistani entertainment shows and dramas.'},
+ {id:'expressent',name:'Express TV',handle:'expressentertainment',category:'dramas',initials:'EX',colors:['#ed6b67','#963849'],description:'Express Entertainment dramas, family serials and YouTube episodes.'},
+ {id:'greentv',name:'Green Entertainment',handle:'GreenEntertainmentTV',category:'dramas',initials:'GRN',colors:['#72b9a1','#225f52'],description:'Original Pakistani drama serials, including Kabli Pulao, Gentleman and Jeevan Nagar.'},
+ {id:'ptvhome',name:'PTV Home',handle:'PTVHomeEntertainment',category:'dramas',initials:'PTV',colors:['#8cbd78','#276c49'],description:'PTV drama classics and family programming from Pakistan Television.'},
+ {id:'ptvnews',name:'PTV News',handle:'PTVNewsOfficial',category:'news',initials:'PTV',colors:['#5da5c0','#195475'],description:'Pakistan Television news, headlines and current affairs.'},
  {id:'geonews',name:'Geo News',handle:'geonews',category:'news',initials:'GEO',colors:['#e48f4a','#af5241'],description:'News updates, current affairs and Capital Talk.'},
  {id:'arynews',name:'ARY News',handle:'ArynewsTvofficial',category:'news',initials:'ARY',colors:['#d86c63','#90294a'],description:'Headlines, breaking news and Off The Record.'},
  {id:'samaa',name:'SAMAA TV',handle:'SAMAATV',category:'news',initials:'S',colors:['#7cb3ce','#3f6799'],description:'Pakistan headlines, interviews and political reporting.'},
@@ -240,6 +243,24 @@ const EXTRA_PROGRAMMES=[
  {id:'geonews-report-card',name:'Report Card',network:'geonews',type:'talk',status:'library'},
  {id:'geonews-jirga',name:'Jirga',network:'geonews',type:'talk',status:'library'},
  {id:'samaa-red-line',name:'Red Line',network:'samaa',type:'talk',status:'library'},
+ {id:'greentv-kabli-pulao',name:'Kabli Pulao',network:'greentv',type:'drama',status:'library'},
+ {id:'greentv-gentleman',name:'Gentleman',network:'greentv',type:'drama',status:'library'},
+ {id:'greentv-jeevan-nagar',name:'Jeevan Nagar',network:'greentv',type:'drama',status:'library'},
+ {id:'greentv-jindo',name:'Jindo',network:'greentv',type:'drama',status:'library'},
+ {id:'greentv-standup-girl',name:'Standup Girl',network:'greentv',type:'drama',status:'library'},
+ {id:'greentv-iqtidar',name:'Iqtidar',network:'greentv',type:'drama',status:'library'},
+ {id:'greentv-faraar',name:'Faraar',network:'greentv',type:'drama',status:'library'},
+ {id:'greentv-laaj',name:'Laaj',network:'greentv',type:'drama',status:'library'},
+ {id:'greentv-intekhab',name:'Intekhab',network:'greentv',type:'drama',status:'library'},
+ {id:'ptvhome-dhoop-kinare',name:'Dhoop Kinare',network:'ptvhome',type:'drama',status:'archive'},
+ {id:'ptvhome-tanhaiyaan',name:'Tanhaiyaan',network:'ptvhome',type:'drama',status:'archive'},
+ {id:'ptvhome-ankahi',name:'Ankahi',network:'ptvhome',type:'drama',status:'archive'},
+ {id:'ptvhome-alpha-bravo-charlie',name:'Alpha Bravo Charlie',network:'ptvhome',type:'drama',status:'archive'},
+ {id:'ptvhome-waris',name:'Waris',network:'ptvhome',type:'drama',status:'archive'},
+ {id:'expressent-bhanwar',name:'Bhanwar',network:'expressent',type:'drama',status:'archive'},
+ {id:'expressent-muthi-bhar-chahat',name:'Muthi Bhar Chahat',network:'expressent',type:'drama',status:'archive'},
+ {id:'ptvnews-current-affairs',name:'PTV News Current Affairs',network:'ptvnews',type:'talk',status:'library'},
+ {id:'samaa-naeem-bukhari',name:'Samaa News Analysis',network:'samaa',type:'talk',status:'library'},
  {id:'arynews-the-reporters',name:'The Reporters',network:'arynews',type:'talk',status:'library'},
  {id:'arynews-11th-hour',name:'11th Hour',network:'arynews',type:'talk',status:'library'},
  {id:'arynews-off-the-record',name:'Off The Record',network:'arynews',type:'talk',status:'library'},
@@ -434,10 +455,10 @@ function changeSearch(input){state.query=input;clearTimeout(state.searchTimer);i
 function bindEvents(){el('searchInput').addEventListener('input',e=>changeSearch(e.target.value));el('searchInput').addEventListener('keydown',e=>{if(e.key==='Escape'&&e.target.value){e.target.value='';changeSearch('')}});el('topFavourites').addEventListener('click',()=>navTo('favourites'));el('languageButton').addEventListener('click',()=>{state.language=state.language==='en'?'ur':'en';safeSet('pgh_lang',state.language);paint();toast(state.language==='ur'?'زبان تبدیل ہو گئی':'Language changed')});el('closePlayer').addEventListener('click',closeVideo);el('playerOverlay').addEventListener('click',e=>{if(e.target.closest('[data-close]'))closeVideo()});el('playerFav').addEventListener('click',()=>{if(state.currentVideo)favVideo(state.currentVideo.id)});document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!el('playerOverlay').hidden)closeVideo();if(e.key==='/'&&document.activeElement?.tagName!=='INPUT'){e.preventDefault();el('searchInput').focus()}});document.addEventListener('click',e=>{const nav=e.target.closest('[data-nav]');if(nav){navTo(nav.dataset.nav);return}const vid=e.target.closest('[data-video]');if(vid){e.preventDefault();const v=pickVideo(vid.dataset.video);if(v)watchVideo(v);return}const vf=e.target.closest('[data-video-fav]');if(vf){favVideo(vf.dataset.videoFav);return}const cf=e.target.closest('[data-channel-fav]');if(cf){favChannel(cf.dataset.channelFav);return}const ch=e.target.closest('[data-channel]');if(ch){const c=fromChannel(ch.dataset.channel);if(c)openChannelVideos(c);return}const sh=e.target.closest('[data-show]');if(sh){const show=SHOWS.find(s=>s.id===sh.dataset.show);if(show)searchShow(show)}});window.addEventListener('hashchange',()=>{state.page=locationPage();paint();if(state.page==='show')loadEpisodes(0);window.scrollTo(0,0)})}
 
 // ── Expanded catalogue, verified episode picker, and Pakistan-time programme guide ──
-const networkName={hum:'HUM TV',arydigital:'ARY Digital',harpalgeo:'Har Pal Geo',dunya:'Dunya News',geonews:'Geo News',arynews:'ARY News',expressnews:'Express News',pakexperience:'The Pakistan Experience'};
-const networkShort={hum:'HUM',arydigital:'ARY',harpalgeo:'GEO',dunya:'DUNYA',geonews:'GEO',arynews:'ARY',expressnews:'EXPRESS'};
+const networkName={hum:'HUM TV',arydigital:'ARY Digital',harpalgeo:'Har Pal Geo',greentv:'Green Entertainment',ptvhome:'PTV Home',expressent:'Express TV',ptvnews:'PTV News',samaa:'SAMAA TV',dunya:'Dunya News',geonews:'Geo News',arynews:'ARY News',expressnews:'Express News',pakexperience:'The Pakistan Experience'};
+const networkShort={hum:'HUM',arydigital:'ARY',harpalgeo:'GEO',greentv:'GREEN',ptvhome:'PTV',expressent:'EXPRESS',ptvnews:'PTV NEWS',samaa:'SAMAA',dunya:'DUNYA',geonews:'GEO',arynews:'ARY',expressnews:'EXPRESS'};
 const publisherSearch=(show,number)=>`https://www.youtube.com/results?search_query=${encodeURIComponent(show.name+' Episode '+(number||'')+' '+(networkName[show.network]||show.network)+' official full')}`;
-const broadcasterLink=(show)=>show.officialUrl||(show.network==='hum'?'https://hum.tv/dramas/':show.network==='arydigital'?'https://arydigital.tv/drama/':show.network==='harpalgeo'?'https://harpalgeo.tv/videos':'https://www.youtube.com/');
+const broadcasterLink=(show)=>show.officialUrl||(show.network==='hum'?'https://hum.tv/dramas/':show.network==='arydigital'?'https://arydigital.tv/drama/':show.network==='harpalgeo'?'https://harpalgeo.tv/videos':show.network==='greentv'?'https://greenentertainment.tv/drama':show.network==='ptvhome'?'https://www.youtube.com/@PTVHomeEntertainment':show.network==='expressent'?'https://www.youtube.com/@expressentertainment':'https://www.youtube.com/');
 const showId=()=>decodeURIComponent(location.hash.slice(6));
 
 function showDetails(s){
@@ -478,7 +499,31 @@ function seriesCard(s){
     '<button class="series-fav '+(fav?'saved':'')+'" type="button" data-series-fav="'+escapeHTML(s.id)+'" aria-label="'+(fav?'Remove':'Add')+' '+escapeHTML(s.name)+' favourite">'+(fav?'♥':'♡')+'</button></article>';
 }
 
-function renderLibrary(type){const isDrama=type==='dramas';if(isDrama&&!['all','hum','arydigital','harpalgeo'].includes(state.networkFilter))state.networkFilter='all';let base=LIBRARY.filter(s=>isDrama?s.type==='drama':s.type==='comedy'||s.type==='satire'||s.type==='reality');if(state.networkFilter!=='all')base=base.filter(s=>s.network===state.networkFilter);if(state.libraryFilter==='featured')base=base.filter(s=>isDrama?['airing','upcoming','recent'].includes(s.status):s.status!=='archive');if(state.libraryFilter==='classic')base=base.filter(s=>s.status==='archive'||s.status==='library');const count=base.length;return `<div class="page-title"><span class="eyebrow">DISCOVER & WATCH</span><h1>${isDrama?'Pakistani drama library':'Comedy & political satire'}</h1><p>${isDrama?'Browse new and older serials across HUM TV, ARY Digital and Geo.':'Mazaaq Raat / Muzakraat, Hasna Mana Hai, Hasb-e-Haal, Khabarnaak, Bulbulay and more.'} Select a programme to browse actual indexed episodes or search the official source.</p></div><div class="library-tools"><div class="chips" role="group" aria-label="Programme era">${[['featured','Featured & recent'],['classic','Older favourites'],['all','Everything']].map(([id,label])=>`<button type="button" class="chip ${state.libraryFilter===id?'active':''}" data-era="${id}">${label}</button>`).join('')}</div><div class="chips" role="group" aria-label="Broadcaster">${[['all','All channels'],['hum','HUM'],['arydigital','ARY Digital'],['harpalgeo','Geo'],['dunya','Dunya']].filter(([id])=>id==='all'||!isDrama||['hum','arydigital','harpalgeo'].includes(id)).map(([id,label])=>`<button type="button" class="chip ${state.networkFilter===id?'active':''}" data-net="${id}">${label}</button>`).join('')}</div></div>${sectionHead(`${count} programmes`,'Tap Browse episodes to open the episode selector.')}<div class="series-grid">${base.slice(0,state.visibleShows).map(seriesCard).join('')}</div>${count>state.visibleShows?`<div class="load-more"><button class="btn-secondary" type="button" data-more>Show more programmes (${count-state.visibleShows} remaining) ↓</button></div>`:''}${!isDrama?sectionHead('Comedy uploads','Recent videos from Pakistani humour and satire channels.','archive','Explore older comedy →')+'<div class="media-grid">'+catVideos('comedy').slice(0,18).map(videoCard).join('')+'</div>':''}${renderInfo()}`}
+function renderLibrary(type){
+  const isDrama=type==='dramas';
+  const dramaNetworks=['hum','arydigital','harpalgeo','greentv','ptvhome','expressent'];
+  const availableNetworks=isDrama?dramaNetworks:['dunya','geonews','geohasna','p4pakao','hasbehaal','greentv'];
+  if(state.networkFilter!=='all'&&!availableNetworks.includes(state.networkFilter))state.networkFilter='all';
+  let base=LIBRARY.filter(s=>isDrama?s.type==='drama':s.type==='comedy'||s.type==='satire'||s.type==='reality');
+  if(state.networkFilter!=='all')base=base.filter(s=>s.network===state.networkFilter);
+  if(state.libraryFilter==='featured')base=base.filter(s=>isDrama?['airing','upcoming','recent'].includes(s.status):s.status!=='archive');
+  if(state.libraryFilter==='classic')base=base.filter(s=>s.status==='archive'||s.status==='library');
+  const count=base.length;
+  const filters=[['all','All networks'],...availableNetworks.map(id=>[id,networkName[id]||id])];
+  return '<div class="page-title"><span class="eyebrow">THE PAKTV COLLECTION</span><h1>'+ (isDrama?'Pakistani Drama Universe':'Comedy &amp; Political Satire')+
+    '</h1><p>'+(isDrama?'Explore dramas from HUM, ARY, Geo, Green Entertainment, PTV Home and Express TV.':'Explore comedy, satire and interviews from Pakistani channels.')+
+    ' Choose a show to explore verified uploads or search its original broadcaster.</p></div>'+
+    '<div class="library-tools"><div class="chips" role="group" aria-label="Programme era">'+
+    [['featured','Spotlight'],['classic','Classics & libraries'],['all','All shows']].map(([id,label])=>'<button type="button" class="chip '+(state.libraryFilter===id?'active':'')+'" data-era="'+id+'">'+label+'</button>').join('')+
+    '</div><div class="chips" role="group" aria-label="Broadcaster">'+
+    filters.map(([id,label])=>'<button type="button" class="chip '+(state.networkFilter===id?'active':'')+'" data-net="'+id+'">'+escapeHTML(label)+'</button>').join('')+
+    '</div></div>'+sectionHead(count+' programmes','Official sources where available · episodes may vary by region')+
+    '<div class="series-grid">'+base.slice(0,state.visibleShows).map(seriesCard).join('')+'</div>'+
+    (count>state.visibleShows?'<div class="load-more"><button class="btn-secondary" type="button" data-more>Load more shows ('+(count-state.visibleShows)+' remaining) ↓</button></div>':'')+
+    (!isDrama?sectionHead('Comedy uploads','Latest comedy videos and interviews.','archive','Browse archive →')+
+     '<div class="media-grid">'+catVideos('comedy').slice(0,18).map(videoCard).join('')+'</div>':'')+
+    renderInfo();
+}
 function nowInPakistan(){return new Intl.DateTimeFormat('en-GB',{timeZone:'Asia/Karachi',weekday:'long',day:'numeric',month:'long',year:'numeric',hour:'2-digit',minute:'2-digit',hour12:false}).format(new Date())}
 function pakistanMinutes(){let p=new Intl.DateTimeFormat('en-GB',{timeZone:'Asia/Karachi',hour:'2-digit',minute:'2-digit',hour12:false}).format(new Date());return p}
 function pakistanDate(){return new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Karachi',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date()).replace(/\//g,'-')}
