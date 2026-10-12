@@ -17,7 +17,7 @@ PakTV Ghar is an independent discovery directory. It does not host, upload or st
 - [Privacy & Cookies Policy](./privacy.html) explains browser storage, third-party advertising and video embeds.
 - Consent is versioned and stored locally. No Adsterra script tags appear directly in index.html; third-party ad code loads only after active opt-in.
 - Separate optional choices for display ads (native + 468x60 banner) and the additional ad script. Both are off by default.
-- Third-party ad creatives run within sandboxed frames. Some ad placements may not support this; real advertiser display must be tested.
+- Compatibility fix: the 468×60 banner loads through a separate `ad-banner.html` page, while the native and additional ad scripts are dynamically inserted into the normal page only after explicit opt-in. These external scripts are **not sandboxed** and may affect browsing; the extra category may show pop-ups/redirects. Verify real advertiser behaviour before promoting it widely.
 - A Cookie settings button in the footer allows later withdrawal. Reload stops the ad scripts but does not delete existing third-party cookies.
 - Domains: profitableratecpmnetwork.com and highrevenueformat.com.
 - Owner to-do: provide private contact details and carry out a real ad/cookie audit; check whether a consent management platform is required. This implementation does not guarantee legal compliance.
