@@ -75,7 +75,7 @@ class IndexTests(unittest.TestCase):
                                               now=NOW + timedelta(hours=2))
         self.assertEqual(stats2['searches'], 2)
         self.assertTrue(entries2[SHOW['id']])
-        self.assertEqual(len([c for c in calls if c[0] == 'channels']), 1)
+        self.assertEqual(len([c for c in calls if c[0] == 'channels']), 3)  # Each broadcaster resolved only once
 
     def test_no_secret_no_requests(self):
         def bad(*a, **b):
