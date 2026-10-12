@@ -2,7 +2,7 @@
 (() => {
   "use strict";
   const KEY = "pgh_consent_v1";
-  const VERSION = 1;
+  const VERSION = 2; // New Google advertising vendor requires fresh consent.
   const AGE = 180 * 24 * 60 * 60 * 1000;
   const GPC = navigator.globalPrivacyControl === true;
   function choice() {
@@ -10,13 +10,13 @@
       const v=JSON.parse(localStorage.getItem(KEY)||"null");
       if(!v||v.version!==VERSION||!v.date||!Number.isFinite(Date.parse(v.date))||
          Date.now()-Date.parse(v.date)>AGE||Date.parse(v.date)>Date.now()+60000)return null;
-      return {ads:v.ads===true,extra:v.extra===true};
+      return {ads:v.ads===true,extra:v.extra===true,googleAds:v.googleAds===true};
     } catch{return null;}
   }
-  function save(ads,extra) {
+  function save(ads,extra,googleAds) {
     try {
       localStorage.setItem(KEY,JSON.stringify({version:VERSION,date:new Date().toISOString(),
-        ads:!GPC&&!!ads,extra:!GPC&&!!extra}));
+        ads:!GPC&&!!ads,extra:!GPC&&!!extra,googleAds:!GPC&&!!googleAds}));
     }catch{}
     window.location.reload(); // Removes previously loaded ad frames when withdrawing.
   }
@@ -78,13 +78,25 @@
     script.setAttribute("data-adsterra-extra","true");
     document.body.appendChild(script);
   }
+  function loadGoogleAds(){
+    // Google AdSense Auto ads: insert the exact publisher script only after
+    // explicit Google advertising consent. The static publisher meta tag in
+    // index.html is for site identification and does not load Google Ads.
+    if(document.querySelector('script[data-paktv-adsense]'))return;
+    const script=document.createElement("script");
+    script.async=true;
+    script.crossOrigin="anonymous";
+    script.setAttribute("data-paktv-adsense","true");
+    script.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7935805760564580";
+    document.head.appendChild(script);
+  }
   function init(){
     const saved=choice();
     const root=document.createElement("div");
     root.innerHTML=[
       '<section id="paktvCookieBanner" class="privacy-banner" aria-label="Cookie and advertising choices" hidden>',
       '<div class="privacy-banner-inner"><div class="privacy-message"><strong>Privacy &amp; Cookie Choices</strong>',
-      '<p>PakTV Ghar remembers your settings. With permission, Adsterra may use cookies and device data, and its extra ad script may open promotions. All ads are optional. Shows remain available if you refuse. <a href="./privacy.html">Privacy &amp; Cookies Policy</a>.</p>',
+      '<p>PakTV Ghar remembers your settings. With your permission, Google AdSense and Adsterra may use cookies or device data for advertising; some extra Adsterra promotions may open windows. All advertising is optional. You can browse movies and shows without it. <a href="./privacy.html">Privacy &amp; Cookies Policy</a>.</p>',
       '</div><div class="privacy-buttons">',
       '<button class="privacy-btn privacy-secondary" id="privacyReject" type="button">Reject optional</button>',
       '<button class="privacy-btn privacy-primary" id="privacyAccept" type="button">Accept all</button>',
@@ -95,6 +107,7 @@
       '<p>Choose which optional advertising services this website can load. Neither option is required to watch programmes. Change your mind using Cookie settings in the footer.</p>',
       '<div class="privacy-choice"><div><strong>Essential local preferences</strong><small>Consent choice, and preferences you choose to save, such as favourites and language.</small></div><span class="privacy-required">Always on</span></div>',
       '<label class="privacy-choice" for="privacyAdsCheck"><div><strong>Display advertising</strong><small>Adsterra native and banner ads. Providers may use cookies and device information.</small></div><input id="privacyAdsCheck" type="checkbox" aria-label="Allow display advertising"></label>',
+      '<label class="privacy-choice" for="privacyGoogleCheck"><div><strong>Google AdSense advertising</strong><small>Optional Google Auto ads. Google and its advertising partners may use cookies, identifiers and device information. Requires additional certified consent controls for personalised ads in some regions.</small></div><input id="privacyGoogleCheck" type="checkbox" aria-label="Allow Google AdSense advertising"></label>',
       '<label class="privacy-choice" for="privacyExtraCheck"><div><strong>Additional advertising script</strong><small>Separate optional advertising code that may display promotions or open additional advertising windows.</small></div><input id="privacyExtraCheck" type="checkbox" aria-label="Allow additional advertising script"></label>',
       '<p class="privacy-gpc-note" id="privacyGPC" hidden>Your browser has Global Privacy Control enabled. Optional advertising stays off.</p>',
       '<p class="privacy-fine">Playing embedded YouTube videos may contact YouTube; this is separate from advertising choices. Read the <a href="./privacy.html">full privacy policy</a>.</p>',
@@ -104,13 +117,14 @@
     document.body.appendChild(root);
     const get=id=>document.getElementById(id);
     const banner=get("paktvCookieBanner"),backdrop=get("privacyBackdrop"),dialog=get("privacyDialog");
-    const ads=get("privacyAdsCheck"),extra=get("privacyExtraCheck");
+    const ads=get("privacyAdsCheck"),extra=get("privacyExtraCheck"),googleAds=get("privacyGoogleCheck");
     let previous=null;
     function open(){
       previous=document.activeElement;
       ads.checked=!GPC&&!!saved?.ads;
       extra.checked=!GPC&&!!saved?.extra;
-      ads.disabled=GPC;extra.disabled=GPC;
+      googleAds.checked=!GPC&&!!saved?.googleAds;
+      ads.disabled=GPC;extra.disabled=GPC;googleAds.disabled=GPC;
       get("privacyGPC").hidden=!GPC;
       backdrop.hidden=false;
       document.body.classList.add("privacy-modal-open");
@@ -121,11 +135,11 @@
       document.body.classList.remove("privacy-modal-open");
       if(previous&&typeof previous.focus==="function")previous.focus();
     }
-    get("privacyReject").addEventListener("click",()=>save(false,false));
-    get("privacyAccept").addEventListener("click",()=>save(true,true));
+    get("privacyReject").addEventListener("click",()=>save(false,false,false));
+    get("privacyAccept").addEventListener("click",()=>save(true,true,true));
     get("privacyCustomize").addEventListener("click",open);
     get("privacyModalReject").addEventListener("click",()=>save(false,false));
-    get("privacySave").addEventListener("click",()=>save(ads.checked,extra.checked));
+    get("privacySave").addEventListener("click",()=>save(ads.checked,extra.checked,googleAds.checked));
     get("privacyClose").addEventListener("click",close);
     backdrop.addEventListener("click",event=>{if(event.target===backdrop)close();});
     dialog.addEventListener("keydown",event=>{
@@ -140,6 +154,7 @@
     if(!saved)banner.hidden=false;
     if(!GPC&&saved?.ads)loadDisplayAds();
     if(!GPC&&saved?.extra)loadExtraAds();
+    if(!GPC&&saved?.googleAds)loadGoogleAds();
   }
   if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",init,{once:true});
   else init();
