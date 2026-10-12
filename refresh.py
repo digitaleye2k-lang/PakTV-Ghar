@@ -67,41 +67,175 @@ def txt(url):
 def time24(s):
  try:return datetime.strptime(s.upper().replace(' ','').replace('.',''),'%I:%M%p').strftime('%H:%M')
  except ValueError:return None
+
+def normalize_title(value):
+ return re.sub(r'[^a-z0-9]+','',unescape(value).casefold())
+
+def show_id_for(title,shows,network):
+ key=normalize_title(title)
+ for s in shows:
+  if s['network']!=network:continue
+  variants=[s['name']]+s.get('aliases',[])
+  if any(normalize_title(n)==key for n in variants):return s['id']
+ return None
+
+def row(title,time,channel,network,source_url,shows,episode=None,repeat=None,source_label='Official broadcaster'):
+ title=re.sub(r'\s+',' ',unescape(title)).strip(' -–|')
+ if not title or len(title)>90 or not re.fullmatch(r'\d{2}:\d{2}',time or ''):return None
+ return {'name':title,'showId':show_id_for(title,shows,network),'channel':channel,'time':time,
+   'episode':episode,'repeat':repeat,'sourceUrl':source_url,'sourceLabel':source_label}
+
+def days_for(spec):
+ days=['MONDAY','TUESDAY','WEDNESDAY','THURSDAY','FRIDAY','SATURDAY','SUNDAY']
+ spec=re.sub(r'\s+','',spec.upper())
+ if spec in ('DAILY','MONDAY-SUNDAY'):return days
+ parts=spec.split('-')
+ if len(parts)==1:return [parts[0]]
+ if len(parts)==2 and all(p in days for p in parts):
+  a,b=map(days.index,parts)
+  return [days[i%7] for i in range(a,a+((b-a)%7)+1)]
+ return []
+
+def hum_schedule(text,day,shows):
+ # HUM's homepage banner is authoritative for the currently promoted lineup.
+ url='https://hum.tv/'
+ pattern=(r'(?P<title>[A-Z][A-Z0-9&''’(). \-]{2,65}?)\s+'
+          r'(?P<days>(?:MONDAY|TUESDAY|WEDNESDAY|THURSDAY|FRIDAY|SATURDAY|SUNDAY|DAILY)'
+          r'(?:\s*-\s*(?:MONDAY|TUESDAY|WEDNESDAY|THURSDAY|FRIDAY|SATURDAY|SUNDAY))?)'
+          r'\s*\|\s*(?P<time>\d{1,2}:\d{2}\s*[AP]M)')
+ result=[]
+ for m in re.finditer(pattern,text,re.I):
+  if day.upper() not in days_for(m['days']):continue
+  title=m['title'].strip()
+  # Any leftover navigation/promo text before the banner is not a show title.
+  matches=[s['name'] for s in shows if s['network']=='hum' and normalize_title(s['name']) in normalize_title(title)]
+  if matches:title=max(matches,key=len)
+  elif len(title.split())>6:continue
+  t=time24(m['time'])
+  item=row(title,t,'HUM TV','hum',url,shows)
+  if item:result.append(item)
+ return result
+
+def ary_schedule(text,day,shows):
+ url='https://arydigital.tv/schedule'
+ start=re.search(r'\b'+re.escape(day)+r'\s+\d+\s+shows\b',text,re.I)
+ if not start:return []
+ rest=text[start.end():]
+ end=re.search(r'\b(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\s+\d+\s+shows\b',rest,re.I)
+ section=rest[:end.start()] if end else rest[:3500]
+ pattern=(r'(\d{1,2}:\d{2}\s*[AP]M)\s*(\d{1,2}:\d{2}\s*[AP]M)'
+          r'\s+(.{2,90}?)\s+(\d{1,2}:\d{2}\s*[AP]M)\s*[–-]\s*'
+          r'\d{1,2}:\d{2}\s*[AP]M\s+View Details')
+ items=[]
+ for m in re.finditer(pattern,section,re.I|re.S):
+  t=time24(m.group(4))
+  item=row(m.group(3),t,'ARY Digital','arydigital',url,shows)
+  if item:items.append(item)
+ return items
+
+def geo_schedule(text,shows):
+ url='https://harpalgeo.tv/schedule'
+ start=re.search(r'now\s+on\s+tv',text,re.I)
+ if not start:return []
+ tail=text[start.end():]
+ end=re.search(r'\bSchedule\b',tail,re.I)
+ section=tail[:end.start()] if end else tail[:2800]
+ # On Geo the programme name and optional episode precede each clock time.
+ chunks=re.split(r'(?<!\d)(\d{1,2}:\d{2}\s*[AP]M)',section)
+ items=[]
+ for i in range(1,len(chunks),2):
+  name=chunks[i-1].strip()
+  if i==1:name=re.sub(r'^tv\s+','',name,flags=re.I)
+  episode_match=re.search(r'\bEp\.?\s*(\d+)\s*$',name,re.I)
+  episode=int(episode_match.group(1)) if episode_match else None
+  name=re.sub(r'\s*Ep\.?\s*\d+\s*$','',name,flags=re.I).strip()
+  t=time24(chunks[i])
+  item=row(name,t,'Har Pal Geo','harpalgeo',url,shows,episode=episode)
+  if item:items.append(item)
+ return items[:35]
+
+def fallback_guide(text,day,date,shows):
+ # Only read a date-specific page, never reuse an old show's historical air day.
+ date_label=f'{int(date[8:])} {datetime.strptime(date[5:7],"%m").strftime("%B")} {date[:4]}'
+ if not re.search(re.escape(day)+r',\s*'+re.escape(date_label),text,re.I):return []
+ start=re.search(r'Today.s drama timings',text,re.I)
+ if not start:return []
+ tail=text[start.end():]
+ peak=re.search(r'Peak Hour Timing',tail,re.I)
+ if not peak:return []
+ tail=tail[peak.end():]
+ channels=[('ARY Digital','arydigital'),('Express Entertainment',None),
+   ('Geo Entertainment','harpalgeo'),('Green Entertainment',None),
+   ('HUM TV','hum'),('LTN Family',None)]
+ # The quick prime-time table appears before the full-day listings; use that
+ # first occurrence only. Times are Pakistan time on this site.
+ sections=re.split(r'\b(?:ARY Digital|Express Entertainment|Geo Entertainment|Green Entertainment|HUM TV|LTN Family)\b',tail,maxsplit=12,flags=re.I)
+ labels=re.findall(r'\b(?:ARY Digital|Express Entertainment|Geo Entertainment|Green Entertainment|HUM TV|LTN Family)\b',tail,flags=re.I)
+ rows=[]
+ source_url='https://dramas.pk/?'+urlencode({'pdhs_date':date})
+ for channel,net in channels:
+  if not net:continue
+  idx=next((i for i,label in enumerate(labels[:6]) if label.lower()==channel.lower()),None)
+  if idx is None or idx+1>=len(sections):continue
+  sec=sections[idx+1][:400]
+  matches=list(re.finditer(r'(?<!\d)(\d{1,2}:\d{2}\s*PM)',sec,re.I))
+  for j,m in enumerate(matches):
+   title=sec[m.end():(matches[j+1].start() if j+1<len(matches) else len(sec))]
+   title=re.sub(r'(?:Image|↗|View drama|New episode|Repeat|Hide schedule).*','',title,flags=re.I).strip()
+   if not title or len(title)>65:continue
+   item=row(title,time24(m.group(1)),channel,net,source_url,shows,
+            source_label='Dramas.pk TV guide (backup, not broadcaster)')
+   if item:rows.append(item)
+ return rows
+
 def schedule(shows):
- now=datetime.now(ZoneInfo('Asia/Karachi'));day=now.strftime('%A');out=[];errors=[]
- try:
-  page=txt('https://hum.tv/')
-  days=['MONDAY','TUESDAY','WEDNESDAY','THURSDAY','FRIDAY','SATURDAY','SUNDAY']
-  for s in shows:
-   if s['network']!='hum':continue
-   m=re.search(re.escape(s['name'])+r'\s+((?:MONDAY|TUESDAY|WEDNESDAY|THURSDAY|FRIDAY|SATURDAY|SUNDAY)(?:-(?:MONDAY|TUESDAY|WEDNESDAY|THURSDAY|FRIDAY|SATURDAY|SUNDAY))?)\s*\|\s*(\d{1,2}:\d{2}\s*[AP]M)',page,re.I)
-   if not m:continue
-   bounds=m.group(1).upper().split('-')
-   valid=[bounds[0]] if len(bounds)==1 else [days[i%7] for i in range(days.index(bounds[0]),days.index(bounds[0])+((days.index(bounds[1])-days.index(bounds[0]))%7)+1)]
-   t=time24(m.group(2))
-   if day.upper() in valid and t:out.append({'name':s['name'],'showId':s['id'],'channel':'HUM TV','time':t,'episode':None,'sourceUrl':'https://hum.tv/'})
- except Exception as e:errors.append('HUM: '+type(e).__name__)
- try:
-  page=txt('https://arydigital.tv/schedule')
-  m=re.search(r'\b'+day+r'\s+\d+\s+shows\b(.*?)(?=\b(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\s+\d+\s+shows\b|$)',page,re.I|re.S)
-  section=m.group(1) if m else ''
-  for s in shows:
-   if s['network']!='arydigital':continue
-   m=re.search(re.escape(s['name'])+r'\s*(\d{1,2}:\d{2}\s*[AP]M)\s*[–-]\s*\d{1,2}:\d{2}\s*[AP]M',section,re.I)
-   t=time24(m.group(1)) if m else None
-   if t:out.append({'name':s['name'],'showId':s['id'],'channel':'ARY Digital','time':t,'episode':None,'sourceUrl':'https://arydigital.tv/schedule'})
- except Exception as e:errors.append('ARY: '+type(e).__name__)
- try:
-  page=txt('https://harpalgeo.tv/schedule')
-  m=re.search(r'now\s+on\s+tv',page,re.I)
-  section=re.split(r'\bSchedule\s+Monday\b',page[m.end():],maxsplit=1,flags=re.I)[0][:5000] if m else ''
-  for s in shows:
-   if s['network']!='harpalgeo':continue
-   for match in re.finditer(re.escape(s['name'])+r'\s*(?:Ep\.?\s*(\d+)\s*)?(\d{1,2}:\d{2}\s*[AP]M)',section,re.I):
-    t=time24(match.group(2))
-    if t and t>='17:00':out.append({'name':s['name'],'showId':s['id'],'channel':'Har Pal Geo','time':t,'episode':int(match.group(1)) if match.group(1) else None,'sourceUrl':'https://harpalgeo.tv/schedule'})
- except Exception as e:errors.append('Geo: '+type(e).__name__)
- return {'date':now.strftime('%Y-%m-%d'),'weekday':day,'timezone':'Asia/Karachi','items':sorted(out,key=lambda x:(x['time'],x['channel'])),'errors':errors,'note':'These are broadcast slots, not proof an episode was uploaded; reruns possible.'}
+ now=datetime.now(ZoneInfo('Asia/Karachi'))
+ day=now.strftime('%A');today=now.strftime('%Y-%m-%d')
+ items=[];errors=[];sources={}
+ official_sources=[
+  ('hum','HUM TV',['https://hum.tv/'],lambda p:hum_schedule(p,day,shows)),
+  ('arydigital','ARY Digital',['https://arydigital.tv/schedule'],lambda p:ary_schedule(p,day,shows)),
+  ('harpalgeo','Har Pal Geo',['https://harpalgeo.tv/schedule','https://www.harpalgeo.tv/schedule'],lambda p:geo_schedule(p,shows)),
+ ]
+ for net,name,urls,parser in official_sources:
+  result=[];why=''
+  for url in urls:
+   try:
+    page=txt(url)
+    result=parser(page)
+    if result:break
+    why='No scheduled entries in retrieved page'
+   except Exception as exc:why=type(exc).__name__
+  if result:
+   sources[net]='official'
+   items.extend(result)
+  else:
+   sources[net]='unavailable'
+   errors.append(name+': '+why)
+ # ARY's JS-rendered guide and Geo's bot checks can block Github Actions.
+ # Only use a third-party guide if it explicitly identifies TODAY's PK date.
+ if any(sources.get(n)=='unavailable' for n in ('arydigital','harpalgeo','hum')):
+  try:
+   backup=txt('https://dramas.pk/?'+urlencode({'pdhs_date':today}))
+   backup_items=fallback_guide(backup,day,today,shows)
+   for net in ('arydigital','harpalgeo','hum'):
+    if sources[net]=='unavailable':
+     found=[x for x in backup_items if x['showId'] is not None or
+            (net=='arydigital' and x['channel']=='ARY Digital') or
+            (net=='harpalgeo' and x['channel']=='Geo Entertainment') or
+            (net=='hum' and x['channel']=='HUM TV')]
+     found=[x for x in found if {'ARY Digital':'arydigital','Geo Entertainment':'harpalgeo','HUM TV':'hum'}.get(x['channel'])==net]
+     if found:
+      items.extend(found)
+      sources[net]='independent guide fallback'
+  except Exception as exc:errors.append('Backup guide: '+type(exc).__name__)
+ # Keep multiple broadcasts of the same show, but avoid duplicate time-slots.
+ unique={(x['channel'],x['time'],normalize_title(x['name'])):x for x in items}
+ out=sorted(unique.values(),key=lambda x:(x['time'],x['channel'],x['name']))
+ return {'date':today,'weekday':day,'timezone':'Asia/Karachi','generatedAt':now.isoformat(),
+  'items':out,'sources':sources,'errors':errors,
+  'note':'Schedule entries are TV slots, not proof episodes were uploaded. Times and reruns can change.'}
+
 def main():
  html=(HERE/'index.html').read_text(encoding='utf8')
  match=re.search(r'window\.PAKTV_CATALOG\s*=\s*(\[.*?\]);',html,re.S)
