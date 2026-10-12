@@ -1,5 +1,8 @@
 """No-network tests for official YouTube episode indexing."""
 from datetime import datetime, timedelta, timezone
+from io import BytesIO
+from unittest.mock import patch
+from urllib.error import HTTPError
 import unittest
 
 from youtube_index import (
@@ -76,6 +79,19 @@ class IndexTests(unittest.TestCase):
         self.assertEqual(stats2['searches'], 2)
         self.assertTrue(entries2[SHOW['id']])
         self.assertEqual(len([c for c in calls if c[0] == 'channels']), 3)  # Each broadcaster resolved only once
+
+    def test_api_errors_are_safe_to_print(self):
+        from youtube_index import youtube_json, SafeAPIError
+        fake_secret = "dummy-sensitive-test-key"
+        payload = b'{"error":{"code":403,"errors":[{"reason":"accessNotConfigured"}],"message":"sensitive data"}}'
+        bad = HTTPError("https://www.googleapis.com/youtube/v3/channels?key=" + fake_secret,
+                        403, "API not enabled", {}, BytesIO(payload))
+        with patch("youtube_index.urlopen", side_effect=bad):
+            with self.assertRaises(SafeAPIError) as ctx:
+                youtube_json('channels', {'part': 'snippet'}, fake_secret)
+        self.assertIn("HTTP 403: accessNotConfigured", str(ctx.exception))
+        self.assertNotIn(fake_secret, str(ctx.exception))
+        self.assertNotIn("https://", str(ctx.exception))
 
     def test_no_secret_no_requests(self):
         def bad(*a, **b):
