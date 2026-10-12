@@ -80,6 +80,26 @@ class IndexTests(unittest.TestCase):
         self.assertTrue(entries2[SHOW['id']])
         self.assertEqual(len([c for c in calls if c[0] == 'channels']), 3)  # Each broadcaster resolved only once
 
+    def test_rss_verified_channels_skip_api_handle_lookup(self):
+        calls = []
+        def transport(endpoint, parameters):
+            calls.append((endpoint, parameters))
+            if endpoint == 'channels':
+                raise AssertionError('Already resolved from official YouTube channel page')
+            if endpoint == 'search':
+                return {'items': [{'id': {'videoId': VID}}]}
+            if endpoint == 'videos':
+                return {'items': [resource()]}
+            raise AssertionError(endpoint)
+        entries, cache, stats = index_api(
+            [SHOW], 'test-placeholder-key', {}, transport=transport,
+            now=NOW, known_channel_ids={'hum': CID})
+        self.assertEqual(stats['newVideos'], 1)
+        self.assertEqual(stats['searches'], 2)
+        self.assertEqual(cache['channels']['hum']['id'], CID)
+        self.assertTrue(entries[SHOW['id']])
+        self.assertEqual([e for e, _ in calls if e == 'channels'], [])
+
     def test_api_errors_are_safe_to_print(self):
         from youtube_index import youtube_json, SafeAPIError
         fake_secret = "dummy-sensitive-test-key"
