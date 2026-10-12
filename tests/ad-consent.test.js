@@ -8,6 +8,8 @@ assert(!/<script[^>]+src=["']https:\/\/(?:pl3179369|www\.highrevenueformat)/i.te
        "Do not include vendor script tags directly on the site before consent");
 assert(banner.includes("ac85365b8166d90133c08c7e2e7eccec"));
 assert(banner.includes("highrevenueformat.com"));
+assert(html.includes('name="google-adsense-account" content="ca-pub-7935805760564580"'));
+assert(!html.includes('<script async src="https://pagead2.googlesyndication.com'),"Google script must remain consent-gated");
 
 function run(choice, globalPrivacyControl=false) {
   const nodes = {}, all = [];
@@ -24,19 +26,20 @@ function run(choice, globalPrivacyControl=false) {
     return node;
   }
   for(const id of ["paktvCookieBanner","privacyBackdrop","privacyDialog",
-    "privacyAdsCheck","privacyExtraCheck","privacyGPC","privacyReject",
+    "privacyAdsCheck","privacyExtraCheck","privacyGoogleCheck","privacyGPC","privacyReject",
     "privacyAccept","privacyCustomize","privacyModalReject","privacySave",
     "privacyClose","paktvBannerSection","paktvNativeSection",
     "paktvBannerSlot","paktvNativeSlot"]) nodes[id]=element("div",id);
   const document = {
-    readyState:"complete",activeElement:null,body:element("body"),
+    readyState:"complete",activeElement:null,body:element("body"),head:element("head"),
+    querySelector:()=>null,
     createElement:tag=>element(tag),
     getElementById:id=>nodes[id],
     querySelectorAll:()=>[]
   };
   const localStorage = {
     getItem:()=>choice===null?null:JSON.stringify({
-      version:1,date:new Date().toISOString(),ads:choice.ads,extra:choice.extra}),
+      version:2,date:new Date().toISOString(),ads:choice.ads,extra:choice.extra,googleAds:choice.googleAds}),
     setItem(){}
   };
   const window = { location:{reload(){}} };
@@ -64,10 +67,15 @@ assert.equal(display.adScripts.length,1);
 assert(display.adScripts[0].includes("pl31793698.profitableratecpmnetwork.com"));
 assert.deepEqual(display.bannerFrames,["./ad-banner.html"]);
 assert(display.native&&display.banner&&display.target);
+let googleOnly=run({ads:false,extra:false,googleAds:true});
+assert.equal(googleOnly.adScripts.length,1);
+assert(googleOnly.adScripts[0].includes("pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7935805760564580"));
+assert.equal(googleOnly.bannerFrames.length,0);
+assert(!googleOnly.native);
 let all=run({ads:true,extra:true});
 assert.equal(all.adScripts.length,2);
 assert(all.adScripts.some(x=>x.includes("pl31793699.profitableratecpmnetwork.com")));
-let gpc=run({ads:true,extra:true},true);
+let gpc=run({ads:true,extra:true,googleAds:true},true);
 assert.equal(gpc.adScripts.length,0);
 assert.equal(gpc.bannerFrames.length,0);
-console.log("Consent ad loader: five scenarios passed");
+console.log("Consent ad loader: six scenarios passed, including opt-in Google AdSense");
