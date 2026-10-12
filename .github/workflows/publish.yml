@@ -29,6 +29,8 @@ jobs:
           node tests/ad-consent.test.js
           python3 -c "from pathlib import Path; s=Path('index.html').read_text(); assert 'cookie-consent.js' in s and 'privacy.html' in s and '<script src=\"https://pl31793699' not in s"
       - name: Refresh TV listings
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python3 refresh.py
       - name: Save latest guide to repository
         run: |
