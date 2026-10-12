@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T22:30:41.896233+05:00",
+  "generatedAt": "2026-10-12T22:31:50.552829+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "tvToday": {
@@ -183,7 +183,17 @@
       "posterSource": "Official broadcaster",
       "latestPublisherEpisode": 23,
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
-      "latestPublisherSource": "https://arydigital.tv/drama/izzat/"
+      "latestPublisherSource": "https://arydigital.tv/drama/izzat/",
+      "latestUpload": {
+        "number": 23,
+        "id": "3DKwOWGVLr4",
+        "title": "Izzat Episode 23 | 12 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "date": "2026-10-12",
+        "source": "Official YouTube upload",
+        "availableGB": false,
+        "availablePK": false,
+        "embeddable": true
+      }
     },
     "hum-khushi": {
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Khushi-500.jpg.jpg",
@@ -205,7 +215,17 @@
       "posterSource": "Official broadcaster",
       "latestPublisherEpisode": 57,
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
-      "latestPublisherSource": "https://arydigital.tv/drama/main-tera/"
+      "latestPublisherSource": "https://arydigital.tv/drama/main-tera/",
+      "latestUpload": {
+        "number": 58,
+        "id": "GbMTLqw3dtY",
+        "title": "Main Tera Episode 58 | 12 October 2026 | Ghana Ali | Yusra Irfan | Arez Ahmed | ARY Digital",
+        "date": "2026-10-12",
+        "source": "Official YouTube upload",
+        "availableGB": false,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "hum-mohabbat-mukhtasir": {
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/MM-500.jpg.jpg",
@@ -231,7 +251,19 @@
     },
     "arydigital-tamasha-season-5": {
       "lastAttempt": "2026-10-12T20:10:58.516775+05:00",
-      "fetchWarning": "HTTPError"
+      "fetchWarning": "HTTPError",
+      "latestUpload": {
+        "number": 76,
+        "id": "OMlA4iW0L2w",
+        "title": "BUZZ EP 76 | Top 5 Tamasha S5 Contestants: Exclusive Buzz Interview |",
+        "date": "2026-10-11",
+        "source": "Official YouTube upload",
+        "availableGB": false,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/OMlA4iW0L2w/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "hum-tark-e-tamanna": {
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/TT-500.jpg.jpg",
@@ -254,7 +286,17 @@
       "posterSource": "Official broadcaster",
       "latestPublisherEpisode": 45,
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
-      "latestPublisherSource": "https://arydigital.tv/drama/bas-tera-saath-ho/"
+      "latestPublisherSource": "https://arydigital.tv/drama/bas-tera-saath-ho/",
+      "latestUpload": {
+        "number": 45,
+        "id": "xExSgmC8ia4",
+        "title": "Shayan ka Anjaam | Bas Tera Saath Ho Last Episode 45 | ARY Digital",
+        "date": "2026-10-12",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "harpalgeo-beti-ka-ghar-konsa": {
       "lastAttempt": "2026-10-12T20:10:58.688102+05:00"
@@ -725,7 +767,19 @@
       "lastAttempt": "2026-10-12T20:13:29.083799+05:00"
     },
     "hum-udaari": {
-      "lastAttempt": "2026-10-12T20:13:29.083820+05:00"
+      "lastAttempt": "2026-10-12T20:13:29.083820+05:00",
+      "latestUpload": {
+        "number": 20,
+        "id": "y2XFdg_DecM",
+        "title": "Udaari Episode 20 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "date": "2026-10-12",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/y2XFdg_DecM/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "hum-yaqeen-ka-safar": {
       "lastAttempt": "2026-10-12T20:13:29.083832+05:00"
