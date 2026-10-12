@@ -9,6 +9,7 @@ from datetime import datetime, timedelta, timezone
 from html import unescape
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
+from urllib.error import HTTPError, URLError
 from zoneinfo import ZoneInfo
 import json
 import re
@@ -103,16 +104,37 @@ def match_video(video, show, expected_channel):
     return result
 
 
+class SafeAPIError(Exception):
+    """A diagnostic containing only a status code and public reason identifier."""
+
+
 def youtube_json(endpoint, parameters, api_key, transport=None):
-    """Return public API response JSON; exceptions do not disclose the key."""
-    url = 'https://www.googleapis.com/youtube/v3/' + endpoint + '?' + urlencode(
-        dict(parameters, key=api_key))
+    """Read JSON without exposing a key, API query, or server error message."""
     if transport:
         return transport(endpoint, dict(parameters))
+    url = 'https://www.googleapis.com/youtube/v3/' + endpoint + '?' + urlencode(
+        dict(parameters, key=api_key))
     req = Request(url, headers={'Accept': 'application/json',
                                 'User-Agent': 'PakTVGhar-Index/3.0'})
-    with urlopen(req, timeout=13) as response:
-        return json.loads(response.read(1800000))
+    try:
+        with urlopen(req, timeout=13) as response:
+            return json.loads(response.read(1800000))
+    except HTTPError as exc:
+        # Do NOT expose exception URLs or full Google error messages: URLs
+        # include the API key in the query string. Only allow short reason codes.
+        code = exc.code
+        try:
+            obj = json.loads(exc.read(6000))
+            err = obj.get('error') or {}
+            reasons = err.get('errors') or []
+            reason = ((reasons[0] or {}).get('reason') if reasons else '') or err.get('status') or ''
+            if not re.fullmatch(r'[A-Za-z][A-Za-z0-9._-]{0,59}', reason):
+                reason = 'unknown'
+        except (ValueError, TypeError, AttributeError, KeyError):
+            reason = 'unknown'
+        raise SafeAPIError('HTTP ' + str(code) + ': ' + reason) from None
+    except (URLError, TimeoutError):
+        raise SafeAPIError('Network connection failed') from None
 
 
 def cached_entries(cache, now):
@@ -163,6 +185,7 @@ def index_api(shows, key, old_cache=None, transport=None, now=None):
         return entries, cache, stats
 
     channels = dict(cache.get('channels') or {})
+    channel_errors = set()
     for network, handle in HANDLES.items():
         record = channels.get(network) or {}
         fresh = False
@@ -183,10 +206,13 @@ def index_api(shows, key, old_cache=None, transport=None, now=None):
             if found:
                 channels[network] = {'id': found['id'], 'handle': handle,
                                      'checkedAt': now.isoformat()}
+        except SafeAPIError as exc:
+            channel_errors.add(str(exc))
         except Exception:
-            # Never expose the API URL, credentials or raw errors in logs.
-            if not CHANNEL_ID.fullmatch(record.get('id', '')):
-                stats['error'] = 'Some official channels could not be resolved'
+            channel_errors.add('Unexpected response or service error')
+    if channel_errors:
+        # Only safe, key-free diagnostic codes are printed to Actions logs.
+        stats['error'] = 'Official channel lookup: ' + '; '.join(sorted(channel_errors))
     cache['channels'] = channels
     chosen = [s for s in shows if s.get('type') == 'drama' and s.get('network') in channels
               and CHANNEL_ID.fullmatch(channels[s['network']].get('id', ''))]
@@ -223,8 +249,11 @@ def index_api(shows, key, old_cache=None, transport=None, now=None):
             cache['dailySearches'] = int(cache.get('dailySearches', 0)) + 1
             try:
                 results = youtube_json('search', params, key, transport)
+            except SafeAPIError as exc:
+                stats['error'] = 'YouTube search: ' + str(exc)
+                continue
             except Exception:
-                stats['error'] = 'Some YouTube queries were unavailable'
+                stats['error'] = 'YouTube search: unexpected response'
                 continue
             for item in results.get('items', []):
                 video_id = (item.get('id') or {}).get('videoId') or ''
@@ -240,8 +269,11 @@ def index_api(shows, key, old_cache=None, transport=None, now=None):
                     'part': 'snippet,status,contentDetails',
                     'id': ','.join(batch), 'maxResults': len(batch)
                 }, key, transport)
+            except SafeAPIError as exc:
+                stats['error'] = 'Video details: ' + str(exc)
+                continue
             except Exception:
-                stats['error'] = 'Some YouTube video checks were unavailable'
+                stats['error'] = 'Video details: unexpected response'
                 continue
             for resource in data.get('items', []):
                 result = match_video(resource, show, channel_id)
