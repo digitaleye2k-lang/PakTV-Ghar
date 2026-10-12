@@ -45,3 +45,16 @@ The archive filters movie-source uploads to require a title describing a full mo
 The site includes a publisher-verification meta tag for account `ca-pub-7935805760564580`. Its exact publisher script (`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7935805760564580`) is inserted into the page **only when visitors opt in to Google AdSense advertising**, independently of the Adsterra categories. The consent version was updated to prompt every visitor again after introducing Google.
 
 To show Google Auto ads, the site must be approved in AdSense and **Auto ads enabled**. For personalised Google AdSense traffic in the UK/EEA/Switzerland, the site operator must deploy a **Google-certified TCF-compliant CMP** (for example Google Privacy & messaging) in addition to reviewing the current cookie choices. The custom site banner is not a certified TCF platform, and Adsterra's additional pop-up script may conflict with Google ad quality and policy requirements. Review the ad experiences before enabling both networks widely.
+
+## Community, visitor countries and contact
+
+The site now includes [**Community**](./community.html) and an optional homepage visitor-count widget.
+
+- A **country visitor dashboard** displays aggregate visits and country rankings. Recording a visit is optional and requires clicking **Count my visit**, with notice of temporary IP/browser processing.
+- **Anonymous guest discussions** include separate General, Dramas, Movies, Comedy, Political shows and YouTubers rooms, with an anti-insult/slur filter, post limits, report buttons and human moderator review.
+- **Contact Us**, **Report a problem** and **Moderator application** are private forms. Owners can review an authenticated private inbox; accepted moderators get separate restricted privileges.
+- **No backend means no data collection**: pages display a clear setup notice and prevent chat/forms from submitting until Supabase is configured.
+
+The complete backend schema, visitor-count Edge Function and setup instructions are in [community/SETUP.md](./community/SETUP.md).
+
+**Important:** Installing the Supabase app or adding these website files does not create tables in a particular project. Choose a real Supabase project, run its schema migration, deploy the visitor function and add that project's **public** URL and **publishable** key to \`community-config.js\`. Never put a Supabase **service_role** key in the site or a repository. Enable CAPTCHA and moderate public chat before launching widely.
