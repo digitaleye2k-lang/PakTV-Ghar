@@ -642,6 +642,7 @@ document.addEventListener('click',e=>{
 document.addEventListener('change',e=>{
   if(e.target.id==='archiveTopic'){state.archiveCategory=e.target.value;state.archiveLimit=30;paint();}
   if(e.target.id==='archiveChannel'){state.archiveChannel=e.target.value;state.archiveLimit=30;paint();}
+  if(e.target.id==='archiveGenre'){state.archiveGenre=e.target.value;state.archiveLimit=30;paint();}
   if(e.target.id==='archiveDay'){state.archiveDate=e.target.value;state.archiveLimit=30;paint();}
   if(e.target.id==='archiveSearch'){state.archiveQuery=e.target.value.trim();state.archiveLimit=30;paint();}
 });
