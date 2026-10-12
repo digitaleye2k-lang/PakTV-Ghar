@@ -58,6 +58,7 @@
 </style>
 
 
+  <link rel="stylesheet" href="./cookie-consent.css">
 </head>
 <body>
 <div class="app-shell">
@@ -85,42 +86,24 @@
       <button type="button" class="top-favs" id="topFavourites" aria-label="See favourites">♡ <span>Favourites</span></button>
     </header>
 
-    <!-- Sponsored display placement; 468px creative scrolls safely on narrow screens. -->
-    <section class="ad-placement ad-placement-top" aria-label="Advertisement">
+    <!-- Advertising stays completely off until consent is recorded. -->
+    <section id="paktvBannerSection" class="ad-placement ad-placement-top" aria-label="Advertisement" hidden>
       <span class="ad-label">Advertisement</span>
-      <div class="ad-banner-scroll">
-        <div class="ad-banner-fixed">
-          <script>
-            atOptions = {
-              'key' : 'ac85365b8166d90133c08c7e2e7eccec',
-              'format' : 'iframe',
-              'height' : 60,
-              'width' : 468,
-              'params' : {}
-            };
-          </script>
-          <script src="https://www.highrevenueformat.com/ac85365b8166d90133c08c7e2e7eccec/invoke.js"></script>
-        </div>
-      </div>
+      <div class="ad-banner-scroll"><div id="paktvBannerSlot" class="ad-banner-fixed"></div></div>
     </section>
 
     <main id="mainContent" tabindex="-1"></main>
-    <!-- Third-party native ad placement; video content is never stored here. -->
-    <section class="ad-placement ad-placement-bottom" aria-label="Sponsored links and advertisements">
+    <section id="paktvNativeSection" class="ad-placement ad-placement-bottom" aria-label="Sponsored content" hidden>
       <span class="ad-label">Sponsored advertisement</span>
-      <div class="ad-native-slot">
-        <script async="async" data-cfasync="false" src="https://pl31793698.profitableratecpmnetwork.com/8d58a68f4a6bcd33f948f07d9c5d0c85/invoke.js"></script>
-        <div id="container-8d58a68f4a6bcd33f948f07d9c5d0c85"></div>
-      </div>
+      <div id="paktvNativeSlot" class="ad-native-slot"></div>
       <a class="sponsored-link" href="https://www.profitableratecpmnetwork.com/e75uq871kx?key=7508f44a211e23104bfd6ff6ae290466" target="_blank" rel="sponsored noopener noreferrer">Visit sponsor ↗</a>
       <small>Advertisement — external website, not a TV programme.</small>
     </section>
-
     <footer class="site-footer legal-footer" aria-label="Copyright and content disclaimer">
       <div class="legal-footer-inner">
         <h2>Copyright &amp; Content Disclaimer</h2>
         <p>PakTV Ghar is an independent programme directory. <strong>We do not host, upload or store TV shows or video files on our servers.</strong> Videos are linked to or embedded from third-party services, including their original broadcasters and YouTube channels. Content, trademarks and related rights belong to their respective owners. We are not affiliated with or endorsed by those channels or platforms.</p>
-        <p class="legal-footer-actions"><a href="./disclaimer.html">Read full disclaimer &amp; report a copyright concern ↗</a></p>
+        <p class="legal-footer-actions"><a href="./disclaimer.html">Copyright disclaimer ↗</a> &nbsp;·&nbsp; <a href="./privacy.html">Privacy &amp; Cookies Policy ↗</a> &nbsp;·&nbsp; <button type="button" class="cookie-settings-footer" data-privacy-settings>Cookie settings</button></p>
       </div>
     </footer>
   </div>
@@ -328,7 +311,7 @@ state.page=locationPage();bindEvents();paint();refreshFeeds();loadSchedule();loa
 
 </script>
 
-<!-- Adsterra standalone advertisement script. Third-party scripts may set cookies or show extra advertising. -->
-<script src="https://pl31793699.profitableratecpmnetwork.com/9e/d2/5b/9ed25bbb75a6ead1d017f33f41e1dc2d.js"></script>
+
+<script src="./cookie-consent.js" defer></script>
 </body>
 </html>
