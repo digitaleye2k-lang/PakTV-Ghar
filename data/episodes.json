@@ -735,7 +735,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vbSfVB_VkrM/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:36:31.363232+00:00"
+        "checkedAt": "2026-10-12T17:35:25.662573+00:00"
       },
       {
         "id": "X9wTUew8Ze4",
@@ -751,7 +751,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/X9wTUew8Ze4/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:36:31.363232+00:00"
+        "checkedAt": "2026-10-12T17:35:25.662573+00:00"
       },
       {
         "id": "S_G2VUog-_M",
@@ -767,7 +767,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/S_G2VUog-_M/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:36:31.363232+00:00"
+        "checkedAt": "2026-10-12T17:35:25.662573+00:00"
       },
       {
         "id": "SEbNv6c5si0",
@@ -783,7 +783,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SEbNv6c5si0/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:36:31.363232+00:00"
+        "checkedAt": "2026-10-12T17:35:25.662573+00:00"
       }
     ]
   },
@@ -803,7 +803,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kT5HHJDY8NA/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:36:31.363232+00:00"
+        "checkedAt": "2026-10-12T17:35:25.662573+00:00"
       },
       {
         "id": "s9iFJ19ZdAY",
@@ -819,7 +819,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/s9iFJ19ZdAY/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:36:31.363232+00:00"
+        "checkedAt": "2026-10-12T17:35:25.662573+00:00"
       },
       {
         "id": "dIe4nDHGm-g",
@@ -835,7 +835,131 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dIe4nDHGm-g/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:36:31.363232+00:00"
+        "checkedAt": "2026-10-12T17:35:25.662573+00:00"
+      },
+      {
+        "id": "TmWFxqx2aJo",
+        "title": "Shaidai Last Episode 30 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Feroze Khan - Sahar Hashmi | Har Pal Geo",
+        "episode": 30,
+        "date": "2026-07-30",
+        "published": "2026-07-30T19:30:25Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/TmWFxqx2aJo/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:35:25.662573+00:00"
+      }
+    ]
+  },
+  "hum-aye-dil-aazma-nahi": {
+    "episodes": [
+      {
+        "id": "LDu-XHAWJM4",
+        "title": "Aye Dil Aazma Nahin - Last Episode 36 - Highlight - [ Mirza Zain Baig & Hina Tariq ] - HUM TV",
+        "episode": 36,
+        "date": "2026-07-27",
+        "published": "2026-07-27T14:00:13Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/LDu-XHAWJM4/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:37:35.029938+00:00"
+      },
+      {
+        "id": "Gud4kMK5WrM",
+        "title": "Aye Dil Aazma Nahin - Last Episode 36 [ENG SUB] - 26 July 2026 - [Mirza Zain Baig & Hina Tariq]",
+        "episode": 36,
+        "date": "2026-07-26",
+        "published": "2026-07-26T17:00:21Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Gud4kMK5WrM/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:37:35.029938+00:00"
+      },
+      {
+        "id": "GLVCe0bFBXw",
+        "title": "Aye Dil Aazma Nahin - 2nd Last Episode 35 - Highlight - [ Mirza Zain Baig & Hina Tariq ] - HUM TV",
+        "episode": 35,
+        "date": "2026-07-26",
+        "published": "2026-07-26T14:00:37Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/GLVCe0bFBXw/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:37:35.029938+00:00"
+      }
+    ]
+  },
+  "hum-deewar": {
+    "episodes": [
+      {
+        "id": "wQPiKAmU7N8",
+        "title": "Deewar Episode 84 Highlight - Sunita Marshall & Ali Abbas ] HUM TV",
+        "episode": 84,
+        "date": "2026-09-13",
+        "published": "2026-09-13T12:00:12Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/wQPiKAmU7N8/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:37:35.029938+00:00"
+      },
+      {
+        "id": "nzE6TeRnstM",
+        "title": "Deewar - Last Episode 84 [Eng Sub] - 12th Sep 2026 [ Sunita Marshall & Ali Abbas ] HUM TV",
+        "episode": 84,
+        "date": "2026-09-12",
+        "published": "2026-09-12T15:00:12Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/nzE6TeRnstM/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:37:35.029938+00:00"
+      }
+    ]
+  },
+  "hum-ek-jhooti-kahani": {
+    "episodes": [
+      {
+        "id": "dhJj0oDY58w",
+        "title": "Ek Jhooti Kahani - Last Episode 28 [Eng Sub] 13 March 2026 - [Mohib Mirza & Zara Noor Abbas]",
+        "episode": 28,
+        "date": "2026-03-13",
+        "published": "2026-03-13T16:01:13Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/dhJj0oDY58w/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:37:35.029938+00:00"
       }
     ]
   }

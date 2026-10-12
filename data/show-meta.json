@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T22:37:12.384939+05:00",
+  "generatedAt": "2026-10-12T22:38:08.608732+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "tvToday": {
@@ -278,7 +278,19 @@
       "posterSource": "Official broadcaster"
     },
     "hum-aye-dil-aazma-nahi": {
-      "lastAttempt": "2026-10-12T20:10:58.672465+05:00"
+      "lastAttempt": "2026-10-12T20:10:58.672465+05:00",
+      "latestUpload": {
+        "number": 36,
+        "id": "LDu-XHAWJM4",
+        "title": "Aye Dil Aazma Nahin - Last Episode 36 - Highlight - [ Mirza Zain Baig & Hina Tariq ] - HUM TV",
+        "date": "2026-07-27",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/LDu-XHAWJM4/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "arydigital-bas-tera-saath-ho": {
       "lastAttempt": "2026-10-12T20:10:58.672501+05:00",
@@ -314,7 +326,19 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "hum-deewar": {
-      "lastAttempt": "2026-10-12T20:10:58.703672+05:00"
+      "lastAttempt": "2026-10-12T20:10:58.703672+05:00",
+      "latestUpload": {
+        "number": 84,
+        "id": "wQPiKAmU7N8",
+        "title": "Deewar Episode 84 Highlight - Sunita Marshall & Ali Abbas ] HUM TV",
+        "date": "2026-09-13",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/wQPiKAmU7N8/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "arydigital-dr-bahu": {
       "lastAttempt": "2026-10-12T20:10:58.703702+05:00",
@@ -325,7 +349,19 @@
       "latestPublisherSource": "https://arydigital.tv/drama/dr-bahu/"
     },
     "hum-ek-jhooti-kahani": {
-      "lastAttempt": "2026-10-12T20:10:58.769127+05:00"
+      "lastAttempt": "2026-10-12T20:10:58.769127+05:00",
+      "latestUpload": {
+        "number": 28,
+        "id": "dhJj0oDY58w",
+        "title": "Ek Jhooti Kahani - Last Episode 28 [Eng Sub] 13 March 2026 - [Mohib Mirza & Zara Noor Abbas]",
+        "date": "2026-03-13",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/dhJj0oDY58w/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "hum-hadd": {
       "lastAttempt": "2026-10-12T20:10:58.769157+05:00"
