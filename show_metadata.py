@@ -147,7 +147,10 @@ def build_metadata(shows,videos,schedule,fetch,old):
         if possible:
             n,dt,v=max(possible,key=lambda x:(x[0],x[1]))
             latest[s['id']]={'number':n,'id':v['id'],'title':v['title'],
-                'date':v.get('date',''),'source':'Official YouTube upload'}
+                'date':v.get('date',''),'source':'Official YouTube upload',
+                'availableGB':v.get('availableGB'),
+                'availablePK':v.get('availablePK'),
+                'embeddable':v.get('embeddable',True)}
     # Broadcast slots are separate from confirmed video uploads.
     for slot in schedule.get('items',[]):
         sid=slot.get('showId')
