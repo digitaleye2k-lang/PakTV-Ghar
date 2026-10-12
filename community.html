@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+ <meta name="theme-color" content="#08090e">
+ <meta name="description" content="PakTV Ghar community: country visitor trends, safer anonymous show discussions, contact, reports and moderator applications.">
+ <title>Community &amp; Contact · PakTV Ghar</title>
+ <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+ <link rel="stylesheet" href="./community.css">
+ <link rel="stylesheet" href="./cookie-consent.css">
+ <link rel="canonical" href="https://digitaleye2k-lang.github.io/PakTV-Ghar/community.html">
+</head>
+<body>
+ <a class="skip-link" href="#communityMain">Skip to community content</a>
+ <header class="community-top">
+  <a class="community-brand" href="./#home"><span class="brand-mark">▶</span><span>PakTV <em>Ghar</em><small>COMMUNITY</small></span></a>
+  <nav aria-label="Site navigation"><a href="./#dramas">Dramas</a><a href="./#movies">Movies</a><a href="./#archive">Video archive</a></nav>
+  <a class="community-home" href="./#home">← Back to TV</a>
+ </header>
+ <main id="communityMain">
+  <section class="community-hero">
+   <div class="community-glow"></div><span class="eyebrow">✦ PAKTV GHAR COMMUNITY</span>
+   <h1>Pakistani stories bring <em>us together.</em></h1>
+   <p>See where viewers are visiting from, talk about your favourite dramas and shows, or tell us how we can improve PakTV Ghar.</p>
+   <div class="community-pills"><span>Anonymous discussions</span><span>Respectful community</span><span>Reports reviewed by moderators</span></div>
+  </section>
+  <div id="communitySetup" class="setup-notice" role="status" hidden>
+   <strong>Community chat and forms are being set up.</strong>
+   The pages are ready, but messages and visitor numbers cannot go live until the secure community database is connected.
+   Until then, no messages or personal details are collected here.
+  </div>
+  <nav class="community-nav" aria-label="Community sections">
+   <a href="#visitors" data-community-tab="visitors">🌍 Visitors</a>
+   <a href="#chat" data-community-tab="chat">💬 Show chat</a>
+   <a href="#contact" data-community-tab="contact">✉️ Contact us</a>
+   <a href="#report" data-community-tab="report">🚩 Report</a>
+   <a href="#moderator" data-community-tab="moderator">🛡️ Be a moderator</a>
+  </nav>
+  <section id="visitors" class="community-panel" data-community-panel="visitors" aria-labelledby="visitorsTitle">
+   <div class="section-kicker">PAKTV WORLDWIDE</div>
+   <h2 id="visitorsTitle">Our viewers around the world</h2>
+   <p class="subtle">Anonymous, approximate visits by country over the last 30 days. This is a visit counter, not a census of unique people.</p>
+   <div class="stats-grid">
+    <div class="stat-tile"><small>All-time recorded visits</small><strong id="statAll">—</strong></div>
+    <div class="stat-tile"><small>Last 30 days</small><strong id="statMonth">—</strong></div>
+    <div class="stat-tile"><small>Top country (last 30 days)</small><strong id="statTop">—</strong></div>
+   </div>
+   <div class="country-panel">
+    <h3>Most visits by country <span>Last 30 days</span></h3>
+    <div id="countryRows" class="country-rows"><p class="subtle">Visitor statistics will appear after analytics is connected.</p></div>
+   </div>
+   <p class="privacy-note">Country estimates may be missing or inaccurate. We do not publicly show visitors' IP addresses or identities; a server temporarily processes network information to avoid counting repeat visits several times per day. <a href="./privacy.html">Read our privacy notice ↗</a></p>
+  </section>
+  <section id="chat" class="community-panel" data-community-panel="chat" aria-labelledby="chatTitle" hidden>
+   <div class="section-kicker">PAKTV GHAR DISCUSSIONS</div>
+   <h2 id="chatTitle">Chat about your favourite shows</h2>
+   <p class="subtle">Use a nickname; no email or public account name is shown. Chats are public and moderated. No private messages, pictures or links.</p>
+   <div class="chat-rules"><strong>Keep it friendly.</strong> Racist language, insults, name-calling, harassment, threats, spam and sharing personal information are not allowed. Automatic filters help, but they cannot catch everything. Please report problems.</div>
+   <div class="chat-top-controls">
+     <label>Discussion room<select id="chatTopic">
+       <option value="general">💬 General chat</option><option value="dramas">🎬 Pakistani dramas</option>
+       <option value="movies">🎞️ Movies</option><option value="comedy">😄 Comedy</option>
+       <option value="politics">🎙️ Political shows</option><option value="youtubers">📹 YouTubers</option>
+     </select></label>
+     <button type="button" id="chatRefresh" class="secondary">↻ Refresh messages</button>
+   </div>
+   <div id="chatMessages" class="chat-messages" role="log" aria-live="polite" aria-label="Recent discussion messages">
+     <p class="subtle">The chat will appear once the secure community backend is connected.</p>
+   </div>
+   <form id="chatForm" class="chat-compose">
+    <label>Your nickname (not your real name)<input id="chatNickname" name="nickname" maxlength="22" minlength="2" autocomplete="nickname" placeholder="e.g. DramaFan" required></label>
+    <label>Your message<textarea id="chatBody" name="message" minlength="2" maxlength="450" rows="3" placeholder="What did you think of today's episode?" required></textarea></label>
+    <div class="compose-bottom"><small>2–450 characters · 20-second cooldown · public to everyone</small><button id="chatSend" class="primary" type="submit" disabled>Post message →</button></div>
+   </form>
+   <p id="chatStatus" class="form-status" role="status"></p>
+   <div id="moderatorTools" class="moderator-tools" hidden>
+    <h3>Moderator review queue</h3><p class="subtle">Only verified moderators may review and hide reported messages.</p>
+    <button id="moderatorRefresh" class="secondary" type="button">Refresh queue</button>
+    <div id="moderatorQueue"></div>
+   </div>
+  </section>
+  <section id="contact" class="community-panel" data-community-panel="contact" aria-labelledby="contactTitle" hidden>
+   <div class="section-kicker">WE WANT TO HEAR FROM YOU</div><h2 id="contactTitle">Contact PakTV Ghar</h2>
+   <p class="subtle">Ideas for a new channel, incorrect episode numbers, technical problems or general feedback? Write to us privately. The message is not shown in chat.</p>
+   <form class="intake-form" data-intake-kind="contact">
+    <label>Your name or nickname (optional)<input name="nickname" maxlength="50" placeholder="Your name"></label>
+    <label>Email for a reply (optional)<input name="email" type="email" maxlength="200" placeholder="you@example.com"></label>
+    <label>Subject<input name="subject" minlength="5" maxlength="120" required placeholder="What can we help with?"></label>
+    <label>Your message<textarea name="details" minlength="20" maxlength="2500" rows="6" required placeholder="Tell us what's happening or what you would like to see."></textarea></label>
+    <div class="compose-bottom"><small>Only the website owner/moderators can review this message.</small><button class="primary" type="submit" disabled>Send message →</button></div>
+    <p class="form-status" role="status"></p>
+   </form>
+  </section>
+  <section id="report" class="community-panel" data-community-panel="report" aria-labelledby="reportTitle" hidden>
+   <div class="section-kicker">MAKE PAKTV GHAR SAFER</div><h2 id="reportTitle">Report a problem</h2>
+   <p class="subtle">Report broken videos, misleading information, inappropriate ads, abusive chat or other issues. Chat messages also have their own Report button.</p>
+   <form class="intake-form" data-intake-kind="report">
+    <label>Your email (optional)<input name="email" type="email" maxlength="200" placeholder="Only if you want a reply"></label>
+    <label>What are you reporting?<input name="subject" minlength="5" maxlength="120" required placeholder="e.g. Racist comment / broken drama link"></label>
+    <label>Link (optional)<input name="related_url" type="url" maxlength="350" placeholder="https://..."></label>
+    <label>What happened?<textarea name="details" minlength="20" maxlength="2500" rows="6" required placeholder="Tell us the show name, the problem, and anything that would help us review it."></textarea></label>
+    <div class="compose-bottom"><small>Your report is private and not published.</small><button class="primary" type="submit" disabled>Submit report →</button></div>
+    <p class="form-status" role="status"></p>
+   </form>
+  </section>
+  <section id="moderator" class="community-panel" data-community-panel="moderator" aria-labelledby="moderatorTitle" hidden>
+   <div class="section-kicker">HELP KEEP DISCUSSIONS FRIENDLY</div><h2 id="moderatorTitle">Apply to become a moderator</h2>
+   <p class="subtle">Volunteer to keep community conversations respectful. Applications are reviewed privately; applying does not give automatic moderation powers.</p>
+   <form class="intake-form" data-intake-kind="moderator">
+    <label>Your preferred display name<input name="nickname" minlength="2" maxlength="50" required placeholder="Your nickname"></label>
+    <label>Your email (required for a reply)<input name="email" type="email" maxlength="200" required placeholder="you@example.com"></label>
+    <label>Application title<input name="subject" minlength="5" maxlength="120" required value="Volunteer moderator application"></label>
+    <label>Why would you be a good moderator?<textarea name="details" minlength="40" maxlength="2500" rows="7" required placeholder="Tell us about your experience, time zone, availability, and how you'd handle racism, bullying or personal attacks."></textarea></label>
+    <div class="compose-bottom"><small>No payment or personal ID required. Never send passwords or private documents.</small><button class="primary" type="submit" disabled>Apply privately →</button></div>
+    <p class="form-status" role="status"></p>
+   </form>
+  </section>
+ </main>
+ <footer class="community-footer">
+  <span>© PakTV Ghar · Independent Pakistani TV directory</span>
+  <div><a href="./#home">Main site</a><a href="./privacy.html">Privacy</a><a href="./disclaimer.html">Disclaimer</a><button type="button" data-privacy-settings>Cookie settings</button></div>
+ </footer>
+ <script src="./community-config.js" defer></script>
+ <script src="./community.js" defer></script>
+ <script src="./cookie-consent.js" defer></script>
+</body>
+</html>
