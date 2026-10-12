@@ -21,3 +21,17 @@ PakTV Ghar is an independent discovery directory. It does not host, upload or st
 - A Cookie settings button in the footer allows later withdrawal. Reload stops the ad scripts but does not delete existing third-party cookies.
 - Domains: profitableratecpmnetwork.com and highrevenueformat.com.
 - Owner to-do: provide private contact details and carry out a real ad/cookie audit; check whether a consent management platform is required. This implementation does not guarantee legal compliance.
+
+## YouTube Data API: episode search
+
+PakTV Ghar can optionally use the **YouTube Data API v3** through GitHub Actions. It does not expose an API key to browser visitors.
+
+1. Create an API key in [Google Cloud Credentials](https://console.cloud.google.com/apis/credentials) and limit its **API restrictions** to **YouTube Data API v3**.
+2. Open [repository Actions secrets](https://github.com/digitaleye2k-lang/PakTV-Ghar/settings/secrets/actions). Add a repository secret named `YOUTUBE_API_KEY`, using the key as its value.
+3. Open [GitHub Actions](https://github.com/digitaleye2k-lang/PakTV-Ghar/actions/workflows/publish.yml) and choose **Run workflow**; after deployment, the website will use the static episode index.
+
+**Security:** Never put the key in `index.html`, `youtube-state.json`, `refresh.py` or any public file. If a key was disclosed publicly or pasted into a conversation, rotate/delete it in Google Cloud and replace the GitHub secret with the new key. The GitHub connector used to edit this repository cannot configure repository secrets.
+
+The indexer resolves broadcaster YouTube handles using `channels.list`, uses `search.list` separately for Great Britain and Pakistan, and verifies candidate videos with `videos.list`. It filters for full episodes with publisher/channel ownership, duration and episode titles, checks country restrictions and embed permission, and uses thumbnails where available. Both YouTube search and video publishing are subject to platform and rights-holder restrictions.
+
+For quota safety, at most **8 search calls per refresh** and **80 search calls per Pacific-time day** are used, with a rolling group of dramas and cached public metadata for up to **14 days**. The index gradually fills in; it is not a complete archive or a geo-unblocking service. Video playback is controlled by YouTube, even when API metadata says a video is embeddable.
