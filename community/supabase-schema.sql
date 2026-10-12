@@ -88,16 +88,23 @@ create or replace function public.pgh_safe_text(input_text text)
 returns boolean language plpgsql stable security definer set search_path=''
 as $$
 declare
-  flat text; phrase text;
+  flat text; phrase text; words text; phrase_words text;
 begin
   if input_text is null or length(btrim(input_text)) < 2 then return false; end if;
   flat := regexp_replace(lower(input_text),'[^a-z0-9]+','','g');
+  words := ' ' || btrim(regexp_replace(lower(input_text),'[^a-z0-9]+',' ','g')) || ' ';
   if length(flat)<2 then return false; end if;
   if input_text ~* '(https?://|www\.|@[a-z0-9_]{3,}|\m[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}\M)'
     then return false; end if;
   if input_text ~ '\m[0-9]{8,}\M' then return false; end if;
-  for phrase in select regexp_replace(lower(t.phrase),'[^a-z0-9]+','','g') from public.community_blocked_terms t loop
-    if length(phrase)>2 and position(phrase in flat)>0 then return false; end if;
+  for phrase in select lower(t.phrase) from public.community_blocked_terms t loop
+    phrase_words := ' ' || btrim(regexp_replace(phrase,'[^a-z0-9]+',' ','g')) || ' ';
+    if position(phrase_words in words)>0 then return false; end if;
+    -- Catch long obfuscated slurs (e.g. separated by punctuation), but never
+    -- match short slurs inside innocent words like "Pakistani".
+    if length(regexp_replace(phrase,'[^a-z0-9]+','','g'))>=7
+      and position(regexp_replace(phrase,'[^a-z0-9]+','','g') in flat)>0
+      then return false; end if;
   end loop;
   return true;
 end;
@@ -182,6 +189,47 @@ end;
 $$;
 revoke all on function public.pgh_submit(text,text,text,text,text,text) from public;
 grant execute on function public.pgh_submit(text,text,text,text,text,text) to authenticated;
+-- Contact, reports and moderator applications are ONLY visible to site owners.
+-- For the owner account: sign in with a verified email, then run as project
+-- administrator:
+-- INSERT INTO public.community_moderators(user_id,role)
+-- VALUES ('YOUR-AUTH-USER-UUID','owner') ON CONFLICT(user_id)
+-- DO UPDATE SET role='owner';
+create or replace function public.pgh_owner()
+returns boolean language sql stable security definer set search_path=''
+as $select exists(select 1 from public.community_moderators
+ where user_id=auth.uid() and role='owner')$;
+revoke all on function public.pgh_owner() from public,anon,authenticated;
+grant execute on function public.pgh_owner() to authenticated;
+create or replace function public.pgh_private_inbox()
+returns table(id bigint,kind text,nickname text,email text,subject text,
+ details text,related_url text,status text,created_at timestamptz)
+language plpgsql stable security definer set search_path=''
+as $
+begin
+ if not public.pgh_owner() then raise exception 'Owner access required'; end if;
+ return query select s.id,s.kind,s.nickname,s.email,s.subject,s.details,
+   s.related_url,s.status,s.created_at
+ from public.community_submissions s
+ order by case when s.status='new' then 0 else 1 end,s.created_at desc
+ limit 250;
+end;
+$;
+revoke all on function public.pgh_private_inbox() from public,anon,authenticated;
+grant execute on function public.pgh_private_inbox() to authenticated;
+create or replace function public.pgh_resolve_submission(p_id bigint,p_status text)
+returns void language plpgsql security definer set search_path=''
+as $
+begin
+ if not public.pgh_owner() then raise exception 'Owner access required'; end if;
+ if p_status not in ('new','reviewing','resolved','rejected') then
+   raise exception 'Invalid status'; end if;
+ update public.community_submissions set status=p_status where id=p_id;
+end;
+$;
+revoke all on function public.pgh_resolve_submission(bigint,text) from public,anon,authenticated;
+grant execute on function public.pgh_resolve_submission(bigint,text) to authenticated;
+
 -- Moderator tools never allow applicants to grant themselves access.
 create or replace function public.pgh_moderate(p_message_id bigint,p_action text)
 returns void language plpgsql security definer set search_path=''
