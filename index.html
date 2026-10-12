@@ -34,6 +34,15 @@
 @media(max-width:360px){.series-grid{grid-template-columns:1fr}}
 @media(max-width:930px){.mobile-tabs{display:flex;grid-template-columns:none;overflow-x:auto;overscroll-behavior-x:contain;gap:4px;scrollbar-width:thin}.mobile-tabs a{flex:0 0 79px;min-width:79px;white-space:nowrap}.mobile-tabs a .nav-icon{font-size:23px}}
 
+
+/* Clear ownership and hosting notice, visible on desktop and mobile. */
+.legal-footer{display:block;padding:20px 0 0;margin-bottom:30px}
+.legal-footer-inner{max-width:100%;background:#111a2d;border:1px solid #2b3852;border-radius:15px;padding:18px 22px}
+.legal-footer h2{font-size:14px;line-height:1.4;color:#f7f7fd;margin:0 0 7px}
+.legal-footer p{font-size:12px;line-height:1.7;color:#aebbd5;margin:0 0 9px}
+.legal-footer strong{color:#e5ebf8;font-weight:700}
+.legal-footer .legal-footer-actions{margin-bottom:0}
+.legal-footer a{color:#ffbe78;text-decoration:underline;text-underline-offset:3px;font-weight:700}
 </style>
 
 
@@ -65,7 +74,13 @@
     </header>
 
     <main id="mainContent" tabindex="-1"></main>
-    <footer class="site-footer"><span>PakTV Ghar · A family viewing hub</span><span>Videos play from their original YouTube publishers. All rights belong to their owners.</span></footer>
+    <footer class="site-footer legal-footer" aria-label="Copyright and content disclaimer">
+      <div class="legal-footer-inner">
+        <h2>Copyright &amp; Content Disclaimer</h2>
+        <p>PakTV Ghar is an independent programme directory. <strong>We do not host, upload or store TV shows or video files on our servers.</strong> Videos are linked to or embedded from third-party services, including their original broadcasters and YouTube channels. Content, trademarks and related rights belong to their respective owners. We are not affiliated with or endorsed by those channels or platforms.</p>
+        <p class="legal-footer-actions"><a href="./disclaimer.html">Read full disclaimer &amp; report a copyright concern ↗</a></p>
+      </div>
+    </footer>
   </div>
 </div>
 
