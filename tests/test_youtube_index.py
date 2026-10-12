@@ -93,7 +93,7 @@ class IndexTests(unittest.TestCase):
             raise AssertionError(endpoint)
         entries, cache, stats = index_api(
             [SHOW], 'test-placeholder-key', {}, transport=transport,
-            now=NOW, known_channel_ids={'hum': CID})
+            now=NOW, known_channel_ids={'hum': CID, 'arydigital': CID, 'harpalgeo': CID})
         self.assertEqual(stats['newVideos'], 1)
         self.assertEqual(stats['searches'], 2)
         self.assertEqual(cache['channels']['hum']['id'], CID)
