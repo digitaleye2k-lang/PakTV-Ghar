@@ -32,7 +32,8 @@ DISCUSSIONS = ('straighttalk', 'economymatters', 'newswise', 'nadeemmalik',
                'reportcard', 'jirga', 'thinktank', 'nuqtaenazar',
                'capitaltalk', 'the reporters', 'on the front',
                'shahzebkhanzada', 'offtherecord', 'kaltak',
-               'powerplay', '11thhour', 'aapas ki baat')
+               'powerplay', '11thhour', 'aapas ki baat', 'nadeemmalik',
+               'redline', 'spotlightwithmunizae')
 DISCUSSIONS = tuple(x.replace(' ', '') for x in DISCUSSIONS)
 
 
