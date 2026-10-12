@@ -1,0 +1,31 @@
+/* Lightweight opt-in visitor count preview under the home hero. */
+.home-world-widget{
+ display:flex;position:relative;align-items:center;gap:15px;flex-wrap:wrap;
+ margin:19px 0 9px;padding:15px 21px;
+ background:linear-gradient(130deg,#251e30,#171b2b 80%);
+ border:1px solid #ffffff27;border-radius:13px;box-shadow:0 10px 28px #0004
+}
+.home-world-symbol{font-size:34px;flex:none;filter:drop-shadow(0 2px 9px #de6d7877)}
+.home-world-info{flex:1;min-width:175px}
+.home-world-info strong{font-size:14px;color:#f9f9ff;display:block;font-weight:900;letter-spacing:-.01em}
+.home-world-info span{display:block;color:#b8b6c4;font-size:12px;margin-top:5px}
+.home-world-info b{font-weight:900;color:#ffa4ae}
+.home-world-actions{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.home-world-actions button,.home-world-actions a{
+ padding:9px 12px;font-size:11px;font-weight:800;min-height:37px;border-radius:8px
+}
+.home-world-actions button{background:#ff5b7140;border:1px solid #ff859273;color:#ffdee0;cursor:pointer}
+.home-world-actions button:hover:enabled{background:#ff63737a}
+.home-world-actions button:disabled{opacity:.5;cursor:not-allowed}
+.home-world-actions a{border:1px solid #ffffff30;background:#ffffff11;color:#ebdfeb;text-decoration:none}
+.home-world-actions a:hover{background:#ffffff25}
+.home-visit-status{width:100%;margin:0;color:#ffbdc8;font-size:11px;line-height:1.5}
+.home-visit-status:empty{display:none}
+@media(max-width:650px){
+ .home-world-widget{padding:13px 14px;gap:10px}
+ .home-world-symbol{font-size:27px}
+ .home-world-info strong{font-size:13px}
+ .home-world-info span{font-size:11px}
+ .home-world-actions{width:100%}
+ .home-world-actions button,.home-world-actions a{flex:1;text-align:center}
+}
