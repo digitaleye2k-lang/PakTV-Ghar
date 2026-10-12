@@ -157,7 +157,7 @@
       <div class="legal-footer-inner">
         <h2>Copyright &amp; Content Disclaimer</h2>
         <p>PakTV Ghar is an independent programme directory. <strong>We do not host, upload or store TV shows or video files on our servers.</strong> Videos are linked to or embedded from third-party services, including their original broadcasters and YouTube channels. Content, trademarks and related rights belong to their respective owners. We are not affiliated with or endorsed by those channels or platforms.</p>
-        <p class="legal-footer-actions"><a href="./disclaimer.html">Copyright disclaimer ↗</a> &nbsp;·&nbsp; <a href="./privacy.html">Privacy &amp; Cookies Policy ↗</a> &nbsp;·&nbsp; <button type="button" class="cookie-settings-footer" data-privacy-settings>Cookie settings</button></p>
+        <p class="legal-footer-actions"><a href="./disclaimer.html">Copyright disclaimer ↗</a> &nbsp;·&nbsp; <a href="./privacy.html">Privacy &amp; Cookies Policy ↗</a> &nbsp;·&nbsp; <a href="./community.html#contact">Contact Us ↗</a> &nbsp;·&nbsp; <a href="./community.html#report">Report a problem ↗</a> &nbsp;·&nbsp; <button type="button" class="cookie-settings-footer" data-privacy-settings>Cookie settings</button></p>
       </div>
     </footer>
   </div>
@@ -313,7 +313,9 @@ const NAV = [
  {id:'talk',icon:'🎙️',en:'Talk Shows',ur:'ٹاک شوز'},
  {id:'vloggers',icon:'📹',en:'YouTubers',ur:'یوٹیوبرز'},
  {id:'archive',icon:'🗓️',en:'Video Archive',ur:'پرانے ویڈیوز'},
- {id:'favourites',icon:'♡',en:'Favourites',ur:'پسندیدہ'}
+ {id:'favourites',icon:'♡',en:'Favourites',ur:'پسندیدہ'},
+ {id:'community',icon:'💬',en:'Community',ur:'کمیونٹی',href:'./community.html#chat'},
+ {id:'contact',icon:'✉️',en:'Contact Us',ur:'رابطہ',href:'./community.html#contact'}
 ];
 const CATEGORY_LABELS={dramas:'Pakistani Dramas',movies:'Pakistani Movies',comedy:'Comedy & Political Satire',news:'News & Headlines',talk:'Political Talk Shows',vloggers:'Pakistani YouTubers'};
 const el=id=>document.getElementById(id);
@@ -329,7 +331,7 @@ const catVideos=cat=>uniqueVideos([...state.archiveVideos,...state.feed,...SEED_
 function uniqueVideos(arr){const seen=new Set();return arr.filter(v=>{if(!/^[\w-]{11}$/.test(v.id||'')||seen.has(v.id))return false;seen.add(v.id);return true})}
 function locationPage(){const hash=location.hash.slice(1);if(hash.startsWith('show-')&&LIBRARY.some(s=>s.id===hash.slice(5)))return 'show';const page=['home','today','dramas','movies','comedy','news','talk','vloggers','archive','favourites','search'].includes(hash)?hash:'home';return page}
 function navTo(page){if(state.page===page && location.hash===`#${page}`){window.scrollTo({top:0,behavior:'smooth'});return}location.hash=page}
-function navMarkup(item,mobile=false){const active=state.page===item.id;const label=state.language==='ur'?item.ur:item.en;return mobile?`<a href="#${item.id}" class="${active?'active':''}" aria-current="${active?'page':'false'}"><span class="nav-icon">${item.icon}</span><span>${escapeHTML(label)}</span></a>`:`<button class="nav-item ${active?'active':''}" type="button" data-nav="${item.id}" aria-current="${active?'page':'false'}"><span class="nav-icon">${item.icon}</span><span>${escapeHTML(label)}</span>${item.id==='favourites'&&state.favoriteChannels.length+state.favoriteVideos.length?`<span class="count">${state.favoriteChannels.length+state.favoriteVideos.length}</span>`:''}</button>`}
+function navMarkup(item,mobile=false){const active=state.page===item.id;const label=state.language==='ur'?item.ur:item.en;if(item.href){return mobile?`<a href="${escapeHTML(item.href)}"><span class="nav-icon">${item.icon}</span><span>${escapeHTML(label)}</span></a>`:`<a class="nav-item community-nav-link" href="${escapeHTML(item.href)}"><span class="nav-icon">${item.icon}</span><span>${escapeHTML(label)}</span></a>`}return mobile?`<a href="#${item.id}" class="${active?'active':''}" aria-current="${active?'page':'false'}"><span class="nav-icon">${item.icon}</span><span>${escapeHTML(label)}</span></a>`:`<button class="nav-item ${active?'active':''}" type="button" data-nav="${item.id}" aria-current="${active?'page':'false'}"><span class="nav-icon">${item.icon}</span><span>${escapeHTML(label)}</span>${item.id==='favourites'&&state.favoriteChannels.length+state.favoriteVideos.length?`<span class="count">${state.favoriteChannels.length+state.favoriteVideos.length}</span>`:''}</button>`}
 function renderNav(){el('sideNav').innerHTML=NAV.map(n=>navMarkup(n)).join('');el('mobileNav').innerHTML=NAV.map(n=>navMarkup(n,true)).join('')}
 function sectionHead(title,sub='',all='',label='See all →'){return `<div class="section-head"><div><h2>${escapeHTML(title)}</h2>${sub?`<p class="subtitle">${escapeHTML(sub)}</p>`:''}</div>${all?`<button class="text-link" type="button" data-nav="${all}">${escapeHTML(label)}</button>`:''}</div>`}
 function videoCard(v){const saved=state.favoriteVideos.includes(v.id);return `<article class="video-card"><div class="video-thumb"><a href="${videoURL(v.id)}" data-video="${escapeHTML(v.id)}" aria-label="Watch ${escapeHTML(v.title)} here"><img src="${thumb(v.id)}" alt="" loading="lazy" onerror="this.style.opacity='.15'"><span class="thumb-play" aria-hidden="true">▶</span><span class="source-tag">${escapeHTML(v.channel)}</span></a></div><div class="video-body"><h3>${escapeHTML(v.title)}</h3><div class="video-meta"><span>${escapeHTML(v.date||'Watch now')}</span><button type="button" data-video-fav="${escapeHTML(v.id)}" class="${saved?'saved':''}" title="${saved?'Remove favourite':'Add favourite'}" aria-label="${saved?'Remove from':'Add to'} favourites">${saved?'♥':'♡'}</button></div></div></article>`}
@@ -564,6 +566,8 @@ function renderHome(){
     '<div class="quick-grid cinema-quick">'+
     [['dramas','🎬','Dramas'],['movies','🎞️','Movies'],['archive','🗓️','Video archive'],['comedy','😄','Comedy'],['news','📡','News'],['talk','🎙️','Talk shows'],['vloggers','📹','YouTubers'],['today','📅','TV today']].map(([id,icon,label])=>
       '<button type="button" class="quick-tile" data-nav="'+id+'"><span class="quick-emoji">'+icon+'</span><span class="quick-name">'+label+'</span></button>').join('')+
+    '<a class="quick-tile community-home-tile" href="./community.html#chat"><span class="quick-emoji">💬</span><span class="quick-name">Community chat</span></a>'+
+    '<a class="quick-tile community-home-tile" href="./community.html#visitors"><span class="quick-emoji">🌍</span><span class="quick-name">Visitor countries</span></a>'+
     '</div>'+
     cinemaVideoRail('Movie night · Full-length films','Publisher films and movie-length TV editions from Pakistani YouTube sources.',movieVideos().slice(0,9),'movies')+
     cinemaPosterRail('Featured Pakistani dramas','Find your next binge from original broadcasters.',spotlight,'dramas')+
