@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-10-12T18:32:46.798505+00:00",
+  "generatedAt": "2026-10-12T18:35:15.578265+00:00",
   "dateTimezone": "UTC",
-  "cursor": 0,
+  "cursor": 12,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
       "uploadsId": "UU_vt34wimdCzdkrzVejwX9g",
       "handle": "geonews",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T18:17:22.132649+00:00"
+      "lastFetchedAt": "2026-10-12T18:35:15.578265+00:00"
     },
     "ducky": {
       "youtubeId": "UC_c-RTowPbIlzMkIa_O7s6Q",
       "uploadsId": "UU_c-RTowPbIlzMkIa_O7s6Q",
       "handle": "duckybhai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T18:17:22.132649+00:00"
+      "lastFetchedAt": "2026-10-12T18:35:15.578265+00:00"
     },
     "arynews": {
       "youtubeId": "UCMmpLL2ucRHAXbNHiCPyIyg",
       "uploadsId": "UUMmpLL2ucRHAXbNHiCPyIyg",
       "handle": "ArynewsTvofficial",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T18:17:22.132649+00:00"
+      "lastFetchedAt": "2026-10-12T18:35:15.578265+00:00"
     },
     "rhs": {
       "youtubeId": "UCgFG7lz7BI5hsNEifevrWSw",
       "uploadsId": "UUgFG7lz7BI5hsNEifevrWSw",
       "handle": "ranahamzasaifrhs",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T18:17:22.132649+00:00"
+      "lastFetchedAt": "2026-10-12T18:35:15.578265+00:00"
     },
     "dunya": {
       "youtubeId": "UCG7xCQTxgy93j6r49wl48rw",
@@ -42,28 +42,28 @@
       "uploadsId": "UUQexaAjPn3-1MCE4DmBK3Tg",
       "handle": "villagefoodsecrets",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T18:17:22.132649+00:00"
+      "lastFetchedAt": "2026-10-12T18:35:15.578265+00:00"
     },
     "geohasna": {
       "youtubeId": "UC6HQ4d3xq9EgSeJgMhc-4AQ",
       "uploadsId": "UU6HQ4d3xq9EgSeJgMhc-4AQ",
       "handle": "GeoHasnaManaHai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T18:17:22.132649+00:00"
+      "lastFetchedAt": "2026-10-12T18:35:15.578265+00:00"
     },
     "streetfoodpk": {
       "youtubeId": "UCt8NJjYKc2aT3T0TnbcWxSw",
       "uploadsId": "UUt8NJjYKc2aT3T0TnbcWxSw",
       "handle": "streetfoodpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T18:18:06.798059+00:00"
+      "lastFetchedAt": "2026-10-12T18:35:15.578265+00:00"
     },
     "hum": {
       "youtubeId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
       "uploadsId": "UUEeEQxm6qc_qaTE7qTV5aLQ",
       "handle": "HUMTV",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T18:18:06.798059+00:00"
+      "lastFetchedAt": "2026-10-12T18:35:15.578265+00:00"
     },
     "arydigital": {
       "youtubeId": "UC4JCksJF76g_MdzPVBJoC3Q",
@@ -239,9 +239,113 @@
       "handle": "mooroosicity",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
       "lastFetchedAt": "2026-10-12T18:20:46.492844+00:00"
+    },
+    "aryfilms": {
+      "youtubeId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "uploadsId": "UU2PYniNHljOED9xNaMpiMiQ",
+      "handle": "ARYFilms",
+      "checkedAt": "2026-10-12T18:35:15.578265+00:00",
+      "lastFetchedAt": "2026-10-12T18:35:15.578265+00:00"
+    },
+    "drmmovies": {
+      "youtubeId": "UCDmQsP_LTEWPZ2AXS9eWTrQ",
+      "uploadsId": "UUDmQsP_LTEWPZ2AXS9eWTrQ",
+      "handle": "pakistani_movies",
+      "checkedAt": "2026-10-12T18:35:15.578265+00:00",
+      "lastFetchedAt": "2026-10-12T18:35:15.578265+00:00"
     }
   },
   "videos": [
+    {
+      "id": "0YKc4TJJb8s",
+      "title": "Power Outage Crisis Hits Karachi! | Breaking News | Geo News",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:31:22Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 108,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/0YKc4TJJb8s/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "1ttrBWG3-yM",
+      "title": "New Episode | Khushi Iconic Moment | ft. Sumaiyya Bukhsh & Mariam Ejaz - HUM TV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:30:11Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 529,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/1ttrBWG3-yM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "Gb7elW48nqk",
+      "title": "Tabish Se Autograph Aur Phone Number Dono Le Aayi Houn...! #dananeermubeen #hurmat #shahveerjaffery",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:30:00Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 338,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Gb7elW48nqk/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "EJOCRwC3nVU",
+      "title": "Shadi Ka Naam Sunty Hi Gusa Aa Gaya | #dananeermubeen #hurmat #shahveerjaffery",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:25:19Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 167,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/EJOCRwC3nVU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "tNeArzeWGMo",
+      "title": "Shortcut And Win The Race..! #BombayTailors #humtv",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:25:15Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 136,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/tNeArzeWGMo/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
     {
       "id": "qXxcKrYcXRc",
       "title": "Russian Interior Minister Arrives in Pakistan on 4-Day Visit | Dawn News Headlines: 11 PM",
@@ -258,6 +362,96 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/qXxcKrYcXRc/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "Aw3ZNuXXor4",
+      "title": "What Is Balochistan Government’s Strategy Against Terr0rism? Shahid Rind Explains",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:23:14Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 330,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Aw3ZNuXXor4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "7jJS_AUXSfc",
+      "title": "GOVERNOR’S RULE - EMERGENCY IN KP | 11PM Headlines Geo News (12th Oct 2026)",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:23:03Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 594,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/7jJS_AUXSfc/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "N0r35PGrEno",
+      "title": "Punjab Governor Makes a Major Statement #shorts",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:22:45Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 139,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/N0r35PGrEno/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "pWeBp4tSzXM",
+      "title": "Tumhari Wajah Se Mera Rishta Khatam Ho Raha Hai..! ft. Sumaiyya Bukhsh &  Mariam Ejaz - HUM TV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:20:02Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 206,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/pWeBp4tSzXM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "4J7SMb7IpeM",
+      "title": "Hurmat Ne Tou Celebrity Ko Hi Reject Kar Diya! 😱 #DananeerMobeen #ShahveerJafry #Hurmat",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:20:02Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 254,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/4J7SMb7IpeM/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -348,6 +542,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/mpnkVE4PwNs/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "yOhq-XTHcMw",
+      "title": "Where Did Government-PTI Talks Go Wrong? Rana Sanaullah Reveals What Happened",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:12:13Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 270,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/yOhq-XTHcMw/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -1338,6 +1550,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/tWnQgcC4_rQ/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "5bUkVVw-SVI",
+      "title": "On My Radar With Kamran Khan | Emergency and Governor’s Rule in KP | 12th October 2026 | ARY News",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T17:34:08Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2756,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/5bUkVVw-SVI/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -19629,6 +19859,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "7uXtzVyDFic",
+      "title": "MEIN HARI PIYA - FULL MOVIE | HIRA MANI | SAMI KHAN | SUMBUL IQBAL | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-10-05",
+      "published": "2026-10-05T14:36:49Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 7865,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/7uXtzVyDFic/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "-FBDUYXGrT8",
       "title": "Degi White Biryani - Commercial Style Degi Recipe",
       "channel": "Kun Foods",
@@ -27063,6 +27311,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "F1v5B_9PqoA",
+      "title": "BESHARAM - FULL MOVIE | ZAHID AHMED | SABA QAMAR | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-09-20",
+      "published": "2026-09-20T15:00:05Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 8658,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/F1v5B_9PqoA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "TGrP3KeZmKY",
       "title": "Maryam Nawaz's statement was racist",
       "channel": "The Pakistan Experience",
@@ -30357,6 +30623,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "VMhPE9PVeKU",
+      "title": "DIL LAGI - FULL MOVIE | MEHWISH HAYAT | HUMAYUN SAEED | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-09-06",
+      "published": "2026-09-06T15:00:16Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 8721,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/VMhPE9PVeKU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "N6SQfzgAuPs",
       "title": "Imran Khan’s BIG Victory? Public Urged to Prepare | Latest London Plan | Maryam’s India Links?",
       "channel": "Sabir Shakir",
@@ -32733,6 +33017,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "qHaUmAGJl0s",
+      "title": "NEELI ZINDA HAI - FULL MOVIE | URWA HOCANE | MOHIB MIRZA | SONIA MISHAL | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-08-23",
+      "published": "2026-08-23T15:00:34Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 8801,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/qHaUmAGJl0s/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "wheUiDpFNJ0",
       "title": "Letting OUR AGE DECIDE What I Eat for 24 HOURS! RHS",
       "channel": "Rana Hamza Saif (RHS)",
@@ -33612,6 +33914,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/GN634kpKhpQ/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "htZXQ5wIxAg",
+      "title": "SHARPASAND - FULL MOVIE | NAUMAAN IJAZ | HAREEM FAROOQ | HIRA MANI | AFFAN WAHEED | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-08-13",
+      "published": "2026-08-13T17:26:21Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 8615,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/htZXQ5wIxAg/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -36063,6 +36383,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "XfeZyz2Y2tM",
+      "title": "PARWARISH - FULL MOVIE | SAMAR JAFRI | AINA ASIF | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-07-19",
+      "published": "2026-07-19T15:00:09Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 8877,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/XfeZyz2Y2tM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "2WD845pHIj8",
       "title": "I Got Lost in Mexico's Most Remote Canyon 🇲🇽 S9 EP 76 | Pakistan to Americas Motorcycle Tour",
       "channel": "WildLens by Abrar",
@@ -37539,6 +37877,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "rQlXffmfNVA",
+      "title": "MAIN MANTO NAHI HOON - FULL MOVIE | HUMAYUN SAEED | SAJAL ALY | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-07-05",
+      "published": "2026-07-05T15:00:09Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 9165,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/rQlXffmfNVA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "TtVYe6Cgihg",
       "title": "My Most Favourite Sweet Dish Recipe Rasmalai #recipe #food #chefamna#sweetrecipe",
       "channel": "Kitchen with Amna",
@@ -38958,6 +39314,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/F5FZQD1mols/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "509LVFrT0cY",
+      "title": "SHER - FULL MOVIE | DANISH TAIMOOR | SARAH KHAN | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-06-21",
+      "published": "2026-06-21T15:00:14Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 8799,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/509LVFrT0cY/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -40416,6 +40790,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/1eRGC_ebu5I/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "XOTBrzyhZyo",
+      "title": "KABHI MAIN KABHI TUM - FULL MOVIE | HANIA AAMIR | FAHAD MUSTAFA | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-06-07",
+      "published": "2026-06-07T15:00:06Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 8998,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/XOTBrzyhZyo/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -41910,6 +42302,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/OEsb-shrZCY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "db-ee9yNMIg",
+      "title": "MERI ZINDAGI HAI TU - FULL MOVIE | HANIA AAMIR | BILAL ABBAS | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-05-10",
+      "published": "2026-05-10T16:01:03Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 8842,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/db-ee9yNMIg/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -43515,6 +43925,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "iIenRmMhMNc",
+      "title": "KAISA HAI NASEEBAN - FULL MOVIE | MUNEEB BUTT | USHNA SHAH | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-04-05",
+      "published": "2026-04-05T15:01:07Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 9447,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/iIenRmMhMNc/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "PpHgbG0pItY",
       "title": "I Ate Everything at Carrefour ft. Emporium Mall Lahore",
       "channel": "Rana Hamza Saif (RHS)",
@@ -43836,6 +44264,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/M7URX0u0v90/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "IJSJfGYYwTE",
+      "title": "BALAA - FULL MOVIE | BILAL ABBAS | USHNA SHAH | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-03-29",
+      "published": "2026-03-29T15:00:00Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 9253,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/IJSJfGYYwTE/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -47169,6 +47615,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "1eOJw4y0ENM",
+      "title": "BANDISH - FULL MOVIE | HIRA MANI | FAHAD SHEIKH | ZUBAB RANA | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-03-11",
+      "published": "2026-03-11T21:28:55Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 9394,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/1eOJw4y0ENM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "V4vEN6wUFFg",
       "title": "I Got A New Scooter 😂 | Bohot Mehngai Ho Gai Hai 😭",
       "channel": "Ducky Bhai",
@@ -47832,6 +48296,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/yFtBJTp2f-g/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "4ss1u3GftR8",
+      "title": "BEWAFA - FULL MOVIE | USHNA SHAH | ALI REHMAN | NAVEEN WAQAR | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-03-01",
+      "published": "2026-03-01T15:07:48Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 9010,
+      "availableGB": false,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/4ss1u3GftR8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -48951,6 +49433,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "wkp6wxlPI3U",
+      "title": "DUSRI BIWI - FULL MOVIE | FAHAD MUSTAFA | HAREEM FAROOQ | AHMED ALI | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-02-08",
+      "published": "2026-02-08T15:01:37Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 9217,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/wkp6wxlPI3U/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "N3xfjCjd3gM",
       "title": "First Day Of Basant 🪁 | Hawa Hi Nahi Chali 😂",
       "channel": "Ducky Bhai",
@@ -49167,6 +49667,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "sEuKvYqDJZ4",
+      "title": "JHOOTI - FULL MOVIE | IQRA AZIZ | AHMED ALI BUTT | YASIR HUSSAIN | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-02-01",
+      "published": "2026-02-01T15:01:37Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 8711,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/sEuKvYqDJZ4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "mV6hsABC1G8",
       "title": "This Was the Worst Experience on an Iconic Road 🇺🇸 S9 EP 35 | Route 66 | Pakistan to Americas",
       "channel": "WildLens by Abrar",
@@ -49344,6 +49862,24 @@
       "availablePK": true,
       "embeddable": false,
       "thumbnail": "https://i.ytimg.com/vi/WGMlvdcb9DA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "qcgpME7M4As",
+      "title": "RADD - FULL MOVIE | SHEHERYAR MUNAWAR | HIBA BUKHARI | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-01-25",
+      "published": "2026-01-25T15:01:32Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 9433,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/qcgpME7M4As/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -49632,6 +50168,24 @@
       "availablePK": true,
       "embeddable": false,
       "thumbnail": "https://i.ytimg.com/vi/a1XKCz61o_s/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "s5KDatAQtHc",
+      "title": "BADDUA - FULL MOVIE | MUNEEB BUTT | AMAR KHAN | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-01-20",
+      "published": "2026-01-20T15:01:42Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 9374,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/s5KDatAQtHc/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -49977,6 +50531,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "bIr7AMOWzzI",
+      "title": "AMANAT - FULL MOVIE | URWA HOCANE | IMRAN ABBAS | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-01-11",
+      "published": "2026-01-11T15:01:06Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 9406,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/bIr7AMOWzzI/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "aOzWkpPX-Is",
       "title": "Grand Launch Event Of My Restaurant TOT - Thank You Everyone",
       "channel": "Rana Hamza Saif (RHS)",
@@ -50226,6 +50798,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/wxHn97IUT7A/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "WlGizHJVxws",
+      "title": "AYE ISHQ E JUNOON - FULL MOVIE | SHEHREYAR MUNAWAR | USHNA SHAH | SHUJA ASAD | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-01-04",
+      "published": "2026-01-04T15:00:58Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 9287,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/WlGizHJVxws/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -50697,6 +51287,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "ukUnXKT9JlE",
+      "title": "MAYI RI - FULL MOVIE | AINA ASIF | SAMAR JAFRI | NAUMAAN IJAZ | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2025-12-21",
+      "published": "2025-12-21T15:01:52Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 9320,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/ukUnXKT9JlE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "DteH9UwOfpA",
       "title": "My First Impressions of America starts in Seattle 🇺🇸 S9 EP 24 | Pakistan to Americas Motorcycle",
       "channel": "WildLens by Abrar",
@@ -51093,6 +51701,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "h0Uthsve328",
+      "title": "JAAN E JAHAN - FULL MOVIE | HAMZA ALI ABBASI | AYEZA KHAN | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2025-12-07",
+      "published": "2025-12-07T15:01:29Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 9522,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/h0Uthsve328/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "tHaMPyO9v2M",
       "title": "These Places in British Columbia Look UNREAL S9 EP 20 | Yoho National Park | Pakistan to Americas",
       "channel": "WildLens by Abrar",
@@ -51291,6 +51917,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "4Peirvs6Ob4",
+      "title": "BISMIL - FULL MOVIE | HAREEM FAROOQ | NAUMAAN IJAZ | SAVERA NADEEM | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2025-11-30",
+      "published": "2025-11-30T15:00:09Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 9342,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/4Peirvs6Ob4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "-ExyNXM4ku8",
       "title": "Gajrela Recipe | Gajar Ki Kheer | Winter Special Carrots 🥕Recipe | Mubashir Saddique | Village Food",
       "channel": "Village Food Secrets",
@@ -51468,6 +52112,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/6wyuqvaUrKk/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "7X9OsA26Sik",
+      "title": "DASTAK - FULL MOVIE | SOHAI ALI ABRO | ALI RAZA | FEROZ KADRI | MOMINA IQBAL | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2025-11-23",
+      "published": "2025-11-23T15:00:11Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 9489,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/7X9OsA26Sik/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -51828,6 +52490,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/cs4D9ikxK1Y/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "KIFcn62u1Ag",
+      "title": "HOOK - FULL MOVIE | KINZA HASHMI | FAYSAL QURESHI | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2025-11-09",
+      "published": "2025-11-09T13:00:40Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 9489,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/KIFcn62u1Ag/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -52549,8 +53229,80 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/_cv5fnIFoxw/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "EXtNdD5yWds",
+      "title": "NOOR UL AIN - FULL MOVIE | SAJAL ALY | IMRAN ABBAS | 17th August 2025 | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2025-08-17",
+      "published": "2025-08-17T15:00:30Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 8704,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/EXtNdD5yWds/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "1aBXrPbMwcw",
+      "title": "BAYDARDI - FULL MOVIE | AIMAN KHAN | AFFAN WAHEED | 3rd August 2025 | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2025-08-03",
+      "published": "2025-08-03T15:00:03Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 8991,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/1aBXrPbMwcw/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "UkJbuBZ-EOc",
+      "title": "GUL O GULZAR - FULL MOVIE | KINZA HASHMI | SABOOR ALY | 13 July 2025 | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2025-07-13",
+      "published": "2025-07-13T15:00:48Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 8669,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/UkJbuBZ-EOc/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "9ulJKKnVyYA",
+      "title": "CHEEKH - FULL MOVIE | SABA QAMAR | BILAL ABBAS | USHNA SHAH | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2025-06-22",
+      "published": "2025-06-22T15:00:23Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 8971,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/9ulJKKnVyYA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Asad Toor: channel unavailable; Siddique Jaan: channel unavailable; HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable",
+  "lastError": "Dunya News: HTTP 404: playlistNotFound; Imran Riaz Khan: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
