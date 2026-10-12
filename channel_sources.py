@@ -21,6 +21,7 @@ CHANNELS = [
  {'id':'foodfusion','name':'Food Fusion','handle':'FoodfusionPk','category':'vloggers','genre':'Food & recipes'},
  {'id':'samaa','name':'SAMAA TV','handle':'SAMAATV','category':'news','genre':'News & politics'},
  {'id':'junaid','name':'Junaid Akram','handle':'JunaidAkram','category':'vloggers','genre':'Lifestyle & vlogs'},
+ {'id':'mooroo','name':'Mooroo (Taimoor Salahuddin)','handle':'mooroosicity','category':'vloggers','genre':'Lifestyle & vlogs'},
  {'id':'hasbehaal','name':'Hasb-e-Haal Official','handle':'hasbehaalofficial','category':'comedy','genre':'Comedy & satire'},
  {'id':'pakexperience','name':'The Pakistan Experience','handle':'ThePakistanExperience','category':'vloggers','genre':'Interviews & commentary'},
  {'id':'expressnews','name':'Express News','handle':'expressnewspk','category':'news','genre':'News & politics'},
