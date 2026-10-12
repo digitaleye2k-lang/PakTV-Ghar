@@ -1,6 +1,26 @@
 {
   "quotaDay": "2026-10-12",
-  "dailySearches": 0,
-  "channels": {},
-  "entries": {}
+  "dailySearches": 8,
+  "channels": {
+    "hum": {
+      "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "handle": "@HUMTV",
+      "checkedAt": "2026-10-12T17:11:36.644409+00:00",
+      "verifiedVia": "published_channel_id"
+    },
+    "arydigital": {
+      "id": "UC4JCksJF76g_MdzPVBJoC3Q",
+      "handle": "@ARYDigitalasia",
+      "checkedAt": "2026-10-12T17:11:36.644409+00:00",
+      "verifiedVia": "published_channel_id"
+    },
+    "harpalgeo": {
+      "id": "UCe9JSDmyqNgA_l2BzGHq1Ug",
+      "handle": "@HarPalGeoOfficial",
+      "checkedAt": "2026-10-12T17:11:36.644409+00:00",
+      "verifiedVia": "published_channel_id"
+    }
+  },
+  "entries": {},
+  "cursor": 4
 }
