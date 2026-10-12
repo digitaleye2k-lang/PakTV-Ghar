@@ -80,6 +80,18 @@
 .episode-finder input[type="number"]{background:#11192b;color:#fff;border:1px solid #697389;padding:14px;border-radius:11px;min-width:190px;flex:1;font-size:16px}
 @media(max-width:700px){.series-poster{height:140px}.series-fav{top:150px}.show-cover{grid-template-columns:100px 1fr;gap:12px}.show-cover .series-poster{height:142px}.show-cover .series-poster .poster-identity{font-size:15px}.series-poster .poster-identity{font-size:18px}.latest-facts{grid-template-columns:1fr}}
 
+
+/* Archive and creator topic controls */
+.archive-toolbar{border:1px solid #415678;background:#172640;padding:18px;border-radius:16px;margin:20px 0}
+.archive-toolbar .chips{display:flex;flex-wrap:wrap;gap:7px;margin:0 0 15px}
+.archive-filters{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;align-items:end}
+.archive-field{display:flex;flex-direction:column;gap:7px;color:#e2e9f5;font-size:13px;font-weight:750;min-width:0}
+.archive-field input,.archive-field select{min-width:0;width:100%;background:#0b1629;border:1px solid #60708f;color:#fff;border-radius:10px;min-height:43px;padding:9px 12px;font:inherit;font-size:15px}
+.archive-field input:focus-visible,.archive-field select:focus-visible{outline:3px solid #77d8d0;outline-offset:2px}
+.archive-count{color:#cad5e8;font-size:13px;margin:18px 0 14px}
+.creator-genres{display:flex;gap:8px;flex-wrap:wrap;margin:18px 0 20px}
+@media(max-width:700px){.archive-toolbar{padding:13px}.archive-filters{grid-template-columns:1fr}.archive-field input,.archive-field select{font-size:16px}}
+
 </style>
 
 
@@ -552,6 +564,26 @@ async function loadSchedule(){state.scheduleLoading=true;try{const r=await fetch
 async function loadEpisodes(page=0){const id=showId();if(!LIBRARY.some(s=>s.id===id))return;state.episodeLoadedFor=id;state.episodeList=[];state.episodeLoading=true;state.episodePage=page;paint();try{const r=await fetch('./data/episodes.json?t='+Date.now(),{signal:AbortSignal.timeout(18000)});if(!r.ok)throw Error('Offline');const data=await r.json();if(showId()!==id)return;state.episodeList=Array.isArray(data[id]?.episodes)?data[id].episodes:[]}catch{}finally{if(showId()===id){state.episodeLoading=false;paint()}}}
 function playIndexed(index){const item=state.episodeList[index];if(!item)return;if(item.id){if(item.availableGB===false||item.embeddable===false){window.open(videoURL(item.id),'_blank','noopener,noreferrer');toast(item.availableGB===false?'YouTube reports this upload may be blocked in the UK.':'Embedding disabled by publisher; opened YouTube.');return}const s=LIBRARY.find(x=>x.id===state.episodeLoadedFor);watchVideo({id:item.id,title:item.title,channel:item.source||networkName[s?.network]||'Official YouTube',channelId:s?.network,category:s?.type==='drama'?'dramas':'talk',date:item.date||'',description:'Found on the official channel or broadcaster website.'})}else if(item.url)window.open(item.url,'_blank','noopener,noreferrer')}
 // Event delegation intentionally works after page re-renders.
+document.addEventListener('click',e=>{
+  const period=e.target.closest('[data-archive-period]');
+  if(period){
+    state.archivePeriod=period.dataset.archivePeriod;
+    if(state.archivePeriod==='date'&&!state.archiveDate)state.archiveDate=archiveDateUTC(-1);
+    state.archiveLimit=30;paint();return;
+  }
+  if(e.target.closest('[data-archive-more]')){
+    state.archiveLimit+=30;paint();return;
+  }
+  const genre=e.target.closest('[data-creator-genre]');
+  if(genre){state.creatorGenre=genre.dataset.creatorGenre;state.visibleVideos=24;paint();return;}
+  if(e.target.closest('[data-video-more]')){state.visibleVideos+=24;paint();}
+});
+document.addEventListener('change',e=>{
+  if(e.target.id==='archiveTopic'){state.archiveCategory=e.target.value;state.archiveLimit=30;paint();}
+  if(e.target.id==='archiveChannel'){state.archiveChannel=e.target.value;state.archiveLimit=30;paint();}
+  if(e.target.id==='archiveDay'){state.archiveDate=e.target.value;state.archiveLimit=30;paint();}
+  if(e.target.id==='archiveSearch'){state.archiveQuery=e.target.value.trim();state.archiveLimit=30;paint();}
+});
 document.addEventListener('click',e=>{const link=e.target.closest('[data-series]');if(link){openSeries(link.dataset.series);return}const fav=e.target.closest('[data-series-fav]');if(fav){favoriteShow(fav.dataset.seriesFav);return}const era=e.target.closest('[data-era]');if(era){state.libraryFilter=era.dataset.era;state.visibleShows=30;paint();return}const net=e.target.closest('[data-net]');if(net){state.networkFilter=net.dataset.net;state.visibleShows=30;paint();return}if(e.target.closest('[data-more]')){state.visibleShows+=30;paint();return}const play=e.target.closest('[data-episode]');if(play){playIndexed(Number(play.dataset.episode));return}if(e.target.closest('[data-play-selected]')){playIndexed(Number(el('episodeSelect')?.value||0));return}if(e.target.closest('[data-reload-episodes]')){loadEpisodes(0);return}if(e.target.closest('[data-find-episode]')){const show=LIBRARY.find(x=>x.id===showId());const input=el('episodeNumber');const number=Number(input?.value);if(show&&Number.isInteger(number)&&number>=1&&number<=1200)window.open(publisherSearch(show,number),'_blank','noopener,noreferrer');else toast('Enter a valid episode number from 1 to 1200.')}});
 state.page=locationPage();bindEvents();paint();refreshFeeds();loadArchive();loadSchedule();loadShowMetadata();loadDiscovery();if(state.page==='show')loadEpisodes(0);setInterval(()=>{refreshFeeds();loadArchive();loadSchedule();loadShowMetadata();loadDiscovery()},15*60*1000);
 })();
