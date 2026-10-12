@@ -45,7 +45,7 @@ class ArchiveTests(unittest.TestCase):
             if endpoint=='videos':
                 return {'items':[video()]}
             raise AssertionError(endpoint)
-        archive,st=update_archive('dummy-test-key',{},NOW,transport,max_channels=1)
+        archive,st=update_archive('dummy-test-key',{'cursor':next(i for i,c in enumerate(CHANNELS) if c['id']=='geonews')},NOW,transport,max_channels=1)
         self.assertEqual(st['checked'],1)
         self.assertEqual(len(archive['videos']),1)
         self.assertEqual(archive['videos'][0]['date'],'2026-10-11')
