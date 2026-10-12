@@ -78,14 +78,6 @@
         "checkedAt": "2026-10-12T17:20:21.512502+00:00"
       },
       {
-        "title": "Recap Kaisa Yeh Ishq 2nd Last Episode 61 - 12th October 2026 - Har Pal Geo",
-        "episode": 61,
-        "id": "AEH5Qio1_Nw",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-12"
-      },
-      {
         "id": "OgVDeLaWZwU",
         "title": "Kaisa Yeh Ishq 2nd Last Episode 61 [Eng Sub] Zoha Tauqeer - Hashaam Khan | 11th October 2026",
         "episode": 61,
@@ -116,18 +108,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-OSZ6BfKy8c/hqdefault.jpg",
         "checkedAt": "2026-10-12T17:20:21.512502+00:00"
-      }
-    ]
-  },
-  "geonews-hasna-mana-hai": {
-    "episodes": [
-      {
-        "title": "“Mariam Nawaz Bhi Nani, Dadi… Main Bhi Nani Dadi!” | Hasna Mana Hai | Tabish Hashmi",
-        "episode": null,
-        "id": "W-j3rCuGxkM",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-12"
       }
     ]
   },
@@ -166,6 +146,78 @@
         "episode": null,
         "id": "t0VwDy4BXwQ",
         "source": "Geo News",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      }
+    ]
+  },
+  "geonews-aaj-shahzeb-khanzada-kay-sath": {
+    "episodes": [
+      {
+        "title": "Emergency Rule in KP? | Questions Over PTI’s Political Strategy | Shahzeb Khanzada Vlog",
+        "episode": null,
+        "id": "1Pmcts8t4lA",
+        "source": "Geo News",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Government’s Emergency Plans | Did PTI Anticipate the Next Step? | Shahzeb Khanzada Vlog",
+        "episode": null,
+        "id": "QwpE_AFstGY",
+        "source": "Geo News",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Governor’s Rule in KP: What Does Pakistan’s Constitution Say? | Shahzeb Khanzada Vlog",
+        "episode": null,
+        "id": "ifICFFk6k3k",
+        "source": "Geo News",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Governor’s Rule & Emergency in KP | Is There a Constitutional Basis? | Shahzeb Khanzada Vlog",
+        "episode": null,
+        "id": "qnMG86H9CXQ",
+        "source": "Geo News",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Imran Khan’s Arrest & Its Political Impact | Shahzeb Khanzada Vlog",
+        "episode": null,
+        "id": "Oyq7VmwtGag",
+        "source": "Geo News",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Imran Khan’s Arrest: What Did It Actually Achieve? | Shahzeb Khanzada Vlog",
+        "episode": null,
+        "id": "-8yw7l2wi58",
+        "source": "Geo News",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Governor’s Rule in KP | Iqrar-ul-Hassan News & Houthi Attack Claims | Shahzeb Khanzada",
+        "episode": null,
+        "id": "6qw9D04t8Yw",
+        "source": "Geo News",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      }
+    ]
+  },
+  "arynews-11th-hour": {
+    "episodes": [
+      {
+        "title": "11th Hour || Waseem Badami || 12th Oct 2026 - ARY News",
+        "episode": null,
+        "id": "ZC4bwyZQNNQ",
+        "source": "ARY News",
         "kind": "youtube",
         "date": "2026-10-12"
       }
