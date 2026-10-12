@@ -20,39 +20,63 @@
     }catch{}
     window.location.reload(); // Removes previously loaded ad frames when withdrawing.
   }
-  function mountFrame(host,markup,height,wide) {
-    if(!host)return;
-    const iframe=document.createElement("iframe");
-    iframe.title="Third-party sponsored advertisement";
-    iframe.className="privacy-ad-frame";
-    iframe.loading="lazy";
-    iframe.referrerPolicy="strict-origin-when-cross-origin";
-    iframe.setAttribute("sandbox","allow-scripts allow-popups");
-    iframe.style.width=wide?"468px":"100%";
-    iframe.style.maxWidth=wide?"none":"100%";
-    iframe.style.height=height+"px";
-    iframe.style.border="0";
-    iframe.srcdoc='<!doctype html><html><head><meta name="viewport" content="width=device-width,initial-scale=1"></head><body style="margin:0;overflow:hidden;background:transparent">'+markup+'</body></html>';
-    host.replaceChildren(iframe);
-  }
+  // Adsterra's standard snippets expect a normal browser document.
+  // Never fetch or execute them before a visitor has opted in.
   function loadDisplayAds(){
-    const top=document.getElementById("paktvBannerSection");
-    const bottom=document.getElementById("paktvNativeSection");
-    if(top)top.hidden=false;
-    if(bottom)bottom.hidden=false;
-    const banner='<script>var atOptions={key:"ac85365b8166d90133c08c7e2e7eccec",format:"iframe",height:60,width:468,params:{}};<\/script>'+
-      '<script src="https://www.highrevenueformat.com/ac85365b8166d90133c08c7e2e7eccec/invoke.js"><\/script>';
-    const native='<script async="async" data-cfasync="false" src="https://pl31793698.profitableratecpmnetwork.com/8d58a68f4a6bcd33f948f07d9c5d0c85/invoke.js"><\/script>'+
-      '<div id="container-8d58a68f4a6bcd33f948f07d9c5d0c85"></div>';
-    mountFrame(document.getElementById("paktvBannerSlot"),banner,66,true);
-    mountFrame(document.getElementById("paktvNativeSlot"),native,260,false);
+    const bannerSection=document.getElementById("paktvBannerSection");
+    const nativeSection=document.getElementById("paktvNativeSection");
+    const bannerSlot=document.getElementById("paktvBannerSlot");
+    const nativeSlot=document.getElementById("paktvNativeSlot");
+    if(bannerSection && bannerSlot){
+      bannerSection.hidden=false;
+      bannerSlot.replaceChildren();
+      const frame=document.createElement("iframe");
+      frame.title="Sponsored banner — external advertising network";
+      frame.className="privacy-ad-frame";
+      frame.setAttribute("scrolling","no");
+      frame.referrerPolicy="strict-origin-when-cross-origin";
+      frame.style.width="468px";
+      frame.style.height="68px";
+      frame.style.border="0";
+      frame.style.display="block";
+      // This is a normal same-site document, not an opaque-origin srcdoc.
+      // The official Adsterra snippet is parser-loaded in ad-banner.html.
+      frame.src="./ad-banner.html";
+      bannerSlot.appendChild(frame);
+    }
+    if(nativeSection && nativeSlot){
+      nativeSection.hidden=false;
+      nativeSlot.replaceChildren();
+      // Native ads target this exact container ID; it must exist before
+      // the asynchronously loaded Adsterra invoke.js executes.
+      const target=document.createElement("div");
+      target.id="container-8d58a68f4a6bcd33f948f07d9c5d0c85";
+      nativeSlot.appendChild(target);
+      const script=document.createElement("script");
+      script.async=true;
+      script.setAttribute("data-cfasync","false");
+      script.src="https://pl31793698.profitableratecpmnetwork.com/8d58a68f4a6bcd33f948f07d9c5d0c85/invoke.js";
+      script.onerror=()=>{
+        // Network blocking or a rejected script is not a consent failure.
+        if(!nativeSlot.querySelector(".ad-load-note")){
+          const note=document.createElement("small");
+          note.className="ad-load-note";
+          note.textContent="This advertiser could not load (it may be blocked by your browser).";
+          nativeSlot.appendChild(note);
+        }
+      };
+      nativeSlot.appendChild(script);
+    }
   }
   function loadExtraAds(){
-    const host=document.createElement("div");
-    host.className="privacy-extra-ad";
-    host.setAttribute("aria-hidden","true");
-    document.body.appendChild(host);
-    mountFrame(host,'<script src="https://pl31793699.profitableratecpmnetwork.com/9e/d2/5b/9ed25bbb75a6ead1d017f33f41e1dc2d.js"><\/script>',1,false);
+    // The original separate ad script (often a click/popunder format) needs
+    // access to normal page events, not a hidden 1px sandboxed iframe.
+    // Only insert it for visitors who explicitly enabled this category.
+    const script=document.createElement("script");
+    script.async=true;
+    script.src="https://pl31793699.profitableratecpmnetwork.com/9e/d2/5b/9ed25bbb75a6ead1d017f33f41e1dc2d.js";
+    script.setAttribute("data-adsterra-extra","true");
+    document.body.appendChild(script);
   }
   function init(){
     const saved=choice();
