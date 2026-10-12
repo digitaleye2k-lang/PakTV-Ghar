@@ -16,6 +16,10 @@ SOURCES={
 'hum':('HUM TV','HUMTV','dramas'),
 'arydigital':('ARY Digital','ARYDigitalasia','dramas'),
 'harpalgeo':('Har Pal Geo','HarPalGeoOfficial','dramas'),
+'greentv':('Green Entertainment','GreenEntertainmentTV','dramas'),
+'ptvhome':('PTV Home','PTVHomeEntertainment','dramas'),
+'expresstv':('Express TV','expressentertainment','dramas'),
+'ptvnews':('PTV News','PTVNewsOfficial','news'),
 'geonews':('Geo News','geonews','news'),
 'arynews':('ARY News','ArynewsTvofficial','news'),
 'samaa':('SAMAA TV','SAMAATV','news'),
@@ -264,7 +268,7 @@ def main():
  # These broadcaster IDs are resolved from their public YouTube pages
  # during RSS collection; they avoid unnecessary Data API channel lookups.
  verified_channels={v['channelId']:v['youtubeChannelId'] for v in latest
-                    if v.get('channelId') in ('hum','arydigital','harpalgeo')
+                    if v.get('channelId') in ('hum','arydigital','harpalgeo','greentv','ptvhome','expresstv')
                     and re.fullmatch(r'UC[\w-]{22}',v.get('youtubeChannelId',''))}
  index,yt_cache,yt_stats=index_api(
      shows,os.environ.get('YOUTUBE_API_KEY','').strip(),
