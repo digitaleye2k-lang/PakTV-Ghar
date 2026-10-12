@@ -5,8 +5,8 @@
 import { createClient } from "npm:@supabase/supabase-js@2";
 const ALLOWED = new Set([
   "https://digitaleye2k-lang.github.io",
-  "https://retroworld.eu.cc",
-  "https://www.retroworld.eu.cc",
+  "https://pakghartv.eu.cc",
+  "https://www.pakghartv.eu.cc",
 ]);
 const URL = Deno.env.get("SUPABASE_URL") || "";
 const SERVICE_KEY = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY") || "";
