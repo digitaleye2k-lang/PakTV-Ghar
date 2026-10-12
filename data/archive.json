@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-12T19:03:27.018501+00:00",
+  "generatedAt": "2026-10-12T19:04:18.449148+00:00",
   "dateTimezone": "UTC",
-  "cursor": 17,
+  "cursor": 29,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -29,7 +29,7 @@
       "uploadsId": "UUgFG7lz7BI5hsNEifevrWSw",
       "handle": "ranahamzasaifrhs",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:03:27.018501+00:00"
+      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
     },
     "dunya": {
       "youtubeId": "UCG7xCQTxgy93j6r49wl48rw",
@@ -42,84 +42,84 @@
       "uploadsId": "UUQexaAjPn3-1MCE4DmBK3Tg",
       "handle": "villagefoodsecrets",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:03:27.018501+00:00"
+      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
     },
     "geohasna": {
       "youtubeId": "UC6HQ4d3xq9EgSeJgMhc-4AQ",
       "uploadsId": "UU6HQ4d3xq9EgSeJgMhc-4AQ",
       "handle": "GeoHasnaManaHai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:03:27.018501+00:00"
+      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
     },
     "streetfoodpk": {
       "youtubeId": "UCt8NJjYKc2aT3T0TnbcWxSw",
       "uploadsId": "UUt8NJjYKc2aT3T0TnbcWxSw",
       "handle": "streetfoodpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:03:27.018501+00:00"
+      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
     },
     "hum": {
       "youtubeId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
       "uploadsId": "UUEeEQxm6qc_qaTE7qTV5aLQ",
       "handle": "HUMTV",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:03:27.018501+00:00"
+      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
     },
     "arydigital": {
       "youtubeId": "UC4JCksJF76g_MdzPVBJoC3Q",
       "uploadsId": "UU4JCksJF76g_MdzPVBJoC3Q",
       "handle": "ARYDigitalasia",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:03:27.018501+00:00"
+      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
     },
     "sabir": {
       "youtubeId": "UCY7eFg5TEMsk_aTqM0pVB4w",
       "uploadsId": "UUY7eFg5TEMsk_aTqM0pVB4w",
       "handle": "sabirshakirpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:03:27.018501+00:00"
+      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
     },
     "harpalgeo": {
       "youtubeId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
       "uploadsId": "UUe9JSDmyqNgA_l2BzGHq1Ug",
       "handle": "HarPalGeoOfficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T19:03:27.018501+00:00"
+      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
     },
     "foodfusion": {
       "youtubeId": "UCuqBZWK9Wrol_4Y22DzisFQ",
       "uploadsId": "UUuqBZWK9Wrol_4Y22DzisFQ",
       "handle": "FoodfusionPk",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T18:37:19.381737+00:00"
+      "lastFetchedAt": "2026-10-12T19:04:18.449148+00:00"
     },
     "samaa": {
       "youtubeId": "UCJekW1Vj5fCVEGdye_mBN6Q",
       "uploadsId": "UUJekW1Vj5fCVEGdye_mBN6Q",
       "handle": "SAMAATV",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T18:37:19.381737+00:00"
+      "lastFetchedAt": "2026-10-12T19:04:18.449148+00:00"
     },
     "hasbehaal": {
       "youtubeId": "UCyiJNpF7RgpPhyeKc4wnQkg",
       "uploadsId": "UUyiJNpF7RgpPhyeKc4wnQkg",
       "handle": "hasbehaalofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T18:42:33.299492+00:00"
+      "lastFetchedAt": "2026-10-12T19:04:18.449148+00:00"
     },
     "pakexperience": {
       "youtubeId": "UC44l9XMwecN5nSgIF2Dvivg",
       "uploadsId": "UU44l9XMwecN5nSgIF2Dvivg",
       "handle": "ThePakistanExperience",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T18:42:33.299492+00:00"
+      "lastFetchedAt": "2026-10-12T19:04:18.449148+00:00"
     },
     "maaz": {
       "youtubeId": "UCz0M2pV4jOUUQ88lOd2q08A",
       "uploadsId": "UUz0M2pV4jOUUQ88lOd2q08A",
       "handle": "MaazSafderWorld",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T18:42:33.299492+00:00"
+      "lastFetchedAt": "2026-10-12T19:04:18.449148+00:00"
     },
     "matiullah": {
       "youtubeId": "UC-hJ0cobUiWlBFTHgLwt8sQ",
@@ -196,49 +196,49 @@
       "uploadsId": "UUF2ltLX1dnPa6-L1paPaMzw",
       "handle": "GreenEntertainmentTV",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-12T19:03:27.018501+00:00"
+      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
     },
     "ptvhome": {
       "youtubeId": "UCMfwlaPLGMn44BKvHv15yzA",
       "uploadsId": "UUMfwlaPLGMn44BKvHv15yzA",
       "handle": "PTVHomeEntertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-12T19:03:27.018501+00:00"
+      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
     },
     "expressent": {
       "youtubeId": "UCU1r97baEf3JJI5fY6NtMpA",
       "uploadsId": "UUU1r97baEf3JJI5fY6NtMpA",
       "handle": "expressentertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-12T18:37:19.381737+00:00"
+      "lastFetchedAt": "2026-10-12T19:04:18.449148+00:00"
     },
     "ptvnews": {
       "youtubeId": "UC5RvV_LtR1dxPCVFGw6dxXA",
       "uploadsId": "UU5RvV_LtR1dxPCVFGw6dxXA",
       "handle": "PTVNewsOfficial",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-12T18:37:19.381737+00:00"
+      "lastFetchedAt": "2026-10-12T19:04:18.449148+00:00"
     },
     "aajnews": {
       "youtubeId": "UCgBAPAcLsh_MAPvJprIz89w",
       "uploadsId": "UUgBAPAcLsh_MAPvJprIz89w",
       "handle": "aajtvofficial",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-12T18:37:19.381737+00:00"
+      "lastFetchedAt": "2026-10-12T19:04:18.449148+00:00"
     },
     "aajent": {
       "youtubeId": "UC2m98kh188cg_9x248IZM9A",
       "uploadsId": "UU2m98kh188cg_9x248IZM9A",
       "handle": "aajentertainment",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-12T18:37:19.381737+00:00"
+      "lastFetchedAt": "2026-10-12T19:04:18.449148+00:00"
     },
     "mooroo": {
       "youtubeId": "UC-rP-oFlxQGpSLYHBlhIWkg",
       "uploadsId": "UU-rP-oFlxQGpSLYHBlhIWkg",
       "handle": "mooroosicity",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-12T18:42:33.299492+00:00"
+      "lastFetchedAt": "2026-10-12T19:04:18.449148+00:00"
     },
     "aryfilms": {
       "youtubeId": "UC2PYniNHljOED9xNaMpiMiQ",
@@ -256,6 +256,96 @@
     }
   },
   "videos": [
+    {
+      "id": "PIV9Gs3ottE",
+      "title": "KP Emergency | Khyber Pakhtunkhwa Crisis | Muneeb Farooq Reveals Details |News Insight with Amir Zia",
+      "channel": "Aaj TV Official",
+      "channelId": "aajnews",
+      "youtubeChannelId": "UCgBAPAcLsh_MAPvJprIz89w",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T19:00:28Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 268,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/PIV9Gs3ottE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "-rTiktkHzpg",
+      "title": "Governor’s Rule in KP | What Happens to PTI Next? | Zaigham Khan's Analysis | Samaa TV",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T19:00:23Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 577,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/-rTiktkHzpg/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "eASuEJOmSxA",
+      "title": "Riyadh Missile Attack | Saudi Arabia Intercepts Ballistic Missile | 11:30 PM News Update | Samaa TV",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:57:05Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 491,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/eASuEJOmSxA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "mpBRz4Mtbrc",
+      "title": "Gull ko Hamare Shadi Karne Par Shadeed Aiteraz hai, Wo Nahi Mani💔| Soulmate | Mein Kahani Hun",
+      "channel": "Express TV",
+      "channelId": "expressent",
+      "youtubeChannelId": "UCU1r97baEf3JJI5fY6NtMpA",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:55:27Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 148,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/mpBRz4Mtbrc/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "fh-RImxXWe4",
+      "title": "Articles 232, 234: What Is Deadline for Approving Governor’s Rule, Emergency? Shah Khawar Explains",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:55:23Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 179,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/fh-RImxXWe4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
     {
       "id": "mgOtAkfUg4M",
       "title": "Phupho ko Saaf Saaf Rishte Se Inkaar Kardein | Humayoun Ashraf - Sumaiyya Bukhsh | Madaar | Green TV",
@@ -311,6 +401,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "A1jEsBPGTBU",
+      "title": "KP Government | New Strategy | Khyber Pakhtunkhwa | Political Developments | News Insight",
+      "channel": "Aaj TV Official",
+      "channelId": "aajnews",
+      "youtubeChannelId": "UCgBAPAcLsh_MAPvJprIz89w",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:45:11Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 177,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/A1jEsBPGTBU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "HlaowCi3_4k",
       "title": "Iss Larki Se Tou Shadi Hargiz Nahi Karo Ga...!!  #dananeermubeen #hurmat #shahveerjaffery",
       "channel": "HUM TV",
@@ -326,6 +434,60 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/HlaowCi3_4k/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "1pspRUaNV_Y",
+      "title": "Will Governor’s Rule End Militancy and Restore Peace in KP? Nadeem Malik’s Key Analysis | Samaa TV",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "talk",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:42:57Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 180,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/1pspRUaNV_Y/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "XbpZTmUR58U",
+      "title": "Petrol Price Reduced | Diesel Price Increased | OGRA Notification | 11PM HEADLINES  | 12 Oct 2026",
+      "channel": "Aaj TV Official",
+      "channelId": "aajnews",
+      "youtubeChannelId": "UCgBAPAcLsh_MAPvJprIz89w",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:42:17Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 741,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/XbpZTmUR58U/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "V6e_2VC9yzA",
+      "title": "Qatal Kyun Kiya? | Missing Darling",
+      "channel": "Express TV",
+      "channelId": "expressent",
+      "youtubeChannelId": "UCU1r97baEf3JJI5fY6NtMpA",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:40:19Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 132,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/V6e_2VC9yzA/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -740,6 +902,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/4J7SMb7IpeM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "i6xfBJnhUdw",
+      "title": "KP Governor Rule | Public Mandate | Constitutional Debate | Pakistan Politics | News Insight",
+      "channel": "Aaj TV Official",
+      "channelId": "aajnews",
+      "youtubeChannelId": "UCgBAPAcLsh_MAPvJprIz89w",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:18:20Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1907,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/i6xfBJnhUdw/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -53627,6 +53807,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Dunya News: HTTP 404: playlistNotFound; Imran Riaz Khan: channel unavailable",
+  "lastError": "Junaid Akram: channel unavailable; Express News: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
