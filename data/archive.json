@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-10-12T19:06:44.145027+00:00",
+  "generatedAt": "2026-10-12T19:08:34.584974+00:00",
   "dateTimezone": "UTC",
-  "cursor": 41,
+  "cursor": 10,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
       "uploadsId": "UU_vt34wimdCzdkrzVejwX9g",
       "handle": "geonews",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T18:43:36.885355+00:00"
+      "lastFetchedAt": "2026-10-12T19:08:34.584974+00:00"
     },
     "ducky": {
       "youtubeId": "UC_c-RTowPbIlzMkIa_O7s6Q",
       "uploadsId": "UU_c-RTowPbIlzMkIa_O7s6Q",
       "handle": "duckybhai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T18:43:36.885355+00:00"
+      "lastFetchedAt": "2026-10-12T19:08:34.584974+00:00"
     },
     "arynews": {
       "youtubeId": "UCMmpLL2ucRHAXbNHiCPyIyg",
       "uploadsId": "UUMmpLL2ucRHAXbNHiCPyIyg",
       "handle": "ArynewsTvofficial",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T18:43:36.885355+00:00"
+      "lastFetchedAt": "2026-10-12T19:08:34.584974+00:00"
     },
     "rhs": {
       "youtubeId": "UCgFG7lz7BI5hsNEifevrWSw",
       "uploadsId": "UUgFG7lz7BI5hsNEifevrWSw",
       "handle": "ranahamzasaifrhs",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
+      "lastFetchedAt": "2026-10-12T19:08:34.584974+00:00"
     },
     "dunya": {
       "youtubeId": "UCG7xCQTxgy93j6r49wl48rw",
@@ -42,21 +42,21 @@
       "uploadsId": "UUQexaAjPn3-1MCE4DmBK3Tg",
       "handle": "villagefoodsecrets",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
+      "lastFetchedAt": "2026-10-12T19:08:34.584974+00:00"
     },
     "geohasna": {
       "youtubeId": "UC6HQ4d3xq9EgSeJgMhc-4AQ",
       "uploadsId": "UU6HQ4d3xq9EgSeJgMhc-4AQ",
       "handle": "GeoHasnaManaHai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
+      "lastFetchedAt": "2026-10-12T19:08:34.584974+00:00"
     },
     "streetfoodpk": {
       "youtubeId": "UCt8NJjYKc2aT3T0TnbcWxSw",
       "uploadsId": "UUt8NJjYKc2aT3T0TnbcWxSw",
       "handle": "streetfoodpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:02:06.417671+00:00"
+      "lastFetchedAt": "2026-10-12T19:08:34.584974+00:00"
     },
     "hum": {
       "youtubeId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -189,7 +189,7 @@
       "uploadsId": "UUc1BSASBDsE_XYOTxD9SNmA",
       "handle": "IjazAnsariFoodSecrets",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-12T18:43:36.885355+00:00"
+      "lastFetchedAt": "2026-10-12T19:08:34.584974+00:00"
     },
     "greentv": {
       "youtubeId": "UCF2ltLX1dnPa6-L1paPaMzw",
@@ -245,17 +245,35 @@
       "uploadsId": "UU2PYniNHljOED9xNaMpiMiQ",
       "handle": "ARYFilms",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-12T18:43:36.885355+00:00"
+      "lastFetchedAt": "2026-10-12T19:08:34.584974+00:00"
     },
     "drmmovies": {
       "youtubeId": "UCDmQsP_LTEWPZ2AXS9eWTrQ",
       "uploadsId": "UUDmQsP_LTEWPZ2AXS9eWTrQ",
       "handle": "pakistani_movies",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-12T18:43:36.885355+00:00"
+      "lastFetchedAt": "2026-10-12T19:08:34.584974+00:00"
     }
   },
   "videos": [
+    {
+      "id": "zy4RoT1oEFw",
+      "title": "How Long Will Governor’s Rule Last? Barrister Aqeel Makes a Major Revelation #shorts",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T19:03:18Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 104,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/zy4RoT1oEFw/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
     {
       "id": "PIV9Gs3ottE",
       "title": "KP Emergency | Khyber Pakhtunkhwa Crisis | Muneeb Farooq Reveals Details |News Insight with Amir Zia",
@@ -473,6 +491,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "8Elss1elPC4",
+      "title": "Who Arrested Iqrar ul Hassan and Why? Waseem Badami Shares His Views",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:49:12Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 464,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/8Elss1elPC4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "nBGlMEoZdmQ",
       "title": "Target IK: Governor's Rule On 'Security' Pretext Ends PTI Rule In KP | Zara Hat Kay | Dawn News",
       "channel": "Dawn News",
@@ -542,6 +578,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/HlaowCi3_4k/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "jFUKS7g0-LM",
+      "title": "UK Strongly Condemns Houthi Attacks on Saudi Arabia - Emergency in KP - 11:30 PM News Updates",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:45:04Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 567,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/jFUKS7g0-LM/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -668,6 +722,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/s09MkPNGOaU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "GjZcqCRHAwc",
+      "title": "Saudi-Houthi Conflict| UK PM Announces| Governor Rule and Emergency in KP | ARY News 11 PM Headlines",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:32:17Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 909,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/GjZcqCRHAwc/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -53897,6 +53969,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Asad Toor: channel unavailable; Siddique Jaan: channel unavailable; HUM TV Comedy: channel unavailable",
+  "lastError": "Mazaaq Raat: channel unavailable; Dunya News: HTTP 404: playlistNotFound",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
