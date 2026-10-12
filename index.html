@@ -55,6 +55,31 @@
 .ad-placement a.sponsored-link{display:inline-block;font-size:13px;font-weight:700;color:#ffbe78;text-decoration:underline;text-underline-offset:3px;line-height:1.6}
 .ad-placement small{font-size:11px;color:#95a5c0;line-height:1.4}
 @media(max-width:680px){.ad-placement{margin:12px 14px 20px;padding:14px 10px}.ad-banner-scroll{justify-content:flex-start}}
+
+/* Distinctive official drama artwork with a readable name even when images fail. */
+.series-poster{height:156px;background-size:cover}
+.series-poster:after{z-index:1;pointer-events:none}
+.series-cover-image{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 25%;z-index:1}
+.series-poster:has(.series-cover-image):before{content:"";position:absolute;inset:42% 0 0;background:linear-gradient(0deg,rgba(5,12,29,.85),transparent);z-index:2;pointer-events:none}
+.series-poster .poster-identity{position:absolute;inset:20px 16px;display:flex;align-items:center;justify-content:center;text-align:center;font-size:clamp(17px,2vw,23px);line-height:1.1;font-weight:900;color:#fff;text-shadow:0 2px 9px #0008;overflow-wrap:anywhere}
+.series-poster .poster-icon{position:absolute;right:10px;top:12px;opacity:.18;font-size:70px}
+.series-poster:has(.series-cover-image) .poster-identity,.series-poster:has(.series-cover-image) .poster-icon{display:none}
+.series-poster .poster-network{z-index:3;bottom:10px;left:12px;background:#081123bc}
+.series-desc .series-latest{display:block;min-height:30px;font-size:12px;color:#9bded1;font-weight:800;line-height:1.35;margin:0 0 9px}
+.series-desc .series-action{display:block}
+.series-fav{top:167px}
+.show-cover{display:grid;grid-template-columns:minmax(120px,200px) 1fr;gap:24px;align-items:center;margin:0 0 22px}
+.show-cover .series-poster{height:205px;border-radius:14px}
+.show-cover .series-poster .poster-identity{font-size:23px}
+.latest-facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:10px;margin:18px 0 22px}
+.latest-fact{background:#172943;border:1px solid #425778;border-radius:14px;padding:13px}
+.latest-fact span{display:block;color:#abbdda;font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.04em}
+.latest-fact strong{display:block;color:#fff;font-size:21px;margin:5px 0;line-height:1.3}
+.latest-fact small{display:block;color:#a9c4d4;font-size:11px;line-height:1.45}
+.latest-fact a{color:#f4be77;text-decoration:underline;text-underline-offset:3px}
+.episode-finder input[type="number"]{background:#11192b;color:#fff;border:1px solid #697389;padding:14px;border-radius:11px;min-width:190px;flex:1;font-size:16px}
+@media(max-width:700px){.series-poster{height:140px}.series-fav{top:150px}.show-cover{grid-template-columns:100px 1fr;gap:12px}.show-cover .series-poster{height:142px}.show-cover .series-poster .poster-identity{font-size:15px}.series-poster .poster-identity{font-size:18px}.latest-facts{grid-template-columns:1fr}}
+
 </style>
 
 
@@ -190,7 +215,7 @@ const el=id=>document.getElementById(id);
 const escapeHTML=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safeGet=(key,fallback)=>{try{const x=JSON.parse(localStorage.getItem(key));return x??fallback}catch{return fallback}};
 const safeSet=(key,x)=>{try{localStorage.setItem(key,JSON.stringify(x))}catch{}};
-const state={page:'home',query:'',language:safeGet('pgh_lang','en'),favoriteVideos:safeGet('pgh_video_favs',[]),savedVideoData:safeGet('pgh_video_data',{}),favoriteChannels:safeGet('pgh_channel_favs',[]),favoriteShows:safeGet('pgh_show_favs',[]),libraryFilter:'featured',networkFilter:'all',visibleShows:30,schedule:null,scheduleLoading:true,episodeList:[],episodeLoading:false,episodeLoadedFor:'',episodePage:0,history:safeGet('pgh_history',[]),currentVideo:null,backend:false,apiMode:'',feed:[],feedTried:false,feedLoading:false,searchResults:[],searchLoading:false,searchMode:'',searchMessage:'',searchRequest:0,ytPlayer:null,ytLoaded:false,searchTimer:null,toastTimer:null};
+const state={page:'home',query:'',language:safeGet('pgh_lang','en'),favoriteVideos:safeGet('pgh_video_favs',[]),savedVideoData:safeGet('pgh_video_data',{}),favoriteChannels:safeGet('pgh_channel_favs',[]),favoriteShows:safeGet('pgh_show_favs',[]),libraryFilter:'featured',networkFilter:'all',visibleShows:30,schedule:null,scheduleLoading:true,showMeta:{},showMetaLoaded:false,episodeList:[],episodeLoading:false,episodeLoadedFor:'',episodePage:0,history:safeGet('pgh_history',[]),currentVideo:null,backend:false,apiMode:'',feed:[],feedTried:false,feedLoading:false,searchResults:[],searchLoading:false,searchMode:'',searchMessage:'',searchRequest:0,ytPlayer:null,ytLoaded:false,searchTimer:null,toastTimer:null};
 const videoURL=id=>`https://www.youtube.com/watch?v=${encodeURIComponent(id)}`;
 const channelURL=c=>`https://www.youtube.com/@${encodeURIComponent(c.handle)}`;
 const thumb=id=>`https://i.ytimg.com/vi/${encodeURIComponent(id)}/hqdefault.jpg`;
@@ -270,7 +295,45 @@ const networkShort={hum:'HUM',arydigital:'ARY',harpalgeo:'GEO',dunya:'DUNYA',geo
 const publisherSearch=(show,number)=>`https://www.youtube.com/results?search_query=${encodeURIComponent(show.name+' Episode '+(number||'')+' '+(networkName[show.network]||show.network)+' official full')}`;
 const broadcasterLink=(show)=>show.officialUrl||(show.network==='hum'?'https://hum.tv/dramas/':show.network==='arydigital'?'https://arydigital.tv/drama/':show.network==='harpalgeo'?'https://harpalgeo.tv/videos':'https://www.youtube.com/');
 const showId=()=>decodeURIComponent(location.hash.slice(6));
-function seriesCard(s){let fav=state.favoriteShows.includes(s.id);let icon=s.type==='satire'?'🎭':s.type==='comedy'?'😄':s.type==='talk'?'🎙️':s.type==='reality'?'✨':'🎬';const status=s.status==='upcoming'?'Coming soon':s.status==='airing'?'Featured':s.status==='recent'?'Recent':s.status==='library'?'Programme':'Archive';return `<article class="series-card"><button class="series-main" type="button" data-series="${escapeHTML(s.id)}"><div class="series-poster poster-${escapeHTML(s.network)}"><span class="poster-icon">${icon}</span><span class="poster-network">${escapeHTML(networkShort[s.network]||s.network.toUpperCase())}</span></div><div class="series-desc"><span class="series-tag">${escapeHTML(status)} · ${escapeHTML(networkName[s.network]||s.network)}</span><h3>${escapeHTML(s.name)}</h3><span class="series-action">Browse episodes →</span></div></button><button class="series-fav ${fav?'saved':''}" type="button" data-series-fav="${escapeHTML(s.id)}" aria-label="${fav?'Remove':'Add'} ${escapeHTML(s.name)} favourite">${fav?'♥':'♡'}</button></article>`}
+
+function showDetails(s){
+  const meta=state.showMeta[s.id]||{};
+  const tv=meta.tvToday && meta.tvToday.date===pakistanDate() ? meta.tvToday : null;
+  const fromSchedule=(state.schedule?.date===pakistanDate()?state.schedule.items||[]:[])
+    .filter(x=>x.showId===s.id && Number.isInteger(x.episode) && x.episode>0)
+    .reduce((best,x)=>!best||x.episode>best.number?{number:x.episode,time:x.time,source:x.sourceUrl}:best,null);
+  return {meta, tv:tv||fromSchedule, upload:meta.latestUpload||null,
+    listed:Number.isInteger(meta.latestPublisherEpisode)?meta.latestPublisherEpisode:null};
+}
+function showArtwork(s){
+  const meta=showDetails(s).meta;
+  const src=typeof meta.poster==='string'&&/^https:\/\//.test(meta.poster)?meta.poster:'';
+  return src?'<img class="series-cover-image" src="'+escapeHTML(src)+'" alt="'+escapeHTML(s.name)+' official programme artwork" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">':'';
+}
+function showLatestLabel(s){
+  const info=showDetails(s);
+  if(info.upload?.number)return 'Latest indexed YouTube: Ep '+info.upload.number;
+  if(info.tv?.number)return 'On TV today: Ep '+info.tv.number;
+  if(info.listed)return 'Broadcaster lists: Ep '+info.listed;
+  return 'Latest episode not confirmed';
+}
+function seriesCard(s){
+  const fav=state.favoriteShows.includes(s.id);
+  const icon=s.type==='satire'?'🎭':s.type==='comedy'?'😄':s.type==='talk'?'🎙️':s.type==='reality'?'✨':'🎬';
+  const status=s.status==='upcoming'?'Coming soon':s.status==='airing'?'Featured':s.status==='recent'?'Recent':s.status==='library'?'Programme':'Archive';
+  return '<article class="series-card">'+
+    '<button class="series-main" type="button" data-series="'+escapeHTML(s.id)+'">'+
+    '<div class="series-poster poster-'+escapeHTML(s.network)+'">'+
+    '<span class="poster-identity" aria-hidden="true">'+escapeHTML(s.name)+'</span>'+
+    '<span class="poster-icon" aria-hidden="true">'+icon+'</span>'+showArtwork(s)+
+    '<span class="poster-network">'+escapeHTML(networkShort[s.network]||s.network.toUpperCase())+'</span></div>'+
+    '<div class="series-desc"><span class="series-tag">'+escapeHTML(status)+' · '+escapeHTML(networkName[s.network]||s.network)+'</span>'+
+    '<h3>'+escapeHTML(s.name)+'</h3>'+
+    '<span class="series-latest">'+escapeHTML(showLatestLabel(s))+'</span>'+
+    '<span class="series-action">Browse episodes →</span></div></button>'+
+    '<button class="series-fav '+(fav?'saved':'')+'" type="button" data-series-fav="'+escapeHTML(s.id)+'" aria-label="'+(fav?'Remove':'Add')+' '+escapeHTML(s.name)+' favourite">'+(fav?'♥':'♡')+'</button></article>';
+}
+
 function renderLibrary(type){const isDrama=type==='dramas';if(isDrama&&!['all','hum','arydigital','harpalgeo'].includes(state.networkFilter))state.networkFilter='all';let base=LIBRARY.filter(s=>isDrama?s.type==='drama':s.type==='comedy'||s.type==='satire'||s.type==='reality');if(state.networkFilter!=='all')base=base.filter(s=>s.network===state.networkFilter);if(state.libraryFilter==='featured')base=base.filter(s=>isDrama?['airing','upcoming','recent'].includes(s.status):s.status!=='archive');if(state.libraryFilter==='classic')base=base.filter(s=>s.status==='archive'||s.status==='library');const count=base.length;return `<div class="page-title"><span class="eyebrow">DISCOVER & WATCH</span><h1>${isDrama?'Pakistani drama library':'Comedy & political satire'}</h1><p>${isDrama?'Browse new and older serials across HUM TV, ARY Digital and Geo.':'Mazaaq Raat / Muzakraat, Hasna Mana Hai, Hasb-e-Haal, Khabarnaak, Bulbulay and more.'} Select a programme to browse actual indexed episodes or search the official source.</p></div><div class="library-tools"><div class="chips" role="group" aria-label="Programme era">${[['featured','Featured & recent'],['classic','Older favourites'],['all','Everything']].map(([id,label])=>`<button type="button" class="chip ${state.libraryFilter===id?'active':''}" data-era="${id}">${label}</button>`).join('')}</div><div class="chips" role="group" aria-label="Broadcaster">${[['all','All channels'],['hum','HUM'],['arydigital','ARY Digital'],['harpalgeo','Geo'],['dunya','Dunya']].filter(([id])=>id==='all'||!isDrama||['hum','arydigital','harpalgeo'].includes(id)).map(([id,label])=>`<button type="button" class="chip ${state.networkFilter===id?'active':''}" data-net="${id}">${label}</button>`).join('')}</div></div>${sectionHead(`${count} programmes`,'Tap Browse episodes to open the episode selector.')}<div class="series-grid">${base.slice(0,state.visibleShows).map(seriesCard).join('')}</div>${count>state.visibleShows?`<div class="load-more"><button class="btn-secondary" type="button" data-more>Show more programmes (${count-state.visibleShows} remaining) ↓</button></div>`:''}${renderInfo()}`}
 function nowInPakistan(){return new Intl.DateTimeFormat('en-GB',{timeZone:'Asia/Karachi',weekday:'long',day:'numeric',month:'long',year:'numeric',hour:'2-digit',minute:'2-digit',hour12:false}).format(new Date())}
 function pakistanMinutes(){let p=new Intl.DateTimeFormat('en-GB',{timeZone:'Asia/Karachi',hour:'2-digit',minute:'2-digit',hour12:false}).format(new Date());return p}
