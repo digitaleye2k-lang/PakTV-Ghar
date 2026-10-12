@@ -10,7 +10,7 @@ from youtube_index import (
     CHANNEL_ID, MAX_SEARCH_PER_RUN
 )
 
-CID = 'UC' + ('A' * 22)
+CID = 'UCEeEQxm6qc_qaTE7qTV5aLQ'  # Known public HUM TV channel ID
 VID = 'aBcDE123_45'
 NOW = datetime(2026, 10, 12, 16, 0, tzinfo=timezone.utc)
 SHOW = {'id': 'hum-khushi', 'name': 'Khushi', 'network': 'hum',
@@ -78,7 +78,7 @@ class IndexTests(unittest.TestCase):
                                               now=NOW + timedelta(hours=2))
         self.assertEqual(stats2['searches'], 2)
         self.assertTrue(entries2[SHOW['id']])
-        self.assertEqual(len([c for c in calls if c[0] == 'channels']), 3)  # Each broadcaster resolved only once
+        self.assertEqual(len([c for c in calls if c[0] == 'channels']), 0)  # Known public broadcaster IDs
 
     def test_rss_verified_channels_skip_api_handle_lookup(self):
         calls = []
