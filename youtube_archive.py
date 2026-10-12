@@ -23,7 +23,7 @@ MOVIE_ARCHIVE_RETENTION_DAYS = 3650
 # arbitrary third-party copies. A label alone does not prove worldwide rights.
 MOVIE_TITLE = re.compile(r'\b(?:full\s+(?:pakistani\s+)?(?:movie|film)|(?:movie|film)\s+full|complete\s+(?:movie|film)|tele[ -]?film)\b', re.I)
 NOT_MOVIE = re.compile(r'\b(?:trailer|teaser|promo|review|reaction|ost|soundtrack|song|behind\s+the\s+scenes|highlights|shorts|episode\s*\d+)\b', re.I)
-MOVIE_SEED_IDS = {'aryfilms': ('htZXQ5wIxAg',)}  # Sharpasand, publisher-owned ARY Films upload.
+MOVIE_SEED_IDS = {'aryfilms': ('htZXQ5wIxAg', 'qHaUmAGJl0s', 'rQlXffmfNVA', 'XOTBrzyhZyo')}  # Full-length ARY Films editions.
 
 PROGRAMMES = (
     'capital talk', 'off the record', 'aaj shahzeb khanzada', 'kal tak',
