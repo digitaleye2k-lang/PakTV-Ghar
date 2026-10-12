@@ -1,0 +1,45 @@
+/* Movie night collection: PakTV Ghar film catalogue */
+.movie-page{max-width:1500px;margin:0 auto;padding-bottom:40px}
+.movie-feature{position:relative;isolation:isolate;min-height:370px;display:flex;align-items:center;overflow:hidden;border-radius:19px;border:1px solid #ffffff24;box-shadow:0 30px 85px #0009;background:#16151c}
+.movie-feature-backdrop{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:70% 20%;filter:saturate(1.18) blur(2px) brightness(.8);transform:scale(1.05);z-index:-2}
+.movie-feature-scrim{position:absolute;inset:0;background:linear-gradient(90deg,#09090fee 4%,#0a0b11df 40%,#0a0b1166 80%),linear-gradient(0deg,#08080de6,transparent 60%);z-index:-1}
+.movie-feature-content{padding:46px clamp(23px,5vw,74px);max-width:730px}
+.movie-feature-kicker{color:#ff9eaa;letter-spacing:.16em;font-weight:900;font-size:12px}
+.movie-feature h1{font-size:clamp(37px,5.8vw,74px);letter-spacing:-.056em;line-height:1.04;color:#fff;text-wrap:balance;margin:16px 0}
+.movie-feature h1 em{font-style:normal;color:#ff7888}
+.movie-feature p{color:#e0dfe5;font-size:clamp(13px,1.4vw,17px);line-height:1.65;max-width:530px}
+.movie-feature-tags,.movie-feature-actions{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-top:21px}
+.movie-feature-tags span{font-size:11px;font-weight:850;letter-spacing:.02em;color:#eee;background:#ffffff22;border:1px solid #ffffff38;padding:6px 9px;border-radius:5px}
+.movie-feature-actions{gap:12px;margin-top:25px}
+.movie-feature-actions .btn-primary,.movie-feature-actions .btn-secondary{min-height:45px;padding:12px 17px;border-radius:8px;text-decoration:none;font-weight:800;display:inline-flex;align-items:center}
+.movie-info-strip{margin:15px 0 28px;display:flex;flex-wrap:wrap;gap:10px}
+.movie-info-strip span{background:#191820;border:1px solid #ffffff23;color:#dddce5;padding:9px 13px;font-size:12px;border-radius:9px}
+.movie-search-label{margin:12px 0 12px;display:flex;flex-wrap:wrap;gap:12px;align-items:center;color:#ededf4;font-size:13px;font-weight:800}
+.movie-search-label input{width:min(460px,100%);min-height:44px;color:#f9f8ff;font-size:15px;border-radius:10px;border:1px solid #ffffff35;background:#181922;outline-offset:3px;padding:10px 13px}
+.movie-search-label input:focus-visible{outline:2px solid #ff8490}
+.movie-count{color:#bfc0ca;font-size:12px;line-height:1.6;padding:3px 0 12px}
+.movie-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(218px,1fr));gap:15px;align-items:start}
+.movie-grid .video-card{min-width:0}
+.movie-channels{margin:14px 0 34px;grid-template-columns:repeat(auto-fill,minmax(245px,1fr))}
+.movie-copyright-note{margin:24px 0 0;color:#aaa9b8;font-size:12px;line-height:1.7;border-top:1px solid #ffffff22;padding-top:18px}
+@media(max-width:650px){
+ .movie-feature{min-height:390px;border-radius:12px;align-items:flex-end}
+ .movie-feature-backdrop{object-position:center 25%}
+ .movie-feature-scrim{background:linear-gradient(0deg,#08090ef7,#080910dd 58%,#0809104d)}
+ .movie-feature-content{padding:25px 19px}
+ .movie-feature h1{font-size:clamp(33px,9vw,47px)}
+ .movie-feature p{font-size:12px}
+ .movie-feature-tags{gap:6px}
+ .movie-feature-tags span{font-size:10px;padding:5px 7px}
+ .movie-feature-actions .btn-primary,.movie-feature-actions .btn-secondary{min-height:42px;font-size:12px;padding:10px 12px}
+ .movie-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+ .movie-info-strip span{font-size:10px}
+ .movie-channels{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:400px){
+ .movie-grid{grid-template-columns:1fr 1fr}
+ .movie-feature{min-height:420px}
+ .movie-feature-actions{flex-direction:column;align-items:stretch}
+ .movie-feature-actions button,.movie-feature-actions a{width:100%;justify-content:center}
+}
+@media(prefers-reduced-motion:reduce){.movie-feature-backdrop{transform:none}}
