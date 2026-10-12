@@ -1,40 +1,4 @@
 {
-  "hum-hurmat": {
-    "episodes": [
-      {
-        "id": "uY8hogzkLB8",
-        "title": "Hurmat - Episode 03 - [Eng Sub] 12th Oct 2026 - [ Dananeer Mobeen & Shahveer Jafry ] - HUM TV",
-        "episode": 3,
-        "date": "2026-10-12",
-        "published": "2026-10-12T16:00:28Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": false,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/uY8hogzkLB8/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      },
-      {
-        "id": "bNfLroyIbUY",
-        "title": "Hurmat - Episode 02 - Flashback | ft. Dananeer Mobeen & Shahveer Jafry - HUM TV",
-        "episode": 2,
-        "date": "2026-10-12",
-        "published": "2026-10-12T14:45:13Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/bNfLroyIbUY/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      }
-    ]
-  },
   "hum-bombay-tailors": {
     "episodes": [
       {
@@ -92,26 +56,6 @@
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-10-12"
-      }
-    ]
-  },
-  "harpalgeo-mohabbat": {
-    "episodes": [
-      {
-        "id": "Kc6JezV_1oY",
-        "title": "Mohabbat Episode 05 [Eng Sub] Feroze Khan - Nawal Saeed | 12th October 2026 - HAR PAL GEO",
-        "episode": 5,
-        "date": "2026-10-12",
-        "published": "2026-10-12T16:00:28Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": false,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Kc6JezV_1oY/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
       }
     ]
   },
@@ -247,6 +191,26 @@
       }
     ]
   },
+  "harpalgeo-mohabbat": {
+    "episodes": [
+      {
+        "id": "Kc6JezV_1oY",
+        "title": "Mohabbat Episode 05 [Eng Sub] Feroze Khan - Nawal Saeed | 12th October 2026 - HAR PAL GEO",
+        "episode": 5,
+        "date": "2026-10-12",
+        "published": "2026-10-12T16:00:28Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Kc6JezV_1oY/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
+      }
+    ]
+  },
   "harpalgeo-nashtar": {
     "episodes": [
       {
@@ -352,6 +316,42 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/K1SHRLAXBuE/hqdefault.jpg",
         "checkedAt": "2026-10-12T17:29:47.310917+00:00"
+      }
+    ]
+  },
+  "hum-hurmat": {
+    "episodes": [
+      {
+        "id": "uY8hogzkLB8",
+        "title": "Hurmat - Episode 03 - [Eng Sub] 12th Oct 2026 - [ Dananeer Mobeen & Shahveer Jafry ] - HUM TV",
+        "episode": 3,
+        "date": "2026-10-12",
+        "published": "2026-10-12T16:00:28Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/uY8hogzkLB8/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
+      },
+      {
+        "id": "bNfLroyIbUY",
+        "title": "Hurmat - Episode 02 - Flashback | ft. Dananeer Mobeen & Shahveer Jafry - HUM TV",
+        "episode": 2,
+        "date": "2026-10-12",
+        "published": "2026-10-12T14:45:13Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/bNfLroyIbUY/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
       }
     ]
   },

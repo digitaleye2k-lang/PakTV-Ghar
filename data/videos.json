@@ -37,6 +37,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "j2gsFpZJxtk",
+      "title": "Har Kisi Ko Ghalti Sudharne Ka Mauqa Nahin Milta! 😔💔 || Kaisa Yeh Ishq || Har Pal Geo",
+      "channel": "Har Pal Geo",
+      "channelId": "harpalgeo",
+      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T19:15:14Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 227,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/j2gsFpZJxtk/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "50Fzh6FbIdE",
       "title": "PTI’s 13-Year Rule in Khyber Pakhtunkhwa Ends? Waseem Badami’s Report",
       "channel": "ARY News",
@@ -915,9 +933,16 @@
       "channelId": "sabir",
       "youtubeChannelId": "UCY7eFg5TEMsk_aTqM0pVB4w",
       "category": "vloggers",
+      "genre": "News & commentary",
       "date": "2026-10-12",
-      "published": "2026-10-12T18:21:42+00:00",
-      "description": "Official upload from Sabir Shakir"
+      "published": "2026-10-12T18:21:42Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1315,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/JthmPoNxFJc/hqdefault_live.jpg",
+      "sourceType": "youtube_uploads_playlist"
     },
     {
       "id": "sOlJUgwd4YA",
@@ -6362,24 +6387,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/K_hr_dolYPs/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "OuQ1dfJhEkA",
-      "title": "Ahmaq Dost Ne Mangetar Ko Naraz Kar Diya 😂💔 || Uswah || Har Pal Geo",
-      "channel": "Har Pal Geo",
-      "channelId": "harpalgeo",
-      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-12",
-      "published": "2026-10-12T13:45:33Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 439,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/OuQ1dfJhEkA/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     }
   ],

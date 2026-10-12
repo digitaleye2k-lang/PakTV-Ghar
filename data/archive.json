@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-12T19:20:35.638770+00:00",
+  "generatedAt": "2026-10-12T19:21:23.302279+00:00",
   "dateTimezone": "UTC",
-  "cursor": 8,
+  "cursor": 20,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -49,42 +49,42 @@
       "uploadsId": "UU6HQ4d3xq9EgSeJgMhc-4AQ",
       "handle": "GeoHasnaManaHai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:14:24.378071+00:00"
+      "lastFetchedAt": "2026-10-12T19:21:23.302279+00:00"
     },
     "streetfoodpk": {
       "youtubeId": "UCt8NJjYKc2aT3T0TnbcWxSw",
       "uploadsId": "UUt8NJjYKc2aT3T0TnbcWxSw",
       "handle": "streetfoodpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:14:24.378071+00:00"
+      "lastFetchedAt": "2026-10-12T19:21:23.302279+00:00"
     },
     "hum": {
       "youtubeId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
       "uploadsId": "UUEeEQxm6qc_qaTE7qTV5aLQ",
       "handle": "HUMTV",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:14:24.378071+00:00"
+      "lastFetchedAt": "2026-10-12T19:21:23.302279+00:00"
     },
     "arydigital": {
       "youtubeId": "UC4JCksJF76g_MdzPVBJoC3Q",
       "uploadsId": "UU4JCksJF76g_MdzPVBJoC3Q",
       "handle": "ARYDigitalasia",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:14:24.378071+00:00"
+      "lastFetchedAt": "2026-10-12T19:21:23.302279+00:00"
     },
     "sabir": {
       "youtubeId": "UCY7eFg5TEMsk_aTqM0pVB4w",
       "uploadsId": "UUY7eFg5TEMsk_aTqM0pVB4w",
       "handle": "sabirshakirpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:14:24.378071+00:00"
+      "lastFetchedAt": "2026-10-12T19:21:23.302279+00:00"
     },
     "harpalgeo": {
       "youtubeId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
       "uploadsId": "UUe9JSDmyqNgA_l2BzGHq1Ug",
       "handle": "HarPalGeoOfficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T19:14:24.378071+00:00"
+      "lastFetchedAt": "2026-10-12T19:21:23.302279+00:00"
     },
     "foodfusion": {
       "youtubeId": "UCuqBZWK9Wrol_4Y22DzisFQ",
@@ -196,35 +196,35 @@
       "uploadsId": "UUF2ltLX1dnPa6-L1paPaMzw",
       "handle": "GreenEntertainmentTV",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-12T19:16:08.031327+00:00"
+      "lastFetchedAt": "2026-10-12T19:21:23.302279+00:00"
     },
     "ptvhome": {
       "youtubeId": "UCMfwlaPLGMn44BKvHv15yzA",
       "uploadsId": "UUMfwlaPLGMn44BKvHv15yzA",
       "handle": "PTVHomeEntertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-12T19:16:08.031327+00:00"
+      "lastFetchedAt": "2026-10-12T19:21:23.302279+00:00"
     },
     "expressent": {
       "youtubeId": "UCU1r97baEf3JJI5fY6NtMpA",
       "uploadsId": "UUU1r97baEf3JJI5fY6NtMpA",
       "handle": "expressentertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-12T19:16:08.031327+00:00"
+      "lastFetchedAt": "2026-10-12T19:21:23.302279+00:00"
     },
     "ptvnews": {
       "youtubeId": "UC5RvV_LtR1dxPCVFGw6dxXA",
       "uploadsId": "UU5RvV_LtR1dxPCVFGw6dxXA",
       "handle": "PTVNewsOfficial",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-12T19:16:08.031327+00:00"
+      "lastFetchedAt": "2026-10-12T19:21:23.302279+00:00"
     },
     "aajnews": {
       "youtubeId": "UCgBAPAcLsh_MAPvJprIz89w",
       "uploadsId": "UUgBAPAcLsh_MAPvJprIz89w",
       "handle": "aajtvofficial",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-12T19:16:08.031327+00:00"
+      "lastFetchedAt": "2026-10-12T19:21:23.302279+00:00"
     },
     "aajent": {
       "youtubeId": "UC2m98kh188cg_9x248IZM9A",
@@ -290,6 +290,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/RLTWyq8vkp8/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "j2gsFpZJxtk",
+      "title": "Har Kisi Ko Ghalti Sudharne Ka Mauqa Nahin Milta! 😔💔 || Kaisa Yeh Ishq || Har Pal Geo",
+      "channel": "Har Pal Geo",
+      "channelId": "harpalgeo",
+      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T19:15:14Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 227,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/j2gsFpZJxtk/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -1118,6 +1136,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/sPzmur8hnXg/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "JthmPoNxFJc",
+      "title": "BREAKING NEWS! Nationwide Protests & Arrests | Imran Khan–World Leader Meeting? | PTI Latest News",
+      "channel": "Sabir Shakir",
+      "channelId": "sabir",
+      "youtubeChannelId": "UCY7eFg5TEMsk_aTqM0pVB4w",
+      "category": "vloggers",
+      "genre": "News & commentary",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:21:42Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1315,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/JthmPoNxFJc/hqdefault_live.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -54059,6 +54095,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable; Dunya News: HTTP 404: playlistNotFound",
+  "lastError": "Imran Riaz Khan: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
