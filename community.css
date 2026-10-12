@@ -43,6 +43,19 @@ main{margin:0 auto;max-width:1280px;padding:24px clamp(15px,4vw,54px) 75px}
 .country-bar{height:10px;background:#2a2a37;border-radius:20px;overflow:hidden}
 .country-bar div{height:100%;border-radius:20px;background:linear-gradient(90deg,#e63e63,#ff94a7)}
 .country-row strong{text-align:right}
+.visit-opt-in{
+ margin:18px 0 0;display:flex;flex-wrap:wrap;align-items:center;gap:15px;
+ padding:16px 18px;background:#1f2430;border:1px solid #ffffff26;border-radius:11px
+}
+.visit-opt-in>div{flex:1;min-width:210px}
+.visit-opt-in strong{font-size:14px;color:#f8ecf3}
+.visit-opt-in p{font-size:12px;color:#c3c3cf;line-height:1.6;margin:5px 0 0}
+.visit-opt-in button{flex:none}
+.staff-login{margin-top:22px;padding:14px 16px;border:1px solid #ffffff28;border-radius:11px;background:#171a24}
+.staff-login summary{font-size:13px;color:#c3c3d4;font-weight:800;cursor:pointer}
+.staff-login form{display:grid;gap:12px;max-width:480px}
+.staff-login label{display:grid;gap:7px;color:#dddde7;font-size:13px}
+.staff-login button{justify-self:start}
 .privacy-note{font-size:11px;color:#aaaabd;line-height:1.7;margin:18px 0 0}
 .privacy-note a{color:#ffb4be;text-decoration:underline}
 .chat-rules{padding:14px 17px;border:1px solid #cca07255;background:#49342055;border-radius:11px;line-height:1.6;color:#e9caa4;font-size:12px;margin:17px 0}
