@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T22:34:10.884639+05:00",
+  "generatedAt": "2026-10-12T22:35:03.056190+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "tvToday": {
@@ -299,7 +299,19 @@
       }
     },
     "harpalgeo-beti-ka-ghar-konsa": {
-      "lastAttempt": "2026-10-12T20:10:58.688102+05:00"
+      "lastAttempt": "2026-10-12T20:10:58.688102+05:00",
+      "latestUpload": {
+        "number": 65,
+        "id": "_kbFqp2nfmM",
+        "title": "Beti Ka Ghar Konsa Last Episode 65 [Eng Sub] Humayoun Ashraf - Momal Sheikh | 22nd September 2026",
+        "date": "2026-09-22",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/_kbFqp2nfmM/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "hum-deewar": {
       "lastAttempt": "2026-10-12T20:10:58.703672+05:00"
@@ -355,7 +367,17 @@
       "posterSource": "Official broadcaster",
       "latestPublisherEpisode": 41,
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
-      "latestPublisherSource": "https://arydigital.tv/drama/mirza-ki-heer/"
+      "latestPublisherSource": "https://arydigital.tv/drama/mirza-ki-heer/",
+      "latestUpload": {
+        "number": 41,
+        "id": "JVflRbjyA3U",
+        "title": "Mirza Ki Heer Last EP 41 | 10 Sep 2026 | Hina Afridi | Ali Raza | ENG SUB | ARY Digital",
+        "date": "2026-09-10",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "hum-muamma": {
       "lastAttempt": "2026-10-12T20:10:59.010224+05:00"
@@ -399,7 +421,17 @@
       "posterSource": "Official broadcaster",
       "latestPublisherEpisode": 80,
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
-      "latestPublisherSource": "https://arydigital.tv/drama/toota-huwa-dil/"
+      "latestPublisherSource": "https://arydigital.tv/drama/toota-huwa-dil/",
+      "latestUpload": {
+        "number": 83,
+        "id": "EeBtW9QO-ek",
+        "title": "Toota Huwa Dil Last Episode 83 | 19 Sep 2026 | ENG SUB | Nazish Jahangir | Agha Ali | ARY Digital",
+        "date": "2026-09-19",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": false,
+        "embeddable": true
+      }
     },
     "arydigital-bulbulay": {
       "lastAttempt": "2026-10-12T20:10:59.238471+05:00",

@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-12",
-  "dailySearches": 48,
+  "dailySearches": 56,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -327,7 +327,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xExSgmC8ia4/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:33:20.818087+00:00"
+        "checkedAt": "2026-10-12T17:32:18.575540+00:00"
       },
       {
         "id": "IER1YNf9NIM",
@@ -343,7 +343,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/IER1YNf9NIM/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:33:20.818087+00:00"
+        "checkedAt": "2026-10-12T17:32:18.575540+00:00"
       },
       {
         "id": "UB9QULJuQaQ",
@@ -359,7 +359,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UB9QULJuQaQ/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:33:20.818087+00:00"
+        "checkedAt": "2026-10-12T17:32:18.575540+00:00"
       },
       {
         "id": "GscKavABvSU",
@@ -375,7 +375,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GscKavABvSU/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:33:20.818087+00:00"
+        "checkedAt": "2026-10-12T17:32:18.575540+00:00"
       }
     ],
     "arydigital-kafeel": [
@@ -393,10 +393,128 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iSsowAULHBM/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:33:20.818087+00:00"
+        "checkedAt": "2026-10-12T17:32:18.575540+00:00"
+      }
+    ],
+    "arydigital-mirza-ki-heer": [
+      {
+        "id": "JVflRbjyA3U",
+        "title": "Mirza Ki Heer Last EP 41 | 10 Sep 2026 | Hina Afridi | Ali Raza | ENG SUB | ARY Digital",
+        "episode": 41,
+        "date": "2026-09-10",
+        "published": "2026-09-10T16:09:44Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/JVflRbjyA3U/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:34:35.105191+00:00"
+      }
+    ],
+    "arydigital-toota-huwa-dil": [
+      {
+        "id": "EeBtW9QO-ek",
+        "title": "Toota Huwa Dil Last Episode 83 | 19 Sep 2026 | ENG SUB | Nazish Jahangir | Agha Ali | ARY Digital",
+        "episode": 83,
+        "date": "2026-09-19",
+        "published": "2026-09-19T15:00:22Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/EeBtW9QO-ek/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:34:35.105191+00:00"
+      }
+    ],
+    "harpalgeo-beti-ka-ghar-konsa": [
+      {
+        "id": "_kbFqp2nfmM",
+        "title": "Beti Ka Ghar Konsa Last Episode 65 [Eng Sub] Humayoun Ashraf - Momal Sheikh | 22nd September 2026",
+        "episode": 65,
+        "date": "2026-09-22",
+        "published": "2026-09-22T15:00:39Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/_kbFqp2nfmM/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:34:35.105191+00:00"
+      },
+      {
+        "id": "yxYz6Y2Kyyo",
+        "title": "Beti Ka Ghar Konsa 2nd Last Episode 64 [Eng Sub] Humayoun Ashraf - Momal Sheikh | 21st Sep 2026",
+        "episode": 64,
+        "date": "2026-09-21",
+        "published": "2026-09-21T15:00:17Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/yxYz6Y2Kyyo/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:34:35.105191+00:00"
+      },
+      {
+        "id": "571Eg7LybQ8",
+        "title": "Beti Ka Ghar Konsa Episode 63 [Eng Sub] Humayoun Ashraf - Momal Sheikh - Ali Abbas | 20th Sep 2026",
+        "episode": 63,
+        "date": "2026-09-20",
+        "published": "2026-09-20T15:00:35Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/571Eg7LybQ8/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:34:35.105191+00:00"
+      },
+      {
+        "id": "Zg4O8Tk2TEM",
+        "title": "Beti Ka Ghar Konsa Episode 62 [Eng Sub] Humayoun Ashraf - Momal Sheikh - Ali Abbas | 19th Sep 2026",
+        "episode": 62,
+        "date": "2026-09-19",
+        "published": "2026-09-19T15:06:00Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Zg4O8Tk2TEM/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:34:35.105191+00:00"
+      },
+      {
+        "id": "ioKGt-rJ2XY",
+        "title": "Beti Ka Ghar Konsa Episode 61 [Eng Sub] Humayoun Ashraf - Momal Sheikh - Ali Abbas | 18th Sep 2026",
+        "episode": 61,
+        "date": "2026-09-18",
+        "published": "2026-09-18T15:00:25Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ioKGt-rJ2XY/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:34:35.105191+00:00"
       }
     ]
   },
-  "cursor": 24,
+  "cursor": 28,
   "apiValidated": true
 }
