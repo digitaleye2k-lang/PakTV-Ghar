@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-10-12T18:04:56.855646+00:00",
+  "generatedAt": "2026-10-12T18:07:04.937589+00:00",
   "dateTimezone": "UTC",
-  "cursor": 0,
+  "cursor": 12,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
       "uploadsId": "UU_vt34wimdCzdkrzVejwX9g",
       "handle": "geonews",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T17:45:32.974216+00:00"
+      "lastFetchedAt": "2026-10-12T18:07:04.937589+00:00"
     },
     "ducky": {
       "youtubeId": "UC_c-RTowPbIlzMkIa_O7s6Q",
       "uploadsId": "UU_c-RTowPbIlzMkIa_O7s6Q",
       "handle": "duckybhai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T17:45:32.974216+00:00"
+      "lastFetchedAt": "2026-10-12T18:07:04.937589+00:00"
     },
     "arynews": {
       "youtubeId": "UCMmpLL2ucRHAXbNHiCPyIyg",
       "uploadsId": "UUMmpLL2ucRHAXbNHiCPyIyg",
       "handle": "ArynewsTvofficial",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T17:45:32.974216+00:00"
+      "lastFetchedAt": "2026-10-12T18:07:04.937589+00:00"
     },
     "rhs": {
       "youtubeId": "UCgFG7lz7BI5hsNEifevrWSw",
       "uploadsId": "UUgFG7lz7BI5hsNEifevrWSw",
       "handle": "ranahamzasaifrhs",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T17:45:32.974216+00:00"
+      "lastFetchedAt": "2026-10-12T18:07:04.937589+00:00"
     },
     "dunya": {
       "youtubeId": "UCG7xCQTxgy93j6r49wl48rw",
@@ -42,42 +42,42 @@
       "uploadsId": "UUQexaAjPn3-1MCE4DmBK3Tg",
       "handle": "villagefoodsecrets",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T17:59:30.761231+00:00"
+      "lastFetchedAt": "2026-10-12T18:07:04.937589+00:00"
     },
     "geohasna": {
       "youtubeId": "UC6HQ4d3xq9EgSeJgMhc-4AQ",
       "uploadsId": "UU6HQ4d3xq9EgSeJgMhc-4AQ",
       "handle": "GeoHasnaManaHai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T17:59:30.761231+00:00"
+      "lastFetchedAt": "2026-10-12T18:07:04.937589+00:00"
     },
     "streetfoodpk": {
       "youtubeId": "UCt8NJjYKc2aT3T0TnbcWxSw",
       "uploadsId": "UUt8NJjYKc2aT3T0TnbcWxSw",
       "handle": "streetfoodpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T17:59:30.761231+00:00"
+      "lastFetchedAt": "2026-10-12T18:07:04.937589+00:00"
     },
     "hum": {
       "youtubeId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
       "uploadsId": "UUEeEQxm6qc_qaTE7qTV5aLQ",
       "handle": "HUMTV",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T17:59:30.761231+00:00"
+      "lastFetchedAt": "2026-10-12T18:07:04.937589+00:00"
     },
     "arydigital": {
       "youtubeId": "UC4JCksJF76g_MdzPVBJoC3Q",
       "uploadsId": "UU4JCksJF76g_MdzPVBJoC3Q",
       "handle": "ARYDigitalasia",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T17:59:30.761231+00:00"
+      "lastFetchedAt": "2026-10-12T18:07:04.937589+00:00"
     },
     "sabir": {
       "youtubeId": "UCY7eFg5TEMsk_aTqM0pVB4w",
       "uploadsId": "UUY7eFg5TEMsk_aTqM0pVB4w",
       "handle": "sabirshakirpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T17:59:30.761231+00:00"
+      "lastFetchedAt": "2026-10-12T18:07:04.937589+00:00"
     },
     "harpalgeo": {
       "youtubeId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
@@ -243,6 +243,96 @@
   },
   "videos": [
     {
+      "id": "CNH3Q4bVDPQ",
+      "title": "Tum Ne Mujhe Dhoka Diya Hai Khushi..! ft. Sumaiyya Bukhsh &  Mariam Ejaz - HUM TV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:05:27Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 275,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/CNH3Q4bVDPQ/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "X78bWqyy5Nc",
+      "title": "University Ja Kar Teray Par Kuch Zayda Nikal Aaye Hain...! #dananeermubeen #hurmat #shahveerjaffery",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:05:18Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 498,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/X78bWqyy5Nc/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "BQ7DKtNaIF0",
+      "title": "BEST MOMENT | Hurmat New Ep | #dananeermubeen #hurmat #shahveerjaffery",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:02:21Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 610,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/BQ7DKtNaIF0/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "yvvqmliDZ1I",
+      "title": "I Love You Khushi, Mere Dil Mein Sirf Tum Ho..! ❤️ ft. Sumaiyya Bukhsh &  Mariam Ejaz - HUM TV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:00:27Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 204,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/yvvqmliDZ1I/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "TpM1O0-x-XA",
+      "title": "Arfa Ne Apne Baap Ko Sab Bata Dia...! #BombayTailors #humtv",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:00:10Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 200,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/TpM1O0-x-XA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "Eclieajqu30",
       "title": "Pakistan’s Power Crisis Deepens! | Latest Loadshedding Update | Economy Matters | SAMAA TV",
       "channel": "SAMAA TV",
@@ -258,6 +348,42 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/Eclieajqu30/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "v9LKiViGqfE",
+      "title": "What Were PTI’s Two Major Demands? Salman Akram Raja Reveals Key Details",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T17:57:37Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 454,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/v9LKiViGqfE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "a9KsHXgQ5q4",
+      "title": "Governor’s Rule in KP | Maulana Speaks Out Openly | Hamid Mir",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T17:56:08Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 643,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/a9KsHXgQ5q4/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -315,6 +441,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "ht2bzgK8aJw",
+      "title": "Emergency in 12 KP Districts | A 50-Year-Old Problem Returns to the Spotlight",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T17:53:35Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 616,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/ht2bzgK8aJw/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "XATKs3HlyBQ",
       "title": "Indian Secularism’s Funeral? | The Shocking Reality Behind the Claim | Kashmir Report | PTV News",
       "channel": "PTV News",
@@ -330,6 +474,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/XATKs3HlyBQ/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "wWtLww31QJU",
+      "title": "PTI Resignations or Political Resistance? | Hamid Mir on KP’s Political Future",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T17:52:06Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 484,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/wWtLww31QJU/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -405,6 +567,42 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "rlyAcs0UlGs",
+      "title": "Resignations or Another Strategy? Salman Akram Raja Reveals PTI’s Plan",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T17:49:47Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 456,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/rlyAcs0UlGs/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "56sObDfU99s",
+      "title": "Major Revelation in Student Laiba’s Suicide Case | Breaking News | Geo News",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T17:48:49Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 131,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/56sObDfU99s/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "uSh5W9znU0A",
       "title": "How Can Loadshedding Problems Be Resolved? Find Out from Khurram Mushtaq | Economy Matters",
       "channel": "SAMAA TV",
@@ -456,6 +654,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/H6vXzfUild8/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "cwfLSAlO_Q0",
+      "title": "Federal Govt and KP on the Same Page to End Terrorism- Emergency in KP - 10:30 PM News Updates",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T17:47:19Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 653,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/cwfLSAlO_Q0/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -801,6 +1017,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "pspdt66xRPw",
+      "title": "KP Governance | PM Forms Committee | Governor Rule and Emergency in KP | ARY News 10 PM Headlines",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T17:33:30Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 978,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/pspdt66xRPw/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "2FKJLBp20OI",
       "title": "How Long Will Governor’s Rule Last? Barrister Aqeel Makes a Major Revelation | Breaking News",
       "channel": "Geo News",
@@ -978,6 +1212,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/szPfVPz6l_4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "6L5oxbQ8Cdo",
+      "title": "PROVINCE-WIDE MONITORING - LAW AND ORDER | Geo News 9 PM Geo Bulletin | 12th Oct 2026",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T17:23:19Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1255,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/6L5oxbQ8Cdo/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -1302,6 +1554,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/eoDWowpl4oU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "t0VwDy4BXwQ",
+      "title": "Emergency in KP - How long will Governor's rule last? | Capital Talk  | Hamid Mir | 12 October 2026",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "talk",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T17:05:56Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2434,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/t0VwDy4BXwQ/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -2764,7 +3034,7 @@
     },
     {
       "id": "QpzPYN2DuEg",
-      "title": "Rutba EP 2 | 12 Oct 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ARY Digital",
+      "title": "Rutba EP 2 | 12 Oct 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ENG SUB",
       "channel": "ARY Digital",
       "channelId": "arydigital",
       "youtubeChannelId": "UC4JCksJF76g_MdzPVBJoC3Q",
@@ -51975,6 +52245,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Asad Toor: channel unavailable; Siddique Jaan: channel unavailable; HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable",
+  "lastError": "Dunya News: HTTP 404: playlistNotFound; Imran Riaz Khan: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
