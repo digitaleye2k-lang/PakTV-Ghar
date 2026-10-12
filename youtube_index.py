@@ -195,6 +195,13 @@ def index_api(shows, key, old_cache=None, transport=None, now=None, known_channe
              'indexedShows': len(entries), 'error': ''}
     if not key:
         return entries, cache, stats
+    # Detect GitHub secrets containing a key NAME, pasted JSON, quotation marks,
+    # or a wrong credential type without ever logging the secret value.
+    if transport is None and not re.fullmatch(r'AIza[A-Za-z0-9_-]{35}', key):
+        stats['error'] = ('The YOUTUBE_API_KEY secret has the wrong format. '
+                          'Paste only the 39-character Google API key value.')
+        cache['entries'] = entries
+        return entries, cache, stats
 
     quota_day = now.astimezone(ZoneInfo('America/Los_Angeles')).strftime('%Y-%m-%d')
     if cache.get('quotaDay') != quota_day:
@@ -205,6 +212,23 @@ def index_api(shows, key, old_cache=None, transport=None, now=None, known_channe
         stats['error'] = 'Search budget reached; preserved cached results'
         cache['entries'] = entries
         return entries, cache, stats
+
+    # Use a minimal, documented public videos.list request to distinguish a
+    # credential/project problem from bad search parameters, costing 1 unit.
+    if transport is None and not cache.get('apiValidated'):
+        try:
+            youtube_json('videos', {
+                'part': 'snippet', 'id': 'rUKxY6_eujE'
+            }, key, transport)
+            cache['apiValidated'] = True
+        except SafeAPIError as exc:
+            stats['error'] = 'Minimal YouTube API credential check: ' + str(exc)
+            cache['entries'] = entries
+            return entries, cache, stats
+        except Exception:
+            stats['error'] = 'Minimal YouTube API credential check: unexpected response'
+            cache['entries'] = entries
+            return entries, cache, stats
 
     channels = dict(cache.get('channels') or {})
     for network, channel_id in OFFICIAL_CHANNEL_IDS.items():
