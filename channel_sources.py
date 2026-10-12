@@ -5,6 +5,9 @@ handles simply produce no videos; no unrelated uploader is silently substituted.
 """
 CHANNELS = [
  # Prioritise a varied mix on the first run, then rotate through the rest.
+ # Film distributors and public film publishers; only their labelled full films are included.
+ {'id':'aryfilms','name':'ARY Films','handle':'ARYFilms','category':'movies','genre':'Pakistani films & TV movies','channelId':'UC2PYniNHljOED9xNaMpiMiQ'},
+ {'id':'drmmovies','name':'Pakistani Movies by DRM','handle':'pakistani_movies','category':'movies','genre':'Pakistani films & TV movies'},
  {'id':'geonews','name':'Geo News','handle':'geonews','category':'news','genre':'News & politics'},
  {'id':'ducky','name':'Ducky Bhai','handle':'duckybhai','category':'vloggers','genre':'Lifestyle & vlogs'},
  {'id':'arynews','name':'ARY News','handle':'ArynewsTvofficial','category':'news','genre':'News & politics'},
