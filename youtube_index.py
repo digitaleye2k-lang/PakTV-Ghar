@@ -20,7 +20,7 @@ HANDLES = {
     'harpalgeo': '@HarPalGeoOfficial',
     'greentv': '@GreenEntertainmentTV',
     'ptvhome': '@PTVHomeEntertainment',
-    'expresstv': '@expressentertainment',
+    'expressent': '@expressentertainment',
 }
 # Stable public broadcaster channel IDs; cross-referenced against channel
 # identifiers published by independent channel analytics sources in Oct 2026.
@@ -47,7 +47,7 @@ NOT_FULL = re.compile(
 PT_DURATION = re.compile(r'^P(?:\d+D)?T(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?$')
 NETWORK_NAMES = {'hum': 'HUM TV', 'arydigital': 'ARY Digital',
                  'harpalgeo': 'Har Pal Geo', 'greentv': 'Green Entertainment',
-                 'ptvhome': 'PTV Home', 'expresstv': 'Express TV'}
+                 'ptvhome': 'PTV Home', 'expressent': 'Express TV'}
 
 
 def normalize(text):
