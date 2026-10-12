@@ -41,6 +41,10 @@ for expected in ('function friendlyError(', 'pgh_safe_text', 'pgh_post_message',
                  'pgh_moderator()'):
     assert expected in client or expected in schema, 'Security or moderation missing: '+expected
 
+assert 'pgh_public_messages' in schema and 'pgh_public_messages' in client
+assert 'grant select on public.community_messages to anon,authenticated' not in schema, (
+  'Raw message table must never expose author_id to public clients')
+assert 'backend.from("community_messages")' not in client
 assert "window.PAKTV_COMMUNITY_CONFIG" in config
 assert re.search(r'supabaseUrl:\s*""', config), 'Do not pre-fill a fabricated backend URL'
 assert re.search(r'publishableKey:\s*""', config), 'Do not expose or fabricate an API key'
