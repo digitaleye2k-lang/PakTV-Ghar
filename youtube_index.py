@@ -18,6 +18,9 @@ HANDLES = {
     'hum': '@HUMTV',
     'arydigital': '@ARYDigitalasia',
     'harpalgeo': '@HarPalGeoOfficial',
+    'greentv': '@GreenEntertainmentTV',
+    'ptvhome': '@PTVHomeEntertainment',
+    'expresstv': '@expressentertainment',
 }
 # Stable public broadcaster channel IDs; cross-referenced against channel
 # identifiers published by independent channel analytics sources in Oct 2026.
@@ -26,6 +29,8 @@ OFFICIAL_CHANNEL_IDS = {
     'hum': 'UCEeEQxm6qc_qaTE7qTV5aLQ',
     'arydigital': 'UC4JCksJF76g_MdzPVBJoC3Q',
     'harpalgeo': 'UCe9JSDmyqNgA_l2BzGHq1Ug',
+    'greentv': 'UCF2ltLX1dnPa6-L1paPaMzw',
+    'ptvhome': 'UCMfwlaPLGMn44BKvHv15yzA',
 }
 MAX_SEARCH_PER_RUN = 8
 SEARCH_BUDGET_PER_DAY = 80
@@ -41,7 +46,8 @@ NOT_FULL = re.compile(
     r'first look|original soundtrack|scene|clip)\b', re.I)
 PT_DURATION = re.compile(r'^P(?:\d+D)?T(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?$')
 NETWORK_NAMES = {'hum': 'HUM TV', 'arydigital': 'ARY Digital',
-                 'harpalgeo': 'Har Pal Geo'}
+                 'harpalgeo': 'Har Pal Geo', 'greentv': 'Green Entertainment',
+                 'ptvhome': 'PTV Home', 'expresstv': 'Express TV'}
 
 
 def normalize(text):
