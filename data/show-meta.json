@@ -1,0 +1,148 @@
+{
+  "generatedAt": "2026-10-12T20:05:01.555671+05:00",
+  "shows": {
+    "harpalgeo-mohabbat": {
+      "tvToday": {
+        "number": 5,
+        "time": "20:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-12"
+      }
+    },
+    "harpalgeo-nashtar": {
+      "tvToday": {
+        "number": 18,
+        "time": "01:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-12"
+      }
+    },
+    "harpalgeo-kaisa-yeh-ishq": {
+      "tvToday": {
+        "number": 62,
+        "time": "21:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-12"
+      }
+    },
+    "harpalgeo-uswa": {
+      "tvToday": {
+        "number": 20,
+        "time": "19:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-12"
+      }
+    },
+    "harpalgeo-khafa": {
+      "tvToday": {
+        "number": 20,
+        "time": "11:30",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-12"
+      }
+    },
+    "hum-aangan": {
+      "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Aangan-500.jpg.jpg",
+      "posterSource": "Official broadcaster"
+    },
+    "harpalgeo-bano": {},
+    "hum-bombay-tailors": {
+      "poster": "https://humenglish341f88e60e.blob.core.windows.net/blobglammagazi001441984f/Hum_Tv/uploads/2022/01/Bombay-Tailors-500.jpg.jpg",
+      "posterSource": "Official broadcaster"
+    },
+    "arydigital-dar-e-nijaat": {},
+    "hum-gulbahar": {
+      "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Gulbahar-500.jpg.jpg.jpg",
+      "posterSource": "Official broadcaster"
+    },
+    "arydigital-hey-fam": {},
+    "hum-hurmat": {
+      "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/10/Hurmat-5002.jpg.jpg",
+      "posterSource": "Official broadcaster"
+    },
+    "arydigital-izzat": {},
+    "hum-khushi": {
+      "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Khushi-500.jpg.jpg",
+      "posterSource": "Official broadcaster"
+    },
+    "arydigital-main-tera": {},
+    "hum-mohabbat-mukhtasir": {
+      "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/MM-500.jpg.jpg",
+      "posterSource": "Official broadcaster"
+    },
+    "arydigital-rutba": {},
+    "arydigital-tamasha-season-5": {},
+    "hum-tark-e-tamanna": {
+      "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/TT-500.jpg.jpg",
+      "posterSource": "Official broadcaster"
+    },
+    "hum-zehar-e-mohabbat": {
+      "poster": "https://humenglish341f88e60e.blob.core.windows.net/blobglammagazi001441984f/Hum_Tv/uploads/2026/08/500.jpg.jpg",
+      "posterSource": "Official broadcaster"
+    },
+    "arydigital-lagan-lagi": {
+      "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1791124391063_c79ece2290.webp&w=1920&q=75",
+      "posterSource": "Official broadcaster"
+    },
+    "hum-aye-dil-aazma-nahi": {},
+    "arydigital-bas-tera-saath-ho": {},
+    "harpalgeo-beti-ka-ghar-konsa": {},
+    "hum-deewar": {},
+    "arydigital-dr-bahu": {},
+    "hum-ek-jhooti-kahani": {},
+    "hum-hadd": {},
+    "harpalgeo-humrahi": {},
+    "arydigital-kafeel": {},
+    "hum-leader": {},
+    "arydigital-meri-zindagi-hai-tu": {},
+    "arydigital-mirza-ki-heer": {},
+    "hum-muamma": {},
+    "harpalgeo-muhafiz": {},
+    "hum-musafat": {},
+    "harpalgeo-pehli-barish": {},
+    "harpalgeo-shaidai": {},
+    "hum-sirf-shabana": {},
+    "harpalgeo-tapish": {},
+    "arydigital-toota-huwa-dil": {},
+    "arydigital-bulbulay": {},
+    "geonews-dolly-darling": {},
+    "dunya-g-sarkar": {},
+    "dunya-hasb-e-haal": {},
+    "geonews-hasna-mana-hai": {},
+    "dunya-joke-dar-joke": {},
+    "expressnews-khabardar": {},
+    "geonews-khabarnaak": {},
+    "dunya-mazaaq-raat-muzakraat": {},
+    "dunya-siyasi-theatre": {},
+    "dunya-zaban-daraz": {},
+    "harpalgeo-aik-thi-rania": {},
+    "hum-alif": {},
+    "arydigital-angna": {},
+    "arydigital-aulaad": {},
+    "arydigital-baby-baji": {},
+    "arydigital-baby-baji-ki-bahuwain": {},
+    "arydigital-balaa": {},
+    "arydigital-beti": {},
+    "hum-bin-roye": {},
+    "arydigital-bismil": {},
+    "arydigital-burns-road-kay-romeo-juliet": {},
+    "arydigital-chand-tara": {},
+    "arydigital-cheekh": {},
+    "hum-chupke-chupke": {},
+    "harpalgeo-dewangi": {},
+    "harpalgeo-dil-e-momin": {},
+    "hum-diyar-e-dil": {},
+    "arydigital-do-bol": {},
+    "arydigital-dunk": {},
+    "hum-ehd-e-wafa": {},
+    "hum-fairy-tale": {},
+    "hum-fairy-tale-2": {},
+    "harpalgeo-farq": {}
+  },
+  "notes": "Episode numbers have labelled sources. A TV broadcast or programme page is not confirmation of a playable upload."
+}
