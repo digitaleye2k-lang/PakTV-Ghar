@@ -301,36 +301,17 @@ select jsonb_build_object(
 $$;
 revoke all on function public.pgh_visit_summary() from public;
 grant execute on function public.pgh_visit_summary() to anon,authenticated;
--- Only the server-side Edge Function can record visits, never the browser.
+-- Only a trusted server-side Edge Function can record visits.
 create or replace function public.pgh_record_visit(p_digest text,p_country text)
 returns void language plpgsql security definer set search_path=''
 as $$
 declare changed integer;
 begin
- if current_user <> 'service_role' and auth.role()<>'service_role' then
-   raise exception 'Server-only'; end if;
- -- Keep short-lived per-visitor digests for no more than one week.
- delete from public.community_visitor_tokens where visited_on < current_date-7;
- if p_digest !~ '^[0-9a-f]{64} if p_country !~ '^[A-Z]{2}$' then p_country:='ZZ'; end if;
- insert into public.community_visitor_tokens(visited_on,visit_digest,country_code)
- values(current_date,p_digest,p_country) on conflict do nothing;
- get diagnostics changed=row_count;
- if changed>0 then
-   insert into public.community_visit_totals(visited_on,country_code,visits)
-   values(current_date,p_country,1)
-   on conflict(visited_on,country_code)
-   do update set visits=public.community_visit_totals.visits+1;
- end if;
-end;
-$$;
-revoke all on function public.pgh_record_visit(text,text) from public;
-grant execute on function public.pgh_record_visit(text,text) to service_role;
--- To set a data-retention period, review privacy obligations first.
--- DELETE FROM public.community_messages WHERE created_at < now()-interval '90 days';
--- DELETE FROM public.community_submissions WHERE created_at < now()-interval '365 days'
---   AND status IN ('resolved','rejected');
- then raise exception 'Invalid visit digest'; end if;
+ if auth.role() <> 'service_role' then
+   raise exception 'Server-only analytics endpoint'; end if;
+ if p_digest !~ '^[0-9a-f]{64}$' then raise exception 'Invalid visit digest'; end if;
  if p_country !~ '^[A-Z]{2}$' then p_country:='ZZ'; end if;
+ delete from public.community_visitor_tokens where visited_on < current_date-7;
  insert into public.community_visitor_tokens(visited_on,visit_digest,country_code)
  values(current_date,p_digest,p_country) on conflict do nothing;
  get diagnostics changed=row_count;
@@ -342,9 +323,7 @@ grant execute on function public.pgh_record_visit(text,text) to service_role;
  end if;
 end;
 $$;
-revoke all on function public.pgh_record_visit(text,text) from public;
+revoke all on function public.pgh_record_visit(text,text) from public,anon,authenticated;
 grant execute on function public.pgh_record_visit(text,text) to service_role;
--- To set a data-retention period, review privacy obligations first.
--- DELETE FROM public.community_messages WHERE created_at < now()-interval '90 days';
--- DELETE FROM public.community_submissions WHERE created_at < now()-interval '365 days'
---   AND status IN ('resolved','rejected');
+-- Owner-only administrative changes use the Supabase dashboard/SQL editor.
+-- Review data-retention policies periodically and remove resolved reports.
