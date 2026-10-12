@@ -262,6 +262,9 @@ def main():
  write('episodes.json',episodes)
  result=schedule(shows)
  write('schedule.json',result)
+ from show_metadata import build_metadata
+ metadata=build_metadata(shows,videos,result,get,readold('show-meta.json',{}).get('shows',{}))
+ write('show-meta.json',metadata)
  write('discover.json',{'shows':[],'errors':[]})
- print('Published',len(videos),'videos,',len(episodes),'programme indexes,',len(result['items']),'schedule entries')
+ print('Published',len(videos),'videos,',len(episodes),'programme indexes,',len(result['items']),'schedule entries,',len(metadata['shows']),'show metadata entries')
 if __name__=='__main__':main()
