@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T19:12:37.731357+00:00",
+  "generatedAt": "2026-10-12T19:13:35.234813+00:00",
   "dateTimezone": "UTC",
   "cursor": 3,
   "channels": {
@@ -8,7 +8,7 @@
       "uploadsId": "UU_vt34wimdCzdkrzVejwX9g",
       "handle": "geonews",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T19:12:37.731357+00:00"
+      "lastFetchedAt": "2026-10-12T19:13:35.234813+00:00"
     },
     "ducky": {
       "youtubeId": "UC_c-RTowPbIlzMkIa_O7s6Q",
@@ -154,42 +154,42 @@
       "uploadsId": "UUJEGvNxXunjqrcd2Xg9ntMQ",
       "handle": "KunFoods",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-12T19:12:37.731357+00:00"
+      "lastFetchedAt": "2026-10-12T19:13:35.234813+00:00"
     },
     "kitchenamna": {
       "youtubeId": "UCQ2P7C8UGoVM6AhqsVx-M0Q",
       "uploadsId": "UUQ2P7C8UGoVM6AhqsVx-M0Q",
       "handle": "KitchenWithAmna",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-12T19:12:37.731357+00:00"
+      "lastFetchedAt": "2026-10-12T19:13:35.234813+00:00"
     },
     "geoclassics": {
       "youtubeId": "UCLUfX9--VscMEKnIE6thhbg",
       "uploadsId": "UULUfX9--VscMEKnIE6thhbg",
       "handle": "GeoNewsClassics",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-12T19:12:37.731357+00:00"
+      "lastFetchedAt": "2026-10-12T19:13:35.234813+00:00"
     },
     "wildlens": {
       "youtubeId": "UCf1XIplYiqNv9baGsFHwPPQ",
       "uploadsId": "UUf1XIplYiqNv9baGsFHwPPQ",
       "handle": "WildLensByAbrar",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-12T19:12:37.731357+00:00"
+      "lastFetchedAt": "2026-10-12T19:13:35.234813+00:00"
     },
     "ruby": {
       "youtubeId": "UCMhx-uS3O-G_6_lTrYmDKLw",
       "uploadsId": "UUMhx-uS3O-G_6_lTrYmDKLw",
       "handle": "RubyKaKitchen",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-12T19:12:37.731357+00:00"
+      "lastFetchedAt": "2026-10-12T19:13:35.234813+00:00"
     },
     "ijazfood": {
       "youtubeId": "UCc1BSASBDsE_XYOTxD9SNmA",
       "uploadsId": "UUc1BSASBDsE_XYOTxD9SNmA",
       "handle": "IjazAnsariFoodSecrets",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-12T19:12:37.731357+00:00"
+      "lastFetchedAt": "2026-10-12T19:13:35.234813+00:00"
     },
     "greentv": {
       "youtubeId": "UCF2ltLX1dnPa6-L1paPaMzw",
@@ -245,14 +245,14 @@
       "uploadsId": "UU2PYniNHljOED9xNaMpiMiQ",
       "handle": "ARYFilms",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-12T19:12:37.731357+00:00"
+      "lastFetchedAt": "2026-10-12T19:13:35.234813+00:00"
     },
     "drmmovies": {
       "youtubeId": "UCDmQsP_LTEWPZ2AXS9eWTrQ",
       "uploadsId": "UUDmQsP_LTEWPZ2AXS9eWTrQ",
       "handle": "pakistani_movies",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-12T19:12:37.731357+00:00"
+      "lastFetchedAt": "2026-10-12T19:13:35.234813+00:00"
     }
   },
   "videos": [
