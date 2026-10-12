@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T22:31:50.552829+05:00",
+  "generatedAt": "2026-10-12T22:33:05.344711+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "tvToday": {
@@ -42,9 +42,9 @@
       "latestPublisherSource": "https://harpalgeo.tv/program/Nashtar",
       "latestUpload": {
         "number": 18,
-        "id": "ZsWUGhmQ0bU",
-        "title": "Nashtar Episode 18 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
-        "date": "2026-10-11",
+        "id": "4X7Q2VQCsHk",
+        "title": "Nashtar Episode 18 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "date": "2026-10-12",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -329,7 +329,17 @@
     "arydigital-kafeel": {
       "lastAttempt": "2026-10-12T20:10:58.834590+05:00",
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1765553584370_ae1bf6ba0b.webp&w=1920&q=75",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 34,
+        "id": "iSsowAULHBM",
+        "title": "Kafeel Last Episode 34 | 28 April 2026 | Emmad Irfani | Sanam Saeed | [ENG SUB] | ARY Digital Drama",
+        "date": "2026-04-28",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "hum-leader": {
       "lastAttempt": "2026-10-12T20:10:58.904270+05:00"

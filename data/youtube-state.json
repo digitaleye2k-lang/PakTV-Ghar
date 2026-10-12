@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-12",
-  "dailySearches": 40,
+  "dailySearches": 48,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -311,8 +311,92 @@
         "thumbnail": "https://i.ytimg.com/vi/-7COdwR1U9Y/hqdefault.jpg",
         "checkedAt": "2026-10-12T17:30:35.039122+00:00"
       }
+    ],
+    "arydigital-bas-tera-saath-ho": [
+      {
+        "id": "xExSgmC8ia4",
+        "title": "Shayan ka Anjaam | Bas Tera Saath Ho Last Episode 45 | ARY Digital",
+        "episode": 45,
+        "date": "2026-10-12",
+        "published": "2026-10-12T11:40:39Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/xExSgmC8ia4/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:32:18.575540+00:00"
+      },
+      {
+        "id": "IER1YNf9NIM",
+        "title": "Ansa Aur Anas Ki Jeet  | Bas Tera Saath Ho Last Episode 45 | ARY Digital",
+        "episode": 45,
+        "date": "2026-10-12",
+        "published": "2026-10-12T11:10:23Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/IER1YNf9NIM/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:32:18.575540+00:00"
+      },
+      {
+        "id": "UB9QULJuQaQ",
+        "title": "Gham Ko Sehne Main Bhi Qudrat ne Maza Rakha Hai | Bas Tera Saath Ho Ep 44",
+        "episode": 44,
+        "date": "2026-10-07",
+        "published": "2026-10-07T12:45:20Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/UB9QULJuQaQ/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:32:18.575540+00:00"
+      },
+      {
+        "id": "GscKavABvSU",
+        "title": "Shayan Ko Maaf Kardo Ansa | Bas Tera Saath Ho Episode 44 | ARY Digital",
+        "episode": 44,
+        "date": "2026-10-07",
+        "published": "2026-10-07T10:10:38Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/GscKavABvSU/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:32:18.575540+00:00"
+      }
+    ],
+    "arydigital-kafeel": [
+      {
+        "id": "iSsowAULHBM",
+        "title": "Kafeel Last Episode 34 | 28 April 2026 | Emmad Irfani | Sanam Saeed | [ENG SUB] | ARY Digital Drama",
+        "episode": 34,
+        "date": "2026-04-28",
+        "published": "2026-04-28T16:00:06Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/iSsowAULHBM/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:32:18.575540+00:00"
+      }
     ]
   },
-  "cursor": 20,
+  "cursor": 24,
   "apiValidated": true
 }

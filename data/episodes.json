@@ -87,23 +87,27 @@
       }
     ]
   },
-  "hum-aangan": {
+  "hum-mohabbat-mukhtasir": {
     "episodes": [
       {
-        "id": "K1SHRLAXBuE",
-        "title": "Aangan - Episode 04 - Highlight [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
-        "episode": 4,
-        "date": "2026-10-11",
-        "published": "2026-10-11T13:00:33Z",
+        "title": "Mohabbat Mukhtasir - Highlights Episode 03 - Oct 2026 - [ Usama Khan & Madiha Imam ] HUM TV",
+        "episode": 3,
+        "id": "D08wi5pF3nA",
         "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
         "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/K1SHRLAXBuE/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
+        "date": "2026-10-12"
+      }
+    ]
+  },
+  "hum-zehar-e-mohabbat": {
+    "episodes": [
+      {
+        "title": "Zehar-e-Mohabbat - Episode 16 Highlights - Oct 2026 - [ Zoha Tauqeer & Omer Shahzad ] HUM TV",
+        "episode": 16,
+        "id": "iowzDaBI_3o",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-12"
       }
     ]
   },
@@ -127,6 +131,62 @@
       }
     ]
   },
+  "hum-udaari": {
+    "episodes": [
+      {
+        "title": "Udaari Episode 20 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 20,
+        "id": "y2XFdg_DecM",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      }
+    ]
+  },
+  "arydigital-izzat": {
+    "episodes": [
+      {
+        "title": "Izzat Episode 23 | 12 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 23,
+        "id": "3DKwOWGVLr4",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Izzat Episode 23 | 12 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 23,
+        "id": "ZnQjUrNJrEU",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Mujhe Sab Kuch Sach Sach Batao! 👀 | Izzat Episode 21",
+        "episode": 21,
+        "id": "StmvtJngcDY",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Izzat Episode 21 | Best Moment | ARY Digital",
+        "episode": 21,
+        "id": "l0tZQpy5VjU",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Izzat Episode 21 | Best Scene | ARY Digital",
+        "episode": 21,
+        "id": "CYSW6pV9uLk",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      }
+    ]
+  },
   "arydigital-rutba": {
     "episodes": [
       {
@@ -144,6 +204,178 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QpzPYN2DuEg/hqdefault.jpg",
         "checkedAt": "2026-10-12T17:20:21.512502+00:00"
+      }
+    ]
+  },
+  "arydigital-main-tera": {
+    "episodes": [
+      {
+        "title": "Main Tera Episode 58 | 12 October 2026 | Ghana Ali | Yusra Irfan | Arez Ahmed | ARY Digital",
+        "episode": 58,
+        "id": "GbMTLqw3dtY",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Main Tera Episode 58 | 12 October 2026 | Ghana Ali | Yusra Irfan | Arez Ahmed | ARY Digital",
+        "episode": 58,
+        "id": "cIrIsvWp8gc",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Main Tera Episode 57 | Emotional Moment 😭 | ARY Digital",
+        "episode": 57,
+        "id": "6pwqbvkmXJw",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Main Tera Episode 57 | Most Intense Moment | ARY Digital",
+        "episode": 57,
+        "id": "bPUCPWCRkIg",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      }
+    ]
+  },
+  "arydigital-tamasha-season-5": {
+    "episodes": [
+      {
+        "title": "Dabang Contestant Of The House - Esra Ayesha  | Cola Next | Tamasha S5 | ARY Digital",
+        "episode": null,
+        "id": "AcYkz9Io1so",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Chalaak Phupho of The House - Samiya Hijab | Cola Next | Tamasha S5 | ARY Digital",
+        "episode": null,
+        "id": "rYXAnZqwuMI",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Best Khiladi Of Season 5 | Babrik Shah | Cola Next | Tamasha S5 | ARY Digital",
+        "episode": null,
+        "id": "Z67pu8HgqyE",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Kaam Chor Of The House - Laila Jii  | Cola Next | Tamasha S5 | ARY Digital",
+        "episode": null,
+        "id": "JWPwEkUbY3k",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Best Wazir Of Tamasha s5 | Yasir Alam  | Cola Next | Tamasha S5 | ARY Digital",
+        "episode": null,
+        "id": "mEvhEYVb0gE",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Trophy toh Laila hi jeetegi! 🏆 #tamasha #laila #adnansiddiqui #shorts",
+        "episode": null,
+        "id": "NyZ5f7WjpIU",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Yasir finally speaks...🙃😌 #Tamasha #buzz #esraayesha #shorts",
+        "episode": null,
+        "id": "eqGpYs4uPpE",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Esra being Esra! 😂🔥#Tamasha #buzz #esraayesha #shorts",
+        "episode": null,
+        "id": "LFzS4e3ZvZM",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-12"
+      }
+    ]
+  },
+  "arydigital-bas-tera-saath-ho": {
+    "episodes": [
+      {
+        "id": "xExSgmC8ia4",
+        "title": "Shayan ka Anjaam | Bas Tera Saath Ho Last Episode 45 | ARY Digital",
+        "episode": 45,
+        "date": "2026-10-12",
+        "published": "2026-10-12T11:40:39Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/xExSgmC8ia4/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:32:18.575540+00:00"
+      },
+      {
+        "id": "IER1YNf9NIM",
+        "title": "Ansa Aur Anas Ki Jeet  | Bas Tera Saath Ho Last Episode 45 | ARY Digital",
+        "episode": 45,
+        "date": "2026-10-12",
+        "published": "2026-10-12T11:10:23Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/IER1YNf9NIM/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:32:18.575540+00:00"
+      },
+      {
+        "id": "UB9QULJuQaQ",
+        "title": "Gham Ko Sehne Main Bhi Qudrat ne Maza Rakha Hai | Bas Tera Saath Ho Ep 44",
+        "episode": 44,
+        "date": "2026-10-07",
+        "published": "2026-10-07T12:45:20Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/UB9QULJuQaQ/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:32:18.575540+00:00"
+      },
+      {
+        "id": "GscKavABvSU",
+        "title": "Shayan Ko Maaf Kardo Ansa | Bas Tera Saath Ho Episode 44 | ARY Digital",
+        "episode": 44,
+        "date": "2026-10-07",
+        "published": "2026-10-07T10:10:38Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/GscKavABvSU/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:32:18.575540+00:00"
       }
     ]
   },
@@ -235,26 +467,6 @@
       }
     ]
   },
-  "harpalgeo-nashtar": {
-    "episodes": [
-      {
-        "id": "ZsWUGhmQ0bU",
-        "title": "Nashtar Episode 18 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
-        "episode": 18,
-        "date": "2026-10-11",
-        "published": "2026-10-11T16:00:27Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ZsWUGhmQ0bU/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
-      }
-    ]
-  },
   "harpalgeo-kaisa-yeh-ishq": {
     "episodes": [
       {
@@ -307,103 +519,111 @@
       }
     ]
   },
-  "pakexperience-the-pakistan-experience": {
+  "geonews-hasna-mana-hai": {
     "episodes": [
       {
-        "title": "Pakwheels made no money till 2021 | Suneel Munj | Shehzad Ghias | The Pakistan Experience",
+        "title": "“Mariam Nawaz Bhi Nani, Dadi… Main Bhi Nani Dadi!” | Hasna Mana Hai | Tabish Hashmi",
         "episode": null,
-        "id": "znwbB1RBJXQ",
-        "source": "The Pakistan Experience",
+        "id": "W-j3rCuGxkM",
+        "source": "Geo News",
         "kind": "youtube",
-        "date": "2023-10-09"
+        "date": "2026-10-12"
       },
       {
-        "title": "Non filers should not be allowed to vote | Suneel Munj | Shehzad Ghias | The Pakistan Experience",
+        "title": "Sohail Sameer’s early days - Bilal Ganj mein mawali bante bante rehgaya! | Hasna Mana Hai",
         "episode": null,
-        "id": "VhyDTxgzLBw",
-        "source": "The Pakistan Experience",
+        "id": "G5wmeyRgSmo",
+        "source": "Geo News",
         "kind": "youtube",
-        "date": "2023-10-06"
+        "date": "2026-10-12"
       },
       {
-        "title": "What Imran Riaz Khan said about Imran Khan  | Jawad Ahmad | Shehzad Ghias | The Pakistan Experience",
+        "title": "Theatre mein Moochhon wali Khatoon!😂 - Hifza ne Umer ko phaswadiya…💀 - Yasir Hussain - Tabish Hashmi",
         "episode": null,
-        "id": "w-O7Sp0tlhk",
-        "source": "The Pakistan Experience",
+        "id": "b4YOrqqOhg0",
+        "source": "Geo News",
         "kind": "youtube",
-        "date": "2023-10-01"
+        "date": "2026-10-12"
       },
       {
-        "title": "Abrar ul Haq's Hypocrisy | Jawad Ahmad | Shehzad Ghias | The Pakistan Experience",
+        "title": "Adi Adeal Amjad & Tabish Hashmi’s Funniest Scenes 😂🎭  | You’ll Watch Again! 🤩🔥 | Hasna Mana Hai",
         "episode": null,
-        "id": "ZNpiWtY65Kk",
-        "source": "The Pakistan Experience",
+        "id": "0a23vC6V7yo",
+        "source": "Geo News",
         "kind": "youtube",
-        "date": "2023-09-30"
-      },
+        "date": "2026-10-12"
+      }
+    ]
+  },
+  "arynews-the-reporters": {
+    "episodes": [
       {
-        "title": "Why Jawad Ahmad left Singing | Jawad Ahmad | Shehzad Ghias | The Pakistan Experience",
+        "title": "After Losing KP Government, What Will PTI Do Next? | The Reporters | 12th Oct 26 | ARY News",
         "episode": null,
-        "id": "HvcNZb6wU2k",
-        "source": "The Pakistan Experience",
+        "id": "cHfqvJyWclY",
+        "source": "ARY News",
         "kind": "youtube",
-        "date": "2023-09-29"
-      },
+        "date": "2026-10-12"
+      }
+    ]
+  },
+  "harpalgeo-nashtar": {
+    "episodes": [
       {
-        "title": "How to tell if a friend is on drugs | Osama Zaman | Shehzad Ghias | The Pakistan Experience",
-        "episode": null,
-        "id": "qAGSaROllrE",
-        "source": "The Pakistan Experience",
+        "id": "ZsWUGhmQ0bU",
+        "title": "Nashtar Episode 18 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
+        "episode": 18,
+        "date": "2026-10-11",
+        "published": "2026-10-11T16:00:27Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
         "kind": "youtube",
-        "date": "2023-09-28"
-      },
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ZsWUGhmQ0bU/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
+      }
+    ]
+  },
+  "hum-aangan": {
+    "episodes": [
       {
-        "title": "Meth Addiction in Pakistan | Osama Zaman | Shehzad Ghias | The Pakistan Experience",
-        "episode": null,
-        "id": "FsJMkB6Kr_Y",
-        "source": "The Pakistan Experience",
+        "id": "K1SHRLAXBuE",
+        "title": "Aangan - Episode 04 - Highlight [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
+        "episode": 4,
+        "date": "2026-10-11",
+        "published": "2026-10-11T13:00:33Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
         "kind": "youtube",
-        "date": "2023-09-27"
-      },
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/K1SHRLAXBuE/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
+      }
+    ]
+  },
+  "arydigital-kafeel": {
+    "episodes": [
       {
-        "title": "Drugs Withdrawal Symptoms | Osama Zaman | Shehzad Ghias | The Pakistan Experience",
-        "episode": null,
-        "id": "SrQzQUYoksM",
-        "source": "The Pakistan Experience",
+        "id": "iSsowAULHBM",
+        "title": "Kafeel Last Episode 34 | 28 April 2026 | Emmad Irfani | Sanam Saeed | [ENG SUB] | ARY Digital Drama",
+        "episode": 34,
+        "date": "2026-04-28",
+        "published": "2026-04-28T16:00:06Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
         "kind": "youtube",
-        "date": "2023-09-26"
-      },
-      {
-        "title": "Pakistan should stop International Borrowing | Atif Mian | Shehzad Ghias | The Pakistan Experience",
-        "episode": null,
-        "id": "niJ6aluEvnc",
-        "source": "The Pakistan Experience",
-        "kind": "youtube",
-        "date": "2023-09-25"
-      },
-      {
-        "title": "How India reached the Moon  | Atif Mian | Shehzad Ghias | The Pakistan Experience",
-        "episode": null,
-        "id": "BtfKeoF3VhA",
-        "source": "The Pakistan Experience",
-        "kind": "youtube",
-        "date": "2023-09-25"
-      },
-      {
-        "title": "Beggars cant be choosers | Atif Mian | Shehzad Ghias | The Pakistan Experience",
-        "episode": null,
-        "id": "n24INi0xPkY",
-        "source": "The Pakistan Experience",
-        "kind": "youtube",
-        "date": "2023-09-23"
-      },
-      {
-        "title": "Comparing CPEC to the East India Company | Atif Mian | Shehzad Ghias | The Pakistan Experience",
-        "episode": null,
-        "id": "FgvGYnfxKI0",
-        "source": "The Pakistan Experience",
-        "kind": "youtube",
-        "date": "2023-09-22"
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/iSsowAULHBM/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:32:18.575540+00:00"
       }
     ]
   }
