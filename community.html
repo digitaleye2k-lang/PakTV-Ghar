@@ -50,7 +50,9 @@
     <h3>Most visits by country <span>Last 30 days</span></h3>
     <div id="countryRows" class="country-rows"><p class="subtle">Visitor statistics will appear after analytics is connected.</p></div>
    </div>
-   <p class="privacy-note">Country estimates may be missing or inaccurate. We do not publicly show visitors' IP addresses or identities; a server temporarily processes network information to avoid counting repeat visits several times per day. <a href="./privacy.html">Read our privacy notice ↗</a></p>
+   <div class="visit-opt-in"><div><strong>Help us count visitors fairly</strong><p>Optional: count this browser's visit. The server briefly processes your network address and browser details to estimate a daily visit and country; they are not displayed publicly. If country detection is enabled, this may involve an external IP-to-country service.</p></div><button type="button" id="countVisit" class="secondary" disabled>Count my visit</button></div>
+   <p id="visitStatus" class="form-status" role="status"></p>
+   <p class="privacy-note">Counts include only visitors who opt in and are approximate. Some countries may display as Unknown. No visitors' names or IP addresses are published. <a href="./privacy.html">Read our privacy notice ↗</a></p>
   </section>
   <section id="chat" class="community-panel" data-community-panel="chat" aria-labelledby="chatTitle" hidden>
    <div class="section-kicker">PAKTV GHAR DISCUSSIONS</div>
@@ -74,10 +76,22 @@
     <div class="compose-bottom"><small>2–450 characters · 20-second cooldown · public to everyone</small><button id="chatSend" class="primary" type="submit" disabled>Post message →</button></div>
    </form>
    <p id="chatStatus" class="form-status" role="status"></p>
+   <div class="staff-login" id="staffLogin">
+    <details><summary>Moderator / site owner sign-in</summary>
+     <p class="subtle">Approved staff can use email sign-in to access moderation tools. This is separate from anonymous public chat.</p>
+     <form id="staffEmailForm"><label>Staff email address<input type="email" id="staffEmail" required placeholder="staff@example.com"></label><button class="secondary" type="submit" disabled>Send sign-in link</button></form>
+     <p id="staffLoginStatus" class="form-status" role="status"></p>
+    </details>
+   </div>
    <div id="moderatorTools" class="moderator-tools" hidden>
     <h3>Moderator review queue</h3><p class="subtle">Only verified moderators may review and hide reported messages.</p>
     <button id="moderatorRefresh" class="secondary" type="button">Refresh queue</button>
     <div id="moderatorQueue"></div>
+   </div>
+   <div id="ownerInbox" class="moderator-tools" hidden>
+    <h3>Private owner inbox</h3><p class="subtle">Contact messages, site reports and volunteer applications. Personal details are only visible to verified site owners.</p>
+    <button type="button" class="secondary" id="ownerInboxRefresh">Refresh private inbox</button>
+    <div id="privateInboxItems"></div>
    </div>
   </section>
   <section id="contact" class="community-panel" data-community-panel="contact" aria-labelledby="contactTitle" hidden>
