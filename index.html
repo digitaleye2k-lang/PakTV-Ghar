@@ -334,7 +334,9 @@ function hero(){
 function cinemaHeading(title,subtitle,link,label){
   return '<div class="cinema-heading"><div><h2>'+escapeHTML(title)+'</h2>'+
     (subtitle?'<p>'+escapeHTML(subtitle)+'</p>':'')+'</div>'+
-    (link?'<a href="#'+escapeHTML(link)+'">'+escapeHTML(label||'See all →')+'</a>':'')+'</div>';
+    '<div class="cinema-rail-actions"><button type="button" class="cinema-arrow" data-rail-scroll="-1" aria-label="Scroll '+escapeHTML(title)+' left">‹</button>'+
+    '<button type="button" class="cinema-arrow" data-rail-scroll="1" aria-label="Scroll '+escapeHTML(title)+' right">›</button>'+
+    (link?'<a href="#'+escapeHTML(link)+'">'+escapeHTML(label||'See all →')+'</a>':'')+'</div></div>';
 }
 function cinemaVideoRail(title,subtitle,videos,link){
   if(!videos.length)return '';
@@ -519,8 +521,8 @@ function changeSearch(input){state.query=input;clearTimeout(state.searchTimer);i
 function bindEvents(){el('searchInput').addEventListener('input',e=>changeSearch(e.target.value));el('searchInput').addEventListener('keydown',e=>{if(e.key==='Escape'&&e.target.value){e.target.value='';changeSearch('')}});el('topFavourites').addEventListener('click',()=>navTo('favourites'));el('languageButton').addEventListener('click',()=>{state.language=state.language==='en'?'ur':'en';safeSet('pgh_lang',state.language);paint();toast(state.language==='ur'?'زبان تبدیل ہو گئی':'Language changed')});el('closePlayer').addEventListener('click',closeVideo);el('playerOverlay').addEventListener('click',e=>{if(e.target.closest('[data-close]'))closeVideo()});el('playerFav').addEventListener('click',()=>{if(state.currentVideo)favVideo(state.currentVideo.id)});document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!el('playerOverlay').hidden)closeVideo();if(e.key==='/'&&document.activeElement?.tagName!=='INPUT'){e.preventDefault();el('searchInput').focus()}});document.addEventListener('click',e=>{const nav=e.target.closest('[data-nav]');if(nav){navTo(nav.dataset.nav);return}const vid=e.target.closest('[data-video]');if(vid){e.preventDefault();const v=pickVideo(vid.dataset.video);if(v)watchVideo(v);return}const vf=e.target.closest('[data-video-fav]');if(vf){favVideo(vf.dataset.videoFav);return}const cf=e.target.closest('[data-channel-fav]');if(cf){favChannel(cf.dataset.channelFav);return}const ch=e.target.closest('[data-channel]');if(ch){const c=fromChannel(ch.dataset.channel);if(c)openChannelVideos(c);return}const sh=e.target.closest('[data-show]');if(sh){const show=SHOWS.find(s=>s.id===sh.dataset.show);if(show)searchShow(show)}});window.addEventListener('hashchange',()=>{state.page=locationPage();paint();if(state.page==='show')loadEpisodes(0);window.scrollTo(0,0)})}
 
 // ── Expanded catalogue, verified episode picker, and Pakistan-time programme guide ──
-const networkName={hum:'HUM TV',arydigital:'ARY Digital',harpalgeo:'Har Pal Geo',greentv:'Green Entertainment',ptvhome:'PTV Home',expressent:'Express TV',ptvnews:'PTV News',samaa:'SAMAA TV',dunya:'Dunya News',geonews:'Geo News',arynews:'ARY News',expressnews:'Express News',pakexperience:'The Pakistan Experience'};
-const networkShort={hum:'HUM',arydigital:'ARY',harpalgeo:'GEO',greentv:'GREEN',ptvhome:'PTV',expressent:'EXPRESS',ptvnews:'PTV NEWS',samaa:'SAMAA',dunya:'DUNYA',geonews:'GEO',arynews:'ARY',expressnews:'EXPRESS'};
+const networkName={hum:'HUM TV',arydigital:'ARY Digital',harpalgeo:'Har Pal Geo',greentv:'Green Entertainment',ptvhome:'PTV Home',expressent:'Express TV',aajent:'Aaj Entertainment',ptvnews:'PTV News',aajnews:'Aaj TV',samaa:'SAMAA TV',dunya:'Dunya News',geonews:'Geo News',arynews:'ARY News',expressnews:'Express News',pakexperience:'The Pakistan Experience'};
+const networkShort={hum:'HUM',arydigital:'ARY',harpalgeo:'GEO',greentv:'GREEN',ptvhome:'PTV',expressent:'EXPRESS',aajent:'AAJ',ptvnews:'PTV NEWS',aajnews:'AAJ',samaa:'SAMAA',dunya:'DUNYA',geonews:'GEO',arynews:'ARY',expressnews:'EXPRESS'};
 const publisherSearch=(show,number)=>`https://www.youtube.com/results?search_query=${encodeURIComponent(show.name+' Episode '+(number||'')+' '+(networkName[show.network]||show.network)+' official full')}`;
 const broadcasterLink=(show)=>show.officialUrl||(show.network==='hum'?'https://hum.tv/dramas/':show.network==='arydigital'?'https://arydigital.tv/drama/':show.network==='harpalgeo'?'https://harpalgeo.tv/videos':show.network==='greentv'?'https://greenentertainment.tv/drama':show.network==='ptvhome'?'https://www.youtube.com/@PTVHomeEntertainment':show.network==='expressent'?'https://www.youtube.com/@expressentertainment':'https://www.youtube.com/');
 const showId=()=>decodeURIComponent(location.hash.slice(6));
@@ -566,7 +568,7 @@ function seriesCard(s){
 function renderLibrary(type){
   const isDrama=type==='dramas';
   const dramaNetworks=['hum','arydigital','harpalgeo','greentv','ptvhome','expressent'];
-  const availableNetworks=isDrama?dramaNetworks:['dunya','geonews','geohasna','p4pakao','hasbehaal','greentv'];
+  const availableNetworks=isDrama?dramaNetworks.concat(['aajent']):['dunya','geonews','geohasna','p4pakao','hasbehaal','greentv'];
   if(state.networkFilter!=='all'&&!availableNetworks.includes(state.networkFilter))state.networkFilter='all';
   let base=LIBRARY.filter(s=>isDrama?s.type==='drama':s.type==='comedy'||s.type==='satire'||s.type==='reality');
   if(state.networkFilter!=='all')base=base.filter(s=>s.network===state.networkFilter);
@@ -734,6 +736,16 @@ async function loadEpisodes(page=0){
   state.episodeList=listing;state.episodeLoading=false;paint();
 }
 function playIndexed(index){const item=state.episodeList[index];if(!item)return;if(item.id){if(item.availableGB===false||item.embeddable===false){window.open(videoURL(item.id),'_blank','noopener,noreferrer');toast(item.availableGB===false?'YouTube reports this upload may be blocked in the UK.':'Embedding disabled by publisher; opened YouTube.');return}const s=LIBRARY.find(x=>x.id===state.episodeLoadedFor);watchVideo({id:item.id,title:item.title,channel:item.source||networkName[s?.network]||'Official YouTube',channelId:s?.network,category:s?.type==='drama'?'dramas':'talk',date:item.date||'',description:'Found on the official channel or broadcaster website.'})}else if(item.url)window.open(item.url,'_blank','noopener,noreferrer')}
+// Cinema rail arrows are accessible controls for desktop and keyboard users.
+document.addEventListener('click',event=>{
+  const button=event.target.closest('[data-rail-scroll]');
+  if(!button)return;
+  const track=button.closest('.cinema-row')?.querySelector('.cinema-video-rail,.cinema-poster-rail,.cinema-channel-rail');
+  if(!track)return;
+  const direction=Number(button.dataset.railScroll)>=0?1:-1;
+  track.scrollBy({left:direction*Math.max(270,track.clientWidth*.8),
+    behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});
+});
 // Event delegation intentionally works after page re-renders.
 document.addEventListener('click',e=>{
   const period=e.target.closest('[data-archive-period]');
