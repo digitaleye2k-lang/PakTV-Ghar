@@ -20,7 +20,7 @@ CHANNELS = [
  {'id':'harpalgeo','name':'Har Pal Geo','handle':'HarPalGeoOfficial','category':'dramas','genre':'Dramas','channelId':'UCe9JSDmyqNgA_l2BzGHq1Ug'},
  {'id':'greentv','name':'Green Entertainment','handle':'GreenEntertainmentTV','category':'dramas','genre':'Dramas','channelId':'UCF2ltLX1dnPa6-L1paPaMzw'},
  {'id':'ptvhome','name':'PTV Home','handle':'PTVHomeEntertainment','category':'dramas','genre':'Classic & family dramas','channelId':'UCMfwlaPLGMn44BKvHv15yzA'},
- {'id':'expresstv','name':'Express TV','handle':'expressentertainment','category':'dramas','genre':'Dramas'},
+ {'id':'expressent','name':'Express TV','handle':'expressentertainment','category':'dramas','genre':'Dramas'},
  {'id':'ptvnews','name':'PTV News','handle':'PTVNewsOfficial','category':'news','genre':'News & politics'},
  {'id':'foodfusion','name':'Food Fusion','handle':'FoodfusionPk','category':'vloggers','genre':'Food & recipes'},
  {'id':'samaa','name':'SAMAA TV','handle':'SAMAATV','category':'news','genre':'News & politics'},
