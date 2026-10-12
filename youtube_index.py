@@ -171,7 +171,7 @@ def cached_entries(cache, now):
     return kept
 
 
-def index_api(shows, key, old_cache=None, transport=None, now=None):
+def index_api(shows, key, old_cache=None, transport=None, now=None, known_channel_ids=None):
     """Return (per-show episodes, cache, public stats), even on temporary failures.
 
     Uses Google search.list with an official channel ID resolved from the
@@ -199,6 +199,15 @@ def index_api(shows, key, old_cache=None, transport=None, now=None):
         return entries, cache, stats
 
     channels = dict(cache.get('channels') or {})
+    # Feed collector resolves each configured handle on youtube.com and reads
+    # its official channel ID from the publisher's public channel page.
+    # Reusing it avoids channel.list's redundant API request.
+    for network, cid in (known_channel_ids or {}).items():
+        if network in HANDLES and CHANNEL_ID.fullmatch(cid or ''):
+            channels[network] = {
+                'id': cid, 'handle': HANDLES[network],
+                'checkedAt': now.isoformat(), 'verifiedVia': 'youtube_official_page'
+            }
     channel_errors = set()
     for network, handle in HANDLES.items():
         record = channels.get(network) or {}
