@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-12T18:07:04.937589+00:00",
+  "generatedAt": "2026-10-12T18:08:44.181827+00:00",
   "dateTimezone": "UTC",
-  "cursor": 12,
+  "cursor": 24,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -84,28 +84,28 @@
       "uploadsId": "UUe9JSDmyqNgA_l2BzGHq1Ug",
       "handle": "HarPalGeoOfficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T17:59:30.761231+00:00"
+      "lastFetchedAt": "2026-10-12T18:08:44.181827+00:00"
     },
     "foodfusion": {
       "youtubeId": "UCuqBZWK9Wrol_4Y22DzisFQ",
       "uploadsId": "UUuqBZWK9Wrol_4Y22DzisFQ",
       "handle": "FoodfusionPk",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T18:00:45.245243+00:00"
+      "lastFetchedAt": "2026-10-12T18:08:44.181827+00:00"
     },
     "samaa": {
       "youtubeId": "UCJekW1Vj5fCVEGdye_mBN6Q",
       "uploadsId": "UUJekW1Vj5fCVEGdye_mBN6Q",
       "handle": "SAMAATV",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T18:00:45.245243+00:00"
+      "lastFetchedAt": "2026-10-12T18:08:44.181827+00:00"
     },
     "hasbehaal": {
       "youtubeId": "UCyiJNpF7RgpPhyeKc4wnQkg",
       "uploadsId": "UUyiJNpF7RgpPhyeKc4wnQkg",
       "handle": "hasbehaalofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T18:00:45.245243+00:00"
+      "lastFetchedAt": "2026-10-12T18:08:44.181827+00:00"
     },
     "pakexperience": {
       "youtubeId": "UC44l9XMwecN5nSgIF2Dvivg",
@@ -196,49 +196,49 @@
       "uploadsId": "UUF2ltLX1dnPa6-L1paPaMzw",
       "handle": "GreenEntertainmentTV",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-12T17:59:30.761231+00:00"
+      "lastFetchedAt": "2026-10-12T18:08:44.181827+00:00"
     },
     "ptvhome": {
       "youtubeId": "UCMfwlaPLGMn44BKvHv15yzA",
       "uploadsId": "UUMfwlaPLGMn44BKvHv15yzA",
       "handle": "PTVHomeEntertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-12T17:59:30.761231+00:00"
+      "lastFetchedAt": "2026-10-12T18:08:44.181827+00:00"
     },
     "expressent": {
       "youtubeId": "UCU1r97baEf3JJI5fY6NtMpA",
       "uploadsId": "UUU1r97baEf3JJI5fY6NtMpA",
       "handle": "expressentertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-12T17:59:30.761231+00:00"
+      "lastFetchedAt": "2026-10-12T18:08:44.181827+00:00"
     },
     "ptvnews": {
       "youtubeId": "UC5RvV_LtR1dxPCVFGw6dxXA",
       "uploadsId": "UU5RvV_LtR1dxPCVFGw6dxXA",
       "handle": "PTVNewsOfficial",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-12T17:59:30.761231+00:00"
+      "lastFetchedAt": "2026-10-12T18:08:44.181827+00:00"
     },
     "aajnews": {
       "youtubeId": "UCgBAPAcLsh_MAPvJprIz89w",
       "uploadsId": "UUgBAPAcLsh_MAPvJprIz89w",
       "handle": "aajtvofficial",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-12T18:00:45.245243+00:00"
+      "lastFetchedAt": "2026-10-12T18:08:44.181827+00:00"
     },
     "aajent": {
       "youtubeId": "UC2m98kh188cg_9x248IZM9A",
       "uploadsId": "UU2m98kh188cg_9x248IZM9A",
       "handle": "aajentertainment",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-12T18:00:45.245243+00:00"
+      "lastFetchedAt": "2026-10-12T18:08:44.181827+00:00"
     },
     "mooroo": {
       "youtubeId": "UC-rP-oFlxQGpSLYHBlhIWkg",
       "uploadsId": "UU-rP-oFlxQGpSLYHBlhIWkg",
       "handle": "mooroosicity",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-12T18:00:45.245243+00:00"
+      "lastFetchedAt": "2026-10-12T18:08:44.181827+00:00"
     }
   },
   "videos": [
@@ -297,6 +297,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "jRQ6dCTY0mE",
+      "title": "Tumhare Aage Hath Jodti Hoon, Meerub Ko Wapis Le Aao | 𝗛𝗮𝗿𝗼𝗼𝗻 𝗦𝗵𝗮𝗵𝗶𝗱 | 𝗔𝗿𝗲𝗲𝗷 𝗠𝗼𝗵𝘆𝘂𝗱𝗶𝗻 | Dorr",
+      "channel": "Express TV",
+      "channelId": "expressent",
+      "youtubeChannelId": "UCU1r97baEf3JJI5fY6NtMpA",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:00:31Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 123,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/jRQ6dCTY0mE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "yvvqmliDZ1I",
       "title": "I Love You Khushi, Mere Dil Mein Sirf Tum Ho..! ❤️ ft. Sumaiyya Bukhsh &  Mariam Ejaz - HUM TV",
       "channel": "HUM TV",
@@ -315,6 +333,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "cUmLb2jdYV0",
+      "title": "Hasna Mana Hai | Episode 210 | Ali Azmat With Tabish Hashmi | 12th October 2026 | Har Pal Geo",
+      "channel": "Har Pal Geo",
+      "channelId": "harpalgeo",
+      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
+      "category": "comedy",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:00:19Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2419,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/cUmLb2jdYV0/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "TpM1O0-x-XA",
       "title": "Arfa Ne Apne Baap Ko Sab Bata Dia...! #BombayTailors #humtv",
       "channel": "HUM TV",
@@ -330,6 +366,42 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/TpM1O0-x-XA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "FJQx2cpVmy0",
+      "title": "Saman Yaktarfa Mohabbat Bohat Dukh Deti Hai | Humayoun Ashraf - Sumaiyya Bukhsh | Madaar | Green TV",
+      "channel": "Green Entertainment",
+      "channelId": "greentv",
+      "youtubeChannelId": "UCF2ltLX1dnPa6-L1paPaMzw",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:00:10Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 102,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/FJQx2cpVmy0/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "J22En7dv4TE",
+      "title": "Mein Kisi Aur Se Pyar Karti Hun !! Danyal Zafar | Komal Meer | Hunain Shahid | Raqaas | Green TV",
+      "channel": "Green Entertainment",
+      "channelId": "greentv",
+      "youtubeChannelId": "UCF2ltLX1dnPa6-L1paPaMzw",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:00:07Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 96,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/J22En7dv4TE/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -613,7 +685,7 @@
       "date": "2026-10-12",
       "published": "2026-10-12T17:48:45Z",
       "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 191,
+      "durationSeconds": 180,
       "availableGB": true,
       "availablePK": true,
       "embeddable": true,
@@ -52245,6 +52317,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Dunya News: HTTP 404: playlistNotFound; Imran Riaz Khan: channel unavailable",
+  "lastError": "Junaid Akram: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
