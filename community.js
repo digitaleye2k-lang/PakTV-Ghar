@@ -20,6 +20,7 @@ function setReady(enabled){
   el("communitySetup").hidden=enabled;
   document.querySelectorAll("form button[type='submit']").forEach(b=>{b.disabled=!enabled;});
   el("chatRefresh").disabled=!enabled;
+  el("countVisit").disabled=!enabled;
 }
 function showTab(){
   const hash=location.hash.replace("#","");
@@ -87,15 +88,20 @@ async function stats(){
 }
 async function recordVisit(){
   if(!backend)return;
-  // This function receives IP addresses at the backend and discards them after
-  // hashing the day's visit. GeoIP is optional in the server configuration.
+  const button=el("countVisit");
+  button.disabled=true;status(el("visitStatus"),"Counting your visit, with your permission…");
   try{
-    await fetch(cfg.supabaseUrl.replace(/\/$/,"")+"/functions/v1/"+encodeURIComponent(cfg.analyticsFunction||"community-visit"),{
+    // Never record an identifiable visit without an explicit button press.
+    // A server processes IP/UA transiently to deduplicate daily visits.
+    const response=await fetch(cfg.supabaseUrl.replace(/\/$/,"")+"/functions/v1/"+encodeURIComponent(cfg.analyticsFunction||"community-visit"),{
       method:"POST",headers:{"Content-Type":"application/json","apikey":cfg.publishableKey},
-      body:"{}",cache:"no-store",keepalive:true,signal:AbortSignal.timeout(8000)
+      body:"{}",cache:"no-store",signal:AbortSignal.timeout(8500)
     });
-  }catch{/* public stats can still display if a count cannot be recorded */}
-  await stats();
+    if(!response.ok)throw Error("Visit recording unavailable");
+    status(el("visitStatus"),"Thanks! Your visit was counted approximately once for today.",true);
+    await stats();
+  }catch{status(el("visitStatus"),"Couldn't record this visit. You can still view the country statistics.");}
+  finally{button.disabled=false;}
 }
 function messageCard(item){
   const card=h("article","chat-message");
@@ -192,7 +198,14 @@ async function checkModerator(){
     moderator=!!data;
     el("moderatorTools").hidden=!moderator;
     if(moderator)await reviewQueue();
-  }catch{moderator=false;}
+    const {data:owner}=await backend.rpc("pgh_owner");
+    el("ownerInbox").hidden=!owner;
+    if(owner)await reviewInbox();
+  }catch{
+    moderator=false;
+    el("moderatorTools").hidden=true;
+    el("ownerInbox").hidden=true;
+  }
 }
 async function reviewQueue(){
   if(!moderator||!backend)return;
@@ -216,6 +229,54 @@ async function reviewQueue(){
     area.append(row);
   }
 }
+async function reviewInbox(){
+  if(!backend||el("ownerInbox").hidden)return;
+  const area=el("privateInboxItems");area.replaceChildren();
+  const {data,error}=await backend.rpc("pgh_private_inbox");
+  if(error){area.append(h("p","subtle","Could not load the private inbox."));return;}
+  if(!data?.length){area.append(h("p","subtle","No contact, report or moderator applications yet."));return;}
+  for(const item of data){
+    const row=h("div","moderator-item");
+    row.append(h("strong","",item.kind.toUpperCase()+" · "+item.subject));
+    row.append(h("p","",item.details));
+    row.append(h("p","subtle","From: "+(item.nickname||"anonymous")+" | Email: "+(item.email||"not provided")));
+    row.append(h("p","subtle","Submitted: "+new Date(item.created_at).toLocaleString()+" · "+item.status));
+    if(item.related_url){
+      const url=h("a","",item.related_url);
+      if(/^https:\/\//.test(item.related_url)){
+        url.href=item.related_url;url.target="_blank";url.rel="noopener noreferrer nofollow";
+        row.append(url);
+      }
+    }
+    for(const status of ["reviewing","resolved","rejected"]){
+      const button=h("button","secondary",status);
+      button.type="button";
+      button.addEventListener("click",async()=>{
+        const {error:e}=await backend.rpc("pgh_resolve_submission",{p_id:item.id,p_status:status});
+        if(!e)await reviewInbox();
+      });
+      row.append(button);
+    }
+    area.append(row);
+  }
+}
+async function staffSignin(event){
+  event.preventDefault();if(!backend)return;
+  const email=el("staffEmail").value.trim();
+  if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email))return;
+  const button=event.currentTarget.querySelector("button");
+  button.disabled=true;
+  status(el("staffLoginStatus"),"Requesting your staff sign-in link…");
+  try{
+    const {error}=await backend.auth.signInWithOtp({
+      email,
+      options:{shouldCreateUser:false,emailRedirectTo:location.origin+location.pathname+"#chat"}
+    });
+    if(error)throw error;
+    status(el("staffLoginStatus"),"If this email is registered for staff access, check its inbox for a secure sign-in link.",true);
+  }catch{status(el("staffLoginStatus"),"Sign-in request unavailable. Ask the site owner to invite your email in Supabase.");}
+  finally{button.disabled=false;}
+}
 async function initBackend(){
   if(!configured){setReady(false);return;}
   try{
@@ -227,10 +288,10 @@ async function initBackend(){
     });
     if(!window.supabase?.createClient)throw new Error("Supabase library unavailable");
     backend=window.supabase.createClient(cfg.supabaseUrl,cfg.publishableKey,{
-      auth:{persistSession:true,autoRefreshToken:true,detectSessionInUrl:false}
+      auth:{persistSession:true,autoRefreshToken:true,detectSessionInUrl:true}
     });
     setReady(true);
-    await Promise.allSettled([recordVisit(),loadChat(),checkModerator()]);
+    await Promise.allSettled([stats(),loadChat(),checkModerator()]);
   }catch{setReady(false);}
 }
 el("chatTopic").addEventListener("change",e=>{
@@ -238,6 +299,9 @@ el("chatTopic").addEventListener("change",e=>{
   if(topics.has(chosen)){chatRoom=chosen;void loadChat();}
 });
 el("chatRefresh").addEventListener("click",()=>void loadChat());
+el("countVisit").addEventListener("click",()=>void recordVisit());
+el("staffEmailForm").addEventListener("submit",staffSignin);
+el("ownerInboxRefresh").addEventListener("click",()=>void reviewInbox());
 el("chatForm").addEventListener("submit",sendMessage);
 el("moderatorRefresh").addEventListener("click",()=>void reviewQueue());
 for(const form of document.querySelectorAll(".intake-form"))form.addEventListener("submit",sendForm);
