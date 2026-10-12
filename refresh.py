@@ -8,7 +8,7 @@ from pathlib import Path
 from urllib.parse import quote, urlencode, urljoin, urlparse
 from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
-import json, re, xml.etree.ElementTree as ET
+import json, re, xml.etree.ElementTree as ET, os
 
 HERE=Path(__file__).resolve().parent
 (HERE/'data').mkdir(exist_ok=True)
@@ -246,7 +246,6 @@ def main():
  old=readold('videos.json',{}).get('videos',[])
  unique={v['id']:v for v in old+latest if re.fullmatch(r'[A-Za-z0-9_-]{11}',v.get('id',''))}
  videos=sorted(unique.values(),key=lambda x:x.get('published',''),reverse=True)[:240]
- write('videos.json',{'videos':videos,'mode':'feeds'})
  episodes={}
  bad=re.compile(r'\b(teaser|promo|ost|reaction|preview|trailer|review|best scenes)\b',re.I)
  exp=re.compile(r'\b(?:episode|ep\.?)[\s:#-]*(\d{1,4})\b',re.I)
@@ -259,12 +258,47 @@ def main():
    if show['type']=='drama' and not ep:continue
    matched.append({'title':v['title'],'episode':int(ep.group(1)) if ep else None,'id':v['id'],'source':v['channel'],'kind':'youtube','date':v['date']})
   if matched:episodes[show['id']]={'episodes':sorted(matched,key=lambda x:(x['episode'] or 0,x['date']),reverse=True)[:50]}
+ # YouTube Data API indexing is optional, only through a GitHub Actions secret.
+ # API results are restricted to verified channel IDs and checked video records.
+ from youtube_index import index_api
+ index,yt_cache,yt_stats=index_api(
+     shows,os.environ.get('YOUTUBE_API_KEY','').strip(),
+     readold('youtube-state.json',{}))
+ write('youtube-state.json',yt_cache)
+ api_videos=[]
+ for sid,items in index.items():
+  for ep in items:
+   if ep.get('sourceType')!='youtube_api':continue
+   api_videos.append({'id':ep['id'],'title':ep['title'],
+      'channel':ep.get('source','Official YouTube'),
+      'channelId':ep.get('channelId',''),
+      'category':'dramas','date':ep.get('date',''),
+      'published':ep.get('published',''),
+      'description':'Verified broadcaster-channel upload',
+      'availableGB':ep.get('availableGB'),
+      'availablePK':ep.get('availablePK'),
+      'embeddable':ep.get('embeddable',True)})
+  current=episodes.get(sid,{}).get('episodes',[])
+  by_id={e['id']:e for e in current if e.get('id')}
+  for ep in items:by_id[ep['id']]=ep
+  episodes[sid]={'episodes':sorted(by_id.values(),
+     key=lambda e:(e.get('episode') or 0,e.get('date') or ''),
+     reverse=True)[:100]}
  write('episodes.json',episodes)
+ combined={v['id']:v for v in videos}
+ for v in api_videos:combined[v['id']]=v
+ all_videos=list(combined.values())
+ videos=sorted(all_videos,key=lambda v:v.get('published',''),reverse=True)[:240]
+ write('videos.json',{'videos':videos,'mode':'youtube' if yt_stats['newVideos'] else 'feeds'})
  result=schedule(shows)
  write('schedule.json',result)
  from show_metadata import build_metadata
- metadata=build_metadata(shows,videos,result,get,readold('show-meta.json',{}).get('shows',{}))
+ metadata=build_metadata(shows,all_videos,result,get,readold('show-meta.json',{}).get('shows',{}))
  write('show-meta.json',metadata)
  write('discover.json',{'shows':[],'errors':[]})
- print('Published',len(videos),'videos,',len(episodes),'programme indexes,',len(result['items']),'schedule entries,',len(metadata['shows']),'show metadata entries')
+ print('Published',len(videos),'videos,',len(episodes),'programme indexes,',
+       len(result['items']),'schedule entries,',len(metadata['shows']),'show metadata entries')
+ print('YouTube API enabled:',yt_stats['enabled'],'searches:',yt_stats['searches'],
+       'verified video hits:',yt_stats['newVideos'],'cached shows:',yt_stats['indexedShows'],
+       'status:',yt_stats['error'] or 'OK')
 if __name__=='__main__':main()
