@@ -118,6 +118,11 @@ main{width:100%;max-width:1700px;margin:0 auto;padding:30px clamp(20px,4.5vw,78p
 .section-head h2,.cinema-heading h2{font-size:clamp(21px,2.3vw,29px);letter-spacing:-.045em;color:#f8f8fa;font-weight:850}
 .cinema-heading{display:flex;align-items:end;justify-content:space-between;gap:18px}
 .cinema-heading p{margin:4px 0 0;color:#b8b9c4;font-size:13px;line-height:1.5}
+.cinema-rail-actions{display:flex;gap:8px;align-items:center;flex:none}
+.cinema-arrow{width:34px;height:34px;border-radius:8px;border:1px solid #ffffff30;background:#252630;color:#fff;font-size:26px;line-height:1;display:grid;place-items:center}
+.cinema-arrow:hover{background:#ff5964;border-color:#ff6674}
+.cinema-arrow:focus-visible{outline:3px solid #ffc0c8;outline-offset:3px}
+.cinema-rail-actions a{margin-left:9px}
 .cinema-heading a,.text-link{color:#e2e3e8;font-size:12px;font-weight:850}
 .cinema-heading a:hover,.text-link:hover{color:#ff7b88}
 .cinema-row{margin:12px 0 28px}
@@ -170,7 +175,7 @@ main{width:100%;max-width:1700px;margin:0 auto;padding:30px clamp(20px,4.5vw,78p
 .series-desc .series-latest{color:#f9a1a8;font-size:11px}
 .series-tag{color:#aeb3c0}
 .series-action{color:#f2c9cb;font-weight:850;font-size:12px}
-.series-fav{top:calc(clamp(174px,19vw,277px) + 6px);background:#15151ecf}
+.series-fav{top:auto;bottom:89px;right:9px;background:#15151ecf}
 .channel-grid{gap:14px}
 .channel-card{
  background:linear-gradient(150deg,#1a1b21,#111216);
@@ -234,6 +239,8 @@ main{width:100%;max-width:1700px;margin:0 auto;padding:30px clamp(20px,4.5vw,78p
  .cinema-heading{margin:23px 0 6px}
  .cinema-heading h2,.section-head h2{font-size:21px}
  .cinema-heading p{font-size:11px;max-width:290px}
+ .cinema-arrow{display:none}
+ .cinema-rail-actions a{margin-left:0}
  .cinema-video-rail .video-card{flex-basis:224px}
  .cinema-poster-rail .series-card{flex-basis:155px}
  .cinema-channel-rail .channel-card{flex-basis:195px}
@@ -242,8 +249,8 @@ main{width:100%;max-width:1700px;margin:0 auto;padding:30px clamp(20px,4.5vw,78p
  .cinema-poster-rail .series-poster{height:auto;min-height:207px}
  .series-desc{padding:11px}
  .series-desc h3{font-size:14px}
- .series-fav{top:213px}
- .series-grid .series-fav{top:calc(100% - 91px);right:7px}
+ .series-fav{top:auto;bottom:89px}
+ .series-grid .series-fav{top:auto;bottom:89px;right:7px}
  .video-body h3{font-size:12px;min-height:34px}
  .channel-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
  .cinema-video-rail,.cinema-poster-rail,.cinema-channel-rail{gap:10px}
