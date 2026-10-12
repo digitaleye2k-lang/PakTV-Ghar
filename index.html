@@ -100,6 +100,7 @@
   <link rel="stylesheet" href="./cinema.css">
   <link rel="stylesheet" href="./spotlight.css">
   <link rel="stylesheet" href="./movies.css">
+  <link rel="stylesheet" href="./header-layout.css">
   <link rel="stylesheet" href="./cookie-consent.css">
 </head>
 <body>
@@ -111,22 +112,32 @@
     </a>
     <div class="sidebar-label">YOUR ENTERTAINMENT</div>
     <nav class="main-nav" id="sideNav"></nav>
-    <div class="sidebar-bottom">
-      <div class="side-tip"><span class="tip-icon">✨</span><strong>Made for easy watching</strong><p>Big buttons, trusted channels and everything in one place.</p></div>
-      <button type="button" id="languageButton" class="language-button">🌐 <span>اردو / English</span></button>
-    </div>
   </aside>
 
   <div class="content-area">
-    <header class="topbar">
-      <a href="#home" class="mobile-brand"><span class="brand-icon">▶</span><strong>PakTV <em>Ghar</em></strong></a>
-      <div class="search-shell">
-        <span class="search-icon" aria-hidden="true"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="10.8" cy="10.8" r="6.8"/><path d="m16 16 5 5"/></svg></span>
-        <input id="searchInput" type="search" autocomplete="off" aria-label="Search for Pakistani dramas, shows, news or YouTubers" placeholder="Search dramas, political shows, YouTubers..." />
-        <span class="search-shortcut" aria-hidden="true">⌕</span>
+    <header class="topbar" aria-label="Search and account preferences">
+      <a href="#home" class="mobile-brand" aria-label="PakTV Ghar home"><span class="brand-icon" aria-hidden="true">▶</span><strong>PakTV <em>Ghar</em></strong></a>
+      <div class="topbar-search">
+        <label class="search-shell" for="searchInput">
+          <span class="search-icon" aria-hidden="true"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="10.8" cy="10.8" r="6.8"/><path d="m16 16 5 5"/></svg></span>
+          <input id="searchInput" type="search" autocomplete="off" aria-label="Search Pakistani dramas, movies, news, shows or YouTubers" placeholder="Search dramas, movies, videos & more..." />
+          <span class="search-shortcut" aria-hidden="true">/</span>
+        </label>
       </div>
-      <button type="button" class="top-favs" data-privacy-settings aria-label="Manage privacy and cookie settings">⚙ <span>Privacy</span></button>
-      <button type="button" class="top-favs" id="topFavourites" aria-label="See favourites">♡ <span>Favourites</span></button>
+      <div class="topbar-actions" role="group" aria-label="Quick settings">
+        <button type="button" class="header-action header-favourites" id="topFavourites" aria-label="Open your favourites" title="Favourites">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1.1-1.1a5.5 5.5 0 0 0-7.8 7.8L12 21l8.8-8.6a5.5 5.5 0 0 0 0-7.8Z"/></svg>
+          <span class="header-action-label">Favourites</span>
+        </button>
+        <button type="button" class="header-action header-privacy" data-privacy-settings aria-label="Manage privacy and cookie settings" title="Privacy &amp; cookies">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/><path d="m9 12 2 2 4-4"/></svg>
+          <span class="header-action-label">Privacy</span>
+        </button>
+        <button type="button" id="languageButton" class="header-action header-language" aria-label="Change language between English and Urdu" title="Switch language">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18"/></svg>
+          <span class="header-action-label">EN / اردو</span>
+        </button>
+      </div>
     </header>
 
     <!-- Advertising stays completely off until consent is recorded. -->
@@ -688,7 +699,7 @@ ${videos.length?`${sectionHead('Videos',`${videos.length} available result${vide
 ${shows.length?`${sectionHead('Political & TV shows','Search for a specific programme by name.')}<div class="channel-grid">${shows.map(showCard).join('')}</div>`:''}
 ${channels.length?`${sectionHead('Channels & YouTubers','Browse videos or open the publisher.')}<div class="channel-grid">${channels.map(channelCard).join('')}</div>`:''}
 ${q&&!any&&!state.searchLoading?`<div class="empty-state"><div class="empty-emoji">🔎</div><h3>No matching videos in this catalogue</h3><p>For a full YouTube search, use the button below. Or try a shorter search, like “Humsafar”, “Capital Talk” or “Geo”.</p><a class="btn-primary" href="${escapeHTML(searchYouTube(q))}" target="_blank" rel="noopener noreferrer">Search YouTube ↗</a></div>`:''}`}
-function paint(){renderNav();el('mainContent').innerHTML=state.page==='home'?renderHome():state.page==='today'?renderToday():state.page==='show'?renderShowPage():state.page==='movies'?renderMovies():state.page==='archive'?renderArchive():state.page==='favourites'?renderFavourites():state.page==='search'?renderSearch():renderCategory(state.page);updateSpotlightTimer();if(state.page==='search'){el('searchInput').value=state.query}document.documentElement.lang=state.language==='ur'?'ur':'en';const s=el('searchInput');s.placeholder=state.language==='ur'?'ڈرامے، خبریں، ٹاک شوز، یوٹیوبرز تلاش کریں...':'Search dramas, political shows, YouTubers...'}
+function paint(){renderNav();el('mainContent').innerHTML=state.page==='home'?renderHome():state.page==='today'?renderToday():state.page==='show'?renderShowPage():state.page==='movies'?renderMovies():state.page==='archive'?renderArchive():state.page==='favourites'?renderFavourites():state.page==='search'?renderSearch():renderCategory(state.page);updateSpotlightTimer();if(state.page==='search'){el('searchInput').value=state.query}document.documentElement.lang=state.language==='ur'?'ur':'en';const s=el('searchInput');s.placeholder=state.language==='ur'?'ڈرامے، خبریں، ٹاک شوز، یوٹیوبرز تلاش کریں...':'Search dramas, movies, videos & more...'}
 function toast(message){el('toast').textContent=message;el('toast').classList.add('show');clearTimeout(state.toastTimer);state.toastTimer=setTimeout(()=>el('toast').classList.remove('show'),2200)}
 function favVideo(id){const set=new Set(state.favoriteVideos);const v=pickVideo(id);if(set.has(id)){set.delete(id);delete state.savedVideoData[id]}else{set.add(id);if(v)state.savedVideoData[id]=v}state.favoriteVideos=[...set];safeSet('pgh_video_favs',state.favoriteVideos);safeSet('pgh_video_data',state.savedVideoData);toast(set.has(id)?'Video saved to favourites ♥':'Video removed from favourites');if(state.currentVideo?.id===id)el('playerFav').textContent=set.has(id)?'♥ Saved':'♡ Save';paint()}
 function favChannel(id){const set=new Set(state.favoriteChannels);set.has(id)?set.delete(id):set.add(id);state.favoriteChannels=[...set];safeSet('pgh_channel_favs',state.favoriteChannels);toast(set.has(id)?'Channel added to favourites ♥':'Channel unpinned');paint()}
