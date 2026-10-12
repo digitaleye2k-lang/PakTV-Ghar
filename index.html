@@ -569,20 +569,22 @@ function renderHome(){
 function feedSection(vids){if(vids.length)return `<div class="media-grid">${vids.slice(0,8).map(videoCard).join('')}</div>`;return `<div class="notice-box" id="latestNotice"><span class="status-pill ${state.backend?'live':''}"><span class="mini-dot"></span>${state.feedLoading?'Fetching recent uploads…':state.backend?'Recent official uploads indexed':'Starter library available'}</span> &nbsp; ${state.feedLoading?'Loading videos from official channels.':state.backend?'Recent uploads are temporarily unavailable. You can still browse the channels below.':'New uploads appear after scheduled updates. Browse the official channels if listings are currently unavailable.'}</div>`}
 function renderInfo(){return `<div class="notice-box">💡 <b>Watching from outside Pakistan?</b> YouTube decides which videos play in each country, and individual publishers can disable embeds. If an embedded player is unavailable, use <b>Open on YouTube</b>. This site does not silently switch your VPN or bypass restrictions.</div>`}
 
-const FEATURED_MOVIE={
-  id:'htZXQ5wIxAg',
-  title:'Sharpasand — Full Movie | Naumaan Ijaz · Hareem Farooq · Hira Mani | ARY Films',
-  channel:'ARY Films',channelId:'aryfilms',category:'movies',
-  date:'2026-08-13',published:'2026-08-13T00:00:00Z',
-  description:'A full-length movie edition published on the ARY Films YouTube channel. Streaming and region availability depend on YouTube.'
-};
+const FEATURED_MOVIES=[
+ {id:'htZXQ5wIxAg',title:'Sharpasand — Full Movie | Naumaan Ijaz · Hareem Farooq · Hira Mani | ARY Films',date:'2026-08-13'},
+ {id:'qHaUmAGJl0s',title:'Neeli Zinda Hai — Full Movie | Urwa Hocane · Mohib Mirza | ARY Films',date:'2026-08-23'},
+ {id:'rQlXffmfNVA',title:'Main Manto Nahi Hoon — Full Movie | Humayun Saeed · Sajal Aly | ARY Films',date:'2026-07-05'},
+ {id:'XOTBrzyhZyo',title:'Kabhi Main Kabhi Tum — Full Movie Edition | Hania Aamir · Fahad Mustafa | ARY Films',date:'2026-06-07'}
+].map(v=>({...v,channel:'ARY Films',channelId:'aryfilms',category:'movies',
+  published:v.date+'T00:00:00Z',
+  description:'Full-length edition shared on the verified ARY Films YouTube channel. May be an edited drama serial rather than a theatrical film.'}));
+const FEATURED_MOVIE=FEATURED_MOVIES[0];
 function movieVideos(){
   // Include only full-length titles from the checked publishers; never mix
   // in trailers, music tracks, short clips or arbitrary reuploads.
   const verified=uniqueVideos([...state.archiveVideos,...state.feed].filter(v=>
     v.category==='movies'&&Number(v.durationSeconds)>=3600&&
     v.embeddable!==false&&v.availableGB!==false));
-  return uniqueVideos([...verified,FEATURED_MOVIE]).sort((a,b)=>
+  return uniqueVideos([...verified,...FEATURED_MOVIES]).sort((a,b)=>
     (b.published||b.date||'').localeCompare(a.published||a.date||''));
 }
 function renderMovies(){
@@ -690,7 +692,7 @@ function paint(){renderNav();el('mainContent').innerHTML=state.page==='home'?ren
 function toast(message){el('toast').textContent=message;el('toast').classList.add('show');clearTimeout(state.toastTimer);state.toastTimer=setTimeout(()=>el('toast').classList.remove('show'),2200)}
 function favVideo(id){const set=new Set(state.favoriteVideos);const v=pickVideo(id);if(set.has(id)){set.delete(id);delete state.savedVideoData[id]}else{set.add(id);if(v)state.savedVideoData[id]=v}state.favoriteVideos=[...set];safeSet('pgh_video_favs',state.favoriteVideos);safeSet('pgh_video_data',state.savedVideoData);toast(set.has(id)?'Video saved to favourites ♥':'Video removed from favourites');if(state.currentVideo?.id===id)el('playerFav').textContent=set.has(id)?'♥ Saved':'♡ Save';paint()}
 function favChannel(id){const set=new Set(state.favoriteChannels);set.has(id)?set.delete(id):set.add(id);state.favoriteChannels=[...set];safeSet('pgh_channel_favs',state.favoriteChannels);toast(set.has(id)?'Channel added to favourites ♥':'Channel unpinned');paint()}
-function pickVideo(id){return uniqueVideos([...state.searchResults,...state.archiveVideos,...state.feed,FEATURED_MOVIE,...SEED_VIDEOS,...Object.values(state.savedVideoData)]).find(v=>v.id===id)}
+function pickVideo(id){return uniqueVideos([...state.searchResults,...state.archiveVideos,...state.feed,...FEATURED_MOVIES,...SEED_VIDEOS,...Object.values(state.savedVideoData)]).find(v=>v.id===id)}
 let youtubeAPILoading=false;
 function loadPlayerApi(){if(youtubeAPILoading||window.YT?.Player)return;youtubeAPILoading=true;const script=document.createElement('script');script.src='https://www.youtube.com/iframe_api';script.async=true;document.head.appendChild(script)}
 window.onYouTubeIframeAPIReady=()=>{state.ytLoaded=true;if(state.currentVideo)installIframePlayer(state.currentVideo.id)};
