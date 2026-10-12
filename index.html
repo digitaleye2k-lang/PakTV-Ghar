@@ -101,6 +101,7 @@
   <link rel="stylesheet" href="./spotlight.css">
   <link rel="stylesheet" href="./movies.css">
   <link rel="stylesheet" href="./header-layout.css">
+  <link rel="stylesheet" href="./site-visitors.css">
   <link rel="stylesheet" href="./cookie-consent.css">
 </head>
 <body>
@@ -569,6 +570,10 @@ function renderHome(){
     '<a class="quick-tile community-home-tile" href="./community.html#chat"><span class="quick-emoji">💬</span><span class="quick-name">Community chat</span></a>'+
     '<a class="quick-tile community-home-tile" href="./community.html#visitors"><span class="quick-emoji">🌍</span><span class="quick-name">Visitor countries</span></a>'+
     '</div>'+
+    '<section class="home-world-widget" aria-label="Visitor countries"><div class="home-world-symbol" aria-hidden="true">🌍</div>'+
+    '<div class="home-world-info"><strong>PakTV Ghar around the world</strong><span><b id="homeVisitCount">—</b> optional counted visits · <b id="homeCountryTop">Countries coming soon</b></span></div>'+
+    '<div class="home-world-actions"><button id="homeCountVisit" type="button" disabled title="Optional anonymous daily visitor count">Count my visit</button>'+
+    '<a href="./community.html#visitors">View country rankings →</a></div><p id="homeVisitStatus" class="home-visit-status" role="status"></p></section>'+
     cinemaVideoRail('Movie night · Full-length films','Publisher films and movie-length TV editions from Pakistani YouTube sources.',movieVideos().slice(0,9),'movies')+
     cinemaPosterRail('Featured Pakistani dramas','Find your next binge from original broadcasters.',spotlight,'dramas')+
     cinemaVideoRail('Freshly uploaded','New videos from multiple Pakistani channels.',fresh,'archive')+
