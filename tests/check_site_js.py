@@ -41,7 +41,7 @@ for required in ('@media(prefers-reduced-motion:reduce)', '.spotlight-slide',
     if required not in css:
         raise SystemExit('Spotlight stylesheet missing: ' + required)
 # Single-instance header controls must stay together in the sticky toolbar.
-header_match = re.search(r'<header class="topbar"[^>]*>([\\s\\S]*?)</header>', page)
+header_match = re.search(r'<header class="topbar"[^>]*>([\s\S]*?)</header>', page)
 if not header_match:
     raise SystemExit('Top search and settings header missing')
 header = header_match.group(1)
