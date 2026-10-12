@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-12T17:38:37.259347+00:00",
+  "generatedAt": "2026-10-12T17:39:21.922961+00:00",
   "dateTimezone": "UTC",
-  "cursor": 4,
+  "cursor": 16,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -42,63 +42,63 @@
       "uploadsId": "UUQexaAjPn3-1MCE4DmBK3Tg",
       "handle": "villagefoodsecrets",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T17:35:29.566345+00:00"
+      "lastFetchedAt": "2026-10-12T17:39:21.922961+00:00"
     },
     "geohasna": {
       "youtubeId": "UC6HQ4d3xq9EgSeJgMhc-4AQ",
       "uploadsId": "UU6HQ4d3xq9EgSeJgMhc-4AQ",
       "handle": "GeoHasnaManaHai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T17:35:29.566345+00:00"
+      "lastFetchedAt": "2026-10-12T17:39:21.922961+00:00"
     },
     "streetfoodpk": {
       "youtubeId": "UCt8NJjYKc2aT3T0TnbcWxSw",
       "uploadsId": "UUt8NJjYKc2aT3T0TnbcWxSw",
       "handle": "streetfoodpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T17:35:29.566345+00:00"
+      "lastFetchedAt": "2026-10-12T17:39:21.922961+00:00"
     },
     "hum": {
       "youtubeId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
       "uploadsId": "UUEeEQxm6qc_qaTE7qTV5aLQ",
       "handle": "HUMTV",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T17:35:29.566345+00:00"
+      "lastFetchedAt": "2026-10-12T17:39:21.922961+00:00"
     },
     "arydigital": {
       "youtubeId": "UC4JCksJF76g_MdzPVBJoC3Q",
       "uploadsId": "UU4JCksJF76g_MdzPVBJoC3Q",
       "handle": "ARYDigitalasia",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T17:35:29.566345+00:00"
+      "lastFetchedAt": "2026-10-12T17:39:21.922961+00:00"
     },
     "sabir": {
       "youtubeId": "UCY7eFg5TEMsk_aTqM0pVB4w",
       "uploadsId": "UUY7eFg5TEMsk_aTqM0pVB4w",
       "handle": "sabirshakirpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T17:35:29.566345+00:00"
+      "lastFetchedAt": "2026-10-12T17:39:21.922961+00:00"
     },
     "harpalgeo": {
       "youtubeId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
       "uploadsId": "UUe9JSDmyqNgA_l2BzGHq1Ug",
       "handle": "HarPalGeoOfficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T17:35:29.566345+00:00"
+      "lastFetchedAt": "2026-10-12T17:39:21.922961+00:00"
     },
     "foodfusion": {
       "youtubeId": "UCuqBZWK9Wrol_4Y22DzisFQ",
       "uploadsId": "UUuqBZWK9Wrol_4Y22DzisFQ",
       "handle": "FoodfusionPk",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T17:35:29.566345+00:00"
+      "lastFetchedAt": "2026-10-12T17:39:21.922961+00:00"
     },
     "samaa": {
       "youtubeId": "UCJekW1Vj5fCVEGdye_mBN6Q",
       "uploadsId": "UUJekW1Vj5fCVEGdye_mBN6Q",
       "handle": "SAMAATV",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-12T17:37:38.412772+00:00"
+      "lastFetchedAt": "2026-10-12T17:39:21.922961+00:00"
     },
     "hasbehaal": {
       "youtubeId": "UCyiJNpF7RgpPhyeKc4wnQkg",
@@ -194,6 +194,24 @@
   },
   "videos": [
     {
+      "id": "o3CSRUVZhfA",
+      "title": "Arfa Ki Haqiqat Aur Saifi Ki Taraqi Sab Samne Aa Gaya...! #BombayTailors #humtv",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T17:38:30Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 289,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/o3CSRUVZhfA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "9vE1tf3muXA",
       "title": "Punjab Governor Makes a Major Statement | Breaking News | Geo News",
       "channel": "Geo News",
@@ -209,6 +227,78 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/9vE1tf3muXA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "okcYW-46Jrc",
+      "title": "Ye Miss Rosy Kon Hai Mujhe Jawab Do..! #BombayTailors #humtv",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T17:35:26Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 289,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/okcYW-46Jrc/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "5J1_Ukz9ses",
+      "title": "Mahrukh Khudakshi Karne Kyu Ja Rahi Hai..?? Bombay Tailors - ft.Anika Zulfikar - HUM TV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T17:35:26Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 520,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/5J1_Ukz9ses/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "A7a5OAUFjQE",
+      "title": "Khushi Aur Saim Mein Darar Dalne Ki Hamna Ki Agli Chaal! ft. Sumaiyya Bukhsh &  Mariam Ejaz - HUM TV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T17:35:11Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 251,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/A7a5OAUFjQE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "6WwPhkEAMYw",
+      "title": "Rosy Naam Nahi Brand Hai Brand..! #BombayTailors #humtv",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-12",
+      "published": "2026-10-12T17:35:11Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 191,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/6WwPhkEAMYw/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -487,7 +577,7 @@
       "channel": "SAMAA TV",
       "channelId": "samaa",
       "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
+      "category": "talk",
       "genre": "News & politics",
       "date": "2026-10-12",
       "published": "2026-10-12T17:15:04Z",
@@ -757,7 +847,7 @@
       "channel": "SAMAA TV",
       "channelId": "samaa",
       "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
+      "category": "talk",
       "genre": "News & politics",
       "date": "2026-10-12",
       "published": "2026-10-12T17:00:03Z",
@@ -811,7 +901,7 @@
       "channel": "SAMAA TV",
       "channelId": "samaa",
       "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
+      "category": "talk",
       "genre": "News & politics",
       "date": "2026-10-12",
       "published": "2026-10-12T16:58:33Z",
@@ -883,7 +973,7 @@
       "channel": "SAMAA TV",
       "channelId": "samaa",
       "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
+      "category": "talk",
       "genre": "News & politics",
       "date": "2026-10-12",
       "published": "2026-10-12T16:54:50Z",
@@ -1009,7 +1099,7 @@
       "channel": "SAMAA TV",
       "channelId": "samaa",
       "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
+      "category": "talk",
       "genre": "News & politics",
       "date": "2026-10-12",
       "published": "2026-10-12T16:45:28Z",
@@ -1117,7 +1207,7 @@
       "channel": "SAMAA TV",
       "channelId": "samaa",
       "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
+      "category": "talk",
       "genre": "News & politics",
       "date": "2026-10-12",
       "published": "2026-10-12T16:33:45Z",
@@ -1153,7 +1243,7 @@
       "channel": "SAMAA TV",
       "channelId": "samaa",
       "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
+      "category": "talk",
       "genre": "News & politics",
       "date": "2026-10-12",
       "published": "2026-10-12T16:30:10Z",
@@ -1711,7 +1801,7 @@
       "channel": "SAMAA TV",
       "channelId": "samaa",
       "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
+      "category": "talk",
       "genre": "News & politics",
       "date": "2026-10-12",
       "published": "2026-10-12T16:03:56Z",
@@ -2917,7 +3007,7 @@
       "channel": "SAMAA TV",
       "channelId": "samaa",
       "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
+      "category": "talk",
       "genre": "News & politics",
       "date": "2026-10-12",
       "published": "2026-10-12T14:27:36Z",
@@ -3642,7 +3732,7 @@
       "date": "2026-10-12",
       "published": "2026-10-12T13:27:46Z",
       "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 14635,
+      "durationSeconds": 14665,
       "availableGB": true,
       "availablePK": true,
       "embeddable": true,
@@ -42368,6 +42458,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Siddique Jaan: channel unavailable; HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable",
+  "lastError": "Dunya News: HTTP 404: playlistNotFound; Imran Riaz Khan: channel unavailable; Junaid Akram: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
