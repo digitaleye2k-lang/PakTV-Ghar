@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T22:20:29.818582+05:00",
+  "generatedAt": "2026-10-12T22:29:53.922107+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "tvToday": {
@@ -14,7 +14,17 @@
       "posterSource": "Official broadcaster",
       "latestPublisherEpisode": 4,
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
-      "latestPublisherSource": "https://harpalgeo.tv/program/Mohabbat"
+      "latestPublisherSource": "https://harpalgeo.tv/program/Mohabbat",
+      "latestUpload": {
+        "number": 5,
+        "id": "Kc6JezV_1oY",
+        "title": "Mohabbat Episode 05 [Eng Sub] Feroze Khan - Nawal Saeed | 12th October 2026 - HAR PAL GEO",
+        "date": "2026-10-12",
+        "source": "Official YouTube upload",
+        "availableGB": false,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "harpalgeo-nashtar": {
       "tvToday": {
@@ -29,7 +39,17 @@
       "posterSource": "Official broadcaster",
       "latestPublisherEpisode": 18,
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
-      "latestPublisherSource": "https://harpalgeo.tv/program/Nashtar"
+      "latestPublisherSource": "https://harpalgeo.tv/program/Nashtar",
+      "latestUpload": {
+        "number": 18,
+        "id": "ZsWUGhmQ0bU",
+        "title": "Nashtar Episode 18 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
+        "date": "2026-10-11",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "harpalgeo-kaisa-yeh-ishq": {
       "tvToday": {
@@ -61,7 +81,19 @@
         "source": "https://harpalgeo.tv/schedule",
         "date": "2026-10-12"
       },
-      "lastAttempt": "2026-10-12T20:10:58.606287+05:00"
+      "lastAttempt": "2026-10-12T20:10:58.606287+05:00",
+      "latestUpload": {
+        "number": 20,
+        "id": "7mpQfSZvLZE",
+        "title": "Uswah Episode 20 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 12th October 2026",
+        "date": "2026-10-12",
+        "source": "Official YouTube upload",
+        "availableGB": false,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/7mpQfSZvLZE/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-khafa": {
       "tvToday": {
@@ -80,7 +112,17 @@
     },
     "hum-aangan": {
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Aangan-500.jpg.jpg",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 4,
+        "id": "K1SHRLAXBuE",
+        "title": "Aangan - Episode 04 - Highlight [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
+        "date": "2026-10-11",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "harpalgeo-bano": {
       "lastAttempt": "2026-10-12T20:10:58.067590+05:00",
