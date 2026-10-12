@@ -84,10 +84,15 @@ def show_meta(args,fetch,old,known_images):
     if result.get('poster') and result.get('posterSource','')=='Official broadcaster':
         return s['id'],result
     page=s.get('officialUrl','')
+    if not page and s['network']=='arydigital':
+        page='https://arydigital.tv/drama/'+s['id'].removeprefix('arydigital-')+'/'
+    if not page and s['network']=='harpalgeo':
+        page='https://harpalgeo.tv/program/'+s['name'].replace(' ','%20')
+    result['lastAttempt']=datetime.now(ZoneInfo('Asia/Karachi')).isoformat()
     try:
         u=urlsplit(page)
         if not any(u.hostname==host or u.hostname=='www.'+host for host in OFFICIAL_HOSTS):return s['id'],result
-        if '/drama' not in u.path:return s['id'],result
+        if not ('/drama' in u.path or '/program/' in u.path):return s['id'],result
         html=fetch(page)
         info=Info();info.feed(html)
         cover=matching_cover(info,s['name'],page)
@@ -101,6 +106,22 @@ def show_meta(args,fetch,old,known_images):
             if ep:
                 result['latestPublisherEpisode']=ep
                 result['latestPublisherLabel']='Highest episode listed on broadcaster website'
+                result['latestPublisherSource']=page
+        if s['network']=='harpalgeo':
+            txt=info.text
+            section=re.search(r'Episodes\s*&\s*Teasers',txt,re.I)
+            if section:txt=txt[section.end():]
+            txt=txt[:12000]
+            pattern=re.escape(s['name'])+r'\s+Ep(?:isode)?\.?\s*0*(\d{1,4})\b'
+            found=[]
+            for hit in re.finditer(pattern,txt,re.I):
+                following=txt[hit.end():hit.end()+40]
+                if re.match(r'\s*(?:Teaser|Trailer|Promo)',following,re.I):continue
+                n=int(hit.group(1))
+                if 1<=n<=1200:found.append(n)
+            if found:
+                result['latestPublisherEpisode']=max(found)
+                result['latestPublisherLabel']='Highest full episode listed on broadcaster website'
                 result['latestPublisherSource']=page
     except Exception as exc:
         result['fetchWarning']=type(exc).__name__
@@ -146,8 +167,16 @@ def build_metadata(shows,videos,schedule,fetch,old):
     for sid,latest_upload in latest.items():
         meta.setdefault(sid,{})['latestUpload']=latest_upload
     # Fetch broadcaster image metadata in parallel; use cache for previously verified posters.
-    queue=[s for s in shows if s.get('type') in ('drama','comedy','satire','reality')
-           and (not meta.get(s['id'],{}).get('poster') or meta.get(s['id'],{}).get('posterSource')!='Official broadcaster')]
+    def should_fetch(s):
+        val=meta.get(s['id'],{})
+        if val.get('posterSource')=='Official broadcaster':return False
+        try:
+            if val.get('lastAttempt') and (datetime.now(ZoneInfo('Asia/Karachi'))-
+                 datetime.fromisoformat(val['lastAttempt'])).total_seconds()<7*86400:
+                return False
+        except (TypeError,ValueError):pass
+        return True
+    queue=[s for s in shows if s.get('type') in ('drama','comedy','satire','reality') and should_fetch(s)]
     queue.sort(key=lambda s:({'airing':0,'upcoming':1,'recent':2,'library':3,'archive':4}.get(s.get('status'),5),s['name']))
     cover_map={}
     # Current HUM TV homepage carries official poster images for the evening banner.
