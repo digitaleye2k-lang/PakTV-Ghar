@@ -183,6 +183,8 @@ const CHANNELS = [
  {id:'greentv',name:'Green Entertainment',handle:'GreenEntertainmentTV',category:'dramas',initials:'GRN',colors:['#72b9a1','#225f52'],description:'Original Pakistani drama serials, including Kabli Pulao, Gentleman and Jeevan Nagar.'},
  {id:'ptvhome',name:'PTV Home',handle:'PTVHomeEntertainment',category:'dramas',initials:'PTV',colors:['#8cbd78','#276c49'],description:'PTV drama classics and family programming from Pakistan Television.'},
  {id:'ptvnews',name:'PTV News',handle:'PTVNewsOfficial',category:'news',initials:'PTV',colors:['#5da5c0','#195475'],description:'Pakistan Television news, headlines and current affairs.'},
+ {id:'aajnews',name:'Aaj TV Official',handle:'aajtvofficial',category:'news',initials:'AAJ',colors:['#d87468','#8a353b'],description:'Aaj News headlines, interviews and talk programmes.'},
+ {id:'aajent',name:'Aaj Entertainment',handle:'aajentertainment',category:'dramas',initials:'AAJ',colors:['#c59a78','#805478'],description:'Pakistani entertainment and television programmes from Aaj.'},
  {id:'geonews',name:'Geo News',handle:'geonews',category:'news',initials:'GEO',colors:['#e48f4a','#af5241'],description:'News updates, current affairs and Capital Talk.'},
  {id:'arynews',name:'ARY News',handle:'ArynewsTvofficial',category:'news',initials:'ARY',colors:['#d86c63','#90294a'],description:'Headlines, breaking news and Off The Record.'},
  {id:'samaa',name:'SAMAA TV',handle:'SAMAATV',category:'news',initials:'S',colors:['#7cb3ce','#3f6799'],description:'Pakistan headlines, interviews and political reporting.'},
@@ -377,7 +379,7 @@ function renderHome(){
   const spotlight=highlights.filter(x=>!posterIds.has(x.id)&&posterIds.add(x.id)).slice(0,16);
   const moreNetworks=drama.filter(s=>['greentv','ptvhome','expressent'].includes(s.network)).slice(0,18);
   const watchAgain=state.history.map(id=>recent.get(id)||SEED_VIDEOS.find(v=>v.id===id)||state.savedVideoData[id]).filter(Boolean).slice(0,12);
-  const broadcasterOrder=['greentv','ptvhome','expressent','hum','arydigital','harpalgeo','samaa','ptvnews','geonews','arynews','dunya','expressnews'];
+  const broadcasterOrder=['greentv','ptvhome','expressent','hum','arydigital','harpalgeo','aajent','samaa','ptvnews','aajnews','geonews','arynews','dunya','expressnews'];
   const broadcasters=broadcasterOrder.map(id=>CHANNELS.find(x=>x.id===id)).filter(Boolean);
   const creatorVideos=balancedRecent([...state.archiveVideos,...state.feed].filter(v=>v.category==='vloggers'),10);
   const talkVideos=balancedRecent([...state.archiveVideos,...state.feed].filter(v=>v.category==='talk'||v.category==='comedy'),10);
