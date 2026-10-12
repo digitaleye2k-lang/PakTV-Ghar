@@ -26,6 +26,14 @@ PROGRAMMES = (
     'think tank', 'nuqta e nazar', 'aapas ki baat',
 )
 PROGRAMMES = tuple(x.replace(' ', '') for x in PROGRAMMES)
+# Branded panel discussions and interviews appearing on news channels.
+# These are topic labels, not political judgements or endorsements.
+DISCUSSIONS = ('straighttalk', 'economymatters', 'newswise', 'nadeemmalik',
+               'reportcard', 'jirga', 'thinktank', 'nuqtaenazar',
+               'capitaltalk', 'the reporters', 'on the front',
+               'shahzebkhanzada', 'offtherecord', 'kaltak',
+               'powerplay', '11thhour', 'aapas ki baat')
+DISCUSSIONS = tuple(x.replace(' ', '') for x in DISCUSSIONS)
 
 
 def is_video_public(record):
@@ -39,6 +47,8 @@ def video_category(channel, title):
         return ('comedy' if any(w in text for w in (
             'mazaaqraat', 'maz aaqraat', 'hasbehaal', 'hasnamanahai',
             'khabarnaak', 'khabardar')) else 'talk')
+    if channel['category']=='news' and any(word in text for word in DISCUSSIONS):
+        return 'talk'
     return channel['category']
 
 
