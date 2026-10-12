@@ -212,8 +212,8 @@ grant execute on function public.pgh_submit(text,text,text,text,text,text) to au
 -- DO UPDATE SET role='owner';
 create or replace function public.pgh_owner()
 returns boolean language sql stable security definer set search_path=''
-as $select exists(select 1 from public.community_moderators
- where user_id=auth.uid() and role='owner')$;
+as $$select exists(select 1 from public.community_moderators
+ where user_id=auth.uid() and role='owner')$$;
 revoke all on function public.pgh_owner() from public,anon,authenticated;
 grant execute on function public.pgh_owner() to authenticated;
 create or replace function public.pgh_private_inbox()
@@ -327,3 +327,10 @@ revoke all on function public.pgh_record_visit(text,text) from public,anon,authe
 grant execute on function public.pgh_record_visit(text,text) to service_role;
 -- Owner-only administrative changes use the Supabase dashboard/SQL editor.
 -- Review data-retention policies periodically and remove resolved reports.
+
+-- Guest RPCs must not be executable by the unauthenticated anon role.
+-- Browsers sign in anonymously first, receiving the authenticated role.
+revoke execute on function public.pgh_moderate(bigint,text), public.pgh_moderator(),
+ public.pgh_post_message(text,text,text), public.pgh_report_message(bigint,text,text),
+ public.pgh_review_message_reports(), public.pgh_review_queue(),
+ public.pgh_safe_text(text), public.pgh_submit(text,text,text,text,text,text) from anon;
