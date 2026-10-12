@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T22:38:08.608732+05:00",
+  "generatedAt": "2026-10-12T22:39:00.824798+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "tvToday": {
@@ -390,7 +390,19 @@
       }
     },
     "hum-leader": {
-      "lastAttempt": "2026-10-12T20:10:58.904270+05:00"
+      "lastAttempt": "2026-10-12T20:10:58.904270+05:00",
+      "latestUpload": {
+        "number": 28,
+        "id": "EQ-baUqmNaA",
+        "title": "Leader | Last Episode 28 Highlight -  [ Kinza Hashmi & Ali Raza ] Spons:Brighto Paints - HUMTV",
+        "date": "2026-09-21",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/EQ-baUqmNaA/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "arydigital-meri-zindagi-hai-tu": {
       "lastAttempt": "2026-10-12T20:10:58.904302+05:00",
@@ -427,7 +439,19 @@
       "latestPublisherSource": "https://harpalgeo.tv/program/Muhafiz"
     },
     "hum-musafat": {
-      "lastAttempt": "2026-10-12T20:10:59.107151+05:00"
+      "lastAttempt": "2026-10-12T20:10:59.107151+05:00",
+      "latestUpload": {
+        "number": 54,
+        "id": "wqiKk2kIMA0",
+        "title": "Musafat – Last Episode 54 Highlight - [ Mohsin Abbas Haider & Alishba Khan ] - HUM TV",
+        "date": "2026-06-12",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/wqiKk2kIMA0/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-pehli-barish": {
       "lastAttempt": "2026-10-12T20:10:59.107185+05:00",
@@ -463,7 +487,19 @@
       }
     },
     "hum-sirf-shabana": {
-      "lastAttempt": "2026-10-12T20:10:59.131585+05:00"
+      "lastAttempt": "2026-10-12T20:10:59.131585+05:00",
+      "latestUpload": {
+        "number": 31,
+        "id": "T-rg8ZWoMeI",
+        "title": "Sirf Shabana - Last Episode 31 [Eng Sub] - 7th July 2026 - [ Sohai Ali Abro, Adeel Husain ] - HUM TV",
+        "date": "2026-07-07",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/T-rg8ZWoMeI/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-tapish": {
       "lastAttempt": "2026-10-12T20:10:59.131617+05:00",

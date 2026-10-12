@@ -1,6 +1,24 @@
 {
   "videos": [
     {
+      "id": "9vE1tf3muXA",
+      "title": "Punjab Governor Makes a Major Statement | Breaking News | Geo News",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T17:37:24Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 139,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/9vE1tf3muXA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "9t-Zgtp51SA",
       "title": "Why Both Governor Rule And Emergency In KP | Dawn News",
       "channel": "Dawn News",
@@ -1894,7 +1912,7 @@
       "channel": "Geo News",
       "channelId": "geonews",
       "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
-      "category": "news",
+      "category": "talk",
       "genre": "News & politics",
       "date": "2026-10-12",
       "published": "2026-10-12T15:38:41Z",
@@ -6326,24 +6344,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/GJsTeb8z5fo/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "sptkNA5_Yyg",
-      "title": "KPK on the Brink: Army vs Public? PML-N Under Fire, Bushra Bibi & Aleema Khan Offered Release?",
-      "channel": "Sabir Shakir",
-      "channelId": "sabir",
-      "youtubeChannelId": "UCY7eFg5TEMsk_aTqM0pVB4w",
-      "category": "vloggers",
-      "genre": "News & commentary",
-      "date": "2026-10-12",
-      "published": "2026-10-12T09:00:03Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 1174,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/sptkNA5_Yyg/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     }
   ],

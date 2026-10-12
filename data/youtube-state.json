@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-12",
-  "dailySearches": 72,
+  "dailySearches": 80,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -747,8 +747,126 @@
         "thumbnail": "https://i.ytimg.com/vi/dhJj0oDY58w/hqdefault.jpg",
         "checkedAt": "2026-10-12T17:37:35.029938+00:00"
       }
+    ],
+    "hum-leader": [
+      {
+        "id": "EQ-baUqmNaA",
+        "title": "Leader | Last Episode 28 Highlight -  [ Kinza Hashmi & Ali Raza ] Spons:Brighto Paints - HUMTV",
+        "episode": 28,
+        "date": "2026-09-21",
+        "published": "2026-09-21T13:00:37Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/EQ-baUqmNaA/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:38:33.613400+00:00"
+      },
+      {
+        "id": "-FXbu933_Bg",
+        "title": "Leader | Last Episode 28 [Eng Sub] - [Kinza Hashmi, Ali Raza] 20 Sep 2026 | HUM TV",
+        "episode": 28,
+        "date": "2026-09-20",
+        "published": "2026-09-20T16:00:10Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/-FXbu933_Bg/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:38:33.613400+00:00"
+      }
+    ],
+    "hum-musafat": [
+      {
+        "id": "wqiKk2kIMA0",
+        "title": "Musafat – Last Episode 54 Highlight - [ Mohsin Abbas Haider & Alishba Khan ] - HUM TV",
+        "episode": 54,
+        "date": "2026-06-12",
+        "published": "2026-06-12T07:45:16Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/wqiKk2kIMA0/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:38:33.613400+00:00"
+      },
+      {
+        "id": "nw17xXuRiKM",
+        "title": "Musafat - Last Episode 54 [Eng Sub] 11th June 2026 [ Mohsin Abbas Haider, Alishba Khan ] HUM TV",
+        "episode": 54,
+        "date": "2026-06-11",
+        "published": "2026-06-11T17:00:38Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/nw17xXuRiKM/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:38:33.613400+00:00"
+      },
+      {
+        "id": "mKVCCKqFKJA",
+        "title": "Musafat - 2nd Last Episode 53 [Eng Sub] 10th June 2026 [ Mohsin Abbas Haider, Alishba Khan ] HUM TV",
+        "episode": 53,
+        "date": "2026-06-10",
+        "published": "2026-06-10T17:00:03Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/mKVCCKqFKJA/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:38:33.613400+00:00"
+      }
+    ],
+    "hum-sirf-shabana": [
+      {
+        "id": "T-rg8ZWoMeI",
+        "title": "Sirf Shabana - Last Episode 31 [Eng Sub] - 7th July 2026 - [ Sohai Ali Abro, Adeel Husain ] - HUM TV",
+        "episode": 31,
+        "date": "2026-07-07",
+        "published": "2026-07-07T16:00:22Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/T-rg8ZWoMeI/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:38:33.613400+00:00"
+      },
+      {
+        "id": "mbujMW8PDK8",
+        "title": "Sirf Shabana - Flashback 2nd Last Episode 30 - [ Sohai Ali Abro ] - HUM TV",
+        "episode": 30,
+        "date": "2026-07-07",
+        "published": "2026-07-07T14:45:26Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/mbujMW8PDK8/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:38:33.613400+00:00"
+      }
     ]
   },
-  "cursor": 36,
+  "cursor": 40,
   "apiValidated": true
 }

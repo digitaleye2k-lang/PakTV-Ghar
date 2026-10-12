@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-10-12T17:37:38.412772+00:00",
+  "generatedAt": "2026-10-12T17:38:37.259347+00:00",
   "dateTimezone": "UTC",
-  "cursor": 26,
+  "cursor": 4,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
       "uploadsId": "UU_vt34wimdCzdkrzVejwX9g",
       "handle": "geonews",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T17:34:39.493333+00:00"
+      "lastFetchedAt": "2026-10-12T17:38:37.259347+00:00"
     },
     "ducky": {
       "youtubeId": "UC_c-RTowPbIlzMkIa_O7s6Q",
       "uploadsId": "UU_c-RTowPbIlzMkIa_O7s6Q",
       "handle": "duckybhai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T17:34:39.493333+00:00"
+      "lastFetchedAt": "2026-10-12T17:38:37.259347+00:00"
     },
     "arynews": {
       "youtubeId": "UCMmpLL2ucRHAXbNHiCPyIyg",
       "uploadsId": "UUMmpLL2ucRHAXbNHiCPyIyg",
       "handle": "ArynewsTvofficial",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T17:35:29.566345+00:00"
+      "lastFetchedAt": "2026-10-12T17:38:37.259347+00:00"
     },
     "rhs": {
       "youtubeId": "UCgFG7lz7BI5hsNEifevrWSw",
       "uploadsId": "UUgFG7lz7BI5hsNEifevrWSw",
       "handle": "ranahamzasaifrhs",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T17:35:29.566345+00:00"
+      "lastFetchedAt": "2026-10-12T17:38:37.259347+00:00"
     },
     "dunya": {
       "youtubeId": "UCG7xCQTxgy93j6r49wl48rw",
@@ -161,38 +161,56 @@
       "uploadsId": "UUQ2P7C8UGoVM6AhqsVx-M0Q",
       "handle": "KitchenWithAmna",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-12T17:34:39.493333+00:00"
+      "lastFetchedAt": "2026-10-12T17:38:37.259347+00:00"
     },
     "geoclassics": {
       "youtubeId": "UCLUfX9--VscMEKnIE6thhbg",
       "uploadsId": "UULUfX9--VscMEKnIE6thhbg",
       "handle": "GeoNewsClassics",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-12T17:34:39.493333+00:00"
+      "lastFetchedAt": "2026-10-12T17:38:37.259347+00:00"
     },
     "wildlens": {
       "youtubeId": "UCf1XIplYiqNv9baGsFHwPPQ",
       "uploadsId": "UUf1XIplYiqNv9baGsFHwPPQ",
       "handle": "WildLensByAbrar",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-12T17:34:39.493333+00:00"
+      "lastFetchedAt": "2026-10-12T17:38:37.259347+00:00"
     },
     "ruby": {
       "youtubeId": "UCMhx-uS3O-G_6_lTrYmDKLw",
       "uploadsId": "UUMhx-uS3O-G_6_lTrYmDKLw",
       "handle": "RubyKaKitchen",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-12T17:34:39.493333+00:00"
+      "lastFetchedAt": "2026-10-12T17:38:37.259347+00:00"
     },
     "ijazfood": {
       "youtubeId": "UCc1BSASBDsE_XYOTxD9SNmA",
       "uploadsId": "UUc1BSASBDsE_XYOTxD9SNmA",
       "handle": "IjazAnsariFoodSecrets",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-12T17:34:39.493333+00:00"
+      "lastFetchedAt": "2026-10-12T17:38:37.259347+00:00"
     }
   },
   "videos": [
+    {
+      "id": "9vE1tf3muXA",
+      "title": "Punjab Governor Makes a Major Statement | Breaking News | Geo News",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T17:37:24Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 139,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/9vE1tf3muXA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
     {
       "id": "9t-Zgtp51SA",
       "title": "Why Both Governor Rule And Emergency In KP | Dawn News",
@@ -1999,7 +2017,7 @@
       "channel": "Geo News",
       "channelId": "geonews",
       "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
-      "category": "news",
+      "category": "talk",
       "genre": "News & politics",
       "date": "2026-10-12",
       "published": "2026-10-12T15:38:41Z",
@@ -42350,6 +42368,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Junaid Akram: channel unavailable; Express News: channel unavailable; Asad Toor: channel unavailable",
+  "lastError": "Siddique Jaan: channel unavailable; HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
