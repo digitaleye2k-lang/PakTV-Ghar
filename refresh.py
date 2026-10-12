@@ -20,6 +20,8 @@ SOURCES={
 'ptvhome':('PTV Home','PTVHomeEntertainment','dramas'),
 'expressent':('Express TV','expressentertainment','dramas'),
 'ptvnews':('PTV News','PTVNewsOfficial','news'),
+'aajnews':('Aaj TV Official','aajtvofficial','news'),
+'aajent':('Aaj Entertainment','aajentertainment','dramas'),
 'geonews':('Geo News','geonews','news'),
 'arynews':('ARY News','ArynewsTvofficial','news'),
 'samaa':('SAMAA TV','SAMAATV','news'),
