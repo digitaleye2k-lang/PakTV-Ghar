@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-10-12T18:15:24.490387+00:00",
+  "generatedAt": "2026-10-12T18:17:22.132649+00:00",
   "dateTimezone": "UTC",
-  "cursor": 36,
+  "cursor": 7,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
       "uploadsId": "UU_vt34wimdCzdkrzVejwX9g",
       "handle": "geonews",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T18:07:04.937589+00:00"
+      "lastFetchedAt": "2026-10-12T18:17:22.132649+00:00"
     },
     "ducky": {
       "youtubeId": "UC_c-RTowPbIlzMkIa_O7s6Q",
       "uploadsId": "UU_c-RTowPbIlzMkIa_O7s6Q",
       "handle": "duckybhai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T18:07:04.937589+00:00"
+      "lastFetchedAt": "2026-10-12T18:17:22.132649+00:00"
     },
     "arynews": {
       "youtubeId": "UCMmpLL2ucRHAXbNHiCPyIyg",
       "uploadsId": "UUMmpLL2ucRHAXbNHiCPyIyg",
       "handle": "ArynewsTvofficial",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T18:07:04.937589+00:00"
+      "lastFetchedAt": "2026-10-12T18:17:22.132649+00:00"
     },
     "rhs": {
       "youtubeId": "UCgFG7lz7BI5hsNEifevrWSw",
       "uploadsId": "UUgFG7lz7BI5hsNEifevrWSw",
       "handle": "ranahamzasaifrhs",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T18:07:04.937589+00:00"
+      "lastFetchedAt": "2026-10-12T18:17:22.132649+00:00"
     },
     "dunya": {
       "youtubeId": "UCG7xCQTxgy93j6r49wl48rw",
@@ -42,14 +42,14 @@
       "uploadsId": "UUQexaAjPn3-1MCE4DmBK3Tg",
       "handle": "villagefoodsecrets",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T18:07:04.937589+00:00"
+      "lastFetchedAt": "2026-10-12T18:17:22.132649+00:00"
     },
     "geohasna": {
       "youtubeId": "UC6HQ4d3xq9EgSeJgMhc-4AQ",
       "uploadsId": "UU6HQ4d3xq9EgSeJgMhc-4AQ",
       "handle": "GeoHasnaManaHai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-12T18:07:04.937589+00:00"
+      "lastFetchedAt": "2026-10-12T18:17:22.132649+00:00"
     },
     "streetfoodpk": {
       "youtubeId": "UCt8NJjYKc2aT3T0TnbcWxSw",
@@ -175,21 +175,21 @@
       "uploadsId": "UUf1XIplYiqNv9baGsFHwPPQ",
       "handle": "WildLensByAbrar",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-12T18:04:56.855646+00:00"
+      "lastFetchedAt": "2026-10-12T18:17:22.132649+00:00"
     },
     "ruby": {
       "youtubeId": "UCMhx-uS3O-G_6_lTrYmDKLw",
       "uploadsId": "UUMhx-uS3O-G_6_lTrYmDKLw",
       "handle": "RubyKaKitchen",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-12T18:04:56.855646+00:00"
+      "lastFetchedAt": "2026-10-12T18:17:22.132649+00:00"
     },
     "ijazfood": {
       "youtubeId": "UCc1BSASBDsE_XYOTxD9SNmA",
       "uploadsId": "UUc1BSASBDsE_XYOTxD9SNmA",
       "handle": "IjazAnsariFoodSecrets",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-12T18:04:56.855646+00:00"
+      "lastFetchedAt": "2026-10-12T18:17:22.132649+00:00"
     },
     "greentv": {
       "youtubeId": "UCF2ltLX1dnPa6-L1paPaMzw",
@@ -243,6 +243,24 @@
   },
   "videos": [
     {
+      "id": "mpnkVE4PwNs",
+      "title": "Gold Medalist Student Case | New Questions Emerge as Investigation Continues",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:14:27Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 408,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/mpnkVE4PwNs/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "SOEHZ7966uY",
       "title": "🔴 Morning Show Live: Watch Chai, Toast Aur Host | 12-10-2026 | Dawn News Live",
       "channel": "Dawn News",
@@ -258,6 +276,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/SOEHZ7966uY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "GgZN0tmmpu0",
+      "title": "Did PTI and the Government Agree on Imposing Emergency? Salman Akram Raja Reveals Inside Details",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:08:40Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 404,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/GgZN0tmmpu0/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -315,6 +351,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "M1dgBGg6CWY",
+      "title": "“Sohail Afridi Is Inexperienced and Doesn’t Understand Politics,” Says Rana Sanaullah",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:04:00Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 500,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/M1dgBGg6CWY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "BQ7DKtNaIF0",
       "title": "BEST MOMENT | Hurmat New Ep | #dananeermubeen #hurmat #shahveerjaffery",
       "channel": "HUM TV",
@@ -330,6 +384,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/BQ7DKtNaIF0/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "RlFpgFRstVM",
+      "title": "Oppostion VS Govt - Governor Rule in KPK | 10PM Headlines Geo News (12th Oct 2026)",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-12",
+      "published": "2026-10-12T18:01:15Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 722,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/RlFpgFRstVM/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -52335,6 +52407,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Express News: channel unavailable; Asad Toor: channel unavailable; Siddique Jaan: channel unavailable",
+  "lastError": "HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable; Dunya News: HTTP 404: playlistNotFound",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
