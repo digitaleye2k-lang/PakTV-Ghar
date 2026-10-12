@@ -22,6 +22,8 @@ CHANNELS = [
  {'id':'ptvhome','name':'PTV Home','handle':'PTVHomeEntertainment','category':'dramas','genre':'Classic & family dramas','channelId':'UCMfwlaPLGMn44BKvHv15yzA'},
  {'id':'expressent','name':'Express TV','handle':'expressentertainment','category':'dramas','genre':'Dramas'},
  {'id':'ptvnews','name':'PTV News','handle':'PTVNewsOfficial','category':'news','genre':'News & politics'},
+ {'id':'aajnews','name':'Aaj TV Official','handle':'aajtvofficial','category':'news','genre':'News & politics'},
+ {'id':'aajent','name':'Aaj Entertainment','handle':'aajentertainment','category':'dramas','genre':'Dramas'},
  {'id':'foodfusion','name':'Food Fusion','handle':'FoodfusionPk','category':'vloggers','genre':'Food & recipes'},
  {'id':'samaa','name':'SAMAA TV','handle':'SAMAATV','category':'news','genre':'News & politics'},
  {'id':'junaid','name':'Junaid Akram','handle':'JunaidAkram','category':'vloggers','genre':'Lifestyle & vlogs'},
