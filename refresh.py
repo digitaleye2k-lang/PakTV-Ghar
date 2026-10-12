@@ -291,11 +291,24 @@ def main():
      key=lambda e:(e.get('episode') or 0,e.get('date') or ''),
      reverse=True)[:100]}
  write('episodes.json',episodes)
+ # Separate archive index for date-based browsing, news, political commentary,
+ # comedy and creators. It is refreshed incrementally without search quota use.
+ from youtube_archive import update_archive
+ archive,archive_stats=update_archive(
+     os.environ.get('YOUTUBE_API_KEY','').strip(),
+     readold('archive.json',{}))
+ write('archive.json',archive)
+ print('Archive:',archive_stats['checked'],'channels refreshed,',
+       archive_stats.get('new',0),'verified upload entries,',
+       len(archive.get('videos',[])),'stored,',
+       archive_stats.get('errors',0),'sources unavailable')
  combined={v['id']:v for v in videos}
  for v in api_videos:combined[v['id']]=v
+ for v in archive.get('videos',[]):combined[v['id']]=v
+ # Cap the homepage feed but retain more archive items for browsing by date.
  all_videos=list(combined.values())
- videos=sorted(all_videos,key=lambda v:v.get('published',''),reverse=True)[:240]
- write('videos.json',{'videos':videos,'mode':'youtube' if yt_stats['newVideos'] else 'feeds'})
+ videos=sorted(all_videos,key=lambda v:v.get('published',''),reverse=True)[:360]
+ write('videos.json',{'videos':videos,'mode':'youtube' if yt_stats['newVideos'] or archive_stats.get('new') else 'feeds'})
  result=schedule(shows)
  write('schedule.json',result)
  from show_metadata import build_metadata
