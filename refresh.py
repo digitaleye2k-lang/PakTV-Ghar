@@ -53,7 +53,7 @@ def feed(args):
    if not re.fullmatch(r'[A-Za-z0-9_-]{11}',vid):continue
    title=unescape(node.findtext('a:title','',ns)); date=node.findtext('a:published','',ns)
    cat='talk' if category=='news' and any(x in title.lower() for x in ('capital talk','off the record','the reporters','kal tak','shahzeb khanzada')) else category
-   videos.append({'id':vid,'title':title,'channel':name,'channelId':cid,'category':cat,'date':date[:10],'published':date,'description':'Official upload from '+name})
+   videos.append({'id':vid,'title':title,'channel':name,'channelId':cid,'youtubeChannelId':m.group(1),'category':cat,'date':date[:10],'published':date,'description':'Official upload from '+name})
   return videos
  except Exception as e:
   print('Source unavailable:',cid,type(e).__name__)
@@ -261,9 +261,15 @@ def main():
  # YouTube Data API indexing is optional, only through a GitHub Actions secret.
  # API results are restricted to verified channel IDs and checked video records.
  from youtube_index import index_api
+ # These broadcaster IDs are resolved from their public YouTube pages
+ # during RSS collection; they avoid unnecessary Data API channel lookups.
+ verified_channels={v['channelId']:v['youtubeChannelId'] for v in latest
+                    if v.get('channelId') in ('hum','arydigital','harpalgeo')
+                    and re.fullmatch(r'UC[\w-]{22}',v.get('youtubeChannelId',''))}
  index,yt_cache,yt_stats=index_api(
      shows,os.environ.get('YOUTUBE_API_KEY','').strip(),
-     readold('youtube-state.json',{}))
+     readold('youtube-state.json',{}),
+     known_channel_ids=verified_channels)
  write('youtube-state.json',yt_cache)
  api_videos=[]
  for sid,items in index.items():
