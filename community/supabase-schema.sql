@@ -281,7 +281,31 @@ declare changed integer;
 begin
  if current_user <> 'service_role' and auth.role()<>'service_role' then
    raise exception 'Server-only'; end if;
- if p_digest !~ '^[0-9a-f]{64}$' then raise exception 'Invalid visit digest'; end if;
+ -- Keep short-lived per-visitor digests for no more than one week.
+ delete from public.community_visitor_tokens where visited_on < current_date-7;
+ if p_digest !~ '^[0-9a-f]{64}
+ if p_country !~ '^[A-Z]{2}$' then p_country:='ZZ'; end if;
+ insert into public.community_visitor_tokens(visited_on,visit_digest,country_code)
+ values(current_date,p_digest,p_country) on conflict do nothing;
+ get diagnostics changed=row_count;
+ if changed>0 then
+   insert into public.community_visit_totals(visited_on,country_code,visits)
+   values(current_date,p_country,1)
+   on conflict(visited_on,country_code)
+   do update set visits=public.community_visit_totals.visits+1;
+ end if;
+end;
+$$;
+revoke all on function public.pgh_record_visit(text,text) from public;
+grant execute on function public.pgh_record_visit(text,text) to service_role;
+-- Optional retention job for chat and private reports (requires pg_cron,
+-- an owner-approved deletion schedule and reviewing legal obligations first):
+-- DELETE FROM public.community_messages WHERE created_at < now()-interval '90 days';
+-- DELETE FROM public.community_submissions WHERE created_at < now()-interval '365 days'
+--   AND status IN ('resolved','rejected');
+-- Visitor deduplication tokens are automatically cleaned after 7 days as new
+-- visits arrive. This is distinct from long-term anonymised country totals.
+ then raise exception 'Invalid visit digest'; end if;
  if p_country !~ '^[A-Z]{2}$' then p_country:='ZZ'; end if;
  insert into public.community_visitor_tokens(visited_on,visit_digest,country_code)
  values(current_date,p_digest,p_country) on conflict do nothing;
