@@ -2,7 +2,7 @@
   "date": "2026-10-12",
   "weekday": "Monday",
   "timezone": "Asia/Karachi",
-  "generatedAt": "2026-10-12T19:44:29.251649+05:00",
+  "generatedAt": "2026-10-12T19:44:54.328776+05:00",
   "items": [
     {
       "name": "Mohabbat",
@@ -215,16 +215,6 @@
       "sourceLabel": "Official broadcaster"
     },
     {
-      "name": "Izzat",
-      "showId": "arydigital-izzat",
-      "channel": "ARY Digital",
-      "time": "19:00",
-      "episode": null,
-      "repeat": null,
-      "sourceUrl": "https://dramas.pk/?pdhs_date=2026-10-12",
-      "sourceLabel": "Dramas.pk TV guide (backup, not broadcaster)"
-    },
-    {
       "name": "Khushi",
       "showId": "hum-khushi",
       "channel": "HUM TV",
@@ -243,16 +233,6 @@
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
-    },
-    {
-      "name": "RUTBA",
-      "showId": "arydigital-rutba",
-      "channel": "ARY Digital",
-      "time": "20:00",
-      "episode": null,
-      "repeat": null,
-      "sourceUrl": "https://dramas.pk/?pdhs_date=2026-10-12",
-      "sourceLabel": "Dramas.pk TV guide (backup, not broadcaster)"
     },
     {
       "name": "Hurmat",
@@ -275,16 +255,6 @@
       "sourceLabel": "Official broadcaster"
     },
     {
-      "name": "Main Tera",
-      "showId": "arydigital-main-tera",
-      "channel": "ARY Digital",
-      "time": "21:00",
-      "episode": null,
-      "repeat": null,
-      "sourceUrl": "https://dramas.pk/?pdhs_date=2026-10-12",
-      "sourceLabel": "Dramas.pk TV guide (backup, not broadcaster)"
-    },
-    {
       "name": "Bombay Tailors",
       "showId": "hum-bombay-tailors",
       "channel": "HUM TV",
@@ -303,16 +273,6 @@
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
-    },
-    {
-      "name": "Tamasha season 5",
-      "showId": "arydigital-tamasha-season-5",
-      "channel": "ARY Digital",
-      "time": "22:00",
-      "episode": null,
-      "repeat": null,
-      "sourceUrl": "https://dramas.pk/?pdhs_date=2026-10-12",
-      "sourceLabel": "Dramas.pk TV guide (backup, not broadcaster)"
     },
     {
       "name": "Hasna Mana Hai",
@@ -337,11 +297,12 @@
   ],
   "sources": {
     "hum": "official",
-    "arydigital": "independent guide fallback",
+    "arydigital": "unavailable",
     "harpalgeo": "official"
   },
   "errors": [
-    "ARY Digital: No scheduled entries in retrieved page"
+    "ARY Digital: No scheduled entries in retrieved page",
+    "Backup guide: HTTPError"
   ],
   "note": "Schedule entries are TV slots, not proof episodes were uploaded. Times and reruns can change."
 }
