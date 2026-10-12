@@ -429,12 +429,25 @@ function renderShowPage(){
 function favoriteShow(id){let s=LIBRARY.find(x=>x.id===id);if(!s)return;let set=new Set(state.favoriteShows);set.has(id)?set.delete(id):set.add(id);state.favoriteShows=[...set];safeSet('pgh_show_favs',state.favoriteShows);toast(set.has(id)?'Programme added to favourites ♥':'Programme removed');paint()}
 function openSeries(id){if(!LIBRARY.some(s=>s.id===id))return;location.hash='show-'+encodeURIComponent(id);if(state.page==='show'&&showId()===id){paint();loadEpisodes(0)}}
 async function loadDiscovery(){try{const resp=await fetch('./data/discover.json?t='+Date.now(),{signal:AbortSignal.timeout(26000)});if(!resp.ok)return;const data=await resp.json();const known=new Set(LIBRARY.map(x=>x.id));let added=0;for(const show of data.shows||[]){if(typeof show.id!=='string'||typeof show.name!=='string'||known.has(show.id)||!['hum','arydigital','harpalgeo'].includes(show.network))continue;known.add(show.id);LIBRARY.push(show);added++}if(added&&(state.page==='home'||state.page==='dramas'||state.page==='search'||state.page==='comedy'))paint()}catch{}}
+
+async function loadShowMetadata(){
+ try{
+  const resp=await fetch('./data/show-meta.json?t='+Date.now(),{signal:AbortSignal.timeout(20000)});
+  if(!resp.ok)return;
+  const data=await resp.json();
+  if(!data||typeof data.shows!=='object'||Array.isArray(data.shows))return;
+  state.showMeta=data.shows;
+  state.showMetaLoaded=true;
+  if(['home','dramas','comedy','show','favourites','search'].includes(state.page))paint();
+ }catch{/* The programme directory still works without metadata. */}
+}
+
 async function loadSchedule(){state.scheduleLoading=true;try{const r=await fetch('./data/schedule.json?t='+Date.now(),{signal:AbortSignal.timeout(16000)});if(!r.ok)throw Error('Offline');const data=await r.json();state.schedule=data;state.backend=true}catch{state.schedule=null}finally{state.scheduleLoading=false;if(state.page==='home'||state.page==='today')paint()}}
 async function loadEpisodes(page=0){const id=showId();if(!LIBRARY.some(s=>s.id===id))return;state.episodeLoadedFor=id;state.episodeList=[];state.episodeLoading=true;state.episodePage=page;paint();try{const r=await fetch('./data/episodes.json?t='+Date.now(),{signal:AbortSignal.timeout(18000)});if(!r.ok)throw Error('Offline');const data=await r.json();if(showId()!==id)return;state.episodeList=Array.isArray(data[id]?.episodes)?data[id].episodes:[]}catch{}finally{if(showId()===id){state.episodeLoading=false;paint()}}}
 function playIndexed(index){const item=state.episodeList[index];if(!item)return;if(item.id){const s=LIBRARY.find(x=>x.id===state.episodeLoadedFor);watchVideo({id:item.id,title:item.title,channel:item.source||networkName[s?.network]||'Official YouTube',channelId:s?.network,category:s?.type==='drama'?'dramas':'talk',date:item.date||'',description:'Found on the official channel or broadcaster website.'})}else if(item.url)window.open(item.url,'_blank','noopener,noreferrer')}
 // Event delegation intentionally works after page re-renders.
 document.addEventListener('click',e=>{const link=e.target.closest('[data-series]');if(link){openSeries(link.dataset.series);return}const fav=e.target.closest('[data-series-fav]');if(fav){favoriteShow(fav.dataset.seriesFav);return}const era=e.target.closest('[data-era]');if(era){state.libraryFilter=era.dataset.era;state.visibleShows=30;paint();return}const net=e.target.closest('[data-net]');if(net){state.networkFilter=net.dataset.net;state.visibleShows=30;paint();return}if(e.target.closest('[data-more]')){state.visibleShows+=30;paint();return}const play=e.target.closest('[data-episode]');if(play){playIndexed(Number(play.dataset.episode));return}if(e.target.closest('[data-play-selected]')){playIndexed(Number(el('episodeSelect')?.value||0));return}if(e.target.closest('[data-reload-episodes]')){loadEpisodes(0);return}if(e.target.closest('[data-find-episode]')){const show=LIBRARY.find(x=>x.id===showId());const input=el('episodeNumber');const number=Number(input?.value);if(show&&Number.isInteger(number)&&number>=1&&number<=1200)window.open(publisherSearch(show,number),'_blank','noopener,noreferrer');else toast('Enter a valid episode number from 1 to 1200.')}});
-state.page=locationPage();bindEvents();paint();refreshFeeds();loadSchedule();loadDiscovery();if(state.page==='show')loadEpisodes(0);setInterval(()=>{refreshFeeds();loadSchedule();loadDiscovery()},15*60*1000);
+state.page=locationPage();bindEvents();paint();refreshFeeds();loadSchedule();loadShowMetadata();loadDiscovery();if(state.page==='show')loadEpisodes(0);setInterval(()=>{refreshFeeds();loadSchedule();loadShowMetadata();loadDiscovery()},15*60*1000);
 })();
 
 </script>
