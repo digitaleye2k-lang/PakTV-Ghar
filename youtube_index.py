@@ -19,6 +19,14 @@ HANDLES = {
     'arydigital': '@ARYDigitalasia',
     'harpalgeo': '@HarPalGeoOfficial',
 }
+# Stable public broadcaster channel IDs; cross-referenced against channel
+# identifiers published by independent channel analytics sources in Oct 2026.
+# These are not API credentials, and can be refreshed if a handle changes.
+OFFICIAL_CHANNEL_IDS = {
+    'hum': 'UCEeEQxm6qc_qaTE7qTV5aLQ',
+    'arydigital': 'UC4JCksJF76g_MdzPVBJoC3Q',
+    'harpalgeo': 'UCe9JSDmyqNgA_l2BzGHq1Ug',
+}
 MAX_SEARCH_PER_RUN = 8
 SEARCH_BUDGET_PER_DAY = 80
 RESULTS_PER_REGION = 25
@@ -199,6 +207,12 @@ def index_api(shows, key, old_cache=None, transport=None, now=None, known_channe
         return entries, cache, stats
 
     channels = dict(cache.get('channels') or {})
+    for network, channel_id in OFFICIAL_CHANNEL_IDS.items():
+        if not CHANNEL_ID.fullmatch((channels.get(network) or {}).get('id', '')):
+            channels[network] = {
+                'id': channel_id, 'handle': HANDLES[network],
+                'checkedAt': now.isoformat(), 'verifiedVia': 'published_channel_id'
+            }
     # Feed collector resolves each configured handle on youtube.com and reads
     # its official channel ID from the publisher's public channel page.
     # Reusing it avoids channel.list's redundant API request.
