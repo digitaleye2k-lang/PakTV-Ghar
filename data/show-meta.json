@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-12T23:44:03.036500+05:00",
+  "generatedAt": "2026-10-13T00:02:56.043301+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "tvToday": {
-        "number": 5,
+        "number": 6,
         "time": "20:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-12"
+        "date": "2026-10-13"
       },
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
       "poster": "https://harpalgeo.tv/assets/uploads/programs/640_7476234_programs.jpg",
@@ -27,13 +27,6 @@
       }
     },
     "harpalgeo-nashtar": {
-      "tvToday": {
-        "number": 18,
-        "time": "01:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-12"
-      },
       "lastAttempt": "2026-10-12T20:10:58.071421+05:00",
       "poster": "https://harpalgeo.tv/assets/uploads/programs/638_6386834_programs.jpg",
       "posterSource": "Official broadcaster",
@@ -52,13 +45,6 @@
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
-      "tvToday": {
-        "number": 62,
-        "time": "21:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-12"
-      },
       "lastAttempt": "2026-10-12T20:10:58.069538+05:00",
       "latestUpload": {
         "number": 62,
@@ -75,11 +61,11 @@
     },
     "harpalgeo-uswa": {
       "tvToday": {
-        "number": 20,
+        "number": 21,
         "time": "19:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-12"
+        "date": "2026-10-13"
       },
       "lastAttempt": "2026-10-12T20:10:58.606287+05:00",
       "latestUpload": {
@@ -96,13 +82,6 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-khafa": {
-      "tvToday": {
-        "number": 20,
-        "time": "11:30",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-12"
-      },
       "lastAttempt": "2026-10-12T20:10:58.069948+05:00",
       "poster": "https://harpalgeo.tv/assets/uploads/programs/636_876316_programs.jpg",
       "posterSource": "Official broadcaster",
@@ -127,7 +106,14 @@
     "harpalgeo-bano": {
       "lastAttempt": "2026-10-12T20:10:58.067590+05:00",
       "poster": "https://harpalgeo.tv/assets/uploads/programs/641_9919269_programs.jpg",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "tvToday": {
+        "number": 1,
+        "time": "21:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-13"
+      }
     },
     "hum-bombay-tailors": {
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/blobglammagazi001441984f/Hum_Tv/uploads/2022/01/Bombay-Tailors-500.jpg.jpg",
