@@ -1,0 +1,215 @@
+/* PakTV Ghar Spotlight — animated, accessible streaming-home cinema.
+   Dramatic motion is optional and reduced-motion preferences are respected. */
+:root{--spotlight-red:#ff5869;--spotlight-rose:#ff8f92;--spotlight-ink:#090913}
+body{background:#08090f}
+.content-area{position:relative;isolation:isolate}
+.content-area::before,.content-area::after{
+ content:"";position:fixed;width:52vw;height:52vw;max-width:940px;max-height:940px;
+ filter:blur(90px);border-radius:50%;pointer-events:none;z-index:0;opacity:.16;
+ animation:ambientDrift 26s ease-in-out infinite alternate;will-change:transform
+}
+.content-area::before{top:-240px;left:-250px;background:radial-gradient(circle,#d52862 0%,#67309e90 45%,transparent 73%)}
+.content-area::after{right:-240px;bottom:-300px;background:radial-gradient(circle,#286ea6 5%,#3e2b966d 50%,transparent 73%);animation-duration:32s;animation-direction:alternate-reverse}
+.content-area>main,.content-area>.topbar,.content-area>.site-footer,.content-area>.ad-placement,
+.content-area>.legal-footer{position:relative;z-index:1}
+.sidebar{box-shadow:0 12px 45px #0007}
+.sidebar .brand-icon{animation:brandPulse 6s ease-in-out infinite}
+.sidebar .brand:hover .brand-icon{transform:rotate(-6deg) scale(1.055)}
+.sidebar .brand strong{font-weight:900}
+.sidebar .brand strong em,.mobile-brand strong em{
+ background:linear-gradient(100deg,#ff7f86,#ffb1c0,#ff536c);
+ color:transparent;background-clip:text;-webkit-background-clip:text
+}
+.spotlight-section{position:relative;margin-bottom:6px}
+.spotlight-topline{display:flex;align-items:center;justify-content:space-between;gap:10px;margin:4px 0 14px;color:#d3d4e0}
+.spotlight-topline .spotlight-title{
+ display:inline-flex;align-items:center;gap:9px;
+ text-transform:uppercase;font-size:12px;letter-spacing:.18em;font-weight:900
+}
+.spotlight-topline .spotlight-title::before{
+ content:"";width:7px;height:7px;border-radius:50%;background:#ff5872;box-shadow:0 0 0 6px #ff58722b,0 0 22px #ff446b;
+ animation:signalGlow 2.7s ease-in-out infinite
+}
+.spotlight-topline .spotlight-channel-count{font-size:12px;color:#aaa9b7}
+.spotlight-stage{
+ height:clamp(460px,47vw,645px);min-height:460px;
+ position:relative;isolation:isolate;overflow:hidden;border-radius:18px;
+ border:1px solid #ffffff28;background:#0b0e1a;
+ box-shadow:0 38px 95px #000b,0 0 0 1px #ff738016
+}
+.spotlight-stage::after{
+ content:"";position:absolute;inset:0;z-index:3;pointer-events:none;
+ border-radius:inherit;box-shadow:inset 0 0 100px #0004
+}
+.spotlight-slide{
+ position:absolute;inset:0;display:grid;align-items:center;opacity:0;visibility:hidden;
+ pointer-events:none;transform:scale(1.025);
+ transition:opacity .85s ease,transform 1.5s cubic-bezier(.2,.75,.15,1),visibility .85s;
+ isolation:isolate
+}
+.spotlight-slide.is-active{opacity:1;visibility:visible;pointer-events:auto;transform:scale(1);z-index:2}
+.spotlight-art{
+ position:absolute;inset:0;overflow:hidden;z-index:-2;
+ background:radial-gradient(ellipse at 70% 27%,#9d3a56b0 0%,#30203d 48%,#0a111b 100%)
+}
+.spotlight-art img{
+ width:100%;height:100%;display:block;object-fit:cover;object-position:center 31%;
+ filter:saturate(1.16) contrast(1.04);transform:scale(1.05);
+ transition:transform 8s linear,filter 1s;
+}
+.spotlight-slide.is-active .spotlight-art img{transform:scale(1.12)}
+.spotlight-shade{position:absolute;inset:0;z-index:-1;
+ background:
+ linear-gradient(90deg,#07080df7 0%,#090912ee 23%,#0a0b14c9 42%,#0d0c174e 72%,#06080e24 100%),
+ linear-gradient(0deg,#080910f7 0%,transparent 28%),
+ linear-gradient(180deg,#04060c54 0%,transparent 30%);
+}
+.spotlight-glimmer{position:absolute;inset:0;pointer-events:none;overflow:hidden;z-index:1}
+.spotlight-glimmer::before,.spotlight-glimmer::after{
+ content:"";position:absolute;width:270px;height:270px;border-radius:50%;filter:blur(65px);opacity:.24;mix-blend-mode:screen
+}
+.spotlight-glimmer::before{background:#f3587b;left:-8%;bottom:-30%;animation:shimmerFloat 14s ease-in-out infinite alternate}
+.spotlight-glimmer::after{background:#648aff;right:-5%;top:-35%;animation:shimmerFloat 18s ease-in-out infinite alternate-reverse}
+.spotlight-slide-inner{
+ width:min(700px,67%);margin:0 0 45px clamp(26px,5vw,80px);
+ position:relative;z-index:2;padding:16px 0 45px;
+ text-shadow:0 4px 30px #0009
+}
+.spotlight-kicker{display:inline-flex;align-items:center;gap:9px;font-size:12px;font-weight:900;letter-spacing:.14em;color:#ffb2be;text-transform:uppercase}
+.spotlight-kicker span{padding:6px 10px;background:#ed526324;border:1px solid #ff677b7b;border-radius:5px;backdrop-filter:blur(10px)}
+.spotlight-slide-inner h1{margin:16px 0 13px;max-width:760px;
+ font-weight:900;font-size:clamp(49px,5.8vw,85px);letter-spacing:-.063em;
+ line-height:.98;text-wrap:balance;text-shadow:0 12px 45px #000c
+}
+.spotlight-description{max-width:520px;margin:15px 0 22px;color:#e5e6ed;font-size:clamp(13px,1.2vw,16px);line-height:1.64}
+.spotlight-meta{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:18px 0}
+.spotlight-meta span{padding:6px 10px;border-radius:5px;border:1px solid #ffffff49;background:#15151c85;color:#f4f3f8;
+ font-size:11px;font-weight:800}
+.spotlight-meta span:first-child{background:#ff62712e;border-color:#ff7180ab;color:#fff}
+.spotlight-buttons{display:flex;flex-wrap:wrap;align-items:center;gap:11px;margin-top:21px}
+.spotlight-buttons button{border-radius:7px;font-size:13px;font-weight:850;min-height:48px;padding:0 18px}
+.spotlight-buttons .btn-primary{box-shadow:0 9px 32px #c3224673}
+.spotlight-controls{
+ position:absolute;z-index:7;left:clamp(24px,4.5vw,78px);right:clamp(20px,3.3vw,55px);
+ bottom:24px;display:flex;align-items:flex-end;gap:16px;justify-content:space-between;pointer-events:none
+}
+.spotlight-control-left{display:flex;flex-direction:column;align-items:flex-start;gap:11px;pointer-events:auto;min-width:0}
+.spotlight-counter{font-size:12px;letter-spacing:.18em;font-weight:900;color:#ececf4;text-shadow:0 2px 8px #000}
+.spotlight-counter strong{color:#ff8c9a;font-size:16px}
+.spotlight-dots{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.spotlight-dot{
+ display:block;width:38px;height:5px;border:0;border-radius:50px;background:#ffffff67;
+ padding:0;position:relative;overflow:hidden;box-shadow:0 1px 5px #0008
+}
+.spotlight-dot:hover,.spotlight-dot:focus-visible{background:#ffffffaa}
+.spotlight-dot.is-active{background:#ffffff79}
+.spotlight-dot.is-active::after{
+ content:"";position:absolute;inset:0;background:#ff526a;transform-origin:left center;
+ animation:slideProgress 7.5s linear forwards
+}
+.spotlight-stage.is-paused .spotlight-dot.is-active::after{animation-play-state:paused}
+.spotlight-buttons-right{display:flex;align-items:center;gap:7px;pointer-events:auto}
+.spotlight-nav,.spotlight-pause{
+ width:40px;height:40px;display:grid;place-items:center;padding:0;border:1px solid #ffffff68;
+ border-radius:9px;background:#15161dc4;color:#fff;backdrop-filter:blur(12px);
+ font-size:23px;line-height:1
+}
+.spotlight-pause{font-size:17px}
+.spotlight-nav:hover,.spotlight-pause:hover{background:#ff5166;border-color:#ff7f8c}
+.spotlight-nav:focus-visible,.spotlight-pause:focus-visible,.spotlight-dot:focus-visible{
+ outline:3px solid #fff;outline-offset:4px
+}
+.spotlight-mini-track{
+ display:flex;gap:10px;overflow:auto hidden;scrollbar-width:none;margin:12px 0 20px;
+ padding:5px 2px 8px;
+}
+.spotlight-mini-track::-webkit-scrollbar{display:none}
+.spotlight-mini{
+ display:flex;align-items:center;gap:9px;flex:1 0 0;min-width:140px;max-width:260px;
+ text-align:left;padding:7px;color:#c9cbd2;background:#17171e98;
+ border:1px solid #ffffff1b;border-radius:9px;
+ transition:transform .2s,border-color .2s,background .2s;overflow:hidden
+}
+.spotlight-mini:hover{transform:translateY(-3px);background:#20212a;border-color:#ffffff55}
+.spotlight-mini.is-active{background:linear-gradient(110deg,#441e2a,#1c1c25);border-color:#ff73847b;box-shadow:0 0 18px #ff5f6722}
+.spotlight-mini img{
+ flex:none;width:42px;height:55px;border-radius:5px;object-fit:cover;object-position:center 20%;
+ background:linear-gradient(140deg,#854364,#232a49);box-shadow:0 4px 10px #0007
+}
+.spotlight-mini strong{display:block;font-size:12px;font-weight:850;color:#eeeef4;line-height:1.24}
+.spotlight-mini small{font-size:10px;color:#a8aabb;line-height:1.4;display:block;margin-top:4px}
+.spotlight-mini.is-active strong{color:#fff}
+.spotlight-sheen{
+ position:absolute;inset:0;pointer-events:none;border-radius:18px;overflow:hidden;z-index:3
+}
+.spotlight-sheen::after{
+ content:"";position:absolute;top:-80%;left:-50%;width:70%;height:260%;
+ background:linear-gradient(90deg,transparent,#ffffff07,transparent);
+ transform:rotate(20deg);animation:cinemaSweep 15s ease-in-out infinite;
+}
+.cinema-row{transition:opacity .35s ease}
+.cinema-video-rail .video-card,.cinema-poster-rail .series-card,.cinema-channel-rail .channel-card{
+ transition:transform .3s cubic-bezier(.2,.75,.2,1),box-shadow .3s,border-color .3s
+}
+.cinema-video-rail .video-card:hover,.cinema-poster-rail .series-card:hover{
+ box-shadow:0 18px 45px #000b,0 0 0 1px #fa5c7448
+}
+.section-head h2,.cinema-heading h2{background:linear-gradient(115deg,#fff 0%,#e7e5f2 67%,#b5acb9);
+ color:transparent;background-clip:text;-webkit-background-clip:text}
+@keyframes slideProgress{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes ambientDrift{from{transform:translate3d(-40px,-25px,0) scale(.9)}to{transform:translate3d(90px,110px,0) scale(1.13)}}
+@keyframes shimmerFloat{from{transform:translate3d(-20px,-10px,0)}to{transform:translate3d(45px,35px,0)}}
+@keyframes cinemaSweep{0%,67%,100%{transform:translateX(-90%) rotate(20deg)}78%{transform:translateX(330%) rotate(20deg)}}
+@keyframes signalGlow{0%,100%{opacity:.75;transform:scale(.86)}50%{opacity:1;transform:scale(1.1)}}
+@keyframes brandPulse{0%,100%{box-shadow:0 6px 22px #db304455}50%{box-shadow:0 6px 28px #e1396488}}
+@media(max-width:930px){
+ .content-area::before,.content-area::after{filter:blur(70px);opacity:.13}
+ .spotlight-stage{height:550px;min-height:470px}
+ .spotlight-slide-inner{width:min(76%,620px);margin-left:40px}
+ .spotlight-slide-inner h1{font-size:clamp(42px,6.5vw,68px)}
+ .spotlight-mini{min-width:155px}
+}
+@media(max-width:650px){
+ .spotlight-topline{margin:4px 0 10px}
+ .spotlight-topline .spotlight-title{font-size:10px;letter-spacing:.09em}
+ .spotlight-topline .spotlight-channel-count{font-size:10px;text-align:right}
+ .spotlight-stage{min-height:490px;height:510px;border-radius:12px}
+ .spotlight-slide{align-items:end}
+ .spotlight-art img{object-position:center 26%}
+ .spotlight-shade{background:
+  linear-gradient(0deg,#080910fc 0%,#080910ec 23%,#080910a8 46%,#08091035 79%,#08091025 100%),
+  linear-gradient(90deg,#08091045,#08091008)}
+ .spotlight-slide-inner{margin:0;width:100%;padding:20px 20px 110px}
+ .spotlight-slide-inner h1{font-size:clamp(37px,9vw,54px);max-width:520px;margin:12px 0}
+ .spotlight-kicker{font-size:10px}
+ .spotlight-meta{margin:10px 0}
+ .spotlight-meta span{font-size:10px;padding:4px 7px}
+ .spotlight-description{font-size:12px;line-height:1.55;max-width:450px;margin:8px 0 15px}
+ .spotlight-buttons{gap:8px;margin-top:12px}
+ .spotlight-buttons button{font-size:12px;min-height:42px;padding:0 13px}
+ .spotlight-controls{bottom:22px;left:19px;right:19px}
+ .spotlight-nav,.spotlight-pause{width:36px;height:36px;font-size:21px}
+ .spotlight-pause{font-size:15px}
+ .spotlight-dot{width:28px}
+ .spotlight-mini{min-width:140px}
+ .spotlight-mini img{width:36px;height:50px}
+ .spotlight-mini strong{font-size:11px}
+ .content-area::before,.content-area::after{opacity:.095}
+}
+@media(max-width:390px){
+ .spotlight-stage{height:505px}
+ .spotlight-slide-inner{padding:16px 16px 102px}
+ .spotlight-slide-inner h1{font-size:37px}
+ .spotlight-description{font-size:11px}
+ .spotlight-controls{left:16px;right:16px}
+ .spotlight-mini{min-width:130px}
+}
+@media(prefers-reduced-motion:reduce){
+ .content-area::before,.content-area::after,.sidebar .brand-icon,
+ .spotlight-glimmer::before,.spotlight-glimmer::after,
+ .spotlight-sheen::after,.spotlight-topline .spotlight-title::before{animation:none!important}
+ .spotlight-slide{transition:none;transform:none}
+ .spotlight-slide .spotlight-art img{transition:none;transform:none!important}
+ .spotlight-dot.is-active::after{animation:none;transform:scaleX(1)}
+ .spotlight-mini,.cinema-poster-rail .series-card,.cinema-video-rail .video-card{transition:none}
+}
