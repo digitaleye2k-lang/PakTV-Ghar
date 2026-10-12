@@ -3,7 +3,7 @@
    Supabase URL example: https://YOUR-PROJECT.supabase.co
    Publishable/anon key is intentionally public; RLS protects private records. */
 window.PAKTV_COMMUNITY_CONFIG = Object.freeze({
-  supabaseUrl: "",
-  publishableKey: "",
+  supabaseUrl: "https://boyllgyfvdtdxmfmpxks.supabase.co",
+  publishableKey: "sb_publishable_aCaqIVUczjqoKeCCV62A4g_6B7gBE2l",
   analyticsFunction: "community-visit"
 });
