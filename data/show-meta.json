@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T20:20:27.859654+05:00",
+  "generatedAt": "2026-10-13T20:41:04.310193+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "tvToday": {
@@ -645,11 +645,33 @@
     "arydigital-balaa": {
       "lastAttempt": "2026-10-12T20:10:59.659910+05:00",
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1766501760146_fbfea1a6cb.webp&w=1920&q=75",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 40,
+        "id": "Y-FR5libzrg",
+        "title": "Balaa Last Episode 40 | Bilal Abbas | Ushna Shah | ARY Digital",
+        "date": "2024-03-27",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "arydigital-beti": {
       "lastAttempt": "2026-10-12T20:10:59.748608+05:00",
-      "fetchWarning": "HTTPError"
+      "fetchWarning": "HTTPError",
+      "latestUpload": {
+        "number": 24,
+        "id": "efhYTGsxJP0",
+        "title": "Beti Last Episode 24 |Part 2 | - 26th February 2019 - ARY Digital [Subtitle Eng]",
+        "date": "2019-02-26",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/efhYTGsxJP0/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "hum-bin-roye": {
       "lastAttempt": "2026-10-12T20:10:59.782387+05:00"
@@ -657,12 +679,32 @@
     "arydigital-bismil": {
       "lastAttempt": "2026-10-12T20:10:59.782425+05:00",
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1763828758001_fa8db033a4.webp&w=1920&q=75",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 36,
+        "id": "UaRB_9jVzMo",
+        "title": "Bismil Episode 36 | Digitally Presented by Vince Care | 19 Dec 2024 (English Sub) | ARY Digital",
+        "date": "2024-12-19",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "arydigital-burns-road-kay-romeo-juliet": {
       "lastAttempt": "2026-10-12T20:10:59.811343+05:00",
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1759165805729_b60d4a7eb8.webp&w=1920&q=75",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 34,
+        "id": "wOQUy1mxrdc",
+        "title": "Burns Road Kay Romeo Juliet EP 34 (Eng Sub) | Iqra Aziz | Hamza Sohail | 24 June 2024 | ARY Digital",
+        "date": "2024-06-24",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "arydigital-chand-tara": {
       "lastAttempt": "2026-10-12T20:10:59.880654+05:00",
