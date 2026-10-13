@@ -46,8 +46,16 @@ assert 'grant select on public.community_messages to anon,authenticated' not in 
   'Raw message table must never expose author_id to public clients')
 assert 'backend.from("community_messages")' not in client
 assert "window.PAKTV_COMMUNITY_CONFIG" in config
-assert re.search(r'supabaseUrl:\s*""', config), 'Do not pre-fill a fabricated backend URL'
-assert re.search(r'publishableKey:\s*""', config), 'Do not expose or fabricate an API key'
+# An unconfigured deployment is safe, and a configured deployment must use
+# a real-shaped Supabase HTTPS project URL and only a public publishable key.
+url_match = re.search(r'supabaseUrl:\s*"([^"]*)"', config)
+key_match = re.search(r'publishableKey:\s*"([^"]*)"', config)
+assert url_match and key_match, 'Community configuration fields are missing'
+supabase_url, publishable_key = url_match.group(1), key_match.group(1)
+assert bool(supabase_url) == bool(publishable_key), 'Community project URL and key must be configured together'
+if supabase_url:
+    assert re.fullmatch(r'https://[a-z0-9-]+\\.supabase\\.co/?', supabase_url), 'Community URL must point to a Supabase project'
+    assert re.fullmatch(r'sb_publishable_[A-Za-z0-9_-]{12,}', publishable_key), 'Only a public Supabase publishable key belongs in browser code'
 assert "SERVICE_ROLE_KEY" not in config and "service_role" not in config.lower()
 assert 'VISITOR_HASH_SECRET' in edge and '"HMAC"' in edge
 assert 'ALLOWED.has(origin)' in edge
