@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T02:36:03.116893+05:00",
+  "generatedAt": "2026-10-13T20:20:27.859654+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "tvToday": {
@@ -580,12 +580,34 @@
     },
     "arydigital-angna": {
       "lastAttempt": "2026-10-12T20:10:59.386790+05:00",
-      "fetchWarning": "HTTPError"
+      "fetchWarning": "HTTPError",
+      "latestUpload": {
+        "number": 66,
+        "id": "YrDVNI5w4dk",
+        "title": "Angna Last Episode 66 | 6th June 2022 (English Subtitles) ARY Digital Drama",
+        "date": "2022-06-06",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/YrDVNI5w4dk/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "arydigital-aulaad": {
       "lastAttempt": "2026-10-12T20:10:59.442185+05:00",
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1769350762265_cd95f837cb.webp&w=1920&q=75",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 30,
+        "id": "T8ttQtDT5dI",
+        "title": "Aulaad 2nd Last Episode 30 | Part 1 | Presented By Brite | 1st June 2021 | ARY Digital Drama",
+        "date": "2021-06-01",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "arydigital-baby-baji": {
       "lastAttempt": "2026-10-12T20:10:59.497010+05:00",
@@ -593,12 +615,32 @@
       "posterSource": "Official broadcaster",
       "latestPublisherEpisode": 2,
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
-      "latestPublisherSource": "https://arydigital.tv/drama/baby-baji/"
+      "latestPublisherSource": "https://arydigital.tv/drama/baby-baji/",
+      "latestUpload": {
+        "number": 75,
+        "id": "zUQLLIcZ05c",
+        "title": "Baby Baji Ki Bahuwain Last Episode 75 | 6 Dec 2024 (English Subtitles) ARY Digital",
+        "date": "2024-12-06",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "arydigital-baby-baji-ki-bahuwain": {
       "lastAttempt": "2026-10-12T20:10:59.507894+05:00",
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FArtboard_1_1760620469907_3721b6d5dd.webp&w=1920&q=75",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 75,
+        "id": "zUQLLIcZ05c",
+        "title": "Baby Baji Ki Bahuwain Last Episode 75 | 6 Dec 2024 (English Subtitles) ARY Digital",
+        "date": "2024-12-06",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "arydigital-balaa": {
       "lastAttempt": "2026-10-12T20:10:59.659910+05:00",
