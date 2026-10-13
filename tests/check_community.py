@@ -54,7 +54,7 @@ assert url_match and key_match, 'Community configuration fields are missing'
 supabase_url, publishable_key = url_match.group(1), key_match.group(1)
 assert bool(supabase_url) == bool(publishable_key), 'Community project URL and key must be configured together'
 if supabase_url:
-    assert re.fullmatch(r'https://[a-z0-9-]+\\.supabase\\.co/?', supabase_url), 'Community URL must point to a Supabase project'
+    assert re.fullmatch(r'https://[a-z0-9-]+[.]supabase[.]co/?', supabase_url), 'Community URL must point to a Supabase project'
     assert re.fullmatch(r'sb_publishable_[A-Za-z0-9_-]{12,}', publishable_key), 'Only a public Supabase publishable key belongs in browser code'
 assert "SERVICE_ROLE_KEY" not in config and "service_role" not in config.lower()
 assert 'VISITOR_HASH_SECRET' in edge and '"HMAC"' in edge
