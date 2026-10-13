@@ -1,14 +1,7 @@
 {
-  "generatedAt": "2026-10-13T23:47:28.157177+05:00",
+  "generatedAt": "2026-10-14T02:48:22.969727+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
-      "tvToday": {
-        "number": 6,
-        "time": "20:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-13"
-      },
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
       "poster": "https://harpalgeo.tv/assets/uploads/programs/640_7476234_programs.jpg",
       "posterSource": "Official broadcaster",
@@ -42,13 +35,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 18,
-        "time": "16:30",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-13"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -64,22 +50,15 @@
         "embeddable": true
       },
       "poster": "https://i.ytimg.com/vi/0Yif1LS-bT4/hqdefault.jpg",
-      "posterSource": "Official YouTube thumbnail",
-      "tvToday": {
-        "number": 62,
-        "time": "02:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-13"
-      }
+      "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-uswa": {
       "tvToday": {
-        "number": 21,
+        "number": 22,
         "time": "19:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-13"
+        "date": "2026-10-14"
       },
       "lastAttempt": "2026-10-12T20:10:58.606287+05:00",
       "latestUpload": {
@@ -103,11 +82,11 @@
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
       "latestPublisherSource": "https://harpalgeo.tv/program/Khafa",
       "tvToday": {
-        "number": 20,
-        "time": "00:00",
+        "number": 21,
+        "time": "20:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-13"
+        "date": "2026-10-14"
       }
     },
     "hum-aangan": {
@@ -129,11 +108,11 @@
       "poster": "https://harpalgeo.tv/assets/uploads/programs/641_9919269_programs.jpg",
       "posterSource": "Official broadcaster",
       "tvToday": {
-        "number": 1,
+        "number": 2,
         "time": "21:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-13"
+        "date": "2026-10-14"
       },
       "latestUpload": {
         "number": 1,
@@ -810,7 +789,17 @@
     "arydigital-ghisi-piti-mohabbat": {
       "lastAttempt": "2026-10-12T20:11:00.302058+05:00",
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1763580025013_b5d2eff02d.webp&w=1920&q=75",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 23,
+        "id": "lidXdv5N8wI",
+        "title": "Ghisi Piti Mohabbat Episode 23 - Part 2 | 7th Jan 2021 (English Subtitles) | ARY Digital Drama",
+        "date": "2021-01-07",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "harpalgeo-heer-da-hero": {
       "lastAttempt": "2026-10-12T20:11:00.325812+05:00"
@@ -824,7 +813,17 @@
     "arydigital-ishq-hai": {
       "lastAttempt": "2026-10-12T20:11:00.425652+05:00",
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FIshq_hai_Poster_jpg_496a99e285.jpeg&w=1920&q=75",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 37,
+        "id": "RzLvtO4U_Kg",
+        "title": "Ishq Hai Last Episode 37 | Part 2 | Eng Sub | Danish Taimoor | Minal Khan | ARY Digital Drama",
+        "date": "2021-09-14",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "hum-ishq-murshid": {
       "lastAttempt": "2026-10-12T20:11:00.439083+05:00"
@@ -838,7 +837,17 @@
     "arydigital-jaan-e-jahan": {
       "lastAttempt": "2026-10-12T20:13:27.715764+05:00",
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2F280x400_1762277879208_10ef843de3.webp&w=1920&q=75",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 41,
+        "id": "s0vpKgphi6w",
+        "title": "Jaan e Jahan Last Episode 41 {Eng Sub} Hamza Ali Abbasi | Ayeza Khan | 24 May 2024 | ARY Digital",
+        "date": "2024-05-24",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "hum-jafaa": {
       "lastAttempt": "2026-10-12T20:13:27.716222+05:00"
@@ -846,7 +855,17 @@
     "arydigital-jalan": {
       "lastAttempt": "2026-10-12T20:13:27.716464+05:00",
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_f3ca0f7646.jpg&w=1920&q=75",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 29,
+        "id": "Bu0sQ93Kc48",
+        "title": "Jalan Episode 29 [Subtitle Eng] - 9th December 2020 - ARY Digital Drama",
+        "date": "2020-12-09",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "arydigital-jeeto-pakistan": {
       "lastAttempt": "2026-10-12T20:13:27.716669+05:00",
