@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T08:52:30.448447+05:00",
+  "generatedAt": "2026-10-14T12:05:49.769381+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -10,11 +10,11 @@
       "latestPublisherSource": "https://harpalgeo.tv/program/Mohabbat",
       "latestUpload": {
         "number": 6,
-        "id": "0cv2d_cjqwc",
-        "title": "Mohabbat Episode 06 [Eng Sub] Feroze Khan - Nawal Saeed | 13th October 2026 - HAR PAL GEO",
-        "date": "2026-10-13",
+        "id": "08n10E5NLD8",
+        "title": "Mohabbat Episode 06 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
+        "date": "2026-10-14",
         "source": "Official YouTube upload",
-        "availableGB": false,
+        "availableGB": true,
         "availablePK": true,
         "embeddable": true
       },
@@ -77,11 +77,11 @@
       "lastAttempt": "2026-10-12T20:10:58.606287+05:00",
       "latestUpload": {
         "number": 21,
-        "id": "38dkS4-Dazw",
-        "title": "Uswah Episode 21 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 13th October 2026",
-        "date": "2026-10-13",
+        "id": "XEhjFGu33Vg",
+        "title": "Uswah Episode 21 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "date": "2026-10-14",
         "source": "Official YouTube upload",
-        "availableGB": false,
+        "availableGB": true,
         "availablePK": true,
         "embeddable": true
       },
@@ -130,11 +130,11 @@
       },
       "latestUpload": {
         "number": 1,
-        "id": "xDEm4l_PLyc",
-        "title": "Bano Episode 01 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 13th October 2026 | HAR PAL GEO",
-        "date": "2026-10-13",
+        "id": "UWaAjaxZf10",
+        "title": "Bano Episode 01 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "date": "2026-10-14",
         "source": "Official YouTube upload",
-        "availableGB": false,
+        "availableGB": true,
         "availablePK": true,
         "embeddable": true
       }
@@ -254,7 +254,7 @@
         "title": "Rutba EP 3 | 13 Oct 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ENG SUB",
         "date": "2026-10-13",
         "source": "Official YouTube upload",
-        "availableGB": false,
+        "availableGB": true,
         "availablePK": true,
         "embeddable": true
       }
@@ -740,7 +740,17 @@
       "posterSource": "Official broadcaster",
       "latestPublisherEpisode": 47,
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
-      "latestPublisherSource": "https://harpalgeo.tv/program/Dil-e-Momin"
+      "latestPublisherSource": "https://harpalgeo.tv/program/Dil-e-Momin",
+      "latestUpload": {
+        "number": 48,
+        "id": "lnfmCizXhfs",
+        "title": "Dil-e-Momin - 2nd Last Episode 48 - [Eng Sub] - 29th April 2022 - Har Pal Geo",
+        "date": "2022-04-29",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "hum-diyar-e-dil": {
       "lastAttempt": "2026-10-12T20:11:00.215373+05:00"
@@ -1116,7 +1126,17 @@
     "arydigital-sukoon": {
       "lastAttempt": "2026-10-12T20:13:29.043319+05:00",
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1758557233183_0c269f80fa.webp&w=1920&q=75",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 45,
+        "id": "p6xEjc0PqpA",
+        "title": "Sukoon Episode 45 | Digitally Presented by Royal (Eng Sub) | 20 March 2024 | ARY Digital",
+        "date": "2024-03-20",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "hum-suno-chanda": {
       "lastAttempt": "2026-10-12T20:13:29.050552+05:00"
