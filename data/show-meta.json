@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T14:51:58.701117+05:00",
+  "generatedAt": "2026-10-14T18:02:05.399738+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -945,7 +945,17 @@
       "posterSource": "Official broadcaster",
       "latestPublisherEpisode": 14,
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
-      "latestPublisherSource": "https://harpalgeo.tv/program/Jhoom"
+      "latestPublisherSource": "https://harpalgeo.tv/program/Jhoom",
+      "latestUpload": {
+        "number": 16,
+        "id": "aE5aOEq2Kjw",
+        "title": "Jhoom Last Episode 16 | Haroon Kadwani - Zara Noor Abbas - Sidra Niazi | Har Pal Geo",
+        "date": "2026-05-30",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "arydigital-kabhi-main-kabhi-tum": {
       "lastAttempt": "2026-10-12T20:13:27.717957+05:00",
@@ -968,14 +978,36 @@
       "posterSource": "Official broadcaster",
       "latestPublisherEpisode": 88,
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
-      "latestPublisherSource": "https://harpalgeo.tv/program/Kaffara"
+      "latestPublisherSource": "https://harpalgeo.tv/program/Kaffara",
+      "latestUpload": {
+        "number": 90,
+        "id": "JnvhRXXHqFE",
+        "title": "Kaffara Last Episode 90 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Ali Ansari - Laiba Khan - Zoya Nasir - Har Pal Geo",
+        "date": "2024-10-18",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "arydigital-kaisi-teri-khudgarzi": {
       "lastAttempt": "2026-10-12T20:13:27.718792+05:00",
       "fetchWarning": "HTTPError"
     },
     "harpalgeo-khaali-haath": {
-      "lastAttempt": "2026-10-12T20:13:27.719153+05:00"
+      "lastAttempt": "2026-10-12T20:13:27.719153+05:00",
+      "latestUpload": {
+        "number": 25,
+        "id": "gmxZm_2ZnuU",
+        "title": "Khaali Haath - Episode 25 | Har Pal Geo",
+        "date": "2017-08-07",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/gmxZm_2ZnuU/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-khaani": {
       "lastAttempt": "2026-10-12T20:13:27.719550+05:00",
