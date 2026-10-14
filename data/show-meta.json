@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T20:56:35.917004+05:00",
+  "generatedAt": "2026-10-15T00:00:27.845831+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -9,21 +9,14 @@
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
       "latestPublisherSource": "https://harpalgeo.tv/program/Mohabbat",
       "latestUpload": {
-        "number": 6,
-        "id": "XSdr0ZDTqAY",
-        "title": "Mohabbat Episode 06 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
-        "date": "2026-10-14",
+        "number": 29,
+        "id": "fLNsys-qTLc",
+        "title": "Mohabbat Tum Se Nafrat Hai - Last Episode 29 | Har Pal Geo",
+        "date": "2019-12-25",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 6,
-        "time": "01:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-14"
       }
     },
     "harpalgeo-nashtar": {
@@ -42,13 +35,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 18,
-        "time": "04:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-14"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -68,11 +54,11 @@
     },
     "harpalgeo-uswa": {
       "tvToday": {
-        "number": 22,
+        "number": 23,
         "time": "19:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-14"
+        "date": "2026-10-15"
       },
       "lastAttempt": "2026-10-12T20:10:58.606287+05:00",
       "latestUpload": {
@@ -96,11 +82,11 @@
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
       "latestPublisherSource": "https://harpalgeo.tv/program/Khafa",
       "tvToday": {
-        "number": 21,
+        "number": 22,
         "time": "20:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-14"
+        "date": "2026-10-15"
       }
     },
     "hum-aangan": {
@@ -122,11 +108,11 @@
       "poster": "https://harpalgeo.tv/assets/uploads/programs/641_9919269_programs.jpg",
       "posterSource": "Official broadcaster",
       "tvToday": {
-        "number": 2,
+        "number": 3,
         "time": "21:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-14"
+        "date": "2026-10-15"
       },
       "latestUpload": {
         "number": 1,
@@ -1151,10 +1137,34 @@
       }
     },
     "harpalgeo-mohabbat-tumse-nafrat-hai": {
-      "lastAttempt": "2026-10-12T20:13:28.474444+05:00"
+      "lastAttempt": "2026-10-12T20:13:28.474444+05:00",
+      "latestUpload": {
+        "number": 29,
+        "id": "fLNsys-qTLc",
+        "title": "Mohabbat Tum Se Nafrat Hai - Last Episode 29 | Har Pal Geo",
+        "date": "2019-12-25",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/fLNsys-qTLc/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-mushk": {
-      "lastAttempt": "2026-10-12T20:13:28.504684+05:00"
+      "lastAttempt": "2026-10-12T20:13:28.504684+05:00",
+      "latestUpload": {
+        "number": 49,
+        "id": "eqTjzTPa2wc",
+        "title": "Mushkil Mega Last Ep 49 - [Eng Sub] - Saboor Ali - Khushhal Khan - Zainab Shabbir - 4th Sep 2022",
+        "date": "2022-09-04",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/eqTjzTPa2wc/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "hum-nadaan": {
       "lastAttempt": "2026-10-12T20:13:28.536418+05:00"
