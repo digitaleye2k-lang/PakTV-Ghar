@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T12:05:49.769381+05:00",
+  "generatedAt": "2026-10-14T14:51:58.701117+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -800,7 +800,17 @@
       "posterSource": "Official broadcaster",
       "latestPublisherEpisode": 48,
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
-      "latestPublisherSource": "https://harpalgeo.tv/program/Farq"
+      "latestPublisherSource": "https://harpalgeo.tv/program/Farq",
+      "latestUpload": {
+        "number": 49,
+        "id": "SV8jsvXr7qk",
+        "title": "Farq 2nd Last Episode 49 - [Eng Sub] - Faysal Quraishi - Sehar Khan - Adeel Chaudhry - 17th April 23",
+        "date": "2023-04-17",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "harpalgeo-fitoor": {
       "lastAttempt": "2026-10-12T20:11:00.282079+05:00",
@@ -808,7 +818,17 @@
       "posterSource": "Official broadcaster",
       "latestPublisherEpisode": 45,
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
-      "latestPublisherSource": "https://harpalgeo.tv/program/Fitoor"
+      "latestPublisherSource": "https://harpalgeo.tv/program/Fitoor",
+      "latestUpload": {
+        "number": 46,
+        "id": "4ARMphzZThU",
+        "title": "Fitoor - 2nd Last Ep 46 [Eng Sub] Digitally Presented by Nippon Paint - 16th Sep 2021 - HAR PAL GEO",
+        "date": "2021-09-16",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "arydigital-ghisi-piti-mohabbat": {
       "lastAttempt": "2026-10-12T20:11:00.302058+05:00",
@@ -826,7 +846,19 @@
       }
     },
     "harpalgeo-heer-da-hero": {
-      "lastAttempt": "2026-10-12T20:11:00.325812+05:00"
+      "lastAttempt": "2026-10-12T20:11:00.325812+05:00",
+      "latestUpload": {
+        "number": 30,
+        "id": "fG2WXTfjl7M",
+        "title": "Heer Da Hero Ep 30 - [Eng Sub]- Digitally Presented by Qarshi Jam-e-Shirin - Imran Ashraf, Amar Khan",
+        "date": "2023-04-21",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/fG2WXTfjl7M/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "hum-hum-tum": {
       "lastAttempt": "2026-10-12T20:11:00.425604+05:00"
@@ -853,7 +885,19 @@
       "lastAttempt": "2026-10-12T20:11:00.439083+05:00"
     },
     "harpalgeo-jaan-nisar": {
-      "lastAttempt": "2026-10-12T20:11:00.439114+05:00"
+      "lastAttempt": "2026-10-12T20:11:00.439114+05:00",
+      "latestUpload": {
+        "number": 65,
+        "id": "gYVborPPkS4",
+        "title": "Jaan Nisar Last Episode 65 - [Eng Sub] - Digitally Presented by Happilac Paints - 26th Oct 2024",
+        "date": "2024-10-26",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/gYVborPPkS4/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-jaan-se-pyara-juni": {
       "lastAttempt": "2026-10-12T20:11:00.496828+05:00"
