@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T06:02:37.782492+05:00",
+  "generatedAt": "2026-10-14T08:52:30.448447+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -148,7 +148,7 @@
         "title": "Bombay Tailors - Episode 28 - [Eng Sub] 13th Oct 2026 [ Anika Zulfikar & Ali Ansari ] - HUM TV",
         "date": "2026-10-13",
         "source": "Official YouTube upload",
-        "availableGB": false,
+        "availableGB": true,
         "availablePK": true,
         "embeddable": true
       }
@@ -182,7 +182,7 @@
         "title": "Hurmat - Episode 04 - [Eng Sub] 13th Oct 2026 - [ Dananeer Mobeen & Shahveer Jafry ] - HUM TV",
         "date": "2026-10-13",
         "source": "Official YouTube upload",
-        "availableGB": false,
+        "availableGB": true,
         "availablePK": true,
         "embeddable": true
       }
@@ -214,7 +214,7 @@
         "title": "Khushi - Episode 31 - [Eng Sub] 13th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
         "date": "2026-10-13",
         "source": "Official YouTube upload",
-        "availableGB": false,
+        "availableGB": true,
         "availablePK": true,
         "embeddable": true
       }
@@ -998,7 +998,17 @@
     "arydigital-mere-humsafar": {
       "lastAttempt": "2026-10-12T20:13:28.355389+05:00",
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2F280_x_400_1726139090900_728605f12a.jpg&w=1920&q=75",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 38,
+        "id": "C1Qi4ZWhInI",
+        "title": "Mere Humsafar Episode 38- Presented by Sensodyne -15th September 2022(English Subtitles) #ARYDigital",
+        "date": "2022-09-15",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "harpalgeo-mohabbat-tumse-nafrat-hai": {
       "lastAttempt": "2026-10-12T20:13:28.474444+05:00"
@@ -1012,7 +1022,17 @@
     "arydigital-noor-jahan": {
       "lastAttempt": "2026-10-12T20:13:28.536440+05:00",
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2F280x400_1784033838692_88fa5bf15f.webp&w=1920&q=75",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 31,
+        "id": "8t90UwKRIvc",
+        "title": "Noor Jahan Episode 31 | 7 September 2024 (Eng Sub) | ARY Digital",
+        "date": "2024-09-07",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "hum-parizaad": {
       "lastAttempt": "2026-10-12T20:13:28.562108+05:00"
@@ -1020,7 +1040,17 @@
     "arydigital-pehli-si-muhabbat": {
       "lastAttempt": "2026-10-12T20:13:28.562135+05:00",
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1765895627656_604909cfd2.webp&w=1920&q=75",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 36,
+        "id": "kvUgjrbkrrY",
+        "title": "Pehli Si Muhabbat - 2nd Last Ep 36 - Presented by Pantene [Subtitle Eng] 2nd Oct 2021- ARY Digital",
+        "date": "2021-10-02",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "hum-pyar-ke-sadqay": {
       "lastAttempt": "2026-10-12T20:13:28.676461+05:00"
@@ -1040,7 +1070,17 @@
     "arydigital-qurban": {
       "lastAttempt": "2026-10-12T20:13:28.757764+05:00",
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1761152025381_02696eafab.webp&w=1920&q=75",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 29,
+        "id": "S0VszIEH144",
+        "title": "Qurban Last Episode 29 | Bilal Abbas | Iqra Aziz | ARY Digital",
+        "date": "2024-01-22",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "harpalgeo-radd": {
       "lastAttempt": "2026-10-12T20:13:28.798415+05:00"
