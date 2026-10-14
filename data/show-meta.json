@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T18:02:05.399738+05:00",
+  "generatedAt": "2026-10-14T20:56:35.917004+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -10,8 +10,8 @@
       "latestPublisherSource": "https://harpalgeo.tv/program/Mohabbat",
       "latestUpload": {
         "number": 6,
-        "id": "08n10E5NLD8",
-        "title": "Mohabbat Episode 06 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
+        "id": "XSdr0ZDTqAY",
+        "title": "Mohabbat Episode 06 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
         "date": "2026-10-14",
         "source": "Official YouTube upload",
         "availableGB": true,
@@ -76,12 +76,12 @@
       },
       "lastAttempt": "2026-10-12T20:10:58.606287+05:00",
       "latestUpload": {
-        "number": 21,
-        "id": "XEhjFGu33Vg",
-        "title": "Uswah Episode 21 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "number": 22,
+        "id": "X0ib2RgA-yc",
+        "title": "Uswah Episode 22 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 14th October 2026",
         "date": "2026-10-14",
         "source": "Official YouTube upload",
-        "availableGB": true,
+        "availableGB": false,
         "availablePK": true,
         "embeddable": true
       },
@@ -130,8 +130,8 @@
       },
       "latestUpload": {
         "number": 1,
-        "id": "UWaAjaxZf10",
-        "title": "Bano Episode 01 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "id": "b6LQiqm5Hjs",
+        "title": "Bano Episode 01 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
         "date": "2026-10-14",
         "source": "Official YouTube upload",
         "availableGB": true,
@@ -159,11 +159,31 @@
       "posterSource": "Official broadcaster",
       "latestPublisherEpisode": 22,
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
-      "latestPublisherSource": "https://arydigital.tv/drama/dar-e-nijaat/"
+      "latestPublisherSource": "https://arydigital.tv/drama/dar-e-nijaat/",
+      "latestUpload": {
+        "number": 18,
+        "id": "lw11TPMjL5Y",
+        "title": "Dar e Nijaat Episode 18 | Emotional Scene | ARY Digital",
+        "date": "2026-10-14",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "hum-gulbahar": {
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Gulbahar-500.jpg.jpg.jpg",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 8,
+        "id": "lX6J6JRVxPc",
+        "title": "Gulbahar - Flashback - Episode 08 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
+        "date": "2026-10-14",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "arydigital-hey-fam": {
       "lastAttempt": "2026-10-12T20:10:58.068532+05:00",
@@ -195,10 +215,10 @@
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
       "latestPublisherSource": "https://arydigital.tv/drama/izzat/",
       "latestUpload": {
-        "number": 24,
-        "id": "pBIgyNLR8AM",
-        "title": "Izzat Episode 24 | 13 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "date": "2026-10-13",
+        "number": 25,
+        "id": "7OIvitxjzx8",
+        "title": "Izzat Episode 25 | 14 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "date": "2026-10-14",
         "source": "Official YouTube upload",
         "availableGB": false,
         "availablePK": true,
@@ -209,12 +229,12 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Khushi-500.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 31,
-        "id": "4hRIF3Ki0lg",
-        "title": "Khushi - Episode 31 - [Eng Sub] 13th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "date": "2026-10-13",
+        "number": 32,
+        "id": "_78cL8zWAEk",
+        "title": "Khushi - Episode 32 - [Eng Sub] 14th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "date": "2026-10-14",
         "source": "Official YouTube upload",
-        "availableGB": true,
+        "availableGB": false,
         "availablePK": true,
         "embeddable": true
       }
@@ -1015,7 +1035,17 @@
       "posterSource": "Official broadcaster",
       "latestPublisherEpisode": 30,
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
-      "latestPublisherSource": "https://harpalgeo.tv/program/Khaani"
+      "latestPublisherSource": "https://harpalgeo.tv/program/Khaani",
+      "latestUpload": {
+        "number": 30,
+        "id": "2G1kRFXBU8s",
+        "title": "Khaani - Episode 30 - Feroze Khan - Sana Javed - [HD] - Har Pal Geo",
+        "date": "2022-01-23",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "dunya-khabaryar": {
       "lastAttempt": "2026-10-12T20:13:27.719964+05:00"
@@ -1049,13 +1079,37 @@
       "fetchWarning": "HTTPError"
     },
     "harpalgeo-mann-mast-malang": {
-      "lastAttempt": "2026-10-12T20:13:27.920768+05:00"
+      "lastAttempt": "2026-10-12T20:13:27.920768+05:00",
+      "latestUpload": {
+        "number": 56,
+        "id": "_tPCT_22sQk",
+        "title": "Mann Mast Malang Last Episode 56 [Eng Sub] Presented by Diamond Paints & Ujooba Beauty Cream",
+        "date": "2025-06-29",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/_tPCT_22sQk/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "hum-mann-mayal": {
       "lastAttempt": "2026-10-12T20:13:28.097705+05:00"
     },
     "harpalgeo-mannat-murad": {
-      "lastAttempt": "2026-10-12T20:13:28.097725+05:00"
+      "lastAttempt": "2026-10-12T20:13:28.097725+05:00",
+      "latestUpload": {
+        "number": 33,
+        "id": "OPmT7x3da5w",
+        "title": "Mannat Murad Last Episode 33 - [Eng Sub] Digitally Presented by Jhalak Beauty Cream - 16th Jan 2024",
+        "date": "2024-01-16",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/OPmT7x3da5w/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-mast-mohabbat": {
       "lastAttempt": "2026-10-12T20:13:28.112839+05:00"
@@ -1235,10 +1289,10 @@
     "hum-udaari": {
       "lastAttempt": "2026-10-12T20:13:29.083820+05:00",
       "latestUpload": {
-        "number": 21,
-        "id": "cUcAc7BJ8kk",
-        "title": "Udaari Episode 21 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "date": "2026-10-13",
+        "number": 22,
+        "id": "99Bbeou_qjY",
+        "title": "Udaari Episode 22 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "date": "2026-10-14",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
