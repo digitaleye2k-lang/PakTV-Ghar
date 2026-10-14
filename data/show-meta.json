@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T02:48:22.969727+05:00",
+  "generatedAt": "2026-10-14T06:02:37.782492+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,6 +17,13 @@
         "availableGB": false,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 6,
+        "time": "01:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-14"
       }
     },
     "harpalgeo-nashtar": {
@@ -35,6 +42,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 18,
+        "time": "04:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-14"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -882,7 +896,17 @@
     "arydigital-kabhi-main-kabhi-tum": {
       "lastAttempt": "2026-10-12T20:13:27.717957+05:00",
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FKabhi_mein_kabhi_tum_Poster_jpg_416e28ac0d.jpeg&w=1920&q=75",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 33,
+        "id": "EiNlWJfXKlU",
+        "title": "Kabhi Main Kabhi Tum Episode 33 | Fahad Mustafa | Hania Aamir | 29 Oct 2024 (Eng Sub) | ARY Digital",
+        "date": "2024-10-29",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": false,
+        "embeddable": true
+      }
     },
     "harpalgeo-kaffara": {
       "lastAttempt": "2026-10-12T20:13:27.718381+05:00",
@@ -922,7 +946,17 @@
     "arydigital-kuch-ankahi": {
       "lastAttempt": "2026-10-12T20:13:27.913486+05:00",
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1761674823187_6f96d72e5a.webp&w=1920&q=75",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 26,
+        "id": "3o7zGnmqn_4",
+        "title": "Kuch Ankahi 2nd Last Ep 26 | Eng Sub | 8 July 2023 | Digitally Presented by Master Paints & Sunsilk",
+        "date": "2023-07-08",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "arydigital-loose-talk": {
       "lastAttempt": "2026-10-12T20:13:27.920252+05:00",
@@ -943,7 +977,17 @@
     "arydigital-mayi-ri": {
       "lastAttempt": "2026-10-12T20:13:28.129706+05:00",
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2F280x400_1761310383206_fd29d4c15c.webp&w=1920&q=75",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 63,
+        "id": "ijwOHgAmZ7g",
+        "title": "Mayi Ri | Episode 63 | 4 October 2023 (English Subtitles) ARY Digital Drama",
+        "date": "2023-10-04",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "hum-meem-se-mohabbat": {
       "lastAttempt": "2026-10-12T20:13:28.195951+05:00"
