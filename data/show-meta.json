@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T00:00:27.845831+05:00",
+  "generatedAt": "2026-10-15T02:50:23.038329+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,6 +17,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 6,
+        "time": "16:30",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-15"
       }
     },
     "harpalgeo-nashtar": {
@@ -35,6 +42,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 18,
+        "time": "11:30",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-15"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -1211,7 +1225,17 @@
       "posterSource": "Official broadcaster",
       "latestPublisherEpisode": 58,
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
-      "latestPublisherSource": "https://harpalgeo.tv/program/Qalandar"
+      "latestPublisherSource": "https://harpalgeo.tv/program/Qalandar",
+      "latestUpload": {
+        "number": 59,
+        "id": "vpdfgV0oipw",
+        "title": "Qalandar 2nd Last Episode 59 - [Eng Sub] - Muneeb Butt - Komal Meer - Ali Abbas - 22nd April 2023",
+        "date": "2023-04-22",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "arydigital-quddusi-sahab-ki-bewah": {
       "lastAttempt": "2026-10-12T20:13:28.734049+05:00",
@@ -1253,7 +1277,19 @@
       "lastAttempt": "2026-10-12T20:13:28.931298+05:00"
     },
     "harpalgeo-sirf-tum": {
-      "lastAttempt": "2026-10-12T20:13:28.931309+05:00"
+      "lastAttempt": "2026-10-12T20:13:28.931309+05:00",
+      "latestUpload": {
+        "number": 48,
+        "id": "6bLBGa00gaQ",
+        "title": "Sirf Tum Last Ep 48 - [Eng Sub] - Anmol Baloch - Hamza Sohail - Mohsin Abbas Haider - 28th Aug 2023",
+        "date": "2023-08-28",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/6bLBGa00gaQ/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-siyani": {
       "lastAttempt": "2026-10-12T20:13:28.960073+05:00",

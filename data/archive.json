@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-14T18:59:56.646642+00:00",
+  "generatedAt": "2026-10-14T21:49:57.772327+00:00",
   "dateTimezone": "UTC",
-  "cursor": 28,
+  "cursor": 40,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -119,70 +119,70 @@
       "uploadsId": "UUz0M2pV4jOUUQ88lOd2q08A",
       "handle": "MaazSafderWorld",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-14T09:51:31.993189+00:00"
+      "lastFetchedAt": "2026-10-14T21:49:57.772327+00:00"
     },
     "matiullah": {
       "youtubeId": "UC-hJ0cobUiWlBFTHgLwt8sQ",
       "uploadsId": "UU-hJ0cobUiWlBFTHgLwt8sQ",
       "handle": "MatiullahJanMJtv",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-14T09:51:31.993189+00:00"
+      "lastFetchedAt": "2026-10-14T21:49:57.772327+00:00"
     },
     "p4pakao": {
       "youtubeId": "UCI9tIvSPsdxNEICjZk7ujUA",
       "uploadsId": "UUI9tIvSPsdxNEICjZk7ujUA",
       "handle": "p4pakaoofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-14T09:51:31.993189+00:00"
+      "lastFetchedAt": "2026-10-14T21:49:57.772327+00:00"
     },
     "dawnnews": {
       "youtubeId": "UCaxR-D8FjZ-2otbU0_Y2grg",
       "uploadsId": "UUaxR-D8FjZ-2otbU0_Y2grg",
       "handle": "dawnnewspakistan",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-14T09:51:31.993189+00:00"
+      "lastFetchedAt": "2026-10-14T21:49:57.772327+00:00"
     },
     "irfanjunejo": {
       "youtubeId": "UCUuDUW0Y6IQZYDvH1QQBsgA",
       "uploadsId": "UUUuDUW0Y6IQZYDvH1QQBsgA",
       "handle": "irfanjunejo",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-14T09:51:31.993189+00:00"
+      "lastFetchedAt": "2026-10-14T21:49:57.772327+00:00"
     },
     "kunfoods": {
       "youtubeId": "UCJEGvNxXunjqrcd2Xg9ntMQ",
       "uploadsId": "UUJEGvNxXunjqrcd2Xg9ntMQ",
       "handle": "KunFoods",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-14T09:51:31.993189+00:00"
+      "lastFetchedAt": "2026-10-14T21:49:57.772327+00:00"
     },
     "kitchenamna": {
       "youtubeId": "UCQ2P7C8UGoVM6AhqsVx-M0Q",
       "uploadsId": "UUQ2P7C8UGoVM6AhqsVx-M0Q",
       "handle": "KitchenWithAmna",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-14T13:01:41.366333+00:00"
+      "lastFetchedAt": "2026-10-14T21:49:57.772327+00:00"
     },
     "geoclassics": {
       "youtubeId": "UCLUfX9--VscMEKnIE6thhbg",
       "uploadsId": "UULUfX9--VscMEKnIE6thhbg",
       "handle": "GeoNewsClassics",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-14T13:01:41.366333+00:00"
+      "lastFetchedAt": "2026-10-14T21:49:57.772327+00:00"
     },
     "wildlens": {
       "youtubeId": "UCf1XIplYiqNv9baGsFHwPPQ",
       "uploadsId": "UUf1XIplYiqNv9baGsFHwPPQ",
       "handle": "WildLensByAbrar",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-14T13:01:41.366333+00:00"
+      "lastFetchedAt": "2026-10-14T21:49:57.772327+00:00"
     },
     "ruby": {
       "youtubeId": "UCMhx-uS3O-G_6_lTrYmDKLw",
       "uploadsId": "UUMhx-uS3O-G_6_lTrYmDKLw",
       "handle": "RubyKaKitchen",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-14T13:01:41.366333+00:00"
+      "lastFetchedAt": "2026-10-14T21:49:57.772327+00:00"
     },
     "ijazfood": {
       "youtubeId": "UCc1BSASBDsE_XYOTxD9SNmA",
@@ -256,6 +256,168 @@
     }
   },
   "videos": [
+    {
+      "id": "FShpH7ItXHY",
+      "title": "🔴 Live: Bilawal Bhutto Speech From National Assembly | Dawn News Live",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T20:25:33Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1686,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/FShpH7ItXHY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "5_ClmmN3bvQ",
+      "title": "🔴 Morning Show Live: Watch Chai, Toast Aur Host | 14-10-2026 | Dawn News Live",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T20:24:53Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 8375,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/5_ClmmN3bvQ/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "umSFfIHxCJE",
+      "title": "Bilawal Bhutto’s Key Statement On Emergency And PTI | Dawn News Headlines 01 AM",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T20:20:02Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 493,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/umSFfIHxCJE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "vlwKgXGv6hw",
+      "title": "Saudi Arabia: Houthi Rebels Attack State-Owned Oil Company | Dawn News Headlines 12 AM",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T19:40:10Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 742,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/vlwKgXGv6hw/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "gieDeCMklUk",
+      "title": "Somalia Hijacked Ship Rescue Operation | What Happened During the Raid? | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T19:16:47Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 350,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/gieDeCMklUk/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "7B7SlYJMoH4",
+      "title": "Ordeal of a Pakistani Hostage freed by Somali Pirates | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T19:16:20Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 475,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/7B7SlYJMoH4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "t-z7iHRVQsY",
+      "title": "Govt at pains to justify KP Governor Rule | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T19:15:49Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 328,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/t-z7iHRVQsY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "JN7daBk7kxs",
+      "title": "Who governs KP? Status unclear after Governor Rule and Emergency | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T19:15:19Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1281,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/JN7daBk7kxs/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "ErbKuzVvzgM",
+      "title": "Govt disinfo against CM KP exposed| Zara Hat Kay | Dawn News | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T19:07:46Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2441,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/ErbKuzVvzgM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
     {
       "id": "PrOiakUl-Ck",
       "title": "Governor’s Rule, Emergency? Faisal Vawda’s Statement Raises Alarm: Nadeem Malik’s Key Analysis",
@@ -380,6 +542,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/xBomKTWBY4s/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "pxrIKXk1Lyw",
+      "title": "Petrol Price Increased, Diesel Price Reduced | Dawn News Headlines: 11 PM",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T18:30:09Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 201,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/pxrIKXk1Lyw/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -635,6 +815,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "bcws88FUViY",
+      "title": "Has PTI Received Any Information About Sohail Afridi? | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T17:45:07Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 385,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/bcws88FUViY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "BbeHPJMB6cY",
       "title": "KP Emergency & Governor’s Rule | Trump Iran Warning | US Iran Tensions | 10 PM HEADLINES 14 Oct 2026",
       "channel": "Aaj TV Official",
@@ -653,6 +851,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "dDI8J5Tfmg0",
+      "title": "Omani Foreign Minister Meets Prime Minister | Dawn News Headlines: 10 PM",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T17:41:19Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 183,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/dDI8J5Tfmg0/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "K_hTrUSZ-Co",
       "title": "Apple HomeView | AI Siri | $299 Smart Home Device | Amazon Google Rival - Aaj News",
       "channel": "Aaj TV Official",
@@ -668,6 +884,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/K_hTrUSZ-Co/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "HkOvdjTPYS8",
+      "title": "KP Emergency & Governor Rule | What Will Be PTI’s Next Move? | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T17:35:26Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 661,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/HkOvdjTPYS8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -707,6 +941,42 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "GNOQdu9jEhE",
+      "title": "What Will the Government Discuss with PTI Now? | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T17:25:04Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 462,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/GNOQdu9jEhE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "MVykRwhhk2M",
+      "title": "MJtv LIVE BREAKING: Bushra Bibi Denied Bail! KPK Emergency Challenge & PTI Leaders’ Whereabouts",
+      "channel": "Matiullah Jan MJtv",
+      "channelId": "matiullah",
+      "youtubeChannelId": "UC-hJ0cobUiWlBFTHgLwt8sQ",
+      "category": "vloggers",
+      "genre": "News & commentary",
+      "date": "2026-10-14",
+      "published": "2026-10-14T17:22:37Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2710,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/MVykRwhhk2M/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "uDDoGSPChvY",
       "title": "Gussa Mat Kar Beta!!  | Areeqa Haq | Ahsan Afzal Khan | Shahzad Sheikh | Shaandaar",
       "channel": "Express TV",
@@ -722,6 +992,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/uDDoGSPChvY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "S4glNEbR9k8",
+      "title": "Governor Rule in KP | Did PPP and PML-N Consult at Party Level Before the Decision? | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T17:15:28Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 563,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/S4glNEbR9k8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -851,6 +1139,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "0rN-p93dOxQ",
+      "title": "PTI Rejects Emergency and Governor's Rule, Makes Big Announcement | Dawn News Headlines: 09 PM",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T16:47:20Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1231,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/0rN-p93dOxQ/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "nJJAFYeMtps",
       "title": "KP Emergency & Governor’s Rule | NA Approves Emergency in KP | KPK Latest Situation | 9PM HEADLINES",
       "channel": "Aaj TV Official",
@@ -869,6 +1175,42 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "TGH00t2XnuY",
+      "title": "Will PTI Get Relief from Peshawar High Court? | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T16:40:03Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 563,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/TGH00t2XnuY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "1NYspmPOhlc",
+      "title": "Governor Rule Opens the Door | Which Province Could Be Next? | News Wise | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "talk",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T16:34:42Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2077,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/1NYspmPOhlc/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "6irnt8YogrM",
       "title": "The System of Elite Capture - How the Establishment Destroyed Pakistan Part 1 - #TPE",
       "channel": "The Pakistan Experience",
@@ -884,6 +1226,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/6irnt8YogrM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "-TmUiz4CtH0",
+      "title": "Governor Rule in KP | If Federation Runs the Province, Why Impose Governor Rule? | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T16:30:39Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 341,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/-TmUiz4CtH0/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -959,6 +1319,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "kZRLhtlalLw",
+      "title": "KP Emergency & Governor Rule | Why Bilawal Bhutto Renewed Talks Offer? | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T16:20:00Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 307,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/kZRLhtlalLw/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "tws02HPzTNk",
       "title": "Entire System Will Reboot!” | Faisal Vawda’s Message After KP Governor’s Rule | Straight Talk",
       "channel": "SAMAA TV",
@@ -1028,6 +1406,42 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/fAGynZ4V-mE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "SJev-drD9Wo",
+      "title": "Why Emergency and Governor Rule Imposed in KP? | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T16:10:17Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 669,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/SJev-drD9Wo/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "5RuGG_fg3pE",
+      "title": "Saba ne new baby ki surprise shopping bhi karli🥺❤️",
+      "channel": "Maaz Safder",
+      "channelId": "maaz",
+      "youtubeChannelId": "UCz0M2pV4jOUUQ88lOd2q08A",
+      "category": "vloggers",
+      "genre": "Lifestyle & vlogs",
+      "date": "2026-10-14",
+      "published": "2026-10-14T16:05:19Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1018,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/5RuGG_fg3pE/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -1136,6 +1550,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/7jXrTL54fAE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "jgTd0I4b_CU",
+      "title": "Iran Claims Acquiring Highly Advanced Weapons | Dawn News Headlines: 08 PM",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T15:45:34Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 235,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/jgTd0I4b_CU/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -1895,6 +2327,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "Vdv1lpe3UMo",
+      "title": "PTI Rejects Emergency and Governor Rule in KPK | Doosra Rukh | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T15:00:37Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1886,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Vdv1lpe3UMo/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "7OIvitxjzx8",
       "title": "Izzat Episode 25 | 14 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
       "channel": "ARY Digital",
@@ -2018,6 +2468,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/_cdcPItpApA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "tOx9ZIpTWHw",
+      "title": "Presidential Order Issued for Governor's Rule in KP | Dawn News Headlines: 07 PM",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T14:48:51Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 188,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/tOx9ZIpTWHw/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -2252,6 +2720,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/24uY2TG90Ns/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "-RfR7LFS7uU",
+      "title": "KP Emergency Approved by National Assembly | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T14:25:28Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 99,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/-RfR7LFS7uU/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -2576,6 +3062,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/dyvQWVpczn0/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "kuZDC9sAJEs",
+      "title": "PM Should Resume Talks With PTI: Bilawal | Dawn News Headlines: 06 PM",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T13:45:39Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1082,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/kuZDC9sAJEs/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -3047,6 +3551,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "JaplQo8OSHI",
+      "title": "National Assembly Approves KP Emergency | Dawn News Headlines: 05 PM",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T12:48:01Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 398,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/JaplQo8OSHI/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "xvZKrXJPVCA",
       "title": "KPK Emergency & Governor’s Rule | 190 Million pound case Update | 5:30 PM News Updates",
       "channel": "ARY News",
@@ -3515,6 +4037,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "7NwNvTaa5OM",
+      "title": "Ayaz Sadiq and Barrister Gohar Dialogue Inside Parliament | Breaking News | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T12:10:12Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 96,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/7NwNvTaa5OM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "2adOTby0XCg",
       "title": "Bilawal Bhutto’s Phone Hangs While Reading the Constitution | Funny Moment | #shorts | Samaa TV",
       "channel": "SAMAA TV",
@@ -3710,6 +4250,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/M5f0b7tCo8o/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "pTj9RyZGHQE",
+      "title": "Farooq Sattar Says PTI Needs To Hold Itself Accountable | Blunt Statement | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T11:50:09Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1145,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/pTj9RyZGHQE/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -4055,6 +4613,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "QF7PsYkIncU",
+      "title": "Pak Stands Shoulder To Shoulder With Saudi Arabia | PM Shehbaz Sharif | Dawn News Headlines: 04 PM",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T11:29:38Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1087,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/QF7PsYkIncU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "DxkdCIGZWIA",
       "title": "Barrister Gohar Files Petition in Peshawar High Court Against KP Emergency | ARY News 4 PM Headlines",
       "channel": "ARY News",
@@ -4109,6 +4685,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "J45fhnpjfX4",
+      "title": "Barrister Gohar reveals new facts about govt opposition talks in a speech censored by parliament",
+      "channel": "Matiullah Jan MJtv",
+      "channelId": "matiullah",
+      "youtubeChannelId": "UC-hJ0cobUiWlBFTHgLwt8sQ",
+      "category": "vloggers",
+      "genre": "News & commentary",
+      "date": "2026-10-14",
+      "published": "2026-10-14T11:20:57Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1486,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/J45fhnpjfX4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "zBLfHBQA2rU",
       "title": "Mujhe Tumse Bohat Mohabbat Hai! ❤️🥹💖 | Bas Tera Saath Ho | ARY Digital Drama",
       "channel": "ARY Digital",
@@ -4124,6 +4718,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/zBLfHBQA2rU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "yPCml3HmvVk",
+      "title": "Bilawal Bhutto Says KP Public Was Killed Like Mosquitoes | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T11:20:00Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 395,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/yPCml3HmvVk/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -4505,6 +5117,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "NVo7fHyTAOA",
+      "title": "Khawaja Asif’s Remark Regarding CM Maryam Nawaz's Efforts | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T10:50:02Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1539,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/NVo7fHyTAOA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "5lMcZL0E_DI",
       "title": "Explaining Article 232 and 234 in KP",
       "channel": "The Pakistan Experience",
@@ -4685,6 +5315,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "pAmnrVbIwTo",
+      "title": "Azam Nazir Tarar Criticize PTI Strongly | Bilawal’s Advice To PM | Dawn News Headlines: 03 PM",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T10:43:56Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 908,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/pAmnrVbIwTo/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "B2zv-kAS9x0",
       "title": "Emergency in KP | Sohail Afridi Was Announcing Plans to Conquer Islamabad | 3:30 PM News Update",
       "channel": "SAMAA TV",
@@ -4772,6 +5420,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/DbOle-W-ccw/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "T6tsWuM_Mwg",
+      "title": "Bushra Bibi’s Sentence Suspension Plea Rejected? | Breaking News | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T10:30:36Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 103,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/T6tsWuM_Mwg/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -4901,6 +5567,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "hflr93I2g2c",
+      "title": "PTI Misuse of State Resources | Report Exposes Official Car Usage | Breaking News | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T10:20:01Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 108,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/hflr93I2g2c/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "8a89hRNx278",
       "title": "Bahu Ke Khilaaf Pehli Chaal Chal Di Gayi | Hiba Aziz - Danial Afzal | Dastoor | Green TV",
       "channel": "Green Entertainment",
@@ -5006,6 +5690,42 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/KD3d-f5zYrs/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "gl2nlPqW79U",
+      "title": "MJtv XCLUSIVE BREAKING:MEHMOOD KHAN ACHAKZAI SPEECH IN PARLIAMENT UNOFFICIALLY CENSORED BUT ON MJTV",
+      "channel": "Matiullah Jan MJtv",
+      "channelId": "matiullah",
+      "youtubeChannelId": "UC-hJ0cobUiWlBFTHgLwt8sQ",
+      "category": "vloggers",
+      "genre": "News & commentary",
+      "date": "2026-10-14",
+      "published": "2026-10-14T10:10:51Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 400,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/gl2nlPqW79U/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "MHRk9tx9HI8",
+      "title": "CIA and Police Clash Over Suspects' Arrest | Breaking News | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T10:10:18Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 105,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/MHRk9tx9HI8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -6179,6 +6899,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "Pu_LHfpWbjg",
+      "title": "🔴 Live: Khawaja Asif Speech From National Assembly | Dawn News Live",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-14",
+      "published": "2026-10-14T08:39:53Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 4910,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Pu_LHfpWbjg/hqdefault_live.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "T_BkIgpREPM",
       "title": "Larki Ke Ghar Rishta Le Kar Kab Chalna Hai! Rutba Episode 1 | Talha Chahour | ARY Digital",
       "channel": "ARY Digital",
@@ -6788,24 +7526,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/q4wxz6DU6ig/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "FShpH7ItXHY",
-      "title": "🔴 Live: Bilawal Bhutto Speech From National Assembly | Dawn News Live",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-14",
-      "published": "2026-10-14T07:51:45Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 1669,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/FShpH7ItXHY/hqdefault_live.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -8588,24 +9308,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/MAofn1_CHts/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "5_ClmmN3bvQ",
-      "title": "🔴 Morning Show Live: Watch Chai, Toast Aur Host | 14-10-2026 | Dawn News Live",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-14",
-      "published": "2026-10-14T04:25:55Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 8363,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/5_ClmmN3bvQ/hqdefault_live.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -37172,24 +37874,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/LZCo_jk9ejo/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "RX631bdwLsM",
-      "title": "KP Bureaucracy Updates | Major Officers Transferred & Appointed in Khyber Pakhtunkhwa | Dawn News",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-11",
-      "published": "2026-10-11T09:15:14Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 235,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/RX631bdwLsM/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -74165,6 +74849,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Junaid Akram: channel unavailable; Express News: channel unavailable",
+  "lastError": "Asad Toor: channel unavailable; Siddique Jaan: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
