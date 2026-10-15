@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T08:52:48.534880+05:00",
+  "generatedAt": "2026-10-15T12:06:47.084350+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -884,13 +884,49 @@
       }
     },
     "hum-ehd-e-wafa": {
-      "lastAttempt": "2026-10-12T20:11:00.276645+05:00"
+      "lastAttempt": "2026-10-12T20:11:00.276645+05:00",
+      "latestUpload": {
+        "number": 24,
+        "id": "r9GHXVoxRVs",
+        "title": "Ehd e Wafa Episode 24 | English Sub | Digitally Presented by Master Paints HUM TV Drama 1 March 2020",
+        "date": "2020-03-01",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/r9GHXVoxRVs/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "hum-fairy-tale": {
-      "lastAttempt": "2026-10-12T20:11:00.276671+05:00"
+      "lastAttempt": "2026-10-12T20:11:00.276671+05:00",
+      "latestUpload": {
+        "number": 30,
+        "id": "7Q8HIxnOuOs",
+        "title": "Fairy Tale 2nd Last EP 30 - 21st Apr 23 - Presented By Sunsilk, Powered By Glow & Lovely,  Walls",
+        "date": "2023-04-21",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/7Q8HIxnOuOs/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "hum-fairy-tale-2": {
-      "lastAttempt": "2026-10-12T20:11:00.276684+05:00"
+      "lastAttempt": "2026-10-12T20:11:00.276684+05:00",
+      "latestUpload": {
+        "number": 30,
+        "id": "7Q8HIxnOuOs",
+        "title": "Fairy Tale 2nd Last EP 30 - 21st Apr 23 - Presented By Sunsilk, Powered By Glow & Lovely,  Walls",
+        "date": "2023-04-21",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/7Q8HIxnOuOs/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-farq": {
       "lastAttempt": "2026-10-12T20:11:00.276695+05:00",
@@ -959,7 +995,19 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "hum-hum-tum": {
-      "lastAttempt": "2026-10-12T20:11:00.425604+05:00"
+      "lastAttempt": "2026-10-12T20:11:00.425604+05:00",
+      "latestUpload": {
+        "number": 29,
+        "id": "dFTgm8Pre0c",
+        "title": "Hum Tum - Ep 29 - 1st May 22 - Presented By Lipton, Powered By Master Paints & Canon Home Appliances",
+        "date": "2022-05-01",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/dFTgm8Pre0c/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "hum-humsafar": {
       "lastAttempt": "2026-10-12T20:11:00.425637+05:00"
