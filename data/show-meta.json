@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T20:54:04.666408+05:00",
+  "generatedAt": "2026-10-16T00:00:33.068612+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,13 +17,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 6,
-        "time": "16:30",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-15"
       }
     },
     "harpalgeo-nashtar": {
@@ -44,11 +37,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 18,
-        "time": "11:30",
+        "number": 19,
+        "time": "20:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-15"
+        "date": "2026-10-16"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -68,11 +61,11 @@
     },
     "harpalgeo-uswa": {
       "tvToday": {
-        "number": 23,
+        "number": 24,
         "time": "19:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-15"
+        "date": "2026-10-16"
       },
       "lastAttempt": "2026-10-12T20:10:58.606287+05:00",
       "latestUpload": {
@@ -95,13 +88,6 @@
       "latestPublisherEpisode": 20,
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
       "latestPublisherSource": "https://harpalgeo.tv/program/Khafa",
-      "tvToday": {
-        "number": 22,
-        "time": "20:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-15"
-      },
       "latestUpload": {
         "number": 21,
         "id": "1_izGoZk4Pw",
@@ -132,11 +118,11 @@
       "poster": "https://harpalgeo.tv/assets/uploads/programs/641_9919269_programs.jpg",
       "posterSource": "Official broadcaster",
       "tvToday": {
-        "number": 3,
+        "number": 4,
         "time": "21:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-15"
+        "date": "2026-10-16"
       },
       "latestUpload": {
         "number": 2,
@@ -1571,7 +1557,19 @@
       }
     },
     "hum-suno-chanda": {
-      "lastAttempt": "2026-10-12T20:13:29.050552+05:00"
+      "lastAttempt": "2026-10-12T20:13:29.050552+05:00",
+      "latestUpload": {
+        "number": 29,
+        "id": "g4xBhnxkeOg",
+        "title": "Suno Chanda Season 2 - 2nd Last Episode 29 - Iqra Aziz - Farhan Saeed - Mashal Khan- HUM TV",
+        "date": "2022-05-01",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/g4xBhnxkeOg/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "hum-suno-chanda-2": {
       "lastAttempt": "2026-10-12T20:13:29.050573+05:00"
@@ -1627,10 +1625,10 @@
     "hum-udaari": {
       "lastAttempt": "2026-10-12T20:13:29.083820+05:00",
       "latestUpload": {
-        "number": 22,
-        "id": "99Bbeou_qjY",
-        "title": "Udaari Episode 22 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "date": "2026-10-14",
+        "number": 23,
+        "id": "ydgrm_GkcV0",
+        "title": "Udaari Episode 23 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "date": "2026-10-15",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,

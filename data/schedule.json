@@ -1,15 +1,15 @@
 {
-  "date": "2026-10-15",
-  "weekday": "Thursday",
+  "date": "2026-10-16",
+  "weekday": "Friday",
   "timezone": "Asia/Karachi",
-  "generatedAt": "2026-10-15T20:54:00.687695+05:00",
+  "generatedAt": "2026-10-16T00:00:27.992343+05:00",
   "items": [
     {
       "name": "Nashtar",
       "showId": "harpalgeo-nashtar",
       "channel": "Har Pal Geo",
       "time": "00:00",
-      "episode": 17,
+      "episode": 18,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
@@ -19,7 +19,7 @@
       "showId": "harpalgeo-khafa",
       "channel": "Har Pal Geo",
       "time": "01:00",
-      "episode": 21,
+      "episode": 22,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
@@ -29,7 +29,7 @@
       "showId": "harpalgeo-bano",
       "channel": "Har Pal Geo",
       "time": "02:00",
-      "episode": 2,
+      "episode": 3,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
@@ -39,7 +39,7 @@
       "showId": "harpalgeo-uswa",
       "channel": "Har Pal Geo",
       "time": "03:00",
-      "episode": 22,
+      "episode": 23,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
@@ -49,7 +49,7 @@
       "showId": "harpalgeo-mohabbat",
       "channel": "Har Pal Geo",
       "time": "04:00",
-      "episode": 5,
+      "episode": 6,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
@@ -69,7 +69,7 @@
       "showId": "harpalgeo-khafa",
       "channel": "Har Pal Geo",
       "time": "06:00",
-      "episode": 21,
+      "episode": 22,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
@@ -79,7 +79,7 @@
       "showId": "harpalgeo-bano",
       "channel": "Har Pal Geo",
       "time": "07:00",
-      "episode": 2,
+      "episode": 3,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
@@ -89,7 +89,7 @@
       "showId": "harpalgeo-uswa",
       "channel": "Har Pal Geo",
       "time": "08:00",
-      "episode": 22,
+      "episode": 23,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
@@ -115,70 +115,10 @@
       "sourceLabel": "Official broadcaster"
     },
     {
-      "name": "Nashtar",
-      "showId": "harpalgeo-nashtar",
-      "channel": "Har Pal Geo",
-      "time": "11:00",
-      "episode": 17,
-      "repeat": null,
-      "sourceUrl": "https://harpalgeo.tv/schedule",
-      "sourceLabel": "Official broadcaster"
-    },
-    {
-      "name": "Nashtar",
-      "showId": "harpalgeo-nashtar",
-      "channel": "Har Pal Geo",
-      "time": "11:30",
-      "episode": 18,
-      "repeat": null,
-      "sourceUrl": "https://harpalgeo.tv/schedule",
-      "sourceLabel": "Official broadcaster"
-    },
-    {
-      "name": "Uswa",
-      "showId": "harpalgeo-uswa",
-      "channel": "Har Pal Geo",
-      "time": "12:30",
-      "episode": 22,
-      "repeat": null,
-      "sourceUrl": "https://harpalgeo.tv/schedule",
-      "sourceLabel": "Official broadcaster"
-    },
-    {
-      "name": "Khafa",
-      "showId": "harpalgeo-khafa",
-      "channel": "Har Pal Geo",
-      "time": "13:30",
-      "episode": 21,
-      "repeat": null,
-      "sourceUrl": "https://harpalgeo.tv/schedule",
-      "sourceLabel": "Official broadcaster"
-    },
-    {
-      "name": "Bano",
-      "showId": "harpalgeo-bano",
-      "channel": "Har Pal Geo",
-      "time": "14:30",
-      "episode": 1,
-      "repeat": null,
-      "sourceUrl": "https://harpalgeo.tv/schedule",
-      "sourceLabel": "Official broadcaster"
-    },
-    {
-      "name": "Bano",
-      "showId": "harpalgeo-bano",
-      "channel": "Har Pal Geo",
-      "time": "15:00",
-      "episode": 2,
-      "repeat": null,
-      "sourceUrl": "https://harpalgeo.tv/schedule",
-      "sourceLabel": "Official broadcaster"
-    },
-    {
       "name": "Mohabbat",
       "showId": "harpalgeo-mohabbat",
       "channel": "Har Pal Geo",
-      "time": "16:00",
+      "time": "11:00",
       "episode": 5,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
@@ -188,8 +128,48 @@
       "name": "Mohabbat",
       "showId": "harpalgeo-mohabbat",
       "channel": "Har Pal Geo",
-      "time": "16:30",
+      "time": "11:30",
       "episode": 6,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Uswa",
+      "showId": "harpalgeo-uswa",
+      "channel": "Har Pal Geo",
+      "time": "12:30",
+      "episode": 23,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Khafa",
+      "showId": "harpalgeo-khafa",
+      "channel": "Har Pal Geo",
+      "time": "13:30",
+      "episode": 22,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Bano",
+      "showId": "harpalgeo-bano",
+      "channel": "Har Pal Geo",
+      "time": "14:30",
+      "episode": 2,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Bano",
+      "showId": "harpalgeo-bano",
+      "channel": "Har Pal Geo",
+      "time": "15:00",
+      "episode": 3,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
@@ -198,8 +178,28 @@
       "name": "Nashtar",
       "showId": "harpalgeo-nashtar",
       "channel": "Har Pal Geo",
-      "time": "17:30",
+      "time": "16:00",
+      "episode": 17,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Nashtar",
+      "showId": "harpalgeo-nashtar",
+      "channel": "Har Pal Geo",
+      "time": "16:30",
       "episode": 18,
+      "repeat": null,
+      "sourceUrl": "https://harpalgeo.tv/schedule",
+      "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Mohabbat",
+      "showId": "harpalgeo-mohabbat",
+      "channel": "Har Pal Geo",
+      "time": "17:30",
+      "episode": 6,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
@@ -209,10 +209,20 @@
       "showId": "harpalgeo-uswa",
       "channel": "Har Pal Geo",
       "time": "18:30",
-      "episode": 22,
+      "episode": 23,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Izzat",
+      "showId": "arydigital-izzat",
+      "channel": "ARY Digital",
+      "time": "19:00",
+      "episode": null,
+      "repeat": null,
+      "sourceUrl": "https://dramas.pk/?pdhs_date=2026-10-16",
+      "sourceLabel": "Dramas.pk TV guide (backup, not broadcaster)"
     },
     {
       "name": "Khushi",
@@ -229,14 +239,24 @@
       "showId": "harpalgeo-uswa",
       "channel": "Har Pal Geo",
       "time": "19:00",
-      "episode": 23,
+      "episode": 24,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
     },
     {
-      "name": "Gulbahar",
-      "showId": "hum-gulbahar",
+      "name": "Dar-e-Nijaat",
+      "showId": "arydigital-dar-e-nijaat",
+      "channel": "ARY Digital",
+      "time": "20:00",
+      "episode": null,
+      "repeat": null,
+      "sourceUrl": "https://dramas.pk/?pdhs_date=2026-10-16",
+      "sourceLabel": "Dramas.pk TV guide (backup, not broadcaster)"
+    },
+    {
+      "name": "Aangan",
+      "showId": "hum-aangan",
       "channel": "HUM TV",
       "time": "20:00",
       "episode": null,
@@ -245,14 +265,24 @@
       "sourceLabel": "Official broadcaster"
     },
     {
-      "name": "Khafa",
-      "showId": "harpalgeo-khafa",
+      "name": "Nashtar",
+      "showId": "harpalgeo-nashtar",
       "channel": "Har Pal Geo",
       "time": "20:00",
-      "episode": 22,
+      "episode": 19,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Main Tera",
+      "showId": "arydigital-main-tera",
+      "channel": "ARY Digital",
+      "time": "21:00",
+      "episode": null,
+      "repeat": null,
+      "sourceUrl": "https://dramas.pk/?pdhs_date=2026-10-16",
+      "sourceLabel": "Dramas.pk TV guide (backup, not broadcaster)"
     },
     {
       "name": "Tark-e-Tamanna",
@@ -269,10 +299,20 @@
       "showId": "harpalgeo-bano",
       "channel": "Har Pal Geo",
       "time": "21:00",
-      "episode": 3,
+      "episode": 4,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Tamasha season 5",
+      "showId": "arydigital-tamasha-season-5",
+      "channel": "ARY Digital",
+      "time": "22:00",
+      "episode": null,
+      "repeat": null,
+      "sourceUrl": "https://dramas.pk/?pdhs_date=2026-10-16",
+      "sourceLabel": "Dramas.pk TV guide (backup, not broadcaster)"
     },
     {
       "name": "Hasna Mana Hai",
@@ -297,12 +337,11 @@
   ],
   "sources": {
     "hum": "official",
-    "arydigital": "unavailable",
+    "arydigital": "independent guide fallback",
     "harpalgeo": "official"
   },
   "errors": [
-    "ARY Digital: No scheduled entries in retrieved page",
-    "Backup guide: HTTPError"
+    "ARY Digital: No scheduled entries in retrieved page"
   ],
   "note": "Schedule entries are TV slots, not proof episodes were uploaded. Times and reruns can change."
 }
