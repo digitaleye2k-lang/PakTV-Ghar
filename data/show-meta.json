@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T06:00:00.002190+05:00",
+  "generatedAt": "2026-10-15T08:52:48.534880+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -77,11 +77,11 @@
       "lastAttempt": "2026-10-12T20:10:58.606287+05:00",
       "latestUpload": {
         "number": 22,
-        "id": "X0ib2RgA-yc",
-        "title": "Uswah Episode 22 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 14th October 2026",
+        "id": "K_dcFavqVR4",
+        "title": "Uswah Episode 22 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
         "date": "2026-10-14",
         "source": "Official YouTube upload",
-        "availableGB": false,
+        "availableGB": true,
         "availablePK": true,
         "embeddable": true
       },
@@ -101,6 +101,16 @@
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
         "date": "2026-10-15"
+      },
+      "latestUpload": {
+        "number": 21,
+        "id": "bIPn9YZQu6Y",
+        "title": "Khafa Episode 21 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "date": "2026-10-14",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
       }
     },
     "hum-aangan": {
@@ -129,9 +139,9 @@
         "date": "2026-10-15"
       },
       "latestUpload": {
-        "number": 1,
-        "id": "b6LQiqm5Hjs",
-        "title": "Bano Episode 01 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "number": 2,
+        "id": "Q3NUOpULtJc",
+        "title": "Bano Episode 02 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 14th October 2026 | HAR PAL GEO",
         "date": "2026-10-14",
         "source": "Official YouTube upload",
         "availableGB": true,
@@ -175,9 +185,9 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Gulbahar-500.jpg.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 8,
-        "id": "lX6J6JRVxPc",
-        "title": "Gulbahar - Flashback - Episode 08 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
+        "number": 9,
+        "id": "cXjTP87F6Is",
+        "title": "Gulbahar - Episode 09 - [Eng Sub] 14th Oct 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
         "date": "2026-10-14",
         "source": "Official YouTube upload",
         "availableGB": true,
@@ -191,7 +201,17 @@
       "posterSource": "Official broadcaster",
       "latestPublisherEpisode": 8,
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
-      "latestPublisherSource": "https://arydigital.tv/drama/hey-fam/"
+      "latestPublisherSource": "https://arydigital.tv/drama/hey-fam/",
+      "latestUpload": {
+        "number": 9,
+        "id": "DlZspy47iAE",
+        "title": "Hey Fam | EP  9 | 14 October 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
+        "date": "2026-10-14",
+        "source": "Official YouTube upload",
+        "availableGB": false,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "hum-hurmat": {
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/10/Hurmat-5002.jpg.jpg",
@@ -234,7 +254,7 @@
         "title": "Khushi - Episode 32 - [Eng Sub] 14th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
         "date": "2026-10-14",
         "source": "Official YouTube upload",
-        "availableGB": false,
+        "availableGB": true,
         "availablePK": true,
         "embeddable": true
       }
@@ -247,10 +267,10 @@
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
       "latestPublisherSource": "https://arydigital.tv/drama/main-tera/",
       "latestUpload": {
-        "number": 59,
-        "id": "u46fr6pNmIc",
-        "title": "Main Tera Episode 59 | 13 October 2026 | Ghana Ali | Yusra Irfan | Arez Ahmed | ARY Digital",
-        "date": "2026-10-13",
+        "number": 60,
+        "id": "dIdClTFCXaU",
+        "title": "Main Tera Episode 60 | 14 October 2026 | Ghana Ali | Yusra Irfan | Arez Ahmed | ARY Digital",
+        "date": "2026-10-14",
         "source": "Official YouTube upload",
         "availableGB": false,
         "availablePK": true,
@@ -297,7 +317,17 @@
     },
     "hum-tark-e-tamanna": {
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/TT-500.jpg.jpg",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 9,
+        "id": "3dQcVSKmaIo",
+        "title": "Tark-e-Tamanna - Episode 09 - [Eng Sub] 14th Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "date": "2026-10-14",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "hum-zehar-e-mohabbat": {
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/blobglammagazi001441984f/Hum_Tv/uploads/2026/08/500.jpg.jpg",
@@ -599,7 +629,19 @@
       "lastAttempt": "2026-10-12T20:10:59.269276+05:00"
     },
     "hum-alif": {
-      "lastAttempt": "2026-10-12T20:10:59.386756+05:00"
+      "lastAttempt": "2026-10-12T20:10:59.386756+05:00",
+      "latestUpload": {
+        "number": 42,
+        "id": "pDRBv-wvO-4",
+        "title": "Alif Allah Aur Insaan Episode #42 HUM TV Drama",
+        "date": "2019-08-05",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/pDRBv-wvO-4/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "arydigital-angna": {
       "lastAttempt": "2026-10-12T20:10:59.386790+05:00",
@@ -697,7 +739,19 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "hum-bin-roye": {
-      "lastAttempt": "2026-10-12T20:10:59.782387+05:00"
+      "lastAttempt": "2026-10-12T20:10:59.782387+05:00",
+      "latestUpload": {
+        "number": 16,
+        "id": "TurBvNv76Q4",
+        "title": "Bin Roye - Episode 16 - Mahira Khan - Humayun Saeed - Armeena Rana Khan - HUM TV",
+        "date": "2022-03-29",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/TurBvNv76Q4/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "arydigital-bismil": {
       "lastAttempt": "2026-10-12T20:10:59.782425+05:00",
@@ -749,7 +803,19 @@
       }
     },
     "hum-chupke-chupke": {
-      "lastAttempt": "2026-10-12T20:10:59.945063+05:00"
+      "lastAttempt": "2026-10-12T20:10:59.945063+05:00",
+      "latestUpload": {
+        "number": 25,
+        "id": "lD8gzMNt8bQ",
+        "title": "Chupke Chupke Episode 25 | Digitally Presented by Mezan & Powered by Master Paints | HUM TV | Drama",
+        "date": "2021-05-08",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/lD8gzMNt8bQ/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-dewangi": {
       "lastAttempt": "2026-10-12T20:10:59.945094+05:00"
@@ -773,7 +839,19 @@
       }
     },
     "hum-diyar-e-dil": {
-      "lastAttempt": "2026-10-12T20:11:00.215373+05:00"
+      "lastAttempt": "2026-10-12T20:11:00.215373+05:00",
+      "latestUpload": {
+        "number": 32,
+        "id": "MECejw5F6wU",
+        "title": "Diyar e Dil Episode 32 HUM TV Drama",
+        "date": "2020-08-22",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/MECejw5F6wU/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "arydigital-do-bol": {
       "lastAttempt": "2026-10-12T20:11:00.215405+05:00",
