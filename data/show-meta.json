@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T00:00:33.068612+05:00",
+  "generatedAt": "2026-10-16T02:49:50.757171+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,6 +17,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 6,
+        "time": "04:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-16"
       }
     },
     "harpalgeo-nashtar": {
@@ -97,6 +104,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 22,
+        "time": "01:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-16"
       }
     },
     "hum-aangan": {
@@ -189,13 +203,13 @@
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
       "latestPublisherSource": "https://arydigital.tv/drama/hey-fam/",
       "latestUpload": {
-        "number": 9,
-        "id": "DlZspy47iAE",
-        "title": "Hey Fam | EP  9 | 14 October 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
-        "date": "2026-10-14",
+        "number": 10,
+        "id": "fL5lA6STcb8",
+        "title": "Hey Fam | EP  10 | 15 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ENG SUB | ARY Digital",
+        "date": "2026-10-15",
         "source": "Official YouTube upload",
-        "availableGB": false,
-        "availablePK": true,
+        "availableGB": true,
+        "availablePK": false,
         "embeddable": true
       }
     },
@@ -221,13 +235,13 @@
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
       "latestPublisherSource": "https://arydigital.tv/drama/izzat/",
       "latestUpload": {
-        "number": 25,
-        "id": "7OIvitxjzx8",
-        "title": "Izzat Episode 25 | 14 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "date": "2026-10-14",
+        "number": 26,
+        "id": "2S5_eQI24A0",
+        "title": "Izzat Episode 26 | 15 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "date": "2026-10-15",
         "source": "Official YouTube upload",
-        "availableGB": false,
-        "availablePK": true,
+        "availableGB": true,
+        "availablePK": false,
         "embeddable": true
       }
     },
@@ -1641,7 +1655,19 @@
       "lastAttempt": "2026-10-12T20:13:29.083832+05:00"
     },
     "hum-zindagi-gulzar-hai": {
-      "lastAttempt": "2026-10-12T20:13:29.083842+05:00"
+      "lastAttempt": "2026-10-12T20:13:29.083842+05:00",
+      "latestUpload": {
+        "number": 26,
+        "id": "6ldpYcSAxOg",
+        "title": "Zindagi Gulzar Hai - Last Episode 26 - [ HD ] - Fawad Khan & Sanam Saeed - HUM TV Drama",
+        "date": "2022-09-19",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/6ldpYcSAxOg/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     }
   },
   "notes": "Episode numbers have labelled sources. A TV broadcast or programme page is not confirmation of a playable upload."
