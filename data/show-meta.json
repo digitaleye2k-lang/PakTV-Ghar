@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T02:50:23.038329+05:00",
+  "generatedAt": "2026-10-15T06:00:00.002190+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -1297,7 +1297,17 @@
       "posterSource": "Official broadcaster",
       "latestPublisherEpisode": 140,
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
-      "latestPublisherSource": "https://harpalgeo.tv/program/Siyani"
+      "latestPublisherSource": "https://harpalgeo.tv/program/Siyani",
+      "latestUpload": {
+        "number": 140,
+        "id": "k1TUjTA4Ve8",
+        "title": "Siyani Episode 140 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider -Saniya Shamshad - 29th Dec 2022",
+        "date": "2022-12-29",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "arydigital-sukoon": {
       "lastAttempt": "2026-10-12T20:13:29.043319+05:00",
@@ -1321,13 +1331,49 @@
       "lastAttempt": "2026-10-12T20:13:29.050573+05:00"
     },
     "harpalgeo-tere-aany-se": {
-      "lastAttempt": "2026-10-12T20:13:29.050586+05:00"
+      "lastAttempt": "2026-10-12T20:13:29.050586+05:00",
+      "latestUpload": {
+        "number": 37,
+        "id": "tv32nY1IIEw",
+        "title": "Tere Aany Se Mega 2nd Last Episode 37 - [Eng Sub] - Ft. Komal Meer - Muneeb Butt - 24th April 2023",
+        "date": "2023-04-24",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/tv32nY1IIEw/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-tere-bin": {
-      "lastAttempt": "2026-10-12T20:13:29.051536+05:00"
+      "lastAttempt": "2026-10-12T20:13:29.051536+05:00",
+      "latestUpload": {
+        "number": 58,
+        "id": "DQRz8reIU8c",
+        "title": "Tere Bin Last Ep 58 - [Eng Sub] Digitally Presented by Jhalak Beauty Cream - Yumna Zaidi - Wahaj Ali",
+        "date": "2023-07-06",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/DQRz8reIU8c/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-tere-bin-2": {
-      "lastAttempt": "2026-10-12T20:13:29.051724+05:00"
+      "lastAttempt": "2026-10-12T20:13:29.051724+05:00",
+      "latestUpload": {
+        "number": 57,
+        "id": "5L72m71en8k",
+        "title": "Tere Bin 2nd Last Ep 57 - [Eng Sub] - Digitally Presented by Nisa BB Cream - Yumna Zaidi - Wahaj Ali",
+        "date": "2023-06-28",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/5L72m71en8k/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "geonews-the-shareef-show-mubarak-ho": {
       "lastAttempt": "2026-10-12T20:13:29.083799+05:00"
