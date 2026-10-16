@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T23:57:07.226649+05:00",
+  "generatedAt": "2026-10-17T02:48:31.832660+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,13 +17,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 6,
-        "time": "04:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-16"
       }
     },
     "harpalgeo-nashtar": {
@@ -34,21 +27,21 @@
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
       "latestPublisherSource": "https://harpalgeo.tv/program/Nashtar",
       "latestUpload": {
-        "number": 18,
-        "id": "ZsWUGhmQ0bU",
-        "title": "Nashtar Episode 18 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
-        "date": "2026-10-11",
+        "number": 19,
+        "id": "5EOhJFH_Eg0",
+        "title": "Nashtar Episode 19 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "date": "2026-10-16",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
       },
       "tvToday": {
-        "number": 19,
+        "number": 20,
         "time": "20:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-16"
+        "date": "2026-10-17"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -68,17 +61,17 @@
     },
     "harpalgeo-uswa": {
       "tvToday": {
-        "number": 24,
+        "number": 25,
         "time": "19:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-16"
+        "date": "2026-10-17"
       },
       "lastAttempt": "2026-10-12T20:10:58.606287+05:00",
       "latestUpload": {
-        "number": 23,
-        "id": "qefKO-aB73M",
-        "title": "Uswah Episode 23 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "number": 24,
+        "id": "388y5YjsAyk",
+        "title": "Uswah Episode 24 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
         "date": "2026-10-16",
         "source": "Official YouTube upload",
         "availableGB": true,
@@ -104,23 +97,16 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 22,
-        "time": "01:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-16"
       }
     },
     "hum-aangan": {
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Aangan-500.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 4,
-        "id": "K1SHRLAXBuE",
-        "title": "Aangan - Episode 04 - Highlight [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
-        "date": "2026-10-11",
+        "number": 5,
+        "id": "ywxnhNqelFg",
+        "title": "Aangan - Episode 05 -[ENG SUB] 16th Oct 2026 - [Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain]",
+        "date": "2026-10-16",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -132,16 +118,16 @@
       "poster": "https://harpalgeo.tv/assets/uploads/programs/641_9919269_programs.jpg",
       "posterSource": "Official broadcaster",
       "tvToday": {
-        "number": 4,
+        "number": 5,
         "time": "21:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-16"
+        "date": "2026-10-17"
       },
       "latestUpload": {
-        "number": 3,
-        "id": "d8_U8Ua6vfc",
-        "title": "Bano Episode 03 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "number": 4,
+        "id": "ScXDR8FiM04",
+        "title": "Bano Episode 04 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 16th October 2026 | HAR PAL GEO",
         "date": "2026-10-16",
         "source": "Official YouTube upload",
         "availableGB": true,
@@ -153,12 +139,12 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/blobglammagazi001441984f/Hum_Tv/uploads/2022/01/Bombay-Tailors-500.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 28,
-        "id": "Q4v8j5udjL4",
-        "title": "Bombay Tailors - Episode 28 - [Eng Sub] 13th Oct 2026 [ Anika Zulfikar & Ali Ansari ] - HUM TV",
-        "date": "2026-10-13",
+        "number": 27,
+        "id": "nDzoy9No8WE",
+        "title": "Bombay Tailors - Episode 27 [Eng Sub] 12th Oct 2026 [ Anika Zulfikar & Ali Ansari ] - HUM TV",
+        "date": "2026-10-12",
         "source": "Official YouTube upload",
-        "availableGB": true,
+        "availableGB": false,
         "availablePK": true,
         "embeddable": true
       }
@@ -171,13 +157,13 @@
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
       "latestPublisherSource": "https://arydigital.tv/drama/dar-e-nijaat/",
       "latestUpload": {
-        "number": 21,
-        "id": "05jgSvbUIj8",
-        "title": "Dar e Nijaat Episode 21 | Best Scene❤️‍🔥 | Dur-e-fishan | Sheheryar Munawar | ARY Digital",
+        "number": 22,
+        "id": "TgmLGIfqssg",
+        "title": "Dar-e-Nijaat Episode 22 | 16 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
         "date": "2026-10-16",
         "source": "Official YouTube upload",
         "availableGB": true,
-        "availablePK": true,
+        "availablePK": false,
         "embeddable": true
       }
     },
@@ -235,10 +221,10 @@
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
       "latestPublisherSource": "https://arydigital.tv/drama/izzat/",
       "latestUpload": {
-        "number": 26,
-        "id": "2S5_eQI24A0",
-        "title": "Izzat Episode 26 | 15 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "date": "2026-10-15",
+        "number": 27,
+        "id": "Sw9C9gKWsVw",
+        "title": "Izzat Episode 27 | 16 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ENG SUB | ARY Digital",
+        "date": "2026-10-16",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": false,
@@ -249,10 +235,10 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Khushi-500.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 33,
-        "id": "AWHP5v_r5NI",
-        "title": "Khushi - Episode 33 - [ENG SUB] 15th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "date": "2026-10-15",
+        "number": 34,
+        "id": "W8utPAqKfWM",
+        "title": "Khushi - Episode 34 - [ENG SUB] 16th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "date": "2026-10-16",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -267,13 +253,13 @@
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
       "latestPublisherSource": "https://arydigital.tv/drama/main-tera/",
       "latestUpload": {
-        "number": 61,
-        "id": "NgUEYUA1XTY",
-        "title": "Main Tera Episode 61 | 15 October 2026 | Ghana Ali | Yusra Irfan | Arez Ahmed | ARY Digital",
-        "date": "2026-10-15",
+        "number": 62,
+        "id": "fTZX-CPQNZE",
+        "title": "Main Tera Episode 62 | 16 October 2026 | Ghana Ali | Yusra Irfan | Arez Ahmed | ARY Digital",
+        "date": "2026-10-16",
         "source": "Official YouTube upload",
-        "availableGB": true,
-        "availablePK": false,
+        "availableGB": false,
+        "availablePK": true,
         "embeddable": true
       }
     },
@@ -319,10 +305,10 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/TT-500.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 10,
-        "id": "nQGADWyKgdg",
-        "title": "Tark-e-Tamanna - Episode 10 - [Eng Sub] 15th Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
-        "date": "2026-10-15",
+        "number": 11,
+        "id": "buCHNwQqHpI",
+        "title": "Tark-e-Tamanna - Episode 11 -  16th Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "date": "2026-10-16",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -1649,10 +1635,10 @@
     "hum-udaari": {
       "lastAttempt": "2026-10-12T20:13:29.083820+05:00",
       "latestUpload": {
-        "number": 23,
-        "id": "ydgrm_GkcV0",
-        "title": "Udaari Episode 23 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "date": "2026-10-15",
+        "number": 24,
+        "id": "YkQE0JUNdOw",
+        "title": "Udaari Episode 24 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "date": "2026-10-16",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,

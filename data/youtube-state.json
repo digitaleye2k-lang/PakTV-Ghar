@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-16",
-  "dailySearches": 40,
+  "dailySearches": 48,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -790,7 +790,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/LDu-XHAWJM4/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:37:35.029938+00:00"
+        "checkedAt": "2026-10-16T21:48:01.620251+00:00"
       },
       {
         "id": "Gud4kMK5WrM",
@@ -806,7 +806,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Gud4kMK5WrM/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:37:35.029938+00:00"
+        "checkedAt": "2026-10-16T21:48:01.620251+00:00"
       },
       {
         "id": "GLVCe0bFBXw",
@@ -822,7 +822,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GLVCe0bFBXw/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:37:35.029938+00:00"
+        "checkedAt": "2026-10-16T21:48:01.620251+00:00"
+      },
+      {
+        "id": "kNBnHth7BT8",
+        "title": "Aye Dil Aazma Nahin - 2nd Last Episode 35 [Eng Sub] - 25 July 2026 - [Mirza Zain Baig & Hina Tariq ]",
+        "episode": 35,
+        "date": "2026-07-25",
+        "published": "2026-07-25T17:00:17Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/kNBnHth7BT8/hqdefault.jpg",
+        "checkedAt": "2026-10-16T21:48:01.620251+00:00"
       }
     ],
     "hum-deewar": [
@@ -856,7 +872,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nzE6TeRnstM/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:37:35.029938+00:00"
+        "checkedAt": "2026-10-16T21:48:01.620251+00:00"
+      },
+      {
+        "id": "bCe2W5uakAY",
+        "title": "Deewar - Episode 83 - [ENG SUB] 11th Sep 2026 [ Sunita Marshall & Ali Abbas ] HUM TV",
+        "episode": 83,
+        "date": "2026-09-11",
+        "published": "2026-09-11T15:00:23Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/bCe2W5uakAY/hqdefault.jpg",
+        "checkedAt": "2026-10-16T21:48:01.620251+00:00"
+      },
+      {
+        "id": "ym_DGbtvNNQ",
+        "title": "Deewar Episode 82 Highlight - Sunita Marshall & Ali Abbas ] HUM TV",
+        "episode": 82,
+        "date": "2026-09-11",
+        "published": "2026-09-11T12:00:26Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ym_DGbtvNNQ/hqdefault.jpg",
+        "checkedAt": "2026-10-16T21:48:01.620251+00:00"
       }
     ],
     "hum-ek-jhooti-kahani": [
@@ -874,7 +922,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dhJj0oDY58w/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:37:35.029938+00:00"
+        "checkedAt": "2026-10-16T21:48:01.620251+00:00"
       }
     ],
     "hum-leader": [
@@ -27714,6 +27762,6 @@
       }
     ]
   },
-  "cursor": 31,
+  "cursor": 35,
   "apiValidated": true
 }

@@ -24,14 +24,6 @@
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-10-16"
-      },
-      {
-        "title": "Larkay Walay RutbaKo Dekhne Aa Rahay Hain | Rutba Episode 1 | Hiba Bukhari | ARY Digital",
-        "episode": 1,
-        "id": "H1NO-7K_bdM",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-16"
       }
     ]
   },
@@ -123,16 +115,196 @@
       }
     ]
   },
-  "harpalgeo-uswa": {
+  "harpalgeo-khafa": {
     "episodes": [
       {
-        "title": "Uswah Episode 23 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 23,
-        "id": "qefKO-aB73M",
+        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 22,
+        "id": "ps74wq2Pv8s",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-16"
       },
+      {
+        "id": "2hMkdgRZ2uk",
+        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 22,
+        "date": "2026-10-15",
+        "published": "2026-10-15T19:30:38Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/2hMkdgRZ2uk/hqdefault.jpg",
+        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
+      },
+      {
+        "id": "pWw8tWkPReA",
+        "title": "Khafa Episode 22 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 15th Oct 2026 | HAR PAL GEO",
+        "episode": 22,
+        "date": "2026-10-15",
+        "published": "2026-10-15T16:00:36Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/pWw8tWkPReA/hqdefault.jpg",
+        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
+      }
+    ]
+  },
+  "geonews-hasna-mana-hai": {
+    "episodes": [
+      {
+        "title": "Chutti kay liye Unique Bahana - Tabish Hashmi ka dilchasp Qissa",
+        "episode": null,
+        "id": "jMVCF46XSRI",
+        "source": "Geo News",
+        "kind": "youtube",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "Mustafa Zahid Ka Life Changing Waqia 😱 Hasna Mana Hai 🤣💥",
+        "episode": null,
+        "id": "1mLV2CxloI4",
+        "source": "Geo News",
+        "kind": "youtube",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "Set par aye Talent aur Legacy Hakeem - Raat Main Aachi Neend ka Solution - Hasna Mana Hai - Geo News",
+        "episode": null,
+        "id": "_ctW6pcGd6g",
+        "source": "Geo News",
+        "kind": "youtube",
+        "date": "2026-10-16"
+      }
+    ]
+  },
+  "arynews-the-reporters": {
+    "episodes": [
+      {
+        "title": "Political Tensions Rise Over Governor’s Rule | The Reporters | 16th Oct 26 | ARY News",
+        "episode": null,
+        "id": "mYBZu3D1mzM",
+        "source": "ARY News",
+        "kind": "youtube",
+        "date": "2026-10-16"
+      }
+    ]
+  },
+  "geonews-naya-pakistan": {
+    "episodes": [
+      {
+        "title": "Who Wanted the Governorship?? | Shahzad Iqbal | Naya Pakistan | 16th October 2026",
+        "episode": null,
+        "id": "sn_wUp7rxg8",
+        "source": "Geo News",
+        "kind": "youtube",
+        "date": "2026-10-16"
+      }
+    ]
+  },
+  "harpalgeo-kaisa-yeh-ishq": {
+    "episodes": [
+      {
+        "id": "0Yif1LS-bT4",
+        "title": "Kaisa Yeh Ishq Last Episode 62 [Eng Sub] Zoha Tauqeer - Hashaam Khan | 12th Oct 2026 | HAR PAL GEO",
+        "episode": 62,
+        "date": "2026-10-12",
+        "published": "2026-10-12T17:00:05Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/0Yif1LS-bT4/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+      },
+      {
+        "id": "OgVDeLaWZwU",
+        "title": "Kaisa Yeh Ishq 2nd Last Episode 61 [Eng Sub] Zoha Tauqeer - Hashaam Khan | 11th October 2026",
+        "episode": 61,
+        "date": "2026-10-11",
+        "published": "2026-10-11T17:00:19Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/OgVDeLaWZwU/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:20:21.512502+00:00"
+      },
+      {
+        "id": "-OSZ6BfKy8c",
+        "title": "Kaisa Yeh Ishq Episode 60 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Zoha Tauqeer - Hashaam Khan | HAR PAL GEO",
+        "episode": 60,
+        "date": "2026-10-11",
+        "published": "2026-10-11T12:00:09Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/-OSZ6BfKy8c/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:20:21.512502+00:00"
+      }
+    ]
+  },
+  "harpalgeo-mohabbat": {
+    "episodes": [
+      {
+        "id": "Kc6JezV_1oY",
+        "title": "Mohabbat Episode 05 [Eng Sub] Feroze Khan - Nawal Saeed | 12th October 2026 - HAR PAL GEO",
+        "episode": 5,
+        "date": "2026-10-12",
+        "published": "2026-10-12T16:00:28Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Kc6JezV_1oY/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
+      }
+    ]
+  },
+  "harpalgeo-nashtar": {
+    "episodes": [
+      {
+        "id": "ZsWUGhmQ0bU",
+        "title": "Nashtar Episode 18 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
+        "episode": 18,
+        "date": "2026-10-11",
+        "published": "2026-10-11T16:00:27Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ZsWUGhmQ0bU/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
+      }
+    ]
+  },
+  "harpalgeo-uswa": {
+    "episodes": [
       {
         "id": "FE34Wg7lDVE",
         "title": "Uswah Episode 23 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 15th October 2026",
@@ -275,238 +447,6 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/gdBUOTcp3KQ/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
-      }
-    ]
-  },
-  "harpalgeo-khafa": {
-    "episodes": [
-      {
-        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
-        "episode": 22,
-        "id": "ps74wq2Pv8s",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
-        "episode": 22,
-        "id": "6HhY-MvGw4Q",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
-        "episode": 22,
-        "id": "4nHVxo5hCdw",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
-        "episode": 22,
-        "id": "6lCtQAshM94",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-16"
-      },
-      {
-        "id": "2hMkdgRZ2uk",
-        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
-        "episode": 22,
-        "date": "2026-10-15",
-        "published": "2026-10-15T19:30:38Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/2hMkdgRZ2uk/hqdefault.jpg",
-        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
-      },
-      {
-        "id": "pWw8tWkPReA",
-        "title": "Khafa Episode 22 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 15th Oct 2026 | HAR PAL GEO",
-        "episode": 22,
-        "date": "2026-10-15",
-        "published": "2026-10-15T16:00:36Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/pWw8tWkPReA/hqdefault.jpg",
-        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
-      }
-    ]
-  },
-  "harpalgeo-bano": {
-    "episodes": [
-      {
-        "title": "Bano Episode 03 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 3,
-        "id": "d8_U8Ua6vfc",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-16"
-      },
-      {
-        "id": "WVihbN5h0Pw",
-        "title": "Bano Episode 03 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 3,
-        "date": "2026-10-15",
-        "published": "2026-10-15T23:00:24Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/WVihbN5h0Pw/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
-      },
-      {
-        "id": "KttBb-ESUuk",
-        "title": "Bano Episode 03 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 3,
-        "date": "2026-10-15",
-        "published": "2026-10-15T22:00:11Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/KttBb-ESUuk/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
-      },
-      {
-        "id": "xuW3EY5v0ks",
-        "title": "Bano Episode 03 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 15th October 2026 | HAR PAL GEO",
-        "episode": 3,
-        "date": "2026-10-15",
-        "published": "2026-10-15T17:00:12Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/xuW3EY5v0ks/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
-      }
-    ]
-  },
-  "geonews-hasna-mana-hai": {
-    "episodes": [
-      {
-        "title": "Bura Audition dene ke bad bhi Acting ka Chance kese milla? - Tabish Hashmi Bane Graceful Khala",
-        "episode": null,
-        "id": "GZcI4P7Ouek",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-16"
-      }
-    ]
-  },
-  "harpalgeo-kaisa-yeh-ishq": {
-    "episodes": [
-      {
-        "id": "0Yif1LS-bT4",
-        "title": "Kaisa Yeh Ishq Last Episode 62 [Eng Sub] Zoha Tauqeer - Hashaam Khan | 12th Oct 2026 | HAR PAL GEO",
-        "episode": 62,
-        "date": "2026-10-12",
-        "published": "2026-10-12T17:00:05Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/0Yif1LS-bT4/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
-      },
-      {
-        "id": "OgVDeLaWZwU",
-        "title": "Kaisa Yeh Ishq 2nd Last Episode 61 [Eng Sub] Zoha Tauqeer - Hashaam Khan | 11th October 2026",
-        "episode": 61,
-        "date": "2026-10-11",
-        "published": "2026-10-11T17:00:19Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/OgVDeLaWZwU/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:20:21.512502+00:00"
-      },
-      {
-        "id": "-OSZ6BfKy8c",
-        "title": "Kaisa Yeh Ishq Episode 60 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Zoha Tauqeer - Hashaam Khan | HAR PAL GEO",
-        "episode": 60,
-        "date": "2026-10-11",
-        "published": "2026-10-11T12:00:09Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/-OSZ6BfKy8c/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:20:21.512502+00:00"
-      }
-    ]
-  },
-  "harpalgeo-mohabbat": {
-    "episodes": [
-      {
-        "id": "Kc6JezV_1oY",
-        "title": "Mohabbat Episode 05 [Eng Sub] Feroze Khan - Nawal Saeed | 12th October 2026 - HAR PAL GEO",
-        "episode": 5,
-        "date": "2026-10-12",
-        "published": "2026-10-12T16:00:28Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": false,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Kc6JezV_1oY/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
-      }
-    ]
-  },
-  "harpalgeo-nashtar": {
-    "episodes": [
-      {
-        "id": "ZsWUGhmQ0bU",
-        "title": "Nashtar Episode 18 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
-        "episode": 18,
-        "date": "2026-10-11",
-        "published": "2026-10-11T16:00:27Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ZsWUGhmQ0bU/hqdefault.jpg",
         "checkedAt": "2026-10-12T17:29:47.310917+00:00"
       }
     ]
@@ -1035,7 +975,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/LDu-XHAWJM4/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:37:35.029938+00:00"
+        "checkedAt": "2026-10-16T21:48:01.620251+00:00"
       },
       {
         "id": "Gud4kMK5WrM",
@@ -1051,7 +991,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Gud4kMK5WrM/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:37:35.029938+00:00"
+        "checkedAt": "2026-10-16T21:48:01.620251+00:00"
       },
       {
         "id": "GLVCe0bFBXw",
@@ -1067,7 +1007,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GLVCe0bFBXw/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:37:35.029938+00:00"
+        "checkedAt": "2026-10-16T21:48:01.620251+00:00"
+      },
+      {
+        "id": "kNBnHth7BT8",
+        "title": "Aye Dil Aazma Nahin - 2nd Last Episode 35 [Eng Sub] - 25 July 2026 - [Mirza Zain Baig & Hina Tariq ]",
+        "episode": 35,
+        "date": "2026-07-25",
+        "published": "2026-07-25T17:00:17Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/kNBnHth7BT8/hqdefault.jpg",
+        "checkedAt": "2026-10-16T21:48:01.620251+00:00"
       }
     ]
   },
@@ -1103,7 +1059,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nzE6TeRnstM/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:37:35.029938+00:00"
+        "checkedAt": "2026-10-16T21:48:01.620251+00:00"
+      },
+      {
+        "id": "bCe2W5uakAY",
+        "title": "Deewar - Episode 83 - [ENG SUB] 11th Sep 2026 [ Sunita Marshall & Ali Abbas ] HUM TV",
+        "episode": 83,
+        "date": "2026-09-11",
+        "published": "2026-09-11T15:00:23Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/bCe2W5uakAY/hqdefault.jpg",
+        "checkedAt": "2026-10-16T21:48:01.620251+00:00"
+      },
+      {
+        "id": "ym_DGbtvNNQ",
+        "title": "Deewar Episode 82 Highlight - Sunita Marshall & Ali Abbas ] HUM TV",
+        "episode": 82,
+        "date": "2026-09-11",
+        "published": "2026-09-11T12:00:26Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ym_DGbtvNNQ/hqdefault.jpg",
+        "checkedAt": "2026-10-16T21:48:01.620251+00:00"
       }
     ]
   },
@@ -1123,7 +1111,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dhJj0oDY58w/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:37:35.029938+00:00"
+        "checkedAt": "2026-10-16T21:48:01.620251+00:00"
       }
     ]
   },
@@ -27924,6 +27912,58 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/2S5_eQI24A0/hqdefault.jpg",
         "checkedAt": "2026-10-15T21:49:22.372994+00:00"
+      }
+    ]
+  },
+  "harpalgeo-bano": {
+    "episodes": [
+      {
+        "id": "WVihbN5h0Pw",
+        "title": "Bano Episode 03 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 3,
+        "date": "2026-10-15",
+        "published": "2026-10-15T23:00:24Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/WVihbN5h0Pw/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+      },
+      {
+        "id": "KttBb-ESUuk",
+        "title": "Bano Episode 03 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 3,
+        "date": "2026-10-15",
+        "published": "2026-10-15T22:00:11Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/KttBb-ESUuk/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+      },
+      {
+        "id": "xuW3EY5v0ks",
+        "title": "Bano Episode 03 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 15th October 2026 | HAR PAL GEO",
+        "episode": 3,
+        "date": "2026-10-15",
+        "published": "2026-10-15T17:00:12Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/xuW3EY5v0ks/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
       }
     ]
   },
