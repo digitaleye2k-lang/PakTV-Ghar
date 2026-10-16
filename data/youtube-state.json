@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-16",
-  "dailySearches": 24,
+  "dailySearches": 32,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -524,7 +524,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/JVflRbjyA3U/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:34:35.105191+00:00"
+        "checkedAt": "2026-10-16T15:50:47.616908+00:00"
+      },
+      {
+        "id": "XrppTAxAkcY",
+        "title": "Mirza Ki Heer 2nd Last EP 40 | 9 Sep 2026 | Hina Afridi | Ali Raza | ARY Digital",
+        "episode": 40,
+        "date": "2026-09-09",
+        "published": "2026-09-09T16:00:22Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/XrppTAxAkcY/hqdefault.jpg",
+        "checkedAt": "2026-10-16T15:50:47.616908+00:00"
       }
     ],
     "arydigital-toota-huwa-dil": [
@@ -542,7 +558,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/EeBtW9QO-ek/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:34:35.105191+00:00"
+        "checkedAt": "2026-10-16T15:50:47.616908+00:00"
       }
     ],
     "harpalgeo-beti-ka-ghar-konsa": [
@@ -560,7 +576,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_kbFqp2nfmM/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:34:35.105191+00:00"
+        "checkedAt": "2026-10-16T15:50:47.616908+00:00"
       },
       {
         "id": "yxYz6Y2Kyyo",
@@ -576,7 +592,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yxYz6Y2Kyyo/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:34:35.105191+00:00"
+        "checkedAt": "2026-10-16T15:50:47.616908+00:00"
       },
       {
         "id": "571Eg7LybQ8",
@@ -592,7 +608,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/571Eg7LybQ8/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:34:35.105191+00:00"
+        "checkedAt": "2026-10-16T15:50:47.616908+00:00"
       },
       {
         "id": "Zg4O8Tk2TEM",
@@ -608,7 +624,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Zg4O8Tk2TEM/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:34:35.105191+00:00"
+        "checkedAt": "2026-10-16T15:50:47.616908+00:00"
       },
       {
         "id": "ioKGt-rJ2XY",
@@ -624,7 +640,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ioKGt-rJ2XY/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:34:35.105191+00:00"
+        "checkedAt": "2026-10-16T15:50:47.616908+00:00"
       }
     ],
     "harpalgeo-pehli-barish": [
@@ -27698,6 +27714,6 @@
       }
     ]
   },
-  "cursor": 23,
+  "cursor": 27,
   "apiValidated": true
 }

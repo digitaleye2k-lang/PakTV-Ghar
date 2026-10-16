@@ -1,37 +1,153 @@
 {
+  "arydigital-rutba": {
+    "episodes": [
+      {
+        "id": "QpzPYN2DuEg",
+        "title": "Rutba EP 2 | 12 Oct 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ENG SUB",
+        "episode": 2,
+        "date": "2026-10-12",
+        "published": "2026-10-12T16:00:08Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/QpzPYN2DuEg/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+      },
+      {
+        "title": "Rutba Episode 1 | Talha Chahour | Best Scene | ARY Digital",
+        "episode": 1,
+        "id": "EGNpyKjS_GQ",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "Larkay Walay RutbaKo Dekhne Aa Rahay Hain | Rutba Episode 1 | Hiba Bukhari | ARY Digital",
+        "episode": 1,
+        "id": "H1NO-7K_bdM",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-16"
+      }
+    ]
+  },
+  "arydigital-main-tera": {
+    "episodes": [
+      {
+        "id": "OErakyu1-A4",
+        "title": "Main Tera Episode 59 | Best Moment | ARY Digital",
+        "episode": 59,
+        "date": "2026-10-15",
+        "published": "2026-10-15T11:10:24Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/OErakyu1-A4/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+      },
+      {
+        "title": "Emotional Moments🥹 | Main Tera Episode 58 | ARY Digital",
+        "episode": 58,
+        "id": "guq_grbch0g",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "Khud Ko Sambhalo Warisha | Main Tera Episode 58 | ARY Digital",
+        "episode": 58,
+        "id": "gfIQ5rVMIyQ",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "Ja Mohabbat Tumhe Alvida Keh Diya | Main Tera Episode 58 | ARY Digital",
+        "episode": 58,
+        "id": "IIPGYr5JSyI",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "Tumhari Wajah Ammi Humein Chorh Kar Chali Gayin | Main Tera Episode 58 | ARY Digital",
+        "episode": 58,
+        "id": "GnqMPkNldes",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "Aankhein Kholein Ammi | Main Tera Episode 56 | ARY Digital",
+        "episode": 56,
+        "id": "03AAYuoIAMk",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-16"
+      },
+      {
+        "id": "becjUcBHoMI",
+        "title": "Main Ab Is Ghar Mai Nahi Rahungi | Main Tera Episode 56 | Yusra Irfan | ARY Digital",
+        "episode": 56,
+        "date": "2026-10-15",
+        "published": "2026-10-15T12:50:20Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/becjUcBHoMI/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+      }
+    ]
+  },
+  "arydigital-tamasha-season-5": {
+    "episodes": [
+      {
+        "title": "Tamasha Most Viral Highlights! 🔥😍| Grand Finale | Tamasha S5 | ARY Digital",
+        "episode": null,
+        "id": "fJm3o8mmYLU",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "Dance Performance! 💃🔥🎶😍| Grand Finale | Tamasha S5 | ARY Digital",
+        "episode": null,
+        "id": "hUtIkw_gfJs",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-16"
+      }
+    ]
+  },
   "harpalgeo-uswa": {
     "episodes": [
       {
-        "title": "Uswah Episode 23 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "title": "Uswah Episode 23 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
         "episode": 23,
-        "id": "UKCrwRpyzYw",
+        "id": "qefKO-aB73M",
         "source": "Har Pal Geo",
         "kind": "youtube",
-        "date": "2026-10-15"
+        "date": "2026-10-16"
       },
       {
-        "title": "Uswah Episode 23 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "title": "Uswah Episode 23 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
         "episode": 23,
-        "id": "rlnkm9TJ0PQ",
+        "id": "zDY4X7h4wRw",
         "source": "Har Pal Geo",
         "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Uswah Episode 23 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 23,
-        "id": "yd-pmP510NU",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Uswah Episode 23 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 23,
-        "id": "X9Eij2JZSBo",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-15"
+        "date": "2026-10-16"
       },
       {
         "id": "FE34Wg7lDVE",
@@ -182,28 +298,36 @@
   "harpalgeo-khafa": {
     "episodes": [
       {
-        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
         "episode": 22,
-        "id": "fKx0-G1WSdA",
+        "id": "ps74wq2Pv8s",
         "source": "Har Pal Geo",
         "kind": "youtube",
-        "date": "2026-10-15"
+        "date": "2026-10-16"
       },
       {
-        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
         "episode": 22,
-        "id": "pBwaB5phXkw",
+        "id": "6HhY-MvGw4Q",
         "source": "Har Pal Geo",
         "kind": "youtube",
-        "date": "2026-10-15"
+        "date": "2026-10-16"
       },
       {
-        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
         "episode": 22,
-        "id": "xeVAUn1kBRk",
+        "id": "4nHVxo5hCdw",
         "source": "Har Pal Geo",
         "kind": "youtube",
-        "date": "2026-10-15"
+        "date": "2026-10-16"
+      },
+      {
+        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 22,
+        "id": "6lCtQAshM94",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-16"
       },
       {
         "id": "2hMkdgRZ2uk",
@@ -242,6 +366,22 @@
   "harpalgeo-bano": {
     "episodes": [
       {
+        "title": "Bano Episode 03 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 3,
+        "id": "d8_U8Ua6vfc",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "Bano Episode 03 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 3,
+        "id": "wBgzqQaU9I0",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-16"
+      },
+      {
         "id": "WVihbN5h0Pw",
         "title": "Bano Episode 03 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
         "episode": 3,
@@ -274,22 +414,6 @@
         "checkedAt": "2026-10-16T00:59:10.857630+00:00"
       },
       {
-        "title": "Bano Episode 03 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 3,
-        "id": "bwHptRcXVVk",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Bano Episode 03 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 3,
-        "id": "ObGgiuZS1-o",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
         "id": "xuW3EY5v0ks",
         "title": "Bano Episode 03 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 15th October 2026 | HAR PAL GEO",
         "episode": 3,
@@ -316,170 +440,6 @@
         "source": "Geo News",
         "kind": "youtube",
         "date": "2026-10-16"
-      }
-    ]
-  },
-  "geonews-aaj-shahzeb-khanzada-kay-sath": {
-    "episodes": [
-      {
-        "title": "Mir Raza Commission Submits Report to Government | Family Renews Demands | Shahzeb Khanzada Vlog",
-        "episode": null,
-        "id": "PLcX1xvWzYk",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Mir Raza Commission Submits Report to Government | Family Renews Demands | Shahzeb Khanzada Vlog",
-        "episode": null,
-        "id": "KaaKu5VXs1Q",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Imran Khan’s Political Strategy Under Debate | Revolution vs Election | Shahzeb Khanzada Vlog",
-        "episode": null,
-        "id": "ayaAN4Q-KAI",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Former Madrassa Turned School Raises Safety Concerns | Nadia Sabohi Reports | Shahzeb Khanzada Vlog",
-        "episode": null,
-        "id": "u9XwWAfP0l4",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Former Madrassa Turned School Raises Safety Concerns | Nadia Sabohi Reports | Shahzeb Khanzada Vlog",
-        "episode": null,
-        "id": "Uj5WybVdvMA",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Imran Khan’s Arrest Not Enough? Government Wants Him Out of Pakistan! | Shahzeb Khanzada Vlog",
-        "episode": null,
-        "id": "kEM-N3-E4Ao",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "2,500 Containers at Risk? Strait of Hormuz Ship Incident Explained | Shahzeb Khanzada Vlog",
-        "episode": null,
-        "id": "1S-fepiho2g",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Imran Khan’s Arrest Not Enough? Government Wants Him Out of Pakistan! | Shahzeb Khanzada Vlog",
-        "episode": null,
-        "id": "joFCU2wvWGs",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "2,500 Containers at Risk? Strait of Hormuz Ship Incident Explained | Shahzeb Khanzada Vlog",
-        "episode": null,
-        "id": "O9nIJTKiAoE",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Peshawar: Deadly Roof Collapse | Questions Over School Safety | Shahzeb Khanzada Vlog",
-        "episode": null,
-        "id": "X7AasYYs6NE",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Peshawar: Deadly Roof Collapse | Questions Over School Safety | Shahzeb Khanzada Vlog",
-        "episode": null,
-        "id": "u8YfJhGyoSI",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "What made Shahzad Iqbal an important figure in the new provinces? | Shahzeb Khanzada",
-        "episode": null,
-        "id": "k1emWy7Sg04",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "After Governor’s Rule, What Options Does PTI Have? | Political Analysis | Shahzeb Khanzada",
-        "episode": null,
-        "id": "hIDjD70eI3M",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Mohsin Naqvi’s Big Statement on Opposition Demands | Political Update | Shahzeb Khanzada",
-        "episode": null,
-        "id": "0CqrFWLXyS0",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "35 Deaths Raise Questions Over School Registration and Building Safety | Shahzeb Khanzada",
-        "episode": null,
-        "id": "SY_dpSyv890",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Peshawar Child Deaths, Modi Government’s Challenges & Strait of Hormuz Crisis | Shahzeb Khanzada",
-        "episode": null,
-        "id": "eiS_4Y2Eikw",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      }
-    ]
-  },
-  "arynews-11th-hour": {
-    "episodes": [
-      {
-        "title": "PTI Offered a Reward to Those Who Attack Me, Claims Ikhtiar Wali | 11th Hour",
-        "episode": null,
-        "id": "fNjppc_rqS4",
-        "source": "ARY News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      }
-    ]
-  },
-  "arydigital-rutba": {
-    "episodes": [
-      {
-        "id": "QpzPYN2DuEg",
-        "title": "Rutba EP 2 | 12 Oct 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ENG SUB",
-        "episode": 2,
-        "date": "2026-10-12",
-        "published": "2026-10-12T16:00:08Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/QpzPYN2DuEg/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
       }
     ]
   },
@@ -823,7 +783,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/JVflRbjyA3U/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:34:35.105191+00:00"
+        "checkedAt": "2026-10-16T15:50:47.616908+00:00"
+      },
+      {
+        "id": "XrppTAxAkcY",
+        "title": "Mirza Ki Heer 2nd Last EP 40 | 9 Sep 2026 | Hina Afridi | Ali Raza | ARY Digital",
+        "episode": 40,
+        "date": "2026-09-09",
+        "published": "2026-09-09T16:00:22Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/XrppTAxAkcY/hqdefault.jpg",
+        "checkedAt": "2026-10-16T15:50:47.616908+00:00"
       }
     ]
   },
@@ -843,7 +819,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/EeBtW9QO-ek/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:34:35.105191+00:00"
+        "checkedAt": "2026-10-16T15:50:47.616908+00:00"
       }
     ]
   },
@@ -863,7 +839,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_kbFqp2nfmM/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:34:35.105191+00:00"
+        "checkedAt": "2026-10-16T15:50:47.616908+00:00"
       },
       {
         "id": "yxYz6Y2Kyyo",
@@ -879,7 +855,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yxYz6Y2Kyyo/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:34:35.105191+00:00"
+        "checkedAt": "2026-10-16T15:50:47.616908+00:00"
       },
       {
         "id": "571Eg7LybQ8",
@@ -895,7 +871,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/571Eg7LybQ8/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:34:35.105191+00:00"
+        "checkedAt": "2026-10-16T15:50:47.616908+00:00"
       },
       {
         "id": "Zg4O8Tk2TEM",
@@ -911,7 +887,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Zg4O8Tk2TEM/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:34:35.105191+00:00"
+        "checkedAt": "2026-10-16T15:50:47.616908+00:00"
       },
       {
         "id": "ioKGt-rJ2XY",
@@ -927,7 +903,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ioKGt-rJ2XY/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:34:35.105191+00:00"
+        "checkedAt": "2026-10-16T15:50:47.616908+00:00"
       }
     ]
   },
@@ -27972,42 +27948,6 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/2S5_eQI24A0/hqdefault.jpg",
         "checkedAt": "2026-10-15T21:49:22.372994+00:00"
-      }
-    ]
-  },
-  "arydigital-main-tera": {
-    "episodes": [
-      {
-        "id": "OErakyu1-A4",
-        "title": "Main Tera Episode 59 | Best Moment | ARY Digital",
-        "episode": 59,
-        "date": "2026-10-15",
-        "published": "2026-10-15T11:10:24Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/OErakyu1-A4/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
-      },
-      {
-        "id": "becjUcBHoMI",
-        "title": "Main Ab Is Ghar Mai Nahi Rahungi | Main Tera Episode 56 | Yusra Irfan | ARY Digital",
-        "episode": 56,
-        "date": "2026-10-15",
-        "published": "2026-10-15T12:50:20Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/becjUcBHoMI/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
       }
     ]
   },
