@@ -1,68 +1,4 @@
 {
-  "hum-tark-e-tamanna": {
-    "episodes": [
-      {
-        "title": "Tark-e-Tamanna - Episode 10 - [Eng Sub] 15th Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
-        "episode": 10,
-        "id": "nQGADWyKgdg",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      }
-    ]
-  },
-  "arydigital-main-tera": {
-    "episodes": [
-      {
-        "title": "Main Tera Episode 61 | 15 October 2026 | Ghana Ali | Yusra Irfan | Arez Ahmed | ARY Digital",
-        "episode": 61,
-        "id": "NgUEYUA1XTY",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Main Tera Episode 61 | 15 October 2026 | Ghana Ali | Yusra Irfan | Arez Ahmed | ARY Digital",
-        "episode": 61,
-        "id": "PuHlVnZf3sM",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "id": "OErakyu1-A4",
-        "title": "Main Tera Episode 59 | Best Moment | ARY Digital",
-        "episode": 59,
-        "date": "2026-10-15",
-        "published": "2026-10-15T11:10:24Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/OErakyu1-A4/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
-      },
-      {
-        "id": "becjUcBHoMI",
-        "title": "Main Ab Is Ghar Mai Nahi Rahungi | Main Tera Episode 56 | Yusra Irfan | ARY Digital",
-        "episode": 56,
-        "date": "2026-10-15",
-        "published": "2026-10-15T12:50:20Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/becjUcBHoMI/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
-      }
-    ]
-  },
   "harpalgeo-uswa": {
     "episodes": [
       {
@@ -412,50 +348,6 @@
         "source": "Geo News",
         "kind": "youtube",
         "date": "2026-10-15"
-      },
-      {
-        "title": "Momal caught Tabish cheating | Hasna Mana Hai - Tabish Hashmi - Momal Shaikh | Geo News",
-        "episode": null,
-        "id": "t1yxDUcfbro",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Momal Shares paranormal incident! | Hasna Mana Hai - Tabish Hashmi | Geo News",
-        "episode": null,
-        "id": "nbU3UPJZZmU",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Tabish left the game in difficult situation!😂 | Hasna Mana Hai - Momal Shaikh | Geo News",
-        "episode": null,
-        "id": "YXSCouz4nJM",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      }
-    ]
-  },
-  "geonews-capital-talk": {
-    "episodes": [
-      {
-        "title": "Children’s Safety & State Accountability | Hamid Mir Raises Key Questions",
-        "episode": null,
-        "id": "4BIZLfM2Rgo",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Peshawar Child Deaths: Who Should Be Held Responsible? | Capital Talk | Hamid Mir",
-        "episode": null,
-        "id": "vpYvu9c60Tc",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
       }
     ]
   },
@@ -739,7 +631,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/K1SHRLAXBuE/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
+        "checkedAt": "2026-10-16T07:05:15.775682+00:00"
       }
     ]
   },
@@ -28104,6 +27996,62 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/2S5_eQI24A0/hqdefault.jpg",
         "checkedAt": "2026-10-15T21:49:22.372994+00:00"
+      }
+    ]
+  },
+  "arydigital-main-tera": {
+    "episodes": [
+      {
+        "id": "OErakyu1-A4",
+        "title": "Main Tera Episode 59 | Best Moment | ARY Digital",
+        "episode": 59,
+        "date": "2026-10-15",
+        "published": "2026-10-15T11:10:24Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/OErakyu1-A4/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+      },
+      {
+        "id": "becjUcBHoMI",
+        "title": "Main Ab Is Ghar Mai Nahi Rahungi | Main Tera Episode 56 | Yusra Irfan | ARY Digital",
+        "episode": 56,
+        "date": "2026-10-15",
+        "published": "2026-10-15T12:50:20Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/becjUcBHoMI/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+      }
+    ]
+  },
+  "hum-gulbahar": {
+    "episodes": [
+      {
+        "id": "lCFiom01bBo",
+        "title": "Gulbahar - Episode 10 - [Eng Sub] 15th Oct 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
+        "episode": 10,
+        "date": "2026-10-15",
+        "published": "2026-10-15T16:00:04Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/lCFiom01bBo/hqdefault.jpg",
+        "checkedAt": "2026-10-16T07:05:15.775682+00:00"
       }
     ]
   }

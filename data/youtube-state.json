@@ -1,6 +1,6 @@
 {
-  "quotaDay": "2026-10-15",
-  "dailySearches": 64,
+  "quotaDay": "2026-10-16",
+  "dailySearches": 8,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -304,7 +304,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/K1SHRLAXBuE/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
+        "checkedAt": "2026-10-16T07:05:15.775682+00:00"
       }
     ],
     "hum-bombay-tailors": [
@@ -27626,8 +27626,26 @@
         "thumbnail": "https://i.ytimg.com/vi/pWw8tWkPReA/hqdefault.jpg",
         "checkedAt": "2026-10-16T03:51:58.850494+00:00"
       }
+    ],
+    "hum-gulbahar": [
+      {
+        "id": "lCFiom01bBo",
+        "title": "Gulbahar - Episode 10 - [Eng Sub] 15th Oct 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
+        "episode": 10,
+        "date": "2026-10-15",
+        "published": "2026-10-15T16:00:04Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/lCFiom01bBo/hqdefault.jpg",
+        "checkedAt": "2026-10-16T07:05:15.775682+00:00"
+      }
     ]
   },
-  "cursor": 11,
+  "cursor": 15,
   "apiValidated": true
 }
