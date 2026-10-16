@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-15",
-  "dailySearches": 56,
+  "dailySearches": 64,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -144,6 +144,86 @@
       }
     ],
     "harpalgeo-uswa": [
+      {
+        "id": "FE34Wg7lDVE",
+        "title": "Uswah Episode 23 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 15th October 2026",
+        "episode": 23,
+        "date": "2026-10-15",
+        "published": "2026-10-15T15:00:38Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/FE34Wg7lDVE/hqdefault.jpg",
+        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
+      },
+      {
+        "id": "X0ib2RgA-yc",
+        "title": "Uswah Episode 22 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 14th October 2026",
+        "episode": 22,
+        "date": "2026-10-14",
+        "published": "2026-10-14T15:00:39Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/X0ib2RgA-yc/hqdefault.jpg",
+        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
+      },
+      {
+        "id": "ONoIywxsGlw",
+        "title": "Uswah Episode 21 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 21,
+        "date": "2026-10-14",
+        "published": "2026-10-14T06:00:16Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ONoIywxsGlw/hqdefault.jpg",
+        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
+      },
+      {
+        "id": "Z_ecf9GQUfw",
+        "title": "Uswah Episode 21 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 21,
+        "date": "2026-10-13",
+        "published": "2026-10-13T22:00:17Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Z_ecf9GQUfw/hqdefault.jpg",
+        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
+      },
+      {
+        "id": "38dkS4-Dazw",
+        "title": "Uswah Episode 21 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 13th October 2026",
+        "episode": 21,
+        "date": "2026-10-13",
+        "published": "2026-10-13T15:00:33Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/38dkS4-Dazw/hqdefault.jpg",
+        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
+      },
       {
         "id": "7mpQfSZvLZE",
         "title": "Uswah Episode 20 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 12th October 2026",
@@ -27512,8 +27592,42 @@
         "thumbnail": "https://i.ytimg.com/vi/xuW3EY5v0ks/hqdefault.jpg",
         "checkedAt": "2026-10-16T00:59:10.857630+00:00"
       }
+    ],
+    "harpalgeo-khafa": [
+      {
+        "id": "2hMkdgRZ2uk",
+        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 22,
+        "date": "2026-10-15",
+        "published": "2026-10-15T19:30:38Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/2hMkdgRZ2uk/hqdefault.jpg",
+        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
+      },
+      {
+        "id": "pWw8tWkPReA",
+        "title": "Khafa Episode 22 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 15th Oct 2026 | HAR PAL GEO",
+        "episode": 22,
+        "date": "2026-10-15",
+        "published": "2026-10-15T16:00:36Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/pWw8tWkPReA/hqdefault.jpg",
+        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
+      }
     ]
   },
-  "cursor": 7,
+  "cursor": 11,
   "apiValidated": true
 }

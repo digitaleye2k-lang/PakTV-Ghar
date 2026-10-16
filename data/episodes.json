@@ -1,308 +1,40 @@
 {
-  "hum-udaari": {
+  "hum-tark-e-tamanna": {
     "episodes": [
       {
-        "id": "ydgrm_GkcV0",
-        "title": "Udaari Episode 23 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 23,
-        "date": "2026-10-15",
-        "published": "2026-10-15T14:00:18Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ydgrm_GkcV0/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "99Bbeou_qjY",
-        "title": "Udaari Episode 22 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 22,
-        "date": "2026-10-14",
-        "published": "2026-10-14T14:00:00Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/99Bbeou_qjY/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "cUcAc7BJ8kk",
-        "title": "Udaari Episode 21 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 21,
-        "date": "2026-10-13",
-        "published": "2026-10-13T14:00:24Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/cUcAc7BJ8kk/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "y2XFdg_DecM",
-        "title": "Udaari Episode 20 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 20,
-        "date": "2026-10-12",
-        "published": "2026-10-12T14:00:25Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/y2XFdg_DecM/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "ijI4zYgnP0o",
-        "title": "Udaari Episode 19 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 19,
-        "date": "2026-10-11",
-        "published": "2026-10-11T14:00:08Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ijI4zYgnP0o/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "HDUn0tDIkIU",
-        "title": "Udaari Episode 18 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 18,
-        "date": "2026-10-10",
-        "published": "2026-10-10T14:00:24Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/HDUn0tDIkIU/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "TB67afm9kIQ",
-        "title": "Udaari Episode 17 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 17,
-        "date": "2026-10-09",
-        "published": "2026-10-09T14:00:26Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/TB67afm9kIQ/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "7D33h4Eilnc",
-        "title": "Udaari Episode 16 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 16,
-        "date": "2026-10-08",
-        "published": "2026-10-08T14:00:05Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/7D33h4Eilnc/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "xGyrqCi8EuM",
-        "title": "Udaari Episode 15 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 15,
-        "date": "2026-10-07",
-        "published": "2026-10-07T14:00:35Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/xGyrqCi8EuM/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "ACFiGLNsZgU",
-        "title": "Udaari Episode 13 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 13,
-        "date": "2026-10-05",
-        "published": "2026-10-05T14:00:18Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ACFiGLNsZgU/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "wnwh_K-qa8s",
-        "title": "Udaari Episode 11 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 11,
-        "date": "2026-10-03",
-        "published": "2026-10-03T14:00:15Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/wnwh_K-qa8s/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "Rb4YxCK_Cqs",
-        "title": "Udaari Episode 06 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 6,
-        "date": "2026-09-28",
-        "published": "2026-09-28T14:00:04Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Rb4YxCK_Cqs/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "thEg4MYecMw",
-        "title": "Udaari Episode 05 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 5,
-        "date": "2026-09-27",
-        "published": "2026-09-27T14:00:15Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/thEg4MYecMw/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "f2AByMb0SvM",
-        "title": "Udaari Episode 04 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 4,
-        "date": "2026-09-26",
-        "published": "2026-09-26T14:00:11Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/f2AByMb0SvM/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "4eF78oT9-3I",
-        "title": "Udaari Episode 02 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 2,
-        "date": "2026-09-24",
-        "published": "2026-09-24T14:00:18Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/4eF78oT9-3I/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "aw8iyRdRea4",
-        "title": "Udaari Episode 01 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 1,
-        "date": "2026-09-23",
-        "published": "2026-09-23T14:00:15Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/aw8iyRdRea4/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      }
-    ]
-  },
-  "arydigital-izzat": {
-    "episodes": [
-      {
-        "id": "2S5_eQI24A0",
-        "title": "Izzat Episode 26 | 15 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 26,
-        "date": "2026-10-15",
-        "published": "2026-10-15T15:00:37Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/2S5_eQI24A0/hqdefault.jpg",
-        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
-      }
-    ]
-  },
-  "arydigital-hey-fam": {
-    "episodes": [
-      {
-        "id": "fL5lA6STcb8",
-        "title": "Hey Fam | EP  10 | 15 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ENG SUB | ARY Digital",
+        "title": "Tark-e-Tamanna - Episode 10 - [Eng Sub] 15th Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
         "episode": 10,
-        "date": "2026-10-15",
-        "published": "2026-10-15T16:00:12Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
+        "id": "nQGADWyKgdg",
+        "source": "HUM TV",
         "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/fL5lA6STcb8/hqdefault.jpg",
-        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
+        "date": "2026-10-15"
+      }
+    ]
+  },
+  "arydigital-main-tera": {
+    "episodes": [
+      {
+        "title": "Main Tera Episode 61 | 15 October 2026 | Ghana Ali | Yusra Irfan | Arez Ahmed | ARY Digital",
+        "episode": 61,
+        "id": "NgUEYUA1XTY",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-15"
       },
       {
-        "id": "8N6zIC3KIY8",
-        "title": "Hey Fam Episode 7 | Emotional Moments | Dua Zahra | ARY Digital",
-        "episode": 7,
+        "title": "Main Tera Episode 61 | 15 October 2026 | Ghana Ali | Yusra Irfan | Arez Ahmed | ARY Digital",
+        "episode": 61,
+        "id": "PuHlVnZf3sM",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-15"
+      },
+      {
+        "id": "OErakyu1-A4",
+        "title": "Main Tera Episode 59 | Best Moment | ARY Digital",
+        "episode": 59,
         "date": "2026-10-15",
-        "published": "2026-10-15T11:00:17Z",
+        "published": "2026-10-15T11:10:24Z",
         "source": "ARY Digital",
         "channelId": "arydigital",
         "sourceType": "youtube_api",
@@ -310,15 +42,15 @@
         "embeddable": true,
         "availableGB": true,
         "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/8N6zIC3KIY8/hqdefault.jpg",
-        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
+        "thumbnail": "https://i.ytimg.com/vi/OErakyu1-A4/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
       },
       {
-        "id": "AGEGDHZ2bBc",
-        "title": "Sirf Dosti Nahi Shadi Karni Hai Mujhe | Hey Fam Episode 7 | ARY Digital",
-        "episode": 7,
+        "id": "becjUcBHoMI",
+        "title": "Main Ab Is Ghar Mai Nahi Rahungi | Main Tera Episode 56 | Yusra Irfan | ARY Digital",
+        "episode": 56,
         "date": "2026-10-15",
-        "published": "2026-10-15T09:44:40Z",
+        "published": "2026-10-15T12:50:20Z",
         "source": "ARY Digital",
         "channelId": "arydigital",
         "sourceType": "youtube_api",
@@ -326,20 +58,124 @@
         "embeddable": true,
         "availableGB": true,
         "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/AGEGDHZ2bBc/hqdefault.jpg",
-        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
+        "thumbnail": "https://i.ytimg.com/vi/becjUcBHoMI/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
       }
     ]
   },
   "harpalgeo-uswa": {
     "episodes": [
       {
-        "title": "Uswah Episode 23 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 15th October 2026",
+        "title": "Uswah Episode 23 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
         "episode": 23,
-        "id": "FE34Wg7lDVE",
+        "id": "UKCrwRpyzYw",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-15"
+      },
+      {
+        "title": "Uswah Episode 23 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 23,
+        "id": "rlnkm9TJ0PQ",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "Uswah Episode 23 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 23,
+        "id": "yd-pmP510NU",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "Uswah Episode 23 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 23,
+        "id": "X9Eij2JZSBo",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-15"
+      },
+      {
+        "id": "FE34Wg7lDVE",
+        "title": "Uswah Episode 23 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 15th October 2026",
+        "episode": 23,
+        "date": "2026-10-15",
+        "published": "2026-10-15T15:00:38Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/FE34Wg7lDVE/hqdefault.jpg",
+        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
+      },
+      {
+        "id": "X0ib2RgA-yc",
+        "title": "Uswah Episode 22 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 14th October 2026",
+        "episode": 22,
+        "date": "2026-10-14",
+        "published": "2026-10-14T15:00:39Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/X0ib2RgA-yc/hqdefault.jpg",
+        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
+      },
+      {
+        "id": "ONoIywxsGlw",
+        "title": "Uswah Episode 21 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 21,
+        "date": "2026-10-14",
+        "published": "2026-10-14T06:00:16Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ONoIywxsGlw/hqdefault.jpg",
+        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
+      },
+      {
+        "id": "Z_ecf9GQUfw",
+        "title": "Uswah Episode 21 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 21,
+        "date": "2026-10-13",
+        "published": "2026-10-13T22:00:17Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Z_ecf9GQUfw/hqdefault.jpg",
+        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
+      },
+      {
+        "id": "38dkS4-Dazw",
+        "title": "Uswah Episode 21 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 13th October 2026",
+        "episode": 21,
+        "date": "2026-10-13",
+        "published": "2026-10-13T15:00:33Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/38dkS4-Dazw/hqdefault.jpg",
+        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
       },
       {
         "id": "7mpQfSZvLZE",
@@ -410,12 +246,60 @@
   "harpalgeo-khafa": {
     "episodes": [
       {
-        "title": "Recap Khafa Episode 21 - 15th October 2026 - Har Pal Geo",
-        "episode": 21,
-        "id": "gD2GZrZ2XKY",
+        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 22,
+        "id": "fKx0-G1WSdA",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-15"
+      },
+      {
+        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 22,
+        "id": "pBwaB5phXkw",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 22,
+        "id": "xeVAUn1kBRk",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-15"
+      },
+      {
+        "id": "2hMkdgRZ2uk",
+        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 22,
+        "date": "2026-10-15",
+        "published": "2026-10-15T19:30:38Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/2hMkdgRZ2uk/hqdefault.jpg",
+        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
+      },
+      {
+        "id": "pWw8tWkPReA",
+        "title": "Khafa Episode 22 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 15th Oct 2026 | HAR PAL GEO",
+        "episode": 22,
+        "date": "2026-10-15",
+        "published": "2026-10-15T16:00:36Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/pWw8tWkPReA/hqdefault.jpg",
+        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
       }
     ]
   },
@@ -454,6 +338,22 @@
         "checkedAt": "2026-10-16T00:59:10.857630+00:00"
       },
       {
+        "title": "Bano Episode 03 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 3,
+        "id": "bwHptRcXVVk",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "Bano Episode 03 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 3,
+        "id": "ObGgiuZS1-o",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-15"
+      },
+      {
         "id": "xuW3EY5v0ks",
         "title": "Bano Episode 03 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 15th October 2026 | HAR PAL GEO",
         "episode": 3,
@@ -468,14 +368,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xuW3EY5v0ks/hqdefault.jpg",
         "checkedAt": "2026-10-16T00:59:10.857630+00:00"
-      },
-      {
-        "title": "Bano Episode 02 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 2,
-        "id": "Y2kuz5xelak",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-15"
       }
     ]
   },
@@ -541,30 +433,6 @@
         "title": "Tabish left the game in difficult situation!😂 | Hasna Mana Hai - Momal Shaikh | Geo News",
         "episode": null,
         "id": "YXSCouz4nJM",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Tough situation for Momal! - Guess the doctor | Hasna Mana Hai - Tabish Hashmi | Geo News",
-        "episode": null,
-        "id": "fAjY2B0c0vQ",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Tabish ka Romantic Dialogue😂 | Hasna Mana Hai - Tabish Hashmi - Sohail Sameer | Geo News",
-        "episode": null,
-        "id": "gXXwRCHqO7M",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Young Generation Aur 🎤 Music Industry Ka Pathway Kya Hai? 🤔🎶🔥😂 | Hasna Mana Hai",
-        "episode": null,
-        "id": "owzq8WnC_6E",
         "source": "Geo News",
         "kind": "youtube",
         "date": "2026-10-15"
@@ -718,18 +586,6 @@
         "episode": null,
         "id": "eiS_4Y2Eikw",
         "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-15"
-      }
-    ]
-  },
-  "arynews-the-reporters": {
-    "episodes": [
-      {
-        "title": "KP Emergency & Governor’s Rule | The Reporters | 15th Oct 26 | ARY News",
-        "episode": null,
-        "id": "lxxbvi7JLoQ",
-        "source": "ARY News",
         "kind": "youtube",
         "date": "2026-10-15"
       }
@@ -27483,6 +27339,266 @@
       }
     ]
   },
+  "hum-udaari": {
+    "episodes": [
+      {
+        "id": "ydgrm_GkcV0",
+        "title": "Udaari Episode 23 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 23,
+        "date": "2026-10-15",
+        "published": "2026-10-15T14:00:18Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ydgrm_GkcV0/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "99Bbeou_qjY",
+        "title": "Udaari Episode 22 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 22,
+        "date": "2026-10-14",
+        "published": "2026-10-14T14:00:00Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/99Bbeou_qjY/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "cUcAc7BJ8kk",
+        "title": "Udaari Episode 21 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 21,
+        "date": "2026-10-13",
+        "published": "2026-10-13T14:00:24Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/cUcAc7BJ8kk/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "y2XFdg_DecM",
+        "title": "Udaari Episode 20 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 20,
+        "date": "2026-10-12",
+        "published": "2026-10-12T14:00:25Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/y2XFdg_DecM/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "ijI4zYgnP0o",
+        "title": "Udaari Episode 19 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 19,
+        "date": "2026-10-11",
+        "published": "2026-10-11T14:00:08Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ijI4zYgnP0o/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "HDUn0tDIkIU",
+        "title": "Udaari Episode 18 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 18,
+        "date": "2026-10-10",
+        "published": "2026-10-10T14:00:24Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/HDUn0tDIkIU/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "TB67afm9kIQ",
+        "title": "Udaari Episode 17 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 17,
+        "date": "2026-10-09",
+        "published": "2026-10-09T14:00:26Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/TB67afm9kIQ/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "7D33h4Eilnc",
+        "title": "Udaari Episode 16 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 16,
+        "date": "2026-10-08",
+        "published": "2026-10-08T14:00:05Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/7D33h4Eilnc/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "xGyrqCi8EuM",
+        "title": "Udaari Episode 15 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 15,
+        "date": "2026-10-07",
+        "published": "2026-10-07T14:00:35Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/xGyrqCi8EuM/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "ACFiGLNsZgU",
+        "title": "Udaari Episode 13 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 13,
+        "date": "2026-10-05",
+        "published": "2026-10-05T14:00:18Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ACFiGLNsZgU/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "wnwh_K-qa8s",
+        "title": "Udaari Episode 11 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 11,
+        "date": "2026-10-03",
+        "published": "2026-10-03T14:00:15Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/wnwh_K-qa8s/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "Rb4YxCK_Cqs",
+        "title": "Udaari Episode 06 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 6,
+        "date": "2026-09-28",
+        "published": "2026-09-28T14:00:04Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Rb4YxCK_Cqs/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "thEg4MYecMw",
+        "title": "Udaari Episode 05 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 5,
+        "date": "2026-09-27",
+        "published": "2026-09-27T14:00:15Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/thEg4MYecMw/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "f2AByMb0SvM",
+        "title": "Udaari Episode 04 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 4,
+        "date": "2026-09-26",
+        "published": "2026-09-26T14:00:11Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/f2AByMb0SvM/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "4eF78oT9-3I",
+        "title": "Udaari Episode 02 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 2,
+        "date": "2026-09-24",
+        "published": "2026-09-24T14:00:18Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/4eF78oT9-3I/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "aw8iyRdRea4",
+        "title": "Udaari Episode 01 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 1,
+        "date": "2026-09-23",
+        "published": "2026-09-23T14:00:15Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/aw8iyRdRea4/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      }
+    ]
+  },
   "hum-zindagi-gulzar-hai": {
     "episodes": [
       {
@@ -27919,30 +28035,30 @@
       }
     ]
   },
-  "arydigital-main-tera": {
+  "arydigital-hey-fam": {
     "episodes": [
       {
-        "id": "OErakyu1-A4",
-        "title": "Main Tera Episode 59 | Best Moment | ARY Digital",
-        "episode": 59,
+        "id": "fL5lA6STcb8",
+        "title": "Hey Fam | EP  10 | 15 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ENG SUB | ARY Digital",
+        "episode": 10,
         "date": "2026-10-15",
-        "published": "2026-10-15T11:10:24Z",
+        "published": "2026-10-15T16:00:12Z",
         "source": "ARY Digital",
         "channelId": "arydigital",
         "sourceType": "youtube_api",
         "kind": "youtube",
         "embeddable": true,
         "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/OErakyu1-A4/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/fL5lA6STcb8/hqdefault.jpg",
+        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
       },
       {
-        "id": "becjUcBHoMI",
-        "title": "Main Ab Is Ghar Mai Nahi Rahungi | Main Tera Episode 56 | Yusra Irfan | ARY Digital",
-        "episode": 56,
+        "id": "8N6zIC3KIY8",
+        "title": "Hey Fam Episode 7 | Emotional Moments | Dua Zahra | ARY Digital",
+        "episode": 7,
         "date": "2026-10-15",
-        "published": "2026-10-15T12:50:20Z",
+        "published": "2026-10-15T11:00:17Z",
         "source": "ARY Digital",
         "channelId": "arydigital",
         "sourceType": "youtube_api",
@@ -27950,8 +28066,44 @@
         "embeddable": true,
         "availableGB": true,
         "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/becjUcBHoMI/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+        "thumbnail": "https://i.ytimg.com/vi/8N6zIC3KIY8/hqdefault.jpg",
+        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
+      },
+      {
+        "id": "AGEGDHZ2bBc",
+        "title": "Sirf Dosti Nahi Shadi Karni Hai Mujhe | Hey Fam Episode 7 | ARY Digital",
+        "episode": 7,
+        "date": "2026-10-15",
+        "published": "2026-10-15T09:44:40Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/AGEGDHZ2bBc/hqdefault.jpg",
+        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
+      }
+    ]
+  },
+  "arydigital-izzat": {
+    "episodes": [
+      {
+        "id": "2S5_eQI24A0",
+        "title": "Izzat Episode 26 | 15 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 26,
+        "date": "2026-10-15",
+        "published": "2026-10-15T15:00:37Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/2S5_eQI24A0/hqdefault.jpg",
+        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
       }
     ]
   }
