@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-16",
-  "dailySearches": 48,
+  "dailySearches": 56,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -940,7 +940,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/EQ-baUqmNaA/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:38:33.613400+00:00"
+        "checkedAt": "2026-10-17T01:00:49.537935+00:00"
       },
       {
         "id": "-FXbu933_Bg",
@@ -956,7 +956,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-FXbu933_Bg/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:38:33.613400+00:00"
+        "checkedAt": "2026-10-17T01:00:49.537935+00:00"
+      },
+      {
+        "id": "zrbd1u81X2E",
+        "title": "Leader | Episode 27 Flashback -  [ Kinza Hashmi & Ali Raza ] Spons:Brighto Paints - HUMTV",
+        "episode": 27,
+        "date": "2026-09-20",
+        "published": "2026-09-20T14:45:19Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/zrbd1u81X2E/hqdefault.jpg",
+        "checkedAt": "2026-10-17T01:00:49.537935+00:00"
       }
     ],
     "hum-musafat": [
@@ -974,7 +990,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wqiKk2kIMA0/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:38:33.613400+00:00"
+        "checkedAt": "2026-10-17T01:00:49.537935+00:00"
       },
       {
         "id": "nw17xXuRiKM",
@@ -990,7 +1006,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nw17xXuRiKM/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:38:33.613400+00:00"
+        "checkedAt": "2026-10-17T01:00:49.537935+00:00"
       },
       {
         "id": "mKVCCKqFKJA",
@@ -27760,8 +27776,44 @@
         "thumbnail": "https://i.ytimg.com/vi/Alxhc4uy47Q/hqdefault.jpg",
         "checkedAt": "2026-10-16T09:51:10.658370+00:00"
       }
+    ],
+    "hum-hadd": [
+      {
+        "id": "kbJ0_aO-2w0",
+        "title": "Hadd - Last Ep 84 [Eng Sub] - 18th June 2026 [ Nabeel Zuberi, Minsa Malik & Arsalan Asad ] HUMTV",
+        "episode": 84,
+        "date": "2026-06-18",
+        "published": "2026-06-18T15:00:07Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/kbJ0_aO-2w0/hqdefault.jpg",
+        "checkedAt": "2026-10-17T01:00:49.537935+00:00"
+      }
+    ],
+    "hum-muamma": [
+      {
+        "id": "GYARaiI6JCo",
+        "title": "Muamma | Last Episode 35 [Eng Sub] - 23 April 2026 [ Saba Qamar & Shahzad Sheikh ] - HUM TV",
+        "episode": 35,
+        "date": "2026-04-23",
+        "published": "2026-04-23T16:00:27Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/GYARaiI6JCo/hqdefault.jpg",
+        "checkedAt": "2026-10-17T01:00:49.537935+00:00"
+      }
     ]
   },
-  "cursor": 35,
+  "cursor": 39,
   "apiValidated": true
 }

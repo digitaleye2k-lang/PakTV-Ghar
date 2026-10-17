@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T02:48:31.832660+05:00",
+  "generatedAt": "2026-10-17T06:01:33.924631+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,6 +17,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 6,
+        "time": "16:30",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-17"
       }
     },
     "harpalgeo-nashtar": {
@@ -97,6 +104,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 22,
+        "time": "00:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-17"
       }
     },
     "hum-aangan": {
@@ -420,7 +434,19 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "hum-hadd": {
-      "lastAttempt": "2026-10-12T20:10:58.769157+05:00"
+      "lastAttempt": "2026-10-12T20:10:58.769157+05:00",
+      "latestUpload": {
+        "number": 84,
+        "id": "kbJ0_aO-2w0",
+        "title": "Hadd - Last Ep 84 [Eng Sub] - 18th June 2026 [ Nabeel Zuberi, Minsa Malik & Arsalan Asad ] HUMTV",
+        "date": "2026-06-18",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/kbJ0_aO-2w0/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-humrahi": {
       "lastAttempt": "2026-10-12T20:10:58.769171+05:00",
@@ -484,7 +510,19 @@
       }
     },
     "hum-muamma": {
-      "lastAttempt": "2026-10-12T20:10:59.010224+05:00"
+      "lastAttempt": "2026-10-12T20:10:59.010224+05:00",
+      "latestUpload": {
+        "number": 35,
+        "id": "GYARaiI6JCo",
+        "title": "Muamma | Last Episode 35 [Eng Sub] - 23 April 2026 [ Saba Qamar & Shahzad Sheikh ] - HUM TV",
+        "date": "2026-04-23",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      },
+      "poster": "https://i.ytimg.com/vi/GYARaiI6JCo/hqdefault.jpg",
+      "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-muhafiz": {
       "lastAttempt": "2026-10-12T20:10:59.010256+05:00",
