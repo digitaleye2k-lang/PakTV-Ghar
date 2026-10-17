@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-16",
-  "dailySearches": 64,
+  "dailySearches": 72,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -2696,7 +2696,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zUQLLIcZ05c/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "OHLOhlU4XLI",
@@ -2712,7 +2712,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OHLOhlU4XLI/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "1hdX_VZFyyg",
@@ -2744,7 +2744,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-XK1Ti91U0U/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "pY-7r_6KS-U",
@@ -2760,7 +2760,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pY-7r_6KS-U/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "Tmw2rh3ihpI",
@@ -2795,6 +2795,22 @@
         "checkedAt": "2026-10-13T15:19:53.221732+00:00"
       },
       {
+        "id": "SNKGJH_Pths",
+        "title": "Baby Baji Ki Bahuwain Episode 36 | Digitally Presented by Sensodyne (Eng Sub) 28 October 2024 | ARY",
+        "episode": 36,
+        "date": "2024-10-28",
+        "published": "2024-10-28T15:00:36Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/SNKGJH_Pths/hqdefault.jpg",
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
+      },
+      {
         "id": "r1O8zP8DAtM",
         "title": "Baby Baji Ki Bahuwain Episode 35 | Digitally Presented by Sensodyne | 27 October 2024 (Eng Sub)| ARY",
         "episode": 35,
@@ -2824,7 +2840,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/IL-wyvusLJk/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "r_m_7ycxnEg",
@@ -2840,7 +2856,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/r_m_7ycxnEg/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "kpoTTiywfWI",
@@ -2856,7 +2872,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kpoTTiywfWI/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "UgArgZ437QI",
@@ -2872,7 +2888,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UgArgZ437QI/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
+      },
+      {
+        "id": "Nuqa9VoaG1I",
+        "title": "Baby Baji Ki Bahuwain Episode 26 | 18 October 2024 (English Subtitles) ARY Digital",
+        "episode": 26,
+        "date": "2024-10-18",
+        "published": "2024-10-18T15:00:28Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Nuqa9VoaG1I/hqdefault.jpg",
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "uAY7rSZXsSs",
@@ -2904,7 +2936,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ewdmnhqD4Dk/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "GroUmL-Fv9Q",
@@ -2920,7 +2952,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GroUmL-Fv9Q/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "KzxB12C3JLM",
@@ -2952,7 +2984,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iZ5kSm-KUL8/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "kVe_Al48XA4",
@@ -3000,7 +3032,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/oUM1A2JmJYk/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "8aL1_jNUB2c",
@@ -3016,7 +3048,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8aL1_jNUB2c/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "GaEwhcYmIgU",
@@ -3032,7 +3064,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GaEwhcYmIgU/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "R5IGubiv4yc",
@@ -3048,7 +3080,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/R5IGubiv4yc/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "dHXKBXFq6vA",
@@ -3064,7 +3096,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dHXKBXFq6vA/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "vOfD8KkDYwM",
@@ -3080,7 +3112,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vOfD8KkDYwM/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "Y2ETjAWSjAI",
@@ -3096,7 +3128,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Y2ETjAWSjAI/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "7G1T22wAw7g",
@@ -3112,7 +3144,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7G1T22wAw7g/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "a4CD0Bz-g_I",
@@ -3128,7 +3160,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/a4CD0Bz-g_I/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       }
     ],
     "arydigital-balaa": [
@@ -3146,7 +3178,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Y-FR5libzrg/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
+      },
+      {
+        "id": "Jxw5ySJp-v0",
+        "title": "Balaa Episode 39 | Bilal Abbas | Ushna Shah | ARY Digital",
+        "episode": 39,
+        "date": "2024-03-27",
+        "published": "2024-03-27T07:00:15Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Jxw5ySJp-v0/hqdefault.jpg",
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "3nmCe67uz74",
@@ -3178,7 +3226,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TEA7THLYJss/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "2ecKtpZWV-I",
@@ -3194,7 +3242,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2ecKtpZWV-I/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "rvwdeQ3PqbE",
@@ -3226,7 +3274,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vM48zKOndYg/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "845xhUQJicE",
@@ -3242,7 +3290,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/845xhUQJicE/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "IYa0nJZCQhc",
@@ -3274,7 +3322,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/I4eD9OusP4o/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
+      },
+      {
+        "id": "bupUxQOjyCg",
+        "title": "Balaa Episode 29 | Bilal Abbas | Ushna Shah | ARY Digital",
+        "episode": 29,
+        "date": "2024-03-22",
+        "published": "2024-03-22T06:30:11Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/bupUxQOjyCg/hqdefault.jpg",
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
+      },
+      {
+        "id": "VnaisgpxeQg",
+        "title": "Balaa Episode 28 | Bilal Abbas | Ushna Shah | ARY Digital",
+        "episode": 28,
+        "date": "2024-03-21",
+        "published": "2024-03-21T07:00:14Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/VnaisgpxeQg/hqdefault.jpg",
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "ptrHA2V6mHA",
@@ -3306,7 +3386,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/LuNV1yQhmo4/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "L0M36h799i4",
@@ -3322,7 +3402,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/L0M36h799i4/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "hxXUXULHCHM",
@@ -3338,7 +3418,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/hxXUXULHCHM/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
+      },
+      {
+        "id": "P4j8GtpDFyA",
+        "title": "Balaa Episode 22 | Bilal Abbas | Ushna Shah | ARY Digital",
+        "episode": 22,
+        "date": "2024-03-18",
+        "published": "2024-03-18T07:00:10Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/P4j8GtpDFyA/hqdefault.jpg",
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "65xOFT7Pn0c",
@@ -3354,7 +3450,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/65xOFT7Pn0c/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "figSPtCSyOU",
@@ -3370,7 +3466,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/figSPtCSyOU/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "31uFXM2Ajdw",
@@ -3386,7 +3482,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/31uFXM2Ajdw/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "Fu9fh7v2b7U",
@@ -3402,7 +3498,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Fu9fh7v2b7U/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "FYzBpzmttcI",
@@ -3418,7 +3514,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/FYzBpzmttcI/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "Qs3eY_6ftPk",
@@ -3434,7 +3530,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Qs3eY_6ftPk/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "3LLGnxNKCyk",
@@ -3450,7 +3546,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3LLGnxNKCyk/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
+      },
+      {
+        "id": "zxkii3ulWFA",
+        "title": "Balaa Episode 13 & 14 | CC | Bilal Abbas | Ushna Shah | ARY Digital",
+        "episode": 13,
+        "date": "2018-10-15",
+        "published": "2018-10-15T16:51:45Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/zxkii3ulWFA/hqdefault.jpg",
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "L8s_4clI_YY",
@@ -3466,7 +3578,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/L8s_4clI_YY/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
+      },
+      {
+        "id": "vpa0pyMwiHM",
+        "title": "Balaa Episode 11 | Bilal Abbas | Ushna Shah | ARY Digital",
+        "episode": 11,
+        "date": "2024-03-13",
+        "published": "2024-03-13T06:30:23Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/vpa0pyMwiHM/hqdefault.jpg",
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "5Wmv0ymnmg8",
@@ -3482,7 +3610,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5Wmv0ymnmg8/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "7VAd6rgjGMg",
@@ -3498,7 +3626,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7VAd6rgjGMg/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "d9Vzq6e2jSY",
@@ -3514,7 +3642,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/d9Vzq6e2jSY/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "pvNLV-_6pjM",
@@ -3530,7 +3658,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pvNLV-_6pjM/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "L7yEm-lRwFQ",
@@ -3546,7 +3674,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/L7yEm-lRwFQ/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "fFMwIsy_pT8",
@@ -3562,7 +3690,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fFMwIsy_pT8/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "2Kk8k7dhYFA",
@@ -3578,7 +3706,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2Kk8k7dhYFA/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "rB85zTTdjR8",
@@ -3610,7 +3738,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Pg_EGY5vQMQ/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "2_DpCDkQu9Y",
@@ -3626,7 +3754,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2_DpCDkQu9Y/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       }
     ],
     "arydigital-beti": [
@@ -3644,7 +3772,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/efhYTGsxJP0/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "GGaN7kq_shM",
@@ -3660,7 +3788,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GGaN7kq_shM/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "WaP0hdWtPl0",
@@ -3676,7 +3804,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/WaP0hdWtPl0/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "OAwF0eFn2Vo",
@@ -3692,7 +3820,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OAwF0eFn2Vo/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "KoG7k94qO-g",
@@ -3708,7 +3836,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/KoG7k94qO-g/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "NL8QkzNGyKM",
@@ -3724,7 +3852,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/NL8QkzNGyKM/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "Qepoow6y6Ko",
@@ -3740,7 +3868,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Qepoow6y6Ko/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "7aTI5cqM1eQ",
@@ -3756,7 +3884,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7aTI5cqM1eQ/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "151yQT3HJ3g",
@@ -3772,7 +3900,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/151yQT3HJ3g/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "KJjuyXyWulc",
@@ -3788,7 +3916,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/KJjuyXyWulc/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "pOMwjrQZLIk",
@@ -3804,7 +3932,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pOMwjrQZLIk/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "jgXTjqEYQgw",
@@ -3820,7 +3948,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/jgXTjqEYQgw/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "q5O68Kcj8vQ",
@@ -3836,7 +3964,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/q5O68Kcj8vQ/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "PkiPxsTaT9o",
@@ -3852,7 +3980,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PkiPxsTaT9o/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "rvfW-VsYb6U",
@@ -3868,7 +3996,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rvfW-VsYb6U/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "0ArCjb6SX5U",
@@ -3884,7 +4012,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0ArCjb6SX5U/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "Lbpb3L47qxs",
@@ -3900,7 +4028,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Lbpb3L47qxs/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "z3HQji3E6XM",
@@ -3916,7 +4044,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/z3HQji3E6XM/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "SvLr0i2Gpg4",
@@ -3932,7 +4060,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SvLr0i2Gpg4/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "IZTkQMZr5Rs",
@@ -3964,7 +4092,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/T_SOFQaTwP4/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "zK0Lf_U3NMk",
@@ -3980,7 +4108,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zK0Lf_U3NMk/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "urgLfSzBPi4",
@@ -3996,7 +4124,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/urgLfSzBPi4/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "lUuQJA4km8I",
@@ -4012,7 +4140,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lUuQJA4km8I/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "KJ7UL2pUzVI",
@@ -4044,7 +4172,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vuakPzuj4vk/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "zbXXEy0j7nA",
@@ -4060,7 +4188,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zbXXEy0j7nA/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       }
     ],
     "arydigital-bismil": [
@@ -4078,7 +4206,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UaRB_9jVzMo/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "Bcony6DQans",
@@ -4094,7 +4222,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Bcony6DQans/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
+      },
+      {
+        "id": "2l3ftiXrueQ",
+        "title": "Bismil Episode 31 | Digitally Presented by Vince Care | 4 Dec 2024 (English Subtitles) | ARY Digital",
+        "episode": 31,
+        "date": "2024-12-04",
+        "published": "2024-12-04T16:00:06Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/2l3ftiXrueQ/hqdefault.jpg",
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "9URwGKov8_w",
@@ -4110,7 +4254,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9URwGKov8_w/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "BJrZ7jrTPCs",
@@ -4126,7 +4270,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/BJrZ7jrTPCs/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "PvJnIez4vKw",
@@ -4142,7 +4286,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PvJnIez4vKw/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "rZP6W80Z8MU",
@@ -4158,7 +4302,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rZP6W80Z8MU/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "l0F784llT4I",
@@ -4174,7 +4318,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/l0F784llT4I/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
+      },
+      {
+        "id": "Dv_Rmwo8404",
+        "title": "Bismil Episode 24 | Digitally Presented by Sensodyne & Vince Care | 7 Nov 2024 (Eng Sub) ARY Digital",
+        "episode": 24,
+        "date": "2024-11-07",
+        "published": "2024-11-07T16:00:11Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Dv_Rmwo8404/hqdefault.jpg",
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
+      },
+      {
+        "id": "XGNClb-9TFI",
+        "title": "Bismil Episode 23 | Digitally Presented by Sensodyne & Vince Care | 6 Nov 2024 (Eng Sub) | ARY",
+        "episode": 23,
+        "date": "2024-11-06",
+        "published": "2024-11-06T16:00:33Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/XGNClb-9TFI/hqdefault.jpg",
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "Jh4_CZo3QDM",
@@ -4190,7 +4366,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Jh4_CZo3QDM/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
+      },
+      {
+        "id": "Lr3vOuJuZxY",
+        "title": "Bismil Episode 21 | Digitally Presented by Sensodyne & Vince Care | 30 Oct 2024 (English Subtitles)",
+        "episode": 21,
+        "date": "2024-10-30",
+        "published": "2024-10-30T16:00:29Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Lr3vOuJuZxY/hqdefault.jpg",
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "FY_6M0ATi4M",
@@ -4206,7 +4398,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/FY_6M0ATi4M/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "q0x2Y731G5A",
@@ -4222,7 +4414,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/q0x2Y731G5A/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "vp1NjwpF5oA",
@@ -4238,7 +4430,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vp1NjwpF5oA/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "kOPxbMsKuKA",
@@ -4254,7 +4446,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kOPxbMsKuKA/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
+      },
+      {
+        "id": "PH0Zbo4gS44",
+        "title": "Bismil Episode 16 | Naumaan Ijaz | Hareem Farooq | 10 October 2024 (English Subtitles) | ARY Digital",
+        "episode": 16,
+        "date": "2024-10-10",
+        "published": "2024-10-10T16:00:20Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/PH0Zbo4gS44/hqdefault.jpg",
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "SSqJQOeanTU",
@@ -4270,7 +4478,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SSqJQOeanTU/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "DD434VPgAyc",
@@ -4286,7 +4494,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DD434VPgAyc/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "cTHdTJScxJw",
@@ -4350,7 +4558,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rJHsuQ1Mxik/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "VE6AkOe3Ljs",
@@ -4366,7 +4574,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/VE6AkOe3Ljs/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
+      },
+      {
+        "id": "We3G2Cmnvl0",
+        "title": "Bismil Episode 7 | Naumaan Ijaz | Hareem Farooq | 11 Sep 2024 (English Subtitles) ARY Digital",
+        "episode": 7,
+        "date": "2024-09-11",
+        "published": "2024-09-11T16:00:32Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/We3G2Cmnvl0/hqdefault.jpg",
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "bTyzYGxH4A0",
@@ -4382,7 +4606,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/bTyzYGxH4A0/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "aClUD_-p1bY",
@@ -4398,7 +4622,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/aClUD_-p1bY/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "o3-DAdryarI",
@@ -4414,7 +4638,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/o3-DAdryarI/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
         "id": "2aOyEeaESB4",
@@ -4430,7 +4654,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2aOyEeaESB4/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
+        "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       }
     ],
     "arydigital-burns-road-kay-romeo-juliet": [
@@ -28262,6 +28486,6 @@
       }
     ]
   },
-  "cursor": 43,
+  "cursor": 47,
   "apiValidated": true
 }
