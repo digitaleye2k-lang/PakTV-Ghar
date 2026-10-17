@@ -1,122 +1,10 @@
 {
-  "hum-khushi": {
-    "episodes": [
-      {
-        "title": "Khushi - Episode 34 - [ENG SUB] 16th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 34,
-        "id": "W8utPAqKfWM",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-10-16"
-      },
-      {
-        "id": "AWHP5v_r5NI",
-        "title": "Khushi - Episode 33 - [ENG SUB] 15th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 33,
-        "date": "2026-10-15",
-        "published": "2026-10-15T15:00:23Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/AWHP5v_r5NI/hqdefault.jpg",
-        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
-      },
-      {
-        "id": "cHKT6woUT0Y",
-        "title": "Khushi - Episode 30 - [Eng Sub] 12th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 30,
-        "date": "2026-10-12",
-        "published": "2026-10-12T15:00:05Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": false,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/cHKT6woUT0Y/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      },
-      {
-        "id": "4qgcZlaUMX4",
-        "title": "Khushi - Episode 29 Highlight - 12th Oct 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
-        "episode": 29,
-        "date": "2026-10-12",
-        "published": "2026-10-12T12:00:34Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/4qgcZlaUMX4/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      },
-      {
-        "id": "-7COdwR1U9Y",
-        "title": "Khushi - Episode 29 - [Eng Sub] 11th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 29,
-        "date": "2026-10-11",
-        "published": "2026-10-11T15:00:20Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/-7COdwR1U9Y/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      }
-    ]
-  },
-  "hum-gulbahar": {
-    "episodes": [
-      {
-        "title": "Gulbahar - Highlights - Episode 10 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
-        "episode": 10,
-        "id": "3EuqRD5r5Zc",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-10-16"
-      },
-      {
-        "id": "lCFiom01bBo",
-        "title": "Gulbahar - Episode 10 - [Eng Sub] 15th Oct 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
-        "episode": 10,
-        "date": "2026-10-15",
-        "published": "2026-10-15T16:00:04Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/lCFiom01bBo/hqdefault.jpg",
-        "checkedAt": "2026-10-16T07:05:15.775682+00:00"
-      }
-    ]
-  },
   "hum-aangan": {
     "episodes": [
       {
         "title": "Aangan - Episode 05 -[ENG SUB] 16th Oct 2026 - [Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain]",
         "episode": 5,
         "id": "ywxnhNqelFg",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Aangan - Episode 04 - Flashback [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
-        "episode": 4,
-        "id": "ynT1aISZwk4",
         "source": "HUM TV",
         "kind": "youtube",
         "date": "2026-10-16"
@@ -150,14 +38,6 @@
         "date": "2026-10-16"
       },
       {
-        "title": "Tark-e-Tamanna - Episode 10 Highlight | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
-        "episode": 10,
-        "id": "TvAUWS3Bvvo",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-10-16"
-      },
-      {
         "id": "nQGADWyKgdg",
         "title": "Tark-e-Tamanna - Episode 10 - [Eng Sub] 15th Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
         "episode": 10,
@@ -172,310 +52,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nQGADWyKgdg/hqdefault.jpg",
         "checkedAt": "2026-10-16T09:51:10.658370+00:00"
-      }
-    ]
-  },
-  "hum-udaari": {
-    "episodes": [
-      {
-        "title": "Udaari Episode 24 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 24,
-        "id": "YkQE0JUNdOw",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-10-16"
-      },
-      {
-        "id": "ydgrm_GkcV0",
-        "title": "Udaari Episode 23 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 23,
-        "date": "2026-10-15",
-        "published": "2026-10-15T14:00:18Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ydgrm_GkcV0/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "99Bbeou_qjY",
-        "title": "Udaari Episode 22 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 22,
-        "date": "2026-10-14",
-        "published": "2026-10-14T14:00:00Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/99Bbeou_qjY/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "cUcAc7BJ8kk",
-        "title": "Udaari Episode 21 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 21,
-        "date": "2026-10-13",
-        "published": "2026-10-13T14:00:24Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/cUcAc7BJ8kk/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "y2XFdg_DecM",
-        "title": "Udaari Episode 20 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 20,
-        "date": "2026-10-12",
-        "published": "2026-10-12T14:00:25Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/y2XFdg_DecM/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "ijI4zYgnP0o",
-        "title": "Udaari Episode 19 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 19,
-        "date": "2026-10-11",
-        "published": "2026-10-11T14:00:08Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ijI4zYgnP0o/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "HDUn0tDIkIU",
-        "title": "Udaari Episode 18 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 18,
-        "date": "2026-10-10",
-        "published": "2026-10-10T14:00:24Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/HDUn0tDIkIU/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "TB67afm9kIQ",
-        "title": "Udaari Episode 17 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 17,
-        "date": "2026-10-09",
-        "published": "2026-10-09T14:00:26Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/TB67afm9kIQ/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "7D33h4Eilnc",
-        "title": "Udaari Episode 16 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 16,
-        "date": "2026-10-08",
-        "published": "2026-10-08T14:00:05Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/7D33h4Eilnc/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "xGyrqCi8EuM",
-        "title": "Udaari Episode 15 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 15,
-        "date": "2026-10-07",
-        "published": "2026-10-07T14:00:35Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/xGyrqCi8EuM/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "ACFiGLNsZgU",
-        "title": "Udaari Episode 13 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 13,
-        "date": "2026-10-05",
-        "published": "2026-10-05T14:00:18Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ACFiGLNsZgU/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "wnwh_K-qa8s",
-        "title": "Udaari Episode 11 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 11,
-        "date": "2026-10-03",
-        "published": "2026-10-03T14:00:15Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/wnwh_K-qa8s/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "Rb4YxCK_Cqs",
-        "title": "Udaari Episode 06 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 6,
-        "date": "2026-09-28",
-        "published": "2026-09-28T14:00:04Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Rb4YxCK_Cqs/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "thEg4MYecMw",
-        "title": "Udaari Episode 05 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 5,
-        "date": "2026-09-27",
-        "published": "2026-09-27T14:00:15Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/thEg4MYecMw/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "f2AByMb0SvM",
-        "title": "Udaari Episode 04 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 4,
-        "date": "2026-09-26",
-        "published": "2026-09-26T14:00:11Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/f2AByMb0SvM/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "4eF78oT9-3I",
-        "title": "Udaari Episode 02 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 2,
-        "date": "2026-09-24",
-        "published": "2026-09-24T14:00:18Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/4eF78oT9-3I/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "aw8iyRdRea4",
-        "title": "Udaari Episode 01 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 1,
-        "date": "2026-09-23",
-        "published": "2026-09-23T14:00:15Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/aw8iyRdRea4/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      }
-    ]
-  },
-  "arydigital-izzat": {
-    "episodes": [
-      {
-        "title": "Izzat Episode 27 | 16 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ENG SUB | ARY Digital",
-        "episode": 27,
-        "id": "Sw9C9gKWsVw",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Izzat Episode 27 | 16 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 27,
-        "id": "XPGeqQLkLMI",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-16"
-      },
-      {
-        "id": "2S5_eQI24A0",
-        "title": "Izzat Episode 26 | 15 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 26,
-        "date": "2026-10-15",
-        "published": "2026-10-15T15:00:37Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/2S5_eQI24A0/hqdefault.jpg",
-        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
       }
     ]
   },
@@ -551,18 +127,6 @@
       }
     ]
   },
-  "arydigital-tamasha-season-5": {
-    "episodes": [
-      {
-        "title": "Tamasha Most Viral Highlights! 🔥😍| Grand Finale | Tamasha S5 | ARY Digital",
-        "episode": null,
-        "id": "fJm3o8mmYLU",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-16"
-      }
-    ]
-  },
   "harpalgeo-uswa": {
     "episodes": [
       {
@@ -577,14 +141,6 @@
         "title": "Uswah Episode 24 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
         "episode": 24,
         "id": "hwj7oYWLhMU",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Uswah Episode 24 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 16th October 2026",
-        "episode": 24,
-        "id": "RmIJfWkZfhk",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-16"
@@ -770,14 +326,6 @@
         "date": "2026-10-16"
       },
       {
-        "title": "Recap Nashtar Episode 18 - 16th October 2026 - Har Pal Geo",
-        "episode": 18,
-        "id": "LaN-wXfQ0vI",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-16"
-      },
-      {
         "id": "ZsWUGhmQ0bU",
         "title": "Nashtar Episode 18 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
         "episode": 18,
@@ -877,14 +425,6 @@
         "title": "Mustafa Zahid Ka Life Changing Waqia 😱 Hasna Mana Hai 🤣💥",
         "episode": null,
         "id": "1mLV2CxloI4",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Set par aye Talent aur Legacy Hakeem - Raat Main Aachi Neend ka Solution - Hasna Mana Hai - Geo News",
-        "episode": null,
-        "id": "_ctW6pcGd6g",
         "source": "Geo News",
         "kind": "youtube",
         "date": "2026-10-16"
@@ -1071,6 +611,74 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/bNfLroyIbUY/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
+      }
+    ]
+  },
+  "hum-khushi": {
+    "episodes": [
+      {
+        "id": "AWHP5v_r5NI",
+        "title": "Khushi - Episode 33 - [ENG SUB] 15th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 33,
+        "date": "2026-10-15",
+        "published": "2026-10-15T15:00:23Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/AWHP5v_r5NI/hqdefault.jpg",
+        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
+      },
+      {
+        "id": "cHKT6woUT0Y",
+        "title": "Khushi - Episode 30 - [Eng Sub] 12th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 30,
+        "date": "2026-10-12",
+        "published": "2026-10-12T15:00:05Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/cHKT6woUT0Y/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
+      },
+      {
+        "id": "4qgcZlaUMX4",
+        "title": "Khushi - Episode 29 Highlight - 12th Oct 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
+        "episode": 29,
+        "date": "2026-10-12",
+        "published": "2026-10-12T12:00:34Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/4qgcZlaUMX4/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
+      },
+      {
+        "id": "-7COdwR1U9Y",
+        "title": "Khushi - Episode 29 - [Eng Sub] 11th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 29,
+        "date": "2026-10-11",
+        "published": "2026-10-11T15:00:20Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/-7COdwR1U9Y/hqdefault.jpg",
         "checkedAt": "2026-10-12T17:30:35.039122+00:00"
       }
     ]
@@ -1715,7 +1323,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/T-rg8ZWoMeI/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:38:33.613400+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "mbujMW8PDK8",
@@ -1731,7 +1339,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mbujMW8PDK8/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:38:33.613400+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       }
     ]
   },
@@ -1751,7 +1359,55 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/YrDVNI5w4dk/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "TVNHFf3ELBQ",
+        "title": "Angna Episode 63 - 3rd June 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 63,
+        "date": "2022-06-03",
+        "published": "2022-06-03T15:02:06Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/TVNHFf3ELBQ/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "6H_fha8BlHM",
+        "title": "Angna Episode 59 - 30th May 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 59,
+        "date": "2022-05-30",
+        "published": "2022-05-30T15:02:32Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/6H_fha8BlHM/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "3UMgzjID78Y",
+        "title": "Angna Episode 57 - 28th May 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 57,
+        "date": "2022-05-28",
+        "published": "2022-05-28T15:06:36Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/3UMgzjID78Y/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "_73AQTnr-FE",
@@ -1767,7 +1423,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_73AQTnr-FE/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "8FGefmw2VtM",
@@ -1786,6 +1442,22 @@
         "checkedAt": "2026-10-13T15:19:53.221732+00:00"
       },
       {
+        "id": "fZNtKKz7sdE",
+        "title": "Angna Episode 51 - 22nd May 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 51,
+        "date": "2022-05-22",
+        "published": "2022-05-22T15:03:26Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/fZNtKKz7sdE/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
         "id": "PMe7H0VyUy4",
         "title": "Angna Episode 50 | 21st May 2022 (English Subtitles) | ARY Digital Drama",
         "episode": 50,
@@ -1799,7 +1471,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PMe7H0VyUy4/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "hXHsKYuV7Xk",
@@ -1863,7 +1535,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yhBhfHdG6mc/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "s2F6nErYkcM",
@@ -1895,7 +1567,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PHREzd42Mrg/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "nX2fSb6gZGQ",
@@ -1911,7 +1583,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nX2fSb6gZGQ/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "sKbS-o7d1cA",
@@ -1927,7 +1599,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/sKbS-o7d1cA/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "wBzBL_qaq-Y",
@@ -1943,7 +1615,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wBzBL_qaq-Y/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "g054ifYUBmc",
@@ -1962,6 +1634,22 @@
         "checkedAt": "2026-10-13T15:19:53.221732+00:00"
       },
       {
+        "id": "XHEC_ozg3zY",
+        "title": "Angna Episode 33 (English Subtitles) ARY Digital Drama",
+        "episode": 33,
+        "date": "2022-04-21",
+        "published": "2022-04-21T17:53:11Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/XHEC_ozg3zY/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
         "id": "7yIcfmxCmm8",
         "title": "Angna Episode 29 - 7th April 2022 (English Subtitles) - ARY Digital Drama",
         "episode": 29,
@@ -1978,6 +1666,22 @@
         "checkedAt": "2026-10-13T15:19:53.221732+00:00"
       },
       {
+        "id": "CNwyyJI7A7s",
+        "title": "Angna Episode 26 - 1st April 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 26,
+        "date": "2022-04-01",
+        "published": "2022-04-01T15:01:52Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/CNwyyJI7A7s/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
         "id": "JysKsTdKfx8",
         "title": "Angna Episode 25 - 31st March 2022 (English Subtitles) - ARY Digital Drama",
         "episode": 25,
@@ -1991,7 +1695,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/JysKsTdKfx8/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "76We-RyIlgI",
@@ -2007,7 +1711,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/76We-RyIlgI/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "kBb6-kwZKVU",
@@ -2023,7 +1727,55 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kBb6-kwZKVU/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "7n7qVk1EeHA",
+        "title": "Angna Episode 21 - 27th March 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 21,
+        "date": "2022-03-27",
+        "published": "2022-03-27T15:00:06Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/7n7qVk1EeHA/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "37JiguVqcBI",
+        "title": "Angna Episode 20 - 26th March 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 20,
+        "date": "2022-03-26",
+        "published": "2022-03-26T15:00:01Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/37JiguVqcBI/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "EszfVCSM9wQ",
+        "title": "Angna Episode 16 - 22nd March 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 16,
+        "date": "2022-03-22",
+        "published": "2022-03-22T15:07:52Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/EszfVCSM9wQ/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "r0T6Bmv7M2Y",
@@ -2039,7 +1791,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/r0T6Bmv7M2Y/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "77HSL_fq-ZM",
@@ -2087,7 +1839,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/gtJmxWGwxME/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "yuDxJ3NbWhU",
+        "title": "Angna Episode 10 (English Subtitles) ARY Digital Drama",
+        "episode": 10,
+        "date": "2022-03-16",
+        "published": "2022-03-16T15:00:36Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/yuDxJ3NbWhU/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "8vhfULKPusc",
@@ -2103,7 +1871,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8vhfULKPusc/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "oIckzZCKg_U",
+        "title": "Angna Episode 6 - 12th March 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 6,
+        "date": "2022-03-12",
+        "published": "2022-03-12T15:00:19Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/oIckzZCKg_U/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "3u-oXR0UiiM",
@@ -2119,7 +1903,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3u-oXR0UiiM/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "xQzYY2pX-t0",
+        "title": "Angna Episode 3 (English Subtitles) ARY Digital Drama",
+        "episode": 3,
+        "date": "2022-03-09",
+        "published": "2022-03-09T15:02:01Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/xQzYY2pX-t0/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "rQ5_yc8p_hY",
@@ -2135,7 +1935,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rQ5_yc8p_hY/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "ITXXidXckcc",
@@ -2151,7 +1951,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ITXXidXckcc/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       }
     ]
   },
@@ -2187,7 +1987,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zwl7HtXL4uo/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "ll3hVjnHQDw",
+        "title": "Aulaad Episode 28 | Part 2 | Presented By Brite | 18th May 2021 | ARY Digital Drama",
+        "episode": 28,
+        "date": "2021-05-18",
+        "published": "2021-05-18T17:00:13Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ll3hVjnHQDw/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "DtG4rF7QWZE",
@@ -2203,7 +2019,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DtG4rF7QWZE/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "CN4TrzAjHrI",
@@ -2219,7 +2035,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/CN4TrzAjHrI/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "lj_O6mf5tN4",
@@ -2235,7 +2051,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lj_O6mf5tN4/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "QyQugso92s0",
+        "title": "Aulaad Episode 25 Presented By Brite | 3rd May 2021 | ARY Digital Drama",
+        "episode": 25,
+        "date": "2021-05-03",
+        "published": "2021-05-03T17:52:03Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/QyQugso92s0/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "Ltm5QYV7NkI",
@@ -2251,7 +2083,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Ltm5QYV7NkI/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "7Obu5-GqbDc",
@@ -2267,7 +2099,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7Obu5-GqbDc/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "oPqftXPe9jg",
@@ -2283,7 +2115,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/oPqftXPe9jg/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "XzrjYYOTW5U",
@@ -2299,7 +2131,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XzrjYYOTW5U/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "lmN9K9zQyTQ",
@@ -2315,7 +2147,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lmN9K9zQyTQ/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "npwYUHy17Qs",
@@ -2347,7 +2179,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QoWkmOT1ieg/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "c8akXvyII5E",
@@ -2363,7 +2195,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/c8akXvyII5E/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "pwPf25BCJb4",
@@ -2379,7 +2211,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pwPf25BCJb4/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "9dlSHNWyuYg",
+        "title": "Aulaad Episode 13 | Presented by Brite | 16th Mar 2021 | ARY Digital Drama",
+        "episode": 13,
+        "date": "2021-03-16",
+        "published": "2021-03-16T15:49:42Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/9dlSHNWyuYg/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "s4CfZ0dyzDA",
@@ -2395,7 +2243,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/s4CfZ0dyzDA/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "UUjnfwowAsc",
@@ -2411,7 +2259,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UUjnfwowAsc/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "kcEkZtkTycA",
@@ -2427,7 +2275,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kcEkZtkTycA/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "fidGxRTtu5o",
@@ -2443,7 +2291,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fidGxRTtu5o/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "SuZRTBKVDQo",
+        "title": "Aulaad Episode 8 | Presented by Brite | 9th Feb 2021 | ARY Digital Drama",
+        "episode": 8,
+        "date": "2021-02-09",
+        "published": "2021-02-09T16:00:00Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/SuZRTBKVDQo/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "maYoMZ2p4m0",
@@ -2459,7 +2323,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/maYoMZ2p4m0/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "8UdCqwg_Cl8",
@@ -2475,7 +2339,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8UdCqwg_Cl8/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "W4vTGkH_eN8",
@@ -2491,7 +2355,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/W4vTGkH_eN8/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "cIsxePYGd3k",
@@ -2507,7 +2371,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cIsxePYGd3k/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "Eix1QivK6qs",
@@ -2523,7 +2387,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Eix1QivK6qs/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "n1Mmu3TfrvE",
@@ -2539,7 +2403,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/n1Mmu3TfrvE/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "vKF-ffjTnYw",
@@ -2555,7 +2419,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vKF-ffjTnYw/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       }
     ]
   },
@@ -2575,7 +2439,55 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/h95zc_4ykI4/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "2Cf8BcBZXoI",
+        "title": "Baby Baji Episode 57 | 22nd July 2023 (English Subtitles) ARY Digital Drama",
+        "episode": 57,
+        "date": "2023-07-22",
+        "published": "2023-07-22T15:15:08Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/2Cf8BcBZXoI/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "448KMnuJHS0",
+        "title": "Baby Baji Episode 54 | 19th July 2023 (English Subtitles) ARY Digital Drama",
+        "episode": 54,
+        "date": "2023-07-19",
+        "published": "2023-07-19T15:17:12Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/448KMnuJHS0/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "9G4j81UhOfo",
+        "title": "Baby Baji Episode 43 | 8th July 2023 (English Subtitles) | ARY Digital Drama",
+        "episode": 43,
+        "date": "2023-07-08",
+        "published": "2023-07-08T15:03:36Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/9G4j81UhOfo/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "I-ybNiLh53U",
@@ -2591,7 +2503,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/I-ybNiLh53U/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "qcJ0HxIYIto",
@@ -2607,7 +2519,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/qcJ0HxIYIto/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "MPUxzTqTeLI",
+        "title": "Baby Baji Episode 36 | 27th June 2023 (English Subtitles) | ARY Digital Drama",
+        "episode": 36,
+        "date": "2023-06-27",
+        "published": "2023-06-27T15:00:10Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/MPUxzTqTeLI/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "IZBqW9OGsGQ",
+        "title": "Baby Baji Episode 35 | 26th June 2023 (English Subtitles) ARY Digital Drama",
+        "episode": 35,
+        "date": "2023-06-26",
+        "published": "2023-06-26T15:00:09Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/IZBqW9OGsGQ/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "duaUSLSNQ-U",
@@ -2623,7 +2567,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/duaUSLSNQ-U/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "R5_umhtCv3Y",
+        "title": "Baby Baji Episode 30 | 21st June 2023 (English Subtitles) | ARY Digital Drama",
+        "episode": 30,
+        "date": "2023-06-21",
+        "published": "2023-06-21T15:00:08Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/R5_umhtCv3Y/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "9aZeVxwLv50",
@@ -2639,7 +2599,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9aZeVxwLv50/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "G3Ug0iUNlKI",
+        "title": "Baby Baji Episode 27 | 18th June 2023 (English Subtitles) | ARY Digital Drama",
+        "episode": 27,
+        "date": "2023-06-18",
+        "published": "2023-06-18T15:00:09Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/G3Ug0iUNlKI/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "AcOJwPygJZw",
@@ -2655,7 +2631,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/AcOJwPygJZw/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "XC7DEZNWRUE",
@@ -2687,7 +2663,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/EPFPvqX5qZk/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "BTvexXta7Tw",
+        "title": "Baby Baji Episode 20 | 11th June 2023 (English Subtitles) | ARY Digital Drama",
+        "episode": 20,
+        "date": "2023-06-11",
+        "published": "2023-06-11T15:00:07Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/BTvexXta7Tw/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "G2-WzSIr3ec",
+        "title": "Baby Baji Episode 19 | 10th June 2023 (English Subtitles) | ARY Digital Drama",
+        "episode": 19,
+        "date": "2023-06-10",
+        "published": "2023-06-10T15:00:27Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/G2-WzSIr3ec/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "qmsNqlHwdbA",
@@ -2703,7 +2711,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/qmsNqlHwdbA/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "pNnB3PIxmno",
@@ -2735,7 +2743,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PrzZA40k928/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "MfY9QcTrstE",
@@ -2751,7 +2759,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/MfY9QcTrstE/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "3d12fXYa6sE",
+        "title": "Baby Baji Episode 11 | 2nd June 2023 (English Subtitles) ARY Digital Drama",
+        "episode": 11,
+        "date": "2023-06-02",
+        "published": "2023-06-02T15:02:01Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/3d12fXYa6sE/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "aXOgP8Ueg3U",
@@ -2767,7 +2791,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/aXOgP8Ueg3U/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "oUM1A2JmJYk",
+        "title": "Baby Baji Ki Bahuwain Episode 9 | 1 October 2024 (English Subtitles) | ARY Digital",
+        "episode": 9,
+        "date": "2024-10-01",
+        "published": "2024-10-01T15:00:57Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/oUM1A2JmJYk/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "9AegH_e6uB4",
+        "title": "Baby Baji Episode 9 | 31st May 2023 (English Subtitles) | ARY Digital Drama",
+        "episode": 9,
+        "date": "2023-05-31",
+        "published": "2023-05-31T15:00:06Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/9AegH_e6uB4/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "gQ6ZBX4ul0E",
@@ -2783,7 +2839,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/gQ6ZBX4ul0E/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "tOr1CFoqI0g",
@@ -2799,7 +2855,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/tOr1CFoqI0g/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "11ofIvVTEKM",
@@ -2815,7 +2871,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/11ofIvVTEKM/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "kuDgI-z4wGQ",
@@ -2831,7 +2887,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kuDgI-z4wGQ/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "gqmNJa-_RJ4",
@@ -2847,7 +2903,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/gqmNJa-_RJ4/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "r1znB29I7P0",
@@ -2863,7 +2919,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/r1znB29I7P0/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "GU_dlkOQnHI",
@@ -2879,7 +2935,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GU_dlkOQnHI/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "a4CD0Bz-g_I",
@@ -2895,7 +2951,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/a4CD0Bz-g_I/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
         "id": "ZSiGLmXyQUE",
@@ -2911,7 +2967,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ZSiGLmXyQUE/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       }
     ]
   },
@@ -27643,6 +27699,266 @@
       }
     ]
   },
+  "hum-udaari": {
+    "episodes": [
+      {
+        "id": "ydgrm_GkcV0",
+        "title": "Udaari Episode 23 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 23,
+        "date": "2026-10-15",
+        "published": "2026-10-15T14:00:18Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ydgrm_GkcV0/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "99Bbeou_qjY",
+        "title": "Udaari Episode 22 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 22,
+        "date": "2026-10-14",
+        "published": "2026-10-14T14:00:00Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/99Bbeou_qjY/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "cUcAc7BJ8kk",
+        "title": "Udaari Episode 21 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 21,
+        "date": "2026-10-13",
+        "published": "2026-10-13T14:00:24Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/cUcAc7BJ8kk/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "y2XFdg_DecM",
+        "title": "Udaari Episode 20 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 20,
+        "date": "2026-10-12",
+        "published": "2026-10-12T14:00:25Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/y2XFdg_DecM/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "ijI4zYgnP0o",
+        "title": "Udaari Episode 19 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 19,
+        "date": "2026-10-11",
+        "published": "2026-10-11T14:00:08Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ijI4zYgnP0o/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "HDUn0tDIkIU",
+        "title": "Udaari Episode 18 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 18,
+        "date": "2026-10-10",
+        "published": "2026-10-10T14:00:24Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/HDUn0tDIkIU/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "TB67afm9kIQ",
+        "title": "Udaari Episode 17 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 17,
+        "date": "2026-10-09",
+        "published": "2026-10-09T14:00:26Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/TB67afm9kIQ/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "7D33h4Eilnc",
+        "title": "Udaari Episode 16 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 16,
+        "date": "2026-10-08",
+        "published": "2026-10-08T14:00:05Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/7D33h4Eilnc/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "xGyrqCi8EuM",
+        "title": "Udaari Episode 15 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 15,
+        "date": "2026-10-07",
+        "published": "2026-10-07T14:00:35Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/xGyrqCi8EuM/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "ACFiGLNsZgU",
+        "title": "Udaari Episode 13 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 13,
+        "date": "2026-10-05",
+        "published": "2026-10-05T14:00:18Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ACFiGLNsZgU/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "wnwh_K-qa8s",
+        "title": "Udaari Episode 11 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 11,
+        "date": "2026-10-03",
+        "published": "2026-10-03T14:00:15Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/wnwh_K-qa8s/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "Rb4YxCK_Cqs",
+        "title": "Udaari Episode 06 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 6,
+        "date": "2026-09-28",
+        "published": "2026-09-28T14:00:04Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Rb4YxCK_Cqs/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "thEg4MYecMw",
+        "title": "Udaari Episode 05 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 5,
+        "date": "2026-09-27",
+        "published": "2026-09-27T14:00:15Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/thEg4MYecMw/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "f2AByMb0SvM",
+        "title": "Udaari Episode 04 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 4,
+        "date": "2026-09-26",
+        "published": "2026-09-26T14:00:11Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/f2AByMb0SvM/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "4eF78oT9-3I",
+        "title": "Udaari Episode 02 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 2,
+        "date": "2026-09-24",
+        "published": "2026-09-24T14:00:18Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/4eF78oT9-3I/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "aw8iyRdRea4",
+        "title": "Udaari Episode 01 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 1,
+        "date": "2026-09-23",
+        "published": "2026-09-23T14:00:15Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/aw8iyRdRea4/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      }
+    ]
+  },
   "hum-zindagi-gulzar-hai": {
     "episodes": [
       {
@@ -28131,6 +28447,26 @@
       }
     ]
   },
+  "arydigital-izzat": {
+    "episodes": [
+      {
+        "id": "2S5_eQI24A0",
+        "title": "Izzat Episode 26 | 15 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 26,
+        "date": "2026-10-15",
+        "published": "2026-10-15T15:00:37Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/2S5_eQI24A0/hqdefault.jpg",
+        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
+      }
+    ]
+  },
   "harpalgeo-khafa": {
     "episodes": [
       {
@@ -28164,6 +28500,26 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pWw8tWkPReA/hqdefault.jpg",
         "checkedAt": "2026-10-16T03:51:58.850494+00:00"
+      }
+    ]
+  },
+  "hum-gulbahar": {
+    "episodes": [
+      {
+        "id": "lCFiom01bBo",
+        "title": "Gulbahar - Episode 10 - [Eng Sub] 15th Oct 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
+        "episode": 10,
+        "date": "2026-10-15",
+        "published": "2026-10-15T16:00:04Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/lCFiom01bBo/hqdefault.jpg",
+        "checkedAt": "2026-10-16T07:05:15.775682+00:00"
       }
     ]
   },
