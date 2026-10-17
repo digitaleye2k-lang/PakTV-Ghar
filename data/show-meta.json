@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T23:48:47.132689+05:00",
+  "generatedAt": "2026-10-18T02:45:01.050935+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,13 +17,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 6,
-        "time": "16:30",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-17"
       }
     },
     "harpalgeo-nashtar": {
@@ -44,11 +37,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 20,
+        "number": 21,
         "time": "20:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-17"
+        "date": "2026-10-18"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -68,11 +61,11 @@
     },
     "harpalgeo-uswa": {
       "tvToday": {
-        "number": 25,
+        "number": 26,
         "time": "19:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-17"
+        "date": "2026-10-18"
       },
       "lastAttempt": "2026-10-12T20:10:58.606287+05:00",
       "latestUpload": {
@@ -104,13 +97,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 22,
-        "time": "00:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-17"
       }
     },
     "hum-aangan": {
@@ -132,11 +118,11 @@
       "poster": "https://harpalgeo.tv/assets/uploads/programs/641_9919269_programs.jpg",
       "posterSource": "Official broadcaster",
       "tvToday": {
-        "number": 5,
+        "number": 6,
         "time": "21:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-17"
+        "date": "2026-10-18"
       },
       "latestUpload": {
         "number": 5,
@@ -1604,10 +1590,10 @@
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1758557233183_0c269f80fa.webp&w=1920&q=75",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 45,
-        "id": "p6xEjc0PqpA",
-        "title": "Sukoon Episode 45 | Digitally Presented by Royal (Eng Sub) | 20 March 2024 | ARY Digital",
-        "date": "2024-03-20",
+        "number": 47,
+        "id": "GL4XTAuUaos",
+        "title": "Sukoon 2nd Last Episode 47 | Digitally Presented by Royal (Eng Sub) | 27 March 2024 | ARY Digital",
+        "date": "2024-03-27",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,

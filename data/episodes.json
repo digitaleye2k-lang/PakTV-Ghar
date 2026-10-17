@@ -1,34 +1,462 @@
 {
+  "hum-khushi": {
+    "episodes": [
+      {
+        "title": "Khushi - Episode 35 - [ENG Sub] 17th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 35,
+        "id": "mW0m9n3EX74",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "Khushi - Episode 34 Highlight - 17th Oct 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
+        "episode": 34,
+        "id": "FOGSNgNr9Aw",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-17"
+      },
+      {
+        "id": "AWHP5v_r5NI",
+        "title": "Khushi - Episode 33 - [ENG SUB] 15th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 33,
+        "date": "2026-10-15",
+        "published": "2026-10-15T15:00:23Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/AWHP5v_r5NI/hqdefault.jpg",
+        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
+      },
+      {
+        "id": "cHKT6woUT0Y",
+        "title": "Khushi - Episode 30 - [Eng Sub] 12th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 30,
+        "date": "2026-10-12",
+        "published": "2026-10-12T15:00:05Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/cHKT6woUT0Y/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
+      },
+      {
+        "id": "4qgcZlaUMX4",
+        "title": "Khushi - Episode 29 Highlight - 12th Oct 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
+        "episode": 29,
+        "date": "2026-10-12",
+        "published": "2026-10-12T12:00:34Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/4qgcZlaUMX4/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
+      },
+      {
+        "id": "-7COdwR1U9Y",
+        "title": "Khushi - Episode 29 - [Eng Sub] 11th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 29,
+        "date": "2026-10-11",
+        "published": "2026-10-11T15:00:20Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/-7COdwR1U9Y/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
+      }
+    ]
+  },
+  "hum-aangan": {
+    "episodes": [
+      {
+        "title": "Aangan - Episode 06 - 17th Oct 2026 - [Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain]",
+        "episode": 6,
+        "id": "2u4RXpLlA64",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "Aangan - Episode 05 - Flashback [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
+        "episode": 5,
+        "id": "gDwbkH0v36c",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-17"
+      },
+      {
+        "id": "K1SHRLAXBuE",
+        "title": "Aangan - Episode 04 - Highlight [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
+        "episode": 4,
+        "date": "2026-10-11",
+        "published": "2026-10-11T13:00:33Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/K1SHRLAXBuE/hqdefault.jpg",
+        "checkedAt": "2026-10-16T07:05:15.775682+00:00"
+      }
+    ]
+  },
+  "hum-tark-e-tamanna": {
+    "episodes": [
+      {
+        "title": "Tark-e-Tamanna - Episode 11 Highlight | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "episode": 11,
+        "id": "wO2AjOXVIJc",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-17"
+      },
+      {
+        "id": "nQGADWyKgdg",
+        "title": "Tark-e-Tamanna - Episode 10 - [Eng Sub] 15th Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "episode": 10,
+        "date": "2026-10-15",
+        "published": "2026-10-15T17:00:22Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/nQGADWyKgdg/hqdefault.jpg",
+        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
+      }
+    ]
+  },
+  "hum-zehar-e-mohabbat": {
+    "episodes": [
+      {
+        "title": "Zehar-e-Mohabbat - Episode 17 - 17th Oct 2026 - [ Zoha Tauqeer & Omer Shahzad ] HUM TV",
+        "episode": 17,
+        "id": "7bSpI23-ARw",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-17"
+      },
+      {
+        "id": "Alxhc4uy47Q",
+        "title": "Zehar-e-Mohabbat - Episode 16 - [Eng Sub] 11th Oct 2026 - [ Zoha Tauqeer & Omer Shahzad ] HUM TV",
+        "episode": 16,
+        "date": "2026-10-11",
+        "published": "2026-10-11T17:00:37Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Alxhc4uy47Q/hqdefault.jpg",
+        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
+      }
+    ]
+  },
+  "hum-udaari": {
+    "episodes": [
+      {
+        "title": "Udaari Episode 25 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 25,
+        "id": "5nEvb6b5Mbk",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-17"
+      },
+      {
+        "id": "ydgrm_GkcV0",
+        "title": "Udaari Episode 23 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 23,
+        "date": "2026-10-15",
+        "published": "2026-10-15T14:00:18Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ydgrm_GkcV0/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "99Bbeou_qjY",
+        "title": "Udaari Episode 22 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 22,
+        "date": "2026-10-14",
+        "published": "2026-10-14T14:00:00Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/99Bbeou_qjY/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "cUcAc7BJ8kk",
+        "title": "Udaari Episode 21 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 21,
+        "date": "2026-10-13",
+        "published": "2026-10-13T14:00:24Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/cUcAc7BJ8kk/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "y2XFdg_DecM",
+        "title": "Udaari Episode 20 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 20,
+        "date": "2026-10-12",
+        "published": "2026-10-12T14:00:25Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/y2XFdg_DecM/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "ijI4zYgnP0o",
+        "title": "Udaari Episode 19 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 19,
+        "date": "2026-10-11",
+        "published": "2026-10-11T14:00:08Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ijI4zYgnP0o/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "HDUn0tDIkIU",
+        "title": "Udaari Episode 18 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 18,
+        "date": "2026-10-10",
+        "published": "2026-10-10T14:00:24Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/HDUn0tDIkIU/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "TB67afm9kIQ",
+        "title": "Udaari Episode 17 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 17,
+        "date": "2026-10-09",
+        "published": "2026-10-09T14:00:26Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/TB67afm9kIQ/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "7D33h4Eilnc",
+        "title": "Udaari Episode 16 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 16,
+        "date": "2026-10-08",
+        "published": "2026-10-08T14:00:05Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/7D33h4Eilnc/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "xGyrqCi8EuM",
+        "title": "Udaari Episode 15 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 15,
+        "date": "2026-10-07",
+        "published": "2026-10-07T14:00:35Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/xGyrqCi8EuM/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "ACFiGLNsZgU",
+        "title": "Udaari Episode 13 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 13,
+        "date": "2026-10-05",
+        "published": "2026-10-05T14:00:18Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ACFiGLNsZgU/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "wnwh_K-qa8s",
+        "title": "Udaari Episode 11 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 11,
+        "date": "2026-10-03",
+        "published": "2026-10-03T14:00:15Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/wnwh_K-qa8s/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "Rb4YxCK_Cqs",
+        "title": "Udaari Episode 06 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 6,
+        "date": "2026-09-28",
+        "published": "2026-09-28T14:00:04Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Rb4YxCK_Cqs/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "thEg4MYecMw",
+        "title": "Udaari Episode 05 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 5,
+        "date": "2026-09-27",
+        "published": "2026-09-27T14:00:15Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/thEg4MYecMw/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "f2AByMb0SvM",
+        "title": "Udaari Episode 04 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 4,
+        "date": "2026-09-26",
+        "published": "2026-09-26T14:00:11Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/f2AByMb0SvM/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "4eF78oT9-3I",
+        "title": "Udaari Episode 02 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 2,
+        "date": "2026-09-24",
+        "published": "2026-09-24T14:00:18Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/4eF78oT9-3I/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "aw8iyRdRea4",
+        "title": "Udaari Episode 01 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 1,
+        "date": "2026-09-23",
+        "published": "2026-09-23T14:00:15Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/aw8iyRdRea4/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      }
+    ]
+  },
   "arydigital-izzat": {
     "episodes": [
       {
-        "title": "Mujhe Jahez Ke Kapray Nahi Chahiye | Izzat Episode 26",
-        "episode": 26,
-        "id": "BLyryuU-0Io",
+        "title": "Izzat Episode 28 | 17 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 28,
+        "id": "rxFJJ3z8O2Y",
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-10-17"
       },
       {
-        "title": "Izzat Episode 26 | Memorable Scene | ARY Digital",
-        "episode": 26,
-        "id": "otCuDMjlsgk",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-17"
-      },
-      {
-        "title": "Izzat Episode 26 | Unmissable Moment | ARY Digital",
-        "episode": 26,
-        "id": "s4N5yLJs808",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-17"
-      },
-      {
-        "title": "Izzat Episode 26 | Best Scene | ARY Digital",
-        "episode": 26,
-        "id": "GWhbFmh4ua0",
+        "title": "Izzat Episode 28 | 17 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 28,
+        "id": "gHDxQ9PhBK8",
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-10-17"
@@ -51,28 +479,40 @@
       }
     ]
   },
+  "arydigital-rutba": {
+    "episodes": [
+      {
+        "title": "Exclusive Chat with Mehwish Hayat | BUZZ - EP 76 | RUTBA | 17 October 2026 l",
+        "episode": 76,
+        "id": "DgXTdrxmajI",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-17"
+      },
+      {
+        "id": "QpzPYN2DuEg",
+        "title": "Rutba EP 2 | 12 Oct 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ENG SUB",
+        "episode": 2,
+        "date": "2026-10-12",
+        "published": "2026-10-12T16:00:08Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/QpzPYN2DuEg/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+      }
+    ]
+  },
   "arydigital-main-tera": {
     "episodes": [
       {
-        "title": "Main Tera Episode 61 | Best Moment | ARY Digital",
+        "title": "Main Tera Episode 61 | Emotional Scene | ARY Digital",
         "episode": 61,
-        "id": "apC5cHX_Ink",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-17"
-      },
-      {
-        "title": "Main Tera Episode 61 | Best Scene | ARY Digital",
-        "episode": 61,
-        "id": "Ngg1pQ3S_TY",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-17"
-      },
-      {
-        "title": "Is Main Qasoor Tumhara Bhi Nahi Tha | Main Tera Episode 61",
-        "episode": 61,
-        "id": "lhewxaf8bHo",
+        "id": "LcE201pzVGw",
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-10-17"
@@ -111,20 +551,84 @@
       }
     ]
   },
-  "harpalgeo-uswa": {
+  "arydigital-dar-e-nijaat": {
     "episodes": [
       {
-        "title": "Uswah Episode 24 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 24,
-        "id": "fdRqL8IYvOM",
-        "source": "Har Pal Geo",
+        "title": "Dar-e-Nijaat Episode 23 | 17 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
+        "episode": 23,
+        "id": "ebioxADOBOw",
+        "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-10-17"
       },
       {
-        "title": "Uswah Episode 24 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 24,
-        "id": "hzFCPU555mA",
+        "title": "Dar-e-Nijaat Episode 23 | 17 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
+        "episode": 23,
+        "id": "8vILYqBfwJo",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-17"
+      }
+    ]
+  },
+  "arydigital-tamasha-season-5": {
+    "episodes": [
+      {
+        "title": "Laila – The Unstoppable Queen of Tamasha S5! 🔥💖 | ARY Digital",
+        "episode": null,
+        "id": "hHTyjcypmPI",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "Style Queen Sehrish! 👑💖 | Tamasha S5 | ARY Digital",
+        "episode": null,
+        "id": "-MusPXXnuYM",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "Yasir Alam Wins the Best Wazir Award! 🔥 | Tamasha S5",
+        "episode": null,
+        "id": "QKGwJbD8lio",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "Aap Nahi Hotay Tou Tamasha Nahi Lagta | Tamasha S5 | Grand Finale | ARY Digital",
+        "episode": null,
+        "id": "vACY4WnAtwc",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "Once in a Lifetime Memories ❤️ | Tamasha Season 5 | ARY Digital",
+        "episode": null,
+        "id": "fjK3TeG4fCk",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "Tamasha Ghar Main Sabse Zyada Paisay Kisne Kharch Kiye!",
+        "episode": null,
+        "id": "Euur0tv49NA",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-17"
+      }
+    ]
+  },
+  "harpalgeo-uswa": {
+    "episodes": [
+      {
+        "title": "Uswah Episode 25 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 17th October 2026",
+        "episode": 25,
+        "id": "j3Y3gS7xNsg",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-17"
@@ -278,25 +782,17 @@
   "harpalgeo-nashtar": {
     "episodes": [
       {
-        "title": "Nashtar Episode 19 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
-        "episode": 19,
-        "id": "govHdBZX4Q8",
+        "title": "Nashtar Episode 20 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
+        "episode": 20,
+        "id": "8uPQlwpDWog",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-17"
       },
       {
-        "title": "Nashtar Episode 19 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "title": "Recap Nashtar Episode 19 - 17th October 2026 - Har Pal Geo",
         "episode": 19,
-        "id": "AztP7dCx1pk",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-17"
-      },
-      {
-        "title": "Nashtar Episode 19 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
-        "episode": 19,
-        "id": "HMO02SaTIXw",
+        "id": "I00AaAqvRrg",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-17"
@@ -322,17 +818,41 @@
   "harpalgeo-bano": {
     "episodes": [
       {
-        "title": "Bano Episode 04 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 4,
-        "id": "gcSllg4chUw",
+        "title": "Bano Episode 05 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 17th October 2026 | HAR PAL GEO",
+        "episode": 5,
+        "id": "D0KfNAxHQC4",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-17"
       },
       {
-        "title": "Bano Episode 04 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "title": "Bano Episode 04 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
         "episode": 4,
-        "id": "puGYe4c2AZE",
+        "id": "WFyvCMkEwlk",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "Bano Episode 04 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 4,
+        "id": "PPc1C6oJdsM",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "Bano Episode 04 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 4,
+        "id": "jLYREwErDCg",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "Bano Episode 04 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 4,
+        "id": "3vF1n8TKKmA",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-17"
@@ -412,34 +932,30 @@
         "source": "Geo News",
         "kind": "youtube",
         "date": "2026-10-17"
-      },
+      }
+    ]
+  },
+  "arydigital-bulbulay": {
+    "episodes": [
       {
-        "title": "Tabish Ne Khela Kinza ke Saath Foreign Foran - Kinza Ne Saboor aly ko kese bachaya? - Hasna Mana Hai",
-        "episode": null,
-        "id": "HVB0VTKzM9k",
-        "source": "Geo News",
+        "title": "Bulbulay Season 2 Episode 378 | 17 October 2026 | ARY Digital",
+        "episode": 378,
+        "id": "CB_6Du4evfc",
+        "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-10-17"
       }
     ]
   },
-  "arydigital-rutba": {
+  "arynews-the-reporters": {
     "episodes": [
       {
-        "id": "QpzPYN2DuEg",
-        "title": "Rutba EP 2 | 12 Oct 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ENG SUB",
-        "episode": 2,
-        "date": "2026-10-12",
-        "published": "2026-10-12T16:00:08Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
+        "title": "Maulana Fazl-ur-Rehman | PTI vs Govt | The Reporters | 16th Oct 26 | ARY News",
+        "episode": null,
+        "id": "69xIl9tXauQ",
+        "source": "ARY News",
         "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/QpzPYN2DuEg/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+        "date": "2026-10-17"
       }
     ]
   },
@@ -515,26 +1031,6 @@
       }
     ]
   },
-  "hum-aangan": {
-    "episodes": [
-      {
-        "id": "K1SHRLAXBuE",
-        "title": "Aangan - Episode 04 - Highlight [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
-        "episode": 4,
-        "date": "2026-10-11",
-        "published": "2026-10-11T13:00:33Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/K1SHRLAXBuE/hqdefault.jpg",
-        "checkedAt": "2026-10-16T07:05:15.775682+00:00"
-      }
-    ]
-  },
   "hum-bombay-tailors": {
     "episodes": [
       {
@@ -587,74 +1083,6 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/bNfLroyIbUY/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      }
-    ]
-  },
-  "hum-khushi": {
-    "episodes": [
-      {
-        "id": "AWHP5v_r5NI",
-        "title": "Khushi - Episode 33 - [ENG SUB] 15th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 33,
-        "date": "2026-10-15",
-        "published": "2026-10-15T15:00:23Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/AWHP5v_r5NI/hqdefault.jpg",
-        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
-      },
-      {
-        "id": "cHKT6woUT0Y",
-        "title": "Khushi - Episode 30 - [Eng Sub] 12th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 30,
-        "date": "2026-10-12",
-        "published": "2026-10-12T15:00:05Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": false,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/cHKT6woUT0Y/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      },
-      {
-        "id": "4qgcZlaUMX4",
-        "title": "Khushi - Episode 29 Highlight - 12th Oct 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
-        "episode": 29,
-        "date": "2026-10-12",
-        "published": "2026-10-12T12:00:34Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/4qgcZlaUMX4/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      },
-      {
-        "id": "-7COdwR1U9Y",
-        "title": "Khushi - Episode 29 - [Eng Sub] 11th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 29,
-        "date": "2026-10-11",
-        "published": "2026-10-11T15:00:20Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/-7COdwR1U9Y/hqdefault.jpg",
         "checkedAt": "2026-10-12T17:30:35.039122+00:00"
       }
     ]
@@ -11291,7 +11719,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/S0VszIEH144/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "O-9L1JQRE-4",
@@ -11307,7 +11735,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/O-9L1JQRE-4/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "GXHS9_tgk1k",
@@ -11323,7 +11751,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GXHS9_tgk1k/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "S-pR-tXy-Lo",
@@ -11339,7 +11767,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/S-pR-tXy-Lo/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "5rb4ZCd5DL0",
@@ -11355,7 +11783,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5rb4ZCd5DL0/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "VgYt1qcT_PQ",
@@ -11371,7 +11799,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/VgYt1qcT_PQ/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "rJbNYaz-iSg",
@@ -11387,7 +11815,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rJbNYaz-iSg/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "5FVhNAr4Qkg",
@@ -11403,7 +11831,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5FVhNAr4Qkg/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "wokoVtH8dC8",
@@ -11435,7 +11863,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Q6r8s9-poLk/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "VXKHXQRKG84",
@@ -11451,7 +11879,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/VXKHXQRKG84/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "b3i4sLOi80M",
@@ -11467,7 +11895,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/b3i4sLOi80M/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "axK6la4krTE",
@@ -11483,7 +11911,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/axK6la4krTE/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "rhZnk-ErRW8",
@@ -11499,7 +11927,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rhZnk-ErRW8/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "vZM6a7Zb2i8",
@@ -11515,7 +11943,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vZM6a7Zb2i8/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "qczxFlioU2c",
@@ -11531,7 +11959,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/qczxFlioU2c/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "7oYUZcYe51U",
@@ -11547,7 +11975,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7oYUZcYe51U/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "Yubta4_-N9U",
@@ -11563,7 +11991,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Yubta4_-N9U/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "mJY9B9_yWhs",
@@ -11579,7 +12007,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mJY9B9_yWhs/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "Qwz9L4WyIj8",
@@ -11595,7 +12023,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Qwz9L4WyIj8/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "cv4VVgeTzFk",
@@ -11611,7 +12039,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cv4VVgeTzFk/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "PysG6BkTMwY",
@@ -11627,7 +12055,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PysG6BkTMwY/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "zxvxXGbVObk",
@@ -11643,7 +12071,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zxvxXGbVObk/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
+      },
+      {
+        "id": "YzDhoAoKulo",
+        "title": "Qurban Episode 11 & 12 | Iqra Aziz | Bilal Abbas | ARY Digital | Subtitle Eng",
+        "episode": 11,
+        "date": "2017-12-25",
+        "published": "2017-12-25T17:06:13Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/YzDhoAoKulo/hqdefault.jpg",
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "aUibGSo5e3Y",
@@ -11659,7 +12103,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/aUibGSo5e3Y/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "vsanX5tyMs4",
@@ -11675,7 +12119,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vsanX5tyMs4/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "pXwRapkX3IU",
@@ -11691,7 +12135,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pXwRapkX3IU/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "9jkhTasEP8I",
@@ -11707,7 +12151,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9jkhTasEP8I/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "0H8uCEV-z6I",
@@ -11723,7 +12167,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0H8uCEV-z6I/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "aiWolSvugNk",
@@ -11739,7 +12183,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/aiWolSvugNk/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "s4VSkxK3Nks",
@@ -11755,7 +12199,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/s4VSkxK3Nks/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "Qf4woxiIgVY",
@@ -11771,7 +12215,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Qf4woxiIgVY/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "JHk448AJYxY",
@@ -11787,7 +12231,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/JHk448AJYxY/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "ygO_BEgG1WQ",
@@ -11803,12 +12247,28 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ygO_BEgG1WQ/hqdefault.jpg",
-        "checkedAt": "2026-10-14T03:52:05.289212+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       }
     ]
   },
   "arydigital-sukoon": {
     "episodes": [
+      {
+        "id": "GL4XTAuUaos",
+        "title": "Sukoon 2nd Last Episode 47 | Digitally Presented by Royal (Eng Sub) | 27 March 2024 | ARY Digital",
+        "episode": 47,
+        "date": "2024-03-27",
+        "published": "2024-03-27T18:35:46Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/GL4XTAuUaos/hqdefault.jpg",
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
+      },
       {
         "id": "p6xEjc0PqpA",
         "title": "Sukoon Episode 45 | Digitally Presented by Royal (Eng Sub) | 20 March 2024 | ARY Digital",
@@ -11855,7 +12315,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7EzkrzsEmX4/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "IjpMoO7pKqA",
@@ -11871,7 +12331,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/IjpMoO7pKqA/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "V4sEBER6wQ8",
@@ -11919,7 +12379,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/32kzlAawVj8/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "L1-ZkMb7VdE",
@@ -11935,7 +12395,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/L1-ZkMb7VdE/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "VgEp6VUfXDs",
@@ -11951,7 +12411,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/VgEp6VUfXDs/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "WvGURrtYo70",
@@ -11983,7 +12443,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mmW4BZdaW6g/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "iFM2cLtUPbY",
@@ -12015,7 +12475,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mxDR3dLZzbQ/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "XcrZbj8ggYE",
@@ -12031,7 +12491,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XcrZbj8ggYE/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "c1F2aFoG8XQ",
@@ -12047,7 +12507,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/c1F2aFoG8XQ/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "77akzWs9FSo",
@@ -12063,7 +12523,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/77akzWs9FSo/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "iYIY0_9rP2k",
@@ -12079,7 +12539,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iYIY0_9rP2k/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
+      },
+      {
+        "id": "OohhsNv-cyk",
+        "title": "Sukoon Episode 25 | Digitally Presented by Royal & Sensodyn (Eng Sub)| 10 January 2024 | ARY Digital",
+        "episode": 25,
+        "date": "2024-01-10",
+        "published": "2024-01-10T16:33:23Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/OohhsNv-cyk/hqdefault.jpg",
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "RNYpFYPst98",
@@ -12095,7 +12571,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/RNYpFYPst98/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "GtPq7hkfKJc",
@@ -12143,7 +12619,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/I6OQXSTf3sE/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "f5iLF7eHaS0",
@@ -12159,7 +12635,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/f5iLF7eHaS0/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "5dBIIgSUA7M",
@@ -12175,7 +12651,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5dBIIgSUA7M/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "dwgDKnet0XQ",
@@ -12191,7 +12667,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dwgDKnet0XQ/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
+      },
+      {
+        "id": "H9uS2sOUxbQ",
+        "title": "Sukoon Episode 16 | Digitally Presented by Royal & Sensodyne (Eng Sub)| 7 December 2023| ARY Digital",
+        "episode": 16,
+        "date": "2023-12-07",
+        "published": "2023-12-07T16:00:07Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/H9uS2sOUxbQ/hqdefault.jpg",
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "RHN6pzfquLs",
@@ -12207,7 +12699,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/RHN6pzfquLs/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "OCUz_nTD_io",
@@ -12223,7 +12715,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OCUz_nTD_io/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "QIUeIQPFQWo",
@@ -12239,7 +12731,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QIUeIQPFQWo/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "KufnqkD_CA4",
@@ -12255,7 +12747,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/KufnqkD_CA4/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
+      },
+      {
+        "id": "QQvjk-fNT54",
+        "title": "Sukoon Episode 10 (Eng Sub) | Digitally Presented by Royal | 16 November 2023 | ARY Digital",
+        "episode": 10,
+        "date": "2023-11-16",
+        "published": "2023-11-16T15:59:58Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/QQvjk-fNT54/hqdefault.jpg",
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "TU0yzt3rSbc",
@@ -12271,7 +12779,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TU0yzt3rSbc/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "5_XNmof_I1U",
@@ -12287,7 +12795,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5_XNmof_I1U/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "yvGExJn0MmU",
@@ -12303,7 +12811,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yvGExJn0MmU/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "_N64Vz2WvSw",
@@ -12319,7 +12827,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_N64Vz2WvSw/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "X0fG-B7V8Xk",
@@ -12335,7 +12843,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/X0fG-B7V8Xk/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "K7NVqovgxCM",
@@ -12367,7 +12875,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/K5oI7trwdOw/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       },
       {
         "id": "GcfwlqTEUsA",
@@ -12383,7 +12891,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GcfwlqTEUsA/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-17T21:44:22.990501+00:00"
       }
     ]
   },
@@ -28475,266 +28983,6 @@
       }
     ]
   },
-  "hum-udaari": {
-    "episodes": [
-      {
-        "id": "ydgrm_GkcV0",
-        "title": "Udaari Episode 23 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 23,
-        "date": "2026-10-15",
-        "published": "2026-10-15T14:00:18Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ydgrm_GkcV0/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "99Bbeou_qjY",
-        "title": "Udaari Episode 22 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 22,
-        "date": "2026-10-14",
-        "published": "2026-10-14T14:00:00Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/99Bbeou_qjY/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "cUcAc7BJ8kk",
-        "title": "Udaari Episode 21 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 21,
-        "date": "2026-10-13",
-        "published": "2026-10-13T14:00:24Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/cUcAc7BJ8kk/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "y2XFdg_DecM",
-        "title": "Udaari Episode 20 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 20,
-        "date": "2026-10-12",
-        "published": "2026-10-12T14:00:25Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/y2XFdg_DecM/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "ijI4zYgnP0o",
-        "title": "Udaari Episode 19 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 19,
-        "date": "2026-10-11",
-        "published": "2026-10-11T14:00:08Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ijI4zYgnP0o/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "HDUn0tDIkIU",
-        "title": "Udaari Episode 18 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 18,
-        "date": "2026-10-10",
-        "published": "2026-10-10T14:00:24Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/HDUn0tDIkIU/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "TB67afm9kIQ",
-        "title": "Udaari Episode 17 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 17,
-        "date": "2026-10-09",
-        "published": "2026-10-09T14:00:26Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/TB67afm9kIQ/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "7D33h4Eilnc",
-        "title": "Udaari Episode 16 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 16,
-        "date": "2026-10-08",
-        "published": "2026-10-08T14:00:05Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/7D33h4Eilnc/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "xGyrqCi8EuM",
-        "title": "Udaari Episode 15 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 15,
-        "date": "2026-10-07",
-        "published": "2026-10-07T14:00:35Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/xGyrqCi8EuM/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "ACFiGLNsZgU",
-        "title": "Udaari Episode 13 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 13,
-        "date": "2026-10-05",
-        "published": "2026-10-05T14:00:18Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ACFiGLNsZgU/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "wnwh_K-qa8s",
-        "title": "Udaari Episode 11 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 11,
-        "date": "2026-10-03",
-        "published": "2026-10-03T14:00:15Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/wnwh_K-qa8s/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "Rb4YxCK_Cqs",
-        "title": "Udaari Episode 06 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 6,
-        "date": "2026-09-28",
-        "published": "2026-09-28T14:00:04Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Rb4YxCK_Cqs/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "thEg4MYecMw",
-        "title": "Udaari Episode 05 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 5,
-        "date": "2026-09-27",
-        "published": "2026-09-27T14:00:15Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/thEg4MYecMw/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "f2AByMb0SvM",
-        "title": "Udaari Episode 04 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 4,
-        "date": "2026-09-26",
-        "published": "2026-09-26T14:00:11Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/f2AByMb0SvM/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "4eF78oT9-3I",
-        "title": "Udaari Episode 02 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 2,
-        "date": "2026-09-24",
-        "published": "2026-09-24T14:00:18Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/4eF78oT9-3I/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "aw8iyRdRea4",
-        "title": "Udaari Episode 01 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 1,
-        "date": "2026-09-23",
-        "published": "2026-09-23T14:00:15Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/aw8iyRdRea4/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      }
-    ]
-  },
   "hum-zindagi-gulzar-hai": {
     "episodes": [
       {
@@ -29276,46 +29524,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lCFiom01bBo/hqdefault.jpg",
         "checkedAt": "2026-10-16T07:05:15.775682+00:00"
-      }
-    ]
-  },
-  "hum-tark-e-tamanna": {
-    "episodes": [
-      {
-        "id": "nQGADWyKgdg",
-        "title": "Tark-e-Tamanna - Episode 10 - [Eng Sub] 15th Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
-        "episode": 10,
-        "date": "2026-10-15",
-        "published": "2026-10-15T17:00:22Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/nQGADWyKgdg/hqdefault.jpg",
-        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
-      }
-    ]
-  },
-  "hum-zehar-e-mohabbat": {
-    "episodes": [
-      {
-        "id": "Alxhc4uy47Q",
-        "title": "Zehar-e-Mohabbat - Episode 16 - [Eng Sub] 11th Oct 2026 - [ Zoha Tauqeer & Omer Shahzad ] HUM TV",
-        "episode": 16,
-        "date": "2026-10-11",
-        "published": "2026-10-11T17:00:37Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Alxhc4uy47Q/hqdefault.jpg",
-        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
       }
     ]
   },
