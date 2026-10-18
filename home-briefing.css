@@ -1,0 +1,66 @@
+/* Homepage editorial briefing & compact community drawer */
+.home-briefing{margin:24px max(22px,3.7vw) 30px;display:grid;gap:16px}
+.brief-header{display:flex;justify-content:space-between;align-items:flex-end;flex-wrap:wrap;gap:12px}
+.brief-kicker{display:block;text-transform:uppercase;letter-spacing:.14em;font-size:11px;font-weight:800;color:#76ded1}
+.brief-header h2{margin:3px 0 4px;font-size:clamp(21px,2.5vw,28px);letter-spacing:-.035em}
+.brief-intro,.brief-note,.brief-source{font-size:12px;color:#aebbd5;line-height:1.5;margin:0}
+.brief-freshness{border:1px solid #42506c;background:#162138;padding:7px 11px;border-radius:99px;font-size:11px;color:#c6d2e8}
+.brief-grid{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(280px,1fr);gap:16px;align-items:start}
+.brief-panel{background:linear-gradient(155deg,#18243b,#111a2d);border:1px solid #33435d;border-radius:19px;padding:19px;min-width:0;box-shadow:0 12px 30px #05091c25}
+.brief-panel h3{font-size:17px;margin:0;color:#f6f8ff;letter-spacing:-.025em}
+.brief-panel .brief-topline{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:13px}
+.brief-news-tabs{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:14px}
+.brief-news-tabs button{border:1px solid #364960;color:#c0cce0;background:#141e32;padding:8px 14px;border-radius:999px;font-weight:700;font-size:12px}
+.brief-news-tabs button[aria-selected="true"]{background:#ffb45b;color:#141726;border-color:#ffb45b}
+.brief-news-feed{list-style:none;padding:0;margin:0;display:grid}
+.brief-news-item{padding:11px 0;border-top:1px solid #33425b}
+.brief-news-item:first-child{border-top:0;padding-top:0}
+.brief-news-item a{display:block;color:#f6f7fe;text-decoration:none;font-size:14px;font-weight:700;line-height:1.45}
+.brief-news-item a:hover,.brief-news-item a:focus-visible{color:#ffbd79;text-decoration:underline}
+.brief-news-meta{margin-top:5px;display:flex;flex-wrap:wrap;gap:5px;color:#a4b8d1;font-size:11px}
+.brief-news-meta .dot{opacity:.6}
+.brief-side{display:grid;gap:16px}
+.brief-weather-cities{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.brief-weather-city{border:1px solid #32415a;background:#101b2d;border-radius:13px;padding:11px;min-width:0}
+.brief-weather-name{font-size:12px;font-weight:800;color:#e6eefc}
+.brief-weather-temp{font-size:25px;font-weight:800;line-height:1.4;font-variant-numeric:tabular-nums;letter-spacing:-.04em}
+.brief-weather-desc{font-size:11px;color:#a9bad2;overflow-wrap:anywhere}
+.brief-market-row{display:flex;align-items:center;justify-content:space-between;border-top:1px solid #354258;padding:11px 0;gap:12px}
+.brief-market-row:first-child{border-top:0}
+.brief-market-row a{font-size:13px;font-weight:700;color:#e8eefc;text-decoration:none}
+.brief-market-row a:hover{text-decoration:underline}
+.brief-market-region{display:block;color:#94a7c2;font-size:10px;margin-top:3px}
+.brief-market-values{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+.brief-market-number{display:block;font-size:15px;font-weight:800}
+.brief-market-delta{display:block;font-size:11px;font-weight:700}
+.brief-market-delta.up{color:#76ded1}.brief-market-delta.down{color:#ff9d9d}
+.brief-empty{padding:14px;background:#10192b;border:1px dashed #42516a;border-radius:12px;font-size:13px;color:#c4d1e2;line-height:1.5}
+.brief-attribution{font-size:10px;color:#a6b6cf;margin-top:13px;line-height:1.5}
+.brief-attribution a{color:#ffbe78;text-decoration:underline}
+.pgh-chat-dock{position:fixed;z-index:65;right:14px;bottom:19px;display:grid;justify-items:end;gap:10px;pointer-events:none}
+.pgh-chat-tab,.pgh-chat-drawer{pointer-events:auto}
+.pgh-chat-tab{display:flex;align-items:center;gap:8px;border:1px solid #ffc77f;border-radius:100px;background:#fcb56c;color:#152035;box-shadow:0 7px 26px #0008;font-weight:800;padding:11px 17px;font-size:13px}
+.pgh-chat-tab:hover{background:#ffd19b}
+.pgh-chat-drawer{width:min(360px,calc(100vw - 24px));height:min(550px,calc(100dvh - 125px));min-height:290px;display:flex;flex-direction:column;border:1px solid #4b6282;background:#111b2f;border-radius:19px;overflow:hidden;box-shadow:0 22px 65px #000c}
+.pgh-chat-drawer[hidden]{display:none!important}
+.pgh-mini-header{display:flex;align-items:center;justify-content:space-between;padding:13px 15px;background:#1b2a44;color:#fff}
+.pgh-mini-header strong{font-size:15px}.pgh-mini-header small{display:block;font-size:11px;color:#b4c4d9;margin-top:3px}
+.pgh-mini-header button{border:0;background:transparent;color:#f8fafb;font-size:22px;padding:4px 7px}
+.pgh-mini-room{display:flex;gap:7px;padding:11px 13px;border-bottom:1px solid #30445e;align-items:center}
+.pgh-mini-room label{font-size:12px;color:#bdcde3}
+.pgh-mini-room select{flex:1;min-width:0;border:1px solid #405672;border-radius:9px;padding:8px;color:#f3f6ff;background:#142139}
+.pgh-mini-messages{flex:1;min-height:0;overflow:auto;padding:13px;display:grid;align-content:start;gap:10px;overscroll-behavior:contain}
+.pgh-mini-msg{background:#1d2b44;border:1px solid #344962;border-radius:12px;padding:9px 11px;overflow-wrap:anywhere}
+.pgh-mini-msg strong{font-size:11px;color:#ffc98e}.pgh-mini-msg p{font-size:12px;margin:5px 0;color:#eff3fb;white-space:pre-wrap}
+.pgh-mini-msg time{font-size:10px;color:#acbfd6}
+.pgh-mini-form{padding:12px;border-top:1px solid #33435a;display:grid;gap:8px}
+.pgh-mini-form input,.pgh-mini-form textarea{width:100%;border:1px solid #405571;border-radius:9px;background:#10192b;color:#f4f7fb;padding:10px;font-size:12px}
+.pgh-mini-form textarea{resize:vertical;min-height:58px;max-height:100px}
+.pgh-mini-form button{background:#ffbc75;border:0;color:#182137;border-radius:9px;padding:10px;font-weight:800}
+.pgh-mini-form button:disabled{opacity:.55;cursor:not-allowed}
+.pgh-mini-status{color:#bfcee4;font-size:11px;line-height:1.4;margin:0;min-height:0}
+.pgh-mini-footer{font-size:11px;margin:0;padding:7px 12px;border-top:1px solid #33435a}
+.pgh-mini-footer a{color:#ffc98e;text-decoration:underline}
+@media(max-width:1000px){.brief-grid{grid-template-columns:minmax(0,1fr)}.brief-side{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:680px){.home-briefing{margin:16px 12px 24px}.brief-panel{padding:14px}.brief-side{grid-template-columns:1fr}.pgh-chat-dock{bottom:71px;right:9px}.pgh-chat-drawer{height:min(485px,calc(100dvh - 162px))}.pgh-chat-tab{font-size:12px;padding:10px 14px}}
+@media(prefers-reduced-motion:reduce){.pgh-chat-dock *{scroll-behavior:auto}}
