@@ -1,6 +1,24 @@
 {
   "videos": [
     {
+      "id": "NZ0NtwWYWPE",
+      "title": "Pakistan-India-Afghanistan Conflict: Latest Updates | 1 AM News Headlines | 19 OCT 2026 | Samaa TV",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T22:34:39Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 675,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/NZ0NtwWYWPE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "jfk_2EeP_GQ",
       "title": "Nashtar Episode 21 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
       "channel": "Har Pal Geo",
@@ -16,6 +34,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/jfk_2EeP_GQ/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "b2y7Tafo9tk",
+      "title": "France Protests Turn Violent Over Education Reforms and Rising Inflation | Dotok",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T22:30:16Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 118,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/b2y7Tafo9tk/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -12394,42 +12430,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/q0-KSJII4bo/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "MoTSFxRr0Xc",
-      "title": "Hoshyarian Funny Moment #arynews #shorts #comedyshow #funny #entertainment #hoshyarian",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-17",
-      "published": "2026-10-17T23:45:07Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 152,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/MoTSFxRr0Xc/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "_2tLkCx_cDc",
-      "title": "Haroon Rafique Funny Moment #arynews #shorts #comedyshow #funny #entertainment #hoshyarian",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-17",
-      "published": "2026-10-17T23:30:30Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 152,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/_2tLkCx_cDc/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     }
   ],
