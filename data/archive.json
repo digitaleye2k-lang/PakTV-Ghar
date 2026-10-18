@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T22:34:57.939653+00:00",
+  "generatedAt": "2026-10-18T22:40:34.106448+00:00",
   "dateTimezone": "UTC",
-  "cursor": 40,
+  "cursor": 52,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -42,49 +42,49 @@
       "uploadsId": "UUQexaAjPn3-1MCE4DmBK3Tg",
       "handle": "villagefoodsecrets",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T21:59:33.509666+00:00"
+      "lastFetchedAt": "2026-10-18T22:40:34.106448+00:00"
     },
     "geohasna": {
       "youtubeId": "UC6HQ4d3xq9EgSeJgMhc-4AQ",
       "uploadsId": "UU6HQ4d3xq9EgSeJgMhc-4AQ",
       "handle": "GeoHasnaManaHai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T21:59:33.509666+00:00"
+      "lastFetchedAt": "2026-10-18T22:40:34.106448+00:00"
     },
     "streetfoodpk": {
       "youtubeId": "UCt8NJjYKc2aT3T0TnbcWxSw",
       "uploadsId": "UUt8NJjYKc2aT3T0TnbcWxSw",
       "handle": "streetfoodpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T21:59:33.509666+00:00"
+      "lastFetchedAt": "2026-10-18T22:40:34.106448+00:00"
     },
     "hum": {
       "youtubeId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
       "uploadsId": "UUEeEQxm6qc_qaTE7qTV5aLQ",
       "handle": "HUMTV",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T21:59:33.509666+00:00"
+      "lastFetchedAt": "2026-10-18T22:40:34.106448+00:00"
     },
     "arydigital": {
       "youtubeId": "UC4JCksJF76g_MdzPVBJoC3Q",
       "uploadsId": "UU4JCksJF76g_MdzPVBJoC3Q",
       "handle": "ARYDigitalasia",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T22:06:50.535624+00:00"
+      "lastFetchedAt": "2026-10-18T22:40:34.106448+00:00"
     },
     "sabir": {
       "youtubeId": "UCY7eFg5TEMsk_aTqM0pVB4w",
       "uploadsId": "UUY7eFg5TEMsk_aTqM0pVB4w",
       "handle": "sabirshakirpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T22:06:50.535624+00:00"
+      "lastFetchedAt": "2026-10-18T22:40:34.106448+00:00"
     },
     "harpalgeo": {
       "youtubeId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
       "uploadsId": "UUe9JSDmyqNgA_l2BzGHq1Ug",
       "handle": "HarPalGeoOfficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T22:06:50.535624+00:00"
+      "lastFetchedAt": "2026-10-18T22:40:34.106448+00:00"
     },
     "foodfusion": {
       "youtubeId": "UCuqBZWK9Wrol_4Y22DzisFQ",
@@ -196,21 +196,21 @@
       "uploadsId": "UUF2ltLX1dnPa6-L1paPaMzw",
       "handle": "GreenEntertainmentTV",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T22:06:50.535624+00:00"
+      "lastFetchedAt": "2026-10-18T22:40:34.106448+00:00"
     },
     "ptvhome": {
       "youtubeId": "UCMfwlaPLGMn44BKvHv15yzA",
       "uploadsId": "UUMfwlaPLGMn44BKvHv15yzA",
       "handle": "PTVHomeEntertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T22:06:50.535624+00:00"
+      "lastFetchedAt": "2026-10-18T22:40:34.106448+00:00"
     },
     "expressent": {
       "youtubeId": "UCU1r97baEf3JJI5fY6NtMpA",
       "uploadsId": "UUU1r97baEf3JJI5fY6NtMpA",
       "handle": "expressentertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T22:06:50.535624+00:00"
+      "lastFetchedAt": "2026-10-18T22:40:34.106448+00:00"
     },
     "ptvnews": {
       "youtubeId": "UC5RvV_LtR1dxPCVFGw6dxXA",
@@ -439,6 +439,24 @@
   },
   "videos": [
     {
+      "id": "jfk_2EeP_GQ",
+      "title": "Nashtar Episode 21 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+      "channel": "Har Pal Geo",
+      "channelId": "harpalgeo",
+      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T22:30:36Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 541,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/jfk_2EeP_GQ/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "xbKU9gcxInA",
       "title": "Hoshyarian Funny Moment #hoshyarian #haroonrafique #saleemalbela #gogapasroori #shorts",
       "channel": "ARY News",
@@ -472,6 +490,42 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/dDjsmGw13PE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "MQDjCb6fQKI",
+      "title": "Majboori Ne Sab Kuch Karwa Diya 😢💔 || Bano || Har Pal Geo",
+      "channel": "Har Pal Geo",
+      "channelId": "harpalgeo",
+      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T22:15:13Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 244,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/MQDjCb6fQKI/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "aoqdr86blJU",
+      "title": "Boss Ne Aisa Kya Kaha Ke Bure Sapne Nahi Aaye...? Mohabbat Mukhtasir - ft. Madiha Imam - HUM TV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T22:15:09Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 374,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/aoqdr86blJU/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -36889,24 +36943,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "Ay9FVUjByJw",
-      "title": "Meri Jaan Ke Bagair Mera Dil Nahi Lagega..! 🥺💔 #Gulbahar #SanamSaeed #EmmadIrfani",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T18:55:04Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 205,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/Ay9FVUjByJw/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "0oyS7sQCuJQ",
       "title": "What Makes India's Gen Z Angry All The Time?| Dawn News",
       "channel": "Dawn News",
@@ -41857,24 +41893,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "DxxI0oVSyPs",
-      "title": "Shadi Ke Din Dulhan Behosh Hogayi 😭 || Uswah || Har Pal Geo",
-      "channel": "Har Pal Geo",
-      "channelId": "harpalgeo",
-      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T06:45:32Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 224,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/DxxI0oVSyPs/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "Sy-LrWvW1fg",
       "title": "Nighat Ke Liye Nojawan Larka Tou Ayega Nahi | Humayoun Ashraf - Sumaiyya Bukhsh | Madaar | Green TV",
       "channel": "Green Entertainment",
@@ -41962,24 +41980,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/E7-jaerye3E/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "_dJS47xm3Ug",
-      "title": "Bano Episode 02 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-      "channel": "Har Pal Geo",
-      "channelId": "harpalgeo",
-      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T06:30:00Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 547,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/_dJS47xm3Ug/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79639,6 +79639,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "",
+  "lastError": "Dunya News: HTTP 404: playlistNotFound; Imran Riaz Khan: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
