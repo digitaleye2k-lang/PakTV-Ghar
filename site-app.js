@@ -140,6 +140,7 @@ const NAV = [
  {id:'comedy',icon:'😄',en:'Comedy & Satire',ur:'مزاح'},
  {id:'news',icon:'📡',en:'News',ur:'خبریں'},
  {id:'sports',icon:'🏏',en:'Sports',ur:'کھیل'},
+ {id:'music',icon:'🎵',en:'Music & DJ',ur:'موسیقی',href:'./music.html'},
  {id:'kids',icon:'🌈',en:'Kids',ur:'بچے',href:'./kids.html'},
  {id:'games',icon:'🎮',en:'Games',ur:'گیمز',href:'https://retroworld.eu.cc/',external:true}, 
  {id:'talk',icon:'🎙️',en:'Talk Shows',ur:'ٹاک شوز'},
@@ -214,6 +215,13 @@ function spotlightChoices(){
     subtitle:networkName[drama.network]||'Official broadcaster',label:'TV SHOW SPOTLIGHT',
     description:'Browse drama episodes, official broadcaster sources and viewer ratings.',
     kind:'show',id:drama.id,href:routeURL('dramas'),action:'Explore this show →'});
+  const latestMusic=catVideos('music').find(v=>/^[A-Za-z0-9_-]{11}$/.test(v.id||''));
+  out.push({name:'Pakistani Music · DJ Lounge',
+    poster:latestMusic?thumb(latestMusic.id):'./assets/music-decks.svg',
+    subtitle:'Qawwali · Ghazal · Rap · Jazz · Pop',
+    label:'NEW MUSIC & DJ PLAYLISTS',
+    description:'Discover Pakistani classics, soulful qawwali, pop, indie, jazz fusion and Urdu rap, with DJ-style music sets.',
+    href:'./music.html',action:'Enter the Music Lounge 🎧'});
   out.push(
     {name:'GUPSHUP · Chai, chat & community',poster:'./assets/gupshup-chai-main.jpg',
       subtitle:'Friends · chai · conversations',label:'DISCOVER GUPSHUP',
@@ -518,7 +526,7 @@ function renderMovies(){
     '<p>Enjoy full-length films and movie-length television stories shared on their publisher’s YouTube channels. No subscriptions from PakTV Ghar.</p>'+
     '<div class="movie-feature-tags"><span>Free-to-view on YouTube</span><span>Full-length titles</span><span>Original uploads</span></div>'+
     '<div class="movie-feature-actions"><button class="btn-primary" type="button" data-video="'+FEATURED_MOVIE.id+'">▶ Watch featured film</button>'+
-    '<a class="btn-secondary" href="https://www.youtube.com/channel/UC2PYniNHljOED9xNaMpiMiQ/videos" target="_blank" rel="noopener noreferrer">↗ ARY Films on YouTube</a></div>'+
+    '<a class="btn-secondary" href="#classic-movies">Explore classics ↓</a></div>'+
     '</div><div class="movie-headline-controls" role="group" aria-label="Featured movie images">'+
     '<button type="button" data-movie-slide="previous" aria-label="Previous movie image">‹</button>'+
     '<button type="button" data-movie-slide="0" aria-label="Movie image one" aria-pressed="true">1</button>'+
@@ -526,21 +534,19 @@ function renderMovies(){
     '<button type="button" data-movie-slide="2" aria-label="Movie image three" aria-pressed="false">3</button>'+
     '<button type="button" data-movie-slide="next" aria-label="Next movie image">›</button></div></div>'+
     '<section class="pgh-featured-rating movie-featured-rating" aria-label="Rate the featured film"><h2>⭐ Rate our featured film</h2>'+rateAnchor('movie',FEATURED_MOVIE.id)+'</section>'+
-    '<div class="movie-info-strip"><span>🎬 Film and television movie editions</span><span>🔗 Videos stay on YouTube</span><span>🌍 Country availability may vary</span></div>'+
-    cinemaHeading('Classic Pakistani Movies','Search tag: classic Pakistani movies · full-length, publisher-uploaded Lollywood cinema.')+
-    '<div class="classic-movie-search"><span>🎞️ Vintage Urdu and Punjabi cinema</span>'+
-    '<a href="https://www.youtube.com/results?search_query=classic%20pakistani%20movies" target="_blank" rel="noopener noreferrer">Search “classic Pakistani movies” on YouTube ↗</a></div>'+
+    '<div class="movie-info-strip"><span>🎬 Full Pakistani movies & classics</span><span>🔄 Automatic new uploads</span><span>🌍 Country availability may vary</span></div>'+
+    '<div id="classic-movies">'+cinemaHeading('Classic Pakistani Movies','Vintage Urdu and Punjabi cinema, automatically added from indexed full-length publisher uploads.')+'</div>'+
+    '<div class="classic-movie-search"><span>🎞️ Vintage Urdu and Punjabi cinema · automatically refreshed</span></div>'+
     (classicResults.length?'<div class="movie-grid classic-movie-grid">'+classicResults.slice(0,18).map(videoCard).join('')+'</div>':
       '<div class="notice-box">New classic-film publishers are being indexed. You can browse original sources below while the full-length catalogue grows.</div>')+
-    '<div class="classic-publisher-links"><a href="https://www.youtube.com/channel/UCMlGWm_woMhMcVYhJu8zsvA/videos" target="_blank" rel="noopener noreferrer">↗ LollywoodCinema official uploads</a>'+
-    '<a href="https://www.youtube.com/@movieboxmovies/videos" target="_blank" rel="noopener noreferrer">↗ MovieboxMovies uploads</a></div>'+
-    cinemaHeading('Full movies on YouTube','Checked full-length uploads from film publisher channels. New titles are indexed over time.','archive','Video archive →')+
+    '<p class="classic-movie-refresh">🎬 New full-length classics appear here as verified publishers are indexed.</p>'+
+    cinemaHeading('Full Pakistani movies','Publisher-verified full films and movie-length editions, discovered and updated automatically.','archive','Video archive →')+
     '<label class="movie-search-label" for="movieSearch">Find a movie <input type="search" id="movieSearch" value="'+escapeHTML(state.movieSearch)+
     '" placeholder="Search title or film channel" autocomplete="off"></label>'+
     '<div class="movie-count">'+candidates.length+' film'+(candidates.length===1?'':'s')+
     ' available in this directory. Some film-length uploads are edited editions of TV serials, not cinema releases.</div>'+
     (movieCards.length?'<div class="movie-grid">'+movieCards.map(videoCard).join('')+'</div>':
-      '<div class="empty-state"><h3>No films match that title yet</h3><p>Try another name or browse the publisher channels below.</p></div>')+
+      '<div class="empty-state"><h3>No films match that title yet</h3><p>New films are fetched automatically. You can try another title or check back after the next update.</p></div>')+
     (candidates.length>state.visibleVideos?'<div class="load-more"><button class="btn-secondary" type="button" data-video-more>Show more movies ↓</button></div>':'')+
     cinemaHeading('Explore Pakistani film channels','Publisher-uploaded films, specials and classic titles.')+
     '<div class="channel-grid movie-channels">'+movieChannels.map(channelCard).join('')+'</div>'+
