@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T15:18:28.869544+00:00",
+  "generatedAt": "2026-10-18T15:20:22.280666+00:00",
   "dateTimezone": "UTC",
-  "cursor": 30,
+  "cursor": 42,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -133,63 +133,63 @@
       "uploadsId": "UUI9tIvSPsdxNEICjZk7ujUA",
       "handle": "p4pakaoofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T14:58:13.015442+00:00"
+      "lastFetchedAt": "2026-10-18T15:20:22.280666+00:00"
     },
     "dawnnews": {
       "youtubeId": "UCaxR-D8FjZ-2otbU0_Y2grg",
       "uploadsId": "UUaxR-D8FjZ-2otbU0_Y2grg",
       "handle": "dawnnewspakistan",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T14:58:13.015442+00:00"
+      "lastFetchedAt": "2026-10-18T15:20:22.280666+00:00"
     },
     "irfanjunejo": {
       "youtubeId": "UCUuDUW0Y6IQZYDvH1QQBsgA",
       "uploadsId": "UUUuDUW0Y6IQZYDvH1QQBsgA",
       "handle": "irfanjunejo",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T14:58:13.015442+00:00"
+      "lastFetchedAt": "2026-10-18T15:20:22.280666+00:00"
     },
     "kunfoods": {
       "youtubeId": "UCJEGvNxXunjqrcd2Xg9ntMQ",
       "uploadsId": "UUJEGvNxXunjqrcd2Xg9ntMQ",
       "handle": "KunFoods",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T14:58:13.015442+00:00"
+      "lastFetchedAt": "2026-10-18T15:20:22.280666+00:00"
     },
     "kitchenamna": {
       "youtubeId": "UCQ2P7C8UGoVM6AhqsVx-M0Q",
       "uploadsId": "UUQ2P7C8UGoVM6AhqsVx-M0Q",
       "handle": "KitchenWithAmna",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T14:58:13.015442+00:00"
+      "lastFetchedAt": "2026-10-18T15:20:22.280666+00:00"
     },
     "geoclassics": {
       "youtubeId": "UCLUfX9--VscMEKnIE6thhbg",
       "uploadsId": "UULUfX9--VscMEKnIE6thhbg",
       "handle": "GeoNewsClassics",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T14:59:09.034062+00:00"
+      "lastFetchedAt": "2026-10-18T15:20:22.280666+00:00"
     },
     "wildlens": {
       "youtubeId": "UCf1XIplYiqNv9baGsFHwPPQ",
       "uploadsId": "UUf1XIplYiqNv9baGsFHwPPQ",
       "handle": "WildLensByAbrar",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T14:59:09.034062+00:00"
+      "lastFetchedAt": "2026-10-18T15:20:22.280666+00:00"
     },
     "ruby": {
       "youtubeId": "UCMhx-uS3O-G_6_lTrYmDKLw",
       "uploadsId": "UUMhx-uS3O-G_6_lTrYmDKLw",
       "handle": "RubyKaKitchen",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T14:59:09.034062+00:00"
+      "lastFetchedAt": "2026-10-18T15:20:22.280666+00:00"
     },
     "ijazfood": {
       "youtubeId": "UCc1BSASBDsE_XYOTxD9SNmA",
       "uploadsId": "UUc1BSASBDsE_XYOTxD9SNmA",
       "handle": "IjazAnsariFoodSecrets",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T14:59:09.034062+00:00"
+      "lastFetchedAt": "2026-10-18T15:20:22.280666+00:00"
     },
     "greentv": {
       "youtubeId": "UCF2ltLX1dnPa6-L1paPaMzw",
@@ -272,6 +272,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/I0c5qwBNXEk/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "AjdBNmuzMS8",
+      "title": "I Finally Saw This Unreal Place in Guatemala 🇬🇹 S9 EP 99 | Lago Atitlan | Pakistan to Americas",
+      "channel": "WildLens by Abrar",
+      "channelId": "wildlens",
+      "youtubeChannelId": "UCf1XIplYiqNv9baGsFHwPPQ",
+      "category": "vloggers",
+      "genre": "Travel & lifestyle",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:02:21Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2195,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/AjdBNmuzMS8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79437,26 +79455,8 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/ijTvHcaVJuY/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "HDfEPIyikzs",
-      "title": "I’ve Never Seen a Landscape Like This🇺🇸 S9 EP 27 | Yellowstone and Grand Teton |Pakistan to Americas",
-      "channel": "WildLens by Abrar",
-      "channelId": "wildlens",
-      "youtubeChannelId": "UCf1XIplYiqNv9baGsFHwPPQ",
-      "category": "vloggers",
-      "genre": "Travel & lifestyle",
-      "date": "2025-12-30",
-      "published": "2025-12-30T16:02:54Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 1962,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/HDfEPIyikzs/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Junaid Akram: channel unavailable; Express News: channel unavailable",
+  "lastError": "Asad Toor: channel unavailable; Siddique Jaan: channel unavailable; HUM TV Comedy: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
