@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T22:08:07.453458+00:00",
+  "generatedAt": "2026-10-18T22:13:52.818839+00:00",
   "dateTimezone": "UTC",
-  "cursor": 69,
+  "cursor": 4,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -161,35 +161,35 @@
       "uploadsId": "UUQ2P7C8UGoVM6AhqsVx-M0Q",
       "handle": "KitchenWithAmna",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
+      "lastFetchedAt": "2026-10-18T22:13:52.818839+00:00"
     },
     "geoclassics": {
       "youtubeId": "UCLUfX9--VscMEKnIE6thhbg",
       "uploadsId": "UULUfX9--VscMEKnIE6thhbg",
       "handle": "GeoNewsClassics",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
+      "lastFetchedAt": "2026-10-18T22:13:52.818839+00:00"
     },
     "wildlens": {
       "youtubeId": "UCf1XIplYiqNv9baGsFHwPPQ",
       "uploadsId": "UUf1XIplYiqNv9baGsFHwPPQ",
       "handle": "WildLensByAbrar",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
+      "lastFetchedAt": "2026-10-18T22:13:52.818839+00:00"
     },
     "ruby": {
       "youtubeId": "UCMhx-uS3O-G_6_lTrYmDKLw",
       "uploadsId": "UUMhx-uS3O-G_6_lTrYmDKLw",
       "handle": "RubyKaKitchen",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
+      "lastFetchedAt": "2026-10-18T22:13:52.818839+00:00"
     },
     "ijazfood": {
       "youtubeId": "UCc1BSASBDsE_XYOTxD9SNmA",
       "uploadsId": "UUc1BSASBDsE_XYOTxD9SNmA",
       "handle": "IjazAnsariFoodSecrets",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T21:44:47.440929+00:00"
+      "lastFetchedAt": "2026-10-18T22:13:52.818839+00:00"
     },
     "greentv": {
       "youtubeId": "UCF2ltLX1dnPa6-L1paPaMzw",
@@ -371,21 +371,21 @@
       "uploadsId": "UUM1VesJtJ9vTXcMLLr_FfdQ",
       "handle": "cokestudio",
       "checkedAt": "2026-10-18T19:46:24.753696+00:00",
-      "lastFetchedAt": "2026-10-18T21:44:47.440929+00:00"
+      "lastFetchedAt": "2026-10-18T22:13:52.818839+00:00"
     },
     "emipakistan": {
       "youtubeId": "UC52h_LCatoUs6ycLjT9V8bQ",
       "uploadsId": "UU52h_LCatoUs6ycLjT9V8bQ",
       "handle": "EMIPakistanOfficial",
       "checkedAt": "2026-10-18T20:11:10.576823+00:00",
-      "lastFetchedAt": "2026-10-18T21:44:47.440929+00:00"
+      "lastFetchedAt": "2026-10-18T22:13:52.818839+00:00"
     },
     "talhaanjum": {
       "youtubeId": "UCaHBioELm9IzGYhg70Z1BKg",
       "uploadsId": "UUaHBioELm9IzGYhg70Z1BKg",
       "handle": "talhaanjum",
       "checkedAt": "2026-10-18T19:46:24.753696+00:00",
-      "lastFetchedAt": "2026-10-18T21:44:47.440929+00:00"
+      "lastFetchedAt": "2026-10-18T22:13:52.818839+00:00"
     },
     "youngstunners": {
       "youtubeId": "UCaHpJ-SkCR604NNBnjM9thQ",
@@ -75849,6 +75849,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "LgVZMPPmDbE",
+      "title": "Ghar Par Banaye Halwai Jaisa Danedaar Mohan Thal Halwa - RKK",
+      "channel": "Ruby Ka Kitchen",
+      "channelId": "ruby",
+      "youtubeChannelId": "UCMhx-uS3O-G_6_lTrYmDKLw",
+      "category": "vloggers",
+      "genre": "Food & recipes",
+      "date": "2026-08-08",
+      "published": "2026-08-08T09:15:13Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 664,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/LgVZMPPmDbE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "5v89kxArsK4",
       "title": "Lunchbox Chicken Macaroni Back-to-School Recipe by Food Fusion",
       "channel": "Food Fusion",
@@ -75864,24 +75882,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/5v89kxArsK4/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "gq3S_0BFsz4",
-      "title": "King England Mein Karlega? SL Kya India Per Bhari Parega ?",
-      "channel": "Wasay Habib",
-      "channelId": "wasay",
-      "youtubeChannelId": "UCs2-8ztgdlRqpbpHvfFFPFQ",
-      "category": "sports",
-      "genre": "Sports analysis & creators",
-      "date": "2026-08-07",
-      "published": "2026-08-07T19:30:13Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 3656,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": false,
-      "thumbnail": "https://i.ytimg.com/vi/gq3S_0BFsz4/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79611,6 +79611,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Junaid Akram: channel unavailable; Express News: channel unavailable; Asad Toor: channel unavailable",
+  "lastError": "Siddique Jaan: channel unavailable; HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable; NESCAFÉ Basement: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
