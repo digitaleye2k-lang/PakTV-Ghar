@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T16:18:48.544947+00:00",
+  "generatedAt": "2026-10-18T16:20:25.113688+00:00",
   "dateTimezone": "UTC",
-  "cursor": 26,
+  "cursor": 38,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -84,28 +84,28 @@
       "uploadsId": "UUe9JSDmyqNgA_l2BzGHq1Ug",
       "handle": "HarPalGeoOfficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T16:08:02.675213+00:00"
+      "lastFetchedAt": "2026-10-18T16:20:25.113688+00:00"
     },
     "foodfusion": {
       "youtubeId": "UCuqBZWK9Wrol_4Y22DzisFQ",
       "uploadsId": "UUuqBZWK9Wrol_4Y22DzisFQ",
       "handle": "FoodfusionPk",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T16:11:27.959818+00:00"
+      "lastFetchedAt": "2026-10-18T16:20:25.113688+00:00"
     },
     "samaa": {
       "youtubeId": "UCJekW1Vj5fCVEGdye_mBN6Q",
       "uploadsId": "UUJekW1Vj5fCVEGdye_mBN6Q",
       "handle": "SAMAATV",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T16:11:27.959818+00:00"
+      "lastFetchedAt": "2026-10-18T16:20:25.113688+00:00"
     },
     "hasbehaal": {
       "youtubeId": "UCyiJNpF7RgpPhyeKc4wnQkg",
       "uploadsId": "UUyiJNpF7RgpPhyeKc4wnQkg",
       "handle": "hasbehaalofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T16:11:27.959818+00:00"
+      "lastFetchedAt": "2026-10-18T16:20:25.113688+00:00"
     },
     "pakexperience": {
       "youtubeId": "UC44l9XMwecN5nSgIF2Dvivg",
@@ -196,49 +196,49 @@
       "uploadsId": "UUF2ltLX1dnPa6-L1paPaMzw",
       "handle": "GreenEntertainmentTV",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T16:08:02.675213+00:00"
+      "lastFetchedAt": "2026-10-18T16:20:25.113688+00:00"
     },
     "ptvhome": {
       "youtubeId": "UCMfwlaPLGMn44BKvHv15yzA",
       "uploadsId": "UUMfwlaPLGMn44BKvHv15yzA",
       "handle": "PTVHomeEntertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T16:08:02.675213+00:00"
+      "lastFetchedAt": "2026-10-18T16:20:25.113688+00:00"
     },
     "expressent": {
       "youtubeId": "UCU1r97baEf3JJI5fY6NtMpA",
       "uploadsId": "UUU1r97baEf3JJI5fY6NtMpA",
       "handle": "expressentertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T16:08:02.675213+00:00"
+      "lastFetchedAt": "2026-10-18T16:20:25.113688+00:00"
     },
     "ptvnews": {
       "youtubeId": "UC5RvV_LtR1dxPCVFGw6dxXA",
       "uploadsId": "UU5RvV_LtR1dxPCVFGw6dxXA",
       "handle": "PTVNewsOfficial",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T16:08:02.675213+00:00"
+      "lastFetchedAt": "2026-10-18T16:20:25.113688+00:00"
     },
     "aajnews": {
       "youtubeId": "UCgBAPAcLsh_MAPvJprIz89w",
       "uploadsId": "UUgBAPAcLsh_MAPvJprIz89w",
       "handle": "aajtvofficial",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T16:08:02.675213+00:00"
+      "lastFetchedAt": "2026-10-18T16:20:25.113688+00:00"
     },
     "aajent": {
       "youtubeId": "UC2m98kh188cg_9x248IZM9A",
       "uploadsId": "UU2m98kh188cg_9x248IZM9A",
       "handle": "aajentertainment",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T16:08:02.675213+00:00"
+      "lastFetchedAt": "2026-10-18T16:20:25.113688+00:00"
     },
     "mooroo": {
       "youtubeId": "UC-rP-oFlxQGpSLYHBlhIWkg",
       "uploadsId": "UU-rP-oFlxQGpSLYHBlhIWkg",
       "handle": "mooroosicity",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T16:11:27.959818+00:00"
+      "lastFetchedAt": "2026-10-18T16:20:25.113688+00:00"
     },
     "aryfilms": {
       "youtubeId": "UC2PYniNHljOED9xNaMpiMiQ",
@@ -340,6 +340,60 @@
     }
   },
   "videos": [
+    {
+      "id": "zsiawZBExX0",
+      "title": "Mujhe Apse Ek Zaruri Baat Karni Hai | Hiba Aziz - Danial Afzal - Areej Mohyudin | Dastoor | Green TV",
+      "channel": "Green Entertainment",
+      "channelId": "greentv",
+      "youtubeChannelId": "UCF2ltLX1dnPa6-L1paPaMzw",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:15:12Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 98,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/zsiawZBExX0/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "Hj8dOQCRjwg",
+      "title": "Why Is Pakistan’s Cotton Industry Facing a Crisis? | AAJ EXCLUSIVE",
+      "channel": "Aaj TV Official",
+      "channelId": "aajnews",
+      "youtubeChannelId": "UCgBAPAcLsh_MAPvJprIz89w",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:13:43Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 616,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Hj8dOQCRjwg/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "TDTz0uI20sU",
+      "title": "Can Hybrid Seeds Reduce Farming Costs and Boost Pakistan’s Exports? | AAJ EXCLUSIVE",
+      "channel": "Aaj TV Official",
+      "channelId": "aajnews",
+      "youtubeChannelId": "UCgBAPAcLsh_MAPvJprIz89w",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:10:18Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 598,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/TDTz0uI20sU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
     {
       "id": "0BUewnGhJbM",
       "title": "Assistant Ke Naam Par Nokarani Bana Di Bechari Ko! 😂 Mohabbat Mukhtasir - ft. Madiha Imam - HUM TV",
@@ -44351,24 +44405,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "8a89hRNx278",
-      "title": "Bahu Ke Khilaaf Pehli Chaal Chal Di Gayi | Hiba Aziz - Danial Afzal | Dastoor | Green TV",
-      "channel": "Green Entertainment",
-      "channelId": "greentv",
-      "youtubeChannelId": "UCF2ltLX1dnPa6-L1paPaMzw",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-14",
-      "published": "2026-10-14T10:15:36Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 236,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/8a89hRNx278/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "UrKg1fyuhzw",
       "title": "Tragedies Behind Closed Doors in Karachi Raise Serious Questions for Society - Aaj News",
       "channel": "Aaj TV Official",
@@ -45734,42 +45770,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/8-Meb8HnNUU/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "iY-uJXGLZ_M",
-      "title": "Nawab of Bahawalpur | House Theft Case | 6 Suspects Arrested | Islamabad Police - Aaj News",
-      "channel": "Aaj TV Official",
-      "channelId": "aajnews",
-      "youtubeChannelId": "UCgBAPAcLsh_MAPvJprIz89w",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-13",
-      "published": "2026-10-13T19:16:30Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 238,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/iY-uJXGLZ_M/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "NzVDdwrpAto",
-      "title": "KP Emergency | Sohail Afridi will be Disqualified | Latest Update | 12AM HEADLINES 14 Oct 2026",
-      "channel": "Aaj TV Official",
-      "channelId": "aajnews",
-      "youtubeChannelId": "UCgBAPAcLsh_MAPvJprIz89w",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-13",
-      "published": "2026-10-13T19:13:35Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 821,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/NzVDdwrpAto/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79541,6 +79541,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Dunya News: HTTP 404: playlistNotFound; Imran Riaz Khan: channel unavailable",
+  "lastError": "Junaid Akram: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
