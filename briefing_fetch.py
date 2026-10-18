@@ -52,12 +52,19 @@ def recent_utc(value, age_hours):
         return False
 
 
-def headlines(kind):
-    url = ("https://news.google.com/rss/search?" +
-           urlencode({"q": "Pakistan when:1d", "hl": "en-PK", "gl": "PK", "ceid": "PK:en"})
-           if kind == "pakistan" else
-           "https://news.google.com/rss?" +
-           urlencode({"hl": "en-US", "gl": "US", "ceid": "US:en"}))
+def headlines(kind, language="en"):
+    """Publisher headlines in selected language. Never claim machine translation."""
+    if language not in ("en", "ur"):
+        raise ValueError("Unsupported news language")
+    params = ({"hl": "ur", "gl": "PK", "ceid": "PK:ur"} if language == "ur"
+              else {"hl": "en-PK", "gl": "PK", "ceid": "PK:en"} if kind == "pakistan"
+              else {"hl": "en-US", "gl": "US", "ceid": "US:en"})
+    if kind == "pakistan":
+        params["q"] = "پاکستان when:1d" if language == "ur" else "Pakistan when:1d"
+    elif language == "ur":
+        params["q"] = "دنیا عالمی خبریں when:1d"
+    url = ("https://news.google.com/rss/search?" if "q" in params
+           else "https://news.google.com/rss?") + urlencode(params)
     root = ET.fromstring(request(url))
     items, seen = [], set()
     for entry in root.findall(".//channel/item"):
@@ -76,7 +83,7 @@ def headlines(kind):
         if not source and " - " in title:
             title, source = title.rsplit(" - ", 1)
         title = title[:210]
-        normalized = re.sub(r"[^a-z0-9]", "", title.lower())[:85]
+        normalized = "".join(ch.lower() for ch in title if ch.isalnum())[:85]
         if not normalized or normalized in seen:
             continue
         seen.add(normalized)
@@ -166,20 +173,24 @@ def fallback(old, path, max_hours):
 def main():
     old = old_data()
     news = {}
-    for kind in ("pakistan", "world"):
-        try:
-            news[kind] = headlines(kind)
-            print("News", kind, len(news[kind]["items"]), "articles")
-            if not news[kind]["items"]:
-                news[kind] = fallback((old.get("news") or {}), kind, 36)
-        except Exception as exc:
-            print("News source unavailable", kind, type(exc).__name__)
-            news[kind] = fallback((old.get("news") or {}), kind, 36)
-    output = {"generatedAt": stamp(NOW), "news": news}
-    for key, getter, age in (("weather", weather, 12), ("markets", markets, 168)):
+    urdu_news = {}
+    for language, target, key in (("en", news, "news"), ("ur", urdu_news, "newsUrdu")):
+        for kind in ("pakistan", "world"):
+            try:
+                target[kind] = headlines(kind, language)
+                print("News", language, kind, len(target[kind]["items"]), "articles")
+                if not target[kind]["items"]:
+                    target[kind] = fallback((old.get(key) or {}), kind, 36)
+            except Exception as exc:
+                print("News source unavailable", language, kind, type(exc).__name__)
+                target[kind] = fallback((old.get(key) or {}), kind, 36)
+    output = {"generatedAt": stamp(NOW), "news": news, "newsUrdu": urdu_news}
+    from sports_scores import pakistan_cricket_scores
+    for key, getter, age in (("weather", weather, 12), ("markets", markets, 168),
+                              ("sports", pakistan_cricket_scores, 8)):
         try:
             output[key] = getter()
-            print(key, "items", len(output[key].get("cities", output[key].get("quotes", []))))
+            print(key, "items", len(output[key].get("cities", output[key].get("quotes", output[key].get("matches", [])))))
         except Exception as exc:
             print(key, "unavailable", type(exc).__name__)
             output[key] = fallback(old, key, age)
