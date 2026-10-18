@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T19:32:39.864447+00:00",
+  "generatedAt": "2026-10-18T19:34:16.447487+00:00",
   "dateTimezone": "UTC",
-  "cursor": 27,
+  "cursor": 39,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -70,35 +70,35 @@
       "uploadsId": "UU4JCksJF76g_MdzPVBJoC3Q",
       "handle": "ARYDigitalasia",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T19:16:00.197977+00:00"
+      "lastFetchedAt": "2026-10-18T19:34:16.447487+00:00"
     },
     "sabir": {
       "youtubeId": "UCY7eFg5TEMsk_aTqM0pVB4w",
       "uploadsId": "UUY7eFg5TEMsk_aTqM0pVB4w",
       "handle": "sabirshakirpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T19:16:00.197977+00:00"
+      "lastFetchedAt": "2026-10-18T19:34:16.447487+00:00"
     },
     "harpalgeo": {
       "youtubeId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
       "uploadsId": "UUe9JSDmyqNgA_l2BzGHq1Ug",
       "handle": "HarPalGeoOfficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T19:16:00.197977+00:00"
+      "lastFetchedAt": "2026-10-18T19:34:16.447487+00:00"
     },
     "foodfusion": {
       "youtubeId": "UCuqBZWK9Wrol_4Y22DzisFQ",
       "uploadsId": "UUuqBZWK9Wrol_4Y22DzisFQ",
       "handle": "FoodfusionPk",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T19:16:00.197977+00:00"
+      "lastFetchedAt": "2026-10-18T19:34:16.447487+00:00"
     },
     "samaa": {
       "youtubeId": "UCJekW1Vj5fCVEGdye_mBN6Q",
       "uploadsId": "UUJekW1Vj5fCVEGdye_mBN6Q",
       "handle": "SAMAATV",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T19:19:47.712480+00:00"
+      "lastFetchedAt": "2026-10-18T19:34:16.447487+00:00"
     },
     "hasbehaal": {
       "youtubeId": "UCyiJNpF7RgpPhyeKc4wnQkg",
@@ -196,42 +196,42 @@
       "uploadsId": "UUF2ltLX1dnPa6-L1paPaMzw",
       "handle": "GreenEntertainmentTV",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T19:16:00.197977+00:00"
+      "lastFetchedAt": "2026-10-18T19:34:16.447487+00:00"
     },
     "ptvhome": {
       "youtubeId": "UCMfwlaPLGMn44BKvHv15yzA",
       "uploadsId": "UUMfwlaPLGMn44BKvHv15yzA",
       "handle": "PTVHomeEntertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T19:16:00.197977+00:00"
+      "lastFetchedAt": "2026-10-18T19:34:16.447487+00:00"
     },
     "expressent": {
       "youtubeId": "UCU1r97baEf3JJI5fY6NtMpA",
       "uploadsId": "UUU1r97baEf3JJI5fY6NtMpA",
       "handle": "expressentertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T19:16:00.197977+00:00"
+      "lastFetchedAt": "2026-10-18T19:34:16.447487+00:00"
     },
     "ptvnews": {
       "youtubeId": "UC5RvV_LtR1dxPCVFGw6dxXA",
       "uploadsId": "UU5RvV_LtR1dxPCVFGw6dxXA",
       "handle": "PTVNewsOfficial",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T19:16:00.197977+00:00"
+      "lastFetchedAt": "2026-10-18T19:34:16.447487+00:00"
     },
     "aajnews": {
       "youtubeId": "UCgBAPAcLsh_MAPvJprIz89w",
       "uploadsId": "UUgBAPAcLsh_MAPvJprIz89w",
       "handle": "aajtvofficial",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T19:16:00.197977+00:00"
+      "lastFetchedAt": "2026-10-18T19:34:16.447487+00:00"
     },
     "aajent": {
       "youtubeId": "UC2m98kh188cg_9x248IZM9A",
       "uploadsId": "UU2m98kh188cg_9x248IZM9A",
       "handle": "aajentertainment",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T19:16:00.197977+00:00"
+      "lastFetchedAt": "2026-10-18T19:34:16.447487+00:00"
     },
     "mooroo": {
       "youtubeId": "UC-rP-oFlxQGpSLYHBlhIWkg",
@@ -387,6 +387,96 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "kziRRViL04o",
+      "title": "Emergency in KP | Long March Failed! Rift in PTI? Naeem Haider Panjutha Shares Inside News | Do Tok",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T19:30:40Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 482,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/kziRRViL04o/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "wB8Cmd2IeE0",
+      "title": "Nashtar Episode 21 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+      "channel": "Har Pal Geo",
+      "channelId": "harpalgeo",
+      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T19:30:18Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 518,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/wB8Cmd2IeE0/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "oFuhhj1308I",
+      "title": "Sach Saamne Aate Hi Sab Badal Gaya! 😱| Main Tera | ARY Digital",
+      "channel": "ARY Digital",
+      "channelId": "arydigital",
+      "youtubeChannelId": "UC4JCksJF76g_MdzPVBJoC3Q",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T19:30:03Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 141,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/oFuhhj1308I/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "CNO874ti6-s",
+      "title": "Imran Khan Has Been in Jail for 3 Years Due to the Party’s Wrong Strategy: Shaukat Yousafzai",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T19:28:39Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 137,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/CNO874ti6-s/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "dEqVvAD0Wfk",
+      "title": "Do You Consider Blood of Our Soldiers So Cheap? Tariq Fazal Chaudhry’s Response to Fazlur Rehman",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T19:21:39Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 146,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/dEqVvAD0Wfk/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "1e2A3B1JwpI",
       "title": "Emergency, Governor’s Rule in KP | Shaukat Yousafzai Criticizes PTI Leadership | Samaa TV",
       "channel": "SAMAA TV",
@@ -402,6 +492,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/1e2A3B1JwpI/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "fn0BoYLG-to",
+      "title": "Business Focus Maangta Hai, Reaction Nahin! 😎 || Bano || Har Pal Geo",
+      "channel": "Har Pal Geo",
+      "channelId": "harpalgeo",
+      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T19:15:21Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 172,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/fn0BoYLG-to/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -852,6 +960,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/yKl7SYbKjP8/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "V_if5oZw3V8",
+      "title": "KP Emergency & Governor’s Rule | Maulana Fazlur Rehman Targets PML-N | Kiran Naz | Do Tok",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T18:43:18Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2172,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/V_if5oZw3V8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -1936,7 +2062,7 @@
     },
     {
       "id": "PjUFdNlKKEc",
-      "title": "KP Emergency | Govt PTI  Talk | Everything Was Agreed, Why Did Negotiations Collapse? | Sunday @ 7",
+      "title": "KP Emergency | Govt PTI  Talk | Everything Was Agreed; Why Did Negotiations Collapse? | Sunday @ 7",
       "channel": "SAMAA TV",
       "channelId": "samaa",
       "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
@@ -30609,24 +30735,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "9Re7zO7Y0Eo",
-      "title": "Karachi Steel Town Case | Shocking Updates | Breaking News | SAMAA TV",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T15:30:01Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 281,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/9Re7zO7Y0Eo/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "won_dENj4ng",
       "title": "Why Is Kamran Ghulam Missing from Pakistan’s ODI Squad | A SportsHD",
       "channel": "A Sports",
@@ -30642,24 +30750,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/won_dENj4ng/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "lX3hD7WECUA",
-      "title": "KP Emergency, Governor's Rule Update | PTI Finished? | Hassan Nisar Reacts Strongly | SAMAA TV",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T15:27:20Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 1895,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/lX3hD7WECUA/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -30771,24 +30861,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "nYNIpK9CV_s",
-      "title": "KP Emergency Update | PTI New Moves | Good News for Employees | 08 PM News Headlines | Samaa TV",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T15:12:31Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 576,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/nYNIpK9CV_s/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "LSw7xh5d6UQ",
       "title": "Ammar Aur Khushi Ka Rishta Pakka Ho Gaya..! #khushi #sumaiyyabukhs #HUMTV",
       "channel": "HUM TV",
@@ -30858,24 +30930,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/BPv8e8CyYns/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "3trDX4kCFIQ",
-      "title": "Negotiation Doors Still Open for Opposition – What Is the Condition? Pervez Rasheed Reveals All",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T15:06:04Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 123,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/3trDX4kCFIQ/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -41535,24 +41589,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "GPqpaySML9U",
-      "title": "Woh Mohabbat Hi Kya Jo Lafzon Main Bayan Kardi Jaye | Rutba Episode 1 | Hiba Bukhari | ARY Digital",
-      "channel": "ARY Digital",
-      "channelId": "arydigital",
-      "youtubeChannelId": "UC4JCksJF76g_MdzPVBJoC3Q",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T06:32:19Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 151,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/GPqpaySML9U/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "E7-jaerye3E",
       "title": "Trump Reveals US Navy Operation Against Suspected Spy Boat | 11AM HEADLINES 15 OCT 2026",
       "channel": "Aaj TV Official",
@@ -42039,24 +42075,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "QFp26QF-S7U",
-      "title": "Bano Episode 02 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-      "channel": "Har Pal Geo",
-      "channelId": "harpalgeo",
-      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T04:30:12Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 536,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/QFp26QF-S7U/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "sO7wwwPDYbo",
       "title": "KP Emergency | Article 232 | Governor's Rule Approved | Pakistan Parliament - Aaj News",
       "channel": "Aaj TV Official",
@@ -42090,24 +42108,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/iokJDReBjvI/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "dQow-deD8nc",
-      "title": "Maa Ban Gayi Jawan Bete Ki Dhaal 😔 || Khafa || Har Pal Geo",
-      "channel": "Har Pal Geo",
-      "channelId": "harpalgeo",
-      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T04:15:26Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 265,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/dQow-deD8nc/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79569,6 +79569,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Dunya News: HTTP 404: playlistNotFound",
+  "lastError": "Imran Riaz Khan: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
