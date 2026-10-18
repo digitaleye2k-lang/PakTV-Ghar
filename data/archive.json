@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T21:26:30.939541+00:00",
+  "generatedAt": "2026-10-18T21:47:40.841004+00:00",
   "dateTimezone": "UTC",
-  "cursor": 42,
+  "cursor": 21,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -91,105 +91,105 @@
       "uploadsId": "UUuqBZWK9Wrol_4Y22DzisFQ",
       "handle": "FoodfusionPk",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T20:37:31.061952+00:00"
+      "lastFetchedAt": "2026-10-18T21:35:23.123320+00:00"
     },
     "samaa": {
       "youtubeId": "UCJekW1Vj5fCVEGdye_mBN6Q",
       "uploadsId": "UUJekW1Vj5fCVEGdye_mBN6Q",
       "handle": "SAMAATV",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T20:37:31.061952+00:00"
+      "lastFetchedAt": "2026-10-18T21:35:23.123320+00:00"
     },
     "hasbehaal": {
       "youtubeId": "UCyiJNpF7RgpPhyeKc4wnQkg",
       "uploadsId": "UUyiJNpF7RgpPhyeKc4wnQkg",
       "handle": "hasbehaalofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T20:39:15.240359+00:00"
+      "lastFetchedAt": "2026-10-18T21:35:23.123320+00:00"
     },
     "pakexperience": {
       "youtubeId": "UC44l9XMwecN5nSgIF2Dvivg",
       "uploadsId": "UU44l9XMwecN5nSgIF2Dvivg",
       "handle": "ThePakistanExperience",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T20:39:15.240359+00:00"
+      "lastFetchedAt": "2026-10-18T21:35:23.123320+00:00"
     },
     "maaz": {
       "youtubeId": "UCz0M2pV4jOUUQ88lOd2q08A",
       "uploadsId": "UUz0M2pV4jOUUQ88lOd2q08A",
       "handle": "MaazSafderWorld",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T20:39:15.240359+00:00"
+      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
     },
     "matiullah": {
       "youtubeId": "UC-hJ0cobUiWlBFTHgLwt8sQ",
       "uploadsId": "UU-hJ0cobUiWlBFTHgLwt8sQ",
       "handle": "MatiullahJanMJtv",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T20:39:15.240359+00:00"
+      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
     },
     "p4pakao": {
       "youtubeId": "UCI9tIvSPsdxNEICjZk7ujUA",
       "uploadsId": "UUI9tIvSPsdxNEICjZk7ujUA",
       "handle": "p4pakaoofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T20:39:15.240359+00:00"
+      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
     },
     "dawnnews": {
       "youtubeId": "UCaxR-D8FjZ-2otbU0_Y2grg",
       "uploadsId": "UUaxR-D8FjZ-2otbU0_Y2grg",
       "handle": "dawnnewspakistan",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T20:39:15.240359+00:00"
+      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
     },
     "irfanjunejo": {
       "youtubeId": "UCUuDUW0Y6IQZYDvH1QQBsgA",
       "uploadsId": "UUUuDUW0Y6IQZYDvH1QQBsgA",
       "handle": "irfanjunejo",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T20:39:15.240359+00:00"
+      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
     },
     "kunfoods": {
       "youtubeId": "UCJEGvNxXunjqrcd2Xg9ntMQ",
       "uploadsId": "UUJEGvNxXunjqrcd2Xg9ntMQ",
       "handle": "KunFoods",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T20:39:15.240359+00:00"
+      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
     },
     "kitchenamna": {
       "youtubeId": "UCQ2P7C8UGoVM6AhqsVx-M0Q",
       "uploadsId": "UUQ2P7C8UGoVM6AhqsVx-M0Q",
       "handle": "KitchenWithAmna",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T20:39:15.240359+00:00"
+      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
     },
     "geoclassics": {
       "youtubeId": "UCLUfX9--VscMEKnIE6thhbg",
       "uploadsId": "UULUfX9--VscMEKnIE6thhbg",
       "handle": "GeoNewsClassics",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T21:14:01.402381+00:00"
+      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
     },
     "wildlens": {
       "youtubeId": "UCf1XIplYiqNv9baGsFHwPPQ",
       "uploadsId": "UUf1XIplYiqNv9baGsFHwPPQ",
       "handle": "WildLensByAbrar",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T21:14:01.402381+00:00"
+      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
     },
     "ruby": {
       "youtubeId": "UCMhx-uS3O-G_6_lTrYmDKLw",
       "uploadsId": "UUMhx-uS3O-G_6_lTrYmDKLw",
       "handle": "RubyKaKitchen",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T21:14:01.402381+00:00"
+      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
     },
     "ijazfood": {
       "youtubeId": "UCc1BSASBDsE_XYOTxD9SNmA",
       "uploadsId": "UUc1BSASBDsE_XYOTxD9SNmA",
       "handle": "IjazAnsariFoodSecrets",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T21:14:01.402381+00:00"
+      "lastFetchedAt": "2026-10-18T21:44:47.440929+00:00"
     },
     "greentv": {
       "youtubeId": "UCF2ltLX1dnPa6-L1paPaMzw",
@@ -203,42 +203,42 @@
       "uploadsId": "UUMfwlaPLGMn44BKvHv15yzA",
       "handle": "PTVHomeEntertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T20:37:31.061952+00:00"
+      "lastFetchedAt": "2026-10-18T21:35:23.123320+00:00"
     },
     "expressent": {
       "youtubeId": "UCU1r97baEf3JJI5fY6NtMpA",
       "uploadsId": "UUU1r97baEf3JJI5fY6NtMpA",
       "handle": "expressentertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T20:37:31.061952+00:00"
+      "lastFetchedAt": "2026-10-18T21:35:23.123320+00:00"
     },
     "ptvnews": {
       "youtubeId": "UC5RvV_LtR1dxPCVFGw6dxXA",
       "uploadsId": "UU5RvV_LtR1dxPCVFGw6dxXA",
       "handle": "PTVNewsOfficial",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T20:37:31.061952+00:00"
+      "lastFetchedAt": "2026-10-18T21:35:23.123320+00:00"
     },
     "aajnews": {
       "youtubeId": "UCgBAPAcLsh_MAPvJprIz89w",
       "uploadsId": "UUgBAPAcLsh_MAPvJprIz89w",
       "handle": "aajtvofficial",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T20:37:31.061952+00:00"
+      "lastFetchedAt": "2026-10-18T21:35:23.123320+00:00"
     },
     "aajent": {
       "youtubeId": "UC2m98kh188cg_9x248IZM9A",
       "uploadsId": "UU2m98kh188cg_9x248IZM9A",
       "handle": "aajentertainment",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T20:37:31.061952+00:00"
+      "lastFetchedAt": "2026-10-18T21:35:23.123320+00:00"
     },
     "mooroo": {
       "youtubeId": "UC-rP-oFlxQGpSLYHBlhIWkg",
       "uploadsId": "UU-rP-oFlxQGpSLYHBlhIWkg",
       "handle": "mooroosicity",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T20:37:31.061952+00:00"
+      "lastFetchedAt": "2026-10-18T21:35:23.123320+00:00"
     },
     "aryfilms": {
       "youtubeId": "UC2PYniNHljOED9xNaMpiMiQ",
@@ -259,28 +259,28 @@
       "uploadsId": "UUiWrjBhlICf_L_RK5y6Vrxw",
       "handle": "PakistanCricket",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T21:15:27.828632+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     },
     "psl": {
       "youtubeId": "UCpNzXJ5jpcJojC5mHQvGA8w",
       "uploadsId": "UUpNzXJ5jpcJojC5mHQvGA8w",
       "handle": "pakistansuperleagueofficial",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T21:20:03.775651+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     },
     "asports": {
       "youtubeId": "UCCLdGxMC4fwkaQ4AIcL7Z8w",
       "uploadsId": "UUCLdGxMC4fwkaQ4AIcL7Z8w",
       "handle": "asportspk",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T21:20:03.775651+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     },
     "ptvsports": {
       "youtubeId": "UCnoH_iEE4tgVznLT97Kb7ig",
       "uploadsId": "UUnoH_iEE4tgVznLT97Kb7ig",
       "handle": "ptvsportsofficialpk",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T21:20:03.775651+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     },
     "cricketpk": {
       "youtubeId": "UCI7I29IPUtWE68VLUoZfXow",
@@ -301,49 +301,49 @@
       "uploadsId": "UUZMKZS3L9GfhcFkMyBRoVFg",
       "handle": "kidslandofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T21:15:27.828632+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     },
     "kidsmadani": {
       "youtubeId": "UCsNSt0fxMniSH9XHaNneZfw",
       "uploadsId": "UUsNSt0fxMniSH9XHaNneZfw",
       "handle": "kidsmadanichannel",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T21:15:27.828632+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     },
     "salamkids": {
       "youtubeId": "UC_4moTH4Pmatx5ogzCLxUtA",
       "uploadsId": "UU_4moTH4Pmatx5ogzCLxUtA",
       "handle": "salamkidstvofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T21:15:27.828632+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     },
     "urdukidsstudio": {
       "youtubeId": "UCxqHh4UJsNqiwk_aaMI9HBg",
       "uploadsId": "UUxqHh4UJsNqiwk_aaMI9HBg",
       "handle": "urdukidsstudio",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T21:15:27.828632+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     },
     "shirazi": {
       "youtubeId": "UC8YddK8DXYyry_LWY4NksgA",
       "uploadsId": "UU8YddK8DXYyry_LWY4NksgA",
       "handle": "shirazi786",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T21:15:27.828632+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     },
     "haimparishay": {
       "youtubeId": "UC6jgnXHUJ4eDjrvHJNtAUYg",
       "uploadsId": "UU6jgnXHUJ4eDjrvHJNtAUYg",
       "handle": "HaimParishayKhan",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T21:15:27.828632+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     },
     "waggleworkshop": {
       "youtubeId": "UCDf7-AujhJJkMF1Cg5iT-Pw",
       "uploadsId": "UUDf7-AujhJJkMF1Cg5iT-Pw",
       "handle": "TheWaggleWorkshop",
       "checkedAt": "2026-10-18T16:55:18.549048+00:00",
-      "lastFetchedAt": "2026-10-18T21:15:27.828632+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     },
     "lollywoodcinema": {
       "youtubeId": "UCMlGWm_woMhMcVYhJu8zsvA",
@@ -371,45 +371,63 @@
       "uploadsId": "UUM1VesJtJ9vTXcMLLr_FfdQ",
       "handle": "cokestudio",
       "checkedAt": "2026-10-18T19:46:24.753696+00:00",
-      "lastFetchedAt": "2026-10-18T21:14:01.402381+00:00"
+      "lastFetchedAt": "2026-10-18T21:44:47.440929+00:00"
     },
     "emipakistan": {
       "youtubeId": "UC52h_LCatoUs6ycLjT9V8bQ",
       "uploadsId": "UU52h_LCatoUs6ycLjT9V8bQ",
       "handle": "EMIPakistanOfficial",
       "checkedAt": "2026-10-18T20:11:10.576823+00:00",
-      "lastFetchedAt": "2026-10-18T21:14:01.402381+00:00"
+      "lastFetchedAt": "2026-10-18T21:44:47.440929+00:00"
     },
     "talhaanjum": {
       "youtubeId": "UCaHBioELm9IzGYhg70Z1BKg",
       "uploadsId": "UUaHBioELm9IzGYhg70Z1BKg",
       "handle": "talhaanjum",
       "checkedAt": "2026-10-18T19:46:24.753696+00:00",
-      "lastFetchedAt": "2026-10-18T21:14:01.402381+00:00"
+      "lastFetchedAt": "2026-10-18T21:44:47.440929+00:00"
     },
     "youngstunners": {
       "youtubeId": "UCaHpJ-SkCR604NNBnjM9thQ",
       "uploadsId": "UUaHpJ-SkCR604NNBnjM9thQ",
       "handle": "YoungStunners",
       "checkedAt": "2026-10-18T19:46:24.753696+00:00",
-      "lastFetchedAt": "2026-10-18T21:14:01.402381+00:00"
+      "lastFetchedAt": "2026-10-18T21:44:47.440929+00:00"
     },
     "jaubi": {
       "youtubeId": "UC6s1zz1-t7rPf-4scKVYD8g",
       "uploadsId": "UU6s1zz1-t7rPf-4scKVYD8g",
       "handle": "Jaubi",
       "checkedAt": "2026-10-18T20:04:20.517484+00:00",
-      "lastFetchedAt": "2026-10-18T21:15:27.828632+00:00"
+      "lastFetchedAt": "2026-10-18T21:44:47.440929+00:00"
     },
     "atifs": {
       "youtubeId": "UC3FnOdo2ooBS4TrEcmwUR_Q",
       "uploadsId": "UU3FnOdo2ooBS4TrEcmwUR_Q",
       "handle": "AtifAslamOfficial",
       "checkedAt": "2026-10-18T19:47:58.539938+00:00",
-      "lastFetchedAt": "2026-10-18T21:15:27.828632+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     }
   },
   "videos": [
+    {
+      "id": "6BapQDQ_Vic",
+      "title": "Why did Sohail Afridi not convene the Apex Committee meeting? Revelations by Mahmood Jan Babar",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T21:29:51Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 172,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/6BapQDQ_Vic/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
     {
       "id": "uoJI4uE-Gtw",
       "title": "Shadi Hogi, Aur Isi Hafte || Bano || Har Pal Geo",
@@ -444,6 +462,60 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/wKHNUhxL784/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "D9c1sVGtsKY",
+      "title": "🔴 Live: Islamabad: Inauguration Ceremony of Danish School | Dawn News Live",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T21:14:35Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 3170,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/D9c1sVGtsKY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "wrYtGam3CKg",
+      "title": "Why Were Two Constitutional Provisions Invoked in Khyber Pakhtunkhwa? Hafiz Ehsan Explains",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T21:10:06Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 165,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/wrYtGam3CKg/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "cn7IBVNr_rU",
+      "title": "What Is the ARDC Formed for 12 Districts of KP, and What Will It Do? Find Out from Mahmood Jan Babar",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T21:05:12Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 157,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/cn7IBVNr_rU/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -534,6 +606,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/z-edTI1JHdc/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "500jqTjMM1I",
+      "title": "Opposition should come and negotiate: Bilawal Bhutto | Dawn News Headlines 01 AM",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T20:40:10Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 276,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/500jqTjMM1I/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -732,6 +822,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/Z2zTRRYPOU8/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "4r3muwnAmgk",
+      "title": "KP Governor’s Rule | How Long Will the Emergency Last? | Sumaira Khan | SAMAA SPECIAL",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T20:04:36Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2253,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/4r3muwnAmgk/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -9552,24 +9660,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/lEc6pqOyz5o/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "D9c1sVGtsKY",
-      "title": "🔴 Live: Islamabad: Inauguration Ceremony of Danish School | Dawn News Live",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-18",
-      "published": "2026-10-18T08:17:47Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 3153,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/D9c1sVGtsKY/hqdefault_live.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -30255,24 +30345,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "_tSRVnaeSdY",
-      "title": "Pakistan at the Forefront of the Hunger Crisis? Hassan Nisar Delivers a Hard-Hitting Analysis",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T16:30:18Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 157,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/_tSRVnaeSdY/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "qcpAqiGj8pc",
       "title": "Balochistan Today | PTV News | 16-10-2026",
       "channel": "PTV News",
@@ -30288,24 +30360,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/qcpAqiGj8pc/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "NJt1hvS4g1Q",
-      "title": "KP Emergency Update | PTI New Moves | Houthis vs Saudi Arabia | 09 PM News Headlines | Samaa TV",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T16:26:44Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 706,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/NJt1hvS4g1Q/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -30342,42 +30396,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/AQhkGexDlnI/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "EOSQuLFwcXs",
-      "title": "How Can Pakistan Cricket Improve? Saqlain Mushtaq Reveals the Solution!",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T16:17:58Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 130,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/EOSQuLFwcXs/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "4hH57ltKVyU",
-      "title": "Peshawar Tragedy: Hassan Nisar Speaks Out on the Martyrdom of Innocent Children | Black and White",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T16:17:43Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 118,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/4hH57ltKVyU/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -45426,24 +45444,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/vyLpRzzavq4/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "hflr93I2g2c",
-      "title": "PTI Misuse of State Resources | Report Exposes Official Car Usage | Breaking News | Dawn News",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-14",
-      "published": "2026-10-14T10:20:01Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 108,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/hflr93I2g2c/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -78621,6 +78621,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "dRHQijfLymE",
+      "title": "Phool Mere Gulshan Ka (1974) – Mohammad Ali, Zeba, Waheed Murad, Nisho | Full Pakistani Movie",
+      "channel": "LollywoodCinema",
+      "channelId": "lollywoodcinema",
+      "youtubeChannelId": "UCMlGWm_woMhMcVYhJu8zsvA",
+      "category": "movies",
+      "genre": "Classic Pakistani Movies",
+      "date": "2022-10-06",
+      "published": "2022-10-06T08:00:11Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 7637,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/dRHQijfLymE/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
+    },
+    {
       "id": "naGFRwzbKo0",
       "title": "Pain Killers - Talha Anjum | Prod. Umair (Official Audio)",
       "channel": "Talha Anjum",
@@ -79521,6 +79539,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "ManZs01zkhE",
+      "title": "AFSANA ZINDAGI KA (1972) - MOHAMMAD ALI & ZEBA - OFFICIAL FULL PAKISTANI MOVIE",
+      "channel": "MovieboxMovies",
+      "channelId": "movieboxmovies",
+      "youtubeChannelId": "UC8Artr_jqToYkRKjgjhezmw",
+      "category": "movies",
+      "genre": "Classic Pakistani Movies",
+      "date": "2017-08-18",
+      "published": "2017-08-18T08:00:00Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 7594,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/ManZs01zkhE/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
+    },
+    {
       "id": "n8R-W9Lsrzk",
       "title": "NOHookUps - Young Stunners - Official Audio",
       "channel": "Young Stunners",
@@ -79573,44 +79609,8 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/h2E2wiz3sug/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "ojpHAF8-IIU",
-      "title": "Raga Shivranjani",
-      "channel": "Jaubi",
-      "channelId": "jaubi",
-      "youtubeChannelId": "UC6s1zz1-t7rPf-4scKVYD8g",
-      "category": "music",
-      "genre": "Jazz & Fusion",
-      "date": "2016-05-27",
-      "published": "2016-05-27T07:24:28Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 368,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/ojpHAF8-IIU/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "I38WjGEzyBQ",
-      "title": "\"Vicky\" - Jaubi",
-      "channel": "Jaubi",
-      "channelId": "jaubi",
-      "youtubeChannelId": "UC6s1zz1-t7rPf-4scKVYD8g",
-      "category": "music",
-      "genre": "Jazz & Fusion",
-      "date": "2016-03-17",
-      "published": "2016-03-17T08:48:43Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 188,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/I38WjGEzyBQ/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Dunya News: HTTP 404: playlistNotFound; Imran Riaz Khan: channel unavailable",
+  "lastError": "",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }

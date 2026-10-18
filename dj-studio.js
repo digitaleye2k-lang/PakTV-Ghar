@@ -9,37 +9,40 @@ const DJs=[
  {id:"rock",name:"DJ Rock",emoji:"🎸",tag:"Guitars, rock and modern fusion",genres:["rock","indie"],intro:"./assets/Djs/Rock.mp4"},
  {id:"jazz",name:"DJ Jazz",emoji:"🎷",tag:"Smooth jazz, Pakistani fusion and late-night grooves",genres:["jazz","indie"],intro:"./assets/Djs/Jazz.mp4"}
 ];
-let classicOverlay=null;
-function closeClassicOverlay(){
- if(!classicOverlay)return;
- const video=classicOverlay.querySelector("video");
+const DJ_FLOATING={
+ classic:{name:"SAADIA",src:"./assets/Djs/Person_nodding_head_to_music_20261018222953.mp4",fallback:"./assets/Djs/Classic.mp4"},
+ jazz:{name:"Jawaad",src:"./assets/Djs/nodding_jazz.mp4",fallback:"./assets/Djs/Jazz.mp4"},
+ rap:{name:"Rose",src:"./assets/Djs/nodding_rap.mp4",fallback:"./assets/Djs/Rap.mp4"},
+ rock:{name:"Saad",src:"./assets/Djs/nodding_rock.mp4",fallback:"./assets/Djs/Rock.mp4"}
+};
+let activeOverlay=null;
+function closeDJOverlay(){
+ if(!activeOverlay)return;
+ const video=activeOverlay.querySelector("video");
  if(video){video.pause();video.removeAttribute("src");video.load();}
- classicOverlay.remove();classicOverlay=null;
+ activeOverlay.remove();activeOverlay=null;
 }
-function showClassicOverlay(){
- closeClassicOverlay();
+function showDJOverlay(id){
+ closeDJOverlay();
+ const cfg=DJ_FLOATING[id];if(!cfg)return;
  const box=node("aside","classic-dj-float");
- box.setAttribute("aria-label","DJ Classic dancing video");
+ box.setAttribute("aria-label",cfg.name+" silent dancing video");
  const top=node("div","classic-dj-float-head");
- top.append(node("strong","","DJ Classic · Silent loop"));
+ top.append(node("strong","",cfg.name));
  const close=node("button","","✕");
- close.type="button";close.setAttribute("aria-label","Close DJ Classic video");
- close.addEventListener("click",closeClassicOverlay);
- top.append(close);
+ close.type="button";close.setAttribute("aria-label","Close "+cfg.name+" video");
+ close.addEventListener("click",closeDJOverlay);top.append(close);
  const video=node("video","");
  video.autoplay=true;video.muted=true;video.defaultMuted=true;video.loop=true;
  video.playsInline=true;video.setAttribute("playsinline","");
- video.setAttribute("muted","");video.setAttribute("aria-label","Silent DJ Classic animated visual");
- // The new nodding video takes precedence if present in the repository.
- // Current Classic.mp4 supplies a working fallback until the new file is uploaded.
- const fallback="./assets/Djs/Classic.mp4";
- video.src="./assets/Djs/Person_nodding_head_to_music_20261018222953.mp4";
+ video.setAttribute("muted","");video.setAttribute("aria-label","Silent looping video of "+cfg.name);
  let fallbackUsed=false;
  video.addEventListener("error",()=>{
-  if(fallbackUsed){closeClassicOverlay();return;}
-  fallbackUsed=true;video.src=fallback;video.play().catch(()=>{});
+  if(fallbackUsed){closeDJOverlay();return;}
+  fallbackUsed=true;video.src=cfg.fallback;video.play().catch(()=>{});
  });
- box.append(top,video);document.body.append(box);classicOverlay=box;
+ video.src=cfg.src;
+ box.append(top,video);document.body.append(box);activeOverlay=box;
  video.play().catch(()=>{});
 }
 function setTab(tab,hash=true){
@@ -49,7 +52,7 @@ function setTab(tab,hash=true){
  if(hash&&location.hash!=="#"+tab)history.replaceState(null,"","#"+tab);
  // Switching away from radio stops live streaming. Never autoplay on tab switch.
  if(tab!=="radio")document.getElementById("radioStop")?.click();
- if(tab!=="music")closeClassicOverlay();
+ if(tab!=="music")closeDJOverlay();
 }
 for(const a of tabs)a.addEventListener("click",e=>{e.preventDefault();setTab(a.dataset.musicTab);document.getElementById("musicTabs").scrollIntoView({block:"start",behavior:"smooth"});});
 function sample(dj){
@@ -91,14 +94,14 @@ function draw(){
   for(const song of songs)list.append(node("li","",song.title+" — "+song.publisher));
   body.append(node("p","",songs.length+"/10 verified tracks ready"),list);
   const play=node("button","","▶ Play "+dj.name+"'s set");play.type="button";play.disabled=!songs.length;
-  play.addEventListener("click",()=>{setTab("music");document.dispatchEvent(new CustomEvent("paktv:virtual-dj-play",{detail:{tracks:songs}}));if(dj.id==="classic")showClassicOverlay();else closeClassicOverlay();});
+  play.addEventListener("click",()=>{setTab("music");document.dispatchEvent(new CustomEvent("paktv:virtual-dj-play",{detail:{tracks:songs}}));showDJOverlay(dj.id);});
   body.append(play);card.append(media,body);host.append(card);
  }
  document.getElementById("virtualDJStatus").textContent="";
 }
 document.addEventListener("paktv:music-catalog-ready",e=>{tracks=e.detail.tracks||[];draw();});
 document.addEventListener("paktv:dj-queue-start",()=>setTab("music",false));
-document.addEventListener("paktv:music-queue-changed",()=>closeClassicOverlay());
+document.addEventListener("paktv:music-queue-changed",()=>closeDJOverlay());
 window.addEventListener("pagehide",closeClassicOverlay);
 window.addEventListener("hashchange",()=>{const h=location.hash.slice(1);if(["music","radio","djs"].includes(h))setTab(h,false);});
 setTab(["music","radio","djs"].includes(location.hash.slice(1))?location.hash.slice(1):"music",false);draw();
