@@ -1,0 +1,17 @@
+/* GUPSHUP Wireless: same checked radio directory used by Music page. */
+(()=>{"use strict";
+const $=id=>document.getElementById(id),audio=$("gupRadioAudio"),host=$("gupRadioStations");
+if(!audio||!host)return;
+const title=$("gupRadioTitle"),details=$("gupRadioDetails"),status=$("gupRadioStatus"),stop=$("gupRadioStop");
+let selected=null,stations=[];
+const validLink=s=>typeof s==="string"&&/^https:\/\/[^\\s"'<>]+$/i.test(s);
+const validStream=s=>validLink(s)&&!/\\.(?:m3u8?|pls)(?:$|\\?)/i.test(s);
+function clear(){audio.pause();audio.removeAttribute("src");audio.load();selected=null;title.textContent="Turn the dial to begin";details.textContent="Find music, talk and community stations";stop.disabled=true;status.textContent="Radio stopped. Select a station below.";render();}
+async function play(st,i){if(!validStream(st.stream))return;audio.pause();audio.src=st.stream;selected=st;title.textContent=st.name;details.textContent=[st.city,st.genre].filter(Boolean).join(" · ");stop.disabled=false;status.textContent="Connecting to "+st.name+"…";document.querySelector(".gup-radio-scale")?.style.setProperty("--needle",(8+i%10*9)+"%");render();try{await audio.play()}catch{status.textContent="This stream could not play. Try the station website."}}
+function render(){host.replaceChildren();$("gupRadioCount").textContent=stations.length+" stations";for(const [i,st] of stations.entries()){const card=document.createElement("article");card.className="gup-radio-station"+(selected===st?" is-playing":"");const name=document.createElement("strong");name.textContent=st.name;const info=document.createElement("small");info.textContent=[st.city,st.genre].filter(Boolean).join(" · ");const actions=document.createElement("div");actions.className="gup-radio-actions";if(validStream(st.stream)){const button=document.createElement("button");button.type="button";button.textContent=selected===st?"♫ Playing":"▶ Tune in";button.addEventListener("click",()=>void play(st,i));actions.append(button)}const link=document.createElement("a");link.href=validLink(st.homepage)?st.homepage:"https://www.radio.gov.pk/live-streaming";link.target="_blank";link.rel="noopener noreferrer";link.textContent="Station website ↗";actions.append(link);card.append(name,info,actions);host.append(card)}}
+stop.addEventListener("click",clear);
+audio.addEventListener("playing",()=>{if(selected)status.textContent="On air: "+selected.name});
+audio.addEventListener("error",()=>{if(selected)status.textContent="Stream unavailable. Try the official station website."});
+window.addEventListener("pagehide",()=>audio.pause());
+(async()=>{try{const response=await fetch("./data/radio.json",{cache:"no-store"});if(!response.ok)throw Error("Station list unavailable");const data=await response.json();if(!Array.isArray(data.stations))throw Error("Invalid stations");const seen=new Set();stations=data.stations.filter(s=>{if(!s||!validLink(s.homepage)||typeof s.name!=="string")return false;const key=s.name.toLowerCase()+"|"+(s.city||"");if(seen.has(key))return false;seen.add(key);return true}).slice(0,24)}catch{stations=[{name:"Radio Pakistan FM 101",city:"Pakistan",homepage:"https://www.radio.gov.pk/live-streaming",stream:""}];status.textContent="Station directory unavailable; use the official station links."}render()})();
+})();
