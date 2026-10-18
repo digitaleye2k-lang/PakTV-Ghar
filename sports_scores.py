@@ -82,6 +82,8 @@ def parse_event(event, league):
     typ = status.get("type") if isinstance(status.get("type"), dict) else {}
     detail = str(typ.get("shortDetail") or typ.get("description")
                  or status.get("displayClock") or "Fixture")[:100]
+    if any(team["score"] for team in teams) and detail.lower() in ("fixture","scheduled"):
+        detail="Score posted — match status unconfirmed"
     return {"name": title[:110], "series": str(league)[:110],
             "startAt": stamp(date), "status": detail, "teams": teams,
             "url": SCORE_SOURCE}
