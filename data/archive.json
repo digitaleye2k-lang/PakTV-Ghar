@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T17:43:38.869674+00:00",
+  "generatedAt": "2026-10-18T17:46:04.407498+00:00",
   "dateTimezone": "UTC",
-  "cursor": 1,
+  "cursor": 13,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -259,84 +259,84 @@
       "uploadsId": "UUiWrjBhlICf_L_RK5y6Vrxw",
       "handle": "PakistanCricket",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T17:28:01.603474+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "psl": {
       "youtubeId": "UCpNzXJ5jpcJojC5mHQvGA8w",
       "uploadsId": "UUpNzXJ5jpcJojC5mHQvGA8w",
       "handle": "pakistansuperleagueofficial",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T17:28:01.603474+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "asports": {
       "youtubeId": "UCCLdGxMC4fwkaQ4AIcL7Z8w",
       "uploadsId": "UUCLdGxMC4fwkaQ4AIcL7Z8w",
       "handle": "asportspk",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T17:28:01.603474+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "ptvsports": {
       "youtubeId": "UCnoH_iEE4tgVznLT97Kb7ig",
       "uploadsId": "UUnoH_iEE4tgVznLT97Kb7ig",
       "handle": "ptvsportsofficialpk",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T17:28:01.603474+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "cricketpk": {
       "youtubeId": "UCI7I29IPUtWE68VLUoZfXow",
       "uploadsId": "UUI7I29IPUtWE68VLUoZfXow",
       "handle": "CricketPakistanPK",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T17:28:01.603474+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "wasay": {
       "youtubeId": "UCs2-8ztgdlRqpbpHvfFFPFQ",
       "uploadsId": "UUs2-8ztgdlRqpbpHvfFFPFQ",
       "handle": "wasayhabib",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T17:29:50.221349+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "kidsland": {
       "youtubeId": "UCZMKZS3L9GfhcFkMyBRoVFg",
       "uploadsId": "UUZMKZS3L9GfhcFkMyBRoVFg",
       "handle": "kidslandofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T17:18:02.805016+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "kidsmadani": {
       "youtubeId": "UCsNSt0fxMniSH9XHaNneZfw",
       "uploadsId": "UUsNSt0fxMniSH9XHaNneZfw",
       "handle": "kidsmadanichannel",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T17:28:01.603474+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "salamkids": {
       "youtubeId": "UC_4moTH4Pmatx5ogzCLxUtA",
       "uploadsId": "UU_4moTH4Pmatx5ogzCLxUtA",
       "handle": "salamkidstvofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T17:28:01.603474+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "urdukidsstudio": {
       "youtubeId": "UCxqHh4UJsNqiwk_aaMI9HBg",
       "uploadsId": "UUxqHh4UJsNqiwk_aaMI9HBg",
       "handle": "urdukidsstudio",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T17:28:01.603474+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "shirazi": {
       "youtubeId": "UC8YddK8DXYyry_LWY4NksgA",
       "uploadsId": "UU8YddK8DXYyry_LWY4NksgA",
       "handle": "shirazi786",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T17:28:01.603474+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "haimparishay": {
       "youtubeId": "UC6jgnXHUJ4eDjrvHJNtAUYg",
       "uploadsId": "UU6jgnXHUJ4eDjrvHJNtAUYg",
       "handle": "HaimParishayKhan",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T17:28:01.603474+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "waggleworkshop": {
       "youtubeId": "UCDf7-AujhJJkMF1Cg5iT-Pw",
@@ -485,6 +485,42 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/30riKeeqS9M/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "ps0ZaZV8m0Q",
+      "title": "Post Match Ceremony | Pakistan vs Sri Lanka | Match 1 | ODI Tri-Series 2026 | PCB | MZS1K",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:32:14Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 505,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/ps0ZaZV8m0Q/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "XXGgBVFXuxU",
+      "title": "Full Match Highlights | Pakistan vs Sri Lanka | Match 1 | ODI Tri-Series 2026 | PCB | MZS1K",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:30:33Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1619,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/XXGgBVFXuxU/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -18318,7 +18354,7 @@
       "date": "2026-10-17",
       "published": "2026-10-17T11:20:01Z",
       "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 25420,
+      "durationSeconds": 24967,
       "availableGB": true,
       "availablePK": false,
       "embeddable": true,
@@ -79524,44 +79560,8 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/3WvDe5wS6dQ/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "iJpC4PG_8Dc",
-      "title": "Abrar-ul-haq with Umer Sharif in The Sharif Show | Geo Classics",
-      "channel": "Geo Classics",
-      "channelId": "geoclassics",
-      "youtubeChannelId": "UCLUfX9--VscMEKnIE6thhbg",
-      "category": "comedy",
-      "genre": "Comedy & satire",
-      "date": "2026-07-13",
-      "published": "2026-07-13T15:00:06Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 3037,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/iJpC4PG_8Dc/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "lNFN77X6gBo",
-      "title": "The Sharif Show | Abrar ne Sahara Hospital kaise banaya? - Teacher se singer tak ka safar",
-      "channel": "Geo Classics",
-      "channelId": "geoclassics",
-      "youtubeChannelId": "UCLUfX9--VscMEKnIE6thhbg",
-      "category": "comedy",
-      "genre": "Comedy & satire",
-      "date": "2026-07-13",
-      "published": "2026-07-13T13:00:10Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 555,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/lNFN77X6gBo/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Asad Toor: channel unavailable; Siddique Jaan: channel unavailable; HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable",
+  "lastError": "",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
