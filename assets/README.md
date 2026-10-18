@@ -1,12 +1,17 @@
-# GUPSHUP user-supplied tea media
+# PakTV Ghar site media
 
-The `gupshup.html` gallery references these four binary assets in this directory:
+## GUPSHUP tea gallery
+The gallery uses the owner-supplied assets in this folder:
 
-- `gupshup-chai-main.jpg` — courtyard tea conversation photograph (GUPSHUP hero)
-- `gupshup-chai-rooftop.jpg` — rooftop tea conversation photograph (gallery)
-- `gupshup-chai-poster.jpg` — video poster / still
-- `gupshup-loop.mp4` — **audio-free** 10-second looping clip
+- `gupshup-chai-main.jpg` — courtyard tea conversation photo
+- `gupshup-chai-rooftop.jpg` — rooftop conversation photo
+- `gupshup-chai-poster.jpg` — silent-loop poster
+- `gupshup-loop.mp4` — muted looping tea video, without visible captions
 
-The original user uploads have already been converted and packaged for transfer. GitHub's text-only connector cannot write binary image/video files, so the owner needs to upload the four contents of the prepared media bundle to this folder through GitHub's **Add file → Upload files** control.
+These assets are already uploaded to the repository and referenced from `gupshup.html`.
 
-The gallery has a local SVG fallback until the assets are present. Don't substitute unlicensed photos or add audio to the loop.
+## Homepage Pakistani flag artwork
+
+`pakistan-flag-art.svg` is a lightweight web-friendly representation of the user's supplied transparent waving-flag artwork, embedded as WebP in an SVG wrapper. It appears decoratively behind the right side of the main website at low opacity; it has no user interaction or tracking.
+
+Image credit: imagery was supplied by the site's owner for this project.
