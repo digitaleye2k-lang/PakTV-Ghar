@@ -244,6 +244,12 @@ const CHANNELS = [
  {id:'ptvsports',name:'PTV SPORTS OFFICIAL',handle:'ptvsportsofficialpk',category:'sports',genre:'Sports TV & news',initials:'PTV',colors:['#65af90','#265f53'],description:'PTV Sports reports, sports analysis and event coverage.'},
  {id:'cricketpk',name:'Cricket Pakistan',handle:'CricketPakistanPK',category:'sports',genre:'Sports analysis & creators',initials:'CP',colors:['#dfb36d','#97733e'],description:'Cricket news and interviews from Express Media Group.'},
  {id:'wasay',name:'Wasay Habib',handle:'wasayhabib',category:'sports',genre:'Sports analysis & creators',initials:'WH',colors:['#66b6a9','#3a7775'],description:'Pakistani cricket creator with tactical analysis and match discussions.'},
+ {id:'kidsland',name:'Kids Land',handle:'kidslandofficial',category:'kids',genre:'Cartoons & stories',initials:'KL',colors:['#64c99a','#286f57'],description:'Pakistani Urdu cartoons, stories and animated adventures.'},
+ {id:'kidsmadani',name:'Kids Madani Channel',handle:'kidsmadanichannel',category:'kids',genre:'Learning & values',initials:'KM',colors:['#64c99a','#286f57'],description:'Urdu animated learning, rhymes and stories.'},
+ {id:'salamkids',name:'Salam Kids TV',handle:'salamkidstvofficial',category:'kids',genre:'Rhymes & poems',initials:'SK',colors:['#64c99a','#286f57'],description:'Urdu songs, rhymes and educational stories.'},
+ {id:'urdukidsstudio',name:'Urdu Kids Studio',handle:'urdukidsstudio',category:'kids',genre:'Rhymes & poems',initials:'UK',colors:['#64c99a','#286f57'],description:'Urdu poems and learning videos for children.'},
+ {id:'shirazi',name:'Shirazi Village Vlogs',handle:'shirazi786',category:'kids',genre:'Family vlogs',initials:'SV',colors:['#64c99a','#286f57'],description:'Village-life family adventures from Pakistan.'},
+ {id:'haimparishay',name:'Haim & Parishay Khan',handle:'HaimParishayKhan',category:'kids',genre:'Kids creators',initials:'HP',colors:['#64c99a','#286f57'],description:'Parent-managed Pakistani kids and family creator channel.'},
 ];
 const SHOWS = [
  {id:'capital',name:'Capital Talk',category:'talk',channel:'Geo News',channelId:'geonews',query:'Capital Talk Hamid Mir Geo News full show',description:'Political discussions and interviews.',icon:'🎙️'},
@@ -320,7 +326,8 @@ const NAV = [
  {id:'movies',icon:'🎞️',en:'Movies',ur:'فلمیں'},
  {id:'comedy',icon:'😄',en:'Comedy & Satire',ur:'مزاح'},
  {id:'news',icon:'📡',en:'News',ur:'خبریں'},
- {id:'sports',icon:'🏏',en:'Sports',ur:'کھیل'}, 
+ {id:'sports',icon:'🏏',en:'Sports',ur:'کھیل'},
+ {id:'kids',icon:'🌈',en:'Kids',ur:'بچے',href:'./kids.html'}, 
  {id:'talk',icon:'🎙️',en:'Talk Shows',ur:'ٹاک شوز'},
  {id:'vloggers',icon:'📹',en:'YouTubers',ur:'یوٹیوبرز'},
  {id:'archive',icon:'🗓️',en:'Video Archive',ur:'پرانے ویڈیوز'},
@@ -577,6 +584,7 @@ function renderHome(){
     '<div class="quick-grid cinema-quick">'+
     [['dramas','🎬','Dramas'],['movies','🎞️','Movies'],['archive','🗓️','Video archive'],['comedy','😄','Comedy'],['news','📡','News'],['sports','🏏','Sports'],['talk','🎙️','Talk shows'],['vloggers','📹','YouTubers'],['today','📅','TV today']].map(([id,icon,label])=>
       '<button type="button" class="quick-tile" data-nav="'+id+'"><span class="quick-emoji">'+icon+'</span><span class="quick-name">'+label+'</span></button>').join('')+
+    '<a class="quick-tile community-home-tile" href="./kids.html"><span class="quick-emoji">🌈</span><span class="quick-name">Kids Corner</span></a>'+
     '<a class="quick-tile community-home-tile" href="./gupshup.html"><span class="quick-emoji">☕</span><span class="quick-name">GUPSHUP</span></a>'+
     '</div>'+
     '<div id="homeBriefing" class="home-briefing" aria-label="Latest news, Pakistan weather and world markets"></div>'+
@@ -586,6 +594,8 @@ function renderHome(){
 
     cinemaVideoRail('Movie night · Full-length films','Publisher films and movie-length TV editions from Pakistani YouTube sources.',movieVideos().slice(0,9),'movies')+
     cinemaPosterRail('Featured Pakistani dramas','Find your next binge from original broadcasters.',spotlight,'dramas')+
+    '<section class="kids-home-promo"><div><span class="eyebrow">🌈 THE KIDS CORNER</span><h2>Pakistani kids videos, all in one happy place.</h2><p>Cartoons, Urdu rhymes, educational stories and family creators, organised for parents to explore together.</p><a href="./kids.html">Explore Kids Corner ↗</a></div><span class="kids-home-illustration" aria-hidden="true">🪁 🌈 📚</span></section>'+
+    cinemaVideoRail('Kids Corner · Latest uploads','Parent-curated Pakistani cartoons, Urdu poems and family video channels.',balancedRecent([...state.archiveVideos,...state.feed].filter(v=>v.category==='kids'),10),'archive')+
     cinemaVideoRail('Pakistani sports · Cricket & more','New videos from sports broadcasters, PSL and Pakistani cricket creators.',balancedRecent([...state.archiveVideos,...state.feed].filter(v=>v.category==='sports'),10),'sports')+
     cinemaChannelRail('Explore Pakistan sports channels','Cricket boards, sports broadcasters and cricket analysts.',CHANNELS.filter(x=>x.category==='sports').slice(0,7),'sports')+
     cinemaVideoRail('Freshly uploaded','New videos from multiple Pakistani channels.',fresh,'archive')+
