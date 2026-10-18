@@ -13,6 +13,16 @@ import json, re, xml.etree.ElementTree as ET, os
 HERE=Path(__file__).resolve().parent
 (HERE/'data').mkdir(exist_ok=True)
 SOURCES={
+'cokestudio':('Coke Studio Pakistan','cokestudio','music'),
+'nescafebasement':('NESCAFÉ Basement','nescafebasement','music'),
+'emipakistan':('EMI Pakistan','EMIPakistan','music'),
+'talhaanjum':('Talha Anjum','talhaanjum','music'),
+'youngstunners':('Young Stunners','YoungStunners','music'),
+'sajjadali':('Sajjad Ali','sajjadali','music'),
+'jaubi':('Jaubi','Jaubi','music'),
+'mekaalhasan':('Mekaal Hasan Band','MekaalHasanBand','music'),
+'rahatfateh':('Rahat Fateh Ali Khan','RahatFatehAliKhan','music'),
+'atifs':('Atif Aslam','AtifAslamOfficial','music'),
 'lollywoodcinema':('LollywoodCinema','LollywoodCinema','movies'),
 'lollywoodclassics':('Lollywood Classics','lollywoodclassics','movies'),
 'movieboxmovies':('MovieboxMovies','movieboxmovies','movies'),
