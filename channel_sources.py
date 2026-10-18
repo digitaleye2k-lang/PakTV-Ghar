@@ -11,7 +11,7 @@ CHANNELS = [
  {'id':'talhaanjum','name':'Talha Anjum','handle':'talhaanjum','category':'music','genre':'Hip-Hop & Rap'},
  {'id':'youngstunners','name':'Young Stunners','handle':'YoungStunners','category':'music','genre':'Hip-Hop & Rap'},
  {'id':'sajjadali','name':'Sajjad Ali','handle':'sajjadali','category':'music','genre':'Pop & Ghazal'},
- {'id':'jaubi','name':'Jaubi','handle':'Jaubi','category':'music','genre':'Jazz & Fusion'},
+ {'id':'jaubi','name':'Jaubi','handle':'Jaubi','category':'music','genre':'Jazz & Fusion','channelId':'UC6s1zz1-t7rPf-4scKVYD8g'},
  {'id':'mekaalhasan','name':'Mekaal Hasan Band','handle':'MekaalHasanBand','category':'music','genre':'Rock & Fusion'},
  {'id':'rahatfateh','name':'Rahat Fateh Ali Khan','handle':'RahatFatehAliKhan','category':'music','genre':'Qawwali & Sufi'},
  {'id':'atifs','name':'Atif Aslam','handle':'AtifAslamOfficial','category':'music','genre':'Pop & Rock'},
