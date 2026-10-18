@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T09:46:52.097415+00:00",
+  "generatedAt": "2026-10-18T12:54:10.794362+00:00",
   "dateTimezone": "UTC",
-  "cursor": 32,
+  "cursor": 1,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -147,49 +147,49 @@
       "uploadsId": "UUUuDUW0Y6IQZYDvH1QQBsgA",
       "handle": "irfanjunejo",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T01:01:19.862935+00:00"
+      "lastFetchedAt": "2026-10-18T12:54:10.794362+00:00"
     },
     "kunfoods": {
       "youtubeId": "UCJEGvNxXunjqrcd2Xg9ntMQ",
       "uploadsId": "UUJEGvNxXunjqrcd2Xg9ntMQ",
       "handle": "KunFoods",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T01:01:19.862935+00:00"
+      "lastFetchedAt": "2026-10-18T12:54:10.794362+00:00"
     },
     "kitchenamna": {
       "youtubeId": "UCQ2P7C8UGoVM6AhqsVx-M0Q",
       "uploadsId": "UUQ2P7C8UGoVM6AhqsVx-M0Q",
       "handle": "KitchenWithAmna",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T01:01:19.862935+00:00"
+      "lastFetchedAt": "2026-10-18T12:54:10.794362+00:00"
     },
     "geoclassics": {
       "youtubeId": "UCLUfX9--VscMEKnIE6thhbg",
       "uploadsId": "UULUfX9--VscMEKnIE6thhbg",
       "handle": "GeoNewsClassics",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T01:01:19.862935+00:00"
+      "lastFetchedAt": "2026-10-18T12:54:10.794362+00:00"
     },
     "wildlens": {
       "youtubeId": "UCf1XIplYiqNv9baGsFHwPPQ",
       "uploadsId": "UUf1XIplYiqNv9baGsFHwPPQ",
       "handle": "WildLensByAbrar",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T01:01:19.862935+00:00"
+      "lastFetchedAt": "2026-10-18T12:54:10.794362+00:00"
     },
     "ruby": {
       "youtubeId": "UCMhx-uS3O-G_6_lTrYmDKLw",
       "uploadsId": "UUMhx-uS3O-G_6_lTrYmDKLw",
       "handle": "RubyKaKitchen",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T03:50:12.165141+00:00"
+      "lastFetchedAt": "2026-10-18T12:54:10.794362+00:00"
     },
     "ijazfood": {
       "youtubeId": "UCc1BSASBDsE_XYOTxD9SNmA",
       "uploadsId": "UUc1BSASBDsE_XYOTxD9SNmA",
       "handle": "IjazAnsariFoodSecrets",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T03:50:12.165141+00:00"
+      "lastFetchedAt": "2026-10-18T12:54:10.794362+00:00"
     },
     "greentv": {
       "youtubeId": "UCF2ltLX1dnPa6-L1paPaMzw",
@@ -245,7 +245,7 @@
       "uploadsId": "UU2PYniNHljOED9xNaMpiMiQ",
       "handle": "ARYFilms",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-18T03:50:12.165141+00:00"
+      "lastFetchedAt": "2026-10-18T12:54:10.794362+00:00"
     },
     "drmmovies": {
       "youtubeId": "UCDmQsP_LTEWPZ2AXS9eWTrQ",
@@ -79457,6 +79457,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Junaid Akram: channel unavailable; Express News: channel unavailable",
+  "lastError": "Asad Toor: channel unavailable; Siddique Jaan: channel unavailable; HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }

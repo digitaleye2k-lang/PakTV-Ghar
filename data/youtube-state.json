@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-18",
-  "dailySearches": 8,
+  "dailySearches": 16,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -18488,7 +18488,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/eqTjzTPa2wc/hqdefault.jpg",
-        "checkedAt": "2026-10-14T18:59:52.981103+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "Y-9UnRuhGaM",
@@ -18504,7 +18504,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Y-9UnRuhGaM/hqdefault.jpg",
-        "checkedAt": "2026-10-14T18:59:52.981103+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       }
     ],
     "harpalgeo-qalandar": [
@@ -18522,7 +18522,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vpdfgV0oipw/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "3DAfxdYSIC8",
@@ -18538,7 +18538,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3DAfxdYSIC8/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "YgjI05FCZpo",
@@ -18554,7 +18554,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/YgjI05FCZpo/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "MbyMTLxdTC4",
@@ -18570,7 +18570,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/MbyMTLxdTC4/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "VZboJDwErk4",
@@ -18586,7 +18586,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/VZboJDwErk4/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "rVquUl-bhr0",
@@ -18618,7 +18618,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9GlDdcqQ2Og/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "J0M_A1lT93o",
@@ -18634,7 +18634,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/J0M_A1lT93o/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "nGP4RqXksik",
@@ -18650,7 +18650,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nGP4RqXksik/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
+      },
+      {
+        "id": "so6xz9qzNaI",
+        "title": "Qalandar Episode 50 - [Eng Sub] - Muneeb Butt - Komal Meer - Ali Abbas - 31st Mar 2023 - HAR PAL GEO",
+        "episode": 50,
+        "date": "2023-03-31",
+        "published": "2023-03-31T16:00:41Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/so6xz9qzNaI/hqdefault.jpg",
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "DST3RgjL7Xw",
@@ -18666,7 +18682,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DST3RgjL7Xw/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "kiQx_VWr8Jw",
@@ -18682,7 +18698,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kiQx_VWr8Jw/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "6B0QE9xbjdU",
@@ -18714,7 +18730,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/EMcVWwzwGQc/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "x89hfG275XQ",
@@ -18746,7 +18762,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/MsA5t82qGig/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
+      },
+      {
+        "id": "fi0_bFsuXfU",
+        "title": "Qalandar Episode 42 - [Eng Sub] - Muneeb Butt - Komal Meer - Ali Abbas - 4th Mar 2023 - HAR PAL GEO",
+        "episode": 42,
+        "date": "2023-03-06",
+        "published": "2023-03-06T13:29:38Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/fi0_bFsuXfU/hqdefault.jpg",
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "pAQyjKo7sc0",
@@ -18762,7 +18794,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pAQyjKo7sc0/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "iULGJbjHc3k",
@@ -18778,7 +18810,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iULGJbjHc3k/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "xp6GuL4nfCM",
@@ -18794,7 +18826,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xp6GuL4nfCM/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
+      },
+      {
+        "id": "-7QxTOoiiZM",
+        "title": "Qalandar Episode 36 - [Eng Sub] - Muneeb Butt - Komal Meer - Ali Abbas - 11th Feb 2023 - HAR PAL GEO",
+        "episode": 36,
+        "date": "2023-02-11",
+        "published": "2023-02-11T16:00:00Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/-7QxTOoiiZM/hqdefault.jpg",
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "dFIRGG2kgIE",
@@ -18810,7 +18858,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dFIRGG2kgIE/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "a5ak-JCZ8jE",
@@ -18826,7 +18874,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/a5ak-JCZ8jE/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "3DDQaV5XInQ",
@@ -18877,6 +18925,38 @@
         "checkedAt": "2026-10-14T21:49:54.224070+00:00"
       },
       {
+        "id": "LIEq2aIeCZY",
+        "title": "Qalandar Episode 29 - [Eng Sub] - Muneeb Butt - Komal Meer - Ali Abbas - 20th Jan 2023 - HAR PAL GEO",
+        "episode": 29,
+        "date": "2023-01-20",
+        "published": "2023-01-20T16:00:10Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/LIEq2aIeCZY/hqdefault.jpg",
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
+      },
+      {
+        "id": "BvZFo-UBZhw",
+        "title": "Qalandar Episode 27 - [Eng Sub] - Muneeb Butt - Komal Meer - Ali Abbas - 13th Jan 2023 - HAR PAL GEO",
+        "episode": 27,
+        "date": "2023-01-13",
+        "published": "2023-01-13T16:00:06Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/BvZFo-UBZhw/hqdefault.jpg",
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
+      },
+      {
         "id": "N2_F-xgZOTA",
         "title": "Qalandar Episode 26 - [Eng Sub] - Muneeb Butt - Komal Meer - Ali Abbas - 7th Jan 2023 - HAR PAL GEO",
         "episode": 26,
@@ -18890,7 +18970,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/N2_F-xgZOTA/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "cBzYf7PdZcQ",
@@ -18906,7 +18986,55 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cBzYf7PdZcQ/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
+      },
+      {
+        "id": "d9jarFMOsWc",
+        "title": "Qalandar Episode 23 - [Eng Sub]- Muneeb Butt - Komal Meer - Ali Abbas - 30th Dec 2022 - HAR PAL GEO",
+        "episode": 23,
+        "date": "2022-12-30",
+        "published": "2022-12-30T16:00:20Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/d9jarFMOsWc/hqdefault.jpg",
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
+      },
+      {
+        "id": "-GyBa7s0_kE",
+        "title": "Qalandar Episode 22 - [Eng Sub]- Muneeb Butt - Komal Meer - Ali Abbas - 24th Dec 2022 - HAR PAL GEO",
+        "episode": 22,
+        "date": "2022-12-24",
+        "published": "2022-12-24T16:00:00Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/-GyBa7s0_kE/hqdefault.jpg",
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
+      },
+      {
+        "id": "rjt8VAeVsO0",
+        "title": "Qalandar Episode 20 - [Eng Sub]- Muneeb Butt - Komal Meer - Ali Abbas - 17th Dec 2022 - HAR PAL GEO",
+        "episode": 20,
+        "date": "2022-12-17",
+        "published": "2022-12-17T16:00:20Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/rjt8VAeVsO0/hqdefault.jpg",
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "mfP7A0fo_68",
@@ -18922,7 +19050,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mfP7A0fo_68/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
+      },
+      {
+        "id": "sfczCqY-1V4",
+        "title": "Qalandar Episode 14 - [Eng Sub]- Muneeb Butt - Komal Meer - Ali Abbas - 26th Nov 2022 - HAR PAL GEO",
+        "episode": 14,
+        "date": "2022-11-26",
+        "published": "2022-11-26T16:00:26Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/sfczCqY-1V4/hqdefault.jpg",
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "oAbceCK1eP8",
@@ -18938,7 +19082,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/oAbceCK1eP8/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
+      },
+      {
+        "id": "-hbqBXKVDgo",
+        "title": "Qalandar Episode 12 - [Eng Sub]- Muneeb Butt - Komal Meer - Ali Abbas - 19th Nov 2022 - HAR PAL GEO",
+        "episode": 12,
+        "date": "2022-11-19",
+        "published": "2022-11-19T16:00:00Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/-hbqBXKVDgo/hqdefault.jpg",
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "Up_zh9e6oPk",
@@ -18954,7 +19114,55 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Up_zh9e6oPk/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
+      },
+      {
+        "id": "6t6HCkoNGoE",
+        "title": "Qalandar Episode 10 - [Eng Sub]- Muneeb Butt - Komal Meer - Ali Abbas - 12th Nov 2022 - HAR PAL GEO",
+        "episode": 10,
+        "date": "2022-11-12",
+        "published": "2022-11-12T16:00:04Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/6t6HCkoNGoE/hqdefault.jpg",
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
+      },
+      {
+        "id": "r5msZ2VnQkg",
+        "title": "Qalandar Episode 09 - [Eng Sub]- Muneeb Butt - Komal Meer - Ali Abbas - 11th Nov 2022 - HAR PAL GEO",
+        "episode": 9,
+        "date": "2022-11-11",
+        "published": "2022-11-11T16:00:27Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/r5msZ2VnQkg/hqdefault.jpg",
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
+      },
+      {
+        "id": "OulBSiQ7Gl8",
+        "title": "Qalandar Episode 08 - [Eng Sub]- Muneeb Butt - Komal Meer - Ali Abbas - 5th Nov 2022 - HAR PAL GEO",
+        "episode": 8,
+        "date": "2022-11-05",
+        "published": "2022-11-05T16:00:14Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/OulBSiQ7Gl8/hqdefault.jpg",
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "nFAREKpwU1w",
@@ -18970,7 +19178,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nFAREKpwU1w/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
+      },
+      {
+        "id": "JQJKAIpoNeM",
+        "title": "Qalandar Episode 06 - [Eng Sub]- Muneeb Butt - Komal Meer - Ali Abbas - 29th Oct 2022 - HAR PAL GEO",
+        "episode": 6,
+        "date": "2022-10-29",
+        "published": "2022-10-29T16:00:18Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/JQJKAIpoNeM/hqdefault.jpg",
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "ioXF8y2qr20",
@@ -18986,7 +19210,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ioXF8y2qr20/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "ksYXbEZc12w",
@@ -19018,7 +19242,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vIAvn5v1kQQ/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "O4CkGK6XYuw",
@@ -19034,7 +19258,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/O4CkGK6XYuw/hqdefault.jpg",
-        "checkedAt": "2026-10-14T21:49:54.224070+00:00"
+        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       }
     ],
     "harpalgeo-sirf-tum": [
@@ -29958,6 +30182,6 @@
       }
     ]
   },
-  "cursor": 83,
+  "cursor": 87,
   "apiValidated": true
 }
