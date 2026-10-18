@@ -94,7 +94,11 @@ async function loadMessages(){
    showEmpty("Messages are temporarily unavailable. Try refreshing.");
    status("Could not load messages right now.","error");
   }
- }finally{busy=false;}
+ }finally{
+  busy=false;
+  // If the visitor changed rooms during the request, fetch the new room now.
+  if(shownRoom!==room)void loadMessages();
+ }
 }
 async function ensureGuest(){
  const session=await backend.auth.getSession();
