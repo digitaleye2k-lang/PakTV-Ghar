@@ -232,8 +232,9 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
     # otherwise classic songs and jazz would disappear from the music page.
     music_reserve = min(700, MAX_ARCHIVE_VIDEOS // 5)
     music_first = [v for v in ordered if v.get('category') == 'music'][:music_reserve]
+    reserved_ids = {v['id'] for v in music_first}
     ordered = music_first + [v for v in ordered if v.get('category') != 'music'] + [
-        v for v in ordered if v.get('category') == 'music' and v not in music_first
+        v for v in ordered if v.get('category') == 'music' and v['id'] not in reserved_ids
     ]
     by_channel = {}
     videos = []
