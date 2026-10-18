@@ -86,6 +86,11 @@ def normalise_video(resource, channel):
             r'\bshorts?\b|#short|grand theft auto|gta\s*6|playstation vs xbox|omaha beach',
             title, re.I)):
         return None
+    # Music must be a substantial artist performance, not previews or Shorts.
+    if channel['category'] == 'music' and (seconds < 120 or re.search(
+            r'\b(?:shorts?|teaser|trailer|promo|reaction|podcast|interview|behind the scenes|bts)\b|#short',
+            title, re.I)):
+        return None
     # Exclude Shorts and tiny promo clips; normal comedy/news reports can be
     # shorter than a full drama episode so don't apply a blanket 10m cutoff.
     if seconds < 95:
@@ -137,10 +142,13 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
     priority = (sorted(
                    [source for source in CHANNELS if
                     (source.get('category') in ('sports', 'kids', 'waggle') or
-                     source.get('id') in ('lollywoodcinema','movieboxmovies'))
+                     source.get('id') in ('lollywoodcinema','movieboxmovies',
+                                         'cokestudio','talhaanjum','jaubi','emipakistan'))
                     and not (cache.get(source['id']) or {}).get('lastFetchedAt')],
                    key=lambda source: 0 if source['id'] in
-                   ('lollywoodcinema', 'movieboxmovies') else 1)[:max_channels]
+                   ('lollywoodcinema', 'movieboxmovies') else
+                    1 if source['id'] in
+                   ('cokestudio','talhaanjum','jaubi','emipakistan') else 2)[:max_channels]
                 if max_channels >= 4 else [])
     regular = []
     advance = 0
