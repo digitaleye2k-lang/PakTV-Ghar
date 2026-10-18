@@ -1,15 +1,33 @@
 {
-  "generatedAt": "2026-10-18T15:06:31.430616Z",
+  "generatedAt": "2026-10-18T15:19:01.727838Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-18T15:06:31.430616Z",
+      "updatedAt": "2026-10-18T15:19:01.727838Z",
       "source": "Google News RSS",
       "items": [
+        {
+          "title": "Maldives President Muizzu to visit Pakistan after 11 years as countries mark 60 years of diplomatic ties - Firstpost",
+          "source": "Firstpost",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQWFUQmFVR2VrdDhNSTlBZDJYYldtNjlhUkFCdHJlRDB2bjJpbHZqNldILW9VRDN2Qmo4RkgzbUxCbF9PX1dHM2ZWV2hFWUdqZVR4SDRZVVVDbjRBT1Nzdk9nNm1aOHRrS21UdjlCSmZTYXAxMTF0NkdFTFZMZ2w0dDh5MWNwZlYzSW9yYThneWF1NUZvQ2dTNExiVkFVZkxJcjk2MHhWeXotcEFmUkhmajZqVHlnNHVveERaeS1jNS1CRlNLRnVBMzUxSXpkblhaZEU0OVBVZVYzc1JlZ1IyRzRTQlrSAeoBQVVfeXFMT0ppaXpyRnNVMXB4NFpGSHd2dUV2OHloeFZ1VkhBc2NiQmZnREdLR1lOSi15eHVRT2Zna0Z2ZkN5RWxjMmgwcmphcmNIM1RucEd6b2pNMXh1Yl85S2JpdkJoRC1TMW9VRFJxVjV0aXBoZnJiMFRDN1VWZHNKVXhnN2xzSFFFeFBYdXYzZFpIV0J4TV93ekw3RlJqeTRwQ3JRRGtkQVVmZl9lVkxEcWR1ZXk3VHAxempZLXRPa1hmMVRPVGtxc0JteU5RUWd6NWM3bEtjc2pWdGtWVTJtejVmVFZCNjNldGp1Y3F3?oc=5",
+          "published": "2026-10-18T15:07:14Z"
+        },
+        {
+          "title": "Khawaja Asif raises alarm over bureaucrats' 'exodus' to Portugal - The Express Tribune",
+          "source": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOFptMERoSkJEODRmd2l5Ukc0bzBHMHZGSEVKelN0SERzVXdjRHZtOVZBV1dVck5najNnS20tLW9nMnpSa3dXaEIxd1Y3V1VUcGlCSjVEOFExLS1zU2wtU0N1UUpLOFp6Ml95Z1Q5VWZjRXo0dzBLR01hTXZEcTZ6SHdWSXl4Rkl4dWFuWEZHQ2x3OVhNRDVsUlgyRFNCNUnSAacBQVVfeXFMUFA0MUstSEloQWRGaWlxSllIQW1fQWtnTTc2WGhnNThheVFrTndYSEN2REFLWnBiUHJvOXlJRENaUlNjUVVzWkYxUHpJRTA0REh6MXNhMHJLcHhtTWxCOFhLZ1V4SzZyTUg2dndFUF9oUmhSN3NjMUR6QkxaRXFNYkRob21qai1aVENaQXdLZXJEaEhfSVN0a2xkSm04c1JhTURVZkhhVlU?oc=5",
+          "published": "2026-10-18T15:04:14Z"
+        },
         {
           "title": "Emergency rule in Khyber Pakhtunkhwa exposes decades of state-sponsored terrorism and authoritarian crackdown in Pakistan - ANI News",
           "source": "ANI News",
           "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRThlb04tekVtS2d2SlRoYWQ0TkN1TXk2QzBPTTJ5TEtYUGJNMWtqeHRCeVhVdTZhTzVObUFGVExEN3pFVGFSWHhJa0lNUGh2dmpwS1ZydF9vUk4tYU1qc0pPY3VpMGRnNmR0NENycEU2Y2RSVWlnX2VGSkZJZDNhWE52dHZHdUNvLVFoX3R0THl0S0FONUtZdFpodkFsMG9laDFNQU5XUzNxU1QyYlRTbUpsdkdnQ2pvQzJXTzRsa20yemFKdWlqNDE3QVJxZngxY3Q1WFBBbjZUelBNWXpWQy1lajlCUzVoaUNOcGdYQml0ZmZvUWlMRTN3cl9PdTlGU0NRWFc0M0o?oc=5",
           "published": "2026-10-18T15:00:00Z"
+        },
+        {
+          "title": "Pakistan plans Moon landing by 2035, expands space cooperation with China - The Times of India",
+          "source": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSV9HZ21KRC1mLVhndGZXNVVMX0R4a1FrLVRJOW1BbFBBWWlCTWxLWkI5dE03YjZ4UkxiZnUzeERpajFGWGt2YzBhZlFuN0MzN2lDZWdIbWdiZGZQa3dKM212b09jaGlFUkctWHVBME14VTZ5V1pVaGx1dUJwR2o2bC1xQTVEc0ZrNFlZNVIwYjI0OHNFYWVydm1QRFRrYUhuLVVxZ2dIVmk0VmI2bHRUY3JzWXVPeXpCNnBka1ZqQUhtU3J6ajJGMWJVWTVZb0UwbWJfWDVGVmEyWGZKZ3lzTnNHMNIB6AFBVV95cUxPRUdTUmdBSTh2eFotQnJQTHlmSjlzWFZiTnJLb1JaMkN6WmtYYWk2MXhTZFBLNnBGTTMwQ3lGY25ROGs2R3lYb2JnSThXbUlXVHd1RTlEOVlvcV9XNGoybXJ4ZS0xNWMzYkZXeFVJaF95YzFVa3Z5UE5DTVZBN3pSUkVrSFJQX09KTlVYYzNsSThmaXBEWm5zRXgzb2Y1T25WN2FMdUtJNEdxVXh2Z1IwOVdmbTRsanhxM3RuVkdSTWlWQW1nQlVFTVVWbnNMcl82VlVBZGw4RS1jbG1BUGxjaDhIMmdSZFUw?oc=5",
+          "published": "2026-10-18T14:58:00Z"
         },
         {
           "title": "China, Pakistan Begin First Joint Army Exercise in Xinjiang - Khaama Press",
@@ -36,35 +54,23 @@
           "published": "2026-10-18T13:39:26Z"
         },
         {
-          "title": "Agha's ton helps Pakistan set 306-run target for Sri Lanka in ODI tri-series - The News Pakistan",
-          "source": "The News Pakistan",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVDNjR2hEbFBYdlIyQ1RrQVVRVU5udlJMZVN4QWE1SWo3a2FWRDBNS3Z4ZmgxdE1PN2hhTnVUUTVlZXp0RFNMMGJLUk1VU0xDUUpzdENkd2ZEc2RhOVJJRGNwcVd3U2xmZkUzeUNST2R5WmVlX3NuMWdsRkxDeDE1R0VXUm1fYUZhY2F4N1V1T3FrUEk1M3BaUEN2X3R3YXd4WW1nQndaSTRQZW4wUkY2MmkzSjZJOGRiTTdzRA?oc=5",
-          "published": "2026-10-18T13:30:00Z"
-        },
-        {
-          "title": "FBR Performance Under Review: How Effective Is Pakistan’s Tax System? - Paisa Bolta Hai - Aaj News",
+          "title": "Salman Agha Hits Century as Pakistan Set Sri Lanka a Target of 306 Runs - Aaj News",
           "source": "Aaj News",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xcmdpMTAyRDZ6MFl5ZzhCaXRLckp4U1IzOE1ldU1oZ1F2SVV6bmxWR0F6VFdiQXAxQ0F5cHB1MUliRnlBVTZlNkwxQkY?oc=5",
-          "published": "2026-10-18T13:20:10Z"
-        },
-        {
-          "title": "20 policemen abducted by armed men in South West Pakistan - The Star",
-          "source": "The Star",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVEJHQkwxYWdvQWdCSG9fN0FyQXhzRFFqY0xBUFcxWWZmbG1tNlljTnJLQ2xQZVBIWXJIcXV6a0ttSmpXejRhMDBGZFFiNmlER09zS2JRclZBdDV3NzBhdS1iajE1ZmF6dE9VYVpOeklyRUJEbFp6M0kteWRWOUVKQ05GRWw5U3JacTUxZFZseE1fQmNieGdMdl9qV0hrTnh1aUxObktSQVA5MEFWSE14dXNnVklLT1VfVzJzRg?oc=5",
-          "published": "2026-10-18T13:17:00Z"
-        },
-        {
-          "title": "Pakistan Tri-Series Cricket - dailyrecordnews.com",
-          "source": "dailyrecordnews.com",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZGV6dndGb2tOSVd6a1JqWjg3N056SWVxVjJhMjZLT1R2WVRXMXp1b2dSanVGRmIwM05DSXZiQk5zMTZudjByOTM5dlBlaFNtb2FzXzlkVUdHQ09pY3c3MTN5Ql9KTmIwUVM4dEl6TGNDNEpWQXM1Ny1pSjNBOGVvaGR2SFZOU0E1UFdxUGZXWHlmejFqTFFzVGRQNG5qbmkzcGlLeG1zb0hmTk5YLUJNbzFNbk1LZlZoU0p4bWh1OA?oc=5",
-          "published": "2026-10-18T13:15:36Z"
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1YR1lLb2tNTnIyMWZibXVPOFk2RjZUS25vNE4zeW4tU3FOUEFxVzdZcmhwQnZ5X1BtMUtxOTBRNUhTVUlXVHJTSXNJR1U?oc=5",
+          "published": "2026-10-18T13:35:08Z"
         }
       ]
     },
     "world": {
-      "updatedAt": "2026-10-18T15:06:31.430616Z",
+      "updatedAt": "2026-10-18T15:19:01.727838Z",
       "source": "Google News RSS",
       "items": [
+        {
+          "title": "In Texas Senate race, Ted Cruz tries to push Ken Paxton across the finish line - The Washington Post",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDlZVGxKdW1mQzVPTzhTRzhNcmJlU3JaekkzeWJnRFdpNFIzT1AyOG13c3NtMlczUHZFUHllcG1SVUt4UjlJWlQwMEVxbTdPS1puX2pDelBUeUx3ZGFndTJ2eG41NWhWSExfX3lRNzZJYVIwbVM0R1ZwWmtDd25KM3BBMHZwVEc4bUpyRW5VdWRGNHRDall4X196RGJMbmxSQWloNjdyOWM5Z2VuMnN0ZlhDbUlRWUhBUmI0?oc=5",
+          "published": "2026-10-18T15:02:52Z"
+        },
         {
           "title": "Texans v Jaguars at Wembley: NFL week six – live - The Guardian",
           "source": "The Guardian",
@@ -96,10 +102,10 @@
           "published": "2026-10-18T13:35:00Z"
         },
         {
-          "title": "In Texas Senate race, Ted Cruz tries to push Ken Paxton across the finish line - The Washington Post",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDlZVGxKdW1mQzVPTzhTRzhNcmJlU3JaekkzeWJnRFdpNFIzT1AyOG13c3NtMlczUHZFUHllcG1SVUt4UjlJWlQwMEVxbTdPS1puX2pDelBUeUx3ZGFndTJ2eG41NWhWSExfX3lRNzZJYVIwbVM0R1ZwWmtDd25KM3BBMHZwVEc4bUpyRW5VdWRGNHRDall4X196RGJMbmxSQWloNjdyOWM5Z2VuMnN0ZlhDbUlRWUhBUmI0?oc=5",
-          "published": "2026-10-18T13:32:52Z"
+          "title": "U.S. taking Putin’s side would be a ‘historic mistake,’ says Zelenskyy - NBC News",
+          "source": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc3lKTGxQVkp3ekFlSGNORlJsWnplUnIwUHhqQ09tbHVUT212RUJQSUNYMGtXcjkxZERQWGdCVkJ6eENseHVNal9vNWQxZWQ4Z09jVk4wMlo5OG9nM25JUTFGa1dpV0VwS3l4Um11U01MQzBPaVpVQXJhRkpuMllBb2FSbFFJaVBxX3RUdDFsM29MampSUzUtcXZMejlCbkYxcHBSd1VzTGxoZm56UW92YzN6ZXhzLUpIQ2c?oc=5",
+          "published": "2026-10-18T13:34:39Z"
         },
         {
           "title": "Life Finally Gets Easier For 3 Zodiac Signs When The Moon Aligns With Neptune On October 19 - YourTango",
@@ -108,22 +114,16 @@
           "published": "2026-10-18T13:06:09Z"
         },
         {
-          "title": "Big 12 admits clock error at end of Notre Dame-BYU game - NBC Sports",
-          "source": "NBC Sports",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORjlVNWptZ0owRVVGcy0yaVNxOXRSLUxPRTZjMDZnVlVJbUdfSnFpUGpPTEdHYzQ0TlZRSzFiQkJwX0syNUFXaVdsYy1ZT1V0bFpBd0pEdTZlb29MT1ZZYmJJbkJYa0hjZWo5UldObl9BbHRxSnczVEVMaGxBdkU0X1Fva1dwRGU5bndNNVM1WXNaWnhvYXl5UGxmWUE0SmNVLTBVVWZpYXdyQjhIWXhZYzBSMWl3WUtL?oc=5",
-          "published": "2026-10-18T12:36:43Z"
-        },
-        {
-          "title": "Trump tries different approach with Russia to bring Americans relief amid ongoing war with Ukraine - Fox News",
-          "source": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHpPTU5QelFLREtoQmFtaWdZMV9DSXA5dkR3RWNMNmZpek5waFVxZE9JSWpLZU81WmFuM016WlRRTjB1S1R0NnFNTVJyZ2pCWGpBaVZDcThObGpQUk1ySWJSQWFqdGpBbzFOd2pzcEE3Vmh5bkR6Z2pwczc1cmNBRlNYbUJoYUg5TVAzcmFCRHJxZlppTnVLTWg0X05FMVAtMWZ1Y3YySmt2R1MyM016ckppVDlrS0tlR2fSAb8BQVVfeXFMTW55QWdNM0RPV3FRbjVkMDNQWmdvTkZ4cEExbHZlY0E3OWRqOVNCQUM3ZC1vcnd5cGtrYmtmTEdBRW5iNU5kTk4wbXVJNHZ6dWNXRi11dkRtTHZ2RVVQcndPMEVYcTdRN09OUklSQUZ3WmlITERjUTh5Ri1tYWxrNWxHTXhER2o1WEpnbVRnVFBwZkJrUFQ5VTY3WHpuMGRtclY4TzZOWnNIblJmSjc1RlpvSVZLTUlVam5TX0cwTGc?oc=5",
-          "published": "2026-10-18T12:00:13Z"
+          "title": "Poll: Americans are anxious, pessimistic and deeply unhappy with Trump ahead of the midterms - NBC News",
+          "source": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUpJdnlDdnVzOVFlWjJYaXEwZG9aOHlDVTF0cFVkX3dTS1gzdnc5OEJzZGtVX2lfemtlSFY4TGhVMTc3b1p5X3ZiT0JOenNqTUFyZGV3QWVpVm4xaV9vejBrZVQzZ00tOTlkUTJteUdpbVBWQTc3a2hMbjBER1FQc1lyekh1WnFYdDZpZW41X1FsQXd6WF9WM2dhYXB0bm1oMks3Z1ktNS1kRDBKU2RMMG94MXl0YVR0VWRBUzBPMUliVXFvZ3VZ?oc=5",
+          "published": "2026-10-18T13:00:00Z"
         }
       ]
     }
   },
   "weather": {
-    "updatedAt": "2026-10-18T15:06:31.430616Z",
+    "updatedAt": "2026-10-18T15:19:01.727838Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -162,7 +162,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-18T15:06:31.430616Z",
+    "updatedAt": "2026-10-18T15:19:01.727838Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
