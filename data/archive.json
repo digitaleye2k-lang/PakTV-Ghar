@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T20:32:10.346399+00:00",
+  "generatedAt": "2026-10-18T20:37:31.061952+00:00",
   "dateTimezone": "UTC",
-  "cursor": 39,
+  "cursor": 51,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -77,28 +77,28 @@
       "uploadsId": "UUY7eFg5TEMsk_aTqM0pVB4w",
       "handle": "sabirshakirpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T20:08:19.271526+00:00"
+      "lastFetchedAt": "2026-10-18T20:37:31.061952+00:00"
     },
     "harpalgeo": {
       "youtubeId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
       "uploadsId": "UUe9JSDmyqNgA_l2BzGHq1Ug",
       "handle": "HarPalGeoOfficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T20:08:19.271526+00:00"
+      "lastFetchedAt": "2026-10-18T20:37:31.061952+00:00"
     },
     "foodfusion": {
       "youtubeId": "UCuqBZWK9Wrol_4Y22DzisFQ",
       "uploadsId": "UUuqBZWK9Wrol_4Y22DzisFQ",
       "handle": "FoodfusionPk",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T20:08:19.271526+00:00"
+      "lastFetchedAt": "2026-10-18T20:37:31.061952+00:00"
     },
     "samaa": {
       "youtubeId": "UCJekW1Vj5fCVEGdye_mBN6Q",
       "uploadsId": "UUJekW1Vj5fCVEGdye_mBN6Q",
       "handle": "SAMAATV",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T20:08:19.271526+00:00"
+      "lastFetchedAt": "2026-10-18T20:37:31.061952+00:00"
     },
     "hasbehaal": {
       "youtubeId": "UCyiJNpF7RgpPhyeKc4wnQkg",
@@ -196,49 +196,49 @@
       "uploadsId": "UUF2ltLX1dnPa6-L1paPaMzw",
       "handle": "GreenEntertainmentTV",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T20:08:19.271526+00:00"
+      "lastFetchedAt": "2026-10-18T20:37:31.061952+00:00"
     },
     "ptvhome": {
       "youtubeId": "UCMfwlaPLGMn44BKvHv15yzA",
       "uploadsId": "UUMfwlaPLGMn44BKvHv15yzA",
       "handle": "PTVHomeEntertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T20:08:19.271526+00:00"
+      "lastFetchedAt": "2026-10-18T20:37:31.061952+00:00"
     },
     "expressent": {
       "youtubeId": "UCU1r97baEf3JJI5fY6NtMpA",
       "uploadsId": "UUU1r97baEf3JJI5fY6NtMpA",
       "handle": "expressentertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T20:08:19.271526+00:00"
+      "lastFetchedAt": "2026-10-18T20:37:31.061952+00:00"
     },
     "ptvnews": {
       "youtubeId": "UC5RvV_LtR1dxPCVFGw6dxXA",
       "uploadsId": "UU5RvV_LtR1dxPCVFGw6dxXA",
       "handle": "PTVNewsOfficial",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T20:08:19.271526+00:00"
+      "lastFetchedAt": "2026-10-18T20:37:31.061952+00:00"
     },
     "aajnews": {
       "youtubeId": "UCgBAPAcLsh_MAPvJprIz89w",
       "uploadsId": "UUgBAPAcLsh_MAPvJprIz89w",
       "handle": "aajtvofficial",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T20:08:19.271526+00:00"
+      "lastFetchedAt": "2026-10-18T20:37:31.061952+00:00"
     },
     "aajent": {
       "youtubeId": "UC2m98kh188cg_9x248IZM9A",
       "uploadsId": "UU2m98kh188cg_9x248IZM9A",
       "handle": "aajentertainment",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T20:08:19.271526+00:00"
+      "lastFetchedAt": "2026-10-18T20:37:31.061952+00:00"
     },
     "mooroo": {
       "youtubeId": "UC-rP-oFlxQGpSLYHBlhIWkg",
       "uploadsId": "UU-rP-oFlxQGpSLYHBlhIWkg",
       "handle": "mooroosicity",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T20:11:10.576823+00:00"
+      "lastFetchedAt": "2026-10-18T20:37:31.061952+00:00"
     },
     "aryfilms": {
       "youtubeId": "UC2PYniNHljOED9xNaMpiMiQ",
@@ -411,6 +411,42 @@
   },
   "videos": [
     {
+      "id": "MWFp1J5mna4",
+      "title": "Saudi-Houthi War | Saudi Arabia Intercepts Houthi Projectile | 12:30 AM News Update | Samaa TV",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T20:30:31Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 591,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/MWFp1J5mna4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "e4VIiUXv5iM",
+      "title": "Nashtar Episode 21 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+      "channel": "Har Pal Geo",
+      "channelId": "harpalgeo",
+      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T20:30:24Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 545,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/e4VIiUXv5iM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "WmWovqQORac",
       "title": "🔴 LIVE || 19 Years Since Karsaz Tragedy | Bilawal Bhutto Delivers Address || ARY News Live",
       "channel": "ARY News",
@@ -426,6 +462,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/WmWovqQORac/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "RBy9ksnzKgM",
+      "title": "Bilawal Bhutto Offers to End Emergency in KP | Sharmila Faruqui Shares Details | Do Tok",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T20:15:53Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 605,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/RBy9ksnzKgM/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -447,6 +501,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "S_hm-Sa3MBk",
+      "title": "New Long March Plan Revealed | Political Tensions Rise Across Pakistan",
+      "channel": "Sabir Shakir",
+      "channelId": "sabir",
+      "youtubeChannelId": "UCY7eFg5TEMsk_aTqM0pVB4w",
+      "category": "vloggers",
+      "genre": "News & commentary",
+      "date": "2026-10-18",
+      "published": "2026-10-18T20:15:30Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2456,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/S_hm-Sa3MBk/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "8a-7BoDs3d8",
       "title": "Goga Pasroori Se Saleem Albela Ki Badtamizi | Hoshyarian",
       "channel": "ARY News",
@@ -462,6 +534,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/8a-7BoDs3d8/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "oVQNGkoypYc",
+      "title": "Police Wale Ko Thappar Maar Diya! 😱 || Bano || Har Pal Geo",
+      "channel": "Har Pal Geo",
+      "channelId": "harpalgeo",
+      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T20:15:06Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 212,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/oVQNGkoypYc/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -30327,24 +30417,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "2DC-mH_5kFo",
-      "title": "T20 WC Win Over India, Turning Point or Downfall | Analyzing Pakistan Cricket’s Post-2021 Trajectory",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T16:11:42Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 680,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/2DC-mH_5kFo/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "Wlkt1HLifAk",
       "title": "Zoor Se Dabao Chami Dadi Ki Tangein..!! #aangan #sajalaly #ahadrazamir #ahsankhan",
       "channel": "HUM TV",
@@ -30360,24 +30432,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/Wlkt1HLifAk/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "tWXnuqHz0jg",
-      "title": "Was Shadab Khan Selected on Merit or Because He Was a Favourite? Saqlain Mushtaq Reveals the Truth",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T16:07:57Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 137,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/tWXnuqHz0jg/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -42099,24 +42153,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "EVR-UsK4BHE",
-      "title": "Maa Ne Sautele Bete Ko Muthi Mein Kar Liya 😔 || Khafa || Har Pal Geo",
-      "channel": "Har Pal Geo",
-      "channelId": "harpalgeo",
-      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T05:15:13Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 254,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/EVR-UsK4BHE/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "O_qXUpesMMo",
       "title": "Emeregncy & Governor's Rule In KP | Joint Session of Parliament | Dawn News Headlines 9 AM",
       "channel": "Dawn News",
@@ -42150,24 +42186,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/JNZdzSZ-0CA/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "w4KTyobB-Ds",
-      "title": "Uswah Episode 22 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-      "channel": "Har Pal Geo",
-      "channelId": "harpalgeo",
-      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T05:00:09Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 536,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/w4KTyobB-Ds/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -75831,24 +75849,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "LgVZMPPmDbE",
-      "title": "Ghar Par Banaye Halwai Jaisa Danedaar Mohan Thal Halwa - RKK",
-      "channel": "Ruby Ka Kitchen",
-      "channelId": "ruby",
-      "youtubeChannelId": "UCMhx-uS3O-G_6_lTrYmDKLw",
-      "category": "vloggers",
-      "genre": "Food & recipes",
-      "date": "2026-08-08",
-      "published": "2026-08-08T09:15:13Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 664,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/LgVZMPPmDbE/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "D9HNPnpMlaA",
       "title": "Thehar Bhi Jao Sanam | Mala | @EMIPakistanOfficial",
       "channel": "EMI Pakistan",
@@ -79611,6 +79611,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Dunya News: HTTP 404: playlistNotFound; Imran Riaz Khan: channel unavailable",
+  "lastError": "Junaid Akram: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
