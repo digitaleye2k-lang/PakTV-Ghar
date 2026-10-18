@@ -127,7 +127,7 @@ def market_quote(name, symbol, region):
     result = json.loads(request(url))["chart"]["result"][0]
     meta = result["meta"]
     current = float(meta["regularMarketPrice"])
-    previous = meta.get("chartPreviousClose") or meta.get("previousClose")
+    previous = meta.get("previousClose") or meta.get("regularMarketPreviousClose")
     if not previous:
         closes = (result.get("indicators") or {}).get("quote", [{}])[0].get("close") or []
         valid = [x for x in closes if isinstance(x, (float, int)) and math.isfinite(x)]
