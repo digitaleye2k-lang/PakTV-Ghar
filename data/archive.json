@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T20:04:20.517484+00:00",
+  "generatedAt": "2026-10-18T20:07:03.926674+00:00",
   "dateTimezone": "UTC",
-  "cursor": 39,
+  "cursor": 50,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -77,28 +77,28 @@
       "uploadsId": "UUY7eFg5TEMsk_aTqM0pVB4w",
       "handle": "sabirshakirpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T19:50:42.913030+00:00"
+      "lastFetchedAt": "2026-10-18T20:07:03.926674+00:00"
     },
     "harpalgeo": {
       "youtubeId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
       "uploadsId": "UUe9JSDmyqNgA_l2BzGHq1Ug",
       "handle": "HarPalGeoOfficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T19:50:42.913030+00:00"
+      "lastFetchedAt": "2026-10-18T20:07:03.926674+00:00"
     },
     "foodfusion": {
       "youtubeId": "UCuqBZWK9Wrol_4Y22DzisFQ",
       "uploadsId": "UUuqBZWK9Wrol_4Y22DzisFQ",
       "handle": "FoodfusionPk",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T19:52:48.613204+00:00"
+      "lastFetchedAt": "2026-10-18T20:07:03.926674+00:00"
     },
     "samaa": {
       "youtubeId": "UCJekW1Vj5fCVEGdye_mBN6Q",
       "uploadsId": "UUJekW1Vj5fCVEGdye_mBN6Q",
       "handle": "SAMAATV",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T19:52:48.613204+00:00"
+      "lastFetchedAt": "2026-10-18T20:07:03.926674+00:00"
     },
     "hasbehaal": {
       "youtubeId": "UCyiJNpF7RgpPhyeKc4wnQkg",
@@ -196,42 +196,42 @@
       "uploadsId": "UUF2ltLX1dnPa6-L1paPaMzw",
       "handle": "GreenEntertainmentTV",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T19:50:42.913030+00:00"
+      "lastFetchedAt": "2026-10-18T20:07:03.926674+00:00"
     },
     "ptvhome": {
       "youtubeId": "UCMfwlaPLGMn44BKvHv15yzA",
       "uploadsId": "UUMfwlaPLGMn44BKvHv15yzA",
       "handle": "PTVHomeEntertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T19:52:48.613204+00:00"
+      "lastFetchedAt": "2026-10-18T20:07:03.926674+00:00"
     },
     "expressent": {
       "youtubeId": "UCU1r97baEf3JJI5fY6NtMpA",
       "uploadsId": "UUU1r97baEf3JJI5fY6NtMpA",
       "handle": "expressentertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T19:52:48.613204+00:00"
+      "lastFetchedAt": "2026-10-18T20:07:03.926674+00:00"
     },
     "ptvnews": {
       "youtubeId": "UC5RvV_LtR1dxPCVFGw6dxXA",
       "uploadsId": "UU5RvV_LtR1dxPCVFGw6dxXA",
       "handle": "PTVNewsOfficial",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T19:52:48.613204+00:00"
+      "lastFetchedAt": "2026-10-18T20:07:03.926674+00:00"
     },
     "aajnews": {
       "youtubeId": "UCgBAPAcLsh_MAPvJprIz89w",
       "uploadsId": "UUgBAPAcLsh_MAPvJprIz89w",
       "handle": "aajtvofficial",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T19:52:48.613204+00:00"
+      "lastFetchedAt": "2026-10-18T20:07:03.926674+00:00"
     },
     "aajent": {
       "youtubeId": "UC2m98kh188cg_9x248IZM9A",
       "uploadsId": "UU2m98kh188cg_9x248IZM9A",
       "handle": "aajentertainment",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T19:52:48.613204+00:00"
+      "lastFetchedAt": "2026-10-18T20:07:03.926674+00:00"
     },
     "mooroo": {
       "youtubeId": "UC-rP-oFlxQGpSLYHBlhIWkg",
@@ -410,6 +410,24 @@
   },
   "videos": [
     {
+      "id": "Z2zTRRYPOU8",
+      "title": "Iran-US War | Pakistan Renews Efforts for Ceasefire and Peace Agreement | 12 AM News Headlines",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T20:05:09Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 675,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Z2zTRRYPOU8/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "xe7CkIYg6iE",
       "title": "1 AM Latest News Headlines #breakingnews #latestnews #headlines #newsheadlines #shorts",
       "channel": "ARY News",
@@ -446,6 +464,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "qT0IQ8OKWUo",
+      "title": "Uswah Episode 26 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+      "channel": "Har Pal Geo",
+      "channelId": "harpalgeo",
+      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T20:00:15Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 534,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/qT0IQ8OKWUo/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "Pe1HLeEcYbA",
       "title": "Hina Javed’s Brother Shocking Statement on Police Investigation #shorts #youtubeshorts",
       "channel": "ARY News",
@@ -461,6 +497,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/Pe1HLeEcYbA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "revlHX2eHZU",
+      "title": "KP Governor’s Rule Update | What Actions Has Govt Taken in 1st Week? | Samar Haroon Bilour Reveals",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T19:56:01Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 633,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/revlHX2eHZU/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -30614,42 +30668,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "hR0V8wzT9WA",
-      "title": "Who Is Responsible for the Downfall of Pakistan Cricket?",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T15:49:09Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 144,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/hR0V8wzT9WA/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "bgVzcbEVHlc",
-      "title": "KP Emergency | Market Closed | New Timing | Public Worried | 08:30 PM News Update | Samaa TV",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T15:45:39Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 678,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/bgVzcbEVHlc/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "MYXjVXLdq1A",
       "title": "Kin Chakron Mein Paray Ho!! | Bhanwar | Express TV",
       "channel": "Express TV",
@@ -42167,24 +42185,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/9TUPmrfbmvE/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "-KAyH_ywjQs",
-      "title": "Masti Mazaq Ka Nikah Mehanga Per Gaya 😔 || Uswah || Har Pal Geo",
-      "channel": "Har Pal Geo",
-      "channelId": "harpalgeo",
-      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T04:45:20Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 180,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/-KAyH_ywjQs/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79610,6 +79610,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "EMI Pakistan: HTTP 404: playlistNotFound; Dunya News: HTTP 404: playlistNotFound; Imran Riaz Khan: channel unavailable",
+  "lastError": "EMI Pakistan: HTTP 404: playlistNotFound; Junaid Akram: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
