@@ -141,6 +141,7 @@ function drawQueue(){
  $("playerPrevious").disabled=state.queue.length<2;
 }
 function startQueue(tracks,index=0){
+ document.dispatchEvent(new CustomEvent("paktv:music-queue-changed"));
  state.queue=uniq(tracks);state.index=-1;drawQueue();playAt(index);
  document.dispatchEvent(new CustomEvent("paktv:dj-queue-start"));
  document.querySelector(".studio")?.scrollIntoView({behavior:"smooth",block:"center"});
