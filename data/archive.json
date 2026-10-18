@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T17:48:49.190558+00:00",
+  "generatedAt": "2026-10-18T17:49:46.412233+00:00",
   "dateTimezone": "UTC",
-  "cursor": 25,
+  "cursor": 37,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -56,35 +56,35 @@
       "uploadsId": "UUt8NJjYKc2aT3T0TnbcWxSw",
       "handle": "streetfoodpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T17:37:12.468906+00:00"
+      "lastFetchedAt": "2026-10-18T17:49:46.412233+00:00"
     },
     "hum": {
       "youtubeId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
       "uploadsId": "UUEeEQxm6qc_qaTE7qTV5aLQ",
       "handle": "HUMTV",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T17:37:12.468906+00:00"
+      "lastFetchedAt": "2026-10-18T17:49:46.412233+00:00"
     },
     "arydigital": {
       "youtubeId": "UC4JCksJF76g_MdzPVBJoC3Q",
       "uploadsId": "UU4JCksJF76g_MdzPVBJoC3Q",
       "handle": "ARYDigitalasia",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T17:37:12.468906+00:00"
+      "lastFetchedAt": "2026-10-18T17:49:46.412233+00:00"
     },
     "sabir": {
       "youtubeId": "UCY7eFg5TEMsk_aTqM0pVB4w",
       "uploadsId": "UUY7eFg5TEMsk_aTqM0pVB4w",
       "handle": "sabirshakirpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T17:37:12.468906+00:00"
+      "lastFetchedAt": "2026-10-18T17:49:46.412233+00:00"
     },
     "harpalgeo": {
       "youtubeId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
       "uploadsId": "UUe9JSDmyqNgA_l2BzGHq1Ug",
       "handle": "HarPalGeoOfficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T17:37:12.468906+00:00"
+      "lastFetchedAt": "2026-10-18T17:49:46.412233+00:00"
     },
     "foodfusion": {
       "youtubeId": "UCuqBZWK9Wrol_4Y22DzisFQ",
@@ -196,42 +196,42 @@
       "uploadsId": "UUF2ltLX1dnPa6-L1paPaMzw",
       "handle": "GreenEntertainmentTV",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T17:37:12.468906+00:00"
+      "lastFetchedAt": "2026-10-18T17:49:46.412233+00:00"
     },
     "ptvhome": {
       "youtubeId": "UCMfwlaPLGMn44BKvHv15yzA",
       "uploadsId": "UUMfwlaPLGMn44BKvHv15yzA",
       "handle": "PTVHomeEntertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T17:37:12.468906+00:00"
+      "lastFetchedAt": "2026-10-18T17:49:46.412233+00:00"
     },
     "expressent": {
       "youtubeId": "UCU1r97baEf3JJI5fY6NtMpA",
       "uploadsId": "UUU1r97baEf3JJI5fY6NtMpA",
       "handle": "expressentertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T17:37:12.468906+00:00"
+      "lastFetchedAt": "2026-10-18T17:49:46.412233+00:00"
     },
     "ptvnews": {
       "youtubeId": "UC5RvV_LtR1dxPCVFGw6dxXA",
       "uploadsId": "UU5RvV_LtR1dxPCVFGw6dxXA",
       "handle": "PTVNewsOfficial",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T17:37:12.468906+00:00"
+      "lastFetchedAt": "2026-10-18T17:49:46.412233+00:00"
     },
     "aajnews": {
       "youtubeId": "UCgBAPAcLsh_MAPvJprIz89w",
       "uploadsId": "UUgBAPAcLsh_MAPvJprIz89w",
       "handle": "aajtvofficial",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T17:37:12.468906+00:00"
+      "lastFetchedAt": "2026-10-18T17:49:46.412233+00:00"
     },
     "aajent": {
       "youtubeId": "UC2m98kh188cg_9x248IZM9A",
       "uploadsId": "UU2m98kh188cg_9x248IZM9A",
       "handle": "aajentertainment",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T17:42:30.531286+00:00"
+      "lastFetchedAt": "2026-10-18T17:49:46.412233+00:00"
     },
     "mooroo": {
       "youtubeId": "UC-rP-oFlxQGpSLYHBlhIWkg",
@@ -402,6 +402,168 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/WpKWgbRLRho/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "u20Y5HAI5pE",
+      "title": "From His Confusion to Everyone’s Confusion😅#shorts #sumaiyyabukhsh #humayunashraf #madaar #greentv",
+      "channel": "Green Entertainment",
+      "channelId": "greentv",
+      "youtubeChannelId": "UCF2ltLX1dnPa6-L1paPaMzw",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:45:23Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 121,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/u20Y5HAI5pE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "6UvkBlFRfEw",
+      "title": "Mera Beta Koi Ghalat Qadam Na Utha Le | Momina Iqbal | Usama Khan | Nizaam | Green TV",
+      "channel": "Green Entertainment",
+      "channelId": "greentv",
+      "youtubeChannelId": "UCF2ltLX1dnPa6-L1paPaMzw",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:45:21Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 106,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/6UvkBlFRfEw/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "PPZac1ROZvM",
+      "title": "Yeh Raha Meri Begunahi Ka Suboot | Hiba Aziz - Danial Afzal - Areej Mohyudin | Dastoor | Green TV",
+      "channel": "Green Entertainment",
+      "channelId": "greentv",
+      "youtubeChannelId": "UCF2ltLX1dnPa6-L1paPaMzw",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:45:14Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 132,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/PPZac1ROZvM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "CbhTIc0QcHI",
+      "title": "Bano Episode 07 Teaser - 18th October 2026 - HAR PAL GEO",
+      "channel": "Har Pal Geo",
+      "channelId": "harpalgeo",
+      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:45:00Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 652,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/CbhTIc0QcHI/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "wD-TIzXppvU",
+      "title": "KP Governor Rule Debate, India in Chaos and PTI Faces Political Challenges | 10 PM HEADLINES",
+      "channel": "Aaj TV Official",
+      "channelId": "aajnews",
+      "youtubeChannelId": "UCgBAPAcLsh_MAPvJprIz89w",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:43:24Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 717,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/wD-TIzXppvU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "tKwqrq-msn0",
+      "title": "Aaj Mein Banao Ga Apni Biwi Ke Liye Nashta..! Zehar-e-Mohabbat  - HUM TV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:40:32Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 139,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/tKwqrq-msn0/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "O0WvJbQsOj0",
+      "title": "Mama Ap Saim Ko Meri Shadi Pe Bulanay Kyun Ja Rahi...? #khushi #sumaiyyabukhs #HUMTV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:40:18Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 262,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/O0WvJbQsOj0/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "BLUNQBP37y8",
+      "title": "Khushi New Ep | Must Watch Scene | #khushi #sumaiyyabukhs #HUMTV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:40:09Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 488,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/BLUNQBP37y8/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "KI2tNK0Ix9U",
+      "title": "Aik Aesa Raaz Jiski Qeemat Hai Lakhon Rupee..! Zehar-e-Mohabbat  - HUM TV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:38:12Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 148,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/KI2tNK0Ix9U/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -36387,42 +36549,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "ljYZkjCwlNM",
-      "title": "Iss Aurat Ka Jadu Kaam Kar Gaya..! #khushi #sumaiyyabukhs #HUMTV",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T17:28:35Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 506,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/ljYZkjCwlNM/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "7EWg-7qPSQY",
-      "title": "Abu Humein Chor Kar Chalay Gaye Sarim...!! #TarkETamanna #HUMTV",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T17:25:21Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 322,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/7EWg-7qPSQY/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "bLybt09H0Eo",
       "title": "Role Of ARDC Council In KP - What You Need To Know | Dawn News",
       "channel": "Dawn News",
@@ -36438,42 +36564,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/bLybt09H0Eo/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "6pIS9M05bcA",
-      "title": "Shohar Ko Nayi Dulhan Ke Hawale Kar Diya..! 😲💔 #Gulbahar #SanamSaeed #EmmadIrfani",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T17:20:34Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 283,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/6pIS9M05bcA/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "ruCrXGCP-S4",
-      "title": "Mein Abb College Nahi Jao Gi...!! #TarkETamanna #HUMTV",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T17:20:17Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 138,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/ruCrXGCP-S4/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -41517,24 +41607,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "pO-E04mfDRo",
-      "title": "Uswah Episode 22 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-      "channel": "Har Pal Geo",
-      "channelId": "harpalgeo",
-      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T04:00:21Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 530,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/pO-E04mfDRo/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "4TbZYtoj2MM",
       "title": "Emergency & Governor's Rule in KP | PTI Surprises Govt | 8AM HEADLINES  15 OCT 2026",
       "channel": "Aaj TV Official",
@@ -44217,24 +44289,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "8aMmJTC_ppk",
-      "title": "Ghusay Mein Aakar Thapar Munh Pe Maar Diya 😱 | Humayoun Ashraf - Sumaiyya Bukhsh | Madaar | Green TV",
-      "channel": "Green Entertainment",
-      "channelId": "greentv",
-      "youtubeChannelId": "UCF2ltLX1dnPa6-L1paPaMzw",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-14",
-      "published": "2026-10-14T12:45:11Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 177,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/8aMmJTC_ppk/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "sotUeKGF16k",
       "title": "Emergency In KP | Houthis | Saudi Arabia News | Riyadh Missile Update | 5 PM HEADLINES 14 Oct 2026",
       "channel": "Aaj TV Official",
@@ -44250,42 +44304,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/sotUeKGF16k/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "BKbADqMuT6Y",
-      "title": "Kis Jurm Ki Saza Hai Yeh Sab 😭 | Danyal Zafar | Komal Meer | Raqaas | Green TV",
-      "channel": "Green Entertainment",
-      "channelId": "greentv",
-      "youtubeChannelId": "UCF2ltLX1dnPa6-L1paPaMzw",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-14",
-      "published": "2026-10-14T12:30:12Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 116,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/BKbADqMuT6Y/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "F5S7HdcrcZo",
-      "title": "Mustafa Ne Shiza Ko Talaaq Dedi Hai | Hiba Aziz - Danial Afzal | Dastoor | Green TV",
-      "channel": "Green Entertainment",
-      "channelId": "greentv",
-      "youtubeChannelId": "UCF2ltLX1dnPa6-L1paPaMzw",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-14",
-      "published": "2026-10-14T12:15:35Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 173,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/F5S7HdcrcZo/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -45888,24 +45906,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/rPOJFRo2Law/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "m5ysFPxghNo",
-      "title": "KP Emergency | Sohail Afridi Latest News | PTI Long March | Khyber Pakhtunkhwa | 9AM HEADLINE 14 OCT",
-      "channel": "Aaj TV Official",
-      "channelId": "aajnews",
-      "youtubeChannelId": "UCgBAPAcLsh_MAPvJprIz89w",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-14",
-      "published": "2026-10-14T04:52:20Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 641,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/m5ysFPxghNo/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79569,6 +79569,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Dunya News: HTTP 404: playlistNotFound",
+  "lastError": "Imran Riaz Khan: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
