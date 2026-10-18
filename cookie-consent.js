@@ -90,7 +90,35 @@
     script.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7935805760564580";
     document.head.appendChild(script);
   }
+  function standaloneAdSlots(){
+    // Main TV pages already include these slots. Other adult-oriented static
+    // pages opt in explicitly using data-paktv-auto-ads="yes" on their body.
+    if(document.body?.dataset?.paktvAutoAds!=="yes" ||
+       document.getElementById("paktvBannerSection"))return;
+    const main=document.querySelector("main");
+    if(!main||!main.parentNode)return;
+    function section(id,label,slotId,isTop){
+      const node=document.createElement("section");
+      node.id=id;node.className="ad-placement "+(isTop?"ad-placement-top":"ad-placement-bottom");
+      node.setAttribute("aria-label",label);
+      node.hidden=true;
+      const caption=document.createElement("span");caption.className="ad-label";
+      caption.textContent=isTop?"Advertisement":"Sponsored advertisement";
+      const frame=document.createElement("div");
+      frame.className=isTop?"ad-banner-scroll":"ad-native-slot";
+      const slot=document.createElement("div");slot.id=slotId;
+      if(isTop)slot.className="ad-banner-fixed";
+      frame.appendChild(slot);node.append(caption,frame);
+      return node;
+    }
+    main.parentNode.insertBefore(section("paktvBannerSection","Advertisement","paktvBannerSlot",true),main);
+    main.parentNode.insertBefore(section("paktvNativeSection","Sponsored content","paktvNativeSlot",false),main.nextSibling);
+  }
   function init(){
+    // No advertising manager, tracking or optional ad scripts on children's pages.
+    const name=String(window.location?.pathname||"").split("/").pop();
+    if(/^(kids|waggle-play|waggle-workshop)\.html$/i.test(name))return;
+    standaloneAdSlots();
     const saved=choice();
     const root=document.createElement("div");
     root.innerHTML=[
@@ -153,7 +181,7 @@
     document.querySelectorAll("[data-privacy-settings]").forEach(x=>x.addEventListener("click",open));
     if(!saved)banner.hidden=false;
     if(!GPC&&saved?.ads)loadDisplayAds();
-    if(!GPC&&saved?.extra)loadExtraAds();
+    if(!GPC&&saved?.extra&&document.body?.dataset?.paktvExtraAds!=="no")loadExtraAds();
     if(!GPC&&saved?.googleAds)loadGoogleAds();
   }
   if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",init,{once:true});
