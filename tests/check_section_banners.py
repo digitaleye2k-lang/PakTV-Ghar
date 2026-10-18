@@ -25,7 +25,7 @@ for term in (
     "prefers-reduced-motion",
     "state.showMeta[s.id]?.poster",
     "state.archiveVideos",
-    "thumb(video.id)",
+    "thumb(v.id)",
     "data-section-banner",
     "film", # contained in app's movie references
     "movie-headline-",
