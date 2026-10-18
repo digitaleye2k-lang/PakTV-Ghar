@@ -24,7 +24,7 @@ for expected in ("briefTabPakistan", "briefTabWorld", "briefWeather",
     assert expected in client, "Briefing behaviour missing: " + expected
 for expected in ('id="gupshupMessages"', 'id="gupshupForm"',
                  'id="reportForm"', 'src="./gupshup.js"', 'href="./gupshup.css"',
-                 'Friends_talking_over_tea', 'aria-label="Choose discussion room"'):
+                 'gupshup-chai-main.jpg', 'gupshup-loop.mp4', 'gupshup-media-grid', 'muted loop playsinline', 'aria-label="Choose discussion room"'):
     assert expected in gupshup, "Dedicated GUPSHUP page missing: " + expected
 for expected in ("pgh_public_messages", "pgh_post_message",
                  "pgh_report_message", "signInAnonymously", "textContent",
