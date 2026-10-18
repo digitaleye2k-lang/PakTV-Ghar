@@ -4,6 +4,8 @@
 (() => {
 'use strict';
 const CHANNELS = [
+ {id:'lollywoodcinema',name:'LollywoodCinema',handle:'LollywoodCinema',category:'movies',genre:'Classic Pakistani Movies',initials:'LC',colors:['#2d8b6b','#bf9b64'],description:'Publisher-managed Pakistani cinema: classics, Urdu and Punjabi films.'},
+ {id:'movieboxmovies',name:'MovieboxMovies',handle:'movieboxmovies',category:'movies',genre:'Classic Pakistani Movies',initials:'MB',colors:['#2d8b6b','#bf9b64'],description:'Pakistani full films and classic Lollywood from Moviebox.'},
  {id:'waggleworkshop',name:'The Waggle Workshop',handle:'TheWaggleWorkshop',category:'waggle',genre:'Kids learning, games & Professor Pip',initials:'WW',colors:['#22ad7c','#f3b647'],description:'Professor Pip adventures, letters, numbers, colours, animals and learning videos for children.'},
  {id:'aryfilms',name:'ARY Films',handle:'ARYFilms',category:'movies',genre:'Pakistani films & TV movies',initials:'ARY',colors:['#e87166','#863444'],description:'Full-length films and movie-length editions uploaded by ARY Films.'},
  {id:'drmmovies',name:'Pakistani Movies by DRM',handle:'pakistani_movies',category:'movies',genre:'Pakistani films & TV movies',initials:'DRM',colors:['#c8a87b','#74536b'],description:'Pakistani feature films and full-length TV films from this movie publisher channel.'},
@@ -467,6 +469,11 @@ function renderMovies(){
     (v.title+' '+v.channel).toLocaleLowerCase().includes(state.movieSearch.trim().toLocaleLowerCase()));
   const movieChannels=CHANNELS.filter(c=>c.category==='movies');
   const movieCards=candidates.slice(0,state.visibleVideos);
+  const classicPublishers=['lollywoodcinema','movieboxmovies'];
+  const classicFilms=all.filter(v=>classicPublishers.includes(v.channelId) ||
+    /\bclassic\b|\bold\s+pakistani\s+movie\b|\blollywood\s+classic\b/i.test(v.title||''));
+  const classicResults=classicFilms.filter(v=>!state.movieSearch.trim()||
+    (v.title+' '+v.channel).toLocaleLowerCase().includes(state.movieSearch.trim().toLocaleLowerCase()));
   return '<section class="movie-page">'+
     '<div class="movie-feature"><img class="movie-feature-backdrop" id="movieHeroBackdrop" src="./assets/movie-headline-1.webp" data-fallback="'+thumb(FEATURED_MOVIE.id)+'" alt="" loading="eager" onerror="this.onerror=null;this.src=this.dataset.fallback"><div class="movie-feature-scrim"></div><div class="movie-feature-content">'+
     '<div class="movie-feature-kicker">🎞️ THE PAKTV FILM CLUB</div>'+
@@ -482,6 +489,13 @@ function renderMovies(){
     '<button type="button" data-movie-slide="2" aria-label="Movie image three" aria-pressed="false">3</button>'+
     '<button type="button" data-movie-slide="next" aria-label="Next movie image">›</button></div></div>'+
     '<div class="movie-info-strip"><span>🎬 Film and television movie editions</span><span>🔗 Videos stay on YouTube</span><span>🌍 Country availability may vary</span></div>'+
+    cinemaHeading('Classic Pakistani Movies','Search tag: classic Pakistani movies · full-length, publisher-uploaded Lollywood cinema.')+
+    '<div class="classic-movie-search"><span>🎞️ Vintage Urdu and Punjabi cinema</span>'+
+    '<a href="https://www.youtube.com/results?search_query=classic%20pakistani%20movies" target="_blank" rel="noopener noreferrer">Search “classic Pakistani movies” on YouTube ↗</a></div>'+
+    (classicResults.length?'<div class="movie-grid classic-movie-grid">'+classicResults.slice(0,18).map(videoCard).join('')+'</div>':
+      '<div class="notice-box">New classic-film publishers are being indexed. You can browse original sources below while the full-length catalogue grows.</div>')+
+    '<div class="classic-publisher-links"><a href="https://www.youtube.com/channel/UCMlGWm_woMhMcVYhJu8zsvA/videos" target="_blank" rel="noopener noreferrer">↗ LollywoodCinema official uploads</a>'+
+    '<a href="https://www.youtube.com/@movieboxmovies/videos" target="_blank" rel="noopener noreferrer">↗ MovieboxMovies uploads</a></div>'+
     cinemaHeading('Full movies on YouTube','Checked full-length uploads from film publisher channels. New titles are indexed over time.','archive','Video archive →')+
     '<label class="movie-search-label" for="movieSearch">Find a movie <input type="search" id="movieSearch" value="'+escapeHTML(state.movieSearch)+
     '" placeholder="Search title or film channel" autocomplete="off"></label>'+
