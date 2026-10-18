@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-10-18T20:29:48.575711+00:00",
+  "generatedAt": "2026-10-18T20:30:59.211048+00:00",
   "dateTimezone": "UTC",
-  "cursor": 27,
+  "cursor": 39,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
       "uploadsId": "UU_vt34wimdCzdkrzVejwX9g",
       "handle": "geonews",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T20:01:02.601881+00:00"
+      "lastFetchedAt": "2026-10-18T20:30:59.211048+00:00"
     },
     "ducky": {
       "youtubeId": "UC_c-RTowPbIlzMkIa_O7s6Q",
       "uploadsId": "UU_c-RTowPbIlzMkIa_O7s6Q",
       "handle": "duckybhai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T20:04:20.517484+00:00"
+      "lastFetchedAt": "2026-10-18T20:30:59.211048+00:00"
     },
     "arynews": {
       "youtubeId": "UCMmpLL2ucRHAXbNHiCPyIyg",
       "uploadsId": "UUMmpLL2ucRHAXbNHiCPyIyg",
       "handle": "ArynewsTvofficial",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T20:04:20.517484+00:00"
+      "lastFetchedAt": "2026-10-18T20:30:59.211048+00:00"
     },
     "rhs": {
       "youtubeId": "UCgFG7lz7BI5hsNEifevrWSw",
       "uploadsId": "UUgFG7lz7BI5hsNEifevrWSw",
       "handle": "ranahamzasaifrhs",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T20:04:20.517484+00:00"
+      "lastFetchedAt": "2026-10-18T20:30:59.211048+00:00"
     },
     "dunya": {
       "youtubeId": "UCG7xCQTxgy93j6r49wl48rw",
@@ -42,35 +42,35 @@
       "uploadsId": "UUQexaAjPn3-1MCE4DmBK3Tg",
       "handle": "villagefoodsecrets",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T20:04:20.517484+00:00"
+      "lastFetchedAt": "2026-10-18T20:30:59.211048+00:00"
     },
     "geohasna": {
       "youtubeId": "UC6HQ4d3xq9EgSeJgMhc-4AQ",
       "uploadsId": "UU6HQ4d3xq9EgSeJgMhc-4AQ",
       "handle": "GeoHasnaManaHai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T20:04:20.517484+00:00"
+      "lastFetchedAt": "2026-10-18T20:30:59.211048+00:00"
     },
     "streetfoodpk": {
       "youtubeId": "UCt8NJjYKc2aT3T0TnbcWxSw",
       "uploadsId": "UUt8NJjYKc2aT3T0TnbcWxSw",
       "handle": "streetfoodpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T20:04:20.517484+00:00"
+      "lastFetchedAt": "2026-10-18T20:30:59.211048+00:00"
     },
     "hum": {
       "youtubeId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
       "uploadsId": "UUEeEQxm6qc_qaTE7qTV5aLQ",
       "handle": "HUMTV",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T20:04:20.517484+00:00"
+      "lastFetchedAt": "2026-10-18T20:30:59.211048+00:00"
     },
     "arydigital": {
       "youtubeId": "UC4JCksJF76g_MdzPVBJoC3Q",
       "uploadsId": "UU4JCksJF76g_MdzPVBJoC3Q",
       "handle": "ARYDigitalasia",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T20:04:20.517484+00:00"
+      "lastFetchedAt": "2026-10-18T20:30:59.211048+00:00"
     },
     "sabir": {
       "youtubeId": "UCY7eFg5TEMsk_aTqM0pVB4w",
@@ -245,56 +245,56 @@
       "uploadsId": "UU2PYniNHljOED9xNaMpiMiQ",
       "handle": "ARYFilms",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-18T20:29:48.575711+00:00"
+      "lastFetchedAt": "2026-10-18T20:28:40.844082+00:00"
     },
     "drmmovies": {
       "youtubeId": "UCDmQsP_LTEWPZ2AXS9eWTrQ",
       "uploadsId": "UUDmQsP_LTEWPZ2AXS9eWTrQ",
       "handle": "pakistani_movies",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-18T20:01:02.601881+00:00"
+      "lastFetchedAt": "2026-10-18T20:30:59.211048+00:00"
     },
     "pcb": {
       "youtubeId": "UCiWrjBhlICf_L_RK5y6Vrxw",
       "uploadsId": "UUiWrjBhlICf_L_RK5y6Vrxw",
       "handle": "PakistanCricket",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T20:29:48.575711+00:00"
+      "lastFetchedAt": "2026-10-18T20:28:40.844082+00:00"
     },
     "psl": {
       "youtubeId": "UCpNzXJ5jpcJojC5mHQvGA8w",
       "uploadsId": "UUpNzXJ5jpcJojC5mHQvGA8w",
       "handle": "pakistansuperleagueofficial",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T20:29:48.575711+00:00"
+      "lastFetchedAt": "2026-10-18T20:28:40.844082+00:00"
     },
     "asports": {
       "youtubeId": "UCCLdGxMC4fwkaQ4AIcL7Z8w",
       "uploadsId": "UUCLdGxMC4fwkaQ4AIcL7Z8w",
       "handle": "asportspk",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T20:29:48.575711+00:00"
+      "lastFetchedAt": "2026-10-18T20:28:40.844082+00:00"
     },
     "ptvsports": {
       "youtubeId": "UCnoH_iEE4tgVznLT97Kb7ig",
       "uploadsId": "UUnoH_iEE4tgVznLT97Kb7ig",
       "handle": "ptvsportsofficialpk",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T20:29:48.575711+00:00"
+      "lastFetchedAt": "2026-10-18T20:28:40.844082+00:00"
     },
     "cricketpk": {
       "youtubeId": "UCI7I29IPUtWE68VLUoZfXow",
       "uploadsId": "UUI7I29IPUtWE68VLUoZfXow",
       "handle": "CricketPakistanPK",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T20:29:48.575711+00:00"
+      "lastFetchedAt": "2026-10-18T20:28:40.844082+00:00"
     },
     "wasay": {
       "youtubeId": "UCs2-8ztgdlRqpbpHvfFFPFQ",
       "uploadsId": "UUs2-8ztgdlRqpbpHvfFFPFQ",
       "handle": "wasayhabib",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T20:29:48.575711+00:00"
+      "lastFetchedAt": "2026-10-18T20:28:40.844082+00:00"
     },
     "kidsland": {
       "youtubeId": "UCZMKZS3L9GfhcFkMyBRoVFg",
@@ -329,14 +329,14 @@
       "uploadsId": "UU8YddK8DXYyry_LWY4NksgA",
       "handle": "shirazi786",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T20:29:48.575711+00:00"
+      "lastFetchedAt": "2026-10-18T20:28:40.844082+00:00"
     },
     "haimparishay": {
       "youtubeId": "UC6jgnXHUJ4eDjrvHJNtAUYg",
       "uploadsId": "UU6jgnXHUJ4eDjrvHJNtAUYg",
       "handle": "HaimParishayKhan",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T20:29:48.575711+00:00"
+      "lastFetchedAt": "2026-10-18T20:28:40.844082+00:00"
     },
     "waggleworkshop": {
       "youtubeId": "UCDf7-AujhJJkMF1Cg5iT-Pw",
@@ -350,21 +350,21 @@
       "uploadsId": "UUMlGWm_woMhMcVYhJu8zsvA",
       "handle": "LollywoodCinema",
       "checkedAt": "2026-10-18T17:28:01.603474+00:00",
-      "lastFetchedAt": "2026-10-18T20:29:48.575711+00:00"
+      "lastFetchedAt": "2026-10-18T20:28:40.844082+00:00"
     },
     "movieboxmovies": {
       "youtubeId": "UC8Artr_jqToYkRKjgjhezmw",
       "uploadsId": "UU8Artr_jqToYkRKjgjhezmw",
       "handle": "movieboxmovies",
       "checkedAt": "2026-10-18T17:28:01.603474+00:00",
-      "lastFetchedAt": "2026-10-18T20:29:48.575711+00:00"
+      "lastFetchedAt": "2026-10-18T20:28:40.844082+00:00"
     },
     "lollywoodclassics": {
       "youtubeId": "UCV-z8APBalmSWNrre62xKxg",
       "uploadsId": "UUV-z8APBalmSWNrre62xKxg",
       "handle": "lollywoodclassics",
       "checkedAt": "2026-10-18T17:48:49.190558+00:00",
-      "lastFetchedAt": "2026-10-18T20:29:48.575711+00:00"
+      "lastFetchedAt": "2026-10-18T20:28:40.844082+00:00"
     },
     "cokestudio": {
       "youtubeId": "UCM1VesJtJ9vTXcMLLr_FfdQ",
@@ -410,6 +410,78 @@
     }
   },
   "videos": [
+    {
+      "id": "WmWovqQORac",
+      "title": "🔴 LIVE || 19 Years Since Karsaz Tragedy | Bilawal Bhutto Delivers Address || ARY News Live",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T20:19:17Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 30139,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/WmWovqQORac/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "BgKJpQHjdjY",
+      "title": "Apne Kaam Se Kaam Rakhein...! Mohabbat Mukhtasir - ft. Madiha Imam - HUM TV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T20:15:34Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 234,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/BgKJpQHjdjY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "8a-7BoDs3d8",
+      "title": "Goga Pasroori Se Saleem Albela Ki Badtamizi | Hoshyarian",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T20:15:16Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1220,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/8a-7BoDs3d8/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "IDKyZQ5sCfU",
+      "title": "World Bank Shocking Report on Poverty In Pakistan #shorts #youtubeshorts",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T20:15:03Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 160,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/IDKyZQ5sCfU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
     {
       "id": "Z2zTRRYPOU8",
       "title": "Iran-US War | Pakistan Renews Efforts for Ceasefire and Peace Agreement | 12 AM News Headlines",
@@ -8130,24 +8202,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/tnOVhK9dAF0/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "WmWovqQORac",
-      "title": "🔴 LIVE || 19 Years Since Karsaz Tragedy | Bilawal Bhutto Delivers Address || ARY News Live",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-18",
-      "published": "2026-10-18T10:52:42Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 31845,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/WmWovqQORac/hqdefault_live.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -28833,24 +28887,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "gdf8Nac8rrU",
-      "title": "Faisal Karim Kundi Has Only 180 Days! Another Political Drama May Follow, Warns Faisal Vawda",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T17:56:17Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 436,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/gdf8Nac8rrU/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "BL36iAgtXXc",
       "title": "Meray Liye Rishtay Dhoundhna Band Kar Dein...!! #TarkETamanna #HUMTV",
       "channel": "HUM TV",
@@ -29010,24 +29046,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/qF6RNNWTM74/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "EYaTjzsE3bs",
-      "title": "Sohail Afridi May Be Disqualified, PTI Could Face a Ban? Faisal Vawda Reveals Inside Details",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T17:43:55Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 506,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/EYaTjzsE3bs/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -36822,24 +36840,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/LZws_4425HE/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "kr8NXMqjRs8",
-      "title": "Taya Abu Ne Humein Kabhi Apna Samjha Hi Nahi...!! #TarkETamanna #HUMTV",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T18:40:19Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 170,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/kr8NXMqjRs8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79611,6 +79611,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "",
+  "lastError": "Dunya News: HTTP 404: playlistNotFound; Imran Riaz Khan: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
