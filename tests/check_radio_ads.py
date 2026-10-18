@@ -42,8 +42,9 @@ assert 'paktvAutoAds' in consent and 'paktvExtraAds' in consent
 assert 'kids|waggle-play|waggle-workshop' in consent
 assert 'standaloneAdSlots();' in consent
 assert 'if(!GPC&&saved?.ads)loadDisplayAds()' in consent
-assert 'if(!GPC&&saved?.googleAds)loadGoogleAds()' in consent
-assert 'if(!GPC&&saved?.extra&&document.body?.dataset?.paktvExtraAds!=="no")loadExtraAds()' in consent
+assert 'saved?.googleAds&&document.body?.dataset?.paktvBannerOnly!=="yes"' in consent
+assert 'saved?.extra&&document.body?.dataset?.paktvExtraAds!=="no"' in consent
+assert 'paktvBannerOnly' in consent
 assert 'ad-banner.html' in consent
 assert 'profitableratecpmnetwork.com' in consent
 assert 'highrevenueformat.com' in (root/"ad-banner.html").read_text(encoding="utf-8")
@@ -58,6 +59,9 @@ for name in ("music.html","gupshup.html","community.html","privacy.html","discla
                    'cookie-consent.css','data-privacy-settings'):
         assert marker in page, name+": missing "+marker
     assert 'highrevenueformat.com' not in page and 'profitableratecpmnetwork.com' not in page
+for name in ("community.html","gupshup.html"):
+    page=(root/name).read_text(encoding="utf-8")
+    assert 'data-paktv-banner-only="yes"' in page, name+" must prevent page-level advertiser scripts"
 for name in ("kids.html","waggle-play.html","waggle-workshop.html"):
     page=(root/name).read_text(encoding="utf-8")
     assert 'data-paktv-auto-ads' not in page and 'cookie-consent.js' not in page,name
