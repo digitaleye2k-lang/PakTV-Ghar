@@ -4,10 +4,10 @@ const tabs=[...document.querySelectorAll("[data-music-tab]")];
 const panels=[...document.querySelectorAll("[data-panel]")];
 let tracks=[];
 const DJs=[
- {id:"classic",name:"DJ Classic",emoji:"📻",tag:"Golden-era melodies and soulful favourites",genres:["classic","ghazal","qawwali","folk","sufi"],intro:"./assets/djs/Classic.mp4"},
- {id:"rap",name:"DJ Rap",emoji:"🎤",tag:"Urdu hip-hop, bars and beats",genres:["rap"],intro:"./assets/djs/Rap.mp4"},
- {id:"rock",name:"DJ Rock",emoji:"🎸",tag:"Guitars, rock and modern fusion",genres:["rock","indie"],intro:"./assets/djs/Rock.mp4"},
- {id:"jazz",name:"DJ Jazz",emoji:"🎷",tag:"Smooth jazz, Pakistani fusion and late-night grooves",genres:["jazz","indie"],intro:"./assets/djs/Jazz.mp4"}
+ {id:"classic",name:"DJ Classic",emoji:"📻",tag:"Golden-era melodies and soulful favourites",genres:["classic","ghazal","qawwali","folk","sufi"],intro:"./assets/Djs/Classic.mp4"},
+ {id:"rap",name:"DJ Rap",emoji:"🎤",tag:"Urdu hip-hop, bars and beats",genres:["rap"],intro:"./assets/Djs/Rap.mp4"},
+ {id:"rock",name:"DJ Rock",emoji:"🎸",tag:"Guitars, rock and modern fusion",genres:["rock","indie"],intro:"./assets/Djs/Rock.mp4"},
+ {id:"jazz",name:"DJ Jazz",emoji:"🎷",tag:"Smooth jazz, Pakistani fusion and late-night grooves",genres:["jazz","indie"],intro:"./assets/Djs/Jazz.mp4"}
 ];
 function setTab(tab,hash=true){
  if(!["music","radio","djs"].includes(tab))tab="music";
@@ -41,7 +41,7 @@ function draw(){
   toggle.addEventListener("click",()=>{
    const video=node("video");video.controls=true;video.playsInline=true;video.preload="none";
    video.src=dj.intro;
-   video.addEventListener("error",()=>{media.replaceChildren(fallback);toggle.textContent="Intro video not uploaded yet";toggle.disabled=true;});
+   video.addEventListener("error",()=>{media.replaceChildren(fallback);toggle.hidden=false;toggle.textContent="Video unavailable";toggle.disabled=true;});
    media.replaceChildren(video);toggle.hidden=true;video.play().catch(()=>{});
   },{once:true});
   const body=node("div","virtual-dj-body");
@@ -53,7 +53,7 @@ function draw(){
   play.addEventListener("click",()=>{setTab("music");document.dispatchEvent(new CustomEvent("paktv:virtual-dj-play",{detail:{tracks:songs}}));});
   body.append(play);card.append(media,body);host.append(card);
  }
- document.getElementById("virtualDJStatus").textContent="DJ playlists use identified tracks from verified publishers. Some styles may have fewer than 10 songs until the catalogue refreshes. DJ intro videos require assets/djs/Classic.mp4, Rap.mp4, Rock.mp4 and Jazz.mp4 to be uploaded to GitHub.";
+ document.getElementById("virtualDJStatus").textContent="DJ playlists use identified tracks from verified publishers. Some styles may have fewer than 10 songs until the catalogue refreshes. DJ intro videos require assets/Djs/Classic.mp4, Rap.mp4, Rock.mp4 and Jazz.mp4 to be uploaded to GitHub.";
 }
 document.addEventListener("paktv:music-catalog-ready",e=>{tracks=e.detail.tracks||[];draw();});
 document.addEventListener("paktv:dj-queue-start",()=>setTab("music",false));
