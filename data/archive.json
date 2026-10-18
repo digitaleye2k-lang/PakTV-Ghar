@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T22:51:37.066173+00:00",
+  "generatedAt": "2026-10-18T23:01:15.364202+00:00",
   "dateTimezone": "UTC",
-  "cursor": 11,
+  "cursor": 23,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -301,28 +301,28 @@
       "uploadsId": "UUZMKZS3L9GfhcFkMyBRoVFg",
       "handle": "kidslandofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T22:23:51.588263+00:00"
+      "lastFetchedAt": "2026-10-18T23:01:15.364202+00:00"
     },
     "kidsmadani": {
       "youtubeId": "UCsNSt0fxMniSH9XHaNneZfw",
       "uploadsId": "UUsNSt0fxMniSH9XHaNneZfw",
       "handle": "kidsmadanichannel",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T22:23:51.588263+00:00"
+      "lastFetchedAt": "2026-10-18T23:01:15.364202+00:00"
     },
     "salamkids": {
       "youtubeId": "UC_4moTH4Pmatx5ogzCLxUtA",
       "uploadsId": "UU_4moTH4Pmatx5ogzCLxUtA",
       "handle": "salamkidstvofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T22:23:51.588263+00:00"
+      "lastFetchedAt": "2026-10-18T23:01:15.364202+00:00"
     },
     "urdukidsstudio": {
       "youtubeId": "UCxqHh4UJsNqiwk_aaMI9HBg",
       "uploadsId": "UUxqHh4UJsNqiwk_aaMI9HBg",
       "handle": "urdukidsstudio",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T22:23:51.588263+00:00"
+      "lastFetchedAt": "2026-10-18T23:01:15.364202+00:00"
     },
     "shirazi": {
       "youtubeId": "UC8YddK8DXYyry_LWY4NksgA",
@@ -343,7 +343,7 @@
       "uploadsId": "UUDf7-AujhJJkMF1Cg5iT-Pw",
       "handle": "TheWaggleWorkshop",
       "checkedAt": "2026-10-18T16:55:18.549048+00:00",
-      "lastFetchedAt": "2026-10-18T22:23:51.588263+00:00"
+      "lastFetchedAt": "2026-10-18T23:01:15.364202+00:00"
     },
     "lollywoodcinema": {
       "youtubeId": "UCMlGWm_woMhMcVYhJu8zsvA",
@@ -420,21 +420,21 @@
       "uploadsId": "UUZ1FCXu6uAhE6YkAsKQDGNg",
       "handle": "abdulhannanmusic",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-18T22:19:00.832783+00:00"
+      "lastFetchedAt": "2026-10-18T23:01:15.364202+00:00"
     },
     "hasanraheem": {
       "youtubeId": "UCaQvtCweOs1RpgFIO3-ezMA",
       "uploadsId": "UUaQvtCweOs1RpgFIO3-ezMA",
       "handle": "hasanraheem",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-18T22:19:00.832783+00:00"
+      "lastFetchedAt": "2026-10-18T23:01:15.364202+00:00"
     },
     "natashabaig": {
       "youtubeId": "UCfoMcYBhl7LM23G6tziMEYw",
       "uploadsId": "UUfoMcYBhl7LM23G6tziMEYw",
       "handle": "NatashaBaigOfficial",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-18T22:19:00.832783+00:00"
+      "lastFetchedAt": "2026-10-18T23:01:15.364202+00:00"
     }
   },
   "videos": [
@@ -79639,6 +79639,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Mazaaq Raat: channel unavailable; NESCAFÉ Basement: channel unavailable; Sajjad Ali: channel unavailable; Mekaal Hasan Band: channel unavailable; Rahat Fateh Ali Khan: channel unavailable",
+  "lastError": "Arooj Aftab: channel unavailable; Zamad Baig: channel unavailable; Hassan & Roshaan: channel unavailable; Kashmir The Band: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
