@@ -81,6 +81,11 @@ def normalise_video(resource, channel):
     image = ((thumb.get('high') or thumb.get('medium') or thumb.get('default') or {}).get('url') or '')
     details = resource.get('contentDetails') or {}
     seconds = duration_seconds(details.get('duration', ''))
+    # Three-minute Shorts are excluded from the Waggle Workshop collaboration.
+    if channel['category'] == 'waggle' and (seconds < 181 or re.search(
+            r'\bshorts?\b|#short|grand theft auto|gta\s*6|playstation vs xbox|omaha beach',
+            title, re.I)):
+        return None
     # Exclude Shorts and tiny promo clips; normal comedy/news reports can be
     # shorter than a full drama episode so don't apply a blanket 10m cutoff.
     if seconds < 95:
