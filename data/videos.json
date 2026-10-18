@@ -4174,28 +4174,6 @@
       "description": "Official upload from Matiullah Jan MJtv"
     },
     {
-      "id": "BYSqx3j5veg",
-      "title": "Grand Theft Auto Reveal",
-      "channel": "The Waggle Workshop",
-      "channelId": "waggleworkshop",
-      "youtubeChannelId": "UCf7BvXucS27c5RhFk_at7PQ",
-      "category": "waggle",
-      "date": "2026-10-18",
-      "published": "2026-10-18T12:37:46+00:00",
-      "description": "Official upload from The Waggle Workshop"
-    },
-    {
-      "id": "wWUN7YyQ-3A",
-      "title": "Sticking Together Through Everything",
-      "channel": "The Waggle Workshop",
-      "channelId": "waggleworkshop",
-      "youtubeChannelId": "UCf7BvXucS27c5RhFk_at7PQ",
-      "category": "waggle",
-      "date": "2026-10-18",
-      "published": "2026-10-18T12:37:29+00:00",
-      "description": "Official upload from The Waggle Workshop"
-    },
-    {
       "id": "aiBx_IbIvH4",
       "title": "1st Innings Highlights | Pakistan vs Sri Lanka | Match 1 | ODI Tri-Series 2026 | PCB | MZS1K",
       "channel": "Pakistan Cricket Board",
@@ -6317,6 +6295,42 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/9DipAnCIQq4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "eBHGsTogM3I",
+      "title": "Summary on KP Police Salary Increases and Other Needs Sent to Governor",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T08:15:31Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 152,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/eBHGsTogM3I/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "cnPngYyAdkE",
+      "title": "Bacha Kho Diya, Sirf Aapki Wajah Se Baba 😭 | Hiba Aziz - Danial Afzal | Dastoor | Green TV",
+      "channel": "Green Entertainment",
+      "channelId": "greentv",
+      "youtubeChannelId": "UCF2ltLX1dnPa6-L1paPaMzw",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T08:15:31Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 210,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/cnPngYyAdkE/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     }
   ],
