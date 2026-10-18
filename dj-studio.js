@@ -4,11 +4,11 @@ const tabs=[...document.querySelectorAll("[data-music-tab]")];
 const panels=[...document.querySelectorAll("[data-panel]")];
 let tracks=[];
 const DJs=[
+ {id:"indie",name:"DJ Indie",emoji:"🌿",tag:"Independent Pakistani voices, acoustic gems and alternative sounds",genres:["indie","covers"],intro:"./assets/Djs/indie.mp4"},
  {id:"classic",name:"DJ Classic",emoji:"📻",tag:"Golden-era melodies and soulful favourites",genres:["classic","ghazal","qawwali","folk","sufi"],intro:"./assets/Djs/Classic.mp4"},
  {id:"rap",name:"DJ Rap",emoji:"🎤",tag:"Urdu hip-hop, bars and beats",genres:["rap"],intro:"./assets/Djs/Rap.mp4"},
  {id:"rock",name:"DJ Rock",emoji:"🎸",tag:"Guitars, rock and modern fusion",genres:["rock","indie"],intro:"./assets/Djs/Rock.mp4"},
- {id:"jazz",name:"DJ Jazz",emoji:"🎷",tag:"Smooth jazz, Pakistani fusion and late-night grooves",genres:["jazz","indie"],intro:"./assets/Djs/Jazz.mp4"},
- {id:"indie",name:"DJ Indie",emoji:"🌿",tag:"Independent Pakistani voices, acoustic gems and alternative sounds",genres:["indie","covers"],intro:"./assets/Djs/indie.mp4"}
+ {id:"jazz",name:"DJ Jazz",emoji:"🎷",tag:"Smooth jazz, Pakistani fusion and late-night grooves",genres:["jazz","indie"],intro:"./assets/Djs/Jazz.mp4"}
 ];
 const DJ_FLOATING={
  classic:{name:"SAADIA",src:"./assets/Djs/Person_nodding_head_to_music_20261018222953.mp4",fallback:"./assets/Djs/Classic.mp4"},
