@@ -34,3 +34,6 @@ html{background:#0c171e}body{background:radial-gradient(ellipse at 82% 6%,#1a443
 .home-briefing .brief-kicker{color:#8be1b6}
 .home-briefing .brief-freshness{background:#1d463c;border-color:#4c8969;color:#e5f6e9}
 @media(max-width:680px){.pakistan-flag{padding:6px 8px}.pakistan-flag .flag{font-size:20px}.pakistan-flag .flag-text{display:none}}
+
+/* Extra Sports tab: preserve access to all items on shorter screens. */
+.sidebar .main-nav{min-height:0;overflow-y:auto;overflow-x:hidden;scrollbar-width:thin;scrollbar-color:#437969 transparent}
