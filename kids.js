@@ -14,7 +14,16 @@ const $=id=>document.getElementById(id);
 let videos=[],active="all",shown=12,loading=true;
 const element=(tag,cls,text)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(text!==undefined)n.textContent=String(text);return n;};
 function youtubeURL(id){return "https://www.youtube.com/watch?v="+encodeURIComponent(id);}
-function validVideo(v){return typeof v==="object"&&v&&/^[a-zA-Z0-9_-]{11}$/.test(v.id||"") && known.has(v.channelId) && v.category==="kids" && typeof v.title==="string" && v.title.length>1;}
+function validVideo(v){
+ if(typeof v!=="object"||!v||!/^[a-zA-Z0-9_-]{11}$/.test(v.id||"")||!known.has(v.channelId)||v.category!=="kids"||typeof v.title!=="string")return false;
+ const title=v.title.trim();
+ // Reject hashtag/emoji-only posts and obviously unrelated or unsuitable topics;
+ // publisher approval does not imply every upload is suitable for children.
+ const meaningful=title.replace(/#[a-z0-9_]+/gi,"").replace(/[^a-zA-ZÀ-ÿ\u0600-\u06ff ]/g,"").trim();
+ if(meaningful.length<9||meaningful.split(/\s+/).length<2)return false;
+ if(/\b(?:scam|fraud|tragedy|murder|crime|violence|politics|adult|hate|terror|breaking news)\b/i.test(title))return false;
+ return true;
+}
 function makeCard(video){
  const c=known.get(video.channelId);
  const card=element("article","video-card");
