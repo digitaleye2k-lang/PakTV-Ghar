@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T14:59:09.034062+00:00",
+  "generatedAt": "2026-10-18T15:05:45.505525+00:00",
   "dateTimezone": "UTC",
-  "cursor": 6,
+  "cursor": 18,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -42,49 +42,49 @@
       "uploadsId": "UUQexaAjPn3-1MCE4DmBK3Tg",
       "handle": "villagefoodsecrets",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T14:55:33.605506+00:00"
+      "lastFetchedAt": "2026-10-18T15:05:45.505525+00:00"
     },
     "geohasna": {
       "youtubeId": "UC6HQ4d3xq9EgSeJgMhc-4AQ",
       "uploadsId": "UU6HQ4d3xq9EgSeJgMhc-4AQ",
       "handle": "GeoHasnaManaHai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T14:55:33.605506+00:00"
+      "lastFetchedAt": "2026-10-18T15:05:45.505525+00:00"
     },
     "streetfoodpk": {
       "youtubeId": "UCt8NJjYKc2aT3T0TnbcWxSw",
       "uploadsId": "UUt8NJjYKc2aT3T0TnbcWxSw",
       "handle": "streetfoodpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T14:55:33.605506+00:00"
+      "lastFetchedAt": "2026-10-18T15:05:45.505525+00:00"
     },
     "hum": {
       "youtubeId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
       "uploadsId": "UUEeEQxm6qc_qaTE7qTV5aLQ",
       "handle": "HUMTV",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T14:55:33.605506+00:00"
+      "lastFetchedAt": "2026-10-18T15:05:45.505525+00:00"
     },
     "arydigital": {
       "youtubeId": "UC4JCksJF76g_MdzPVBJoC3Q",
       "uploadsId": "UU4JCksJF76g_MdzPVBJoC3Q",
       "handle": "ARYDigitalasia",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T14:55:33.605506+00:00"
+      "lastFetchedAt": "2026-10-18T15:05:45.505525+00:00"
     },
     "sabir": {
       "youtubeId": "UCY7eFg5TEMsk_aTqM0pVB4w",
       "uploadsId": "UUY7eFg5TEMsk_aTqM0pVB4w",
       "handle": "sabirshakirpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T14:56:38.770228+00:00"
+      "lastFetchedAt": "2026-10-18T15:05:45.505525+00:00"
     },
     "harpalgeo": {
       "youtubeId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
       "uploadsId": "UUe9JSDmyqNgA_l2BzGHq1Ug",
       "handle": "HarPalGeoOfficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T14:56:38.770228+00:00"
+      "lastFetchedAt": "2026-10-18T15:05:45.505525+00:00"
     },
     "foodfusion": {
       "youtubeId": "UCuqBZWK9Wrol_4Y22DzisFQ",
@@ -196,21 +196,21 @@
       "uploadsId": "UUF2ltLX1dnPa6-L1paPaMzw",
       "handle": "GreenEntertainmentTV",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T14:56:38.770228+00:00"
+      "lastFetchedAt": "2026-10-18T15:05:45.505525+00:00"
     },
     "ptvhome": {
       "youtubeId": "UCMfwlaPLGMn44BKvHv15yzA",
       "uploadsId": "UUMfwlaPLGMn44BKvHv15yzA",
       "handle": "PTVHomeEntertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T14:56:38.770228+00:00"
+      "lastFetchedAt": "2026-10-18T15:05:45.505525+00:00"
     },
     "expressent": {
       "youtubeId": "UCU1r97baEf3JJI5fY6NtMpA",
       "uploadsId": "UUU1r97baEf3JJI5fY6NtMpA",
       "handle": "expressentertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T14:56:38.770228+00:00"
+      "lastFetchedAt": "2026-10-18T15:05:45.505525+00:00"
     },
     "ptvnews": {
       "youtubeId": "UC5RvV_LtR1dxPCVFGw6dxXA",
@@ -256,6 +256,150 @@
     }
   },
   "videos": [
+    {
+      "id": "I0c5qwBNXEk",
+      "title": "Humna Ne Saim Ko Apny Jaal Mein Phasa Lia..! #khushi #sumaiyyabukhs #HUMTV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:05:03Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 177,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/I0c5qwBNXEk/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "wgOwV7Xcwj4",
+      "title": "Izzat Episode 29 | 18 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+      "channel": "ARY Digital",
+      "channelId": "arydigital",
+      "youtubeChannelId": "UC4JCksJF76g_MdzPVBJoC3Q",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:00:40Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2401,
+      "availableGB": false,
+      "availablePK": false,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/wgOwV7Xcwj4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "Yj7EilD0eAc",
+      "title": "Uswah Episode 26 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 18th October 2026",
+      "channel": "Har Pal Geo",
+      "channelId": "harpalgeo",
+      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:00:28Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2364,
+      "availableGB": false,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Yj7EilD0eAc/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "Mf-8njYlB54",
+      "title": "Izzat Episode 29 | 18 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+      "channel": "ARY Digital",
+      "channelId": "arydigital",
+      "youtubeChannelId": "UC4JCksJF76g_MdzPVBJoC3Q",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:00:28Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 486,
+      "availableGB": false,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Mf-8njYlB54/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "OIRaq4CN5Sc",
+      "title": "Raja London Ka | Mega Highlights | Episodes 21–22 | Sab Se Bara Dhamaka!! 🔥 | Express TV",
+      "channel": "Express TV",
+      "channelId": "expressent",
+      "youtubeChannelId": "UCU1r97baEf3JJI5fY6NtMpA",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:00:26Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1674,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/OIRaq4CN5Sc/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "DTYsu9xt8js",
+      "title": "Yhe Ghatiya Admi Is Shadi Mein Kue Aya..!! #khushi #sumaiyyabukhs #HUMTV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:00:22Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 96,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/DTYsu9xt8js/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "8A2xkxJud4k",
+      "title": "Saari Zindagi Yehi Dukh Lekar Baithe Rahoge | Hiba Aziz - Danial Afzal - Areej Mohyudin | Dastoor",
+      "channel": "Green Entertainment",
+      "channelId": "greentv",
+      "youtubeChannelId": "UCF2ltLX1dnPa6-L1paPaMzw",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:00:18Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 168,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/8A2xkxJud4k/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "ZyTelm5JH4w",
+      "title": "Khushi - Episode 36 - [Eng Sub] 18th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:00:05Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2004,
+      "availableGB": false,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/ZyTelm5JH4w/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
     {
       "id": "HdER4mwhaxM",
       "title": "KP Emergency | Bilawal Bhutto Criticizes Fazal ur Rehman | 7:30 PM News Update | Samaa TV",
@@ -37661,24 +37805,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "S6ugbXuspOk",
-      "title": "Bete Ka Rishta Naukrani Ke Saath? 😱💍 || Bano || Har Pal Geo",
-      "channel": "Har Pal Geo",
-      "channelId": "harpalgeo",
-      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T01:15:23Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 240,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/S6ugbXuspOk/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "5yC30cDGBS0",
       "title": "Saim Ko Para Zordar Ka Thappar...! Khushi - ft. Sumaiyya Bukhsh & Mariam Ejaz",
       "channel": "HUM TV",
@@ -37859,24 +37985,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "Ej8UmzLTCc0",
-      "title": "Khushi Aur Ammar Shopping Par Kyun Gaye...? Khushi - ft. Sumaiyya Bukhsh & Mariam Ejaz",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-14",
-      "published": "2026-10-14T21:00:01Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 221,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/Ej8UmzLTCc0/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "5ma9XIxr5Do",
       "title": "Badnami or Ilzam to Aashiq Hussain ny Sahy thy | Dorr | Express TV",
       "channel": "Express TV",
@@ -37982,24 +38090,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/TL2oIYWrRwQ/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "uu3SXY29q4M",
-      "title": "Hamna Ka Jhoot Pakra Gaya...! Khushi - ft. Sumaiyya Bukhsh & Mariam Ejaz",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-14",
-      "published": "2026-10-14T20:00:11Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 174,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/uu3SXY29q4M/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -38201,24 +38291,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "KKmd3GihvJ4",
-      "title": "Dusri Shadi Ke Baad Bhi Itna Pyar..! #Gulbahar #SanamSaeed #EmmadIrfani",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-14",
-      "published": "2026-10-14T19:00:14Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 122,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/KKmd3GihvJ4/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "D1QJ1woSS9Q",
       "title": "Meerub Ki Aana, Ghar Barbaad Kar Degi ! 😱💔| Dorr | 𝑯𝒂𝒓𝒐𝒐𝒏 𝑺𝒉𝒂𝒉𝒊𝒅 | 𝑨𝒓𝒆𝒆𝒋 𝑴𝒐𝒉𝒚𝒖𝒅𝒊𝒏 | Express Tv",
       "channel": "Express TV",
@@ -38288,24 +38360,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/FGH9As8WWWQ/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "IIqi1gWGCRs",
-      "title": "Ayashi Ke Din! 🤑 | Momo | Khoobsurat | Bulbulay | Non Stop Comedy",
-      "channel": "ARY Digital",
-      "channelId": "arydigital",
-      "youtubeChannelId": "UC4JCksJF76g_MdzPVBJoC3Q",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-14",
-      "published": "2026-10-14T18:42:17Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 1042,
-      "availableGB": false,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/IIqi1gWGCRs/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -38504,24 +38558,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/4RRs4oAPLdM/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "R370iuKpX5w",
-      "title": "Tum Ho Meri \"RUTBA\" | Izzat | Merub Ali  | ARY Digital",
-      "channel": "ARY Digital",
-      "channelId": "arydigital",
-      "youtubeChannelId": "UC4JCksJF76g_MdzPVBJoC3Q",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-14",
-      "published": "2026-10-14T18:00:26Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 115,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/R370iuKpX5w/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -41459,24 +41495,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "PkedWladtoU",
-      "title": "Wow! Tumhe Larka Bhi Pasand Aagya 😍 | Humayoun Ashraf - Sumaiyya Bukhsh | Madaar | Green TV",
-      "channel": "Green Entertainment",
-      "channelId": "greentv",
-      "youtubeChannelId": "UCF2ltLX1dnPa6-L1paPaMzw",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-14",
-      "published": "2026-10-14T07:45:15Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 263,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/PkedWladtoU/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "haxKYEA6Z6U",
       "title": "Meri Birthday Party Hoyi Magar Koi Guest Nahi Tha | Soulmate | Mein Kahani Hun | Express TV",
       "channel": "Express TV",
@@ -44174,24 +44192,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/X0Rr4zp8SzY/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "iGO-ApJOTJA",
-      "title": "Kabhi Kabhi Karwi Goli Insan Ko Andar Se Maar Deti Hai..!! | Hum Bhi Ji Lain | Express Tv",
-      "channel": "Express TV",
-      "channelId": "expressent",
-      "youtubeChannelId": "UCU1r97baEf3JJI5fY6NtMpA",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-12",
-      "published": "2026-10-12T10:30:03Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 215,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/iGO-ApJOTJA/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79457,6 +79457,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable",
+  "lastError": "Dunya News: HTTP 404: playlistNotFound; Imran Riaz Khan: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }

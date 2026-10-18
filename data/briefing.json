@@ -1,6 +1,190 @@
 {
-  "generatedAt": null,
-  "news": {"pakistan": {}, "world": {}},
-  "weather": {},
-  "markets": {}
+  "generatedAt": "2026-10-18T15:06:31.430616Z",
+  "news": {
+    "pakistan": {
+      "updatedAt": "2026-10-18T15:06:31.430616Z",
+      "source": "Google News RSS",
+      "items": [
+        {
+          "title": "Emergency rule in Khyber Pakhtunkhwa exposes decades of state-sponsored terrorism and authoritarian crackdown in Pakistan - ANI News",
+          "source": "ANI News",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRThlb04tekVtS2d2SlRoYWQ0TkN1TXk2QzBPTTJ5TEtYUGJNMWtqeHRCeVhVdTZhTzVObUFGVExEN3pFVGFSWHhJa0lNUGh2dmpwS1ZydF9vUk4tYU1qc0pPY3VpMGRnNmR0NENycEU2Y2RSVWlnX2VGSkZJZDNhWE52dHZHdUNvLVFoX3R0THl0S0FONUtZdFpodkFsMG9laDFNQU5XUzNxU1QyYlRTbUpsdkdnQ2pvQzJXTzRsa20yemFKdWlqNDE3QVJxZngxY3Q1WFBBbjZUelBNWXpWQy1lajlCUzVoaUNOcGdYQml0ZmZvUWlMRTN3cl9PdTlGU0NRWFc0M0o?oc=5",
+          "published": "2026-10-18T15:00:00Z"
+        },
+        {
+          "title": "China, Pakistan Begin First Joint Army Exercise in Xinjiang - Khaama Press",
+          "source": "Khaama Press",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNam1tSms4amw4RTI5cURWS0ZUY0lmWWFpTnQtZEZfN1EwY1JOR1haZU0wS01wbF9EQnJnRjBlYXhkZDZuTThxdk16WVZUMzBjZ0M0anp0ckYtakZFckVEeUhnWFIxR0dCT3ZFdDN6blJqOE05dUZSNXFIQkpBaE8zMGhZNi1KZ2t0NFE?oc=5",
+          "published": "2026-10-18T14:49:33Z"
+        },
+        {
+          "title": "Pakistan’s largest contemporary art event canceled as regional wars affected funding— organizers - Arab News PK",
+          "source": "Arab News PK",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcHBGd09iX1ZTOHROWVNONmQwdjNqdGZsUHdXT1ZmYTZkQmx3NEhkbWVFTWdNX1VYRVgtN3NjZnRvNTBVeVg2SXA4VlBFUURTczFXS0o1eDV0NGlMQUZFVWtPaUFGdkpJWlNlMjVrWExGWHBqZmJPSERUNHdNT1h3Q3p1c3F4bngxd1FWY1JQajBBNTJnc290b3d5VW9RZU8wdWpVTzdPa2x0WG55NXpMUXdKRW9FRWY4ekthSHNzdGRTcE5RMFQxQ3BEQU5xak5x?oc=5",
+          "published": "2026-10-18T14:31:41Z"
+        },
+        {
+          "title": "Pakistani Tech Firms Storm Silicon Valley at TechCrunch Disrupt - Digital Pakistan",
+          "source": "Digital Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSHhBaWU0NFFYNFJDaVhZMDBNRkdHUndja3ZseUg5NTJyRVE2UUowcEp6RFp2cXJBaTIyRUp5VWF0SFc5TkpVcEpsQUowdktEWnkxcEwtc2FOTkpPN2dCa2luWFRlYVpESEMzSWF1MGtVRGg4Zi1hSzVFLUZaMGxMN1BvWGltd1kxRXN6MGRFZW94OXUxRUE?oc=5",
+          "published": "2026-10-18T14:00:51Z"
+        },
+        {
+          "title": "Update on Pakistan ODI squad - Pakistan Cricket Board (PCB)",
+          "source": "Pakistan Cricket Board (PCB)",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSW9ZVTV0NHhBakk3bkdDLVUteTBrQm84bEJpdW81X0hoMVBFUHo4MThFUGtneGlGZHN4VTQ1ZVRCcHpHZnRZNlMxdVFPZWgzVjExbGlJUkt2eTRQQXRxeHdsdmh4dWRyaXUzZTFmeDJpeWJydlBRU3hzSU4tbzNsQlRCNA?oc=5",
+          "published": "2026-10-18T13:39:26Z"
+        },
+        {
+          "title": "Agha's ton helps Pakistan set 306-run target for Sri Lanka in ODI tri-series - The News Pakistan",
+          "source": "The News Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVDNjR2hEbFBYdlIyQ1RrQVVRVU5udlJMZVN4QWE1SWo3a2FWRDBNS3Z4ZmgxdE1PN2hhTnVUUTVlZXp0RFNMMGJLUk1VU0xDUUpzdENkd2ZEc2RhOVJJRGNwcVd3U2xmZkUzeUNST2R5WmVlX3NuMWdsRkxDeDE1R0VXUm1fYUZhY2F4N1V1T3FrUEk1M3BaUEN2X3R3YXd4WW1nQndaSTRQZW4wUkY2MmkzSjZJOGRiTTdzRA?oc=5",
+          "published": "2026-10-18T13:30:00Z"
+        },
+        {
+          "title": "FBR Performance Under Review: How Effective Is Pakistan’s Tax System? - Paisa Bolta Hai - Aaj News",
+          "source": "Aaj News",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xcmdpMTAyRDZ6MFl5ZzhCaXRLckp4U1IzOE1ldU1oZ1F2SVV6bmxWR0F6VFdiQXAxQ0F5cHB1MUliRnlBVTZlNkwxQkY?oc=5",
+          "published": "2026-10-18T13:20:10Z"
+        },
+        {
+          "title": "20 policemen abducted by armed men in South West Pakistan - The Star",
+          "source": "The Star",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVEJHQkwxYWdvQWdCSG9fN0FyQXhzRFFqY0xBUFcxWWZmbG1tNlljTnJLQ2xQZVBIWXJIcXV6a0ttSmpXejRhMDBGZFFiNmlER09zS2JRclZBdDV3NzBhdS1iajE1ZmF6dE9VYVpOeklyRUJEbFp6M0kteWRWOUVKQ05GRWw5U3JacTUxZFZseE1fQmNieGdMdl9qV0hrTnh1aUxObktSQVA5MEFWSE14dXNnVklLT1VfVzJzRg?oc=5",
+          "published": "2026-10-18T13:17:00Z"
+        },
+        {
+          "title": "Pakistan Tri-Series Cricket - dailyrecordnews.com",
+          "source": "dailyrecordnews.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZGV6dndGb2tOSVd6a1JqWjg3N056SWVxVjJhMjZLT1R2WVRXMXp1b2dSanVGRmIwM05DSXZiQk5zMTZudjByOTM5dlBlaFNtb2FzXzlkVUdHQ09pY3c3MTN5Ql9KTmIwUVM4dEl6TGNDNEpWQXM1Ny1pSjNBOGVvaGR2SFZOU0E1UFdxUGZXWHlmejFqTFFzVGRQNG5qbmkzcGlLeG1zb0hmTk5YLUJNbzFNbk1LZlZoU0p4bWh1OA?oc=5",
+          "published": "2026-10-18T13:15:36Z"
+        }
+      ]
+    },
+    "world": {
+      "updatedAt": "2026-10-18T15:06:31.430616Z",
+      "source": "Google News RSS",
+      "items": [
+        {
+          "title": "Texans v Jaguars at Wembley: NFL week six – live - The Guardian",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUmJnZ2stTXhnZXAycUptbTg3R3Zubmtpbi11R2JJZ2NjRnFSbFFNVXVIWHFXMzV0QTN3amNGSE5Xb2lXb0lROVBabGltVXhhODhuWFl0ajJqVUlhSVNJSTk3eTVpLTkxX0JBVEhER0VoQWZUQVBpcWhpcjc1RHFEWW1pVzMxNDB0UHZraUd3?oc=5",
+          "published": "2026-10-18T14:30:41Z"
+        },
+        {
+          "title": "Major fire breaks out in Alberta after deadly incident at Canadian military base - NBC News",
+          "source": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObVU5T0d4OFhNTzBxS3VmUUp0WVhILXJNSk8zM2Z1ZTBYbkFLQXpVWFU2NGw3d19Pbm5lcXl2Ui1LeXNPWmpWcUprLUphOGp2VGFBVVJNR0FZMGR3ekpwTnc4d2FzbHRCRm42cFRiQVBsR29TVlhidmtqT2xTbEQ5VkJnQUtwUWllTmdqRGtxVVdLS01nNloxcDdCWFNCeDFIRml3MmtLbmZwS042RDVQS21tcXljai1q?oc=5",
+          "published": "2026-10-18T14:27:00Z"
+        },
+        {
+          "title": "Pope Leo pledges gradual return to duties in first event since cancer surgery - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQajlwczZReXZXSkQ1X1JuZWNGWlNjX2VXcW9hNVdlNXYybU00b3NkSFdpdXo4ZXFLZ184OENSdTZRbE9DdDF2ejZIRVpXUWk2MjdJbWM2Y0JMNzVfcGFvYzRxUU5LYUhpTTB6QWpQWHgwR0tEUXZkNnhBMkxJYkd4dTBydU1OWFpVd3lSNjRSSmF3QW9TUmFocVJVa1QyVUtJcFFHeUwwTGg?oc=5",
+          "published": "2026-10-18T14:09:12Z"
+        },
+        {
+          "title": "Albanian PM says protests pose threat to EU membership, not government - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlc3R0V2SVhwYWpQcDQzVnptVkptdkQtWHdGZUU0SUlYdUozS3ZFQmN2bmNTQUFKbUZ5UUNWR3RWQmlFVDZSU2daT0FMcXNVM0ZIaGtYbXFTTThzWjFqV3JkWkgzbWRxZWsyTGhhYU5wVTFRc01IV3ZRSkRlTlBlZ0p1YVQzMlZYUUxTSEV6WjUxMGNQb1R6Y3k0b0dZSDZIQlo3c1l2RUpTR0o3?oc=5",
+          "published": "2026-10-18T13:47:43Z"
+        },
+        {
+          "title": "Japan to launch world-first mission to collect samples from Martian moon - The Guardian",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSU1COWt3SGtqMW4zUFh1VVY0N1RWeGJlVjh3aFFfTkdPSV9KMC1sQVFRVzNuSWRsNzJRdkVQLWluci1UNUoxTU5qZVpoUHlwcmhWaU8wWnBSYXJ6aWpldE1acG9VRi1NT2tBZTY4T3FmNTJ1SS1iTWNyQ3RTaUc1Q2staEQ3elEtNHRUNS1KUQ?oc=5",
+          "published": "2026-10-18T13:35:00Z"
+        },
+        {
+          "title": "In Texas Senate race, Ted Cruz tries to push Ken Paxton across the finish line - The Washington Post",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDlZVGxKdW1mQzVPTzhTRzhNcmJlU3JaekkzeWJnRFdpNFIzT1AyOG13c3NtMlczUHZFUHllcG1SVUt4UjlJWlQwMEVxbTdPS1puX2pDelBUeUx3ZGFndTJ2eG41NWhWSExfX3lRNzZJYVIwbVM0R1ZwWmtDd25KM3BBMHZwVEc4bUpyRW5VdWRGNHRDall4X196RGJMbmxSQWloNjdyOWM5Z2VuMnN0ZlhDbUlRWUhBUmI0?oc=5",
+          "published": "2026-10-18T13:32:52Z"
+        },
+        {
+          "title": "Life Finally Gets Easier For 3 Zodiac Signs When The Moon Aligns With Neptune On October 19 - YourTango",
+          "source": "YourTango",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORm1rSHVybkNFcHJobVN2dEYxOXZjc0doWDRva2Z3Zy15dlhyUXRDTWVpUTdOX0Z6a0tVMzhiNXFVVDd5UDc0UXBuOFNZTUM4UkJwTXVfc3BlTHc5dUpwQmwxd29CVnFQNGFESUxKbzJzbkpPUThialptQnZXQ25lSFhDYw?oc=5",
+          "published": "2026-10-18T13:06:09Z"
+        },
+        {
+          "title": "Big 12 admits clock error at end of Notre Dame-BYU game - NBC Sports",
+          "source": "NBC Sports",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORjlVNWptZ0owRVVGcy0yaVNxOXRSLUxPRTZjMDZnVlVJbUdfSnFpUGpPTEdHYzQ0TlZRSzFiQkJwX0syNUFXaVdsYy1ZT1V0bFpBd0pEdTZlb29MT1ZZYmJJbkJYa0hjZWo5UldObl9BbHRxSnczVEVMaGxBdkU0X1Fva1dwRGU5bndNNVM1WXNaWnhvYXl5UGxmWUE0SmNVLTBVVWZpYXdyQjhIWXhZYzBSMWl3WUtL?oc=5",
+          "published": "2026-10-18T12:36:43Z"
+        },
+        {
+          "title": "Trump tries different approach with Russia to bring Americans relief amid ongoing war with Ukraine - Fox News",
+          "source": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHpPTU5QelFLREtoQmFtaWdZMV9DSXA5dkR3RWNMNmZpek5waFVxZE9JSWpLZU81WmFuM016WlRRTjB1S1R0NnFNTVJyZ2pCWGpBaVZDcThObGpQUk1ySWJSQWFqdGpBbzFOd2pzcEE3Vmh5bkR6Z2pwczc1cmNBRlNYbUJoYUg5TVAzcmFCRHJxZlppTnVLTWg0X05FMVAtMWZ1Y3YySmt2R1MyM016ckppVDlrS0tlR2fSAb8BQVVfeXFMTW55QWdNM0RPV3FRbjVkMDNQWmdvTkZ4cEExbHZlY0E3OWRqOVNCQUM3ZC1vcnd5cGtrYmtmTEdBRW5iNU5kTk4wbXVJNHZ6dWNXRi11dkRtTHZ2RVVQcndPMEVYcTdRN09OUklSQUZ3WmlITERjUTh5Ri1tYWxrNWxHTXhER2o1WEpnbVRnVFBwZkJrUFQ5VTY3WHpuMGRtclY4TzZOWnNIblJmSjc1RlpvSVZLTUlVam5TX0cwTGc?oc=5",
+          "published": "2026-10-18T12:00:13Z"
+        }
+      ]
+    }
+  },
+  "weather": {
+    "updatedAt": "2026-10-18T15:06:31.430616Z",
+    "source": "MET Norway / Yr (CC BY 4.0)",
+    "url": "https://www.met.no/en",
+    "cities": [
+      {
+        "city": "Karachi",
+        "temperatureC": 28,
+        "humidity": 62,
+        "windMs": 2.6,
+        "symbol": "clearsky_night",
+        "forecastTime": "2026-10-18T16:00:00Z"
+      },
+      {
+        "city": "Lahore",
+        "temperatureC": 23,
+        "humidity": 69,
+        "windMs": 1.9,
+        "symbol": "clearsky_night",
+        "forecastTime": "2026-10-18T16:00:00Z"
+      },
+      {
+        "city": "Islamabad",
+        "temperatureC": 20,
+        "humidity": 55,
+        "windMs": 1.5,
+        "symbol": "clearsky_night",
+        "forecastTime": "2026-10-18T16:00:00Z"
+      },
+      {
+        "city": "Peshawar",
+        "temperatureC": 21,
+        "humidity": 73,
+        "windMs": 1.1,
+        "symbol": "clearsky_night",
+        "forecastTime": "2026-10-18T16:00:00Z"
+      }
+    ]
+  },
+  "markets": {
+    "updatedAt": "2026-10-18T15:06:31.430616Z",
+    "source": "Yahoo Finance (delayed)",
+    "quotes": [
+      {
+        "name": "S&P 500",
+        "symbol": "^GSPC",
+        "region": "US",
+        "value": 7659.44,
+        "changePercent": -1.09,
+        "marketTime": "2026-10-16T20:42:08Z",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "name": "FTSE 100",
+        "symbol": "^FTSE",
+        "region": "UK",
+        "value": 10881.9,
+        "changePercent": 0.38,
+        "marketTime": "2026-10-16T15:35:29Z",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/quote/%5EFTSE/"
+      }
+    ]
+  }
 }
