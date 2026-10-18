@@ -13,3 +13,34 @@
 .gup-radio-directory{margin-top:28px;padding:20px;border:1px solid #c9a47366;border-radius:18px;background:#271d1c}.gup-radio-directory-head{display:flex;justify-content:space-between;gap:15px;align-items:center;flex-wrap:wrap;margin-bottom:15px}.gup-radio-directory h3{margin:0;color:#ffdfa5}.gup-radio-directory-head>span{color:#d9be9a;font-size:12px}.gup-radio-stations{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,230px),1fr));gap:11px}.gup-radio-station{border:1px solid #806548;border-radius:12px;padding:14px;background:linear-gradient(145deg,#443228,#302725);display:flex;flex-direction:column;gap:7px}.gup-radio-station strong{color:#f7deae}.gup-radio-station small{color:#ddbea2}.gup-radio-station .gup-radio-actions{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-top:auto}.gup-radio-actions button{background:#dfac63;color:#322018;border:0;border-radius:20px;padding:8px 13px;font-weight:900;cursor:pointer}.gup-radio-actions a{color:#e9c991;font-size:12px}.gup-radio-station.is-playing{border-color:#b4da9e;box-shadow:0 0 18px #b6e7a429}
 @media(max-width:700px){.gup-radio-section{padding:0 12px}.gup-radio-cabinet{padding:12px;border-radius:20px}.gup-radio-face{grid-template-columns:1fr;padding:14px;gap:15px}.gup-radio-speaker{min-height:0;width:150px;height:150px;border-width:6px}.gup-radio-speaker-ring span{font-size:40px}.gup-radio-top,.gup-radio-bottom{font-size:9px}.gup-radio-frequency{padding:8px 10px 14px;border-width:5px}}
 @media(prefers-reduced-motion:reduce){.gup-radio-scale i{transition:none}}
+
+/* Compact wireless tucked into GUPSHUP's existing chat sidebar. */
+.chat-layout .gup-radio-section{max-width:none;width:100%;min-width:0;margin:0;padding:0;color:#f8e8bd}
+.chat-layout .gup-radio-intro{text-align:left;margin-bottom:10px}
+.chat-layout .gup-radio-intro .eyebrow{font-size:9px}
+.chat-layout .gup-radio-intro h2{font-size:18px;line-height:1.2;margin:4px 0 7px}
+.chat-layout .gup-radio-intro p{font-size:11px;line-height:1.4}
+.chat-layout .gup-radio-cabinet{border-width:3px;border-radius:17px;padding:9px;box-shadow:0 5px 0 #361f13,0 12px 20px #0007}
+.chat-layout .gup-radio-top,.chat-layout .gup-radio-bottom{font-size:8px;letter-spacing:.05em}
+.chat-layout .gup-radio-face{display:block;margin-top:9px;padding:10px;border-width:2px;border-radius:10px}
+.chat-layout .gup-radio-speaker{display:none}
+.chat-layout .gup-radio-controls{gap:9px}
+.chat-layout .gup-radio-frequency{padding:8px;border-width:4px}
+.chat-layout .gup-radio-scale{padding:18px 0 6px;font-size:12px}
+.chat-layout .gup-radio-now{padding:9px}
+.chat-layout .gup-radio-now strong{font-size:16px;line-height:1.25}
+.chat-layout .gup-radio-now span:last-child{font-size:11px}
+.chat-layout .gup-radio-player{gap:5px}
+.chat-layout .gup-radio-player audio{min-width:0;width:100%;flex:1 1 100%;height:36px}
+.chat-layout .gup-radio-player button{padding:6px 12px;font-size:11px}
+.chat-layout .gup-radio-directory{padding:10px;margin-top:14px;border-radius:12px}
+.chat-layout .gup-radio-directory h3{font-size:14px}
+.chat-layout .gup-radio-directory-head{margin-bottom:9px}
+.chat-layout .gup-radio-stations{display:flex;flex-direction:column;max-height:252px;overflow-y:auto;gap:7px}
+.chat-layout .gup-radio-station{padding:9px;gap:5px}
+.chat-layout .gup-radio-station strong{font-size:12px}
+.chat-layout .gup-radio-station small{font-size:10px}
+.chat-layout .gup-radio-actions button{padding:6px 9px;font-size:11px}
+.chat-layout .gup-radio-actions a{font-size:10px}
+@media(min-width:1181px){.chat-layout{grid-template-columns:minmax(175px,.7fr) minmax(0,2.5fr) minmax(240px,1fr)}}
+@media(max-width:1180px) and (min-width:701px){.chat-layout .right-panel{grid-template-columns:minmax(240px,.7fr) minmax(0,1fr)!important}.chat-layout .gup-radio-section{grid-row:span 2}}
