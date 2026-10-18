@@ -101,9 +101,9 @@
   <link rel="stylesheet" href="./spotlight.css">
   <link rel="stylesheet" href="./movies.css">
   <link rel="stylesheet" href="./header-layout.css">
-  <link rel="stylesheet" href="./site-visitors.css">
   <link rel="stylesheet" href="./home-briefing.css">
   <link rel="stylesheet" href="./cookie-consent.css">
+  <link rel="stylesheet" href="./paktv-green.css">
 </head>
 <body>
 <div class="app-shell">
@@ -126,6 +126,7 @@
           <span class="search-shortcut" aria-hidden="true">/</span>
         </label>
       </div>
+      <span class="pakistan-flag" role="img" aria-label="Pakistan flag"><span class="flag" aria-hidden="true">🇵🇰</span><span class="flag-text">Pakistan</span></span>
       <div class="topbar-actions" role="group" aria-label="Quick settings">
         <button type="button" class="header-action header-favourites" id="topFavourites" aria-label="Open your favourites" title="Favourites">
           <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1.1-1.1a5.5 5.5 0 0 0-7.8 7.8L12 21l8.8-8.6a5.5 5.5 0 0 0 0-7.8Z"/></svg>
@@ -313,6 +314,7 @@ const NAV = [
  {id:'movies',icon:'🎞️',en:'Movies',ur:'فلمیں'},
  {id:'comedy',icon:'😄',en:'Comedy & Satire',ur:'مزاح'},
  {id:'news',icon:'📡',en:'News',ur:'خبریں'},
+ {id:'sports',icon:'🏏',en:'Sports',ur:'کھیل'}, 
  {id:'talk',icon:'🎙️',en:'Talk Shows',ur:'ٹاک شوز'},
  {id:'vloggers',icon:'📹',en:'YouTubers',ur:'یوٹیوبرز'},
  {id:'archive',icon:'🗓️',en:'Video Archive',ur:'پرانے ویڈیوز'},
@@ -320,7 +322,7 @@ const NAV = [
  {id:'gupshup',icon:'☕',en:'GUPSHUP',ur:'گپ شپ',href:'./gupshup.html'},
  {id:'contact',icon:'✉️',en:'Contact Us',ur:'رابطہ',href:'./community.html#contact'}
 ];
-const CATEGORY_LABELS={dramas:'Pakistani Dramas',movies:'Pakistani Movies',comedy:'Comedy & Political Satire',news:'News & Headlines',talk:'Political Talk Shows',vloggers:'Pakistani YouTubers'};
+const CATEGORY_LABELS={dramas:'Pakistani Dramas',movies:'Pakistani Movies',comedy:'Comedy & Political Satire',news:'News & Headlines',sports:'Pakistani Sports & Cricket',talk:'Political Talk Shows',vloggers:'Pakistani YouTubers'};
 const el=id=>document.getElementById(id);
 const escapeHTML=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safeGet=(key,fallback)=>{try{const x=JSON.parse(localStorage.getItem(key));return x??fallback}catch{return fallback}};
@@ -332,7 +334,7 @@ const thumb=id=>`https://i.ytimg.com/vi/${encodeURIComponent(id)}/hqdefault.jpg`
 const fromChannel=id=>CHANNELS.find(c=>c.id===id);
 const catVideos=cat=>uniqueVideos([...state.archiveVideos,...state.feed,...SEED_VIDEOS].filter(v=>!cat||v.category===cat)).sort((a,b)=>(b.published||b.date||'').localeCompare(a.published||a.date||''));
 function uniqueVideos(arr){const seen=new Set();return arr.filter(v=>{if(!/^[\w-]{11}$/.test(v.id||'')||seen.has(v.id))return false;seen.add(v.id);return true})}
-function locationPage(){const hash=location.hash.slice(1);if(hash.startsWith('show-')&&LIBRARY.some(s=>s.id===hash.slice(5)))return 'show';const page=['home','today','dramas','movies','comedy','news','talk','vloggers','archive','favourites','search'].includes(hash)?hash:'home';return page}
+function locationPage(){const hash=location.hash.slice(1);if(hash.startsWith('show-')&&LIBRARY.some(s=>s.id===hash.slice(5)))return 'show';const page=['home','today','dramas','movies','comedy','news','sports','talk','vloggers','archive','favourites','search'].includes(hash)?hash:'home';return page}
 function navTo(page){if(state.page===page && location.hash===`#${page}`){window.scrollTo({top:0,behavior:'smooth'});return}location.hash=page}
 function navMarkup(item,mobile=false){const active=state.page===item.id;const label=state.language==='ur'?item.ur:item.en;if(item.href){return mobile?`<a href="${escapeHTML(item.href)}"><span class="nav-icon">${item.icon}</span><span>${escapeHTML(label)}</span></a>`:`<a class="nav-item community-nav-link" href="${escapeHTML(item.href)}"><span class="nav-icon">${item.icon}</span><span>${escapeHTML(label)}</span></a>`}return mobile?`<a href="#${item.id}" class="${active?'active':''}" aria-current="${active?'page':'false'}"><span class="nav-icon">${item.icon}</span><span>${escapeHTML(label)}</span></a>`:`<button class="nav-item ${active?'active':''}" type="button" data-nav="${item.id}" aria-current="${active?'page':'false'}"><span class="nav-icon">${item.icon}</span><span>${escapeHTML(label)}</span>${item.id==='favourites'&&state.favoriteChannels.length+state.favoriteVideos.length?`<span class="count">${state.favoriteChannels.length+state.favoriteVideos.length}</span>`:''}</button>`}
 function renderNav(){el('sideNav').innerHTML=NAV.map(n=>navMarkup(n)).join('');el('mobileNav').innerHTML=NAV.map(n=>navMarkup(n,true)).join('')}
@@ -567,18 +569,20 @@ function renderHome(){
   return '<div class="welcome-line"><span class="welcome">YOUR HOME FOR PAKISTANI ENTERTAINMENT</span>'+
     '<span class="urdu" lang="ur">پاکستانی ڈرامے، کامیڈی اور خبریں</span></div>'+hero()+
     '<div class="quick-grid cinema-quick">'+
-    [['dramas','🎬','Dramas'],['movies','🎞️','Movies'],['archive','🗓️','Video archive'],['comedy','😄','Comedy'],['news','📡','News'],['talk','🎙️','Talk shows'],['vloggers','📹','YouTubers'],['today','📅','TV today']].map(([id,icon,label])=>
+    [['dramas','🎬','Dramas'],['movies','🎞️','Movies'],['archive','🗓️','Video archive'],['comedy','😄','Comedy'],['news','📡','News'],['sports','🏏','Sports'],['talk','🎙️','Talk shows'],['vloggers','📹','YouTubers'],['today','📅','TV today']].map(([id,icon,label])=>
       '<button type="button" class="quick-tile" data-nav="'+id+'"><span class="quick-emoji">'+icon+'</span><span class="quick-name">'+label+'</span></button>').join('')+
     '<a class="quick-tile community-home-tile" href="./gupshup.html"><span class="quick-emoji">☕</span><span class="quick-name">GUPSHUP</span></a>'+
-    '<a class="quick-tile community-home-tile" href="./community.html#visitors"><span class="quick-emoji">🌍</span><span class="quick-name">Visitor countries</span></a>'+
+    '
     '</div>'+
     '<div id="homeBriefing" class="home-briefing" aria-label="Latest news, Pakistan weather and world markets"></div>'+
-    '<section class="home-world-widget" aria-label="Visitor countries"><div class="home-world-symbol" aria-hidden="true">🌍</div>'+
-    '<div class="home-world-info"><strong>PakTV Ghar around the world</strong><span><b id="homeVisitCount">—</b> optional counted visits · <b id="homeCountryTop">Countries coming soon</b></span></div>'+
-    '<div class="home-world-actions"><button id="homeCountVisit" type="button" disabled title="Optional anonymous daily visitor count">Count my visit</button>'+
-    '<a href="./community.html#visitors">View country rankings →</a></div><p id="homeVisitStatus" class="home-visit-status" role="status"></p></section>'+
+
+
+
+
     cinemaVideoRail('Movie night · Full-length films','Publisher films and movie-length TV editions from Pakistani YouTube sources.',movieVideos().slice(0,9),'movies')+
     cinemaPosterRail('Featured Pakistani dramas','Find your next binge from original broadcasters.',spotlight,'dramas')+
+    cinemaVideoRail('Pakistani sports · Cricket & more','New videos from sports broadcasters, PSL and Pakistani cricket creators.',balancedRecent([...state.archiveVideos,...state.feed].filter(v=>v.category==='sports'),10),'sports')+
+    cinemaChannelRail('Explore Pakistan sports channels','Cricket boards, sports broadcasters and cricket analysts.',CHANNELS.filter(x=>x.category==='sports').slice(0,7),'sports')+
     cinemaVideoRail('Freshly uploaded','New videos from multiple Pakistani channels.',fresh,'archive')+
     cinemaChannelRail('Discover broadcasters','Now including Green Entertainment, PTV Home, Express TV and SAMAA.',broadcasters,'dramas')+
     cinemaPosterRail('Green TV, PTV & Express collections','Explore family stories, timeless classics and serials.',moreNetworks,'dramas')+
@@ -643,7 +647,7 @@ function renderMovies(){
 
 function renderCategory(cat){
 if(cat==='dramas'||cat==='comedy')return renderLibrary(cat);
-const name=CATEGORY_LABELS[cat];const labels={news:'Headlines and current affairs directly from Pakistan.',talk:'Political debate, interviews and evening shows.',vloggers:'Explore family vlogs, food bloggers, travel creators, journalists and Pakistani YouTube channels.'};
+const name=CATEGORY_LABELS[cat];const labels={news:'Headlines and current affairs directly from Pakistan.',sports:'Cricket, football, hockey, PSL highlights, Pakistani sports broadcasters and cricket creators. Videos refresh from publisher channels.',talk:'Political debate, interviews and evening shows.',vloggers:'Explore family vlogs, food bloggers, travel creators, journalists and Pakistani YouTube channels.'};
 const catChannels=CHANNELS.filter(c=>c.category===cat&&(cat!=='vloggers'||state.creatorGenre==='all'||(c.genre||'News & commentary')===state.creatorGenre));
 const recent=catVideos(cat).filter(v=>cat!=='vloggers'||state.creatorGenre==='all'||v.genre===state.creatorGenre);
 const creators=['all','Food & recipes','Food & travel','Lifestyle & vlogs','Travel & lifestyle','News & commentary','Interviews & commentary'];
@@ -1023,7 +1027,6 @@ state.page=locationPage();bindEvents();initSpotlightEvents();paint();refreshFeed
 
 <script src="./cookie-consent.js" defer></script>
 <script src="./community-config.js" defer></script>
-<script src="./site-visitors.js" defer></script>
 <script src="./home-briefing.js" defer></script>
 </body>
 </html>
