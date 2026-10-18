@@ -104,3 +104,17 @@ html{background:#0c171e}body{background:radial-gradient(ellipse at 82% 6%,#1a443
 .schedule-grid .schedule-buttons .small-button{white-space:normal;text-align:center}
 @media(max-width:600px){.schedule-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.schedule-grid .schedule-card{padding:9px}.schedule-grid .schedule-card h3{font-size:13px;line-height:1.35}.schedule-grid .schedule-card p{font-size:11px}.schedule-grid .schedule-time{font-size:20px}.schedule-grid .schedule-buttons{display:grid;grid-template-columns:1fr}.schedule-grid .schedule-artwork{border-radius:8px}}
 @media(max-width:370px){.schedule-grid{grid-template-columns:1fr}.schedule-grid .schedule-card{padding:13px}}
+
+/* Unify legacy dark filter strips with the PakTV forest-green theme. */
+.library-tools{display:grid;gap:13px;padding:18px 20px;margin:18px 0 22px;border:1px solid #4d8e6d;border-radius:19px;background:linear-gradient(135deg,#204c3c 0%,#163b34 58%,#153b3a 100%);box-shadow:0 9px 26px #0419175c}
+.library-tools .chips{display:flex;align-items:center;gap:9px;flex-wrap:wrap;padding:0;margin:0}
+.library-tools .chips+.chips{padding-top:13px;border-top:1px solid #5790715e}
+.library-tools .chip,.creator-genres .chip,.archive-toolbar .chip{background:#285546;color:#e5f7eb;border:1px solid #60967b;border-radius:999px;box-shadow:none;font-size:12px;font-weight:750;padding:10px 15px;transition:background .16s,border-color .16s}
+.library-tools .chip:hover,.creator-genres .chip:hover,.archive-toolbar .chip:hover{background:#326c51;border-color:#98d3a8}
+.library-tools .chip.active,.creator-genres .chip.active,.archive-toolbar .chip.active{background:#ffd494;border-color:#ffe0a9;color:#203e32;box-shadow:0 3px 12px #041b1645}
+.library-tools .chip:focus-visible{outline:3px solid #ffe8ac;outline-offset:3px}
+.archive-toolbar,.episode-panel,.latest-fact{background:linear-gradient(135deg,#1b4035,#17322f);border-color:#4c795d;color:#e0f5e7}
+.series-grid .series-card,.cinema-poster-rail .series-card{background:linear-gradient(155deg,#1a3a33,#102c2b);border-color:#406b52}
+.series-grid .series-card:hover,.cinema-poster-rail .series-card:hover{border-color:#8acaa0}
+.series-card .series-desc,.video-card .video-body{background:transparent}
+@media(max-width:650px){.library-tools{padding:13px;gap:9px}.library-tools .chip{font-size:11px;padding:8px 11px}.library-tools .chips+.chips{padding-top:10px}}
