@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-18T20:00:08.503308Z",
+  "generatedAt": "2026-10-18T20:01:28.465478Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-18T20:00:08.503308Z",
+      "updatedAt": "2026-10-18T20:01:28.465478Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -62,7 +62,7 @@
       ]
     },
     "world": {
-      "updatedAt": "2026-10-18T20:00:08.503308Z",
+      "updatedAt": "2026-10-18T20:01:28.465478Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -70,6 +70,12 @@
           "source": "Yahoo Sports",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbmlPbEdCRFFLS3R3YnM3dklmam0xNnFRUGtZYnRaazBRanI1S2xvZG9PcHBKR2c1VkNfUGpObl8tdGVadXFQdjVqak1zclJiTlNzeExQZ1ZZNFkwY1lIbFJ4TWZhT3dDc1FsTkdURThfeEhXNldLTW9WR0ViM1ZldFRockp6TE5BWmJZU3kyZmJSNkx5eWZTa1Y3OVd0WnJiMUY4ZENsMHY0Q2UtdHZwMTVqckZDN3djbzRfcnpOR2RYMG8?oc=5",
           "published": "2026-10-18T19:34:06Z"
+        },
+        {
+          "title": "Travis Hunter stars in Jaguars' loss, is 1st with INT and TD catch since 2002 - ESPN",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWDJLLUJfb0puNmxsSDA5VTVQX2dEdkJ3bFlkTTBZX2R2Nm1CU1BpdjlWbkNxRmdTMDNoNno3Q2J0V3k5cVVwMkQ2c3ZvNnZ5Wnd0UjB5c1E2OTl6Rnp3ZXZQMGJ0RkROVWhKYXZDTVdHYVByc0I1Tmc3SlI4dnJ1dFU4VTJhQ1RvM0ktVnRIaVUtTU5zTDFaLQ?oc=5",
+          "published": "2026-10-18T19:21:00Z"
         },
         {
           "title": "Driver released from custody, no charges filed after deadly incident at Stryker Sports Complex - KWCH",
@@ -112,19 +118,13 @@
           "source": "Deadline",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVWlyT21vYy1Yb1ZRVmxPQlZZM3ZjcTVXYTVidEJLOUtsUGxpZUgtWVBYOG9QdU9ZbDQxbWdISlNQQkRJVUJpaW1kVktzLUxUTzJYb1FQS1J0Q3pvQ2NTM0UwWklyeE4yWjRaQjRkNkNYQWlhR043QUlLRTczVFRRdmNLVzFWVlcyTEluN0ZpRWFhdVQ5T0xEUjVUOGdPbUkyQl9WbUx5RXp5OENad0pweUpBZ3VSZ0M4dmpSbVBYREFvZ0VjeHhIVWV2Y1A5aGM?oc=5",
           "published": "2026-10-18T16:50:00Z"
-        },
-        {
-          "title": "Trump shares plan to overhaul East Potomac golf course amid court fight over land - The Washington Post",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjdfRmFtX2xmZ241Z0RHMWdRdW1TbjgtN1hGUmljRnVYaFRGVWdscExsZlItMDJGa0NZYXhpU1VnSEJTbjJzSHlrU2phNFlxWEgwNlowRDd6TEZZX3c3UlM0akRVaDNXNjdFWnJ0UDc5ZzFheFE1YUt6LUJlUW1PUzBnQnBnbE04NlBka3ZrSFp2NTVXZjlqdmtjYXA3emhI?oc=5",
-          "published": "2026-10-18T16:49:26Z"
         }
       ]
     }
   },
   "newsUrdu": {
     "pakistan": {
-      "updatedAt": "2026-10-18T20:00:08.503308Z",
+      "updatedAt": "2026-10-18T20:01:28.465478Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -136,7 +136,13 @@
         {
           "title": "Pakistan Responds to Afghan Taliban Firing in Upper Kurram, Border Alert Maintained - Aaj News",
           "source": "Aaj News",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zSnF3N21uaE1TYjJ1RjVhMW1qbkdXbEowUFJ3WEFMMGlDS0Z4aTBRUGdSeWZkUUJwdEwxSUIyZUNIR2laSDZidTZFQzQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWbzJtSWpvcm5zSDRVSE9tR05VMG5mT1NJSjlCUjFBSnRGbmVSdDAxYWw0Nm9rRGpqNU1FNHIxelF3STFRckJZVw?oc=5",
+          "published": "2026-10-18T18:18:21Z"
+        },
+        {
+          "title": "Pakistan vs Sri Lanka | Tri-Nation ODI Series | Pakistan Wins by 38 Runs - Aaj News",
+          "source": "Aaj News",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qY2FZNmFDcE00SUc5YmVneUFKejVDTFVyVC1Jb3ZGTkpiYkZZY0ZNcDNSdlI4elgxWXVORVp4SGozWlZXRVBBMC1GRUk?oc=5",
           "published": "2026-10-18T18:10:07Z"
         },
         {
@@ -174,19 +180,13 @@
           "source": "Aaj English TV",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUzd2X182amUwZkJzUFNpTXpaYS1GNGx1NWV2T2RMcmlTLTdubEluSE5acnFwcE9DcE9jMk53RXgxMFh4dUg1SVpoN2JkbVExcVlTMnh6QWtqb0phRWZVOUF3aV9pRF8zVkRwVzNFaGxCcXpycXNDZ1RFOTJCWlZFeUdRd3BjbmNjbFNLVHZiZWFxYUU5MUpRalctUzNUeVRtcUE?oc=5",
           "published": "2026-10-18T16:20:08Z"
-        },
-        {
-          "title": "Can Hybrid Seeds Reduce Farming Costs and Boost Pakistan’s Exports? | AAJ EXCLUSIVE - Aaj English TV",
-          "source": "Aaj English TV",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlUtRzRxaG9hQzFlUm1JRy10UjN1MF91NURKRkFLdF8tX212N2RkODBvYmt3R0JiREllRVZRVFNuOXV1SXB3NUdpU0x4WVFaM0diaWJOVDFySlNYclBIa2xPcVRyZW4td1Ytd2ZyNmpkZUd3dkxhbGV3VjBZLVpDWGdqSnR6U3M2X1hzQThCVHZ4RWVZOTdOOVlZdWV6Ul9OZ2lYYlUwVGh0eUY1NjhLNHNLRzctTG1n?oc=5",
-          "published": "2026-10-18T16:20:07Z"
         }
       ]
     },
     "world": {}
   },
   "weather": {
-    "updatedAt": "2026-10-18T20:00:08.503308Z",
+    "updatedAt": "2026-10-18T20:01:28.465478Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -225,7 +225,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-18T20:00:08.503308Z",
+    "updatedAt": "2026-10-18T20:01:28.465478Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
@@ -251,7 +251,7 @@
     ]
   },
   "sports": {
-    "updatedAt": "2026-10-18T20:00:09.714755Z",
+    "updatedAt": "2026-10-18T20:01:29.878503Z",
     "source": "ESPN cricket snapshot",
     "url": "https://www.espncricinfo.com/live-cricket-score",
     "matches": []
