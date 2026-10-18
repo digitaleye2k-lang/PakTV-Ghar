@@ -10,7 +10,8 @@ const kicker=document.createElement("span"),name=document.createElement("span"),
 kicker.className=channelLabel.className="drama-ambience-kicker";kicker.textContent="NOW SHOWING";channelLabel.textContent="ON AIR FROM";
 name.className="drama-ambience-title";channel.className="drama-ambience-channel";
 left.append(kicker,name);right.append(channelLabel,channel);ambience.append(left,right);
-overlay.insertBefore(ambience,overlay.querySelector(".player-panel"));
+const panel=overlay.querySelector(".player-panel"),toolbar=panel?.querySelector(".player-toolbar");
+if(panel)panel.insertBefore(ambience,toolbar?.nextSibling||panel.firstChild);
 function refresh(){name.textContent=title.textContent.trim()||"Pakistani Drama";channel.textContent=source.textContent.trim()||"PakTV Ghar";}
 const observer=new MutationObserver(refresh);observer.observe(title,{childList:true,characterData:true,subtree:true});observer.observe(source,{childList:true,characterData:true,subtree:true});refresh();
 })();
