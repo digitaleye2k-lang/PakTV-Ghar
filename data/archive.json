@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T19:52:48.613204+00:00",
+  "generatedAt": "2026-10-18T19:55:44.782033+00:00",
   "dateTimezone": "UTC",
-  "cursor": 53,
+  "cursor": 64,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -119,56 +119,56 @@
       "uploadsId": "UUz0M2pV4jOUUQ88lOd2q08A",
       "handle": "MaazSafderWorld",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T19:44:57.314374+00:00"
+      "lastFetchedAt": "2026-10-18T19:55:44.782033+00:00"
     },
     "matiullah": {
       "youtubeId": "UC-hJ0cobUiWlBFTHgLwt8sQ",
       "uploadsId": "UU-hJ0cobUiWlBFTHgLwt8sQ",
       "handle": "MatiullahJanMJtv",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T19:44:57.314374+00:00"
+      "lastFetchedAt": "2026-10-18T19:55:44.782033+00:00"
     },
     "p4pakao": {
       "youtubeId": "UCI9tIvSPsdxNEICjZk7ujUA",
       "uploadsId": "UUI9tIvSPsdxNEICjZk7ujUA",
       "handle": "p4pakaoofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T19:44:57.314374+00:00"
+      "lastFetchedAt": "2026-10-18T19:55:44.782033+00:00"
     },
     "dawnnews": {
       "youtubeId": "UCaxR-D8FjZ-2otbU0_Y2grg",
       "uploadsId": "UUaxR-D8FjZ-2otbU0_Y2grg",
       "handle": "dawnnewspakistan",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T19:44:57.314374+00:00"
+      "lastFetchedAt": "2026-10-18T19:55:44.782033+00:00"
     },
     "irfanjunejo": {
       "youtubeId": "UCUuDUW0Y6IQZYDvH1QQBsgA",
       "uploadsId": "UUUuDUW0Y6IQZYDvH1QQBsgA",
       "handle": "irfanjunejo",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T19:44:57.314374+00:00"
+      "lastFetchedAt": "2026-10-18T19:55:44.782033+00:00"
     },
     "kunfoods": {
       "youtubeId": "UCJEGvNxXunjqrcd2Xg9ntMQ",
       "uploadsId": "UUJEGvNxXunjqrcd2Xg9ntMQ",
       "handle": "KunFoods",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T19:44:57.314374+00:00"
+      "lastFetchedAt": "2026-10-18T19:55:44.782033+00:00"
     },
     "kitchenamna": {
       "youtubeId": "UCQ2P7C8UGoVM6AhqsVx-M0Q",
       "uploadsId": "UUQ2P7C8UGoVM6AhqsVx-M0Q",
       "handle": "KitchenWithAmna",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T19:44:57.314374+00:00"
+      "lastFetchedAt": "2026-10-18T19:55:44.782033+00:00"
     },
     "geoclassics": {
       "youtubeId": "UCLUfX9--VscMEKnIE6thhbg",
       "uploadsId": "UULUfX9--VscMEKnIE6thhbg",
       "handle": "GeoNewsClassics",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T19:46:24.753696+00:00"
+      "lastFetchedAt": "2026-10-18T19:55:44.782033+00:00"
     },
     "wildlens": {
       "youtubeId": "UCf1XIplYiqNv9baGsFHwPPQ",
@@ -79610,6 +79610,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "EMI Pakistan: HTTP 404: playlistNotFound; Junaid Akram: channel unavailable",
+  "lastError": "EMI Pakistan: HTTP 404: playlistNotFound; Express News: channel unavailable; Asad Toor: channel unavailable; Siddique Jaan: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
