@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T21:59:33.509666+00:00",
+  "generatedAt": "2026-10-18T22:06:50.535624+00:00",
   "dateTimezone": "UTC",
-  "cursor": 45,
+  "cursor": 57,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -70,35 +70,35 @@
       "uploadsId": "UU4JCksJF76g_MdzPVBJoC3Q",
       "handle": "ARYDigitalasia",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T21:26:30.939541+00:00"
+      "lastFetchedAt": "2026-10-18T22:06:50.535624+00:00"
     },
     "sabir": {
       "youtubeId": "UCY7eFg5TEMsk_aTqM0pVB4w",
       "uploadsId": "UUY7eFg5TEMsk_aTqM0pVB4w",
       "handle": "sabirshakirpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T21:26:30.939541+00:00"
+      "lastFetchedAt": "2026-10-18T22:06:50.535624+00:00"
     },
     "harpalgeo": {
       "youtubeId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
       "uploadsId": "UUe9JSDmyqNgA_l2BzGHq1Ug",
       "handle": "HarPalGeoOfficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T21:26:30.939541+00:00"
+      "lastFetchedAt": "2026-10-18T22:06:50.535624+00:00"
     },
     "foodfusion": {
       "youtubeId": "UCuqBZWK9Wrol_4Y22DzisFQ",
       "uploadsId": "UUuqBZWK9Wrol_4Y22DzisFQ",
       "handle": "FoodfusionPk",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T21:35:23.123320+00:00"
+      "lastFetchedAt": "2026-10-18T22:06:50.535624+00:00"
     },
     "samaa": {
       "youtubeId": "UCJekW1Vj5fCVEGdye_mBN6Q",
       "uploadsId": "UUJekW1Vj5fCVEGdye_mBN6Q",
       "handle": "SAMAATV",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T21:35:23.123320+00:00"
+      "lastFetchedAt": "2026-10-18T22:06:50.535624+00:00"
     },
     "hasbehaal": {
       "youtubeId": "UCyiJNpF7RgpPhyeKc4wnQkg",
@@ -196,42 +196,42 @@
       "uploadsId": "UUF2ltLX1dnPa6-L1paPaMzw",
       "handle": "GreenEntertainmentTV",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T21:26:30.939541+00:00"
+      "lastFetchedAt": "2026-10-18T22:06:50.535624+00:00"
     },
     "ptvhome": {
       "youtubeId": "UCMfwlaPLGMn44BKvHv15yzA",
       "uploadsId": "UUMfwlaPLGMn44BKvHv15yzA",
       "handle": "PTVHomeEntertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T21:35:23.123320+00:00"
+      "lastFetchedAt": "2026-10-18T22:06:50.535624+00:00"
     },
     "expressent": {
       "youtubeId": "UCU1r97baEf3JJI5fY6NtMpA",
       "uploadsId": "UUU1r97baEf3JJI5fY6NtMpA",
       "handle": "expressentertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T21:35:23.123320+00:00"
+      "lastFetchedAt": "2026-10-18T22:06:50.535624+00:00"
     },
     "ptvnews": {
       "youtubeId": "UC5RvV_LtR1dxPCVFGw6dxXA",
       "uploadsId": "UU5RvV_LtR1dxPCVFGw6dxXA",
       "handle": "PTVNewsOfficial",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T21:35:23.123320+00:00"
+      "lastFetchedAt": "2026-10-18T22:06:50.535624+00:00"
     },
     "aajnews": {
       "youtubeId": "UCgBAPAcLsh_MAPvJprIz89w",
       "uploadsId": "UUgBAPAcLsh_MAPvJprIz89w",
       "handle": "aajtvofficial",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T21:35:23.123320+00:00"
+      "lastFetchedAt": "2026-10-18T22:06:50.535624+00:00"
     },
     "aajent": {
       "youtubeId": "UC2m98kh188cg_9x248IZM9A",
       "uploadsId": "UU2m98kh188cg_9x248IZM9A",
       "handle": "aajentertainment",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T21:35:23.123320+00:00"
+      "lastFetchedAt": "2026-10-18T22:06:50.535624+00:00"
     },
     "mooroo": {
       "youtubeId": "UC-rP-oFlxQGpSLYHBlhIWkg",
@@ -411,6 +411,42 @@
   },
   "videos": [
     {
+      "id": "tBm1MbC-Uos",
+      "title": "PTI Members Want Mahmood Achakzai Replaced? | Naeem Haider Panjotha | Dotok",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T22:00:39Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 103,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/tBm1MbC-Uos/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "rdtulGc_3MQ",
+      "title": "Uswah Episode 26 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+      "channel": "Har Pal Geo",
+      "channelId": "harpalgeo",
+      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T22:00:22Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 505,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/rdtulGc_3MQ/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "6VDZ_0hImd0",
       "title": "Mustafa Kamal Supports Governor's Rule! #shorts #mustafakamal #governorsrule #mqm #pakistanpolitics",
       "channel": "ARY News",
@@ -426,6 +462,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/6VDZ_0hImd0/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "75VTdPhsUms",
+      "title": "Which Laws Did PTI Pass in KP That Clashed with Federal Govt? Find Out from Hafiz Ehsan Ahmed",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T21:42:44Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 169,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/75VTdPhsUms/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -462,6 +516,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/FDBwypcDPOA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "zKDLLotMYV8",
+      "title": "Nashtar Episode 21 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+      "channel": "Har Pal Geo",
+      "channelId": "harpalgeo",
+      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T21:30:35Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 525,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/zKDLLotMYV8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -5894,7 +5966,7 @@
       "published": "2026-10-18T15:00:28Z",
       "description": "Video from the publisher’s YouTube channel",
       "durationSeconds": 2364,
-      "availableGB": false,
+      "availableGB": true,
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/Yj7EilD0eAc/hqdefault.jpg",
@@ -29985,24 +30057,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "cgbzrveM49E",
-      "title": "Hassan Nisar’s Hard-Hitting Response to Bilawal Bhutto’s Statement | Black and White",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T16:45:23Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 147,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/cgbzrveM49E/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "3H2moaCXmag",
       "title": "Nashtar Episode 20 Teaser - 16th October 2026 - HAR PAL GEO",
       "channel": "Har Pal Geo",
@@ -30144,24 +30198,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/1o7ZSfUAVL0/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "TbR0fYVxSrE",
-      "title": "KP Emergency Live | New Political Set up | PTI Shocked | PML-N, PP in Trouble Trouble | Mere Sawal",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T16:37:28Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 2093,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/TbR0fYVxSrE/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -41991,24 +42027,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "GmAm4-CnkmI",
-      "title": "Mujhe Hasil Karna Hai Tou Daulat Ko Thokar Maro 💸 || Khafa || Har Pal Geo",
-      "channel": "Har Pal Geo",
-      "channelId": "harpalgeo",
-      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T06:15:21Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 307,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/GmAm4-CnkmI/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "MZakr14bRts",
       "title": "Uncle Ka Reaction Mujhe Bilkul Samaj Nahi Aaraha | Hiba Aziz - Danial Afzal | Dastoor | Green TV",
       "channel": "Green Entertainment",
@@ -42042,24 +42060,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/s6pOEKKTuNE/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "vSWiVFbwo0M",
-      "title": "Uswah Episode 22 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-      "channel": "Har Pal Geo",
-      "channelId": "harpalgeo",
-      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T06:00:31Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 540,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/vSWiVFbwo0M/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -75849,6 +75849,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "5v89kxArsK4",
+      "title": "Lunchbox Chicken Macaroni Back-to-School Recipe by Food Fusion",
+      "channel": "Food Fusion",
+      "channelId": "foodfusion",
+      "youtubeChannelId": "UCuqBZWK9Wrol_4Y22DzisFQ",
+      "category": "vloggers",
+      "genre": "Food & recipes",
+      "date": "2026-08-08",
+      "published": "2026-08-08T08:30:23Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 134,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/5v89kxArsK4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "gq3S_0BFsz4",
       "title": "King England Mein Karlega? SL Kya India Per Bhari Parega ?",
       "channel": "Wasay Habib",
@@ -75864,24 +75882,6 @@
       "availablePK": true,
       "embeddable": false,
       "thumbnail": "https://i.ytimg.com/vi/gq3S_0BFsz4/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "E35AAjyHTa8",
-      "title": "Award Show Website Crashed by Ducky Bhai Army 🔥 | Dog Ko Bahar Nikalna Para 😱",
-      "channel": "Ducky Bhai",
-      "channelId": "ducky",
-      "youtubeChannelId": "UC_c-RTowPbIlzMkIa_O7s6Q",
-      "category": "vloggers",
-      "genre": "Lifestyle & vlogs",
-      "date": "2026-08-07",
-      "published": "2026-08-07T16:27:54Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 921,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/E35AAjyHTa8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79611,6 +79611,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Dunya News: HTTP 404: playlistNotFound",
+  "lastError": "Imran Riaz Khan: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
