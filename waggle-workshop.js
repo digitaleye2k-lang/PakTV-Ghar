@@ -3,7 +3,14 @@
 const $=id=>document.getElementById(id),channelURL="https://www.youtube.com/@TheWaggleWorkshop";
 const state={videos:[],show:12,loading:true};
 function element(tag,cls,text){const e=document.createElement(tag);if(cls)e.className=cls;if(text!==undefined)e.textContent=String(text);return e;}
-function safeVideo(v){return !!v&&v.channelId==="waggleworkshop"&&v.category==="waggle"&&/^[A-Za-z0-9_-]{11}$/.test(v.id||"")&&typeof v.title==="string"&&v.title.trim().length>2;}
+function safeVideo(v){
+ // YouTube Shorts can be up to three minutes; require real duration metadata.
+ // RSS entries without known length never appear as long-form videos.
+ return !!v && v.channelId==="waggleworkshop" && v.category==="waggle" &&
+  /^[A-Za-z0-9_-]{11}$/.test(v.id||"") && typeof v.title==="string" &&
+  v.title.trim().length>2 && Number(v.durationSeconds)>=181 &&
+  !/(?:^|[^a-z])shorts?(?:[^a-z]|$)|#short|grand theft auto|\bgta\s*6\b|playstation vs xbox|omaha beach/i.test(v.title);
+}
 function linkFor(id){return "https://www.youtube.com/watch?v="+encodeURIComponent(id);}
 function card(v){
  const el=element("article","video-card");
