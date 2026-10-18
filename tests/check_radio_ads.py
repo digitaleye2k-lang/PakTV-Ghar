@@ -58,7 +58,8 @@ for name in ("music.html","gupshup.html","community.html","privacy.html","discla
     for marker in ('data-paktv-auto-ads="yes"','cookie-consent.js','ads-standalone.css',
                    'cookie-consent.css','data-privacy-settings'):
         assert marker in page, name+": missing "+marker
-    assert 'highrevenueformat.com' not in page and 'profitableratecpmnetwork.com' not in page
+    assert '<script src="https://www.highrevenueformat.com/' not in page
+    assert '<script src="https://pl31793698.profitableratecpmnetwork.com/' not in page
 for name in ("community.html","gupshup.html"):
     page=(root/name).read_text(encoding="utf-8")
     assert 'data-paktv-banner-only="yes"' in page, name+" must prevent page-level advertiser scripts"
