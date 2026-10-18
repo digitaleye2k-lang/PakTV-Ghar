@@ -31,6 +31,7 @@ jobs:
           node --check home-briefing.js
           python3 tests/check_briefing.py
           python3 tests/check_kids.py
+          python3 tests/check_ratings.py
           python3 -m unittest discover -s tests -p 'test_youtube*.py' -v
           python3 tests/check_site_js.py
           python3 tests/check_community.py
