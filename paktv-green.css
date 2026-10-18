@@ -42,3 +42,10 @@ html{background:#0c171e}body{background:radial-gradient(ellipse at 82% 6%,#1a443
 .kids-home-promo{display:flex;align-items:center;justify-content:space-between;gap:28px;padding:27px 32px;margin:25px 0;border-radius:21px;border:1px solid #71a87c;background:radial-gradient(ellipse at 95% 75%,#3a8865,#173f35 70%);box-shadow:0 8px 29px #08191250}
 .kids-home-promo>div{max-width:800px}.kids-home-promo h2{font-size:clamp(21px,2.7vw,32px);letter-spacing:-.04em;line-height:1.2;margin:8px 0}.kids-home-promo p{color:#d6ede0;max-width:690px;line-height:1.65;font-size:13px;margin:0 0 17px}.kids-home-promo a{display:inline-flex;padding:11px 15px;border-radius:10px;background:#ffce89;color:#183a2c;text-decoration:none;font-weight:800;font-size:12px}.kids-home-promo a:hover{background:#ffe3b1}.kids-home-illustration{font-size:clamp(36px,6vw,68px);letter-spacing:.01em;white-space:nowrap;filter:drop-shadow(0 8px 12px #102e24aa)}
 @media(max-width:720px){.kids-home-promo{padding:22px 18px;align-items:start}.kids-home-illustration{display:none}}
+
+/* Flag-bearing artwork blends into the right-hand green backdrop without blocking content. */
+.pakistan-background-art{position:fixed;right:-85px;bottom:-100px;z-index:0;pointer-events:none;width:clamp(260px,31vw,525px);height:min(85vh,790px);opacity:.20;filter:saturate(.84) sepia(.08) drop-shadow(0 5px 32px #28785833);mask-image:linear-gradient(90deg,transparent 0%,#000 27%,#000 75%,transparent 100%);-webkit-mask-image:linear-gradient(90deg,transparent 0%,#000 27%,#000 75%,transparent 100%)}
+.pakistan-background-art img{width:100%;height:100%;object-fit:contain;object-position:100% 100%;mix-blend-mode:screen}
+.app-shell{position:relative;z-index:1}
+@media(max-width:880px){.pakistan-background-art{right:-115px;bottom:-50px;width:300px;opacity:.11}}
+@media(max-width:600px){.pakistan-background-art{right:-105px;bottom:7vh;width:235px;opacity:.08}}
