@@ -217,7 +217,7 @@ function spotlightChoices(){
   out.push(
     {name:'GUPSHUP · Chai, chat & community',poster:'./assets/gupshup-chai-main.jpg',
       subtitle:'Friends · chai · conversations',label:'DISCOVER GUPSHUP',
-      description:'Visit our tea-inspired gathering place, join a discussion room and discover the latest community features.',
+      description:'Enjoy chai-time conversations, Sports & Cricket and Kids & Family discussion rooms, plus built-in reporting tools.',
       href:'./gupshup.html',action:'Step into GUPSHUP ☕'},
     {name:'Pakistani Movies · Cinema & classics',poster:'./assets/movie-headline-1.webp',
       subtitle:'Films · classics · full movies',label:'FILM NIGHT',
@@ -248,7 +248,7 @@ function spotlightChoices(){
     subtitle:vlog.channel||'Pakistani creators',label:'MEET THE CREATORS',
     description:'Discover food, travel, family videos and the stories creators share every day.',
     href:routeURL('vloggers'),action:'Explore creators →'});
-  out.push({name:'RetroWorld · Play retro games',poster:'./assets/movie-headline-3.webp',
+  out.push({name:'RetroWorld · Play retro games',poster:'https://retroworld.eu.cc/dust-and-iron-news.jpg',
     subtitle:'Our sister website',label:'MORE TO EXPLORE',
     description:'Looking for games? Visit our other website, RetroWorld, for more fun.',
     href:'https://retroworld.eu.cc/',action:'Visit RetroWorld ↗'});
@@ -573,7 +573,6 @@ function sectionBanner(type){
   const group=uniqueVideos([...state.archiveVideos,...state.feed,...SEED_VIDEOS]);
   const forTopic=topic=>group.filter(v=>officialVideo(v)&&v.category===topic)
     .sort((a,b)=>String(b.published||b.date||'').localeCompare(String(a.published||a.date||'')));
-  const posters=spotlightChoices().filter(slide=>slide.kind==='show');
   let slides=[];
   if(type==='dramas'||type==='today'){
     const entries=LIBRARY.filter(show=>show.type==='drama'&&
