@@ -14,8 +14,15 @@ SOURCES = (
 )
 RADIO_PAKISTAN = "https://www.radio.gov.pk/live-streaming"
 OFFICIAL_FALLBACKS = [
- {"name":"Radio Pakistan · FM 101", "city":"Nationwide / cities", "genre":"Music, entertainment and public radio",
-  "homepage":RADIO_PAKISTAN, "stream":"", "source":"Official station directory"},
+ {"name":"Radio Pakistan · FM 101 Islamabad", "city":"Islamabad", "genre":"Urdu music, news and entertainment",
+  "homepage":RADIO_PAKISTAN, "stream":"https://whmsonic.radio.gov.pk:7008/stream",
+  "source":"Public station directory; stream availability varies"},
+ {"name":"City FM 89", "city":"Islamabad / nationwide", "genre":"Pop, modern hits and music",
+  "homepage":"https://cityfm89.com/", "stream":"https://radio.cityfm89.com/stream",
+  "source":"Public station directory; stream availability varies"},
+ {"name":"Radio One FM 91", "city":"Karachi / nationwide", "genre":"Popular music and talk",
+  "homepage":"https://fm91.com.pk/", "stream":"https://cc.vmakerhost.com/proxy/karachi?mp=/stream",
+  "source":"Public station directory; stream availability varies"},
  {"name":"Radio Pakistan · Planet FM 87.6","city":"Islamabad", "genre":"Music and entertainment",
   "homepage":RADIO_PAKISTAN,"stream":"","source":"Official station directory"},
  {"name":"Mast FM 103","city":"Multiple cities","genre":"Music and infotainment",
