@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-18T22:14:11.122339Z",
+  "generatedAt": "2026-10-18T22:19:12.548325Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-18T22:14:11.122339Z",
+      "updatedAt": "2026-10-18T22:19:12.548325Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -62,7 +62,7 @@
       ]
     },
     "world": {
-      "updatedAt": "2026-10-18T22:14:11.122339Z",
+      "updatedAt": "2026-10-18T22:19:12.548325Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -84,6 +84,12 @@
           "published": "2026-10-18T20:59:26Z"
         },
         {
+          "title": "Semi-Truck Rollover Spills Dozens of Cattle Across Downtown Kansas City - The New York Times",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kOXd3c2NQeEc1bmMtMlhQbV9oVzVSOFRUel9xQXVKb0l5dk1lUXNzbXZzTXk0WG9QMUdnZmNzZ25wSVRUcnFqSElMZ09UQ3lFV3RtNGJRNkZoNzdlZnk2UUQ2ZGNyNmhLd3BVLWM2YnFONVU?oc=5",
+          "published": "2026-10-18T20:09:40Z"
+        },
+        {
           "title": "AP Top 25 poll: Miami takes over at No. 1, BYU surges to No. 2 in college football rankings - CBS Sports",
           "source": "CBS Sports",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1BhZS1tTjhmUHg1ZHhYazQ1QW5vYzVmbVBDeWszdlRYSHM4dXRfcmZQbU1YTVYtZ044MEtad0VERFFvSU9UOTF4Z09FUlpyNGdyOHl5WFFvTG15OWtHWHZjUklVNVFKWWJkeWhwUGdOYWh4dWRfUDF3UlQ2TnZCaUctRDRNZEFLT01FbTIxUnFlV0tJRWwtTEpR?oc=5",
@@ -94,12 +100,6 @@
           "source": "PhoneArena",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUp6X1dXSGg1RFJucU9xODdkUTJwVnRicEtDTlI0T055ZFA0TGZyckh4a29QZk5ZaDlEamNqcG5vWTFhWW00RmRCZTJXcm9yUkNPZEtlTUJkQlFTRkY2V0cyMkxnXzl6WXNWeExNMmdrLUlGRUVrN0VqVGlwU1JaWHVxS28zS24xOXBQNFhnTks4aXhJQmpTTHhIbV9qN0JHS0M2RHEwOXdLM2ppQVpwaHhB?oc=5",
           "published": "2026-10-18T19:53:53Z"
-        },
-        {
-          "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27 - BBC",
-          "source": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsME1IN1U0Z2pXa3FXdVBhTkFCMjVIcldNNVUtX3puRnhaQnFjYnFTalZZWGxGMFh0VEJXMENrMU16ZVA3SGhTWFQ2c2l4LTRZQWFBdWNYNF9RSlE?oc=5",
-          "published": "2026-10-18T19:53:27Z"
         },
         {
           "title": "Congo’s fast-moving Ebola outbreak spreads to eighth province - AP News",
@@ -124,7 +124,7 @@
   },
   "newsUrdu": {
     "pakistan": {
-      "updatedAt": "2026-10-18T22:14:11.122339Z",
+      "updatedAt": "2026-10-18T22:19:12.548325Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -164,29 +164,29 @@
           "published": "2026-10-18T18:10:07Z"
         },
         {
-          "title": "Pakistan to Hire Global Experts to Recover K2 Airways Black Box From Deep Sea - Aaj English TV",
-          "source": "Aaj English TV",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRl9FNlk3VHJmWHVpUThia3pvMW1LaVNIdUc4UnJmWWtWcnhOU0lESmliZW1IbjFjdGlSNEM4OG1aZFhUSGNiX1lnY1p4QXF3MU15REJ4Vk1Memp3NzdRWXdvTExzTS1vM1NoS3RGdEs5SHkzTEcwLVk0a3cwODJHMzFwTDhqRXFlQzZ0WWtXaGstNzkza3A5eUpRNVVHNlJycFBDaERXMWg0aWFIZFRNOWhUd29SeUVENEdKWFByVVA5QQ?oc=5",
-          "published": "2026-10-18T17:50:10Z"
-        },
-        {
-          "title": "Pakistan Iran Trade Temporarily Suspended Amid Banking and Verification Issues - Aaj English TV",
-          "source": "Aaj English TV",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSTZqSTJPaXdpM1ZpMGdhbGplaXo5NVpub3J0QXhBQVUzSjZXYmRKTzVPRFppbVZyamRxS2FkSTlSVW9jZGdrZy1jTHd4cGN4LS0yS25RNTBPeHBrbW5WekJtanBUdzRFVzdScWZYLU1nWjczV2Znb3NHVWttMTdGU2lEUnhoWGVfb3dkRmJqb2VLNHcwVWwxYlBkQ0x1T25RMnJ2bkhVQUlhQjlISDZZY2hQcW1GeHJ4UWFkbV9MN3JlT2M?oc=5",
-          "published": "2026-10-18T17:50:09Z"
-        },
-        {
           "title": "Pakistan to Hire Global Experts to Recover K2 Airways Black Box From Deep Sea - Aaj News",
           "source": "Aaj News",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EUHlGSGJuR01VbUJ2aXBGZVJUZjBweE9hQnJsYV9KbHRXenpoWTJmdmYwNzBTbEZpM1VPNjQtRGlSRlFwMEU5b1FQTlc?oc=5",
           "published": "2026-10-18T17:40:07Z"
+        },
+        {
+          "title": "Pakistan People’s Party (PPP) women workers light lamps in memory of the Karsaz tragedy martyrs outside a press club - | Associated Press Of Pakistan",
+          "source": "| Associated Press Of Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdnFYdnJvZ21sUU9qY0taNS1tRlo2Yk9URnpNRlhJWi1LanRocWtocDcwRklHTjhId2pYMDZ0UWxYRXQ1SVRzc2Y3RUJ6bXB1a1A2cGtHX1NWTnlEaFpTX2VwNHBtNjI2TkUtZTJ4QmU5ZkdnSWQ0LU1sSy1vd2otMXdnTkZiOTNWVTVhMGV0TXBYa1pTRi1mbzI2ZTRiSDAtcnRWVGdJZXFOeHR2SnZzZEtTd1BudllNTDlLQW1pMzloT3ZYeFJVaUtONjRWYUs2YXFPZzJPUkpHUmFfMDJKLVhvVnRZcFE?oc=5",
+          "published": "2026-10-18T17:19:39Z"
+        },
+        {
+          "title": "Nazriya Pakistan Council holds ceremony to commemorate Liaquat Ali Khan’s death anniversary - | Associated Press Of Pakistan",
+          "source": "| Associated Press Of Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRkhhTUxuRVZwSXIya1lXTGZxMk5iQWNwMWJFMVpHY1FHZ3JmbDRHRXFjRWJRdndwV0tkV2ZPRVV2ZVUxWjBCQmxyVjRvaDdiSjhUNHJiaVlNeTFwaTBBVTRfMEJ4WXNCeElsUFE5Q2xoSU1lNEp2V0JXU3hSV292U3pPSldzcWw0ZDFNNEhkRkE5Ym9ZMTRXN1dNa05TY0stYUFCeXVISWFlb1FpaWdGdXhBVnZUNzEwdk1scF92SW0?oc=5",
+          "published": "2026-10-18T17:17:33Z"
         }
       ]
     },
     "world": {}
   },
   "weather": {
-    "updatedAt": "2026-10-18T22:14:11.122339Z",
+    "updatedAt": "2026-10-18T22:19:12.548325Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -225,7 +225,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-18T22:14:11.122339Z",
+    "updatedAt": "2026-10-18T22:19:12.548325Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
@@ -251,7 +251,7 @@
     ]
   },
   "sports": {
-    "updatedAt": "2026-10-18T22:14:12.918428Z",
+    "updatedAt": "2026-10-18T22:19:14.287901Z",
     "source": "ESPN cricket snapshot",
     "url": "https://www.espncricinfo.com/live-cricket-score",
     "matches": []
