@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+ <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+ <meta name="theme-color" content="#15372f">
+ <meta name="description" content="PakTV Ghar Kids: Pakistani cartoons, Urdu nursery rhymes, learning videos and parent-selected Pakistani family creators on YouTube.">
+ <title>Kids Corner | PakTV Ghar</title>
+ <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Noto+Sans+Arabic:wght@400;600;700&display=swap" rel="stylesheet">
+ <link rel="stylesheet" href="./kids.css">
+</head>
+<body>
+ <a class="skip-link" href="#kidsContent">Skip to kids videos</a>
+ <header class="site-header">
+  <a href="./#home" class="brand"><span class="brand-icon">▶</span><span>PakTV <em>Ghar</em><small>پاک ٹی وی گھر</small></span></a>
+  <nav aria-label="Main site"><a href="./#home">Home</a><a href="./#dramas">Dramas</a><a href="./#sports">Sports</a><a class="active" href="./kids.html" aria-current="page">🌈 Kids</a><a href="./gupshup.html">GUPSHUP</a></nav>
+  <a class="back" href="./#home">← Back to TV</a>
+ </header>
+ <main id="kidsContent">
+  <section class="hero">
+   <div class="hero-copy"><span class="eyebrow">🌈 PAKTV GHAR · KIDS & FAMILY</span>
+    <h1>Little smiles.<br><span>Big discoveries.</span></h1>
+    <p class="urdu" lang="ur">بچوں کا رنگین کونا</p>
+    <p>Explore Pakistani cartoons, Urdu poems, learning stories and family-friendly creators—organised for parents to choose what to watch together.</p>
+    <div class="hero-pills"><span>📺 Pakistani kids channels</span><span>🎨 Cartoons & songs</span><span>🧑‍🧑‍🧒 Parent-guided</span></div>
+    <a href="#browse" class="hero-btn">Explore kids videos ↓</a>
+   </div>
+   <div class="hero-art" aria-hidden="true"><div class="hero-sun">☀️</div><div class="hero-rainbow">🌈</div><div class="hero-kite">🪁</div><div class="hero-book">📚</div><div class="hero-balloons">🎈</div><div class="hero-cloud">☁️</div></div>
+  </section>
+  <aside class="parent-note"><span aria-hidden="true">🛡️</span><div><strong>A note for parents and guardians</strong><p>This is a curated directory, not a child-only social network. We do not offer kids chat, profiles or comments. Please preview videos, supervise younger viewers and use <a href="https://kids.youtube.com/" target="_blank" rel="noopener noreferrer">YouTube Kids' parental controls</a> where appropriate. Videos and recommendations on YouTube are controlled by YouTube and their publishers.</p></div></aside>
+  <section class="explore" id="browse">
+   <div class="section-title"><div><span class="eyebrow">PICK SOMETHING FUN</span><h2>Explore by interest</h2><p>Choose a type of video or browse them all.</p></div><span id="feedUpdated" class="updated" aria-live="polite">Checking videos…</span></div>
+   <div class="filter-row" role="group" aria-label="Kids video categories">
+    <button type="button" class="filter active" data-category="all" aria-pressed="true">✨ All kids videos</button>
+    <button type="button" class="filter" data-category="Cartoons & stories" aria-pressed="false">🎨 Cartoons & stories</button>
+    <button type="button" class="filter" data-category="Rhymes & poems" aria-pressed="false">🎵 Rhymes & poems</button>
+    <button type="button" class="filter" data-category="Learning & values" aria-pressed="false">📚 Learning & values</button>
+    <button type="button" class="filter" data-category="Family vlogs" aria-pressed="false">🏡 Family vlogs</button>
+    <button type="button" class="filter" data-category="Kids creators" aria-pressed="false">📹 Kids creators</button>
+   </div>
+   <h3 id="resultHeading">Latest kids videos</h3>
+   <p id="feedStatus" class="feed-status" role="status">Loading curated YouTube uploads…</p>
+   <div id="kidsVideos" class="video-grid" aria-live="polite"></div>
+   <button type="button" id="showMore" class="show-more" hidden>Show more videos ↓</button>
+  </section>
+  <section class="channels">
+   <div class="section-title"><div><span class="eyebrow">TRUSTED STARTING POINTS</span><h2>Pakistani kids channels & creators</h2><p>Curated channels grouped by what they publish. Channel listings are not endorsements of every video.</p></div></div>
+   <div id="kidsChannels" class="channel-groups"></div>
+  </section>
+  <section class="family-note"><div><span aria-hidden="true">☕</span><h2>Talk about family-friendly shows</h2><p>Parents and guardians can share programme ideas in the GUPSHUP Kids & Family discussion room. It is an adult-led public discussion space, not a chat room for unsupervised children.</p><a href="./gupshup.html">Visit GUPSHUP ↗</a></div></section>
+ </main>
+ <div id="playerOverlay" class="player-overlay" hidden>
+   <div class="player-panel" role="dialog" aria-modal="true" aria-labelledby="playerTitle">
+    <div class="player-header"><div><strong id="playerTitle">Watch video</strong><p>Playing this video sends data to YouTube. Parents should supervise.</p></div><button type="button" id="closePlayer" aria-label="Close video player">✕</button></div>
+    <div class="iframe-wrap" id="playerSlot"></div>
+    <a id="openYoutube" class="external-video" href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">Open on YouTube ↗</a>
+   </div>
+ </div>
+ <footer><div><strong>PakTV <em>Ghar</em> Kids</strong><small>Curated with families in mind.</small></div><div><a href="./#home">Home</a><a href="./gupshup.html">GUPSHUP</a><a href="./privacy.html">Privacy</a><a href="./disclaimer.html">Disclaimer</a><a href="https://retroworld.eu.cc/" target="_blank" rel="noopener noreferrer">RetroWorld ↗</a></div></footer>
+ <script src="./kids.js" defer></script>
+</body></html>
