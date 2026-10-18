@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-10-18T15:20:22.280666+00:00",
+  "generatedAt": "2026-10-18T15:21:17.461104+00:00",
   "dateTimezone": "UTC",
-  "cursor": 42,
+  "cursor": 11,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
       "uploadsId": "UU_vt34wimdCzdkrzVejwX9g",
       "handle": "geonews",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T14:59:09.034062+00:00"
+      "lastFetchedAt": "2026-10-18T15:21:17.461104+00:00"
     },
     "ducky": {
       "youtubeId": "UC_c-RTowPbIlzMkIa_O7s6Q",
       "uploadsId": "UU_c-RTowPbIlzMkIa_O7s6Q",
       "handle": "duckybhai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T14:59:09.034062+00:00"
+      "lastFetchedAt": "2026-10-18T15:21:17.461104+00:00"
     },
     "arynews": {
       "youtubeId": "UCMmpLL2ucRHAXbNHiCPyIyg",
       "uploadsId": "UUMmpLL2ucRHAXbNHiCPyIyg",
       "handle": "ArynewsTvofficial",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T14:59:09.034062+00:00"
+      "lastFetchedAt": "2026-10-18T15:21:17.461104+00:00"
     },
     "rhs": {
       "youtubeId": "UCgFG7lz7BI5hsNEifevrWSw",
       "uploadsId": "UUgFG7lz7BI5hsNEifevrWSw",
       "handle": "ranahamzasaifrhs",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T14:59:09.034062+00:00"
+      "lastFetchedAt": "2026-10-18T15:21:17.461104+00:00"
     },
     "dunya": {
       "youtubeId": "UCG7xCQTxgy93j6r49wl48rw",
@@ -42,28 +42,28 @@
       "uploadsId": "UUQexaAjPn3-1MCE4DmBK3Tg",
       "handle": "villagefoodsecrets",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T15:05:45.505525+00:00"
+      "lastFetchedAt": "2026-10-18T15:21:17.461104+00:00"
     },
     "geohasna": {
       "youtubeId": "UC6HQ4d3xq9EgSeJgMhc-4AQ",
       "uploadsId": "UU6HQ4d3xq9EgSeJgMhc-4AQ",
       "handle": "GeoHasnaManaHai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T15:05:45.505525+00:00"
+      "lastFetchedAt": "2026-10-18T15:21:17.461104+00:00"
     },
     "streetfoodpk": {
       "youtubeId": "UCt8NJjYKc2aT3T0TnbcWxSw",
       "uploadsId": "UUt8NJjYKc2aT3T0TnbcWxSw",
       "handle": "streetfoodpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T15:05:45.505525+00:00"
+      "lastFetchedAt": "2026-10-18T15:21:17.461104+00:00"
     },
     "hum": {
       "youtubeId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
       "uploadsId": "UUEeEQxm6qc_qaTE7qTV5aLQ",
       "handle": "HUMTV",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T15:05:45.505525+00:00"
+      "lastFetchedAt": "2026-10-18T15:21:17.461104+00:00"
     },
     "arydigital": {
       "youtubeId": "UC4JCksJF76g_MdzPVBJoC3Q",
@@ -245,17 +245,161 @@
       "uploadsId": "UU2PYniNHljOED9xNaMpiMiQ",
       "handle": "ARYFilms",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-18T14:59:09.034062+00:00"
+      "lastFetchedAt": "2026-10-18T15:21:17.461104+00:00"
     },
     "drmmovies": {
       "youtubeId": "UCDmQsP_LTEWPZ2AXS9eWTrQ",
       "uploadsId": "UUDmQsP_LTEWPZ2AXS9eWTrQ",
       "handle": "pakistani_movies",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-18T14:59:09.034062+00:00"
+      "lastFetchedAt": "2026-10-18T15:21:17.461104+00:00"
     }
   },
   "videos": [
+    {
+      "id": "b7LVkzHn_Wo",
+      "title": "Saim Ki Nahi Ab Ammar Ki Dulhan Ho..!! #khushi #sumaiyyabukhs #HUMTV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:20:37Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 98,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/b7LVkzHn_Wo/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "1xvlxCUf0zs",
+      "title": "Khushi Aur Ammar Ki Shadi..! #khushi #sumaiyyabukhs #HUMTV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:20:36Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 519,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/1xvlxCUf0zs/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "P7kpvOiQgY8",
+      "title": "Ye Kis Ki Shadi Ke Card Bann Rahy..? #khushi #sumaiyyabukhs #HUMTV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:18:05Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 111,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/P7kpvOiQgY8/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "8QCjrzrKyjk",
+      "title": "Saim Ne Khushi Ki Shadi Ka Card Parh Lia...! #khushi #sumaiyyabukhs #HUMTV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:10:31Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 519,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/8QCjrzrKyjk/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "U-EOBO6iulY",
+      "title": "Tum Ne Meri Zindagi Kharab Ki Hue..!! #khushi #sumaiyyabukhs #HUMTV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:10:15Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 113,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/U-EOBO6iulY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "8odbD2FwcRQ",
+      "title": "Itni Taiz Gari Kyun Chala Rehay Thay..! #khushi #sumaiyyabukhs #HUMTV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:10:09Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 488,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/8odbD2FwcRQ/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "pJ0DjMLD65s",
+      "title": "Khushi Ki Shadi Ka Card Saim Ko Zrur Bhejna..! #khushi #sumaiyyabukhs #HUMTV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:10:04Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 113,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/pJ0DjMLD65s/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "L2MwKEwzsfg",
+      "title": "Pakistan vs Sri Lanka: 306-Run Target | Yahya Hussaini & Rashid Latif’s Analysis | Geo News",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:09:13Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 257,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/L2MwKEwzsfg/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
     {
       "id": "I0c5qwBNXEk",
       "title": "Humna Ne Saim Ko Apny Jaal Mein Phasa Lia..! #khushi #sumaiyyabukhs #HUMTV",
@@ -326,6 +470,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/DN3hGiwy-kA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "qGvPTusyBHY",
+      "title": "PREM GALI - FULL MOVIE | FARHAN SAEED | SOHAI ALI ABRO | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:00:35Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 8890,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/qGvPTusyBHY/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -455,6 +617,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "UWDJ61X8gnU",
+      "title": "Should New Provinces Be Created in Pakistan? | What Do People of Kasur Want? | Breaking News",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T14:58:40Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 512,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/UWDJ61X8gnU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "HdER4mwhaxM",
       "title": "KP Emergency | Bilawal Bhutto Criticizes Fazal ur Rehman | 7:30 PM News Update | Samaa TV",
       "channel": "SAMAA TV",
@@ -470,6 +650,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/HdER4mwhaxM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "sqQIEN4N6f8",
+      "title": "Kasur’s Biggest Issues: What Solutions Do Residents Want? | Locals Share Their Views",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T14:52:17Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 488,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/sqQIEN4N6f8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -744,7 +942,7 @@
     },
     {
       "id": "UT5mMeRYDw8",
-      "title": "Saudi Military Helicopter Crash | KP Governor Rule And Emergency | ARY News 7 PM Headlines",
+      "title": "KP Governor Rule And Emergency | Shocking Updates | Helicopter Crash | ARY News 7 PM Headlines",
       "channel": "ARY News",
       "channelId": "arynews",
       "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
@@ -26231,42 +26429,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "-FtIEkaJ-3g",
-      "title": "Pakistan Mein Khana Kitna Zaya Hota Hai? #pakistan #shorts #youtubeshorts",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:07:58Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 171,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/-FtIEkaJ-3g/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "0bBR0SGwFaA",
-      "title": "\"Shadab Khan Ki Baat Karun Tu...\" #shadabkhan #sahibzadafarhan #pakistancricket #shorts",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:07:19Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 165,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/0bBR0SGwFaA/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "wBIKldbq1JA",
       "title": "Climate Change | Best Trees for Karachi | Environment Awareness - Aaj Digital",
       "channel": "Aaj TV Official",
@@ -26876,24 +27038,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/X_kcYatV0v0/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "KUjg-XwXDTg",
-      "title": "Husband and Wife Share the Same Name, Leaving Relatives Amazed | Geo News",
-      "channel": "Geo News",
-      "channelId": "geonews",
-      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T12:52:55Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 110,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/KUjg-XwXDTg/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -35717,24 +35861,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "9CwwJsHKWFY",
-      "title": "Kaun Jeety Ga Ye Case???😲 | #UrwaHocane #FarhanSaeed #Udaari",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T10:15:10Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 488,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/9CwwJsHKWFY/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "oAAlvRPSMLw",
       "title": "Peshawar School Roof Collapse: Heartbreaking Scenes Emerge - Aaj News",
       "channel": "Aaj TV Official",
@@ -37769,24 +37895,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "ICSRiUv5OHc",
-      "title": "Tum Mujh Se Kya Chupa Rahi Ho, Khushi...? Khushi - ft. Sumaiyya Bukhsh & Mariam Ejaz",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T03:00:16Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 243,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/ICSRiUv5OHc/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "nHLacYTUAv4",
       "title": "Mamooli Larki Ne Tumhe Khudgharz Bana Dala 😲 || Khafa || Har Pal Geo",
       "channel": "Har Pal Geo",
@@ -37823,24 +37931,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "MDa9rO5zVNM",
-      "title": "Saim Ne Khushi Par Kya Ilzaam Lagaya...? Khushi - ft. Sumaiyya Bukhsh & Mariam Ejaz",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T02:00:03Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 188,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/MDa9rO5zVNM/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "F4HVR_AV9z8",
       "title": "Dono Se Shaadi Karunga!! | Areeqa Haq | Ahsan Afzal Khan | Shahzad Sheikh | Shaandaar",
       "channel": "Express TV",
@@ -37856,60 +37946,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/F4HVR_AV9z8/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "5yC30cDGBS0",
-      "title": "Saim Ko Para Zordar Ka Thappar...! Khushi - ft. Sumaiyya Bukhsh & Mariam Ejaz",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T01:00:14Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 228,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/5yC30cDGBS0/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "VE6HOnGZ1Tw",
-      "title": "Khushi Ne Apni Ghalti Maan Li...! Khushi - ft. Sumaiyya Bukhsh & Mariam Ejaz",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T00:00:06Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 193,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/VE6HOnGZ1Tw/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "vkWTSkjS7lQ",
-      "title": "Khushi Ko Kis Baat Ki Uljhan Hai...? Khushi - ft. Sumaiyya Bukhsh & Mariam Ejaz",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-14",
-      "published": "2026-10-14T23:00:09Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 219,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/vkWTSkjS7lQ/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -37946,24 +37982,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/Pu_LHfpWbjg/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "5bphvzgO0dw",
-      "title": "Khushi Ki Shaadi Kab Hogi...? Khushi - ft. Sumaiyya Bukhsh & Mariam Ejaz",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-14",
-      "published": "2026-10-14T22:00:17Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 238,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/5bphvzgO0dw/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79437,26 +79455,8 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/So0QbHRUGv8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "ijTvHcaVJuY",
-      "title": "New Year's Special Degi Style Halwa Recipe l New Year Pe Yeh Halwa Zaroor Banayein",
-      "channel": "Kitchen with Amna",
-      "channelId": "kitchenamna",
-      "youtubeChannelId": "UCQ2P7C8UGoVM6AhqsVx-M0Q",
-      "category": "vloggers",
-      "genre": "Food & recipes",
-      "date": "2025-12-31",
-      "published": "2025-12-31T09:06:32Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 382,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/ijTvHcaVJuY/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Asad Toor: channel unavailable; Siddique Jaan: channel unavailable; HUM TV Comedy: channel unavailable",
+  "lastError": "Mazaaq Raat: channel unavailable; Dunya News: HTTP 404: playlistNotFound",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-18T15:20:48.842850Z",
+  "generatedAt": "2026-10-18T15:21:48.973276Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-18T15:20:48.842850Z",
+      "updatedAt": "2026-10-18T15:21:48.973276Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -10,6 +10,12 @@
           "source": "Dawn",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90STMwSGtpem1KS0hybWdROVU0VVIxbThtbW5ONHBOM21YQUNUOHZtam9udHhnaGdIMFBGeWxReV80amRsUGp3Sg?oc=5",
           "published": "2026-10-18T15:18:06Z"
+        },
+        {
+          "title": "Pakistan suspends trade at two Iran border crossings over security, smuggling concerns - Firstpost",
+          "source": "Firstpost",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWGl3UXcyVlJneDhwZGVsdmtJTFlfM0lsWERfSmQyRFcycjUtd1VhNFhkRG0tQ0xFSUp6SkVLQzMwNnY4NkJKSXk3YS1fcTRBdFYtdFkzLTYyRmhrZTJtOXlxWnE4b0NQUmxmRC1MVFNlYkJRX09CNzd1TVZiWnowS0M3bElNbXZxX1FqOTVHN0p0MDJrSWRaQlFjd2JxSzJlRVVUZHo1eFhjR28zS0pkZGYwd2lPUFFvMGVCeUgxMXI1MWtaZWZPemhHbFlucjJSY3fSAdcBQVVfeXFMUDJLYmY1QUs0X1dWdUZEbnpVVnFBd2VoMzl1MUNIaE5hR0pNTnlOSzktNmFBdUN0anExbTFNYTZxOHlFelNVUkNLUE5jRzNwRFF5ZnVLaXl6Q0JXME1MV293cC1qYU5oVGljc25aQVRCdnlfT25uUHVXSmRsdkZEUldua2cwRDBVdXFFOFNXbDJkNnZQaks4ZWlmRE9NVEx1dEswWnU3QkYyZnRyRC1fSUd0RWhfN053NEZEaUZ3TkJsb3RlbkoxY1NHZUNFVXlsdTNWSnJoeFE?oc=5",
+          "published": "2026-10-18T15:15:59Z"
         },
         {
           "title": "Maldives President Muizzu to visit Pakistan after 11 years as countries mark 60 years of diplomatic ties - Firstpost",
@@ -52,17 +58,11 @@
           "source": "India Today",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN0NyZ2xLZ0JJWnE3eUk5VkdFSzlLZGhzVFdsRlJFR2l1WWN0dFhIN1NDVENzMDQ1SkxNdHZpaHh6TTVOOG96WU4wdllLZE45Q3Bvb2dTTFlTMnAwcDk0RlV6ZjlSWTVVczUxYkozNktzV2NKUE9nYjkxN0ZNWVRWVnh1VEo1MlAtdVdGbWtOOUx0dW96dWwtcHJMRnltTUhVeVNXR2hQakF5V2MwZW9URFNmVlYtOFV5c0dXZlJoNmE5TlRJTWw40gHHAUFVX3lxTE83Q3JnbEtnQklacTd5STlWR0VLOUtkaHNUV2xGUkVHaXVZY3R0WEg3U0NUQ3MwNDVKTE10dmloeHpNNU44b3pZTjB2WUtkTjlDcG9vZ1NMWVMycDBwOTRGVXpmOVJZNVVzNTFiSjM2S3NXY0pQT2diOTE3Rk1ZVFZWeHVUSjUyUC11V0Zta045THR1b3p1bC1wckxGeW1NSFV5U1dHaFBqQXlXYzBlb1REU2ZWVi04VXlzR1dmUmg2YTlOVElNbDg?oc=5",
           "published": "2026-10-18T14:05:03Z"
-        },
-        {
-          "title": "Pakistani Tech Firms Storm Silicon Valley at TechCrunch Disrupt - Digital Pakistan",
-          "source": "Digital Pakistan",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSHhBaWU0NFFYNFJDaVhZMDBNRkdHUndja3ZseUg5NTJyRVE2UUowcEp6RFp2cXJBaTIyRUp5VWF0SFc5TkpVcEpsQUowdktEWnkxcEwtc2FOTkpPN2dCa2luWFRlYVpESEMzSWF1MGtVRGg4Zi1hSzVFLUZaMGxMN1BvWGltd1kxRXN6MGRFZW94OXUxRUE?oc=5",
-          "published": "2026-10-18T14:00:51Z"
         }
       ]
     },
     "world": {
-      "updatedAt": "2026-10-18T15:20:48.842850Z",
+      "updatedAt": "2026-10-18T15:21:48.973276Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -114,16 +114,16 @@
           "published": "2026-10-18T12:42:31Z"
         },
         {
-          "title": "Big 12 admits clock error at end of Notre Dame-BYU game - NBC Sports",
-          "source": "NBC Sports",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORjlVNWptZ0owRVVGcy0yaVNxOXRSLUxPRTZjMDZnVlVJbUdfSnFpUGpPTEdHYzQ0TlZRSzFiQkJwX0syNUFXaVdsYy1ZT1V0bFpBd0pEdTZlb29MT1ZZYmJJbkJYa0hjZWo5UldObl9BbHRxSnczVEVMaGxBdkU0X1Fva1dwRGU5bndNNVM1WXNaWnhvYXl5UGxmWUE0SmNVLTBVVWZpYXdyQjhIWXhZYzBSMWl3WUtL?oc=5",
-          "published": "2026-10-18T12:36:43Z"
+          "title": "Taylor Swift performs ‘The Fate of Ophelia’ live for the first time in front of star-studded crowd at Academy Museum Gala - Page Six",
+          "source": "Page Six",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU2I4TTBHdk9aRERCczgwanhiR3A5SXVqd1FUR1ZnYjgyOGZwYklRTG1DZjBHZGtuRmFqUEs2NzJjdk5CQ3UyMHFRb1hZbmFoY2NYZDR1VHdLNDZfUFhlOFU1YXBGSXNraWY5TG5JN0FnRkUzU1FYNmVlQ2tvTWJqYU5qYVc0OWFmOXI5Tk1IeEJIRGlmRzJ5OG9CY0FXcEZlRHFTVHF0c05Mc29hOEdLeEY4NVZkTEtvdTl0V3ZwNkxBM29mVjM1YjdB?oc=5",
+          "published": "2026-10-18T12:41:00Z"
         }
       ]
     }
   },
   "weather": {
-    "updatedAt": "2026-10-18T15:20:48.842850Z",
+    "updatedAt": "2026-10-18T15:21:48.973276Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -162,7 +162,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-18T15:20:48.842850Z",
+    "updatedAt": "2026-10-18T15:21:48.973276Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
