@@ -125,7 +125,19 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
         return {'generatedAt': now.isoformat(), 'cursor': start,
                 'channels': cache, 'videos': list(entries.values()),
                 'lastError': 'YouTube API not configured'}, {'enabled': False, 'checked': 0, 'new': 0}
-    sources = [CHANNELS[(start+i) % len(CHANNELS)] for i in range(min(max_channels,len(CHANNELS)))]
+    # Newly-added sports channels must appear on their first refresh rather than
+    # waiting several scheduled rotations. Do not expend extra requests beyond
+    # max_channels: fill the remaining slots from the normal round-robin cursor.
+    priority = [source for source in CHANNELS if source.get('category') == 'sports'
+                and not (cache.get(source['id']) or {}).get('lastFetchedAt')][:max_channels]
+    regular = []
+    advance = 0
+    while len(priority) + len(regular) < min(max_channels,len(CHANNELS)) and advance < len(CHANNELS):
+        source = CHANNELS[(start+advance) % len(CHANNELS)]
+        advance += 1
+        if source['id'] not in {item['id'] for item in priority}:
+            regular.append(source)
+    sources = priority + regular
     for source in sources:
         sid = source['id']
         record = cache.get(sid, {})
@@ -195,7 +207,7 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
         videos.append(v)
     result = {
         'generatedAt':now.isoformat(),'dateTimezone':'UTC',
-        'cursor':(start+len(sources)) % len(CHANNELS), 'channels':cache,
+        'cursor':(start+advance) % len(CHANNELS), 'channels':cache,
         'videos':videos, 'lastError':'; '.join(errors[:7]),
         'notes':'Videos are links to original publishers, not stored here. Country availability can change.',
     }
