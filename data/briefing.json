@@ -1,19 +1,13 @@
 {
-  "generatedAt": "2026-10-18T20:26:10.819337Z",
+  "generatedAt": "2026-10-18T20:27:09.843080Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-18T20:26:10.819337Z",
+      "updatedAt": "2026-10-18T20:27:09.843080Z",
       "source": "Google News RSS",
       "items": [
         {
-          "title": "Salman Ali Agha-inspired Pakistan kick tri-series off with win over Sri Lanka - The Cricketer",
-          "source": "The Cricketer",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNek40blcwQl9SOGpYaDhVbHRPX2FZOGg0QjlkN25QZFItMDZXWjFCNm12U0k0ZnowWDB5c1lfaHBSYWVjb0VuMjlGOUNwYjBucV9LV3NGYVJHSXdSdmlkY0VNXzM2RXpBZndSeUxlMGp5RjNvY2k2N0pmU3BIZzNyMlkwSjRmX2hEOTNQRkFuUnp0Sk1pRi1STTZxOXd4OVEzdy1hUXg1eHZQUXNmZkNpV2dPNEt0NzhJQ0xRdWVaX0pWNjN4WF96anEtSERKLUJIcVREMkRGNmNmcW9aZWVnR1ZZOUpkMkJUNWlaOHN4dTRjOGVJMEhaenU2TU52ZzZiWkpDX3RqWmt2VUlDRVE?oc=5",
-          "published": "2026-10-18T20:17:09Z"
-        },
-        {
-          "title": "New provinces, new opportunities? - DW.com",
-          "source": "DW.com",
+          "title": "New provinces, new opportunities? - DW",
+          "source": "DW",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0N5bWpGRFNEQUdjVm0zTlZIQnc5MzdFZHZuMDhaeWVId0Z1b0pqc2sxQlp0cFRUOGFFWG9sckhhbUZVTE11Sl9PSTNDcmU2OWtZU2NSWXBwLWtjN1BCek9HbklJcEJmME14T205RmpldVZTeFlGY0JFbk5GRkJ1VGFYb0w?oc=5",
           "published": "2026-10-18T19:54:17Z"
         },
@@ -58,11 +52,17 @@
           "source": "Tapmad",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcHB0MDExMHJLYmx0cEx2b3JKR1MtTEhvR2Z5a3hmTlp3NUxjWFJrOG9lZl85VTNiTFlOUXptU0tVREx5a1dZWENqNFJtZFg0ZlA3dWVZM3d5aEdoSVJMazBhS042WTRDS0FrMFNHSFlJOHpCMWw2TEhGSHVHR3o5WA?oc=5",
           "published": "2026-10-18T18:24:27Z"
+        },
+        {
+          "title": "Pakistan enlists foreign experts to search for K2 Airways plane — The Express Tribune - UA.NEWS",
+          "source": "UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeTVZXzN3NVBXZmFLMjUzU3FIMDhkYlRWNElXd2VVS3dTcTVRdWxBM2hibkRkeUZxRUdNU0FSTTNMc0J6QVNZSjFxRUM0T29GSjdZb2FNMU5IenVMSDFuWVk1LTdpV25JSzZqUkMwaUsxT3ZVbTVRNFc3ZjZtelo4ang5bFdyOE1qNExaYkNfcFNaS09Ec3MtcjVxUDNQZ2tjajN6RENzRHRfSFlOSXNjZFRyT2U?oc=5",
+          "published": "2026-10-18T18:19:35Z"
         }
       ]
     },
     "world": {
-      "updatedAt": "2026-10-18T20:26:10.819337Z",
+      "updatedAt": "2026-10-18T20:27:09.843080Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -124,7 +124,7 @@
   },
   "newsUrdu": {
     "pakistan": {
-      "updatedAt": "2026-10-18T20:26:10.819337Z",
+      "updatedAt": "2026-10-18T20:27:09.843080Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -186,7 +186,7 @@
     "world": {}
   },
   "weather": {
-    "updatedAt": "2026-10-18T20:26:10.819337Z",
+    "updatedAt": "2026-10-18T20:27:09.843080Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -225,7 +225,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-18T20:26:10.819337Z",
+    "updatedAt": "2026-10-18T20:27:09.843080Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
@@ -251,7 +251,7 @@
     ]
   },
   "sports": {
-    "updatedAt": "2026-10-18T20:26:12.536029Z",
+    "updatedAt": "2026-10-18T20:27:11.582217Z",
     "source": "ESPN cricket snapshot",
     "url": "https://www.espncricinfo.com/live-cricket-score",
     "matches": []

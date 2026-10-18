@@ -1,17 +1,6 @@
 {
   "videos": [
     {
-      "id": "S_hm-Sa3MBk",
-      "title": "    New Long March Plan Revealed | Political Tensions Rise Across Pakistan",
-      "channel": "Sabir Shakir",
-      "channelId": "sabir",
-      "youtubeChannelId": "UCY7eFg5TEMsk_aTqM0pVB4w",
-      "category": "vloggers",
-      "date": "2026-10-18",
-      "published": "2026-10-18T20:15:30+00:00",
-      "description": "Official upload from Sabir Shakir"
-    },
-    {
       "id": "Z2zTRRYPOU8",
       "title": "Iran-US War | Pakistan Renews Efforts for Ceasefire and Peace Agreement | 12 AM News Headlines",
       "channel": "SAMAA TV",
@@ -3758,6 +3747,17 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "FveR0-3Lu1M",
+      "title": "Aurat Par Kya Chillana? Biwi Ko Kya Darana! | Dar-e-Nijaat | Sheheryar Munawar | Dur-e-Fishan |",
+      "channel": "ARY Digital",
+      "channelId": "arydigital",
+      "youtubeChannelId": "UC4JCksJF76g_MdzPVBJoC3Q",
+      "category": "dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:15:16+00:00",
+      "description": "Official upload from ARY Digital"
+    },
+    {
       "id": "zsiawZBExX0",
       "title": "Mujhe Apse Ek Zaruri Baat Karni Hai | Hiba Aziz - Danial Afzal - Areej Mohyudin | Dastoor | Green TV",
       "channel": "Green Entertainment",
@@ -3828,6 +3828,17 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/0BUewnGhJbM/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "vX4gy3k2ol0",
+      "title": "Ek aag ka dariya hai aur doob ke jaana hai | Digitally Presented by ENGLISH  | Jeeto Pakistan",
+      "channel": "ARY Digital",
+      "channelId": "arydigital",
+      "youtubeChannelId": "UC4JCksJF76g_MdzPVBJoC3Q",
+      "category": "dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:09:33+00:00",
+      "description": "Official upload from ARY Digital"
     },
     {
       "id": "qtR9es7DkVA",
@@ -4163,6 +4174,17 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/N_j-79_A3Ew/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "ZQU1SOiyI34",
+      "title": "Main Tera Episode 63 | Promo | Tomorrow at 9:00 PM | ARY Digital",
+      "channel": "ARY Digital",
+      "channelId": "arydigital",
+      "youtubeChannelId": "UC4JCksJF76g_MdzPVBJoC3Q",
+      "category": "dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:50:16+00:00",
+      "description": "Official upload from ARY Digital"
     },
     {
       "id": "QMCWSJQrgiI",
@@ -6358,42 +6380,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/W4KDo5pK9gk/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "7FINmFGz-KI",
-      "title": "Inflation Storm Hits Pakistan | Rising Prices Leave People Worried | Pakistan News | Geo News",
-      "channel": "Geo News",
-      "channelId": "geonews",
-      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-18",
-      "published": "2026-10-18T13:25:12Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 110,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/7FINmFGz-KI/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "Cg_tPL255o0",
-      "title": "Salman Agha Hits Century as Pakistan Set Sri Lanka a Target of 306 Runs - Aaj News",
-      "channel": "Aaj TV Official",
-      "channelId": "aajnews",
-      "youtubeChannelId": "UCgBAPAcLsh_MAPvJprIz89w",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-18",
-      "published": "2026-10-18T13:24:59Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 237,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/Cg_tPL255o0/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     }
   ],
