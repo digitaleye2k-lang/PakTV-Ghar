@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T22:19:00.832783+00:00",
+  "generatedAt": "2026-10-18T22:23:51.588263+00:00",
   "dateTimezone": "UTC",
-  "cursor": 16,
+  "cursor": 28,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -259,21 +259,21 @@
       "uploadsId": "UUiWrjBhlICf_L_RK5y6Vrxw",
       "handle": "PakistanCricket",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
+      "lastFetchedAt": "2026-10-18T22:23:51.588263+00:00"
     },
     "psl": {
       "youtubeId": "UCpNzXJ5jpcJojC5mHQvGA8w",
       "uploadsId": "UUpNzXJ5jpcJojC5mHQvGA8w",
       "handle": "pakistansuperleagueofficial",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
+      "lastFetchedAt": "2026-10-18T22:23:51.588263+00:00"
     },
     "asports": {
       "youtubeId": "UCCLdGxMC4fwkaQ4AIcL7Z8w",
       "uploadsId": "UUCLdGxMC4fwkaQ4AIcL7Z8w",
       "handle": "asportspk",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
+      "lastFetchedAt": "2026-10-18T22:23:51.588263+00:00"
     },
     "ptvsports": {
       "youtubeId": "UCnoH_iEE4tgVznLT97Kb7ig",
@@ -301,49 +301,49 @@
       "uploadsId": "UUZMKZS3L9GfhcFkMyBRoVFg",
       "handle": "kidslandofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
+      "lastFetchedAt": "2026-10-18T22:23:51.588263+00:00"
     },
     "kidsmadani": {
       "youtubeId": "UCsNSt0fxMniSH9XHaNneZfw",
       "uploadsId": "UUsNSt0fxMniSH9XHaNneZfw",
       "handle": "kidsmadanichannel",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
+      "lastFetchedAt": "2026-10-18T22:23:51.588263+00:00"
     },
     "salamkids": {
       "youtubeId": "UC_4moTH4Pmatx5ogzCLxUtA",
       "uploadsId": "UU_4moTH4Pmatx5ogzCLxUtA",
       "handle": "salamkidstvofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
+      "lastFetchedAt": "2026-10-18T22:23:51.588263+00:00"
     },
     "urdukidsstudio": {
       "youtubeId": "UCxqHh4UJsNqiwk_aaMI9HBg",
       "uploadsId": "UUxqHh4UJsNqiwk_aaMI9HBg",
       "handle": "urdukidsstudio",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
+      "lastFetchedAt": "2026-10-18T22:23:51.588263+00:00"
     },
     "shirazi": {
       "youtubeId": "UC8YddK8DXYyry_LWY4NksgA",
       "uploadsId": "UU8YddK8DXYyry_LWY4NksgA",
       "handle": "shirazi786",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
+      "lastFetchedAt": "2026-10-18T22:23:51.588263+00:00"
     },
     "haimparishay": {
       "youtubeId": "UC6jgnXHUJ4eDjrvHJNtAUYg",
       "uploadsId": "UU6jgnXHUJ4eDjrvHJNtAUYg",
       "handle": "HaimParishayKhan",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
+      "lastFetchedAt": "2026-10-18T22:23:51.588263+00:00"
     },
     "waggleworkshop": {
       "youtubeId": "UCDf7-AujhJJkMF1Cg5iT-Pw",
       "uploadsId": "UUDf7-AujhJJkMF1Cg5iT-Pw",
       "handle": "TheWaggleWorkshop",
       "checkedAt": "2026-10-18T16:55:18.549048+00:00",
-      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
+      "lastFetchedAt": "2026-10-18T22:23:51.588263+00:00"
     },
     "lollywoodcinema": {
       "youtubeId": "UCMlGWm_woMhMcVYhJu8zsvA",
@@ -79639,6 +79639,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Sajjad Ali: channel unavailable; Mekaal Hasan Band: channel unavailable; Rahat Fateh Ali Khan: channel unavailable; Arooj Aftab: channel unavailable; Zamad Baig: channel unavailable",
+  "lastError": "Hassan & Roshaan: channel unavailable; Kashmir The Band: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
