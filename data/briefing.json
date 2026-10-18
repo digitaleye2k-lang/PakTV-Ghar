@@ -1,16 +1,10 @@
 {
-  "generatedAt": "2026-10-18T19:45:16.587022Z",
+  "generatedAt": "2026-10-18T19:46:40.032276Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-18T19:45:16.587022Z",
+      "updatedAt": "2026-10-18T19:46:40.032276Z",
       "source": "Google News RSS",
       "items": [
-        {
-          "title": "Salman Ali Agha-inspired Pakistan kick tri-series off with win over Sri Lanka - The Cricketer",
-          "source": "The Cricketer",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPX2wxRXJIbWpnamEzMS1rTUJVX05ycFBPbEZ1U0x6UkpuNnZjeDBFc0JJSkozSUNOQktWQmQxcnlEbjZGNUZ1X2hGT05yUWNDdGdZRHVOaHY1dGx1X1hCTzV4Vk90TVJ3TTZfUnltdzdfZUY0QTk2TmNZN09Xa2xKQVotY2F6TEViVzNURzJFSnl3bS1kY2RXNGVLR3dZX0JFZnJ1OGxROUxpbHZWQ1BKeklvbWhBMTRZWG5xajZfZXBVeHFrODV3OFBmZllVUU5ZQjA1OVBneHFKLTQzd3JXbHlUaWpjNnVEVGw5MjVldWRKUVRrV2VQNkN4ZUx3U3hMdm1jTGxUaFdFZ3pfUmc?oc=5",
-          "published": "2026-10-18T19:36:30Z"
-        },
         {
           "title": "Salman hits century, Pacers restrict Sri Lanka as Pakistan begin tri-series on winning note - Pakistan Cricket Board (PCB)",
           "source": "Pakistan Cricket Board (PCB)",
@@ -58,11 +52,17 @@
           "source": "UA.NEWS",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeTVZXzN3NVBXZmFLMjUzU3FIMDhkYlRWNElXd2VVS3dTcTVRdWxBM2hibkRkeUZxRUdNU0FSTTNMc0J6QVNZSjFxRUM0T29GSjdZb2FNMU5IenVMSDFuWVk1LTdpV25JSzZqUkMwaUsxT3ZVbTVRNFc3ZjZtelo4ang5bFdyOE1qNExaYkNfcFNaS09Ec3MtcjVxUDNQZ2tjajN6RENzRHRfSFlOSXNjZFRyT2U?oc=5",
           "published": "2026-10-18T18:19:35Z"
+        },
+        {
+          "title": "Pakistan’s first astronaut to embark on space journey next month: minister - The News Pakistan",
+          "source": "The News Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQkw5Z3NxUnNSSnhlT2UwbG9rc1hydWlvSTJnQnlUckZ4dXBnV1A5a1I1OHd1enRHaFZFMGhoSVJvZ1JGSmZ1NkFJT2FCZGRxR2RWMVRNdWNteTZWTzRrYUdGeGdmejRUZTYybVU1ekhQR2VFc3RnVW41d1BvZmRnQU9veHhIcDBSRzFFeVJmdUt0bXpISkRIcmZDUHhLSHVSaV9KZ21JU1JBQQ?oc=5",
+          "published": "2026-10-18T18:17:06Z"
         }
       ]
     },
     "world": {
-      "updatedAt": "2026-10-18T19:45:16.587022Z",
+      "updatedAt": "2026-10-18T19:46:40.032276Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -124,7 +124,7 @@
   },
   "newsUrdu": {
     "pakistan": {
-      "updatedAt": "2026-10-18T19:45:16.587022Z",
+      "updatedAt": "2026-10-18T19:46:40.032276Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -186,7 +186,7 @@
     "world": {}
   },
   "weather": {
-    "updatedAt": "2026-10-18T19:45:16.587022Z",
+    "updatedAt": "2026-10-18T19:46:40.032276Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -225,7 +225,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-18T19:45:16.587022Z",
+    "updatedAt": "2026-10-18T19:46:40.032276Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
@@ -251,7 +251,7 @@
     ]
   },
   "sports": {
-    "updatedAt": "2026-10-18T19:45:17.897621Z",
+    "updatedAt": "2026-10-18T19:46:41.329006Z",
     "source": "ESPN cricket snapshot",
     "url": "https://www.espncricinfo.com/live-cricket-score",
     "matches": []
