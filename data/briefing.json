@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-10-18T15:29:08.269043Z",
+  "generatedAt": "2026-10-18T15:38:49.329858Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-18T15:29:08.269043Z",
+      "updatedAt": "2026-10-18T15:38:49.329858Z",
       "source": "Google News RSS",
       "items": [
+        {
+          "title": "First Pakistani astronaut to embark on space mission from China on Nov. 25— minister - Arab News PK",
+          "source": "Arab News PK",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ2JmWlRjRTBwWG1mWXd4V1RYcDZyY2ctN1lISm82MG9SamFOZVBDa3JrMDJIZDRPVlR6aDNrT0F5U1R3LWJrN0VLQjlxRmZ5Rzl4eFR1QTlFdzRBRjV6d3QtbUx1VWJuVlg1Z3R6SXU3Ml9yNHpMWXNlTndmd1FZZUZWSXJXUFpiR2xNa0N5REtyb1lQRXRsOUNwdWZEYjlueGpkOVhGOVZILXBCSU1CczlIZGFjTVdJODRiaXlnMk0?oc=5",
+          "published": "2026-10-18T15:27:59Z"
+        },
         {
           "title": "Bilawal says KP governor's rule could end if opposition willing to engage with Centre on counterterrorism policy - Dawn",
           "source": "Dawn",
@@ -22,6 +28,12 @@
           "source": "Firstpost",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWGl3UXcyVlJneDhwZGVsdmtJTFlfM0lsWERfSmQyRFcycjUtd1VhNFhkRG0tQ0xFSUp6SkVLQzMwNnY4NkJKSXk3YS1fcTRBdFYtdFkzLTYyRmhrZTJtOXlxWnE4b0NQUmxmRC1MVFNlYkJRX09CNzd1TVZiWnowS0M3bElNbXZxX1FqOTVHN0p0MDJrSWRaQlFjd2JxSzJlRVVUZHo1eFhjR28zS0pkZGYwd2lPUFFvMGVCeUgxMXI1MWtaZWZPemhHbFlucjJSY3fSAdcBQVVfeXFMUDJLYmY1QUs0X1dWdUZEbnpVVnFBd2VoMzl1MUNIaE5hR0pNTnlOSzktNmFBdUN0anExbTFNYTZxOHlFelNVUkNLUE5jRzNwRFF5ZnVLaXl6Q0JXME1MV293cC1qYU5oVGljc25aQVRCdnlfT25uUHVXSmRsdkZEUldua2cwRDBVdXFFOFNXbDJkNnZQaks4ZWlmRE9NVEx1dEswWnU3QkYyZnRyRC1fSUd0RWhfN053NEZEaUZ3TkJsb3RlbkoxY1NHZUNFVXlsdTNWSnJoeFE?oc=5",
           "published": "2026-10-18T15:15:59Z"
+        },
+        {
+          "title": "Pakistan Tri-Series Cricket - dailyrecordnews.com",
+          "source": "dailyrecordnews.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPei1TT2dneDdzZ040aGt2cjRZcEpodk9sdGhoZEV6LU9GWEFOX1pvZXFVck9zVjdCOTgtd2RpVjViVXU1ekRtVjZKM3Z5ZmtaUlRORlBQMGc3ZUwtUHhhQ1ZmbDVVWDVXdXNvbTVvQVNCb0t1RXBadnF3blg4VUNZcnl5elRSams2VXNXdTk4ZGFPc2MxMHREbmdGeWVMX1kzWnN6UWhDUEtBamVkR1pKOGNhVGNkNlFUdUFQaDRySQ?oc=5",
+          "published": "2026-10-18T15:08:58Z"
         },
         {
           "title": "Maldives President Muizzu to visit Pakistan after 11 years as countries mark 60 years of diplomatic ties - Firstpost",
@@ -46,30 +58,36 @@
           "source": "The Times of India",
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSV9HZ21KRC1mLVhndGZXNVVMX0R4a1FrLVRJOW1BbFBBWWlCTWxLWkI5dE03YjZ4UkxiZnUzeERpajFGWGt2YzBhZlFuN0MzN2lDZWdIbWdiZGZQa3dKM212b09jaGlFUkctWHVBME14VTZ5V1pVaGx1dUJwR2o2bC1xQTVEc0ZrNFlZNVIwYjI0OHNFYWVydm1QRFRrYUhuLVVxZ2dIVmk0VmI2bHRUY3JzWXVPeXpCNnBka1ZqQUhtU3J6ajJGMWJVWTVZb0UwbWJfWDVGVmEyWGZKZ3lzTnNHMNIB6AFBVV95cUxPRUdTUmdBSTh2eFotQnJQTHlmSjlzWFZiTnJLb1JaMkN6WmtYYWk2MXhTZFBLNnBGTTMwQ3lGY25ROGs2R3lYb2JnSThXbUlXVHd1RTlEOVlvcV9XNGoybXJ4ZS0xNWMzYkZXeFVJaF95YzFVa3Z5UE5DTVZBN3pSUkVrSFJQX09KTlVYYzNsSThmaXBEWm5zRXgzb2Y1T25WN2FMdUtJNEdxVXh2Z1IwOVdmbTRsanhxM3RuVkdSTWlWQW1nQlVFTVVWbnNMcl82VlVBZGw4RS1jbG1BUGxjaDhIMmdSZFUw?oc=5",
           "published": "2026-10-18T14:58:00Z"
-        },
-        {
-          "title": "China, Pakistan Begin First Joint Army Exercise in Xinjiang - Khaama Press",
-          "source": "Khaama Press",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNam1tSms4amw4RTI5cURWS0ZUY0lmWWFpTnQtZEZfN1EwY1JOR1haZU0wS01wbF9EQnJnRjBlYXhkZDZuTThxdk16WVZUMzBjZ0M0anp0ckYtakZFckVEeUhnWFIxR0dCT3ZFdDN6blJqOE05dUZSNXFIQkpBaE8zMGhZNi1KZ2t0NFE?oc=5",
-          "published": "2026-10-18T14:49:33Z"
-        },
-        {
-          "title": "Pakistan’s largest contemporary art event canceled as regional wars affected funding— organizers - Arab News PK",
-          "source": "Arab News PK",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcHBGd09iX1ZTOHROWVNONmQwdjNqdGZsUHdXT1ZmYTZkQmx3NEhkbWVFTWdNX1VYRVgtN3NjZnRvNTBVeVg2SXA4VlBFUURTczFXS0o1eDV0NGlMQUZFVWtPaUFGdkpJWlNlMjVrWExGWHBqZmJPSERUNHdNT1h3Q3p1c3F4bngxd1FWY1JQajBBNTJnc290b3d5VW9RZU8wdWpVTzdPa2x0WG55NXpMUXdKRW9FRWY4ekthSHNzdGRTcE5RMFQxQ3BEQU5xak5x?oc=5",
-          "published": "2026-10-18T14:31:41Z"
         }
       ]
     },
     "world": {
-      "updatedAt": "2026-10-18T15:29:08.269043Z",
+      "updatedAt": "2026-10-18T15:38:49.329858Z",
       "source": "Google News RSS",
       "items": [
         {
-          "title": "Deaths and injuries reported in incident at military base in Alberta - NBC News",
-          "source": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObVU5T0d4OFhNTzBxS3VmUUp0WVhILXJNSk8zM2Z1ZTBYbkFLQXpVWFU2NGw3d19Pbm5lcXl2Ui1LeXNPWmpWcUprLUphOGp2VGFBVVJNR0FZMGR3ekpwTnc4d2FzbHRCRm42cFRiQVBsR29TVlhidmtqT2xTbEQ5VkJnQUtwUWllTmdqRGtxVVdLS01nNloxcDdCWFNCeDFIRml3MmtLbmZwS042RDVQS21tcXljai1q?oc=5",
-          "published": "2026-10-18T14:27:00Z"
+          "title": "Several dead or injured in major fire at Canada military base - BBC",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tWHRGVC1QUWJZNHBZTl9jR3FMWUZ4bXFxcjBrZzdvNlZqX2V0WWRpVTNHRUIzbmdwbVd2VkUzQnhCNFJ6RlBfdnhTb255UkpIbkVwcl9aaWNQa0k?oc=5",
+          "published": "2026-10-18T15:01:16Z"
+        },
+        {
+          "title": "16 days until midterms, Trump rallies GOP as Johnson predicts Republicans will hold House - Fox News",
+          "source": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObm9FYWtTdVB6dUxkVDlaY0c1NFd2X21QaDNVRVZ2UUp3X0NkQTh5YTZPYW1qR19obGEzdWFENjNnWno4WVFlRjdxbW9nSG1pMFBRQlRBOUJ2QS13TnhLM0VEdXZZcEgzcGZMSzRIb2pSNWVibVhuOHRoNjRrWTNSeFhVV3ZGMEVfdVN2R2xqNFprbkFYTkd6UWE1NA?oc=5",
+          "published": "2026-10-18T14:39:18Z"
+        },
+        {
+          "title": "Texans v Jaguars at Wembley: NFL week six – live - The Guardian",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUmJnZ2stTXhnZXAycUptbTg3R3Zubmtpbi11R2JJZ2NjRnFSbFFNVXVIWHFXMzV0QTN3amNGSE5Xb2lXb0lROVBabGltVXhhODhuWFl0ajJqVUlhSVNJSTk3eTVpLTkxX0JBVEhER0VoQWZUQVBpcWhpcjc1RHFEWW1pVzMxNDB0UHZraUd3?oc=5",
+          "published": "2026-10-18T14:30:41Z"
+        },
+        {
+          "title": "4 red flags – and 1 truth – amid the peptide hype - USA Today",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHI2THBQNThoX1VDdFE5azJwYXN0Q1ByQU14TGRhOHZoR2xrenVPOUNHbFJ1MWM2aU8teWdsOXgwV0FtQTlyem1LWUNtWS15RHhlUS1oSDhhWEh5X2lmUFBUTDFEVjV5ZG5tczdvQUt3TFlxbXItdlhuS3JNekZJeFdRcmdZTzA4TE84Q1RMNlNIQnlRYW1QTGRvOG1SaU0ydVFwYTdYdUxhWkNvWEE?oc=5",
+          "published": "2026-10-18T14:15:00Z"
         },
         {
           "title": "Pope Leo pledges gradual return to duties in first event since cancer surgery - Reuters",
@@ -100,30 +118,12 @@
           "source": "CBS Sports",
           "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPX0JiTDRBeHZaVU15alpfZXM1ZU52OWdVb1VnNFVtbXVidmFuTUhSTjktUklWNUc5cFBfX2dGU1RUSnpEWTdKa25UcjJoOXlqeVZyS3Zlb014RzIxUGJ4aWUwN3JnNWg2NVk4dklWNXExeGdZcnZJYXgxTTJfczhfN2Y5RGE0ZnhPamdXM1QtT3NaendCU3ZVczFWSWZfb2V0X2pUX0k4X3o0Um9vMHZocVhRb0R6RF9qZWhzUUdvaFJPbVg0dmhxUTd6Wm1MNm9jZXJJWGkzTGZqamljWWtQQnBLWDNSTUVXNHg4Rw?oc=5",
           "published": "2026-10-18T12:42:31Z"
-        },
-        {
-          "title": "Big 12 admits clock error at end of Notre Dame-BYU game - NBC Sports",
-          "source": "NBC Sports",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORjlVNWptZ0owRVVGcy0yaVNxOXRSLUxPRTZjMDZnVlVJbUdfSnFpUGpPTEdHYzQ0TlZRSzFiQkJwX0syNUFXaVdsYy1ZT1V0bFpBd0pEdTZlb29MT1ZZYmJJbkJYa0hjZWo5UldObl9BbHRxSnczVEVMaGxBdkU0X1Fva1dwRGU5bndNNVM1WXNaWnhvYXl5UGxmWUE0SmNVLTBVVWZpYXdyQjhIWXhZYzBSMWl3WUtL?oc=5",
-          "published": "2026-10-18T12:36:43Z"
-        },
-        {
-          "title": "Oil facilities hit in deadly overnight attack on St Petersburg - BBC",
-          "source": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aZHpqZ094WFBRcGU2MlVrc3U5RTRsX2ZXa1VzZjdUbGNrQmt0TkZTaHRPOUhPd1RzMXlrVHV1cDN3SE0wR3BiVjF0dWdJRXpTQVl4b1VhckJoZVk?oc=5",
-          "published": "2026-10-18T11:57:49Z"
-        },
-        {
-          "title": "How Coke Loosened Pepsi’s Grip on KFC’s Soda Fountains - WSJ",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOHJQV0pDWVJrb2FhdVAwOG1pdmFsb01KaHBST3hmQmZCSGcwZVEwYUUtR0xIeWoya3ZYLW1jdnk5aE0yVmRnYllWTGJSUnZ0Z1Zwc2xDRXFEd0hvanhpMVM5MWhiWERhS2JQNW9Xc3ZFeFRXRzdMd3A3VFliTGxvdnZmRVJac1FVYlk0TjBzQ09GOEVKQ3doSlpUb2txU210dGxIZA?oc=5",
-          "published": "2026-10-18T11:00:00Z"
         }
       ]
     }
   },
   "weather": {
-    "updatedAt": "2026-10-18T15:29:08.269043Z",
+    "updatedAt": "2026-10-18T15:38:49.329858Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -162,7 +162,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-18T15:29:08.269043Z",
+    "updatedAt": "2026-10-18T15:38:49.329858Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {

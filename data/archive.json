@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T15:28:44.680076+00:00",
+  "generatedAt": "2026-10-18T15:38:13.245762+00:00",
   "dateTimezone": "UTC",
-  "cursor": 4,
+  "cursor": 16,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -22,14 +22,14 @@
       "uploadsId": "UUMmpLL2ucRHAXbNHiCPyIyg",
       "handle": "ArynewsTvofficial",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T15:21:17.461104+00:00"
+      "lastFetchedAt": "2026-10-18T15:38:13.245762+00:00"
     },
     "rhs": {
       "youtubeId": "UCgFG7lz7BI5hsNEifevrWSw",
       "uploadsId": "UUgFG7lz7BI5hsNEifevrWSw",
       "handle": "ranahamzasaifrhs",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T15:21:17.461104+00:00"
+      "lastFetchedAt": "2026-10-18T15:38:13.245762+00:00"
     },
     "dunya": {
       "youtubeId": "UCG7xCQTxgy93j6r49wl48rw",
@@ -42,49 +42,49 @@
       "uploadsId": "UUQexaAjPn3-1MCE4DmBK3Tg",
       "handle": "villagefoodsecrets",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T15:21:17.461104+00:00"
+      "lastFetchedAt": "2026-10-18T15:38:13.245762+00:00"
     },
     "geohasna": {
       "youtubeId": "UC6HQ4d3xq9EgSeJgMhc-4AQ",
       "uploadsId": "UU6HQ4d3xq9EgSeJgMhc-4AQ",
       "handle": "GeoHasnaManaHai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T15:21:17.461104+00:00"
+      "lastFetchedAt": "2026-10-18T15:38:13.245762+00:00"
     },
     "streetfoodpk": {
       "youtubeId": "UCt8NJjYKc2aT3T0TnbcWxSw",
       "uploadsId": "UUt8NJjYKc2aT3T0TnbcWxSw",
       "handle": "streetfoodpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T15:21:17.461104+00:00"
+      "lastFetchedAt": "2026-10-18T15:38:13.245762+00:00"
     },
     "hum": {
       "youtubeId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
       "uploadsId": "UUEeEQxm6qc_qaTE7qTV5aLQ",
       "handle": "HUMTV",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T15:21:17.461104+00:00"
+      "lastFetchedAt": "2026-10-18T15:38:13.245762+00:00"
     },
     "arydigital": {
       "youtubeId": "UC4JCksJF76g_MdzPVBJoC3Q",
       "uploadsId": "UU4JCksJF76g_MdzPVBJoC3Q",
       "handle": "ARYDigitalasia",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T15:25:42.616818+00:00"
+      "lastFetchedAt": "2026-10-18T15:38:13.245762+00:00"
     },
     "sabir": {
       "youtubeId": "UCY7eFg5TEMsk_aTqM0pVB4w",
       "uploadsId": "UUY7eFg5TEMsk_aTqM0pVB4w",
       "handle": "sabirshakirpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T15:25:42.616818+00:00"
+      "lastFetchedAt": "2026-10-18T15:38:13.245762+00:00"
     },
     "harpalgeo": {
       "youtubeId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
       "uploadsId": "UUe9JSDmyqNgA_l2BzGHq1Ug",
       "handle": "HarPalGeoOfficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T15:25:42.616818+00:00"
+      "lastFetchedAt": "2026-10-18T15:38:13.245762+00:00"
     },
     "foodfusion": {
       "youtubeId": "UCuqBZWK9Wrol_4Y22DzisFQ",
@@ -196,7 +196,7 @@
       "uploadsId": "UUF2ltLX1dnPa6-L1paPaMzw",
       "handle": "GreenEntertainmentTV",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T15:25:42.616818+00:00"
+      "lastFetchedAt": "2026-10-18T15:38:13.245762+00:00"
     },
     "ptvhome": {
       "youtubeId": "UCMfwlaPLGMn44BKvHv15yzA",
@@ -257,6 +257,78 @@
   },
   "videos": [
     {
+      "id": "n6GyKDy75rM",
+      "title": "Mubarak Ho Shadi Ki Khushi..! #khushi #sumaiyyabukhs #HUMTV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:35:08Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 520,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/n6GyKDy75rM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "QVOYa1OI-uA",
+      "title": "Talaq Dene ka Faisla Kar Chuka Hoon | Hiba Aziz - Danial Afzal - Areej Mohyudin | Dastoor | Green TV",
+      "channel": "Green Entertainment",
+      "channelId": "greentv",
+      "youtubeChannelId": "UCF2ltLX1dnPa6-L1paPaMzw",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:30:14Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 103,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/QVOYa1OI-uA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "0T4kATNbijc",
+      "title": "Recap Nashtar Episode 20 - 18th October 2026 - Har Pal Geo",
+      "channel": "Har Pal Geo",
+      "channelId": "harpalgeo",
+      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:28:03Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 113,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/0T4kATNbijc/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "p9fJFfoszIo",
+      "title": "Meri Honay Wali Bahu Ko Pagal Mat Bolo..! #khushi #sumaiyyabukhs #HUMTV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:25:27Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 547,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/p9fJFfoszIo/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "b7LVkzHn_Wo",
       "title": "Saim Ki Nahi Ab Ammar Ki Dulhan Ho..!! #khushi #sumaiyyabukhs #HUMTV",
       "channel": "HUM TV",
@@ -290,6 +362,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/1xvlxCUf0zs/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "mZLAPRPUYG8",
+      "title": "What Kind of Governance System Does Pakistan Need? | What Do Kasur Residents Think?",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:18:16Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 664,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/mZLAPRPUYG8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -26375,24 +26465,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "0PqKP9OsTR8",
-      "title": "Final-Year Student Fariha Dies After Falling from Third Floor of Hostel",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:16:49Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 542,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/0PqKP9OsTR8/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "HrkIYhKopCM",
       "title": "Meerub Ko Sharminda Karne Ka Maqsad Kya Hai?... | Dorr | Pakistani New Drama | Express TV",
       "channel": "Express TV",
@@ -35717,24 +35789,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "bhXEsU4rjL8",
-      "title": "Khobsurat Larki Woh Bhi Mery Ghar Mein👀 | Udaari #UrwaHocane #FarhanSaeed #Udaari",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T10:40:06Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 536,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/bhXEsU4rjL8/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "IRvLX_c2Kkc",
       "title": "Peshawar School Incident | 30 Fatalities | School Owner Arrested | 03 PM HEADLINES 15 OCT 2026",
       "channel": "Aaj TV Official",
@@ -35858,24 +35912,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/1wZpoDnJ9Q0/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "Pi8DucKgB-o",
-      "title": "Hum Dono Hi Ab Ek Doosray Ka Sahara Hain ❤️🥹 | Zanjeerain | HUM TV",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T10:20:25Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 509,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/Pi8DucKgB-o/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -37964,24 +38000,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/nHLacYTUAv4/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "43XPhFzBAmk",
-      "title": "Special Gift For You ❤️😍 || Bano || Har Pal Geo",
-      "channel": "Har Pal Geo",
-      "channelId": "harpalgeo",
-      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T02:15:01Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 165,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/43XPhFzBAmk/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -41366,24 +41384,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/Nlb15CsT0lw/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "L13jtwEN4B0",
-      "title": "Naukar Hain Is Kaam Ke Liye, Door Raho Mujhse! | Humayoun Ashraf - Sumaiyya Bukhsh | Madaar",
-      "channel": "Green Entertainment",
-      "channelId": "greentv",
-      "youtubeChannelId": "UCF2ltLX1dnPa6-L1paPaMzw",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-14",
-      "published": "2026-10-14T08:45:25Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 249,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/L13jtwEN4B0/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79457,6 +79457,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Siddique Jaan: channel unavailable; HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable",
+  "lastError": "Dunya News: HTTP 404: playlistNotFound; Imran Riaz Khan: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
