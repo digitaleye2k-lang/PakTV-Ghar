@@ -45,3 +45,23 @@ body[data-main-page="dramas"] .player-panel{
 @media(prefers-reduced-motion:reduce){
  body[data-main-page="dramas"] .drama-ambience-track{animation:none!important}
 }
+
+/* Put names above the film frame so they are never obscured by the dialog. */
+body[data-main-page="dramas"] .player-panel .drama-ambience{
+ position:relative;inset:auto;z-index:2;min-height:94px;width:100%;
+ display:flex;align-items:center;justify-content:space-between;
+ gap:22px;overflow:hidden;padding:18px clamp(15px,4vw,45px);
+ background:radial-gradient(ellipse at 22% 70%,#308c8061,transparent 58%),
+ radial-gradient(ellipse at 83% 35%,#8d55a353,transparent 56%),#0d1722;
+ border-top:1px solid #b9d8c723;border-bottom:1px solid #9fc4b547;
+}
+body[data-main-page="dramas"] .player-panel .drama-ambience-track{width:48%;max-width:none;gap:6px}
+body[data-main-page="dramas"] .player-panel .drama-ambience-title{font-size:clamp(16px,2.8vw,29px)}
+body[data-main-page="dramas"] .player-panel .drama-ambience-channel{font-size:clamp(13px,2vw,22px)}
+body[data-main-page="dramas"] .player-panel{margin-top:0}
+@media(max-width:600px){
+ body[data-main-page="dramas"] .player-panel .drama-ambience{min-height:78px;padding:12px;gap:10px}
+ body[data-main-page="dramas"] .player-panel .drama-ambience-kicker{font-size:9px}
+ body[data-main-page="dramas"] .player-panel .drama-ambience-title{font-size:14px}
+ body[data-main-page="dramas"] .player-panel .drama-ambience-channel{font-size:12px}
+}
