@@ -1,4 +1,4 @@
-/* Three on-demand virtual DJs, using existing verified YouTube catalogue. */
+/* Four on-demand virtual DJs, using existing verified YouTube catalogue. */
 (()=>{"use strict";
 const tabs=[...document.querySelectorAll("[data-music-tab]")];
 const panels=[...document.querySelectorAll("[data-panel]")];
@@ -6,7 +6,8 @@ let tracks=[];
 const DJs=[
  {id:"classic",name:"DJ Classic",emoji:"📻",tag:"Golden-era melodies and soulful favourites",genres:["classic","ghazal","qawwali","folk","sufi"],intro:"./assets/djs/Classic.mp4"},
  {id:"rap",name:"DJ Rap",emoji:"🎤",tag:"Urdu hip-hop, bars and beats",genres:["rap"],intro:"./assets/djs/Rap.mp4"},
- {id:"rock",name:"DJ Rock",emoji:"🎸",tag:"Guitars, rock and modern fusion",genres:["rock","indie","jazz"],intro:"./assets/djs/Rock.mp4"}
+ {id:"rock",name:"DJ Rock",emoji:"🎸",tag:"Guitars, rock and modern fusion",genres:["rock","indie"],intro:"./assets/djs/Rock.mp4"},
+ {id:"jazz",name:"DJ Jazz",emoji:"🎷",tag:"Smooth jazz, Pakistani fusion and late-night grooves",genres:["jazz","indie"],intro:"./assets/djs/Jazz.mp4"}
 ];
 function setTab(tab,hash=true){
  if(!["music","radio","djs"].includes(tab))tab="music";
@@ -52,7 +53,7 @@ function draw(){
   play.addEventListener("click",()=>{setTab("music");document.dispatchEvent(new CustomEvent("paktv:virtual-dj-play",{detail:{tracks:songs}}));});
   body.append(play);card.append(media,body);host.append(card);
  }
- document.getElementById("virtualDJStatus").textContent="DJ playlists use identified tracks from verified publishers. Some styles may have fewer than 10 songs until the catalogue refreshes. DJ intro videos require assets/djs/Classic.mp4, Rap.mp4 and Rock.mp4 to be uploaded to GitHub.";
+ document.getElementById("virtualDJStatus").textContent="DJ playlists use identified tracks from verified publishers. Some styles may have fewer than 10 songs until the catalogue refreshes. DJ intro videos require assets/djs/Classic.mp4, Rap.mp4, Rock.mp4 and Jazz.mp4 to be uploaded to GitHub.";
 }
 document.addEventListener("paktv:music-catalog-ready",e=>{tracks=e.detail.tracks||[];draw();});
 document.addEventListener("paktv:dj-queue-start",()=>setTab("music",false));
