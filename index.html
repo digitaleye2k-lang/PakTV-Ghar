@@ -106,7 +106,6 @@
   <link rel="stylesheet" href="./paktv-green.css">
 </head>
 <body>
-<div class="pakistan-background-art" aria-hidden="true"><img src="./assets/pakistan-flag-art.svg" alt="" loading="eager" decoding="async"></div>
 <div class="app-shell">
   <aside class="sidebar" aria-label="Main navigation">
     <a href="#home" class="brand" id="brandLink" aria-label="PakTV Ghar home">
@@ -327,7 +326,8 @@ const NAV = [
  {id:'comedy',icon:'😄',en:'Comedy & Satire',ur:'مزاح'},
  {id:'news',icon:'📡',en:'News',ur:'خبریں'},
  {id:'sports',icon:'🏏',en:'Sports',ur:'کھیل'},
- {id:'kids',icon:'🌈',en:'Kids',ur:'بچے',href:'./kids.html'}, 
+ {id:'kids',icon:'🌈',en:'Kids',ur:'بچے',href:'./kids.html'},
+ {id:'games',icon:'🎮',en:'Games',ur:'گیمز',href:'https://retroworld.eu.cc/',external:true}, 
  {id:'talk',icon:'🎙️',en:'Talk Shows',ur:'ٹاک شوز'},
  {id:'vloggers',icon:'📹',en:'YouTubers',ur:'یوٹیوبرز'},
  {id:'archive',icon:'🗓️',en:'Video Archive',ur:'پرانے ویڈیوز'},
@@ -349,7 +349,7 @@ const catVideos=cat=>uniqueVideos([...state.archiveVideos,...state.feed,...SEED_
 function uniqueVideos(arr){const seen=new Set();return arr.filter(v=>{if(!/^[\w-]{11}$/.test(v.id||'')||seen.has(v.id))return false;seen.add(v.id);return true})}
 function locationPage(){const hash=location.hash.slice(1);if(hash.startsWith('show-')&&LIBRARY.some(s=>s.id===hash.slice(5)))return 'show';const page=['home','today','dramas','movies','comedy','news','sports','talk','vloggers','archive','favourites','search'].includes(hash)?hash:'home';return page}
 function navTo(page){if(state.page===page && location.hash===`#${page}`){window.scrollTo({top:0,behavior:'smooth'});return}location.hash=page}
-function navMarkup(item,mobile=false){const active=state.page===item.id;const label=state.language==='ur'?item.ur:item.en;if(item.href){return mobile?`<a href="${escapeHTML(item.href)}"><span class="nav-icon">${item.icon}</span><span>${escapeHTML(label)}</span></a>`:`<a class="nav-item community-nav-link" href="${escapeHTML(item.href)}"><span class="nav-icon">${item.icon}</span><span>${escapeHTML(label)}</span></a>`}return mobile?`<a href="#${item.id}" class="${active?'active':''}" aria-current="${active?'page':'false'}"><span class="nav-icon">${item.icon}</span><span>${escapeHTML(label)}</span></a>`:`<button class="nav-item ${active?'active':''}" type="button" data-nav="${item.id}" aria-current="${active?'page':'false'}"><span class="nav-icon">${item.icon}</span><span>${escapeHTML(label)}</span>${item.id==='favourites'&&state.favoriteChannels.length+state.favoriteVideos.length?`<span class="count">${state.favoriteChannels.length+state.favoriteVideos.length}</span>`:''}</button>`}
+function navMarkup(item,mobile=false){const active=state.page===item.id;const label=state.language==='ur'?item.ur:item.en;if(item.href){const ext=item.external?' target="_blank" rel="noopener noreferrer"':'';return mobile?`<a href="${escapeHTML(item.href)}"${ext}><span class="nav-icon">${item.icon}</span><span>${escapeHTML(label)}</span></a>`:`<a class="nav-item community-nav-link" href="${escapeHTML(item.href)}"${ext}><span class="nav-icon">${item.icon}</span><span>${escapeHTML(label)}</span></a>`}return mobile?`<a href="#${item.id}" class="${active?'active':''}" aria-current="${active?'page':'false'}"><span class="nav-icon">${item.icon}</span><span>${escapeHTML(label)}</span></a>`:`<button class="nav-item ${active?'active':''}" type="button" data-nav="${item.id}" aria-current="${active?'page':'false'}"><span class="nav-icon">${item.icon}</span><span>${escapeHTML(label)}</span>${item.id==='favourites'&&state.favoriteChannels.length+state.favoriteVideos.length?`<span class="count">${state.favoriteChannels.length+state.favoriteVideos.length}</span>`:''}</button>`}
 function renderNav(){el('sideNav').innerHTML=NAV.map(n=>navMarkup(n)).join('');el('mobileNav').innerHTML=NAV.map(n=>navMarkup(n,true)).join('')}
 function sectionHead(title,sub='',all='',label='See all →'){return `<div class="section-head"><div><h2>${escapeHTML(title)}</h2>${sub?`<p class="subtitle">${escapeHTML(sub)}</p>`:''}</div>${all?`<button class="text-link" type="button" data-nav="${all}">${escapeHTML(label)}</button>`:''}</div>`}
 function videoCard(v){const saved=state.favoriteVideos.includes(v.id);return `<article class="video-card"><div class="video-thumb"><a href="${videoURL(v.id)}" data-video="${escapeHTML(v.id)}" aria-label="Watch ${escapeHTML(v.title)} here"><img src="${thumb(v.id)}" alt="" loading="lazy" onerror="this.style.opacity='.15'"><span class="thumb-play" aria-hidden="true">▶</span><span class="source-tag">${escapeHTML(v.channel)}</span></a></div><div class="video-body"><h3>${escapeHTML(v.title)}</h3><div class="video-meta"><span>${escapeHTML(v.date||'Watch now')}</span><button type="button" data-video-fav="${escapeHTML(v.id)}" class="${saved?'saved':''}" title="${saved?'Remove favourite':'Add favourite'}" aria-label="${saved?'Remove from':'Add to'} favourites">${saved?'♥':'♡'}</button></div></div></article>`}
