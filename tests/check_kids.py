@@ -43,7 +43,9 @@ for expected in ('lettersRound','numbersRound','coloursRound','shapesRound',
     assert expected in game, 'Unimplemented game mode: '+expected
 assert 'fetch(' not in game and 'localStorage' not in game and 'createClient' not in game, 'Games should run offline without profiling'
 assert 'class="pakistan-flag"' not in home
-assert 'pakistan-flag-art.svg' in home
+assert 'pakistan-background-art' not in home, "Remove unwanted flag-bearing figure from website"
+assert "en:'Games'" in home and "href:'https://retroworld.eu.cc/'" in home, "RetroWorld Games tab missing"
+assert 'href="https://retroworld.eu.cc/" target="_blank" rel="noopener noreferrer"' in kids, "Kids Games link missing"
 assert 'GUPSHUP moments · silent loop' not in gupshup
 assert 'media-note' not in gupshup
 for f in ("waggle-play.js","kids.js","gupshup.js","home-briefing.js"):
