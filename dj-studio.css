@@ -36,3 +36,5 @@
 @media(max-width:600px){.classic-dj-float{right:8px;bottom:72px;width:min(132px,35vw)}.classic-dj-float-head{font-size:9px;padding:4px 6px}.classic-dj-float video{max-height:210px}}
 
 .virtual-dj-card[data-style="indie"]{border:2px solid #b2e6ad;box-shadow:0 0 0 1px #3d9466}
+
+.dj-track-details{margin:8px 0}.dj-track-details summary{cursor:pointer;display:inline-block;border:1px solid #91c4a5;background:#1b443c;border-radius:9px;padding:8px 12px;color:#f5fffa;font-size:12px;font-weight:750;list-style:none}.dj-track-details summary::-webkit-details-marker{display:none}.dj-track-details[open] summary{background:#37685a}.dj-track-details ol{margin:9px 0;max-height:180px;overflow:auto}

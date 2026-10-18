@@ -94,7 +94,10 @@ function draw(){
   body.append(node("span","eyebrow",dj.id.toUpperCase()+" DJ SELECTS"),node("h3","",dj.name),node("p","",dj.tag),toggle);
   const list=node("ol");
   for(const song of songs)list.append(node("li","",song.title+" — "+song.publisher));
-  body.append(node("p","",songs.length+"/10 verified tracks ready"),list);
+  const details=node("details","dj-track-details");
+  const summary=node("summary","",songs.length?"♫ View "+songs.length+" songs":"♫ Songs coming soon");
+  details.append(summary,list);
+  body.append(details);
   const play=node("button","","▶ Play "+dj.name+"'s set");play.type="button";play.disabled=!songs.length;
   play.addEventListener("click",()=>{setTab("music");document.dispatchEvent(new CustomEvent("paktv:virtual-dj-play",{detail:{tracks:songs}}));showDJOverlay(dj.id);});
   body.append(play);card.append(media,body);host.append(card);
@@ -104,7 +107,7 @@ function draw(){
 document.addEventListener("paktv:music-catalog-ready",e=>{tracks=e.detail.tracks||[];draw();});
 document.addEventListener("paktv:dj-queue-start",()=>setTab("music",false));
 document.addEventListener("paktv:music-queue-changed",()=>closeDJOverlay());
-window.addEventListener("pagehide",closeClassicOverlay);
+window.addEventListener("pagehide",closeDJOverlay);
 window.addEventListener("hashchange",()=>{const h=location.hash.slice(1);if(["music","radio","djs"].includes(h))setTab(h,false);});
 setTab(["music","radio","djs"].includes(location.hash.slice(1))?location.hash.slice(1):"music",false);draw();
 })();
