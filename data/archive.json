@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-10-18T16:40:53.272948+00:00",
+  "generatedAt": "2026-10-18T16:46:43.334741+00:00",
   "dateTimezone": "UTC",
-  "cursor": 7,
+  "cursor": 19,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
       "uploadsId": "UU_vt34wimdCzdkrzVejwX9g",
       "handle": "geonews",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T16:18:48.544947+00:00"
+      "lastFetchedAt": "2026-10-18T16:46:43.334741+00:00"
     },
     "ducky": {
       "youtubeId": "UC_c-RTowPbIlzMkIa_O7s6Q",
       "uploadsId": "UU_c-RTowPbIlzMkIa_O7s6Q",
       "handle": "duckybhai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T16:18:48.544947+00:00"
+      "lastFetchedAt": "2026-10-18T16:46:43.334741+00:00"
     },
     "arynews": {
       "youtubeId": "UCMmpLL2ucRHAXbNHiCPyIyg",
       "uploadsId": "UUMmpLL2ucRHAXbNHiCPyIyg",
       "handle": "ArynewsTvofficial",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T16:18:48.544947+00:00"
+      "lastFetchedAt": "2026-10-18T16:46:43.334741+00:00"
     },
     "rhs": {
       "youtubeId": "UCgFG7lz7BI5hsNEifevrWSw",
       "uploadsId": "UUgFG7lz7BI5hsNEifevrWSw",
       "handle": "ranahamzasaifrhs",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T16:18:48.544947+00:00"
+      "lastFetchedAt": "2026-10-18T16:46:43.334741+00:00"
     },
     "dunya": {
       "youtubeId": "UCG7xCQTxgy93j6r49wl48rw",
@@ -245,14 +245,14 @@
       "uploadsId": "UU2PYniNHljOED9xNaMpiMiQ",
       "handle": "ARYFilms",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-18T16:15:50.482365+00:00"
+      "lastFetchedAt": "2026-10-18T16:46:43.334741+00:00"
     },
     "drmmovies": {
       "youtubeId": "UCDmQsP_LTEWPZ2AXS9eWTrQ",
       "uploadsId": "UUDmQsP_LTEWPZ2AXS9eWTrQ",
       "handle": "pakistani_movies",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-18T16:15:50.482365+00:00"
+      "lastFetchedAt": "2026-10-18T16:46:43.334741+00:00"
     },
     "pcb": {
       "youtubeId": "UCiWrjBhlICf_L_RK5y6Vrxw",
@@ -266,35 +266,35 @@
       "uploadsId": "UUpNzXJ5jpcJojC5mHQvGA8w",
       "handle": "pakistansuperleagueofficial",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T16:15:50.482365+00:00"
+      "lastFetchedAt": "2026-10-18T16:46:43.334741+00:00"
     },
     "asports": {
       "youtubeId": "UCCLdGxMC4fwkaQ4AIcL7Z8w",
       "uploadsId": "UUCLdGxMC4fwkaQ4AIcL7Z8w",
       "handle": "asportspk",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T16:15:50.482365+00:00"
+      "lastFetchedAt": "2026-10-18T16:46:43.334741+00:00"
     },
     "ptvsports": {
       "youtubeId": "UCnoH_iEE4tgVznLT97Kb7ig",
       "uploadsId": "UUnoH_iEE4tgVznLT97Kb7ig",
       "handle": "ptvsportsofficialpk",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T16:15:50.482365+00:00"
+      "lastFetchedAt": "2026-10-18T16:46:43.334741+00:00"
     },
     "cricketpk": {
       "youtubeId": "UCI7I29IPUtWE68VLUoZfXow",
       "uploadsId": "UUI7I29IPUtWE68VLUoZfXow",
       "handle": "CricketPakistanPK",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T16:15:50.482365+00:00"
+      "lastFetchedAt": "2026-10-18T16:46:43.334741+00:00"
     },
     "wasay": {
       "youtubeId": "UCs2-8ztgdlRqpbpHvfFFPFQ",
       "uploadsId": "UUs2-8ztgdlRqpbpHvfFFPFQ",
       "handle": "wasayhabib",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T16:15:50.482365+00:00"
+      "lastFetchedAt": "2026-10-18T16:46:43.334741+00:00"
     },
     "kidsland": {
       "youtubeId": "UCZMKZS3L9GfhcFkMyBRoVFg",
@@ -341,6 +341,60 @@
   },
   "videos": [
     {
+      "id": "LxQiTPPeOJQ",
+      "title": "2.5 Seconds ka maamla ft Faysal & Hareem - #hareemfarooq #faysalquraishi #shorts",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:30:29Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 153,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/LxQiTPPeOJQ/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "jpd9k8btgCU",
+      "title": "Nimra's brother did Hilarious scene with Guests!😂 | Hasna Mana Hai - Tabish Hashmi - Geo News",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "comedy",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:30:11Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 746,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/jpd9k8btgCU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "mD5P7i8HcSI",
+      "title": "Huzaifa Rehmani's Big Statement on KP Chief Minister | Sawal Ye Hai",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:28:41Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 600,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/mD5P7i8HcSI/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "fK3EvyWZ5go",
       "title": "Pavan Rathnayake's Brilliant Knock Ends At 79 | Pakistan vs Sri Lanka | M1 | ODI Tri-Series | MZS1K",
       "channel": "Pakistan Cricket Board",
@@ -356,6 +410,42 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/fK3EvyWZ5go/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "VdtV7XjlmOY",
+      "title": "Hina Javed Murder Case - Why Is the Family Expresses Distrust in Police Investigation?",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:27:24Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 693,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/VdtV7XjlmOY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "O22ZYwvvgv8",
+      "title": "Kamran Murtaza Blasts Government | Sawal Ye Hai with Maria Memon",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:26:49Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 425,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/O22ZYwvvgv8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -986,6 +1076,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/p3rSt6VHKgI/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "a_tiJQnp3b4",
+      "title": "Kasur | The Debate About New Provinces in Pakistan | ARY News Special | 18th Oct 2026",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:43:10Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2553,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/a_tiJQnp3b4/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -3902,6 +4010,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/5kn5Ec5N7Bw/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "6SXQVdE2at8",
+      "title": "🔴 LIVE: Pakistan vs Sri Lanka, ODI Tri-Series Opener",
+      "channel": "PTV SPORTS OFFICIAL",
+      "channelId": "ptvsports",
+      "youtubeChannelId": "UCnoH_iEE4tgVznLT97Kb7ig",
+      "category": "sports",
+      "genre": "Sports TV & news",
+      "date": "2026-10-18",
+      "published": "2026-10-18T11:45:19Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 17186,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/6SXQVdE2at8/hqdefault_live.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -28457,24 +28583,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "PlaKDm6-jOU",
-      "title": "Peshawar School Roof Collapse: What Happened Behind the Camera? | Zia-ul-Haq’s Untold Story",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:50:54Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 257,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/PlaKDm6-jOU/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "Psc0NUdY978",
       "title": "Shocking Mur*der of a Young Man in Karachi – Who Is the Kill*er? Eye-Opening Revelations | Samaa TV",
       "channel": "SAMAA TV",
@@ -28634,96 +28742,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/mrvGTUel-Mc/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "XRXDKEoKHVo",
-      "title": "End of PTI..!! - Maryam Nawaz's Statement | 7PM Headlines Geo News (16th Oct 2026)",
-      "channel": "Geo News",
-      "channelId": "geonews",
-      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:44:38Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 717,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/XRXDKEoKHVo/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "7t5ejrHNzBQ",
-      "title": "West Indies Skipper Goes on the Attack Against Indian Bowlers #arynews #shorts #westindies",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:44:01Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 157,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/7t5ejrHNzBQ/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "A5OOno29IuE",
-      "title": "Babar Azam and Rizwan’s T20 Strike Rates #arynews #shorts #babarazam #mohammadrizwan #t20cricket",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:43:29Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 162,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/A5OOno29IuE/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "_MbFvA0rzxo",
-      "title": "Maaz Sadaqat Makes His Mark in a Short Time #arynews #shorts #muaazsadaqat #cricket #pakistancricket",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:43:06Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 140,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/_MbFvA0rzxo/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "mNLXmwuVB1w",
-      "title": "Karachi Crime News: Missing 23-Year-Old Man’s Body Recovered After Abduction | Breaking News",
-      "channel": "Geo News",
-      "channelId": "geonews",
-      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:41:25Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 138,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/mNLXmwuVB1w/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79521,26 +79539,8 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/dvc_gvg7OVE/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "6NyDDIIWM7o",
-      "title": "Will Babar Be Included In Asian Games ? Indian Team Managment vs Sooryavanshi, India vs England",
-      "channel": "Wasay Habib",
-      "channelId": "wasay",
-      "youtubeChannelId": "UCs2-8ztgdlRqpbpHvfFFPFQ",
-      "category": "sports",
-      "genre": "Sports analysis & creators",
-      "date": "2026-07-02",
-      "published": "2026-07-02T20:57:46Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 2268,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": false,
-      "thumbnail": "https://i.ytimg.com/vi/6NyDDIIWM7o/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable",
+  "lastError": "Dunya News: HTTP 404: playlistNotFound",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
