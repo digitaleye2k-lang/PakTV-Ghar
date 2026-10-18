@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-18T19:20:30.517853Z",
+  "generatedAt": "2026-10-18T19:25:05.315074Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-18T19:20:30.517853Z",
+      "updatedAt": "2026-10-18T19:25:05.315074Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -62,7 +62,7 @@
       ]
     },
     "world": {
-      "updatedAt": "2026-10-18T19:20:30.517853Z",
+      "updatedAt": "2026-10-18T19:25:05.315074Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -72,16 +72,22 @@
           "published": "2026-10-18T19:01:17Z"
         },
         {
+          "title": "AP Top 25 poll: Miami takes over at No. 1, BYU surges to No. 2 in college football rankings - CBS Sports",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1BhZS1tTjhmUHg1ZHhYazQ1QW5vYzVmbVBDeWszdlRYSHM4dXRfcmZQbU1YTVYtZ044MEtad0VERFFvSU9UOTF4Z09FUlpyNGdyOHl5WFFvTG15OWtHWHZjUklVNVFKWWJkeWhwUGdOYWh4dWRfUDF3UlQ2TnZCaUctRDRNZEFLT01FbTIxUnFlV0tJRWwtTEpR?oc=5",
+          "published": "2026-10-18T18:44:00Z"
+        },
+        {
           "title": "2026 Midterm Elections: Trump Rallies Republicans - Fox News",
           "source": "Fox News",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObm9FYWtTdVB6dUxkVDlaY0c1NFd2X21QaDNVRVZ2UUp3X0NkQTh5YTZPYW1qR19obGEzdWFENjNnWno4WVFlRjdxbW9nSG1pMFBRQlRBOUJ2QS13TnhLM0VEdXZZcEgzcGZMSzRIb2pSNWVibVhuOHRoNjRrWTNSeFhVV3ZGMEVfdVN2R2xqNFprbkFYTkd6UWE1NA?oc=5",
           "published": "2026-10-18T18:27:22Z"
         },
         {
-          "title": "Huge Riots and Anti-Government Protests in France: What to Know - The New York Times",
+          "title": "Elizabeth Holmes Documentary ‘You Can See Everything’ Opens to Over 2,000 Sold-Out Shows - The New York Times",
           "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYnoxd1dncFRldUlCNW5vMDEydGR3U1VpY1RtQVNQdGJGTlItUVpoR1U2dUwyNVNoQU1uQzBDNU5LWUl2UTc2REswb3QzQjVpcFlEVGZhOWxJd3J0RTlIbU4xeUN2RmtIU1IyLWxaaGctZw?oc=5",
-          "published": "2026-10-18T18:18:25Z"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2Y2TlI4ZG1BWW5tQi00ZmMzNUZGaHJuaHhqRThzaU5LcG0wYWJaUlk0MzJ3OGpBdDlkN0lrX25PVXl6andKZm54aERjWHpCRXk1eXQwcEM5ejRDYUxJdVl3SlhMdVUzZVhxYXlaTkFUZ3ljMEtyRFFsRjNNMUlrQWNBd3pndTZOOVdJSmtCM0tvanZp?oc=5",
+          "published": "2026-10-18T17:54:24Z"
         },
         {
           "title": "Canadian military base fire: Death toll confirmed and cause under investigation - BBC",
@@ -96,35 +102,29 @@
           "published": "2026-10-18T17:40:00Z"
         },
         {
-          "title": "Coaches Poll top 25: Georgia, Alabama, Texas slide; Miami No. 1 in Week 8 college football rankings - CBS Sports",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPek1QeGRmLWxGWHNSQkJ3U183MU9fRFVRLXdKRUdZNzZJZ0NzT3dUaGo3ckN1SjBPZVp4OF9XcXIwUWt3amFaNHpwMU5ta012bUFMSGdwT3hYQjNZa2MtREZ4MF9yUmM1cFMtMHVzdlZkc05SejhvMXJwZHA1bVBaTkh5dF82NWpoNnVTem9tTVhhVkNESjlzY2tFenZSekJheHVRdzJtbXBSWmlQUkMtSjVMWFBoUndLZGI2NXh6RE5KcWlYQ3ZYQw?oc=5",
-          "published": "2026-10-18T17:01:00Z"
+          "title": "Trump approval hits record low, handing Democrats a clear midterm edge - The Washington Post",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkJrME56Z1A3aVBwazIzNTA5ekFNUDFtRzAyaTgteUo1cU4yOElmOFJwYzB4WUVkR3hoWk5QYk9kbDRJR3AtWm91VEZfRnUyQzBQeVk1czBkWGhhNXZwWjNtUk1NdVpRcG1DMGZTZ2swcU5lQmFESzR5Y2h6ak1OdWhKQ0kxTERscDBPcGZlWWVleFdPczNVOWdlYkdkQUtick1oanByQlkxXzJKWi1hRDNDYXlFekVlaG1r?oc=5",
+          "published": "2026-10-18T17:34:31Z"
+        },
+        {
+          "title": "Trump ‘border czar’ says Ilhan Omar could be ‘of course’ denaturalized and deported - The Guardian",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUFGdW1wMm8wTlN3aG1kM3lJVDJpOXBNcE5EQ2RQeTJwYXFQeS1jYko0cWJQY1Z1blBFWFVCWEFBZk5NdmlJMHNvSElVSEI0bXZNSGlLU1IyQzFWNm14YmVsYzZ0d0xpU2tScWUyVlpXR015UnBiLXdUY25TWlhqQ3RzSFhwSTVBZjBUcWVRY3FXcjN6dFBJaFFrTGwwRkU?oc=5",
+          "published": "2026-10-18T17:16:00Z"
         },
         {
           "title": "Ford Wants to Make Fun Cars Again in Europe—if Drivers Can Wait Until 2028 - WSJ",
           "source": "WSJ",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHM2bUxWN1RkMHBLVC0yc3VtNE1WV1dGSDlvUy1oQXhXZmhCYm82Q0ZrXzdWOUNkemtuLUxTSmVQOE0weVBZTU4zYjhGN29FUWYwa0NyTlJCNENVR1ZMX0NmVnJyZi1uR3pPal9DalVpSXhwcFFMXzBIMW9zQ1ktNlFEUW5YMHZocUVVcFoxYUo2blpVaE1PS3JjaDFkLWgyT0VyQUY4YU13RWJoUFpNQjVaaTd5Rllo?oc=5",
           "published": "2026-10-18T17:00:00Z"
-        },
-        {
-          "title": "Academy Museum Gala 2026 Inside Photos: Taylor Swift Performs, Curry Barker Chats With John Carpenter & More - Deadline",
-          "source": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVWlyT21vYy1Yb1ZRVmxPQlZZM3ZjcTVXYTVidEJLOUtsUGxpZUgtWVBYOG9QdU9ZbDQxbWdISlNQQkRJVUJpaW1kVktzLUxUTzJYb1FQS1J0Q3pvQ2NTM0UwWklyeE4yWjRaQjRkNkNYQWlhR043QUlLRTczVFRRdmNLVzFWVlcyTEluN0ZpRWFhdVQ5T0xEUjVUOGdPbUkyQl9WbUx5RXp5OENad0pweUpBZ3VSZ0M4dmpSbVBYREFvZ0VjeHhIVWV2Y1A5aGM?oc=5",
-          "published": "2026-10-18T16:50:00Z"
-        },
-        {
-          "title": "Trump shares plan to overhaul East Potomac golf course amid court fight over land - The Washington Post",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjdfRmFtX2xmZ241Z0RHMWdRdW1TbjgtN1hGUmljRnVYaFRGVWdscExsZlItMDJGa0NZYXhpU1VnSEJTbjJzSHlrU2phNFlxWEgwNlowRDd6TEZZX3c3UlM0akRVaDNXNjdFWnJ0UDc5ZzFheFE1YUt6LUJlUW1PUzBnQnBnbE04NlBka3ZrSFp2NTVXZjlqdmtjYXA3emhI?oc=5",
-          "published": "2026-10-18T16:49:26Z"
         }
       ]
     }
   },
   "newsUrdu": {
     "pakistan": {
-      "updatedAt": "2026-10-18T19:20:30.517853Z",
+      "updatedAt": "2026-10-18T19:25:05.315074Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -138,6 +138,12 @@
           "source": "Aaj News",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWbzJtSWpvcm5zSDRVSE9tR05VMG5mT1NJSjlCUjFBSnRGbmVSdDAxYWw0Nm9rRGpqNU1FNHIxelF3STFRckJZVw?oc=5",
           "published": "2026-10-18T18:18:21Z"
+        },
+        {
+          "title": "Pakistan to Hire Global Experts to Recover K2 Airways Black Box From Deep Sea - Aaj News",
+          "source": "Aaj News",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EUHlGSGJuR01VbUJ2aXBGZVJUZjBweE9hQnJsYV9KbHRXenpoWTJmdmYwNzBTbEZpM1VPNjQtRGlSRlFwMEU5b1FQTlc?oc=5",
+          "published": "2026-10-18T17:40:07Z"
         },
         {
           "title": "Pakistan People’s Party (PPP) women workers light lamps in memory of the Karsaz tragedy martyrs outside a press club - | Associated Press Of Pakistan",
@@ -174,19 +180,13 @@
           "source": "Aaj English TV",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlUtRzRxaG9hQzFlUm1JRy10UjN1MF91NURKRkFLdF8tX212N2RkODBvYmt3R0JiREllRVZRVFNuOXV1SXB3NUdpU0x4WVFaM0diaWJOVDFySlNYclBIa2xPcVRyZW4td1Ytd2ZyNmpkZUd3dkxhbGV3VjBZLVpDWGdqSnR6U3M2X1hzQThCVHZ4RWVZOTdOOVlZdWV6Ul9OZ2lYYlUwVGh0eUY1NjhLNHNLRzctTG1n?oc=5",
           "published": "2026-10-18T16:20:07Z"
-        },
-        {
-          "title": "How Important Are Rice Exports and Seeds to Pakistan’s Economy ? | AAJ EXCLUSIVE - Videos - AAJ - Aaj News",
-          "source": "Aaj News",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DenRZN05rRjdpdFhreGhvRTYzMGpVRVFoaDRjdC1FUHFqeXM1VTFLcFJfOEx6WXJKMmh4Z3dlTlR2SDNQWm9XVGZ1QUw?oc=5",
-          "published": "2026-10-18T16:15:11Z"
         }
       ]
     },
     "world": {}
   },
   "weather": {
-    "updatedAt": "2026-10-18T19:20:30.517853Z",
+    "updatedAt": "2026-10-18T19:25:05.315074Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -201,23 +201,23 @@
       {
         "city": "Lahore",
         "temperatureC": 21,
-        "humidity": 80,
+        "humidity": 79,
         "windMs": 1.7,
         "symbol": "clearsky_night",
         "forecastTime": "2026-10-18T20:00:00Z"
       },
       {
         "city": "Islamabad",
-        "temperatureC": 20,
-        "humidity": 52,
-        "windMs": 2.4,
+        "temperatureC": 21,
+        "humidity": 50,
+        "windMs": 1.9,
         "symbol": "clearsky_night",
         "forecastTime": "2026-10-18T20:00:00Z"
       },
       {
         "city": "Peshawar",
         "temperatureC": 19,
-        "humidity": 76,
+        "humidity": 74,
         "windMs": 1.6,
         "symbol": "clearsky_night",
         "forecastTime": "2026-10-18T20:00:00Z"
@@ -225,7 +225,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-18T19:20:30.517853Z",
+    "updatedAt": "2026-10-18T19:25:05.315074Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
@@ -251,7 +251,7 @@
     ]
   },
   "sports": {
-    "updatedAt": "2026-10-18T19:20:31.708668Z",
+    "updatedAt": "2026-10-18T19:25:07.513782Z",
     "source": "ESPN cricket snapshot",
     "url": "https://www.espncricinfo.com/live-cricket-score",
     "matches": []
