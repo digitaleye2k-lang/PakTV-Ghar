@@ -8,6 +8,11 @@ const channels=[
  {id:"shirazi",name:"Shirazi Village Vlogs",handle:"shirazi786",genre:"Family vlogs",initials:"SV",desc:"Family-run Pakistani village-life and everyday adventures."},
  {id:"haimparishay",name:"Haim & Parishay Khan",handle:"HaimParishayKhan",genre:"Kids creators",initials:"HP",desc:"Parent-managed Pakistani kids entertainment and family activities."}
 ];
+const featured=[
+ {id:"Nth08aCKl4g",channelId:"kidsland",channel:"Kids Land",category:"kids",title:"Kaneez Fatima — Pakistani Urdu animation for children",date:"Featured cartoon · 2023"},
+ {id:"Q_wagTKtDVY",channelId:"kidsland",channel:"Kids Land",category:"kids",title:"Ghulam Rasool — Urdu animated story for children",date:"Featured cartoon · 2021"},
+ {id:"sckvX1MGIUk",channelId:"kidsmadani",channel:"Kids Madani Channel",category:"kids",title:"Popular Urdu nursery rhymes and poems for children",date:"Featured rhymes · 2020"}
+];
 const known=new Map(channels.map(c=>[c.id,c]));
 const labels=["Cartoons & stories","Rhymes & poems","Learning & values","Family vlogs","Kids creators"];
 const $=id=>document.getElementById(id);
@@ -110,5 +115,6 @@ $("showMore").addEventListener("click",()=>{shown+=12;renderVideos();});
 $("closePlayer").addEventListener("click",closePlayer);
 $("playerOverlay").addEventListener("click",e=>{if(e.target===$("playerOverlay"))closePlayer();});
 document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!$("playerOverlay").hidden)closePlayer();});
+for(const item of featured)if(validVideo(item))$("kidsFeatured").append(makeCard(item));
 renderChannels();renderVideos();void loadVideos();
 })();
