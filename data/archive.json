@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T21:42:05.707865+00:00",
+  "generatedAt": "2026-10-18T21:44:47.440929+00:00",
   "dateTimezone": "UTC",
-  "cursor": 66,
+  "cursor": 9,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -189,7 +189,7 @@
       "uploadsId": "UUc1BSASBDsE_XYOTxD9SNmA",
       "handle": "IjazAnsariFoodSecrets",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T21:14:01.402381+00:00"
+      "lastFetchedAt": "2026-10-18T21:44:47.440929+00:00"
     },
     "greentv": {
       "youtubeId": "UCF2ltLX1dnPa6-L1paPaMzw",
@@ -371,35 +371,35 @@
       "uploadsId": "UUM1VesJtJ9vTXcMLLr_FfdQ",
       "handle": "cokestudio",
       "checkedAt": "2026-10-18T19:46:24.753696+00:00",
-      "lastFetchedAt": "2026-10-18T21:14:01.402381+00:00"
+      "lastFetchedAt": "2026-10-18T21:44:47.440929+00:00"
     },
     "emipakistan": {
       "youtubeId": "UC52h_LCatoUs6ycLjT9V8bQ",
       "uploadsId": "UU52h_LCatoUs6ycLjT9V8bQ",
       "handle": "EMIPakistanOfficial",
       "checkedAt": "2026-10-18T20:11:10.576823+00:00",
-      "lastFetchedAt": "2026-10-18T21:14:01.402381+00:00"
+      "lastFetchedAt": "2026-10-18T21:44:47.440929+00:00"
     },
     "talhaanjum": {
       "youtubeId": "UCaHBioELm9IzGYhg70Z1BKg",
       "uploadsId": "UUaHBioELm9IzGYhg70Z1BKg",
       "handle": "talhaanjum",
       "checkedAt": "2026-10-18T19:46:24.753696+00:00",
-      "lastFetchedAt": "2026-10-18T21:14:01.402381+00:00"
+      "lastFetchedAt": "2026-10-18T21:44:47.440929+00:00"
     },
     "youngstunners": {
       "youtubeId": "UCaHpJ-SkCR604NNBnjM9thQ",
       "uploadsId": "UUaHpJ-SkCR604NNBnjM9thQ",
       "handle": "YoungStunners",
       "checkedAt": "2026-10-18T19:46:24.753696+00:00",
-      "lastFetchedAt": "2026-10-18T21:14:01.402381+00:00"
+      "lastFetchedAt": "2026-10-18T21:44:47.440929+00:00"
     },
     "jaubi": {
       "youtubeId": "UC6s1zz1-t7rPf-4scKVYD8g",
       "uploadsId": "UU6s1zz1-t7rPf-4scKVYD8g",
       "handle": "Jaubi",
       "checkedAt": "2026-10-18T20:04:20.517484+00:00",
-      "lastFetchedAt": "2026-10-18T21:15:27.828632+00:00"
+      "lastFetchedAt": "2026-10-18T21:44:47.440929+00:00"
     },
     "atifs": {
       "youtubeId": "UC3FnOdo2ooBS4TrEcmwUR_Q",
@@ -79611,6 +79611,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Asad Toor: channel unavailable; Siddique Jaan: channel unavailable",
+  "lastError": "HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable; NESCAFÉ Basement: channel unavailable; Sajjad Ali: channel unavailable; Mekaal Hasan Band: channel unavailable; Rahat Fateh Ali Khan: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
