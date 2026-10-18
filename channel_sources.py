@@ -23,6 +23,7 @@ CHANNELS = [
  {'id':'wasay','name':'Wasay Habib','handle':'wasayhabib','category':'sports','genre':'Sports analysis & creators'},
  # Film distributors and public film publishers; only their labelled full films are included.
  {'id':'lollywoodcinema','name':'LollywoodCinema','handle':'LollywoodCinema','category':'movies','genre':'Classic Pakistani Movies','channelId':'UCMlGWm_woMhMcVYhJu8zsvA'},
+ {'id':'lollywoodclassics','name':'Lollywood Classics','handle':'lollywoodclassics','category':'movies','genre':'Classic Pakistani Movies'},
  {'id':'movieboxmovies','name':'MovieboxMovies','handle':'movieboxmovies','category':'movies','genre':'Classic Pakistani Movies'},
  {'id':'aryfilms','name':'ARY Films','handle':'ARYFilms','category':'movies','genre':'Pakistani films & TV movies','channelId':'UC2PYniNHljOED9xNaMpiMiQ'},
  {'id':'drmmovies','name':'Pakistani Movies by DRM','handle':'pakistani_movies','category':'movies','genre':'Pakistani films & TV movies'},
