@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T15:43:41.893201+00:00",
+  "generatedAt": "2026-10-18T15:44:55.866935+00:00",
   "dateTimezone": "UTC",
-  "cursor": 28,
+  "cursor": 40,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -98,56 +98,56 @@
       "uploadsId": "UUJekW1Vj5fCVEGdye_mBN6Q",
       "handle": "SAMAATV",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T15:25:42.616818+00:00"
+      "lastFetchedAt": "2026-10-18T15:44:55.866935+00:00"
     },
     "hasbehaal": {
       "youtubeId": "UCyiJNpF7RgpPhyeKc4wnQkg",
       "uploadsId": "UUyiJNpF7RgpPhyeKc4wnQkg",
       "handle": "hasbehaalofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T15:26:58.072571+00:00"
+      "lastFetchedAt": "2026-10-18T15:44:55.866935+00:00"
     },
     "pakexperience": {
       "youtubeId": "UC44l9XMwecN5nSgIF2Dvivg",
       "uploadsId": "UU44l9XMwecN5nSgIF2Dvivg",
       "handle": "ThePakistanExperience",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T15:26:58.072571+00:00"
+      "lastFetchedAt": "2026-10-18T15:44:55.866935+00:00"
     },
     "maaz": {
       "youtubeId": "UCz0M2pV4jOUUQ88lOd2q08A",
       "uploadsId": "UUz0M2pV4jOUUQ88lOd2q08A",
       "handle": "MaazSafderWorld",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T15:26:58.072571+00:00"
+      "lastFetchedAt": "2026-10-18T15:44:55.866935+00:00"
     },
     "matiullah": {
       "youtubeId": "UC-hJ0cobUiWlBFTHgLwt8sQ",
       "uploadsId": "UU-hJ0cobUiWlBFTHgLwt8sQ",
       "handle": "MatiullahJanMJtv",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T15:26:58.072571+00:00"
+      "lastFetchedAt": "2026-10-18T15:44:55.866935+00:00"
     },
     "p4pakao": {
       "youtubeId": "UCI9tIvSPsdxNEICjZk7ujUA",
       "uploadsId": "UUI9tIvSPsdxNEICjZk7ujUA",
       "handle": "p4pakaoofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T15:26:58.072571+00:00"
+      "lastFetchedAt": "2026-10-18T15:44:55.866935+00:00"
     },
     "dawnnews": {
       "youtubeId": "UCaxR-D8FjZ-2otbU0_Y2grg",
       "uploadsId": "UUaxR-D8FjZ-2otbU0_Y2grg",
       "handle": "dawnnewspakistan",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T15:26:58.072571+00:00"
+      "lastFetchedAt": "2026-10-18T15:44:55.866935+00:00"
     },
     "irfanjunejo": {
       "youtubeId": "UCUuDUW0Y6IQZYDvH1QQBsgA",
       "uploadsId": "UUUuDUW0Y6IQZYDvH1QQBsgA",
       "handle": "irfanjunejo",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T15:26:58.072571+00:00"
+      "lastFetchedAt": "2026-10-18T15:44:55.866935+00:00"
     },
     "kunfoods": {
       "youtubeId": "UCJEGvNxXunjqrcd2Xg9ntMQ",
@@ -238,7 +238,7 @@
       "uploadsId": "UU-rP-oFlxQGpSLYHBlhIWkg",
       "handle": "mooroosicity",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T15:26:58.072571+00:00"
+      "lastFetchedAt": "2026-10-18T15:44:55.866935+00:00"
     },
     "aryfilms": {
       "youtubeId": "UC2PYniNHljOED9xNaMpiMiQ",
@@ -311,6 +311,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "67FBn3Y0UOU",
+      "title": "PM Shehbaz Promises Better Opportunities for Youth Amid Resource Challenges | SAMAA TV",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:33:25Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 173,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/67FBn3Y0UOU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "6n82840iE0Q",
       "title": "KP Governor Rule | KP Emergency | Iran Latest Announcement | Makka Pact | 08 PM HEADLINES",
       "channel": "Aaj TV Official",
@@ -347,6 +365,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "SCTZQeAPuw0",
+      "title": "Maulana can play a role in ending governor's rule: Bilawal | Dawn News Headlines 08 PM",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:30:05Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 149,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/SCTZQeAPuw0/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "0T4kATNbijc",
       "title": "Recap Nashtar Episode 20 - 18th October 2026 - Har Pal Geo",
       "channel": "Har Pal Geo",
@@ -362,6 +398,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/0T4kATNbijc/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "4kprgJygWSI",
+      "title": "Houthis, Saudi Arabia War Live | Saudi-Led Coalition Intercepts Drones | 8 PM News Headlines | SAMAA",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:27:18Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 640,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/4kprgJygWSI/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -27923,24 +27977,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "XMqM3SeqO4s",
-      "title": "Pakistan Stands With Saudi Arabia Under Makkah Agreement | FO Spokesperson",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T11:37:42Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 1234,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/XMqM3SeqO4s/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "nXZK7xBisnA",
       "title": "Peshawar School Incident Leaves Two Children From the Same Family Among Victims - Aaj News",
       "channel": "Aaj TV Official",
@@ -27992,24 +28028,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/EcdsgriO3OI/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "xJm_elpAKUo",
-      "title": "Deadly School And Tuition Centre Roof Collapses Across Pakistan | Samaa Digital",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T11:26:50Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 125,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/xJm_elpAKUo/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -42050,24 +42068,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/m5ysFPxghNo/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "80dvl1taOF4",
-      "title": "Emergency & Governor's Rule in KP | Mohsin Naqvi Big Statement | Dawnm News Headlines 8 AM",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-14",
-      "published": "2026-10-14T04:47:52Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 858,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/80dvl1taOF4/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79457,6 +79457,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Imran Riaz Khan: channel unavailable",
+  "lastError": "Junaid Akram: channel unavailable; Express News: channel unavailable; Asad Toor: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
