@@ -4,6 +4,13 @@ Handles are resolved via YouTube Data API before indexing. Unknown or changed
 handles simply produce no videos; no unrelated uploader is silently substituted.
 """
 CHANNELS = [
+ # Parent-curated Pakistani children's channels; YouTube API verifies handles and publisher IDs.
+ {'id':'kidsland','name':'Kids Land','handle':'kidslandofficial','category':'kids','genre':'Cartoons & stories'},
+ {'id':'kidsmadani','name':'Kids Madani Channel','handle':'kidsmadanichannel','category':'kids','genre':'Learning & values'},
+ {'id':'salamkids','name':'Salam Kids TV','handle':'salamkidstvofficial','category':'kids','genre':'Rhymes & poems','channelId':'UC_4moTH4Pmatx5ogzCLxUtA'},
+ {'id':'urdukidsstudio','name':'Urdu Kids Studio','handle':'urdukidsstudio','category':'kids','genre':'Rhymes & poems','channelId':'UCxqHh4UJsNqiwk_aaMI9HBg'},
+ {'id':'shirazi','name':'Shirazi Village Vlogs','handle':'shirazi786','category':'kids','genre':'Family vlogs'},
+ {'id':'haimparishay','name':'Haim & Parishay Khan','handle':'HaimParishayKhan','category':'kids','genre':'Kids creators'},
  # Prioritise a varied mix on the first run, then rotate through the rest.
  # Sports TV, official leagues and cricket analysts. Resolved against YouTube channel IDs before inclusion.
  {'id':'pcb','name':'Pakistan Cricket Board','handle':'PakistanCricket','category':'sports','genre':'Cricket board & highlights'},
