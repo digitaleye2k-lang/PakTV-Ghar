@@ -8,3 +8,7 @@
 .waggle-cta{display:inline-flex;color:#25402d!important;background:#ffe0a2;border-radius:10px;text-decoration:none;font-size:12px;font-weight:800;padding:12px 15px}
 .waggle-cta:hover{background:#fff0cc}
 @media(max-width:660px){.waggle-collab{padding:18px;align-items:flex-start;gap:12px}.waggle-mascot{min-width:50px;font-size:50px}}
+
+.waggle-mascot img{height:140px;width:140px;object-fit:contain;border-radius:22px;background:#fff9e8;padding:8px;box-shadow:0 10px 24px #001d1550}
+.waggle-games-cta{margin-left:9px;background:#a9ebc6;color:#184034!important}
+@media(max-width:660px){.waggle-mascot img{width:58px;height:58px;border-radius:11px;padding:3px}.waggle-games-cta{margin-left:0;margin-top:8px}}
