@@ -6,7 +6,7 @@ const cfg=window.PAKTV_COMMUNITY_CONFIG||{};
 const configured=/^https:\/\/[a-z0-9-]+\.supabase\.co\/?$/.test(cfg.supabaseUrl||"") &&
   typeof cfg.publishableKey==="string"&&cfg.publishableKey.length>20;
 const el=id=>document.getElementById(id);
-const topics=new Set(["general","dramas","movies","comedy","politics","youtubers"]);
+const topics=new Set(["general","dramas","movies","comedy","politics","youtubers","sports","family"]);
 const reportKinds=new Set(["racism","bullying","namecalling","spam","unsafe","other"]);
 const countryNames=typeof Intl.DisplayNames==="function" ?
   new Intl.DisplayNames(["en"],{type:"region"}):null;
