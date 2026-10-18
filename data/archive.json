@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T16:03:45.945024+00:00",
+  "generatedAt": "2026-10-18T16:04:42.941160+00:00",
   "dateTimezone": "UTC",
-  "cursor": 52,
+  "cursor": 9,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -189,7 +189,7 @@
       "uploadsId": "UUc1BSASBDsE_XYOTxD9SNmA",
       "handle": "IjazAnsariFoodSecrets",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T15:28:44.680076+00:00"
+      "lastFetchedAt": "2026-10-18T16:04:42.941160+00:00"
     },
     "greentv": {
       "youtubeId": "UCF2ltLX1dnPa6-L1paPaMzw",
@@ -259,21 +259,21 @@
       "uploadsId": "UUiWrjBhlICf_L_RK5y6Vrxw",
       "handle": "PakistanCricket",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T15:47:35.454766+00:00"
+      "lastFetchedAt": "2026-10-18T16:04:42.941160+00:00"
     },
     "psl": {
       "youtubeId": "UCpNzXJ5jpcJojC5mHQvGA8w",
       "uploadsId": "UUpNzXJ5jpcJojC5mHQvGA8w",
       "handle": "pakistansuperleagueofficial",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T15:47:35.454766+00:00"
+      "lastFetchedAt": "2026-10-18T16:04:42.941160+00:00"
     },
     "asports": {
       "youtubeId": "UCCLdGxMC4fwkaQ4AIcL7Z8w",
       "uploadsId": "UUCLdGxMC4fwkaQ4AIcL7Z8w",
       "handle": "asportspk",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T15:47:35.454766+00:00"
+      "lastFetchedAt": "2026-10-18T16:04:42.941160+00:00"
     },
     "ptvsports": {
       "youtubeId": "UCnoH_iEE4tgVznLT97Kb7ig",
@@ -301,45 +301,63 @@
       "uploadsId": "UUZMKZS3L9GfhcFkMyBRoVFg",
       "handle": "kidslandofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T16:03:45.945024+00:00"
+      "lastFetchedAt": "2026-10-18T16:04:42.941160+00:00"
     },
     "kidsmadani": {
       "youtubeId": "UCsNSt0fxMniSH9XHaNneZfw",
       "uploadsId": "UUsNSt0fxMniSH9XHaNneZfw",
       "handle": "kidsmadanichannel",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T16:03:45.945024+00:00"
+      "lastFetchedAt": "2026-10-18T16:04:42.941160+00:00"
     },
     "salamkids": {
       "youtubeId": "UC_4moTH4Pmatx5ogzCLxUtA",
       "uploadsId": "UU_4moTH4Pmatx5ogzCLxUtA",
       "handle": "salamkidstvofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T16:03:45.945024+00:00"
+      "lastFetchedAt": "2026-10-18T16:04:42.941160+00:00"
     },
     "urdukidsstudio": {
       "youtubeId": "UCxqHh4UJsNqiwk_aaMI9HBg",
       "uploadsId": "UUxqHh4UJsNqiwk_aaMI9HBg",
       "handle": "urdukidsstudio",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T16:03:45.945024+00:00"
+      "lastFetchedAt": "2026-10-18T16:04:42.941160+00:00"
     },
     "shirazi": {
       "youtubeId": "UC8YddK8DXYyry_LWY4NksgA",
       "uploadsId": "UU8YddK8DXYyry_LWY4NksgA",
       "handle": "shirazi786",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T16:03:45.945024+00:00"
+      "lastFetchedAt": "2026-10-18T16:04:42.941160+00:00"
     },
     "haimparishay": {
       "youtubeId": "UC6jgnXHUJ4eDjrvHJNtAUYg",
       "uploadsId": "UU6jgnXHUJ4eDjrvHJNtAUYg",
       "handle": "HaimParishayKhan",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T16:03:45.945024+00:00"
+      "lastFetchedAt": "2026-10-18T16:04:42.941160+00:00"
     }
   },
   "videos": [
+    {
+      "id": "mOgST9ViA8E",
+      "title": "Why Couldn’t Pakistan Reach 350 Runs | Kamran Akmal | A SportsHD",
+      "channel": "A Sports",
+      "channelId": "asports",
+      "youtubeChannelId": "UCCLdGxMC4fwkaQ4AIcL7Z8w",
+      "category": "sports",
+      "genre": "Sports TV & news",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:48:08Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 181,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/mOgST9ViA8E/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
     {
       "id": "Crgj4dje0BQ",
       "title": "Pakistan Missed the Chance to Score 350 Runs! | Shahid Hashmi | A SportsHD",
@@ -79521,26 +79539,8 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/cIcs0KPGXaI/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "69iIGQcEz2E",
-      "title": "Anda Shami Burger | Street Style Bun Kebab Ka Ultimate Upgrade Recipe - RKK",
-      "channel": "Ruby Ka Kitchen",
-      "channelId": "ruby",
-      "youtubeChannelId": "UCMhx-uS3O-G_6_lTrYmDKLw",
-      "category": "vloggers",
-      "genre": "Food & recipes",
-      "date": "2026-07-01",
-      "published": "2026-07-01T10:15:30Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 741,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/69iIGQcEz2E/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Siddique Jaan: channel unavailable",
+  "lastError": "HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
