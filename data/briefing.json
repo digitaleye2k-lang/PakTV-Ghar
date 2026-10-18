@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-18T16:59:57.240736Z",
+  "generatedAt": "2026-10-18T17:01:05.035988Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-18T16:59:57.240736Z",
+      "updatedAt": "2026-10-18T17:01:05.035988Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -62,7 +62,7 @@
       ]
     },
     "world": {
-      "updatedAt": "2026-10-18T16:59:57.240736Z",
+      "updatedAt": "2026-10-18T17:01:05.035988Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -72,10 +72,10 @@
           "published": "2026-10-18T16:23:00Z"
         },
         {
-          "title": "Trump endorses Israeli Prime Minister Benjamin Netanyahu ahead of reelection bid - CBS News",
-          "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd3FmdVp6cU1aX2NDajdPdVFvdzBVMVhoWUl0NjhteWJkVHJxaExfQW5UcnB3V2RsRUc5c01nUVpTSHN4OENubkxsd3BYeVhnaGJDQURFOGhKZl9DNU1xeFNFd0tyRjZfdHNia3p6UXBXSUV6azFfWDNVTUNYQkFyNnVZcUdDRkFMNHhvMjFPMG5LOFo5M0huX0FVOTI?oc=5",
-          "published": "2026-10-18T16:04:31Z"
+          "title": "Trump endorses Netanyahu in Israeli election - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNEX0FibmplMGVhLVA1TDdESTEzdk9PR1JYNWtsQzJkTG5ER1lrMkhfV05saHNXYndlOXFxdFJONU4zOEZhZUdtXzR0WGpVSHBuLUUyOExTWHktR3AtMjlnU08yNXpaUWFVOXE1Q3dNaDFkZG4yT0JFMmlkYzdvTXFudjFQOF9rcFBaM0VBbjBaOFQ5bndSNS1fZw?oc=5",
+          "published": "2026-10-18T16:03:44Z"
         },
         {
           "title": "Elizabeth Holmes Film Opens to Over 2,000 Sold-Out Shows - The New York Times",
@@ -96,12 +96,6 @@
           "published": "2026-10-18T15:06:57Z"
         },
         {
-          "title": "Several dead or injured in major fire at Canada military base - BBC",
-          "source": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tWHRGVC1QUWJZNHBZTl9jR3FMWUZ4bXFxcjBrZzdvNlZqX2V0WWRpVTNHRUIzbmdwbVd2VkUzQnhCNFJ6RlBfdnhTb255UkpIbkVwcl9aaWNQa0k?oc=5",
-          "published": "2026-10-18T15:01:16Z"
-        },
-        {
           "title": "2026 Midterm Elections: Trump Rallies Republicans - Fox News",
           "source": "Fox News",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObm9FYWtTdVB6dUxkVDlaY0c1NFd2X21QaDNVRVZ2UUp3X0NkQTh5YTZPYW1qR19obGEzdWFENjNnWno4WVFlRjdxbW9nSG1pMFBRQlRBOUJ2QS13TnhLM0VEdXZZcEgzcGZMSzRIb2pSNWVibVhuOHRoNjRrWTNSeFhVV3ZGMEVfdVN2R2xqNFprbkFYTkd6UWE1NA?oc=5",
@@ -114,55 +108,61 @@
           "published": "2026-10-18T14:36:00Z"
         },
         {
-          "title": "Mark Gurman: Apple Made 'Major Mistake' With iPhone Duo Pre-Orders - MacRumors",
-          "source": "MacRumors",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQXy12Z19Ua3JWOXpwdmtMWFdaaElhUVZMR2xZZGJrc2JsRmJKVGVHbFRfSXdrSHNNWDg2Q1pJTlpQNC1qNlZ3UE9Rb2o5MDNNY1dQSHFKdTZRdE9FMDc0VW5QN29MNXFueEdqbk9HcV93N2NfaHFmcHVBbVVzN2ctNDlUemVvYmN1VXFOZg?oc=5",
-          "published": "2026-10-18T14:33:37Z"
+          "title": "Major fire breaks out in Alberta after deadly incident at Canadian military base - NBC News",
+          "source": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObVU5T0d4OFhNTzBxS3VmUUp0WVhILXJNSk8zM2Z1ZTBYbkFLQXpVWFU2NGw3d19Pbm5lcXl2Ui1LeXNPWmpWcUprLUphOGp2VGFBVVJNR0FZMGR3ekpwTnc4d2FzbHRCRm42cFRiQVBsR29TVlhidmtqT2xTbEQ5VkJnQUtwUWllTmdqRGtxVVdLS01nNloxcDdCWFNCeDFIRml3MmtLbmZwS042RDVQS21tcXljai1q?oc=5",
+          "published": "2026-10-18T14:27:00Z"
+        },
+        {
+          "title": "4 red flags – and 1 truth – amid the peptide hype - USA Today",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHI2THBQNThoX1VDdFE5azJwYXN0Q1ByQU14TGRhOHZoR2xrenVPOUNHbFJ1MWM2aU8teWdsOXgwV0FtQTlyem1LWUNtWS15RHhlUS1oSDhhWEh5X2lmUFBUTDFEVjV5ZG5tczdvQUt3TFlxbXItdlhuS3JNekZJeFdRcmdZTzA4TE84Q1RMNlNIQnlRYW1QTGRvOG1SaU0ydVFwYTdYdUxhWkNvWEE?oc=5",
+          "published": "2026-10-18T14:15:00Z"
         }
       ]
     }
   },
   "weather": {
-    "updatedAt": "2026-10-18T16:59:57.240736Z",
+    "updatedAt": "2026-10-18T17:01:05.035988Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
       {
         "city": "Karachi",
-        "temperatureC": 28,
-        "humidity": 68,
-        "windMs": 2.6,
+        "temperatureC": 27,
+        "humidity": 73,
+        "windMs": 2.5,
         "symbol": "clearsky_night",
-        "forecastTime": "2026-10-18T17:00:00Z"
+        "forecastTime": "2026-10-18T18:00:00Z"
       },
       {
         "city": "Lahore",
         "temperatureC": 22,
-        "humidity": 72,
-        "windMs": 1.9,
+        "humidity": 76,
+        "windMs": 1.8,
         "symbol": "clearsky_night",
-        "forecastTime": "2026-10-18T17:00:00Z"
+        "forecastTime": "2026-10-18T18:00:00Z"
       },
       {
         "city": "Islamabad",
         "temperatureC": 20,
-        "humidity": 54,
-        "windMs": 1.7,
+        "humidity": 53,
+        "windMs": 2.0,
         "symbol": "clearsky_night",
-        "forecastTime": "2026-10-18T17:00:00Z"
+        "forecastTime": "2026-10-18T18:00:00Z"
       },
       {
         "city": "Peshawar",
         "temperatureC": 20,
         "humidity": 71,
-        "windMs": 1.4,
+        "windMs": 1.3,
         "symbol": "clearsky_night",
-        "forecastTime": "2026-10-18T17:00:00Z"
+        "forecastTime": "2026-10-18T18:00:00Z"
       }
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-18T16:59:57.240736Z",
+    "updatedAt": "2026-10-18T17:01:05.035988Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {

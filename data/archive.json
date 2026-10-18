@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T16:59:29.744576+00:00",
+  "generatedAt": "2026-10-18T17:00:26.376257+00:00",
   "dateTimezone": "UTC",
-  "cursor": 54,
+  "cursor": 10,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -189,7 +189,7 @@
       "uploadsId": "UUc1BSASBDsE_XYOTxD9SNmA",
       "handle": "IjazAnsariFoodSecrets",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T16:40:53.272948+00:00"
+      "lastFetchedAt": "2026-10-18T17:00:26.376257+00:00"
     },
     "greentv": {
       "youtubeId": "UCF2ltLX1dnPa6-L1paPaMzw",
@@ -259,21 +259,21 @@
       "uploadsId": "UUiWrjBhlICf_L_RK5y6Vrxw",
       "handle": "PakistanCricket",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T16:40:53.272948+00:00"
+      "lastFetchedAt": "2026-10-18T17:00:26.376257+00:00"
     },
     "psl": {
       "youtubeId": "UCpNzXJ5jpcJojC5mHQvGA8w",
       "uploadsId": "UUpNzXJ5jpcJojC5mHQvGA8w",
       "handle": "pakistansuperleagueofficial",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T16:46:43.334741+00:00"
+      "lastFetchedAt": "2026-10-18T17:00:26.376257+00:00"
     },
     "asports": {
       "youtubeId": "UCCLdGxMC4fwkaQ4AIcL7Z8w",
       "uploadsId": "UUCLdGxMC4fwkaQ4AIcL7Z8w",
       "handle": "asportspk",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T16:46:43.334741+00:00"
+      "lastFetchedAt": "2026-10-18T17:00:26.376257+00:00"
     },
     "ptvsports": {
       "youtubeId": "UCnoH_iEE4tgVznLT97Kb7ig",
@@ -301,52 +301,70 @@
       "uploadsId": "UUZMKZS3L9GfhcFkMyBRoVFg",
       "handle": "kidslandofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T16:40:53.272948+00:00"
+      "lastFetchedAt": "2026-10-18T17:00:26.376257+00:00"
     },
     "kidsmadani": {
       "youtubeId": "UCsNSt0fxMniSH9XHaNneZfw",
       "uploadsId": "UUsNSt0fxMniSH9XHaNneZfw",
       "handle": "kidsmadanichannel",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T16:40:53.272948+00:00"
+      "lastFetchedAt": "2026-10-18T17:00:26.376257+00:00"
     },
     "salamkids": {
       "youtubeId": "UC_4moTH4Pmatx5ogzCLxUtA",
       "uploadsId": "UU_4moTH4Pmatx5ogzCLxUtA",
       "handle": "salamkidstvofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T16:40:53.272948+00:00"
+      "lastFetchedAt": "2026-10-18T17:00:26.376257+00:00"
     },
     "urdukidsstudio": {
       "youtubeId": "UCxqHh4UJsNqiwk_aaMI9HBg",
       "uploadsId": "UUxqHh4UJsNqiwk_aaMI9HBg",
       "handle": "urdukidsstudio",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T16:40:53.272948+00:00"
+      "lastFetchedAt": "2026-10-18T17:00:26.376257+00:00"
     },
     "shirazi": {
       "youtubeId": "UC8YddK8DXYyry_LWY4NksgA",
       "uploadsId": "UU8YddK8DXYyry_LWY4NksgA",
       "handle": "shirazi786",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T16:40:53.272948+00:00"
+      "lastFetchedAt": "2026-10-18T17:00:26.376257+00:00"
     },
     "haimparishay": {
       "youtubeId": "UC6jgnXHUJ4eDjrvHJNtAUYg",
       "uploadsId": "UU6jgnXHUJ4eDjrvHJNtAUYg",
       "handle": "HaimParishayKhan",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T16:40:53.272948+00:00"
+      "lastFetchedAt": "2026-10-18T17:00:26.376257+00:00"
     },
     "waggleworkshop": {
       "youtubeId": "UCDf7-AujhJJkMF1Cg5iT-Pw",
       "uploadsId": "UUDf7-AujhJJkMF1Cg5iT-Pw",
       "handle": "TheWaggleWorkshop",
       "checkedAt": "2026-10-18T16:55:18.549048+00:00",
-      "lastFetchedAt": "2026-10-18T16:55:18.549048+00:00"
+      "lastFetchedAt": "2026-10-18T17:00:26.376257+00:00"
     }
   },
   "videos": [
+    {
+      "id": "3xfvqMrCcFU",
+      "title": "2nd Innings Highlights | Pakistan vs Sri Lanka | Match 1 | ODI Tri-Series 2026 | PCB | MZS1K",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:59:14Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 829,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/3xfvqMrCcFU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
     {
       "id": "FVRYj55MVpw",
       "title": "Jeeto Pakistan | 18 October 2026 | Fahad Mustafa | ARY Digital",
@@ -453,6 +471,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/yhLN169yLwM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "AQbQtXCel-o",
+      "title": "Shaheen On Fire! 3 Crucial Wickets In 10 Overs | Pakistan vs Sri Lanka | M1 | ODI Tri-Series | MZS1K",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:46:11Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 154,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/AQbQtXCel-o/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -2667,6 +2703,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/e-opzpVLPv4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "8jzzM3mgDio",
+      "title": "Live | Janith Liyanage Press Conference | Pakistan vs Sri Lanka | ODI Tri-Nation Series 2026 | MZS1K",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-18",
+      "published": "2026-10-18T14:18:01Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 203,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/8jzzM3mgDio/hqdefault_live.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79492,62 +79546,8 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/NZScOhM_cGo/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "1ysZnQoA0CM",
-      "title": "Quick And Easy Recipe By ijaz Ansari | Easy Egg Recipe | Yummy And Tasty Recipe |",
-      "channel": "Ijaz Ansari Food Secrets",
-      "channelId": "ijazfood",
-      "youtubeChannelId": "UCc1BSASBDsE_XYOTxD9SNmA",
-      "category": "vloggers",
-      "genre": "Food & recipes",
-      "date": "2026-07-10",
-      "published": "2026-07-10T02:00:20Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 178,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/1ysZnQoA0CM/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "ET5ynJsWF6E",
-      "title": "England Rattled India By 9 wickets to win The T20I series",
-      "channel": "Wasay Habib",
-      "channelId": "wasay",
-      "youtubeChannelId": "UCs2-8ztgdlRqpbpHvfFFPFQ",
-      "category": "sports",
-      "genre": "Sports analysis & creators",
-      "date": "2026-07-09",
-      "published": "2026-07-09T21:05:39Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 2395,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/ET5ynJsWF6E/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "skF52qeMq24",
-      "title": "Everyone Told Me NOT to Visit This Mexican City 🇲🇽 S9 EP 73 | Pakistan to Americas Motorcycle Tour",
-      "channel": "WildLens by Abrar",
-      "channelId": "wildlens",
-      "youtubeChannelId": "UCf1XIplYiqNv9baGsFHwPPQ",
-      "category": "vloggers",
-      "genre": "Travel & lifestyle",
-      "date": "2026-07-09",
-      "published": "2026-07-09T15:08:12Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 1866,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/skF52qeMq24/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Asad Toor: channel unavailable; Siddique Jaan: channel unavailable; HUM TV Comedy: channel unavailable",
+  "lastError": "Mazaaq Raat: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
