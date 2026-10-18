@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-18T16:16:23.538648Z",
+  "generatedAt": "2026-10-18T16:18:11.407831Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-18T16:16:23.538648Z",
+      "updatedAt": "2026-10-18T16:18:11.407831Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -62,7 +62,7 @@
       ]
     },
     "world": {
-      "updatedAt": "2026-10-18T16:16:23.538648Z",
+      "updatedAt": "2026-10-18T16:18:11.407831Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -76,12 +76,6 @@
           "source": "BBC",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tWHRGVC1QUWJZNHBZTl9jR3FMWUZ4bXFxcjBrZzdvNlZqX2V0WWRpVTNHRUIzbmdwbVd2VkUzQnhCNFJ6RlBfdnhTb255UkpIbkVwcl9aaWNQa0k?oc=5",
           "published": "2026-10-18T15:01:16Z"
-        },
-        {
-          "title": "Mark Gurman: Apple Made 'Major Mistake' With iPhone Duo Pre-Orders - MacRumors",
-          "source": "MacRumors",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQXy12Z19Ua3JWOXpwdmtMWFdaaElhUVZMR2xZZGJrc2JsRmJKVGVHbFRfSXdrSHNNWDg2Q1pJTlpQNC1qNlZ3UE9Rb2o5MDNNY1dQSHFKdTZRdE9FMDc0VW5QN29MNXFueEdqbk9HcV93N2NfaHFmcHVBbVVzN2ctNDlUemVvYmN1VXFOZg?oc=5",
-          "published": "2026-10-18T14:33:37Z"
         },
         {
           "title": "‘Heartbreaking day for Wichita’: Truck drives through soccer field, killing 2, injuring 10 - NewsNation",
@@ -118,12 +112,18 @@
           "source": "IndieWire",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaHpFZm53QmRuZlR1TkdWY3lVQkpKSHBoNzBCWm1TRUZJSjNFTDNaZklZWEpPNjdMSC1QYWowaWpZQXlCQmNkYmVNNE1lMEtyT18wdEVlQUVHcGdIc1hCWWpmS05YNU44WlRfeXV2TlhZOFFnOTIwdk5janBzaDhGaXFkU2xZVXMzUFFFY2RkYnotZW1TMlFrQWliUUMwVm5SOWlUM1Y3WlZUcVNhYkZZQnBxX0xyUUFNUzRIb041VmZINmt3WnV4QQ?oc=5",
           "published": "2026-10-18T13:47:28Z"
+        },
+        {
+          "title": "France says Israel must ‘stop these acts of terror’ following attack on EU diplomats - POLITICO.eu",
+          "source": "POLITICO.eu",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaGlRVTFOTDJZVU51a1lqam5HY1JwajhlSEprTjlrQTZ2UFVub1RWaXlEdTZCNGlPNFJkc3Z5YXluaWZGVTNmRWZpWjVVVWtiVU9pVUt5R1A3a3EzeTJudk5XbkZZZjFMbEVtWmFfUHJMa25FUC1kX0tiNWFnWWlRVF9FbzVMMDVwMmszWUlxZFh5bXNhTklZWkNNU0NaelppQjhDVGlQOA?oc=5",
+          "published": "2026-10-18T13:36:35Z"
         }
       ]
     }
   },
   "weather": {
-    "updatedAt": "2026-10-18T16:16:23.538648Z",
+    "updatedAt": "2026-10-18T16:18:11.407831Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -162,7 +162,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-18T16:16:23.538648Z",
+    "updatedAt": "2026-10-18T16:18:11.407831Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
