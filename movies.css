@@ -43,3 +43,26 @@
  .movie-feature-actions button,.movie-feature-actions a{width:100%;justify-content:center}
 }
 @media(prefers-reduced-motion:reduce){.movie-feature-backdrop{transform:none}}
+
+/* Cinema ambience: quiet coloured light around an open movie window. */
+body[data-main-page="movies"] .player-overlay:not([hidden]){isolation:isolate}
+body[data-main-page="movies"] .player-overlay:not([hidden]) .player-backdrop{
+ background:radial-gradient(ellipse at 26% 42%,#233e4699,transparent 55%),
+ radial-gradient(ellipse at 78% 67%,#432a4880,transparent 52%),#02040ce8;
+}
+body[data-main-page="movies"] .player-overlay:not([hidden])::before{
+ content:"";position:absolute;inset:0;pointer-events:none;z-index:0;
+ background:radial-gradient(ellipse 42% 49% at 18% 53%,#62b5ad30,transparent 80%),
+ radial-gradient(ellipse 42% 52% at 82% 45%,#c08bba2b,transparent 80%);
+ animation:cinemaAmbientBreathe 15s ease-in-out infinite alternate;
+}
+body[data-main-page="movies"] .player-overlay:not([hidden]) .player-panel{
+ overflow:auto;
+ border-color:#789b9a8c;
+ box-shadow:0 0 25px #80ccc229,0 0 75px #92a9d22e,0 0 125px #bd88ae20,0 30px 80px #000c;
+ animation:cinemaFrameGlow 12s ease-in-out infinite alternate;
+}
+body[data-main-page="movies"] .player-overlay .video-box{box-shadow:0 0 30px #9abfba24}
+@keyframes cinemaAmbientBreathe{from{opacity:.52;transform:scale(.98)}to{opacity:1;transform:scale(1.04)}}
+@keyframes cinemaFrameGlow{from{box-shadow:0 0 24px #73b5aa29,0 0 65px #83a8c328,0 25px 80px #000c}to{box-shadow:0 0 37px #7cbbc349,0 0 100px #ac8ec441,0 25px 80px #000c}}
+@media(prefers-reduced-motion:reduce){body[data-main-page="movies"] .player-overlay::before,body[data-main-page="movies"] .player-panel{animation:none!important}}
