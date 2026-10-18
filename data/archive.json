@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T17:08:40.931296+00:00",
+  "generatedAt": "2026-10-18T17:11:35.034091+00:00",
   "dateTimezone": "UTC",
-  "cursor": 22,
+  "cursor": 34,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -56,35 +56,35 @@
       "uploadsId": "UUt8NJjYKc2aT3T0TnbcWxSw",
       "handle": "streetfoodpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T16:55:18.549048+00:00"
+      "lastFetchedAt": "2026-10-18T17:11:35.034091+00:00"
     },
     "hum": {
       "youtubeId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
       "uploadsId": "UUEeEQxm6qc_qaTE7qTV5aLQ",
       "handle": "HUMTV",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T16:55:18.549048+00:00"
+      "lastFetchedAt": "2026-10-18T17:11:35.034091+00:00"
     },
     "arydigital": {
       "youtubeId": "UC4JCksJF76g_MdzPVBJoC3Q",
       "uploadsId": "UU4JCksJF76g_MdzPVBJoC3Q",
       "handle": "ARYDigitalasia",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T16:55:18.549048+00:00"
+      "lastFetchedAt": "2026-10-18T17:11:35.034091+00:00"
     },
     "sabir": {
       "youtubeId": "UCY7eFg5TEMsk_aTqM0pVB4w",
       "uploadsId": "UUY7eFg5TEMsk_aTqM0pVB4w",
       "handle": "sabirshakirpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T16:55:18.549048+00:00"
+      "lastFetchedAt": "2026-10-18T17:11:35.034091+00:00"
     },
     "harpalgeo": {
       "youtubeId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
       "uploadsId": "UUe9JSDmyqNgA_l2BzGHq1Ug",
       "handle": "HarPalGeoOfficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T16:55:18.549048+00:00"
+      "lastFetchedAt": "2026-10-18T17:11:35.034091+00:00"
     },
     "foodfusion": {
       "youtubeId": "UCuqBZWK9Wrol_4Y22DzisFQ",
@@ -196,42 +196,42 @@
       "uploadsId": "UUF2ltLX1dnPa6-L1paPaMzw",
       "handle": "GreenEntertainmentTV",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T16:55:18.549048+00:00"
+      "lastFetchedAt": "2026-10-18T17:11:35.034091+00:00"
     },
     "ptvhome": {
       "youtubeId": "UCMfwlaPLGMn44BKvHv15yzA",
       "uploadsId": "UUMfwlaPLGMn44BKvHv15yzA",
       "handle": "PTVHomeEntertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T16:55:18.549048+00:00"
+      "lastFetchedAt": "2026-10-18T17:11:35.034091+00:00"
     },
     "expressent": {
       "youtubeId": "UCU1r97baEf3JJI5fY6NtMpA",
       "uploadsId": "UUU1r97baEf3JJI5fY6NtMpA",
       "handle": "expressentertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T16:57:57.459640+00:00"
+      "lastFetchedAt": "2026-10-18T17:11:35.034091+00:00"
     },
     "ptvnews": {
       "youtubeId": "UC5RvV_LtR1dxPCVFGw6dxXA",
       "uploadsId": "UU5RvV_LtR1dxPCVFGw6dxXA",
       "handle": "PTVNewsOfficial",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T16:57:57.459640+00:00"
+      "lastFetchedAt": "2026-10-18T17:11:35.034091+00:00"
     },
     "aajnews": {
       "youtubeId": "UCgBAPAcLsh_MAPvJprIz89w",
       "uploadsId": "UUgBAPAcLsh_MAPvJprIz89w",
       "handle": "aajtvofficial",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T16:57:57.459640+00:00"
+      "lastFetchedAt": "2026-10-18T17:11:35.034091+00:00"
     },
     "aajent": {
       "youtubeId": "UC2m98kh188cg_9x248IZM9A",
       "uploadsId": "UU2m98kh188cg_9x248IZM9A",
       "handle": "aajentertainment",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T16:57:57.459640+00:00"
+      "lastFetchedAt": "2026-10-18T17:11:35.034091+00:00"
     },
     "mooroo": {
       "youtubeId": "UC-rP-oFlxQGpSLYHBlhIWkg",
@@ -348,6 +348,168 @@
   },
   "videos": [
     {
+      "id": "VcVEJkBkPGU",
+      "title": "A Truly Heartwarming Moment ...Digitally Presented by ENGLISH  | Jeeto Pakistan | ARY Digital",
+      "channel": "ARY Digital",
+      "channelId": "arydigital",
+      "youtubeChannelId": "UC4JCksJF76g_MdzPVBJoC3Q",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:10:06Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 252,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/VcVEJkBkPGU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "fvD2JIz91nQ",
+      "title": "Ghar Se Sara Zewar Churana Hoga Tumhe..! Zehar-e-Mohabbat  - HUM TV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:10:05Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 507,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/fvD2JIz91nQ/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "6LFWB674ZFM",
+      "title": "Mohabat Mukhtasir New Ep | BEST SCENE  #HUMTV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:08:25Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 491,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/6LFWB674ZFM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "cqBntETHkjg",
+      "title": "Khushi Ki Shadi Per Zaroor Aana..! #khushi #sumaiyyabukhs #HUMTV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:05:07Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 198,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/cqBntETHkjg/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "qA557DkLuMQ",
+      "title": "Mein Kahani Hun S-3 | Episode 4 | Talafi | Part 1 | Humayoun Ashraf | Noreen M Gulwani | 18 Oct 26",
+      "channel": "Express TV",
+      "channelId": "expressent",
+      "youtubeChannelId": "UCU1r97baEf3JJI5fY6NtMpA",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:00:33Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2041,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/qA557DkLuMQ/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "hxvbAdYhQ-Y",
+      "title": "Sirf Ek Plate Tori Aur Mulazima Ki Chhutti..! #MohabbatMukhtasir #MadihaImam #HUMTV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:00:28Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 103,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/hxvbAdYhQ-Y/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "9v8Ev05lrMc",
+      "title": "Zehar-e-Mohabbat - Episode 18 - [Eng Sub] 18th Oct 2026 - [ Zoha Tauqeer & Omer Shahzad ] HUM TV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:00:20Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2124,
+      "availableGB": false,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/9v8Ev05lrMc/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "OhyWlLhslWA",
+      "title": "Rutba | Hiba Bukhari | Talha Chahour | Mehwish Hayat | Zahid Ahmed | Best Scenes of the Week",
+      "channel": "ARY Digital",
+      "channelId": "arydigital",
+      "youtubeChannelId": "UC4JCksJF76g_MdzPVBJoC3Q",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:00:15Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2804,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/OhyWlLhslWA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "sXmAcHcL0eA",
+      "title": "Bano Episode 06 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 18th October 2026 | HAR PAL GEO",
+      "channel": "Har Pal Geo",
+      "channelId": "harpalgeo",
+      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:00:02Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2317,
+      "availableGB": false,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/sXmAcHcL0eA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "3xfvqMrCcFU",
       "title": "2nd Innings Highlights | Pakistan vs Sri Lanka | Match 1 | ODI Tri-Series 2026 | PCB | MZS1K",
       "channel": "Pakistan Cricket Board",
@@ -366,6 +528,42 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "B590-yLIZ04",
+      "title": "Tumhari Naukri Khatam..! #MohabbatMukhtasir #MadihaImam #HUMTV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:57:30Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 103,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/B590-yLIZ04/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "yMxhUlaSnAA",
+      "title": "KP Governor Rule Debate and Iran’s Major Statement on the Makkah Pact | 09 PM HEADLINES",
+      "channel": "Aaj TV Official",
+      "channelId": "aajnews",
+      "youtubeChannelId": "UCgBAPAcLsh_MAPvJprIz89w",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:56:14Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 694,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/yMxhUlaSnAA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "_Kmi4-i8DEM",
       "title": "Trump’s Softer Stance on Russia, Is Ukraine in Danger? | Geo Digital",
       "channel": "Geo News",
@@ -381,6 +579,42 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/_Kmi4-i8DEM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "D1nPQc8Hrsc",
+      "title": "Mein Tumhari Employee Hun Nokar Nahi...! Mohabbat Mukhtasir - ft. Madiha Imam - HUM TV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:55:28Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 558,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/D1nPQc8Hrsc/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "kdqdz32Zkw8",
+      "title": "Mirha Phir Office Late Ho Gayi..! #MohabbatMukhtasir #MadihaImam #HUMTV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:55:00Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 97,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/kdqdz32Zkw8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -36276,24 +36510,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "R2Sm94U9YbY",
-      "title": "Mujhe Tou Bas Tumhare Baby Ka Intezar Hai! 🥹❤️ #Gulbahar #SanamSaeed #EmmadIrfani",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T16:35:28Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 507,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/R2Sm94U9YbY/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "tnabbSXvJIw",
       "title": "KP Emergency | PTI Ban Claims | Faisal Vawda Statement | Pakistan Politics | Rubaru",
       "channel": "Aaj TV Official",
@@ -36327,24 +36543,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/1L4yzuWKef8/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "c-n6XA8qgpo",
-      "title": "Sotan Hae Ya Nokarani??😱 #Gulbahar #SanamSaeed #EmmadIrfani",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T16:30:39Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 198,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/c-n6XA8qgpo/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -36492,24 +36690,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "UfOizMyVZsY",
-      "title": "Kya Pehli Biwi Ki Mohabbat Bhool Gaya Shehryar..? 😲💔 #Gulbahar #SanamSaeed #EmmadIrfani",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T16:15:22Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 236,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/UfOizMyVZsY/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "GmxV1YPkp-g",
       "title": "Kab Tak Akele Zindagi Guzarogi !! Hiba Aziz - Danial Afzal | Dastoor | Green TV",
       "channel": "Green Entertainment",
@@ -36564,24 +36744,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "_43Wzfz7Czc",
-      "title": "Aap Mujh Se Naraz Kyun Hein...? #Gulbahar #SanamSaeed #EmmadIrfani",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T16:10:06Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 508,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/_43Wzfz7Czc/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "rs33LmHoJm4",
       "title": "Will Terrorism End After Governor Rule & Emergency In KP? | Dawn News",
       "channel": "Dawn News",
@@ -36633,60 +36795,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/eyasDQIVui8/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "hOmZKYtOqs0",
-      "title": "Mein Tou Pehlay Hi Iss Rishtay Ke Khilaf Tha..! #khushi #sumaiyyabukhs #HUMTV",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T16:05:26Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 283,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/hOmZKYtOqs0/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "dWG1JaifO38",
-      "title": "Atiya Mere Bety Ne Shadi Se Inkar Kar Dia Hai..! #khushi #sumaiyyabukhs #HUMTV",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T16:05:07Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 179,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/dWG1JaifO38/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "RS2CW8ZDqoQ",
-      "title": "Sotan Ke Janay Ka Itna Dukh..!👀 #Gulbahar #SanamSaeed #EmmadIrfani",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T16:05:03Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 237,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/RS2CW8ZDqoQ/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -36813,24 +36921,6 @@
       "availablePK": false,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/fL5lA6STcb8/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "lCFiom01bBo",
-      "title": "Gulbahar - Episode 10 - [Eng Sub] 15th Oct 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
-      "channel": "HUM TV",
-      "channelId": "hum",
-      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T16:00:04Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 2029,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/lCFiom01bBo/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -41172,24 +41262,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "zBS2YpYU8W4",
-      "title": "Saas Ne Bahu Ko Auqat Yaad Dila Di 😱 || Khafa || Har Pal Geo",
-      "channel": "Har Pal Geo",
-      "channelId": "harpalgeo",
-      "youtubeChannelId": "UCe9JSDmyqNgA_l2BzGHq1Ug",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-15",
-      "published": "2026-10-15T03:30:28Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 126,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/zBS2YpYU8W4/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "xBNlc8eEcfQ",
       "title": "Tum Bewakoofi Kar Rahe Ho!! | Areeqa Haq | Ahsan Afzal Khan | Shahzad Sheikh | Shaandaar",
       "channel": "Express TV",
@@ -41316,24 +41388,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "MBYK0l32Z94",
-      "title": "Big Opportunity! 😍 | Dua Zahra | Hey Fam | ARY Digital",
-      "channel": "ARY Digital",
-      "channelId": "arydigital",
-      "youtubeChannelId": "UC4JCksJF76g_MdzPVBJoC3Q",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-14",
-      "published": "2026-10-14T21:30:22Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 122,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/MBYK0l32Z94/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "LOzDfllRC3I",
       "title": "🔴 PPP Chairman Bilawal Bhutto Zardari Addresses National Assembly Session  - Aaj News",
       "channel": "Aaj TV Official",
@@ -41403,24 +41457,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/5ma9XIxr5Do/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "5DdmjiwoRAU",
-      "title": "Ussy Mujhse Baat Karni Hai! | Dua Zahra | Hey Fam | ARY Digital",
-      "channel": "ARY Digital",
-      "channelId": "arydigital",
-      "youtubeChannelId": "UC4JCksJF76g_MdzPVBJoC3Q",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-14",
-      "published": "2026-10-14T20:30:03Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 157,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/5DdmjiwoRAU/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -45726,24 +45762,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "hoP5wmIcNoA",
-      "title": "PTI Long March | Murad Saeed | Mohsin Naqvi | Islamabad | KP Emergency | 8AM HEADLINES 14 OCT 2026",
-      "channel": "Aaj TV Official",
-      "channelId": "aajnews",
-      "youtubeChannelId": "UCgBAPAcLsh_MAPvJprIz89w",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-14",
-      "published": "2026-10-14T04:00:58Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 641,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/hoP5wmIcNoA/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "sWfE6_DRQUk",
       "title": "KPK Political Crisis: Long March Announced, Governor Removed? Asim Munir Under Spotlight",
       "channel": "Sabir Shakir",
@@ -48675,24 +48693,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/EOEoz1E3aN8/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "duU_i2DrvAE",
-      "title": "Please Adjust Hone Ki Koshish Karo..!! | Hum Bhi Ji Lain | Express Tv",
-      "channel": "Express TV",
-      "channelId": "expressent",
-      "youtubeChannelId": "UCU1r97baEf3JJI5fY6NtMpA",
-      "category": "dramas",
-      "genre": "Dramas",
-      "date": "2026-10-12",
-      "published": "2026-10-12T11:30:39Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 116,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/duU_i2DrvAE/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79548,6 +79548,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Dunya News: HTTP 404: playlistNotFound",
+  "lastError": "Imran Riaz Khan: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
