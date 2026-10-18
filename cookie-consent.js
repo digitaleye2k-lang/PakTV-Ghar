@@ -102,16 +102,22 @@
       .paktv-side-ad iframe{display:block;width:160px;height:600px;border:0;background:transparent}
       .paktv-side-ad[data-location="player"]{right:12px;top:50%;transform:translateY(-50%)}
       .paktv-side-ad[data-location="dj"]{right:238px;bottom:18px}
+      .paktv-side-ad[data-location="music"]{right:12px;top:50%;transform:translateY(-50%)}
       @media(max-width:1390px){.paktv-side-ad[data-location="player"]{display:none}}
+      @media(max-width:1150px){.paktv-side-ad[data-location="music"]{display:none}}
       @media(max-width:680px){.paktv-side-ad[data-location="dj"]{display:none}}
     `;
     document.head.append(css);
-    let ad=null,place="";
+    let ad=null,place="",musicPlaying=false;
+    document.addEventListener("paktv:music-video-play",()=>{musicPlaying=true;sync();});
+    document.addEventListener("paktv:radio-play",()=>{musicPlaying=false;sync();});
     function sync(){
       const player=document.getElementById("playerOverlay");
       const playerOpen=!!player&&!player.hidden;
       const dj=document.querySelector(".classic-dj-float");
-      const target=playerOpen?"player":dj?"dj":"";
+      const musicPlayer=document.getElementById("musicPlayer");
+      const hasMusic=!!musicPlayer?.querySelector("iframe");
+      const target=playerOpen?"player":dj?"dj":musicPlaying&&hasMusic?"music":"";
       if(target===place&&ad?.isConnected)return;
       if(ad){ad.remove();ad=null;}
       place=target;
