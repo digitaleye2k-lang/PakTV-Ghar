@@ -1,13 +1,16 @@
-"""Check every inline website script and archive wiring before deployment."""
+"""Check shared website scripts and standalone page URL wiring."""
 from pathlib import Path
 import re
 import subprocess
 
 page = Path('index.html').read_text(encoding='utf-8')
-scripts = [x for x in re.findall(r'<script(?:\s[^>]*)?>([\s\S]*?)</script>', page, re.I)
-           if x.strip()]
-if len(scripts) < 2:
-    raise SystemExit('Expected inline catalogue and app scripts')
+catalog = Path('site-catalog.js').read_text(encoding='utf-8')
+app = Path('site-app.js').read_text(encoding='utf-8')
+scripts = [catalog, app]
+for name in ('site-catalog.js', 'site-app.js'):
+    if ('src="./'+name+'"') not in page:
+        raise SystemExit('Shared script missing from homepage: '+name)
+page += '\n' + catalog + '\n' + app
 for i, js in enumerate(scripts):
     result = subprocess.run(['node', '--check', '-'], input=js,
                             text=True, capture_output=True)
@@ -69,3 +72,15 @@ if not Path('movies.css').is_file() or not Path('ads.txt').is_file():
 if 'google.com, pub-7935805760564580, DIRECT, f08c47fec0942fa0' not in Path('ads.txt').read_text():
     raise SystemExit('AdSense ads.txt publisher entry missing')
 print('Website JavaScript: parsed', len(scripts), 'blocks; cinema, movies and consent controls present')
+
+# All major categories have their own browser URL, reusing shared site scripts.
+for slug in ('today','dramas','movies','comedy','news','sports','talk',
+             'vloggers','archive','favourites','search','show'):
+    item = Path(slug+'.html')
+    assert item.is_file(), 'Missing standalone page '+slug
+    body=item.read_text(encoding='utf-8')
+    assert 'site-app.js' in body and 'site-catalog.js' in body
+    assert 'id="mainContent"' in body and 'id="sideNav"' in body
+assert 'function routeURL(page)' in app and 'location.pathname' in app
+assert 'function openSeries(id)' in app and './show.html?id=' in app
+assert 'schedule-artwork' in app
