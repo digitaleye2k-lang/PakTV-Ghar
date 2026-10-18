@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-10-18T17:46:52.531091+00:00",
+  "generatedAt": "2026-10-18T17:47:47.396589+00:00",
   "dateTimezone": "UTC",
-  "cursor": 13,
+  "cursor": 25,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
       "uploadsId": "UU_vt34wimdCzdkrzVejwX9g",
       "handle": "geonews",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T17:29:50.221349+00:00"
+      "lastFetchedAt": "2026-10-18T17:47:47.396589+00:00"
     },
     "ducky": {
       "youtubeId": "UC_c-RTowPbIlzMkIa_O7s6Q",
       "uploadsId": "UU_c-RTowPbIlzMkIa_O7s6Q",
       "handle": "duckybhai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T17:29:50.221349+00:00"
+      "lastFetchedAt": "2026-10-18T17:47:47.396589+00:00"
     },
     "arynews": {
       "youtubeId": "UCMmpLL2ucRHAXbNHiCPyIyg",
       "uploadsId": "UUMmpLL2ucRHAXbNHiCPyIyg",
       "handle": "ArynewsTvofficial",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T17:29:50.221349+00:00"
+      "lastFetchedAt": "2026-10-18T17:47:47.396589+00:00"
     },
     "rhs": {
       "youtubeId": "UCgFG7lz7BI5hsNEifevrWSw",
       "uploadsId": "UUgFG7lz7BI5hsNEifevrWSw",
       "handle": "ranahamzasaifrhs",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T17:29:50.221349+00:00"
+      "lastFetchedAt": "2026-10-18T17:47:47.396589+00:00"
     },
     "dunya": {
       "youtubeId": "UCG7xCQTxgy93j6r49wl48rw",
@@ -42,14 +42,14 @@
       "uploadsId": "UUQexaAjPn3-1MCE4DmBK3Tg",
       "handle": "villagefoodsecrets",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T17:29:50.221349+00:00"
+      "lastFetchedAt": "2026-10-18T17:47:47.396589+00:00"
     },
     "geohasna": {
       "youtubeId": "UC6HQ4d3xq9EgSeJgMhc-4AQ",
       "uploadsId": "UU6HQ4d3xq9EgSeJgMhc-4AQ",
       "handle": "GeoHasnaManaHai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T17:37:12.468906+00:00"
+      "lastFetchedAt": "2026-10-18T17:47:47.396589+00:00"
     },
     "streetfoodpk": {
       "youtubeId": "UCt8NJjYKc2aT3T0TnbcWxSw",
@@ -245,98 +245,98 @@
       "uploadsId": "UU2PYniNHljOED9xNaMpiMiQ",
       "handle": "ARYFilms",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-18T17:29:50.221349+00:00"
+      "lastFetchedAt": "2026-10-18T17:47:47.396589+00:00"
     },
     "drmmovies": {
       "youtubeId": "UCDmQsP_LTEWPZ2AXS9eWTrQ",
       "uploadsId": "UUDmQsP_LTEWPZ2AXS9eWTrQ",
       "handle": "pakistani_movies",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-18T17:29:50.221349+00:00"
+      "lastFetchedAt": "2026-10-18T17:47:47.396589+00:00"
     },
     "pcb": {
       "youtubeId": "UCiWrjBhlICf_L_RK5y6Vrxw",
       "uploadsId": "UUiWrjBhlICf_L_RK5y6Vrxw",
       "handle": "PakistanCricket",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T17:46:52.531091+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "psl": {
       "youtubeId": "UCpNzXJ5jpcJojC5mHQvGA8w",
       "uploadsId": "UUpNzXJ5jpcJojC5mHQvGA8w",
       "handle": "pakistansuperleagueofficial",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T17:46:52.531091+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "asports": {
       "youtubeId": "UCCLdGxMC4fwkaQ4AIcL7Z8w",
       "uploadsId": "UUCLdGxMC4fwkaQ4AIcL7Z8w",
       "handle": "asportspk",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T17:46:52.531091+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "ptvsports": {
       "youtubeId": "UCnoH_iEE4tgVznLT97Kb7ig",
       "uploadsId": "UUnoH_iEE4tgVznLT97Kb7ig",
       "handle": "ptvsportsofficialpk",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T17:46:52.531091+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "cricketpk": {
       "youtubeId": "UCI7I29IPUtWE68VLUoZfXow",
       "uploadsId": "UUI7I29IPUtWE68VLUoZfXow",
       "handle": "CricketPakistanPK",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T17:46:52.531091+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "wasay": {
       "youtubeId": "UCs2-8ztgdlRqpbpHvfFFPFQ",
       "uploadsId": "UUs2-8ztgdlRqpbpHvfFFPFQ",
       "handle": "wasayhabib",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T17:46:52.531091+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "kidsland": {
       "youtubeId": "UCZMKZS3L9GfhcFkMyBRoVFg",
       "uploadsId": "UUZMKZS3L9GfhcFkMyBRoVFg",
       "handle": "kidslandofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T17:46:52.531091+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "kidsmadani": {
       "youtubeId": "UCsNSt0fxMniSH9XHaNneZfw",
       "uploadsId": "UUsNSt0fxMniSH9XHaNneZfw",
       "handle": "kidsmadanichannel",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T17:46:52.531091+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "salamkids": {
       "youtubeId": "UC_4moTH4Pmatx5ogzCLxUtA",
       "uploadsId": "UU_4moTH4Pmatx5ogzCLxUtA",
       "handle": "salamkidstvofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T17:46:52.531091+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "urdukidsstudio": {
       "youtubeId": "UCxqHh4UJsNqiwk_aaMI9HBg",
       "uploadsId": "UUxqHh4UJsNqiwk_aaMI9HBg",
       "handle": "urdukidsstudio",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T17:46:52.531091+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "shirazi": {
       "youtubeId": "UC8YddK8DXYyry_LWY4NksgA",
       "uploadsId": "UU8YddK8DXYyry_LWY4NksgA",
       "handle": "shirazi786",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T17:46:52.531091+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "haimparishay": {
       "youtubeId": "UC6jgnXHUJ4eDjrvHJNtAUYg",
       "uploadsId": "UU6jgnXHUJ4eDjrvHJNtAUYg",
       "handle": "HaimParishayKhan",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T17:46:52.531091+00:00"
+      "lastFetchedAt": "2026-10-18T17:46:04.407498+00:00"
     },
     "waggleworkshop": {
       "youtubeId": "UCDf7-AujhJJkMF1Cg5iT-Pw",
@@ -350,17 +350,60 @@
       "uploadsId": "UUMlGWm_woMhMcVYhJu8zsvA",
       "handle": "LollywoodCinema",
       "checkedAt": "2026-10-18T17:28:01.603474+00:00",
-      "lastFetchedAt": "2026-10-18T17:29:50.221349+00:00"
+      "lastFetchedAt": "2026-10-18T17:47:47.396589+00:00"
     },
     "movieboxmovies": {
       "youtubeId": "UC8Artr_jqToYkRKjgjhezmw",
       "uploadsId": "UU8Artr_jqToYkRKjgjhezmw",
       "handle": "movieboxmovies",
       "checkedAt": "2026-10-18T17:28:01.603474+00:00",
-      "lastFetchedAt": "2026-10-18T17:29:50.221349+00:00"
+      "lastFetchedAt": "2026-10-18T17:47:47.396589+00:00"
+    },
+    "lollywoodclassics": {
+      "youtubeId": "UCV-z8APBalmSWNrre62xKxg",
+      "uploadsId": "UUV-z8APBalmSWNrre62xKxg",
+      "handle": "lollywoodclassics",
+      "checkedAt": "2026-10-18T17:47:47.396589+00:00",
+      "lastFetchedAt": "2026-10-18T17:47:47.396589+00:00"
     }
   },
   "videos": [
+    {
+      "id": "_vaZgPH83bM",
+      "title": "New Provinces or Administrative Units? | What Does the Public Want? #shorts #youtubeshorts",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:45:35Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 175,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/_vaZgPH83bM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "WpKWgbRLRho",
+      "title": "Pakistan Defeats Sri Lanka in Thrilling Cricket Match| Emergency in KP | 10:30 PM News Updates",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:45:26Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 576,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/WpKWgbRLRho/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
     {
       "id": "ueZUHDsCf5k",
       "title": "Kharay Kharay Nokarai Se Farigh Kar Dia...! Mohabbat Mukhtasir - ft. Madiha Imam - HUM TV",
@@ -506,6 +549,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "QV0LwuoDLyY",
+      "title": "How Faysal Quraishi transformed himself? - #hareemfarooq #faysalquraishi #shorts",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:31:36Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 163,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/QV0LwuoDLyY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "XXGgBVFXuxU",
       "title": "Full Match Highlights | Pakistan vs Sri Lanka | Match 1 | ODI Tri-Series 2026 | PCB | MZS1K",
       "channel": "Pakistan Cricket Board",
@@ -575,6 +636,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/J1Rk8CbfP-k/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "vd5BMjjQwSA",
+      "title": "KP Emergency Live | PTI, Opposition Warns | France Protest Update | ARY News 10 PM Headlines",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:28:00Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 997,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/vd5BMjjQwSA/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -29108,24 +29187,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "cI9nuwwaBPI",
-      "title": "Government–PTI Negotiations: What Is PTI’s New Strategy? | Report Card | 16th October 2026",
-      "channel": "Geo News",
-      "channelId": "geonews",
-      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
-      "category": "talk",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T15:30:16Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 2632,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/cI9nuwwaBPI/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "lcNRia3RMlQ",
       "title": "Ab Bachay Ki Umeed Bohot Kam !! Hiba Aziz - Danial Afzal | Dastoor | Green TV",
       "channel": "Green Entertainment",
@@ -29288,24 +29349,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "_b1wFGOju5U",
-      "title": "PTI’s Meeting with Imran Khan: Hasan Ayub’s Key Analysis",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T15:17:02Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 462,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/_b1wFGOju5U/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "X5ZDlo7KJjA",
       "title": "Cyber Crime Jana Parega!! | Bhanwar | Express TV",
       "channel": "Express TV",
@@ -29393,24 +29436,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/LSw7xh5d6UQ/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "s1YH0X63ioY",
-      "title": "KP Emergency and Governor’s Rule: Will PTI Come to an End?",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T15:12:00Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 482,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/s1YH0X63ioY/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -29519,24 +29544,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/UB4m8aWMsV8/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "Qm_7jc3pGN8",
-      "title": "PTI Chooses Achakzai for Negotiations, But He Says No! | The Reporter",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T15:05:29Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 583,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/Qm_7jc3pGN8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79562,6 +79569,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "",
+  "lastError": "Dunya News: HTTP 404: playlistNotFound",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
