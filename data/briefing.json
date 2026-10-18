@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-18T17:12:18.802922Z",
+  "generatedAt": "2026-10-18T17:13:38.189041Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-18T17:12:18.802922Z",
+      "updatedAt": "2026-10-18T17:13:38.189041Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -62,7 +62,7 @@
       ]
     },
     "world": {
-      "updatedAt": "2026-10-18T17:12:18.802922Z",
+      "updatedAt": "2026-10-18T17:13:38.189041Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -108,23 +108,23 @@
           "published": "2026-10-18T14:36:00Z"
         },
         {
-          "title": "Eric Dane Daughter Saved Him from Drowning During ALS Battle, Revealed in Posthumous Book - TMZ",
-          "source": "TMZ",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZlRzLWFqeENvVFBtc05ZYmdFeWhveWlOWFVnVjJBSzhRbmRnMW1OeDRJZy1SeDFNY0RuQUNzV09jdVlwS3dpNUx2eEJ4d2htcTQyaUdqbG52QzYxZElwQ0M3RnV5czdKdzF1aFFWVzdaa0hRdXRIbEdlSHlkQTI2U09n?oc=5",
-          "published": "2026-10-18T14:35:37Z"
-        },
-        {
           "title": "Mark Gurman: Apple Made 'Major Mistake' With iPhone Duo Pre-Orders - MacRumors",
           "source": "MacRumors",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQXy12Z19Ua3JWOXpwdmtMWFdaaElhUVZMR2xZZGJrc2JsRmJKVGVHbFRfSXdrSHNNWDg2Q1pJTlpQNC1qNlZ3UE9Rb2o5MDNNY1dQSHFKdTZRdE9FMDc0VW5QN29MNXFueEdqbk9HcV93N2NfaHFmcHVBbVVzN2ctNDlUemVvYmN1VXFOZg?oc=5",
           "published": "2026-10-18T14:33:37Z"
+        },
+        {
+          "title": "Zelenskyy: Not right to 'compare me and Putin' - Politico",
+          "source": "Politico",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUzh4TFc4UkUweDIwb05YNWJZY1pQeEoxUUQ0b3NZTm93TFdIQTNZbnhyR3ZDaW9jbXVVak40N182S201NnNON0VGR0xnYlFrOUctZDAxd2dWRk1NN19oT3hQMEdmc2Z5WTU0UnNvMGZmNGxtTVJQd1N6LXFFRXppTUFObzdXYV9FT3c?oc=5",
+          "published": "2026-10-18T14:31:00Z"
         }
       ]
     }
   },
   "newsUrdu": {
     "pakistan": {
-      "updatedAt": "2026-10-18T17:12:18.802922Z",
+      "updatedAt": "2026-10-18T17:13:38.189041Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -164,12 +164,6 @@
           "published": "2026-10-18T15:27:25Z"
         },
         {
-          "title": "Pakistan's 'historic milestone' claim gets a reality check from ex-IMF director - India Today",
-          "source": "India Today",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORUZWUEhzU00yVXlmNlNGWmtyM3RldHZGb0tnTlZTUnYzb0pTVGxZNGMyTFQ5SUF6NEFhaE9mLVFYZ3JuZmlxcjVURWF2N0FZanNDTDV6T08xM2x1Nko1VngzRy0tdzhkUy1GMzg0dDFVTkwyTVFSUTdrSk1SZ2YySnJxM194VEN4NHdoa3NpWkd1bzZTWkpxVmZlWFBRdlQxTXhsbkJXN2puamZURFFCbHNlY1hJVjNIc3U4TUpweDRLRnZ3RmgwUmxlMG9Nd9IB0wFBVV95cUxOTy1xeWhkNHQ1Mk41VTlWRHUtcGRabVBBSFFSVnBaWl9pSXZMY0R5cFZKR0xib2xFV0xoMVJlT3hPeXpfSmRCUU8wWng1MlVtenY4Yl9OekhQSlpiSG1vS2MzZ1dhaHUzdHZLeENoYjBxaUVPeVhvRlpzcUtiTGJ2cXZTZDRid2hsd0xGeWZ3RE5QWHJkbDhDcFZMLWpqNFZrTnVtWnBudkRWZ2NybzZTTXVieDl1WG4tYmJpUFYtdEVFd1lKN3ZRMS1uTVZFbGgyUFJz?oc=5",
-          "published": "2026-10-18T14:12:27Z"
-        },
-        {
           "title": "Pak suspends border trade with Iran; hundreds of freight vehicles left stranded - India Today",
           "source": "India Today",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWk1KdG93bTJsTi0xbUVCN1lGOUFZSTFab2UwUFNFSDlXNHdsbHhjMGRrMk1sSTJ5QUlXSDVfc2kzV0NRS0k5QTVzcEJraUNMWWlFUDNodDB1TkhTbHhlWkE1bk1KeUFfVkNwNjh0YTVYQnJrQ1dMM1ZQYzdDVVRCWWR0emFCbzdaaE9NRWs5V0hYaklhUGlfM2RQN1JrcGx3R1FId1ZGcWRyVkNNbWNXaG5VMnMzN0wyOElUR1RXUW1xZ9IBxwFBVV95cUxPN0NyZ2xLZ0JJWnE3eUk5VkdFSzlLZGhzVFdsRlJFR2l1WWN0dFhIN1NDVENzMDQ1SkxNdHZpaHh6TTVOOG96WU4wdllLZE45Q3Bvb2dTTFlTMnAwcDk0RlV6ZjlSWTVVczUxYkozNktzV2NKUE9nYjkxN0ZNWVRWVnh1VEo1MlAtdVdGbWtOOUx0dW96dWwtcHJMRnltTUhVeVNXR2hQakF5V2MwZW9URFNmVlYtOFV5c0dXZlJoNmE5TlRJTWw4?oc=5",
@@ -180,13 +174,19 @@
           "source": "Aaj News",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OM0d5YXY3WkFkTlJUal93QXB1R1k0QmtqZGFCcFBza1JsMWJBYkxVYldsM0E4NFloSXBMN3hXazJvQ0JlTk5HOA?oc=5",
           "published": "2026-10-18T13:51:08Z"
+        },
+        {
+          "title": "Salman Agha Hits Century as Pakistan Set Sri Lanka a Target of 306 Runs - Aaj News - Aaj English TV",
+          "source": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWFRHR3hwZ0hNOVlxS0RuVllyWmVMQjY1a1o2T1VxUHVQMG05UE1sZTNsTWF6Z2dmdmtrV0NyLTF2MVV1cDl3TmduWmRabHdzbDNmdjdDVzVBVHRHT19Wa1F5THpjc3FqMkZhVzllSmNkWUpuOFllNVlQc2ZUcWdjS3JQSThTOUVHWXlCbHFORVBmZkNnanIzS19VanRFN1Q2S1ExU1NmUDFRV1J6TDBkVHplazl0YVdQRFE?oc=5",
+          "published": "2026-10-18T13:40:08Z"
         }
       ]
     },
     "world": {}
   },
   "weather": {
-    "updatedAt": "2026-10-18T17:12:18.802922Z",
+    "updatedAt": "2026-10-18T17:13:38.189041Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -225,7 +225,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-18T17:12:18.802922Z",
+    "updatedAt": "2026-10-18T17:13:38.189041Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
@@ -251,7 +251,7 @@
     ]
   },
   "sports": {
-    "updatedAt": "2026-10-18T17:12:20.239469Z",
+    "updatedAt": "2026-10-18T17:13:39.846807Z",
     "source": "ESPN cricket snapshot",
     "url": "https://www.espncricinfo.com/live-cricket-score",
     "matches": [
