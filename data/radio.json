@@ -1,0 +1,31 @@
+{
+  "updatedAt": null,
+  "source": "Official station links (stream directory refresh pending)",
+  "sourceUrl": "https://www.radio.gov.pk/live-streaming",
+  "stations": [
+    {
+      "name": "Radio Pakistan · FM 101",
+      "city": "Nationwide / cities",
+      "genre": "Music, entertainment and public radio",
+      "homepage": "https://www.radio.gov.pk/live-streaming",
+      "stream": "",
+      "source": "Official station directory"
+    },
+    {
+      "name": "Radio Pakistan · Planet FM 87.6",
+      "city": "Islamabad",
+      "genre": "Music and entertainment",
+      "homepage": "https://www.radio.gov.pk/live-streaming",
+      "stream": "",
+      "source": "Official station directory"
+    },
+    {
+      "name": "Mast FM 103",
+      "city": "Multiple cities",
+      "genre": "Music and infotainment",
+      "homepage": "https://mastfm103.com.pk/",
+      "stream": "",
+      "source": "Official station website"
+    }
+  ]
+}
