@@ -21,7 +21,7 @@ function showClassicOverlay(){
  const box=node("aside","classic-dj-float");
  box.setAttribute("aria-label","DJ Classic dancing video");
  const top=node("div","classic-dj-float-head");
- top.append(node("strong","","DJ Classic · Silent loop"));
+ top.append(node("strong","","SAADIA"));
  const close=node("button","","✕");
  close.type="button";close.setAttribute("aria-label","Close DJ Classic video");
  close.addEventListener("click",closeClassicOverlay);
