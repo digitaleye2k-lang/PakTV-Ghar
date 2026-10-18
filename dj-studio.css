@@ -4,11 +4,12 @@
 .music-subtabs a[aria-current="page"]{background:#ffce87;color:#15352c}
 .music-subtabs a:hover{border-color:#b4d6b8}
 .music-tab-panel[hidden]{display:none!important}
-.virtual-dj-cards{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px}
+.virtual-dj-cards{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:18px}
 .virtual-dj-card{background:linear-gradient(140deg,#244d42,#102d34);border:1px solid #67937b;border-radius:20px;overflow:hidden;min-width:0}
 .virtual-dj-card[data-style="rap"]{background:linear-gradient(140deg,#40345d,#172f3c)}
 .virtual-dj-card[data-style="rock"]{background:linear-gradient(140deg,#56352c,#193a37)}
 .virtual-dj-card[data-style="jazz"]{background:linear-gradient(140deg,#203f5d,#2a3651)}
+.virtual-dj-card[data-style="indie"]{background:linear-gradient(140deg,#245a4f,#1f3b50)}
 .virtual-dj-media{position:relative;aspect-ratio:4/5;display:grid;place-items:center;background:#122b2f;overflow:hidden}
 .virtual-dj-media video{width:100%;height:100%;object-fit:contain;background:#091b20}
 .virtual-dj-fallback{font-size:66px}

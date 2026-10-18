@@ -1,4 +1,4 @@
-/* Four on-demand virtual DJs, using existing verified YouTube catalogue. */
+/* Five on-demand virtual DJs, using existing verified YouTube catalogue. */
 (()=>{"use strict";
 const tabs=[...document.querySelectorAll("[data-music-tab]")];
 const panels=[...document.querySelectorAll("[data-panel]")];
@@ -7,13 +7,15 @@ const DJs=[
  {id:"classic",name:"DJ Classic",emoji:"📻",tag:"Golden-era melodies and soulful favourites",genres:["classic","ghazal","qawwali","folk","sufi"],intro:"./assets/Djs/Classic.mp4"},
  {id:"rap",name:"DJ Rap",emoji:"🎤",tag:"Urdu hip-hop, bars and beats",genres:["rap"],intro:"./assets/Djs/Rap.mp4"},
  {id:"rock",name:"DJ Rock",emoji:"🎸",tag:"Guitars, rock and modern fusion",genres:["rock","indie"],intro:"./assets/Djs/Rock.mp4"},
- {id:"jazz",name:"DJ Jazz",emoji:"🎷",tag:"Smooth jazz, Pakistani fusion and late-night grooves",genres:["jazz","indie"],intro:"./assets/Djs/Jazz.mp4"}
+ {id:"jazz",name:"DJ Jazz",emoji:"🎷",tag:"Smooth jazz, Pakistani fusion and late-night grooves",genres:["jazz","indie"],intro:"./assets/Djs/Jazz.mp4"},
+ {id:"indie",name:"DJ Indie",emoji:"🌿",tag:"Independent Pakistani voices, acoustic gems and alternative sounds",genres:["indie","covers"],intro:"./assets/Djs/indie.mp4"}
 ];
 const DJ_FLOATING={
  classic:{name:"SAADIA",src:"./assets/Djs/Person_nodding_head_to_music_20261018222953.mp4",fallback:"./assets/Djs/Classic.mp4"},
  jazz:{name:"Jawaad",src:"./assets/Djs/nodding_jazz.mp4",fallback:"./assets/Djs/Jazz.mp4"},
  rap:{name:"Rose",src:"./assets/Djs/nodding_rap.mp4",fallback:"./assets/Djs/Rap.mp4"},
- rock:{name:"Saad",src:"./assets/Djs/nodding_rock.mp4",fallback:"./assets/Djs/Rock.mp4"}
+ rock:{name:"Saad",src:"./assets/Djs/nodding_rock.mp4",fallback:"./assets/Djs/Rock.mp4"},
+ indie:{name:"DJ Indie",src:"./assets/Djs/indie.mp4",fallback:"./assets/Djs/indie.mp4"}
 };
 let activeOverlay=null;
 function closeDJOverlay(){

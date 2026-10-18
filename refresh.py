@@ -23,6 +23,14 @@ SOURCES={
 'mekaalhasan':('Mekaal Hasan Band','MekaalHasanBand','music'),
 'rahatfateh':('Rahat Fateh Ali Khan','RahatFatehAliKhan','music'),
 'atifs':('Atif Aslam','AtifAslamOfficial','music'),
+'bayaan':('Bayaan','BayaanOfficial','music'),
+'abdulhannan':('Abdul Hannan','abdulhannanmusic','music'),
+'hasanraheem':('Hasan Raheem','hasanraheem','music'),
+'arooj':('Arooj Aftab','AroojAftab','music'),
+'natashabaig':('Natasha Baig','NatashaBaigOfficial','music'),
+'zamadbaig':('Zamad Baig','ZamadBaigOfficial','music'),
+'hassanroshaan':('Hassan & Roshaan','hassanroshaan','music'),
+'kashmir':('Kashmir The Band','kashmirtheband','music'),
 'lollywoodcinema':('LollywoodCinema','LollywoodCinema','movies'),
 'lollywoodclassics':('Lollywood Classics','lollywoodclassics','movies'),
 'movieboxmovies':('MovieboxMovies','movieboxmovies','movies'),
@@ -278,7 +286,7 @@ def main():
  latest=[v for group in groups for v in group]
  old=readold('videos.json',{}).get('videos',[])
  unique={v['id']:v for v in old+latest if re.fullmatch(r'[A-Za-z0-9_-]{11}',v.get('id',''))}
- videos=sorted(unique.values(),key=lambda x:x.get('published',''),reverse=True)[:240]
+ videos=sorted(unique.values(),key=lambda x:x.get('published',''),reverse=True)[:600]
  episodes={}
  bad=re.compile(r'\b(teaser|promo|ost|reaction|preview|trailer|review|best scenes)\b',re.I)
  exp=re.compile(r'\b(?:episode|ep\.?)[\s:#-]*(\d{1,4})\b',re.I)
@@ -349,7 +357,7 @@ def main():
  for v in archive.get('videos',[]):combined[v['id']]=v
  # Cap the homepage feed but retain more archive items for browsing by date.
  all_videos=list(combined.values())
- videos=sorted(all_videos,key=lambda v:v.get('published',''),reverse=True)[:360]
+ videos=sorted(all_videos,key=lambda v:v.get('published',''),reverse=True)[:700]
  write('videos.json',{'videos':videos,'mode':'youtube' if yt_stats['newVideos'] or archive_stats.get('new') else 'feeds'})
  result=schedule(shows)
  write('schedule.json',result)
