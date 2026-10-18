@@ -2,7 +2,7 @@
 (()=>{
 "use strict";
 const $ = id => document.getElementById(id);
-const state={data:null,loading:false,lastFetch:0,tab:"pakistan",chatOpen:false,room:"general",
+const state={data:null,loading:false,lastFetch:0,tab:"pakistan",newsLanguage:"en",chatOpen:false,room:"general",
   client:null,chatLoading:false,chatTimer:null,chatError:""};
 const rooms=new Set(["general","dramas","movies","comedy","politics","youtubers"]);
 const cfg=window.PAKTV_COMMUNITY_CONFIG||{};
@@ -43,7 +43,10 @@ function makeLayout(){
     <div class="brief-grid">
       <section class="brief-panel" aria-labelledby="briefNewsTitle">
         <div class="brief-topline"><h3 id="briefNewsTitle">Latest headlines</h3>
-          <span class="brief-source">Linked to original reporting</span></div>
+          <div class="brief-lang-options" role="group" aria-label="Headline language">
+            <button type="button" id="briefEnglish" aria-pressed="true">English</button>
+            <button type="button" id="briefUrdu" aria-pressed="false" lang="ur">اردو</button>
+          </div></div>
         <div class="brief-news-tabs" role="tablist" aria-label="News region">
           <button type="button" id="briefTabPakistan" role="tab" aria-selected="true" aria-controls="briefNewsList">Pakistan</button>
           <button type="button" id="briefTabWorld" role="tab" aria-selected="false" aria-controls="briefNewsList">Around the world</button>
@@ -62,10 +65,17 @@ function makeLayout(){
           <div id="briefMarkets" aria-live="polite"><div class="brief-empty">Checking market data…</div></div>
           <p class="brief-attribution"><a href="https://dps.psx.com.pk/indices" target="_blank" rel="noopener noreferrer">Pakistan Stock Exchange: official KSE-100 ↗</a><br>Other quotes: Yahoo Finance. Delayed data; not investment advice.</p>
         </section>
+        <section class="brief-panel brief-sports-panel" aria-labelledby="briefSportsTitle">
+          <div class="brief-topline"><h3 id="briefSportsTitle">🏏 Pakistan sports scores</h3><span class="brief-source">Cricket</span></div>
+          <div id="briefSports" aria-live="polite"><div class="brief-empty">Checking cricket scores…</div></div>
+          <p class="brief-attribution"><a href="https://www.espncricinfo.com/live-cricket-score" target="_blank" rel="noopener noreferrer">View current scores at ESPNcricinfo ↗</a><br>Third-party score snapshots; checked approximately every 3 hours, not ball-by-ball live.</p>
+        </section>
       </div>
     </div>`;
   $("briefTabPakistan").addEventListener("click",()=>switchTab("pakistan"));
   $("briefTabWorld").addEventListener("click",()=>switchTab("world"));
+  $("briefEnglish").addEventListener("click",()=>switchLanguage("en"));
+  $("briefUrdu").addEventListener("click",()=>switchLanguage("ur"));
   renderBriefing();
 }
 function switchTab(tab){
@@ -74,12 +84,22 @@ function switchTab(tab){
   $("briefTabWorld")?.setAttribute("aria-selected",String(tab==="world"));
   renderNews();
 }
+function switchLanguage(language){
+  if(!["en","ur"].includes(language))return;
+  state.newsLanguage=language;
+  try{sessionStorage.setItem("paktv_headline_lang",language);}catch{}
+  renderNews();
+}
 function renderNews(){
   const host=$("briefNewsList");if(!host)return;
   host.replaceChildren();
-  const news=state.data?.news?.[state.tab];
+  const ur=state.newsLanguage==="ur";
+  host.lang=ur?"ur":"en";host.dir=ur?"rtl":"ltr";
+  $("briefEnglish")?.setAttribute("aria-pressed",String(!ur));
+  $("briefUrdu")?.setAttribute("aria-pressed",String(ur));
+  const news=state.data?.[ur?"newsUrdu":"news"]?.[state.tab];
   if(!news || !isFresh(news.updatedAt,36) || !Array.isArray(news.items)||!news.items.length){
-    host.append(node("div","brief-empty","Headlines are temporarily unavailable. Please use the original news sources for current updates."));
+    host.append(node("div","brief-empty",ur?"اردو خبریں ابھی دستیاب نہیں۔ اصل خبروں کے لیے نیوز ویب سائٹ ملاحظہ کریں۔":"Headlines are temporarily unavailable. Please use the original news sources for current updates."));
     return;
   }
   const list=node("ul","brief-news-feed");
@@ -93,8 +113,8 @@ function renderNews(){
     li.append(meta);list.append(li);
   }
   if(list.children.length)host.append(list);
-  else host.append(node("div","brief-empty","No recent headlines available in this feed."));
-  setNote("briefNewsCredit","Source: Google News RSS · Last fetched "+shortDate(news.updatedAt)+". Open articles for full coverage.");
+  else host.append(node("div","brief-empty",ur?"اس فیڈ میں تازہ سرخیاں دستیاب نہیں۔":"No recent headlines available in this feed."));
+  setNote("briefNewsCredit",(ur?"اردو خبروں کا ذریعہ: Google News RSS · ":"Source: Google News RSS · Last fetched ")+shortDate(news.updatedAt)+(ur?" · مکمل خبر کے لیے عنوان کھولیں۔":". Open articles for full coverage."));
 }
 function renderWeather(){
   const host=$("briefWeather");if(!host)return;host.replaceChildren();
@@ -138,9 +158,35 @@ function renderMarkets(){
   }
   if(!host.children.length)host.append(node("div","brief-empty","Market data is stale or unavailable."));
 }
+function renderSports(){
+  const host=$("briefSports");if(!host)return;host.replaceChildren();
+  const data=state.data?.sports;
+  if(!data||!isFresh(data.updatedAt,8)||!Array.isArray(data.matches)||!data.matches.length){
+    host.append(node("div","brief-empty","No verified Pakistan match scores are available from the feed right now. Open the source for current results."));
+    return;
+  }
+  for(const match of data.matches.slice(0,5)){
+    const row=node("div","brief-score-match");
+    row.append(node("div","brief-score-series",match.series||"Pakistan cricket"));
+    row.append(node("div","brief-score-title",match.name||"Cricket match"));
+    if(Array.isArray(match.teams)){
+      const teams=node("div","brief-score-teams");
+      for(const team of match.teams.slice(0,2)){
+        const line=node("div","brief-score-team");
+        line.append(node("span","",team.name||"Team"),
+          node("strong","",team.score||"Score pending"));
+        teams.append(line);
+      }
+      if(teams.children.length)row.append(teams);
+    }
+    const meta=node("div","brief-score-meta",(match.status||"Fixture")+" · "+shortDate(match.startAt));
+    row.append(meta,textLink(match.url||data.url||"https://www.espncricinfo.com/live-cricket-score","Full scorecard ↗"));
+    host.append(row);
+  }
+}
 function renderBriefing(){
   if(!$("homeBriefing"))return;
-  renderNews();renderWeather();renderMarkets();
+  renderNews();renderWeather();renderMarkets();renderSports();
   setNote("briefUpdated",state.data?.generatedAt?
     "Checked "+shortDate(state.data.generatedAt):"Sources update automatically");
 }
@@ -161,6 +207,7 @@ function onPagePaint(){
   if(!$("homeBriefing"))return;
   makeLayout();void fetchBriefing();
 }
+try{const saved=sessionStorage.getItem("paktv_headline_lang");if(saved==="ur")state.newsLanguage="ur";}catch{}
 document.addEventListener("paktv:paint",onPagePaint);
 onPagePaint();
 })();
