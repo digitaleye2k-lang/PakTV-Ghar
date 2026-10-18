@@ -19,7 +19,7 @@ for path in ('community.js', 'site-visitors.js', 'community-config.js'):
 
 for expected in ('./gupshup.html', './community.html#contact',
                  './community.html#report', 'community-config.js',
-                 'paktv-green.css', '🇵🇰', "en:'Sports'"):
+                 'paktv-green.css', 'assets/pakistan-flag-art.svg', "en:'Sports'"):
     assert expected in index, 'Main-site community link or counter missing: '+expected
 
 for expected in ('Visitors','GUPSHUP','Contact us','Report','Be a moderator',
@@ -67,3 +67,5 @@ assert 'sessionStorage' in client and 'textContent' in client
 assert 'content-editable' not in page
 
 print('Community: external JavaScript parses; private forms, consent and RLS hooks present.')
+
+assert 'class="pakistan-flag"' not in index, 'Removed Pakistan header badge must stay removed'
