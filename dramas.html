@@ -16,7 +16,7 @@
 
 
   <link rel="stylesheet" href="./cinema.css">
-  <link rel="stylesheet" href="./drama-ambience.css?v=2">
+  <link rel="stylesheet" href="./drama-ambience.css?v=3">
   <link rel="stylesheet" href="./spotlight.css">
   <link rel="stylesheet" href="./movies.css">
   <link rel="stylesheet" href="./header-layout.css">
@@ -92,6 +92,7 @@
   <div class="player-backdrop" data-close="1"></div>
   <section class="player-panel" role="dialog" aria-modal="true" aria-labelledby="playerTitle">
     <div class="player-toolbar"><span class="eyebrow">NOW WATCHING <span class="live-dot">●</span> ORIGINAL YOUTUBE VIDEO</span><button type="button" class="close-player" id="closePlayer" aria-label="Close video player">✕ <span>Close</span></button></div>
+    <div class="drama-ambience" aria-hidden="true"><div class="drama-ambience-track"><span class="drama-ambience-kicker">NOW SHOWING</span><span class="drama-ambience-title" id="dramaGlowTitle">Pakistani Drama</span></div><div class="drama-ambience-track"><span class="drama-ambience-kicker">ON AIR FROM</span><span class="drama-ambience-channel" id="dramaGlowChannel">PakTV Ghar</span></div></div>
     <div class="video-box" id="videoBox"></div>
     <div class="player-details">
       <div><div class="player-source" id="playerSource"></div><h2 id="playerTitle"></h2><p id="playerSubtitle"></p></div>
@@ -105,7 +106,7 @@
 <!-- GitHub Pages: live listings are refreshed periodically by GitHub Actions; no Python web server is needed. -->
 <script src="./site-catalog.js"></script>
 <script src="./site-app.js"></script>
-<script src="./drama-ambience.js?v=2" defer></script>
+<script src="./drama-ambience.js?v=3" defer></script>
 
 
 <script src="./cookie-consent.js" defer></script>
