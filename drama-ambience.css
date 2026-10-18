@@ -1,0 +1,47 @@
+/* Ambient title projection around the TV drama viewing window. */
+body[data-main-page="dramas"] .player-overlay:not([hidden]){isolation:isolate}
+body[data-main-page="dramas"] .player-backdrop{
+ background:radial-gradient(ellipse at 16% 50%,#26494191,transparent 52%),radial-gradient(ellipse at 85% 60%,#47355a8a,transparent 55%),#050812ed;
+}
+body[data-main-page="dramas"] .drama-ambience{
+ position:absolute;inset:0;overflow:hidden;pointer-events:none;z-index:0;display:flex;
+ justify-content:space-between;align-items:center;gap:20px;
+ padding:5vw 2vw;color:#e1ffe5;opacity:.86;
+}
+body[data-main-page="dramas"] .drama-ambience-track{
+ position:relative;display:flex;flex-direction:column;gap:18px;width:26vw;max-width:370px;min-width:0;
+ animation:dramaTitleFloat 20s ease-in-out infinite alternate;
+ text-shadow:0 0 18px #93f3c7b9,0 0 44px #57aaa6a6,0 0 85px #789bd744;
+}
+body[data-main-page="dramas"] .drama-ambience-track:last-child{
+ text-align:right;align-items:flex-end;color:#e4dafa;
+ animation-name:dramaChannelFloat;animation-duration:24s;
+ text-shadow:0 0 18px #cfaefbbb,0 0 42px #a080d8a0,0 0 90px #745bab55;
+}
+body[data-main-page="dramas"] .drama-ambience-title{
+ font-weight:900;letter-spacing:.05em;line-height:1.2;overflow-wrap:anywhere;
+ font-size:clamp(16px,2.3vw,34px);text-transform:uppercase;
+}
+body[data-main-page="dramas"] .drama-ambience-channel{
+ font-weight:800;letter-spacing:.18em;font-size:clamp(11px,1.3vw,18px);
+ line-height:1.4;overflow-wrap:anywhere;text-transform:uppercase;
+}
+body[data-main-page="dramas"] .drama-ambience-kicker{
+ font-size:11px;font-weight:900;letter-spacing:.18em;color:#adcfc8;
+}
+body[data-main-page="dramas"] .player-panel{
+ z-index:1;border-color:#80baa278;
+ box-shadow:0 0 32px #65bc9d32,0 0 110px #997ac32e,0 30px 80px #000d;
+}
+@keyframes dramaTitleFloat{from{transform:translate(-8px,-28px);opacity:.55}to{transform:translate(13px,35px);opacity:.95}}
+@keyframes dramaChannelFloat{from{transform:translate(10px,35px);opacity:.55}to{transform:translate(-13px,-30px);opacity:.95}}
+@media(max-width:950px){
+ body[data-main-page="dramas"] .drama-ambience{justify-content:space-between;align-items:flex-start;padding:25px 12px}
+ body[data-main-page="dramas"] .drama-ambience-track{width:46%;gap:5px}
+ body[data-main-page="dramas"] .drama-ambience-title{font-size:clamp(12px,3vw,20px)}
+ body[data-main-page="dramas"] .drama-ambience-channel{font-size:clamp(10px,2vw,15px)}
+ body[data-main-page="dramas"] .player-panel{margin-top:58px}
+}
+@media(prefers-reduced-motion:reduce){
+ body[data-main-page="dramas"] .drama-ambience-track{animation:none!important}
+}
