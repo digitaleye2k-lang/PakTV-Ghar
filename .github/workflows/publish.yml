@@ -27,12 +27,13 @@ jobs:
         run: |
           node --check cookie-consent.js
           node tests/ad-consent.test.js
-          python3 -m py_compile refresh.py show_metadata.py youtube_index.py youtube_archive.py channel_sources.py briefing_fetch.py
+          python3 -m py_compile refresh.py show_metadata.py youtube_index.py youtube_archive.py movie_discovery.py channel_sources.py briefing_fetch.py
           node --check home-briefing.js
           python3 tests/check_briefing.py
           python3 tests/check_kids.py
           python3 tests/check_ratings.py
           python3 tests/check_section_banners.py
+          python3 tests/check_music.py
           python3 -m unittest discover -s tests -p 'test_youtube*.py' -v
           python3 tests/check_site_js.py
           python3 tests/check_community.py
