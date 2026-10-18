@@ -2,13 +2,13 @@
 (()=>{"use strict";
 const $=id=>document.getElementById(id);
 const board=$("gameBoard"),feedback=$("gameFeedback"),stars=$("gameStars");
-const gameNames={letters:"Letter Garden",numbers:"Count & Smile",colours:"Colour Pop",shapes:"Shape Safari",memory:"Animal Pairs",builder:"Rainbow Bricks"};
-const descriptions={letters:"Find the right alphabet letter.",numbers:"Count the little friends and choose a number.",colours:"Can you spot the colour?",shapes:"Find the matching shape.",memory:"Turn the cards to match the animals.",builder:"Paint a colourful brick picture. Make anything you imagine!"};
+const gameNames={letters:"Letter Garden",numbers:"Count & Smile",colours:"Colour Pop",shapes:"Shape Safari",memory:"Animal Pairs",builder:"Rainbow Bricks",cricket:"Cricket Champs"};
+const descriptions={letters:"Find the right alphabet letter.",numbers:"Count the little friends and choose a number.",colours:"Can you spot the colour?",shapes:"Find the matching shape.",memory:"Turn the cards to match the animals.",builder:"Paint a colourful brick picture. Make anything you imagine!",cricket:"Time your bat swing when the ball reaches the green zone. Six balls to score!"};
 const letterChoices=[["A","Apple","🍎"],["B","Ball","⚽"],["C","Cat","🐱"],["D","Drum","🥁"],["E","Elephant","🐘"],["F","Flower","🌼"],["G","Goat","🐐"],["H","Hat","🎩"],["I","Ice cream","🍨"],["J","Juice","🧃"],["K","Kite","🪁"],["L","Lion","🦁"],["M","Mango","🥭"],["N","Nest","🪺"],["O","Orange","🍊"],["P","Parrot","🦜"]];
 const colours=[["Red","#e7525c"],["Blue","#459ff0"],["Yellow","#ffcb54"],["Green","#4bb978"],["Purple","#9568db"],["Orange","#f58c48"],["Pink","#ef83a4"],["Brown","#9d684d"]];
 const shapes=[["Circle","●"],["Square","■"],["Triangle","▲"],["Star","★"],["Heart","♥"],["Diamond","◆"]];
 const animals=["🦁","🐼","🦋","🐸","🐯","🐰","🐙","🦄","🐨","🦊"];
-let current="letters",mode="little",score=0,round=0,generation=0,activeColour="#69bd91",memoryState=null;
+let current="letters",mode="little",score=0,round=0,generation=0,activeColour="#69bd91",memoryState=null,cricketTimer=null,cricketDelay=null;
 function elem(tag,cl,text){const el=document.createElement(tag);if(cl)el.className=cl;if(text!==undefined)el.textContent=String(text);return el;}
 const rand=max=>Math.floor(Math.random()*max);
 function pick(arr){return arr[rand(arr.length)];}
@@ -17,12 +17,14 @@ function distinctCorrect(correct,options,count){const rest=shuffle(options.filte
 function announce(text,type=""){feedback.textContent=text;feedback.className="feedback "+type;}
 function win(){score++;stars.textContent="⭐ "+score+" "+(score===1?"star":"stars");announce(pick(["Lovely work! 🌟","You did it! ✨","Fantastic! 🥳","Excellent! 🎉"]),"yay");}
 function reset(){
+ if(cricketTimer!==null){clearInterval(cricketTimer);cricketTimer=null;}
+ if(cricketDelay!==null){clearTimeout(cricketDelay);cricketDelay=null;}
  generation++;score=0;round=0;stars.textContent="⭐ 0 stars";mode=$("ageMode").value;
  board.replaceChildren();$("gameHeading").textContent=gameNames[current];
  $("gameDescription").textContent=descriptions[current];
  announce(current==="builder"?"Choose a colour, then tap a brick.":"Choose an answer to play.");
  for(const button of document.querySelectorAll("[data-game]"))button.setAttribute("aria-pressed",String(button.dataset.game===current));
- if(current==="memory")startMemory();else if(current==="builder")startBuilder();else nextQuestion();
+ if(current==="memory")startMemory();else if(current==="builder")startBuilder();else if(current==="cricket")startCricket();else nextQuestion();
 }
 function nextQuestion(){
  board.replaceChildren();round++;
@@ -141,8 +143,57 @@ function startBuilder(){
  }
  container.append(palette,grid);board.append(container);
 }
+
+function startCricket(){
+ board.replaceChildren();
+ const area=elem("div","cricket-challenge"),scoreboard=elem("div","cricket-scoreboard","Runs: 0 · Balls: 0 / 6");
+ const title=elem("div","question","🏏 Cricket Champs!"),instructions=elem("p","cricket-instructions","Swing when the ball reaches the green middle zone.");
+ const meter=elem("div","cricket-meter"),zone=elem("div","cricket-zone"),ball=elem("div","cricket-ball");
+ ball.setAttribute("aria-hidden","true");meter.append(zone,ball);
+ const swing=elem("button","cricket-swing","🏏 SWING!");swing.type="button";
+ const hint=elem("p","cricket-hint","Watch the ball move from left to right!");
+ area.append(scoreboard,title,instructions,meter,swing,hint);board.append(area);
+ let runs=0,balls=0,tick=0,bowling=false;
+ const myGen=generation;
+ function update(){scoreboard.textContent="Runs: "+runs+" · Balls: "+balls+" / 6";stars.textContent="🏏 "+runs+" runs";}
+ function finishBall(points,message){
+   if(!bowling||myGen!==generation)return;
+   bowling=false;clearInterval(cricketTimer);cricketTimer=null;
+   balls++;runs+=points;update();
+   announce(message,points>0?"yay":"try");swing.disabled=true;
+   if(balls===6){
+     hint.textContent="Innings over! You scored "+runs+" runs. Great batting! ✨";
+     swing.textContent="🏏 Play again";swing.disabled=false;swing.onclick=()=>reset();return;
+   }
+   cricketDelay=setTimeout(()=>{if(myGen===generation)bowl();},900);
+ }
+ function bowl(){
+   if(myGen!==generation)return;
+   tick=0;bowling=true;swing.disabled=false;ball.style.left="0%";
+   hint.textContent="Ball "+(balls+1)+" of 6 — swing near the middle!";
+   cricketTimer=setInterval(()=>{
+     if(myGen!==generation){clearInterval(cricketTimer);cricketTimer=null;return;}
+     tick+=mode==="little"?2.7:3.7;
+     ball.style.left=Math.min(tick,100)+"%";
+     if(tick>=100)finishBall(0,"Dot ball! Try the next one.");
+   },85);
+ }
+ swing.addEventListener("click",()=>{
+   if(!bowling||myGen!==generation)return;
+   const distance=Math.abs(tick-50);
+   const points=distance<=7?6:distance<=16?4:distance<=27?2:distance<=38?1:0;
+   const message=points===6?"SIX! What a shot! 🥳":points===4?
+     "FOUR! Over the boundary! 🎉":points===2?"Two runs! 👏":
+     points===1?"Nice single! 🏏":"You missed — next ball!";
+   finishBall(points,message);
+ });
+ bowl();
+}
+
 for(const button of document.querySelectorAll("[data-game]"))button.addEventListener("click",()=>{current=button.dataset.game;reset();});
 $("restartGame").addEventListener("click",reset);
 $("ageMode").addEventListener("change",reset);
+const requestedGame=new URLSearchParams(location.search).get("game");
+if(Object.hasOwn(gameNames,requestedGame))current=requestedGame;
 reset();
 })();
