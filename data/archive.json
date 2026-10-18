@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T19:59:12.943010+00:00",
+  "generatedAt": "2026-10-18T19:59:52.523434+00:00",
   "dateTimezone": "UTC",
-  "cursor": 7,
+  "cursor": 18,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -259,7 +259,7 @@
       "uploadsId": "UUiWrjBhlICf_L_RK5y6Vrxw",
       "handle": "PakistanCricket",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T19:47:58.539938+00:00"
+      "lastFetchedAt": "2026-10-18T19:59:52.523434+00:00"
     },
     "psl": {
       "youtubeId": "UCpNzXJ5jpcJojC5mHQvGA8w",
@@ -301,49 +301,49 @@
       "uploadsId": "UUZMKZS3L9GfhcFkMyBRoVFg",
       "handle": "kidslandofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T19:47:58.539938+00:00"
+      "lastFetchedAt": "2026-10-18T19:59:52.523434+00:00"
     },
     "kidsmadani": {
       "youtubeId": "UCsNSt0fxMniSH9XHaNneZfw",
       "uploadsId": "UUsNSt0fxMniSH9XHaNneZfw",
       "handle": "kidsmadanichannel",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T19:47:58.539938+00:00"
+      "lastFetchedAt": "2026-10-18T19:59:52.523434+00:00"
     },
     "salamkids": {
       "youtubeId": "UC_4moTH4Pmatx5ogzCLxUtA",
       "uploadsId": "UU_4moTH4Pmatx5ogzCLxUtA",
       "handle": "salamkidstvofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T19:47:58.539938+00:00"
+      "lastFetchedAt": "2026-10-18T19:59:52.523434+00:00"
     },
     "urdukidsstudio": {
       "youtubeId": "UCxqHh4UJsNqiwk_aaMI9HBg",
       "uploadsId": "UUxqHh4UJsNqiwk_aaMI9HBg",
       "handle": "urdukidsstudio",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T19:47:58.539938+00:00"
+      "lastFetchedAt": "2026-10-18T19:59:52.523434+00:00"
     },
     "shirazi": {
       "youtubeId": "UC8YddK8DXYyry_LWY4NksgA",
       "uploadsId": "UU8YddK8DXYyry_LWY4NksgA",
       "handle": "shirazi786",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T19:47:58.539938+00:00"
+      "lastFetchedAt": "2026-10-18T19:59:52.523434+00:00"
     },
     "haimparishay": {
       "youtubeId": "UC6jgnXHUJ4eDjrvHJNtAUYg",
       "uploadsId": "UU6jgnXHUJ4eDjrvHJNtAUYg",
       "handle": "HaimParishayKhan",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T19:47:58.539938+00:00"
+      "lastFetchedAt": "2026-10-18T19:59:52.523434+00:00"
     },
     "waggleworkshop": {
       "youtubeId": "UCDf7-AujhJJkMF1Cg5iT-Pw",
       "uploadsId": "UUDf7-AujhJJkMF1Cg5iT-Pw",
       "handle": "TheWaggleWorkshop",
       "checkedAt": "2026-10-18T16:55:18.549048+00:00",
-      "lastFetchedAt": "2026-10-18T19:47:58.539938+00:00"
+      "lastFetchedAt": "2026-10-18T19:59:52.523434+00:00"
     },
     "lollywoodcinema": {
       "youtubeId": "UCMlGWm_woMhMcVYhJu8zsvA",
@@ -405,7 +405,7 @@
       "uploadsId": "UU3FnOdo2ooBS4TrEcmwUR_Q",
       "handle": "AtifAslamOfficial",
       "checkedAt": "2026-10-18T19:47:58.539938+00:00",
-      "lastFetchedAt": "2026-10-18T19:47:58.539938+00:00"
+      "lastFetchedAt": "2026-10-18T19:59:52.523434+00:00"
     }
   },
   "videos": [
@@ -79610,6 +79610,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "EMI Pakistan: HTTP 404: playlistNotFound; HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable; NESCAFÉ Basement: channel unavailable; Sajjad Ali: channel unavailable",
+  "lastError": "EMI Pakistan: HTTP 404: playlistNotFound; Mekaal Hasan Band: channel unavailable; Rahat Fateh Ali Khan: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }

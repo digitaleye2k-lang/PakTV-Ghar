@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-10-18T19:59:24.076329Z",
+  "generatedAt": "2026-10-18T20:00:08.503308Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-18T19:59:24.076329Z",
+      "updatedAt": "2026-10-18T20:00:08.503308Z",
       "source": "Google News RSS",
       "items": [
+        {
+          "title": "Salman Ali Agha-inspired Pakistan kick tri-series off with win over Sri Lanka - The Cricketer",
+          "source": "The Cricketer",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQem5kS2phc181X0tZZ0ROOHk3UWRhWXg4TDV2TTV5MjZiX2ZNNkRYcG45WUVTR2Yxb3NOZDFjaUFidGtWRWVFaDhCWUtqd1VSV0dJSnAwbjVKZzYxaGtWc3NYQlhzSjVKMnhLRng0M2VWOF94T2VFUkJVSUlWOE51dDJldExNOUI4Q0ptazg1THNDd2t6ZkNMZXV6TEk3SVRuUXc1U2ZKUWJmVGJsazZudmw4SWRxaVQwclA5RGFGc1YyWkFtY3c2Ti15MFpESHVNYWVyQlB6aDQyc3ZxcVlVTk13TGx2UTdPcF9PeTNIdWJLZkdDeDlxb2d2SEtZZTRJdGpudzVyVHR0NEFzRHc?oc=5",
+          "published": "2026-10-18T19:51:42Z"
+        },
         {
           "title": "Russia's Pakistan signal? - The Express Tribune",
           "source": "The Express Tribune",
@@ -52,17 +58,11 @@
           "source": "UA.NEWS",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeTVZXzN3NVBXZmFLMjUzU3FIMDhkYlRWNElXd2VVS3dTcTVRdWxBM2hibkRkeUZxRUdNU0FSTTNMc0J6QVNZSjFxRUM0T29GSjdZb2FNMU5IenVMSDFuWVk1LTdpV25JSzZqUkMwaUsxT3ZVbTVRNFc3ZjZtelo4ang5bFdyOE1qNExaYkNfcFNaS09Ec3MtcjVxUDNQZ2tjajN6RENzRHRfSFlOSXNjZFRyT2U?oc=5",
           "published": "2026-10-18T18:19:35Z"
-        },
-        {
-          "title": "Pakistan’s first astronaut to embark on space journey next month: minister - The News Pakistan",
-          "source": "The News Pakistan",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQkw5Z3NxUnNSSnhlT2UwbG9rc1hydWlvSTJnQnlUckZ4dXBnV1A5a1I1OHd1enRHaFZFMGhoSVJvZ1JGSmZ1NkFJT2FCZGRxR2RWMVRNdWNteTZWTzRrYUdGeGdmejRUZTYybVU1ekhQR2VFc3RnVW41d1BvZmRnQU9veHhIcDBSRzFFeVJmdUt0bXpISkRIcmZDUHhLSHVSaV9KZ21JU1JBQQ?oc=5",
-          "published": "2026-10-18T18:17:06Z"
         }
       ]
     },
     "world": {
-      "updatedAt": "2026-10-18T19:59:24.076329Z",
+      "updatedAt": "2026-10-18T20:00:08.503308Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -124,7 +124,7 @@
   },
   "newsUrdu": {
     "pakistan": {
-      "updatedAt": "2026-10-18T19:59:24.076329Z",
+      "updatedAt": "2026-10-18T20:00:08.503308Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -136,8 +136,8 @@
         {
           "title": "Pakistan Responds to Afghan Taliban Firing in Upper Kurram, Border Alert Maintained - Aaj News",
           "source": "Aaj News",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWbzJtSWpvcm5zSDRVSE9tR05VMG5mT1NJSjlCUjFBSnRGbmVSdDAxYWw0Nm9rRGpqNU1FNHIxelF3STFRckJZVw?oc=5",
-          "published": "2026-10-18T18:18:21Z"
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zSnF3N21uaE1TYjJ1RjVhMW1qbkdXbEowUFJ3WEFMMGlDS0Z4aTBRUGdSeWZkUUJwdEwxSUIyZUNIR2laSDZidTZFQzQ?oc=5",
+          "published": "2026-10-18T18:10:07Z"
         },
         {
           "title": "Pakistan to Hire Global Experts to Recover K2 Airways Black Box From Deep Sea - Aaj News",
@@ -186,46 +186,46 @@
     "world": {}
   },
   "weather": {
-    "updatedAt": "2026-10-18T19:59:24.076329Z",
+    "updatedAt": "2026-10-18T20:00:08.503308Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
       {
         "city": "Karachi",
         "temperatureC": 26,
-        "humidity": 85,
-        "windMs": 2.7,
+        "humidity": 87,
+        "windMs": 3.3,
         "symbol": "clearsky_night",
-        "forecastTime": "2026-10-18T20:00:00Z"
+        "forecastTime": "2026-10-18T21:00:00Z"
       },
       {
         "city": "Lahore",
         "temperatureC": 21,
-        "humidity": 79,
-        "windMs": 1.7,
+        "humidity": 80,
+        "windMs": 1.8,
         "symbol": "clearsky_night",
-        "forecastTime": "2026-10-18T20:00:00Z"
+        "forecastTime": "2026-10-18T21:00:00Z"
       },
       {
         "city": "Islamabad",
-        "temperatureC": 21,
-        "humidity": 50,
-        "windMs": 1.9,
+        "temperatureC": 20,
+        "humidity": 52,
+        "windMs": 2.0,
         "symbol": "clearsky_night",
-        "forecastTime": "2026-10-18T20:00:00Z"
+        "forecastTime": "2026-10-18T21:00:00Z"
       },
       {
         "city": "Peshawar",
         "temperatureC": 19,
-        "humidity": 74,
-        "windMs": 1.6,
+        "humidity": 76,
+        "windMs": 1.9,
         "symbol": "clearsky_night",
-        "forecastTime": "2026-10-18T20:00:00Z"
+        "forecastTime": "2026-10-18T21:00:00Z"
       }
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-18T19:59:24.076329Z",
+    "updatedAt": "2026-10-18T20:00:08.503308Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
@@ -251,7 +251,7 @@
     ]
   },
   "sports": {
-    "updatedAt": "2026-10-18T19:59:25.265308Z",
+    "updatedAt": "2026-10-18T20:00:09.714755Z",
     "source": "ESPN cricket snapshot",
     "url": "https://www.espncricinfo.com/live-cricket-score",
     "matches": []
