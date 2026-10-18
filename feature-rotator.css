@@ -12,3 +12,5 @@
 .kids-hero-images [data-feature-image]{object-fit:cover;object-position:center}
 .kids-hero-images img[data-feature-image]:first-child{object-fit:contain;background:radial-gradient(circle,#fbe5b5 0%,#e9f1d1 57%,#3b9878 100%);padding:13px}
 @media(prefers-reduced-motion:reduce){[data-feature-rotator] [data-feature-image]{transition:none}}
+
+@media(max-width:490px){.kids-hero-images{display:block!important;height:215px!important;min-height:215px!important}.kids-hero-images [data-feature-image]{height:100%}.feature-image-controls button{height:27px;min-width:27px}}
