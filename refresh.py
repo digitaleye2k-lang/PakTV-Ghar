@@ -259,9 +259,9 @@ def schedule(shows):
   'note':'Schedule entries are TV slots, not proof episodes were uploaded. Times and reruns can change.'}
 
 def main():
- html=(HERE/'index.html').read_text(encoding='utf8')
- match=re.search(r'window\.PAKTV_CATALOG\s*=\s*(\[.*?\]);',html,re.S)
- if not match:raise RuntimeError('Missing embedded catalogue')
+ catalog=(HERE/'site-catalog.js').read_text(encoding='utf8')
+ match=re.search(r'window\.PAKTV_CATALOG\s*=\s*(\[.*?\]);',catalog,re.S)
+ if not match:raise RuntimeError('Missing site-catalog.js programme data')
  shows=json.loads(match.group(1))
  with ThreadPoolExecutor(max_workers=8) as pool:groups=list(pool.map(feed,SOURCES.items()))
  latest=[v for group in groups for v in group]
