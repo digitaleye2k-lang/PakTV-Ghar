@@ -1,0 +1,36 @@
+/* PakTV Ghar · shared GUPSHUP-inspired forest green & chai palette */
+:root{--bg:#0d1920;--panel:#162b32;--panel2:#1d383b;--border:#35594f;--text:#f5fbf6;--sub:#b7cfc7;--orange:#ffcb88;--orange2:#e9a75f;--mint:#64d9ac;--surface:#152c31;--accent:#69dab2;--accent-2:#ffca89}
+html{background:#0c171e}body{background:radial-gradient(ellipse at 82% 6%,#1a443c 0%,transparent 32%),linear-gradient(145deg,#0e2026,#0c171e 73%);color:var(--text)}
+.sidebar{background:linear-gradient(180deg,#10282b,#0b191e);border-right-color:#31584e}
+.brand-icon{background:linear-gradient(130deg,#2ca57b,#155b4c);color:#ecfff6;box-shadow:0 10px 22px #0e553b55;border:1px solid #65cca1}
+.brand strong em,.mobile-brand strong em{color:#70e0ad}
+.sidebar-label{color:#81aa9e}
+.nav-item{color:#c0d8cf}.nav-item:hover,.nav-item.active{background:#214b40;color:#fff}.nav-item.active{border-color:#3a916e}
+.side-tip{background:linear-gradient(145deg,#244c3e,#163130);border-color:#356956}.side-tip p{color:#c4d7ce}
+.topbar{background:#0e2324f5;border-bottom-color:#2d584c}.search-shell{background:#193b38;border-color:#386a5b}.search-shell:focus-within{border-color:#71d8af;box-shadow:0 0 0 3px #71d8af22}.search-shell input::placeholder{color:#b0c9c0}
+.search-shortcut{color:#bdd5cb;border-color:#45776b}.top-favs,.header-action,.header-language{background:#21453e;border-color:#35675b;color:#f8fff8}
+.pakistan-flag{display:inline-flex;align-items:center;gap:8px;white-space:nowrap;color:#e5f9e8;font-size:12px;font-weight:800;background:#173d34;padding:8px 13px;border:1px solid #4a966f;border-radius:999px;box-shadow:0 5px 14px #0004}
+.pakistan-flag .flag{font-size:23px;line-height:1}.pakistan-flag .flag-text{font-size:11px;letter-spacing:.02em}
+.hero{background:linear-gradient(104deg,#173b35,#234a43 60%,#183e36);border-color:#438065}.hero:before{opacity:.4}.hero:after{background:linear-gradient(90deg,#10372e 0%,#1d4639e8 40%,transparent 82%),linear-gradient(0deg,#0e2922bb,transparent 43%)}
+.hero h1 span{color:#ffd291}.eyebrow,.welcome,.badge,.text-link{color:#f6bf78}.hero p{color:#e3f2e7}
+.btn-primary,.primary-action{background:linear-gradient(120deg,#3cbe8f,#21795c)!important;color:#fff!important;border-color:#4dbc8f!important}
+.btn-primary:hover,.primary-action:hover{filter:brightness(1.12)}
+.btn-secondary,.small-button,.chip,.quick-tile,.video-card,.channel-card,.series-card{border-color:#355f52}
+.quick-tile,.video-card,.channel-card,.series-card{background:#173530}
+.quick-tile:hover,.video-card:hover,.channel-card:hover,.series-card:hover{border-color:#60b18a;background:#1b4439}
+.section-head h2,.page-title h1{color:#f8fff9}
+.section-head .subtitle,.section-text,.page-title p{color:#bacfc6}
+.cinema-row{border-color:#325e51}.cinema-row .eyebrow{color:#ffcb88}
+.notice-box{background:#1a3c33;border-color:#438166;color:#ebf8f0}
+.legal-footer{background:linear-gradient(135deg,#112823,#16332f);border-color:#3c6d58}
+.legal-footer a{color:#ffd194}
+.home-briefing .brief-panel{background:linear-gradient(150deg,#193d36,#122c2c);border-color:#386c56}
+.home-briefing .brief-news-tabs button{background:#183b34;border-color:#48846b;color:#d4f1e0}
+.home-briefing .brief-news-tabs button[aria-selected=true]{background:#4ec494;border-color:#4ec494;color:#09251b}
+.home-briefing .brief-weather-city,.home-briefing .brief-empty{background:#132f2d;border-color:#3a6e58}
+.home-briefing .brief-market-row,.home-briefing .brief-news-item{border-color:#3c6659}
+.home-briefing .brief-news-item a{color:#f5fff7}
+.home-briefing .brief-news-item a:hover{color:#ffd394}
+.home-briefing .brief-kicker{color:#8be1b6}
+.home-briefing .brief-freshness{background:#1d463c;border-color:#4c8969;color:#e5f6e9}
+@media(max-width:680px){.pakistan-flag{padding:6px 8px}.pakistan-flag .flag{font-size:20px}.pakistan-flag .flag-text{display:none}}
