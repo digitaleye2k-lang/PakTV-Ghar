@@ -10,12 +10,13 @@
  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Noto+Sans+Arabic:wght@400;600;700&display=swap" rel="stylesheet">
  <link rel="stylesheet" href="./kids.css">
+ <link rel="stylesheet" href="./feature-rotator.css">
 </head>
 <body>
  <a class="skip-link" href="#kidsContent">Skip to kids videos</a>
  <header class="site-header">
   <a href="./#home" class="brand"><span class="brand-icon">▶</span><span>PakTV <em>Ghar</em><small>پاک ٹی وی گھر</small></span></a>
-  <nav aria-label="Main site"><a href="./#home">Home</a><a href="./#dramas">Dramas</a><a href="./#sports">Sports</a><a href="https://retroworld.eu.cc/" target="_blank" rel="noopener noreferrer">🎮 Games</a><a class="active" href="./kids.html" aria-current="page">🌈 Kids</a><a href="./gupshup.html">GUPSHUP</a></nav>
+  <nav aria-label="Main site"><a href="./#home">Home</a><a href="./#dramas">Dramas</a><a href="./#sports">Sports</a><a href="./music.html">🎵 Music</a><a href="https://retroworld.eu.cc/" target="_blank" rel="noopener noreferrer">🎮 Games</a><a class="active" href="./kids.html" aria-current="page">🌈 Kids</a><a href="./gupshup.html">GUPSHUP</a></nav>
   <a class="back" href="./#home">← Back to TV</a>
  </header>
  <main id="kidsContent">
@@ -27,7 +28,18 @@
     <div class="hero-pills"><span>📺 Pakistani kids channels</span><span>🎨 Cartoons & songs</span><span>🧑‍🧑‍🧒 Parent-guided</span></div>
     <a href="#browse" class="hero-btn">Explore kids videos ↓</a>
    </div>
-   <div class="hero-art" aria-hidden="true"><div class="hero-sun">☀️</div><div class="hero-rainbow">🌈</div><div class="hero-kite">🪁</div><div class="hero-book">📚</div><div class="hero-balloons">🎈</div><div class="hero-cloud">☁️</div></div>
+   <div class="hero-art kids-hero-images" data-feature-rotator aria-label="Rotating Kids Corner learning video pictures">
+     <img data-feature-image class="is-active" src="./assets/waggle-workshop-logo.svg" alt="Professor Pip and the Waggle Workshop" loading="eager">
+     <img data-feature-image src="https://i.ytimg.com/vi/Nth08aCKl4g/hqdefault.jpg" data-fallback="./assets/waggle-workshop-logo.svg" alt="Pakistani animated story for children" loading="lazy">
+     <img data-feature-image src="https://i.ytimg.com/vi/sckvX1MGIUk/hqdefault.jpg" data-fallback="./assets/waggle-workshop-logo.svg" alt="Urdu nursery rhymes from a kids channel" loading="lazy">
+     <div class="feature-image-controls" role="group" aria-label="Choose kids banner picture">
+       <button type="button" data-feature-go="previous" aria-label="Previous picture">‹</button>
+       <button type="button" data-feature-go="0" aria-label="Picture 1" aria-pressed="true">1</button>
+       <button type="button" data-feature-go="1" aria-label="Picture 2" aria-pressed="false">2</button>
+       <button type="button" data-feature-go="2" aria-label="Picture 3" aria-pressed="false">3</button>
+       <button type="button" data-feature-go="next" aria-label="Next picture">›</button>
+     </div>
+   </div>
   </section>
   <aside class="parent-note"><span aria-hidden="true">🛡️</span><div><strong>A note for parents and guardians</strong><p>This is a curated directory, not a child-only social network. We do not offer kids chat, profiles or comments. Please preview videos, supervise younger viewers and use <a href="https://kids.youtube.com/" target="_blank" rel="noopener noreferrer">YouTube Kids' parental controls</a> where appropriate. Videos and recommendations on YouTube are controlled by YouTube and their publishers.</p></div></aside>
   <section class="waggle-collab" aria-labelledby="waggleHeading">
@@ -83,4 +95,5 @@
  </div>
  <footer><div><strong>PakTV <em>Ghar</em> Kids</strong><small>Curated with families in mind.</small></div><div><a href="./#home">Home</a><a href="./gupshup.html">GUPSHUP</a><a href="./privacy.html">Privacy</a><a href="./disclaimer.html">Disclaimer</a><a href="https://retroworld.eu.cc/" target="_blank" rel="noopener noreferrer">RetroWorld ↗</a></div></footer>
  <script src="./kids.js" defer></script>
+ <script src="./feature-rotator.js" defer></script>
 </body></html>

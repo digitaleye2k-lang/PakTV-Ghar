@@ -13,6 +13,16 @@ import json, re, xml.etree.ElementTree as ET, os
 HERE=Path(__file__).resolve().parent
 (HERE/'data').mkdir(exist_ok=True)
 SOURCES={
+'cokestudio':('Coke Studio Pakistan','cokestudio','music'),
+'nescafebasement':('NESCAFÉ Basement','nescafebasement','music'),
+'emipakistan':('EMI Pakistan','EMIPakistanOfficial','music'),
+'talhaanjum':('Talha Anjum','talhaanjum','music'),
+'youngstunners':('Young Stunners','YoungStunners','music'),
+'sajjadali':('Sajjad Ali','sajjadali','music'),
+'jaubi':('Jaubi','Jaubi','music'),
+'mekaalhasan':('Mekaal Hasan Band','MekaalHasanBand','music'),
+'rahatfateh':('Rahat Fateh Ali Khan','RahatFatehAliKhan','music'),
+'atifs':('Atif Aslam','AtifAslamOfficial','music'),
 'lollywoodcinema':('LollywoodCinema','LollywoodCinema','movies'),
 'lollywoodclassics':('Lollywood Classics','lollywoodclassics','movies'),
 'movieboxmovies':('MovieboxMovies','movieboxmovies','movies'),
@@ -320,7 +330,16 @@ def main():
  archive,archive_stats=update_archive(
      os.environ.get('YOUTUBE_API_KEY','').strip(),
      readold('archive.json',{}))
+ # One validated full-film discovery query each refresh. Keep the cache
+ # on disk; do not expose the search link or promote unrelated uploads.
+ from movie_discovery import discover_movies
+ archive, movie_state, movie_stats = discover_movies(
+     os.environ.get('YOUTUBE_API_KEY','').strip(),archive,
+     readold('movie-discovery-state.json',{}))
+ write('movie-discovery-state.json',movie_state)
  write('archive.json',archive)
+ print('Film discovery:',movie_stats['checked'],'publisher candidates,',
+       movie_stats['added'],'new verified full films')
  print('Archive:',archive_stats['checked'],'channels refreshed,',
        archive_stats.get('new',0),'verified upload entries,',
        len(archive.get('videos',[])),'stored,',

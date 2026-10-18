@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="Illustrated vinyl record and DJ turntable">
+<defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#155a45"/><stop offset=".5" stop-color="#292c52"/><stop offset="1" stop-color="#125248"/></linearGradient>
+<radialGradient id="disc"><stop stop-color="#114239"/><stop offset=".6" stop-color="#061c25"/><stop offset=".83" stop-color="#214b47"/><stop offset="1" stop-color="#071722"/></radialGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="28"/></filter></defs>
+<rect width="900" height="520" fill="url(#g)"/>
+<circle cx="710" cy="228" r="230" fill="#80dc9e" opacity=".08" filter="url(#glow)"/>
+<circle cx="710" cy="245" r="197" fill="url(#disc)" stroke="#9fd9a8" stroke-opacity=".35" stroke-width="6"/>
+<g fill="none" stroke="#c1e9ae" opacity=".3" stroke-width="2">
+<circle cx="710" cy="245" r="170"/><circle cx="710" cy="245" r="154"/><circle cx="710" cy="245" r="138"/><circle cx="710" cy="245" r="121"/><circle cx="710" cy="245" r="110"/>
+</g>
+<circle cx="710" cy="245" r="65" fill="#ffcf89"/><circle cx="710" cy="245" r="48" fill="#44956d"/><circle cx="710" cy="245" r="7" fill="#123228"/>
+<path d="M475 87 C540 190 550 225 574 281" fill="none" stroke="#ffd69c" stroke-width="12" stroke-linecap="round"/><circle cx="574" cy="281" r="13" fill="#ffe7c2"/>
+<path d="M70 350 V280 M104 350 V220 M138 350 V262 M172 350 V188 M206 350 V238 M240 350 V149 M274 350 V220 M308 350 V278" stroke="#ffd398" stroke-width="14" stroke-linecap="round" opacity=".7"/>
+<g fill="#f3dab5"><circle cx="85" cy="96" r="4"/><circle cx="380" cy="90" r="3"/><circle cx="450" cy="395" r="5"/><circle cx="380" cy="330" r="2"/></g>
+<text x="68" y="125" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#fbe6bd">DESI DJ LOUNGE</text>
+<text x="70" y="168" font-family="Arial, sans-serif" font-size="22" fill="#b1eac5">PAKISTANI SOUNDS</text>
+<text x="70" y="445" font-family="Arial, sans-serif" font-size="17" fill="#e3f5e6">CLASSICS • QAWALI • POP • JAZZ • RAP</text>
+</svg>

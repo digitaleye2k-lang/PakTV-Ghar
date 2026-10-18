@@ -139,3 +139,23 @@ html{background:#0c171e}body{background:radial-gradient(ellipse at 82% 6%,#1a443
 @media(max-width:750px){.section-promo-banner{min-height:320px;margin:17px 0 22px}.section-banner-copy{width:92%;padding:22px;padding-bottom:72px}.section-banner-copy h2{font-size:clamp(25px,5vw,38px)}.section-banner-shade{background:linear-gradient(90deg,#0c2a25e8,#144a3d8c 80%),linear-gradient(0deg,#091f22af,transparent)}.section-banner-controls{right:10px;bottom:10px}}
 @media(max-width:420px){.section-banner-kicker{font-size:9px}.section-banner-copy h2{font-size:24px}.section-banner-copy p{font-size:12px;line-height:1.45}.section-promo-banner{min-height:325px}.section-banner-controls button{min-width:25px;height:26px}.section-banner-controls{gap:4px}}
 @media(prefers-reduced-motion:reduce){.section-banner-slide{transition:none}}
+
+/* Unified green treatment for the cross-site homepage Spotlight. */
+.spotlight-section .spotlight-topline{color:#d6f4e0}
+.spotlight-section .spotlight-channel-count{color:#b6e7cc;letter-spacing:.06em}
+.spotlight-slide .spotlight-shade{background:linear-gradient(90deg,#0b2523f6 0%,#102d29ed 24%,#143931b9 45%,#174e3c41 76%,#0c2f301b 100%),linear-gradient(0deg,#0c2c2cda,transparent 43%)}
+.spotlight-slide .spotlight-kicker{color:#9cf0bb}
+.spotlight-slide .spotlight-kicker span{background:#1d755a4d;border:1px solid #82ca987d;color:#ddf8e5}
+.spotlight-slide .spotlight-meta span:first-child{background:#2c6d5580;border-color:#74b58e;color:#ffecbd}
+.spotlight-section .spotlight-buttons a.btn-primary,.spotlight-section .spotlight-buttons a.btn-secondary{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:0 18px;border-radius:9px;text-decoration:none;font-weight:850;font-size:13px}
+.spotlight-section .spotlight-buttons .btn-primary{background:#ffdb9e;color:#243d32;box-shadow:0 9px 30px #041c1354}
+.spotlight-section .spotlight-buttons .btn-secondary{background:#194a3ddc;border:1px solid #84b594;color:#f3fff7}
+.spotlight-logo-slide .spotlight-feature-art{object-fit:contain;background:#f6efdf;padding:clamp(16px,3vw,45px);object-position:center;filter:drop-shadow(0 12px 29px #072c2488)}
+.spotlight-logo-slide .spotlight-backdrop{filter:blur(35px) saturate(.8) brightness(.52);transform:scale(1.16)}
+.spotlight-mini-track .spotlight-mini{background:#173f38;border:1px solid #54886c;color:#d5eadd}
+.spotlight-mini-track .spotlight-mini:hover{background:#255c46;border-color:#8ac4a3}
+.spotlight-mini-track .spotlight-mini.is-active{background:linear-gradient(110deg,#28694e,#174538);border-color:#b5c887;box-shadow:0 0 15px #67ba8b40}
+.spotlight-section .spotlight-counter strong{color:#ffdfa0}
+.spotlight-section .spotlight-dot.is-active{background:#ffda96}
+.section-banner-action[href]{text-decoration:none;display:inline-flex;align-items:center;justify-content:center;min-height:44px}
+@media(max-width:720px){.spotlight-section .spotlight-buttons a.btn-primary,.spotlight-section .spotlight-buttons a.btn-secondary{padding:10px 13px;min-height:42px;font-size:11px}.spotlight-logo-slide .spotlight-feature-art{padding:13px}.spotlight-section .spotlight-topline{gap:8px;flex-wrap:wrap}}

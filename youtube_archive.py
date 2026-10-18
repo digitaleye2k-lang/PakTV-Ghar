@@ -19,6 +19,7 @@ PER_CHANNEL_LIMIT = 220
 ARCHIVE_RETENTION_DAYS = 365
 MAX_ARCHIVE_VIDEOS = 4400
 MOVIE_ARCHIVE_RETENTION_DAYS = 3650
+MUSIC_ARCHIVE_RETENTION_DAYS = 9000  # Keep older ghazals, folk, qawwali and classic tracks
 # Publisher-uploaded full films / feature-length telefilms, not teasers or
 # arbitrary third-party copies. A label alone does not prove worldwide rights.
 MOVIE_TITLE = re.compile(r'\b(?:full\s+(?:pakistani\s+)?(?:movie|film)|(?:movie|film)\s+full|complete\s+(?:movie|film)|tele[ -]?film)\b', re.I)
@@ -86,6 +87,11 @@ def normalise_video(resource, channel):
             r'\bshorts?\b|#short|grand theft auto|gta\s*6|playstation vs xbox|omaha beach',
             title, re.I)):
         return None
+    # Music must be a substantial artist performance, not previews or Shorts.
+    if channel['category'] == 'music' and (seconds < 120 or re.search(
+            r'\b(?:shorts?|teaser|trailer|promo|reaction|podcast|interview|behind the scenes|bts)\b|#short',
+            title, re.I)):
+        return None
     # Exclude Shorts and tiny promo clips; normal comedy/news reports can be
     # shorter than a full drama episode so don't apply a blanket 10m cutoff.
     if seconds < 95:
@@ -117,11 +123,15 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
     entries = {}
     earliest = (now - timedelta(days=ARCHIVE_RETENTION_DAYS)).date().isoformat()
     movie_earliest = (now - timedelta(days=MOVIE_ARCHIVE_RETENTION_DAYS)).date().isoformat()
+    music_earliest = (now - timedelta(days=MUSIC_ARCHIVE_RETENTION_DAYS)).date().isoformat()
     for v in previous.get('videos', []):
-        threshold = movie_earliest if v.get('category') == 'movies' else earliest
+        threshold = (movie_earliest if v.get('category') == 'movies' else
+                     music_earliest if v.get('category') == 'music' else earliest)
         if VIDEO_ID.fullmatch(v.get('id','')) and v.get('date','') >= threshold:
             entries[v['id']] = v
     cache = dict(previous.get('channels') or {})
+    music_indexed = {v.get('channelId') for v in previous.get('videos',[])
+                     if v.get('category') == 'music'}
     start = int(previous.get('cursor', 0)) % len(CHANNELS)
     checked = []
     errors = []
@@ -136,11 +146,17 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
     # Respect small test/manual sampling windows and preserve their cursor behaviour.
     priority = (sorted(
                    [source for source in CHANNELS if
-                    (source.get('category') in ('sports', 'kids', 'waggle') or
-                     source.get('id') in ('lollywoodcinema','movieboxmovies'))
-                    and not (cache.get(source['id']) or {}).get('lastFetchedAt')],
+                    ((source.get('category') in ('sports', 'kids', 'waggle') or
+                      source.get('id') in ('lollywoodcinema','movieboxmovies',
+                                          'cokestudio','talhaanjum','jaubi','emipakistan'))
+                     and not (cache.get(source['id']) or {}).get('lastFetchedAt'))
+                    or (source.get('channelId') and
+                        source['channelId'] != (cache.get(source['id']) or {}).get('youtubeId'))
+                    or (source['id'] == 'jaubi' and 'jaubi' not in music_indexed)],
                    key=lambda source: 0 if source['id'] in
-                   ('lollywoodcinema', 'movieboxmovies') else 1)[:max_channels]
+                   ('lollywoodcinema', 'movieboxmovies') else
+                    1 if source['id'] in
+                   ('cokestudio','talhaanjum','jaubi','emipakistan') else 2)[:max_channels]
                 if max_channels >= 4 else [])
     regular = []
     advance = 0
@@ -153,8 +169,11 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
     for source in sources:
         sid = source['id']
         record = cache.get(sid, {})
-        youtube_id = source.get('channelId') or record.get('youtubeId', '')
-        uploads = record.get('uploadsId','')
+        pinned_id = source.get('channelId') or ''
+        youtube_id = pinned_id or record.get('youtubeId', '')
+        # Never reuse the cached uploads playlist after a curator corrects
+        # a mistaken channel handle: fetch the playlist for the pinned ID.
+        uploads = record.get('uploadsId','') if not pinned_id or pinned_id == record.get('youtubeId') else ''
         channel_name = source['name']
         try:
             # Resolve official handle with YouTube Data API rather than trusting
@@ -195,7 +214,9 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
                 }, key, transport)
                 for v in video_batch.get('items',[]):
                     converted = normalise_video(v,entry)
-                    if converted and converted['date'] >= (movie_earliest if converted['category']=='movies' else earliest):
+                    if converted and converted['date'] >= (
+                            movie_earliest if converted['category']=='movies' else
+                            music_earliest if converted['category']=='music' else earliest):
                         entries[converted['id']] = converted
                         checked_with_videos += 1
             cache[sid]['lastFetchedAt'] = now.isoformat()
@@ -209,14 +230,26 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
     # recent uploads first so browsing previous days is possible.
     ordered = sorted(entries.values(),
         key=lambda x:(x.get('published',''),x['id']),reverse=True)
+    # News and short-form programming outnumber music uploads. Reserve
+    # enough slots for genuine older music before filling the rest by date,
+    # otherwise classic songs and jazz would disappear from the music page.
+    music_reserve = min(700, MAX_ARCHIVE_VIDEOS // 5)
+    music_first = [v for v in ordered if v.get('category') == 'music'][:music_reserve]
+    reserved_ids = {v['id'] for v in music_first}
+    ordered = music_first + [v for v in ordered if v.get('category') != 'music'] + [
+        v for v in ordered if v.get('category') == 'music' and v['id'] not in reserved_ids
+    ]
     by_channel = {}
     videos = []
+    seen_ids = set()
     for v in ordered:
         sid=v.get('channelId')
-        if by_channel.get(sid,0)>=PER_CHANNEL_LIMIT:continue
+        if v['id'] in seen_ids or by_channel.get(sid,0)>=PER_CHANNEL_LIMIT:continue
         if len(videos)>=MAX_ARCHIVE_VIDEOS:break
         by_channel[sid]=by_channel.get(sid,0)+1
+        seen_ids.add(v['id'])
         videos.append(v)
+    videos.sort(key=lambda x:(x.get('published',''),x['id']),reverse=True)
     result = {
         'generatedAt':now.isoformat(),'dateTimezone':'UTC',
         'cursor':(start+advance) % len(CHANNELS), 'channels':cache,

@@ -11,15 +11,18 @@
  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Noto+Sans+Arabic:wght@400;600;700&display=swap" rel="stylesheet">
  <link rel="stylesheet" href="./gupshup.css">
+ <link rel="stylesheet" href="./feature-rotator.css">
+<link rel="stylesheet" href="./ads-standalone.css">
+<link rel="stylesheet" href="./cookie-consent.css">
 </head>
-<body>
+<body data-paktv-auto-ads="yes" data-paktv-extra-ads="no" data-paktv-banner-only="yes">
  <a class="skip" href="#conversation">Skip to GUPSHUP chat</a>
  <header class="global-header">
    <a class="brand" href="./#home"><span class="brand-icon" aria-hidden="true">▶</span>
      <span>PakTV <em>Ghar</em><small>پاک ٹی وی گھر</small></span></a>
    <nav aria-label="Site navigation">
      <a href="./#home">Home</a><a href="./#dramas">Dramas</a><a href="./#movies">Movies</a>
-     <a href="./#news">News</a><a href="./kids.html">🌈 Kids</a><a href="https://retroworld.eu.cc/" target="_blank" rel="noopener noreferrer">🎮 Games</a><a class="current" href="./gupshup.html" aria-current="page">☕ GUPSHUP</a>
+     <a href="./#news">News</a><a href="./music.html">🎵 Music</a><a href="./kids.html">🌈 Kids</a><a href="https://retroworld.eu.cc/" target="_blank" rel="noopener noreferrer">🎮 Games</a><a class="current" href="./gupshup.html" aria-current="page">☕ GUPSHUP</a>
    </nav>
    <a class="back-link" href="./#home">← Back to TV</a>
  </header>
@@ -34,8 +37,17 @@
        <div class="hero-chips"><span>💬 Real conversations</span><span>🎭 Dramas &amp; movies</span><span>🫖 Good company</span></div>
        <a class="hero-action" href="#conversation">Join the conversation <span aria-hidden="true">↓</span></a>
      </div>
-     <figure class="hero-photo">
-       <img src="./assets/gupshup-chai-main.jpg" alt="Friends chatting and enjoying chai together in a Pakistani courtyard" loading="eager" fetchpriority="high" onerror="this.onerror=null;this.src='./gupshup-tea.svg';">
+     <figure class="hero-photo gupshup-hero-images" data-feature-rotator aria-label="Rotating pictures of friends enjoying chai">
+       <img data-feature-image class="is-active" src="./assets/gupshup-chai-main.jpg" data-fallback="./gupshup-tea.svg" alt="Friends sharing chai in a Pakistani courtyard" loading="eager">
+       <img data-feature-image src="./assets/gupshup-chai-rooftop.jpg" data-fallback="./gupshup-tea.svg" alt="Friends gathered for chai on a Pakistani rooftop" loading="lazy">
+       <img data-feature-image src="./assets/gupshup-chai-poster.jpg" data-fallback="./gupshup-tea.svg" alt="Chai gathering with friends" loading="lazy">
+       <div class="feature-image-controls" role="group" aria-label="Change GUPSHUP photo">
+         <button type="button" data-feature-go="previous" aria-label="Previous photo">‹</button>
+         <button type="button" data-feature-go="0" aria-label="Photo 1" aria-pressed="true">1</button>
+         <button type="button" data-feature-go="1" aria-label="Photo 2" aria-pressed="false">2</button>
+         <button type="button" data-feature-go="2" aria-label="Photo 3" aria-pressed="false">3</button>
+         <button type="button" data-feature-go="next" aria-label="Next photo">›</button>
+       </div>
      </figure>
    </section>
    <div class="tea-divider" aria-hidden="true"><span>✺</span><span>☕</span><span>✺</span></div>
@@ -134,7 +146,8 @@
    <div><a href="./#home">Home</a><a href="./community.html#visitors">Community</a><a href="./privacy.html">Privacy</a><a href="./disclaimer.html">Disclaimer</a>
    <a href="https://retroworld.eu.cc/" target="_blank" rel="noopener noreferrer">RetroWorld ↗</a></div>
    <small>GUPSHUP photo and silent video gallery: imagery supplied for PakTV Ghar.</small>
- </footer>
+ <button class="cookie-settings-footer" type="button" data-privacy-settings>Cookie &amp; ad settings</button>
+</footer>
  <div class="report-overlay" id="reportOverlay" hidden>
    <div class="report-panel" role="dialog" aria-modal="true" aria-labelledby="reportHeading">
      <h2 id="reportHeading">Report a message</h2><p>Help keep GUPSHUP safe. Reports are private.</p>
@@ -150,5 +163,7 @@
  </div>
  <script src="./community-config.js" defer></script>
  <script src="./gupshup.js" defer></script>
+ <script src="./feature-rotator.js" defer></script>
+<script src="./cookie-consent.js" defer></script>
 </body>
 </html>

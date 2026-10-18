@@ -21,8 +21,10 @@
   .notice{padding:12px 15px;background:#243651;border-left:3px solid #ffbe78;border-radius:8px}
   footer{font-size:13px;color:#aabbd3;padding:0 0 30px}
   </style>
+<link rel="stylesheet" href="./ads-standalone.css">
+<link rel="stylesheet" href="./cookie-consent.css">
 </head>
-<body>
+<body data-paktv-auto-ads="yes" data-paktv-extra-ads="no">
 <header><a class="back" href="./index.html">← PakTV Ghar / پاک ٹی وی گھر</a></header>
 <main>
   <h1>Privacy &amp; Cookies Policy</h1>
@@ -38,6 +40,7 @@
       <tr><td>Cookie choices</td><td><code>pgh_consent_v1</code> in local storage, containing the chosen options, policy version and consent date.</td><td>When you select Accept all, Reject optional or Save my choices. Choices are requested again after about 180 days or a change in policy version.</td></tr>
       <tr><td>Advertising</td><td>Optional Adsterra and Google AdSense advertising requests, cookies and potentially IP address, device identifiers and browsing information under each provider's own policies.</td><td>Only after you actively opt in to the relevant advertising category. Off by default.</td></tr>
       <tr><td>Embedded video</td><td>Video hosts such as YouTube may receive technical information or set their own cookies when you choose to play an embedded video or follow a link.</td><td>When videos or external links are requested; this is separate from advertising consent.</td></tr>
+      <tr><td>Live Pakistani radio</td><td>The Music page reads a first-party station directory. Choosing Play connects your browser directly to an external broadcaster's radio stream; the station may see your IP address and use its own services. The Radio Browser directory is community-maintained.</td><td>Station streams only load after you press Listen; you can stop them at any time.</td></tr>
       <tr><td>Community chat</td><td>When enabled, Supabase stores public guest nicknames, moderated chat messages, timestamps, non-public guest identifiers and abuse reports. No public profile or email is needed to chat.</td><td>Only if you choose to use community chat or reporting; unpublished until the backend is configured.</td></tr>
       <tr><td>Private forms</td><td>Optional email and name plus the subject, report/application details and related links are stored privately for owner review if the community backend is enabled.</td><td>Only when you submit a contact, report or moderator application form.</td></tr>
       <tr><td>Visitor country counter</td><td>When enabled and you click “Count my visit”, an Edge Function temporarily processes IP address and browser information and stores a daily one-way digest plus approximate country code. A third-party GeoIP service may be used where activated. Aggregate country totals are published.</td><td>Optional and off until you choose to count your visit; counts represent consenting browsers and are approximate.</td></tr>
@@ -75,6 +78,8 @@
   <p>We may update this policy when the site's services or providers change. A material change to optional advertising purposes will require new consent.</p>
   <p class="small">Related: <a href="./disclaimer.html">Copyright &amp; Content Disclaimer</a> · <a href="./index.html">Home</a></p>
 </main>
-<footer>PakTV Ghar · Independent Pakistani programme directory · <a href="https://retroworld.eu.cc/" target="_blank" rel="noopener noreferrer">Our other website: RetroWorld ↗</a></footer>
+<footer>PakTV Ghar · Independent Pakistani programme directory · <a href="https://retroworld.eu.cc/" target="_blank" rel="noopener noreferrer">Our other website: RetroWorld ↗</a><button class="cookie-settings-footer" type="button" data-privacy-settings>Cookie &amp; ad settings</button>
+</footer>
+<script src="./cookie-consent.js" defer></script>
 </body>
 </html>
