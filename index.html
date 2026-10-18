@@ -194,6 +194,7 @@ window.PAKTV_CATALOG = [{"id": "hum-khushi", "name": "Khushi", "network": "hum",
 (() => {
 'use strict';
 const CHANNELS = [
+ {id:'waggleworkshop',name:'The Waggle Workshop',handle:'TheWaggleWorkshop',category:'waggle',genre:'Kids learning, games & Professor Pip',initials:'WW',colors:['#22ad7c','#f3b647'],description:'Professor Pip adventures, letters, numbers, colours, animals and learning videos for children.'},
  {id:'aryfilms',name:'ARY Films',handle:'ARYFilms',category:'movies',genre:'Pakistani films & TV movies',initials:'ARY',colors:['#e87166','#863444'],description:'Full-length films and movie-length editions uploaded by ARY Films.'},
  {id:'drmmovies',name:'Pakistani Movies by DRM',handle:'pakistani_movies',category:'movies',genre:'Pakistani films & TV movies',initials:'DRM',colors:['#c8a87b','#74536b'],description:'Pakistani feature films and full-length TV films from this movie publisher channel.'},
  {id:'hum',name:'HUM TV',handle:'HUMTV',category:'dramas',initials:'HUM',colors:['#ba779f','#6145ad'],description:'Full Pakistani dramas, classic serials and popular episodes.',featured:true},
@@ -327,6 +328,7 @@ const NAV = [
  {id:'news',icon:'📡',en:'News',ur:'خبریں'},
  {id:'sports',icon:'🏏',en:'Sports',ur:'کھیل'},
  {id:'kids',icon:'🌈',en:'Kids',ur:'بچے',href:'./kids.html'},
+ {id:'waggle',icon:'🦜',en:'Waggle Workshop',ur:'واگل ورکشاپ',href:'./waggle-workshop.html'},
  {id:'games',icon:'🎮',en:'Games',ur:'گیمز',href:'https://retroworld.eu.cc/',external:true}, 
  {id:'talk',icon:'🎙️',en:'Talk Shows',ur:'ٹاک شوز'},
  {id:'vloggers',icon:'📹',en:'YouTubers',ur:'یوٹیوبرز'},
@@ -594,7 +596,12 @@ function renderHome(){
 
     cinemaVideoRail('Movie night · Full-length films','Publisher films and movie-length TV editions from Pakistani YouTube sources.',movieVideos().slice(0,9),'movies')+
     cinemaPosterRail('Featured Pakistani dramas','Find your next binge from original broadcasters.',spotlight,'dramas')+
-    '<section class="kids-home-promo"><div><span class="eyebrow">🌈 THE KIDS CORNER</span><h2>Pakistani kids videos, all in one happy place.</h2><p>Cartoons, Urdu rhymes, educational stories and family creators, organised for parents to explore together.</p><a href="./kids.html">Explore Kids Corner ↗</a></div><span class="kids-home-illustration" aria-hidden="true">🪁 🌈 📚</span></section>'+
+    ''<section class="waggle-collab-feature" aria-label="Featured collaboration with The Waggle Workshop">'+
+  '<div class="waggle-feature-brand"><img src="./assets/waggle-workshop-logo.svg" alt="The Waggle Workshop logo with Professor Pip" loading="lazy" width="100" height="100"><div><span class="eyebrow">FEATURED KIDS COLLABORATION</span><h2>The Waggle Workshop <span>× PakTV Ghar</span></h2><p>New YouTube adventures with Professor Pip, playful learning videos and six interactive learning games.</p></div></div>'+
+  '<div class="waggle-feature-actions"><a href="./waggle-workshop.html">Explore videos →</a><a href="./waggle-play.html">Play learning games ↗</a></div>'+
+'</section>'+
+cinemaVideoRail('The Waggle Workshop · Latest videos','Fresh uploads from the official channel @TheWaggleWorkshop.',balancedRecent([...state.archiveVideos,...state.feed].filter(v=>v.channelId==='waggleworkshop'&&v.category==='waggle'),10),'archive')+
+<section class="kids-home-promo"><div><span class="eyebrow">🌈 THE KIDS CORNER</span><h2>Pakistani kids videos, all in one happy place.</h2><p>Cartoons, Urdu rhymes, educational stories and family creators, organised for parents to explore together.</p><a href="./kids.html">Explore Kids Corner ↗</a></div><span class="kids-home-illustration" aria-hidden="true">🪁 🌈 📚</span></section>'+
     '<section class="waggle-home-teaser"><span aria-hidden="true">🦉</span><div><strong>Waggle Workshop × PakTV Ghar Kids</strong><p>Play six free mini-games with Professor Pip — letters, counting, colours, shapes, matching and building.</p></div><a href="./waggle-play.html">Play now ↗</a></section>'+
     cinemaVideoRail('Kids Corner · Latest uploads','Parent-curated Pakistani cartoons, Urdu poems and family video channels.',balancedRecent([...state.archiveVideos,...state.feed].filter(v=>{
       if(v.category!=='kids'||typeof v.title!=='string')return false;
@@ -606,7 +613,6 @@ function renderHome(){
     cinemaChannelRail('Explore Pakistan sports channels','Cricket boards, sports broadcasters and cricket analysts.',CHANNELS.filter(x=>x.category==='sports').slice(0,7),'sports')+
     cinemaVideoRail('Freshly uploaded','New videos from multiple Pakistani channels.',fresh,'archive')+
     cinemaChannelRail('Discover broadcasters','Now including Green Entertainment, PTV Home, Express TV and SAMAA.',broadcasters,'dramas')+
-    cinemaPosterRail('Green TV, PTV & Express collections','Explore family stories, timeless classics and serials.',moreNetworks,'dramas')+
     (watchAgain.length?cinemaVideoRail('Continue exploring','Your recently opened videos.',watchAgain,'favourites'):'')+
     cinemaVideoRail('Political shows & comedy','Interviews, political debate, comedy and current affairs.',talkVideos,'talk')+
     cinemaVideoRail('Pakistani YouTubers','Creators, food, travel and new perspectives.',creatorVideos,'vloggers')+
