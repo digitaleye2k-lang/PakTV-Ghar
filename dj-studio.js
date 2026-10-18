@@ -53,7 +53,7 @@ function draw(){
   play.addEventListener("click",()=>{setTab("music");document.dispatchEvent(new CustomEvent("paktv:virtual-dj-play",{detail:{tracks:songs}}));});
   body.append(play);card.append(media,body);host.append(card);
  }
- document.getElementById("virtualDJStatus").textContent="DJ playlists use identified tracks from verified publishers. Some styles may have fewer than 10 songs until the catalogue refreshes. DJ intro videos require assets/Djs/Classic.mp4, Rap.mp4, Rock.mp4 and Jazz.mp4 to be uploaded to GitHub.";
+ document.getElementById("virtualDJStatus").textContent="";
 }
 document.addEventListener("paktv:music-catalog-ready",e=>{tracks=e.detail.tracks||[];draw();});
 document.addEventListener("paktv:dj-queue-start",()=>setTab("music",false));
