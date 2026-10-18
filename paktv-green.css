@@ -63,3 +63,13 @@ html{background:#0c171e}body{background:radial-gradient(ellipse at 82% 6%,#1a443
 .waggle-feature-actions a{display:inline-flex;padding:10px 14px;border:1px solid #95c29c;background:#287955;border-radius:11px;text-decoration:none;color:#f6fff9;font-weight:800;font-size:12px}
 .waggle-feature-actions a:first-child{background:#ffdc9e;border-color:#ffdc9e;color:#254431}
 @media(max-width:640px){.waggle-collab-feature{padding:15px}.waggle-feature-brand img{width:72px;height:72px}.waggle-feature-brand{gap:11px}.waggle-feature-actions{width:100%}}
+
+/* Film night: randomized three-image headline slideshow with accessible manual controls */
+.movie-feature{position:relative;isolation:isolate;overflow:hidden;min-height:345px}
+.movie-feature-backdrop{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center;z-index:0;filter:saturate(.86)}
+.movie-feature-scrim{position:absolute;inset:0;z-index:1;background:linear-gradient(90deg,#071d22f2 0%,#0d2928d9 36%,#14352c50 100%),linear-gradient(0deg,#051815a3,transparent 50%);pointer-events:none}
+.movie-feature-content{position:relative;z-index:2;padding-bottom:55px}
+.movie-headline-controls{position:absolute;right:16px;bottom:15px;z-index:4;display:flex;align-items:center;gap:7px;background:#102d29cf;backdrop-filter:blur(7px);border:1px solid #9bc7a1;border-radius:99px;padding:6px 9px}
+.movie-headline-controls button{font-weight:900;font-size:12px;min-width:27px;height:27px;border-radius:50%;background:transparent;color:#ebfff2;border:1px solid #789a80;cursor:pointer}
+.movie-headline-controls button[aria-pressed="true"],.movie-headline-controls button:hover{background:#ffdb98;border-color:#ffdb98;color:#213f30}
+@media(max-width:640px){.movie-feature{min-height:325px}.movie-headline-controls{right:8px;bottom:9px}.movie-feature-content{padding-bottom:65px}}
