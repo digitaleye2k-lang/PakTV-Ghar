@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T16:55:18.549048+00:00",
+  "generatedAt": "2026-10-18T16:57:57.459640+00:00",
   "dateTimezone": "UTC",
-  "cursor": 30,
+  "cursor": 42,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -91,35 +91,35 @@
       "uploadsId": "UUuqBZWK9Wrol_4Y22DzisFQ",
       "handle": "FoodfusionPk",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T16:21:45.035235+00:00"
+      "lastFetchedAt": "2026-10-18T16:57:57.459640+00:00"
     },
     "samaa": {
       "youtubeId": "UCJekW1Vj5fCVEGdye_mBN6Q",
       "uploadsId": "UUJekW1Vj5fCVEGdye_mBN6Q",
       "handle": "SAMAATV",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T16:21:45.035235+00:00"
+      "lastFetchedAt": "2026-10-18T16:57:57.459640+00:00"
     },
     "hasbehaal": {
       "youtubeId": "UCyiJNpF7RgpPhyeKc4wnQkg",
       "uploadsId": "UUyiJNpF7RgpPhyeKc4wnQkg",
       "handle": "hasbehaalofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T16:21:45.035235+00:00"
+      "lastFetchedAt": "2026-10-18T16:57:57.459640+00:00"
     },
     "pakexperience": {
       "youtubeId": "UC44l9XMwecN5nSgIF2Dvivg",
       "uploadsId": "UU44l9XMwecN5nSgIF2Dvivg",
       "handle": "ThePakistanExperience",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T16:37:32.892990+00:00"
+      "lastFetchedAt": "2026-10-18T16:57:57.459640+00:00"
     },
     "maaz": {
       "youtubeId": "UCz0M2pV4jOUUQ88lOd2q08A",
       "uploadsId": "UUz0M2pV4jOUUQ88lOd2q08A",
       "handle": "MaazSafderWorld",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T16:37:32.892990+00:00"
+      "lastFetchedAt": "2026-10-18T16:57:57.459640+00:00"
     },
     "matiullah": {
       "youtubeId": "UC-hJ0cobUiWlBFTHgLwt8sQ",
@@ -210,35 +210,35 @@
       "uploadsId": "UUU1r97baEf3JJI5fY6NtMpA",
       "handle": "expressentertainment",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T16:21:45.035235+00:00"
+      "lastFetchedAt": "2026-10-18T16:57:57.459640+00:00"
     },
     "ptvnews": {
       "youtubeId": "UC5RvV_LtR1dxPCVFGw6dxXA",
       "uploadsId": "UU5RvV_LtR1dxPCVFGw6dxXA",
       "handle": "PTVNewsOfficial",
       "checkedAt": "2026-10-12T17:59:30.761231+00:00",
-      "lastFetchedAt": "2026-10-18T16:21:45.035235+00:00"
+      "lastFetchedAt": "2026-10-18T16:57:57.459640+00:00"
     },
     "aajnews": {
       "youtubeId": "UCgBAPAcLsh_MAPvJprIz89w",
       "uploadsId": "UUgBAPAcLsh_MAPvJprIz89w",
       "handle": "aajtvofficial",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T16:21:45.035235+00:00"
+      "lastFetchedAt": "2026-10-18T16:57:57.459640+00:00"
     },
     "aajent": {
       "youtubeId": "UC2m98kh188cg_9x248IZM9A",
       "uploadsId": "UU2m98kh188cg_9x248IZM9A",
       "handle": "aajentertainment",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T16:21:45.035235+00:00"
+      "lastFetchedAt": "2026-10-18T16:57:57.459640+00:00"
     },
     "mooroo": {
       "youtubeId": "UC-rP-oFlxQGpSLYHBlhIWkg",
       "uploadsId": "UU-rP-oFlxQGpSLYHBlhIWkg",
       "handle": "mooroosicity",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T16:21:45.035235+00:00"
+      "lastFetchedAt": "2026-10-18T16:57:57.459640+00:00"
     },
     "aryfilms": {
       "youtubeId": "UC2PYniNHljOED9xNaMpiMiQ",
@@ -474,6 +474,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "Z5iLb3NvRoI",
+      "title": "Houthi-Saudi War | Saudi-Led Coalition Destroys Incoming Houthis' Missiles | 9 PM News Headlines",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:39:53Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 709,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Z5iLb3NvRoI/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "f_4yUWB5-1o",
       "title": "Maaz Ke Baar Baar Bulane Se Mirha Tang Aa Gayi..! Mohabbat Mukhtasir - ft. Madiha Imam - HUM TV",
       "channel": "HUM TV",
@@ -690,6 +708,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "JVvsT0Gcz48",
+      "title": "Good News for Daanish School Students! PM Shehbaz Sharif’s Major Announcement | SAMAA TV",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:25:10Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 254,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/JVvsT0Gcz48/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "EFttZXVKNUA",
       "title": "Bety Ne To Baap Ki Izzat Khak Mein Mila Di..! Mohabbat Mukhtasir - ft. Madiha Imam - HUM TV",
       "channel": "HUM TV",
@@ -885,6 +921,42 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/WNL9ydWxzWo/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "JZbH2Fgf-So",
+      "title": "How Important Are Rice Exports and Seeds to Pakistan’s Economy ? | AAJ EXCLUSIVE",
+      "channel": "Aaj TV Official",
+      "channelId": "aajnews",
+      "youtubeChannelId": "UCgBAPAcLsh_MAPvJprIz89w",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:05:10Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1951,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/JZbH2Fgf-So/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "SLH67D3nHuI",
+      "title": "KP Emergency | Governor’s Rule | Imran Khan’s Future | PTI's Backchannel Talks | Sunday@7",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:04:39Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2018,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/SLH67D3nHuI/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -30246,24 +30318,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "cZqWwvsjJOs",
-      "title": "KP Emergency Update | Another Sad Incident in Peshawar | 05 PM News Headlines | Samaa TV",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T12:16:02Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 604,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/cZqWwvsjJOs/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "Fq3ga0cxmfM",
       "title": "Kab Tak Chalta Rahega Tazeen Ka Matam? 😤 || Khafa || Har Pal Geo",
       "channel": "Har Pal Geo",
@@ -30477,42 +30531,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/0XBHeF5ptVo/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "oMjQ8_s1uqo",
-      "title": "Good News | Finance Minister Meets World Bank President Ajay Banga | 4:30 PM News Update",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T11:46:22Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 499,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/oMjQ8_s1uqo/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "7chI3KE6jp0",
-      "title": "No Truth in Reports of KP Governor’s Replacement, Says Tariq Fazal Chaudhry | #shorts | SAMAA TV",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T11:45:38Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 163,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/7chI3KE6jp0/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -45669,24 +45687,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/hoP5wmIcNoA/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "aERrE4dd5fk",
-      "title": "🔴 Shehbaz Sharif Speech | PMLN Parliamentary Party Meeting | Pakistan Political Updates - Aaj News",
-      "channel": "Aaj TV Official",
-      "channelId": "aajnews",
-      "youtubeChannelId": "UCgBAPAcLsh_MAPvJprIz89w",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-14",
-      "published": "2026-10-14T03:33:59Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 896,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/aERrE4dd5fk/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79548,6 +79548,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Dunya News: HTTP 404: playlistNotFound; Imran Riaz Khan: channel unavailable",
+  "lastError": "Junaid Akram: channel unavailable; Express News: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }

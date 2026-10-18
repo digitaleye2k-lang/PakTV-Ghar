@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-18T16:56:07.172271Z",
+  "generatedAt": "2026-10-18T16:58:34.329045Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-18T16:56:07.172271Z",
+      "updatedAt": "2026-10-18T16:58:34.329045Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -62,9 +62,21 @@
       ]
     },
     "world": {
-      "updatedAt": "2026-10-18T16:56:07.172271Z",
+      "updatedAt": "2026-10-18T16:58:34.329045Z",
       "source": "Google News RSS",
       "items": [
+        {
+          "title": "2 dead, 11 hurt after truck strikes crowd at Kansas youth soccer game - USA Today",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTWE0cDdXbVU5XzdYSXFaMVNzTXZ2TC1KNndlSGFvcm5NamthVGFwb1ptSTVwTHNKd1drWmJsRHRMT2lYS0JpV0hSUVFpZVNSUDlmWGhrUUZwRjhaQzVuM2NhVVJlcDNYcU1NYUpTNmF1MFVfdmN5cXdDam1KNzNKaloySXBOM1hzSjk1OXpaWlRLOVlRdk1wLXU3NWN2eHUwZlRNaU5FRmxMTXNBQzdrSGdR?oc=5",
+          "published": "2026-10-18T16:23:00Z"
+        },
+        {
+          "title": "Trump endorses Netanyahu in Israeli election - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNEX0FibmplMGVhLVA1TDdESTEzdk9PR1JYNWtsQzJkTG5ER1lrMkhfV05saHNXYndlOXFxdFJONU4zOEZhZUdtXzR0WGpVSHBuLUUyOExTWHktR3AtMjlnU08yNXpaUWFVOXE1Q3dNaDFkZG4yT0JFMmlkYzdvTXFudjFQOF9rcFBaM0VBbjBaOFQ5bndSNS1fZw?oc=5",
+          "published": "2026-10-18T16:03:44Z"
+        },
         {
           "title": "Elizabeth Holmes Film Opens to Over 2,000 Sold-Out Shows - The New York Times",
           "source": "The New York Times",
@@ -90,10 +102,10 @@
           "published": "2026-10-18T15:01:16Z"
         },
         {
-          "title": "Two killed and at least 17 injured as Russia and Ukraine trade blows on power infrastructure - The Guardian",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTmh5WmYyVmh4N096X21la2RhLUJvTV9qV3o2RlRIeHZtcFdwa0lLbFBjQ2dNSUJ2RFkzeHZ3MUxtdFlqcVRMdWFySFpNR1RvLWtHVFNrVFpSOThtUklfSkRrbTBka1E1anNCa214QjA1VzVFLXdZUHBGMVdMZ2xBMkw5czViOENTZUhBQzNzLXVLbnRyN0lvZ2gxQ3o2NTRQejFoMW1UNA?oc=5",
-          "published": "2026-10-18T14:47:00Z"
+          "title": "Texans vs. Jaguars live updates, inactives, where to watch: Jacksonville looks to stay among AFC's best at familiar home in London - Yahoo Sports",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLW9yamhYbnFqbk9Fc2s0cTlqcWZneWFNb1NRQ1ZhQmZOVF9sT3ZOdFN3YW82V2FWcEZoRldwMndYNzRGQ3V5d1B4cU02NUc1QTJ0akU4UTdpNDJhX3dQVkh4TnlfUjJYYU02SGlwMmRXbGlNQUdPU0FhXzZjd1lhU0ZIaTdyUTQzY1ZIOUVGc012MnE1cXEzQjc2aGxIbnIyemJWV1Q3STVYM0JYY3JzT0d6RWF2bWp4OU81Z2hMdjZqdFYyT2NEemN3dnRSdUJoLWY3aFBSY3RISm8?oc=5",
+          "published": "2026-10-18T14:44:51Z"
         },
         {
           "title": "2026 Midterm Elections: Trump Rallies Republicans - Fox News",
@@ -106,24 +118,12 @@
           "source": "AP News",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGxoemZ1SU5mT0NtVU56WWxPclZWWXZ3Vlc2TkpJOVlIaUw5T3luaDlkVVE0YlJqOXRTUmJ5anI3eHdqTEdJemtKRGtxUmNaN2U3Z21CWUQ0UEVLSUdZX3UtZVlFRzBQSHZmTWRQTFJtWmNrcHg2NDkxX1RBRy1BVkRMZEtnU3BfR0dYSWk3M01RZlowenZCT0QwZw?oc=5",
           "published": "2026-10-18T14:36:00Z"
-        },
-        {
-          "title": "Eric Dane Daughter Saved Him from Drowning During ALS Battle, Revealed in Posthumous Book - TMZ",
-          "source": "TMZ",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZlRzLWFqeENvVFBtc05ZYmdFeWhveWlOWFVnVjJBSzhRbmRnMW1OeDRJZy1SeDFNY0RuQUNzV09jdVlwS3dpNUx2eEJ4d2htcTQyaUdqbG52QzYxZElwQ0M3RnV5czdKdzF1aFFWVzdaa0hRdXRIbEdlSHlkQTI2U09n?oc=5",
-          "published": "2026-10-18T14:35:37Z"
-        },
-        {
-          "title": "‘Heartbreaking day for Wichita’: Truck drives through soccer field, killing 2, injuring 10 - NewsNation",
-          "source": "NewsNation",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWFlCZk1GQVRMNTRRa3kwLUx5d2hPaEpKbnhnMUZ3MU9LUmR4Mm03VDRITTRjTU4zcUkxenIzN1ZZMzNDSkVacThDejNLZVNZWXJPaW42aS1CQVU1YUppcEQ0SXJ2dUpMTXRScHVrbXNkcXpmN1hFWU9nYmlKbFNmWVUtMTNFejhlb1AtRGtlR01Zd2JyWnVoZElrUFdaUzMxZlZFOdIBqgFBVV95cUxOQU0wdGJEQnRVdHdQQ2ZibHdteWtMMEV5NFBmYk5BeDN5ZGY4ZVc0blBnTWJRY1dyWHBwZFZmMy1PX1I2U0FHOFZicDZVRmNpamN1cGRpeExnc2Z2cXV6YjlSX2VzR1c0c21IZFQ5eGo4N0kzLXJVa3JNRTZFWXJQeVVkXzYxZjNrS0RDRjRxbnJyYUVQTHRlT0d4Z0g0aUpMOExFVElGRmMxQQ?oc=5",
-          "published": "2026-10-18T14:27:41Z"
         }
       ]
     }
   },
   "weather": {
-    "updatedAt": "2026-10-18T16:56:07.172271Z",
+    "updatedAt": "2026-10-18T16:58:34.329045Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -162,7 +162,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-18T16:56:07.172271Z",
+    "updatedAt": "2026-10-18T16:58:34.329045Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
