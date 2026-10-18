@@ -317,7 +317,7 @@ const NAV = [
  {id:'vloggers',icon:'📹',en:'YouTubers',ur:'یوٹیوبرز'},
  {id:'archive',icon:'🗓️',en:'Video Archive',ur:'پرانے ویڈیوز'},
  {id:'favourites',icon:'♡',en:'Favourites',ur:'پسندیدہ'},
- {id:'community',icon:'💬',en:'Community',ur:'کمیونٹی',href:'./community.html#chat'},
+ {id:'gupshup',icon:'☕',en:'GUPSHUP',ur:'گپ شپ',href:'./gupshup.html'},
  {id:'contact',icon:'✉️',en:'Contact Us',ur:'رابطہ',href:'./community.html#contact'}
 ];
 const CATEGORY_LABELS={dramas:'Pakistani Dramas',movies:'Pakistani Movies',comedy:'Comedy & Political Satire',news:'News & Headlines',talk:'Political Talk Shows',vloggers:'Pakistani YouTubers'};
@@ -569,7 +569,7 @@ function renderHome(){
     '<div class="quick-grid cinema-quick">'+
     [['dramas','🎬','Dramas'],['movies','🎞️','Movies'],['archive','🗓️','Video archive'],['comedy','😄','Comedy'],['news','📡','News'],['talk','🎙️','Talk shows'],['vloggers','📹','YouTubers'],['today','📅','TV today']].map(([id,icon,label])=>
       '<button type="button" class="quick-tile" data-nav="'+id+'"><span class="quick-emoji">'+icon+'</span><span class="quick-name">'+label+'</span></button>').join('')+
-    '<a class="quick-tile community-home-tile" href="./community.html#chat"><span class="quick-emoji">💬</span><span class="quick-name">Community chat</span></a>'+
+    '<a class="quick-tile community-home-tile" href="./gupshup.html"><span class="quick-emoji">☕</span><span class="quick-name">GUPSHUP</span></a>'+
     '<a class="quick-tile community-home-tile" href="./community.html#visitors"><span class="quick-emoji">🌍</span><span class="quick-name">Visitor countries</span></a>'+
     '</div>'+
     '<div id="homeBriefing" class="home-briefing" aria-label="Latest news, Pakistan weather and world markets"></div>'+
@@ -1021,27 +1021,6 @@ state.page=locationPage();bindEvents();initSpotlightEvents();paint();refreshFeed
 </script>
 
 
-<div class="pgh-chat-dock" aria-label="Compact community chat">
-  <section class="pgh-chat-drawer" id="pghMiniDrawer" role="dialog" aria-label="Community mini chat" hidden>
-    <header class="pgh-mini-header"><div><strong>💬 PakTV community</strong><small>Family-friendly guest chat</small></div>
-    <button type="button" id="pghMiniClose" aria-label="Close chat">×</button></header>
-    <div class="pgh-mini-room"><label for="pghMiniRoom">Room</label>
-    <select id="pghMiniRoom">
-      <option value="general">General</option><option value="dramas">Dramas</option>
-      <option value="movies">Movies</option><option value="comedy">Comedy</option>
-      <option value="politics">Political shows</option><option value="youtubers">YouTubers</option>
-    </select></div>
-    <div class="pgh-mini-messages" id="pghMiniMessages" aria-live="polite"></div>
-    <form class="pgh-mini-form" id="pghMiniForm">
-      <input id="pghMiniName" maxlength="22" minlength="2" autocomplete="nickname" placeholder="Your nickname" aria-label="Your nickname" required>
-      <textarea id="pghMiniBody" maxlength="450" minlength="2" rows="2" placeholder="Write a friendly message…" aria-label="Chat message" required></textarea>
-      <button id="pghMiniSend" type="submit" disabled>Send message →</button>
-      <p class="pgh-mini-status" id="pghMiniStatus" role="status">Messages load when you open this tab.</p>
-    </form>
-    <p class="pgh-mini-footer"><a href="./community.html#chat">Full chat · Report messages ↗</a></p>
-  </section>
-  <button class="pgh-chat-tab" id="pghMiniToggle" type="button" aria-expanded="false" aria-controls="pghMiniDrawer">💬 Community chat</button>
-</div>
 <script src="./cookie-consent.js" defer></script>
 <script src="./community-config.js" defer></script>
 <script src="./site-visitors.js" defer></script>
