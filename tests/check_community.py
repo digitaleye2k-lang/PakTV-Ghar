@@ -19,7 +19,7 @@ for path in ('community.js', 'site-visitors.js', 'community-config.js'):
 
 for expected in ('./gupshup.html', './community.html#contact',
                  './community.html#report', 'community-config.js',
-                 'paktv-green.css', 'assets/pakistan-flag-art.svg', "en:'Sports'"):
+                 'paktv-green.css', "en:'Sports'", "en:'Games'", "href:'https://retroworld.eu.cc/'"):
     assert expected in index, 'Main-site community link or counter missing: '+expected
 
 for expected in ('Visitors','GUPSHUP','Contact us','Report','Be a moderator',
@@ -69,3 +69,6 @@ assert 'content-editable' not in page
 print('Community: external JavaScript parses; private forms, consent and RLS hooks present.')
 
 assert 'class="pakistan-flag"' not in index, 'Removed Pakistan header badge must stay removed'
+
+assert 'class="pakistan-background-art"' not in index, 'Flag-bearing artwork should be absent from the main page'
+assert 'target="_blank" rel="noopener noreferrer"' in index, 'External games tab must open safely'
