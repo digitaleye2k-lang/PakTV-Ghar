@@ -747,7 +747,7 @@ async function loadArchive(){
     state.archiveError=false;
     state.archiveLoaded=true;
     if(state.page==='show'&&LIBRARY.find(s=>s.id===showId())?.type!=='drama')loadEpisodes(0);
-    else if(['archive','home','movies','news','talk','comedy','vloggers','favourites','search','show'].includes(state.page))paint();
+    else if(['archive','home','movies','news','sports','talk','comedy','vloggers','favourites','search','show'].includes(state.page))paint();
   }catch{
     state.archiveLoaded=true;
     state.archiveError=true;
