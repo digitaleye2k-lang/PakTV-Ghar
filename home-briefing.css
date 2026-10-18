@@ -64,3 +64,21 @@
 @media(max-width:1000px){.brief-grid{grid-template-columns:minmax(0,1fr)}.brief-side{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:680px){.home-briefing{margin:16px 12px 24px}.brief-panel{padding:14px}.brief-side{grid-template-columns:1fr}.pgh-chat-dock{bottom:71px;right:9px}.pgh-chat-drawer{height:min(485px,calc(100dvh - 162px))}.pgh-chat-tab{font-size:12px;padding:10px 14px}}
 @media(prefers-reduced-motion:reduce){.pgh-chat-dock *{scroll-behavior:auto}}
+
+/* Bilingual news reader and source-backed Pakistani cricket snapshots */
+.brief-lang-options{display:flex;gap:4px;align-items:center;border:1px solid #527d68;background:#13382f;border-radius:30px;padding:3px}
+.brief-lang-options button{background:transparent;border:0;color:#c1ddcf;padding:7px 11px;font-weight:800;font-size:11px;border-radius:25px;cursor:pointer}
+.brief-lang-options button[aria-pressed="true"]{background:#faca86;color:#1f382e}
+.brief-news-feed[dir="rtl"],#briefNewsList[dir="rtl"]{text-align:right;font-family:system-ui,"Noto Nastaliq Urdu","Noto Sans Arabic",sans-serif}
+#briefNewsList[dir="rtl"] .brief-news-meta{justify-content:flex-start;direction:rtl}
+.brief-score-match{border-top:1px solid #416c58;padding:12px 0}
+.brief-score-match:first-child{padding-top:0;border-top:0}
+.brief-score-series{font-size:10px;font-weight:800;color:#9fe6bc;text-transform:uppercase;letter-spacing:.04em}
+.brief-score-title{font-size:13px;font-weight:800;color:#f4fff8;line-height:1.5;margin:4px 0 7px}
+.brief-score-teams{display:grid;gap:5px;margin:7px 0;border:1px solid #3b715d;border-radius:10px;padding:9px;background:#10342e}
+.brief-score-team{display:flex;gap:12px;justify-content:space-between;align-items:center;font-size:12px;color:#d8f3e6}
+.brief-score-team strong{font-variant-numeric:tabular-nums;color:#ffdfa7;font-size:12px}
+.brief-score-meta{font-size:10px;color:#b3c8ba;margin:5px 0 7px;line-height:1.5}
+.brief-score-match>a{font-size:11px;color:#ffcf90;text-decoration:none;font-weight:800}
+.brief-score-match>a:hover{text-decoration:underline}
+@media(max-width:500px){.brief-topline{flex-wrap:wrap}.brief-lang-options button{padding:7px 9px}}
