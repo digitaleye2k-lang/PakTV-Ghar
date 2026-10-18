@@ -648,15 +648,19 @@ function renderMovies(){
   const movieChannels=CHANNELS.filter(c=>c.category==='movies');
   const movieCards=candidates.slice(0,state.visibleVideos);
   return '<section class="movie-page">'+
-    '<div class="movie-feature"><img class="movie-feature-backdrop" src="'+thumb(FEATURED_MOVIE.id)+
-    '" alt="" loading="lazy"><div class="movie-feature-scrim"></div><div class="movie-feature-content">'+
+    '<div class="movie-feature"><img class="movie-feature-backdrop" id="movieHeroBackdrop" src="./assets/movie-headline-1.webp" data-fallback="'+thumb(FEATURED_MOVIE.id)+'" alt="" loading="eager" onerror="this.onerror=null;this.src=this.dataset.fallback"><div class="movie-feature-scrim"></div><div class="movie-feature-content">'+
     '<div class="movie-feature-kicker">🎞️ THE PAKTV FILM CLUB</div>'+
     '<h1>Pakistani <em>Movies</em> Night</h1>'+
     '<p>Enjoy full-length films and movie-length television stories shared on their publisher’s YouTube channels. No subscriptions from PakTV Ghar.</p>'+
     '<div class="movie-feature-tags"><span>Free-to-view on YouTube</span><span>Full-length titles</span><span>Original uploads</span></div>'+
     '<div class="movie-feature-actions"><button class="btn-primary" type="button" data-video="'+FEATURED_MOVIE.id+'">▶ Watch featured film</button>'+
     '<a class="btn-secondary" href="https://www.youtube.com/channel/UC2PYniNHljOED9xNaMpiMiQ/videos" target="_blank" rel="noopener noreferrer">↗ ARY Films on YouTube</a></div>'+
-    '</div></div>'+
+    '</div><div class="movie-headline-controls" role="group" aria-label="Featured movie images">'+
+    '<button type="button" data-movie-slide="previous" aria-label="Previous movie image">‹</button>'+
+    '<button type="button" data-movie-slide="0" aria-label="Movie image one" aria-pressed="true">1</button>'+
+    '<button type="button" data-movie-slide="1" aria-label="Movie image two" aria-pressed="false">2</button>'+
+    '<button type="button" data-movie-slide="2" aria-label="Movie image three" aria-pressed="false">3</button>'+
+    '<button type="button" data-movie-slide="next" aria-label="Next movie image">›</button></div></div>'+
     '<div class="movie-info-strip"><span>🎬 Film and television movie editions</span><span>🔗 Videos stay on YouTube</span><span>🌍 Country availability may vary</span></div>'+
     cinemaHeading('Full movies on YouTube','Checked full-length uploads from film publisher channels. New titles are indexed over time.','archive','Video archive →')+
     '<label class="movie-search-label" for="movieSearch">Find a movie <input type="search" id="movieSearch" value="'+escapeHTML(state.movieSearch)+
@@ -744,7 +748,40 @@ ${videos.length?`${sectionHead('Videos',`${videos.length} available result${vide
 ${shows.length?`${sectionHead('Political & TV shows','Search for a specific programme by name.')}<div class="channel-grid">${shows.map(showCard).join('')}</div>`:''}
 ${channels.length?`${sectionHead('Channels & YouTubers','Browse videos or open the publisher.')}<div class="channel-grid">${channels.map(channelCard).join('')}</div>`:''}
 ${q&&!any&&!state.searchLoading?`<div class="empty-state"><div class="empty-emoji">🔎</div><h3>No matching videos in this catalogue</h3><p>For a full YouTube search, use the button below. Or try a shorter search, like “Humsafar”, “Capital Talk” or “Geo”.</p><a class="btn-primary" href="${escapeHTML(searchYouTube(q))}" target="_blank" rel="noopener noreferrer">Search YouTube ↗</a></div>`:''}`}
-function paint(){renderNav();el('mainContent').innerHTML=state.page==='home'?renderHome():state.page==='today'?renderToday():state.page==='show'?renderShowPage():state.page==='movies'?renderMovies():state.page==='archive'?renderArchive():state.page==='favourites'?renderFavourites():state.page==='search'?renderSearch():renderCategory(state.page);updateSpotlightTimer();document.dispatchEvent(new Event('paktv:paint'));if(state.page==='search'){el('searchInput').value=state.query}document.documentElement.lang=state.language==='ur'?'ur':'en';const s=el('searchInput');s.placeholder=state.language==='ur'?'ڈرامے، خبریں، ٹاک شوز، یوٹیوبرز تلاش کریں...':'Search dramas, movies, videos & more...'}
+
+/* Optional owner-supplied movie banner pictures. Until uploaded, show genuine
+   publisher movie thumbnails as fallback rather than broken images. */
+let movieHeadlineTimer=null;
+function setupMovieHeadlines(){
+  if(movieHeadlineTimer!==null){clearInterval(movieHeadlineTimer);movieHeadlineTimer=null;}
+  const img=document.getElementById('movieHeroBackdrop');
+  if(!img)return;
+  const buttons=[...document.querySelectorAll('[data-movie-slide]')];
+  const fallbackIds=movieVideos().slice(0,3).map(v=>v.id);
+  while(fallbackIds.length<3)fallbackIds.push(FEATURED_MOVIE.id);
+  let active=Math.floor(Math.random()*3);
+  const show=(number)=>{
+    active=((number%3)+3)%3;
+    img.onerror=function(){this.onerror=null;this.src=thumb(fallbackIds[active]);};
+    img.src='./assets/movie-headline-'+(active+1)+'.webp';
+    for(const btn of buttons){
+      const id=Number(btn.dataset.movieSlide);
+      if(Number.isInteger(id))btn.setAttribute('aria-pressed',String(id===active));
+    }
+  };
+  const manual=key=>{
+    show(key==='previous'?active-1:key==='next'?active+1:Number(key));
+    if(movieHeadlineTimer!==null)clearInterval(movieHeadlineTimer);
+    if(!window.matchMedia('(prefers-reduced-motion: reduce)').matches)
+      movieHeadlineTimer=setInterval(()=>show(active+1),7200);
+  };
+  for(const btn of buttons)btn.addEventListener('click',()=>manual(btn.dataset.movieSlide));
+  show(active);
+  if(!window.matchMedia('(prefers-reduced-motion: reduce)').matches)
+    movieHeadlineTimer=setInterval(()=>show(active+1),7200);
+}
+
+function paint(){renderNav();el('mainContent').innerHTML=state.page==='home'?renderHome():state.page==='today'?renderToday():state.page==='show'?renderShowPage():state.page==='movies'?renderMovies():state.page==='archive'?renderArchive():state.page==='favourites'?renderFavourites():state.page==='search'?renderSearch():renderCategory(state.page);updateSpotlightTimer();setupMovieHeadlines();document.dispatchEvent(new Event('paktv:paint'));if(state.page==='search'){el('searchInput').value=state.query}document.documentElement.lang=state.language==='ur'?'ur':'en';const s=el('searchInput');s.placeholder=state.language==='ur'?'ڈرامے، خبریں، ٹاک شوز، یوٹیوبرز تلاش کریں...':'Search dramas, movies, videos & more...'}
 function toast(message){el('toast').textContent=message;el('toast').classList.add('show');clearTimeout(state.toastTimer);state.toastTimer=setTimeout(()=>el('toast').classList.remove('show'),2200)}
 function favVideo(id){const set=new Set(state.favoriteVideos);const v=pickVideo(id);if(set.has(id)){set.delete(id);delete state.savedVideoData[id]}else{set.add(id);if(v)state.savedVideoData[id]=v}state.favoriteVideos=[...set];safeSet('pgh_video_favs',state.favoriteVideos);safeSet('pgh_video_data',state.savedVideoData);toast(set.has(id)?'Video saved to favourites ♥':'Video removed from favourites');if(state.currentVideo?.id===id)el('playerFav').textContent=set.has(id)?'♥ Saved':'♡ Save';paint()}
 function favChannel(id){const set=new Set(state.favoriteChannels);set.has(id)?set.delete(id):set.add(id);state.favoriteChannels=[...set];safeSet('pgh_channel_favs',state.favoriteChannels);toast(set.has(id)?'Channel added to favourites ♥':'Channel unpinned');paint()}
