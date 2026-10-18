@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-18T15:26:30.628772Z",
+  "generatedAt": "2026-10-18T15:27:20.289971Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-18T15:26:30.628772Z",
+      "updatedAt": "2026-10-18T15:27:20.289971Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -62,7 +62,7 @@
       ]
     },
     "world": {
-      "updatedAt": "2026-10-18T15:26:30.628772Z",
+      "updatedAt": "2026-10-18T15:27:20.289971Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -90,12 +90,6 @@
           "published": "2026-10-18T13:35:00Z"
         },
         {
-          "title": "U.S. taking Putin’s side would be a ‘historic mistake,’ says Zelenskyy - NBC News",
-          "source": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc3lKTGxQVkp3ekFlSGNORlJsWnplUnIwUHhqQ09tbHVUT212RUJQSUNYMGtXcjkxZERQWGdCVkJ6eENseHVNal9vNWQxZWQ4Z09jVk4wMlo5OG9nM25JUTFGa1dpV0VwS3l4Um11U01MQzBPaVpVQXJhRkpuMllBb2FSbFFJaVBxX3RUdDFsM29MampSUzUtcXZMejlCbkYxcHBSd1VzTGxoZm56UW92YzN6ZXhzLUpIQ2c?oc=5",
-          "published": "2026-10-18T13:34:39Z"
-        },
-        {
           "title": "Fantasy football rankings, projections, lineups, sleepers for Week 6 from proven model - CBS Sports",
           "source": "CBS Sports",
           "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPX0JiTDRBeHZaVU15alpfZXM1ZU52OWdVb1VnNFVtbXVidmFuTUhSTjktUklWNUc5cFBfX2dGU1RUSnpEWTdKa25UcjJoOXlqeVZyS3Zlb014RzIxUGJ4aWUwN3JnNWg2NVk4dklWNXExeGdZcnZJYXgxTTJfczhfN2Y5RGE0ZnhPamdXM1QtT3NaendCU3ZVczFWSWZfb2V0X2pUX0k4X3o0Um9vMHZocVhRb0R6RF9qZWhzUUdvaFJPbVg0dmhxUTd6Wm1MNm9jZXJJWGkzTGZqamljWWtQQnBLWDNSTUVXNHg4Rw?oc=5",
@@ -118,12 +112,18 @@
           "source": "BBC",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aZHpqZ094WFBRcGU2MlVrc3U5RTRsX2ZXa1VzZjdUbGNrQmt0TkZTaHRPOUhPd1RzMXlrVHV1cDN3SE0wR3BiVjF0dWdJRXpTQVl4b1VhckJoZVk?oc=5",
           "published": "2026-10-18T11:57:49Z"
+        },
+        {
+          "title": "How Coke Loosened Pepsi’s Grip on KFC’s Soda Fountains - WSJ",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOHJQV0pDWVJrb2FhdVAwOG1pdmFsb01KaHBST3hmQmZCSGcwZVEwYUUtR0xIeWoya3ZYLW1jdnk5aE0yVmRnYllWTGJSUnZ0Z1Zwc2xDRXFEd0hvanhpMVM5MWhiWERhS2JQNW9Xc3ZFeFRXRzdMd3A3VFliTGxvdnZmRVJac1FVYlk0TjBzQ09GOEVKQ3doSlpUb2txU210dGxIZA?oc=5",
+          "published": "2026-10-18T11:00:00Z"
         }
       ]
     }
   },
   "weather": {
-    "updatedAt": "2026-10-18T15:26:30.628772Z",
+    "updatedAt": "2026-10-18T15:27:20.289971Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -162,7 +162,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-18T15:26:30.628772Z",
+    "updatedAt": "2026-10-18T15:27:20.289971Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {

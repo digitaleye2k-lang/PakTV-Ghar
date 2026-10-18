@@ -4252,17 +4252,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "V7hJWQb66v0",
-      "title": "Prime Minister Shehbaz Sharif Makes a Major Announcement | Pakistan News | 12 PM Headlines| NEO News",
-      "channel": "Matiullah Jan MJtv",
-      "channelId": "matiullah",
-      "youtubeChannelId": "UCAsvFcpUQegneSh0QAUd64A",
-      "category": "vloggers",
-      "date": "2026-10-18",
-      "published": "2026-10-18T07:52:56+00:00",
-      "description": "Official upload from Matiullah Jan MJtv"
-    },
-    {
       "id": "nIoscpymDjQ",
       "title": "Tri-Nation ODI Series Kicks Off with First Match | Geo News",
       "channel": "Geo News",
@@ -6366,6 +6355,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/fZ_vxLKnCoE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "aBwjX_xYCGo",
+      "title": "6 AM Latest News Headlines #breakingnews #latestnews #headlines #newsheadlines #shorts",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T01:00:13Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 175,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/aBwjX_xYCGo/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     }
   ],
