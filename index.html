@@ -595,6 +595,7 @@ function renderHome(){
     cinemaVideoRail('Movie night · Full-length films','Publisher films and movie-length TV editions from Pakistani YouTube sources.',movieVideos().slice(0,9),'movies')+
     cinemaPosterRail('Featured Pakistani dramas','Find your next binge from original broadcasters.',spotlight,'dramas')+
     '<section class="kids-home-promo"><div><span class="eyebrow">🌈 THE KIDS CORNER</span><h2>Pakistani kids videos, all in one happy place.</h2><p>Cartoons, Urdu rhymes, educational stories and family creators, organised for parents to explore together.</p><a href="./kids.html">Explore Kids Corner ↗</a></div><span class="kids-home-illustration" aria-hidden="true">🪁 🌈 📚</span></section>'+
+    '<section class="waggle-home-teaser"><span aria-hidden="true">🦉</span><div><strong>Waggle Workshop × PakTV Ghar Kids</strong><p>Play six free mini-games with Professor Pip — letters, counting, colours, shapes, matching and building.</p></div><a href="./waggle-play.html">Play now ↗</a></section>'+
     cinemaVideoRail('Kids Corner · Latest uploads','Parent-curated Pakistani cartoons, Urdu poems and family video channels.',balancedRecent([...state.archiveVideos,...state.feed].filter(v=>{
       if(v.category!=='kids'||typeof v.title!=='string')return false;
       const meaningful=v.title.replace(/#[a-z0-9_]+/gi,'').replace(/[^a-zA-ZÀ-ÿ\u0600-\u06ff ]/g,'').trim();
