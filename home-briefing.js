@@ -60,7 +60,7 @@ function makeLayout(){
         <section class="brief-panel" aria-labelledby="briefMarketsTitle">
           <div class="brief-topline"><h3 id="briefMarketsTitle">Stock markets</h3><span class="brief-source">Delayed quotes</span></div>
           <div id="briefMarkets" aria-live="polite"><div class="brief-empty">Checking market data…</div></div>
-          <p class="brief-attribution">Sources: Yahoo Finance. Market figures may be delayed; not investment advice.</p>
+          <p class="brief-attribution"><a href="https://dps.psx.com.pk/indices" target="_blank" rel="noopener noreferrer">Pakistan Stock Exchange: official KSE-100 ↗</a><br>Other quotes: Yahoo Finance. Delayed data; not investment advice.</p>
         </section>
       </div>
     </div>`;
