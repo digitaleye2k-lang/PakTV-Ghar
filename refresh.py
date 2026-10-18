@@ -15,7 +15,7 @@ HERE=Path(__file__).resolve().parent
 SOURCES={
 'cokestudio':('Coke Studio Pakistan','cokestudio','music'),
 'nescafebasement':('NESCAFÉ Basement','nescafebasement','music'),
-'emipakistan':('EMI Pakistan','EMIPakistan','music'),
+'emipakistan':('EMI Pakistan','EMIPakistanOfficial','music'),
 'talhaanjum':('Talha Anjum','talhaanjum','music'),
 'youngstunners':('Young Stunners','YoungStunners','music'),
 'sajjadali':('Sajjad Ali','sajjadali','music'),
