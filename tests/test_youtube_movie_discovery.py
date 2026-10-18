@@ -60,10 +60,17 @@ class MovieDiscoveryTests(unittest.TestCase):
         result,_,stats=discover_movies('',original,{})
         self.assertFalse(stats['enabled'])
         self.assertFalse(result['videos'])
-        bad={'channels':{},'videos':[]}
-        result,_,stats=discover_movies('key',bad,{})
+        # An official channel with an existing stable ID remains trusted even
+        # when the incremental channel cache has not been populated yet.
+        def transport(endpoint,params):
+            if endpoint=='search':
+                return {'items':[{'id':{'videoId':VIDEO},
+                                  'snippet':{'channelId':OTHER}}]}
+            raise AssertionError('Unknown channel must never reach videos.list')
+        result,_,stats=discover_movies('key',{'channels':{},'videos':[]},
+                                       {},transport,WHEN)
         self.assertFalse(result['videos'])
-        self.assertIn('publisher',stats['error'])
+        self.assertEqual(stats['checked'],0)
 
     def test_reject_trailer_and_short_movie(self):
         for title,length in [('Full Movie Official Trailer','PT2M'),
