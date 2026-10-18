@@ -4,6 +4,8 @@ Handles are resolved via YouTube Data API before indexing. Unknown or changed
 handles simply produce no videos; no unrelated uploader is silently substituted.
 """
 CHANNELS = [
+ # Co-branded family learning channel; handle verified by YouTube API on refresh.
+ {'id':'waggleworkshop','name':'The Waggle Workshop','handle':'TheWaggleWorkshop','category':'waggle','genre':'Kids learning videos'},
  # Parent-curated Pakistani children's channels; YouTube API verifies handles and publisher IDs.
  {'id':'kidsland','name':'Kids Land','handle':'kidslandofficial','category':'kids','genre':'Cartoons & stories'},
  {'id':'kidsmadani','name':'Kids Madani Channel','handle':'kidsmadanichannel','category':'kids','genre':'Learning & values'},
