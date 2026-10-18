@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-18T16:11:59.548836Z",
+  "generatedAt": "2026-10-18T16:13:32.654702Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-18T16:11:59.548836Z",
+      "updatedAt": "2026-10-18T16:13:32.654702Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -62,7 +62,7 @@
       ]
     },
     "world": {
-      "updatedAt": "2026-10-18T16:11:59.548836Z",
+      "updatedAt": "2026-10-18T16:13:32.654702Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -123,7 +123,7 @@
     }
   },
   "weather": {
-    "updatedAt": "2026-10-18T16:11:59.548836Z",
+    "updatedAt": "2026-10-18T16:13:32.654702Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -162,7 +162,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-18T16:11:59.548836Z",
+    "updatedAt": "2026-10-18T16:13:32.654702Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
