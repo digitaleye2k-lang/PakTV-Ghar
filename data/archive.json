@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T14:56:38.770228+00:00",
+  "generatedAt": "2026-10-18T14:58:13.015442+00:00",
   "dateTimezone": "UTC",
-  "cursor": 25,
+  "cursor": 37,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -105,63 +105,63 @@
       "uploadsId": "UUyiJNpF7RgpPhyeKc4wnQkg",
       "handle": "hasbehaalofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T09:46:52.097415+00:00"
+      "lastFetchedAt": "2026-10-18T14:58:13.015442+00:00"
     },
     "pakexperience": {
       "youtubeId": "UC44l9XMwecN5nSgIF2Dvivg",
       "uploadsId": "UU44l9XMwecN5nSgIF2Dvivg",
       "handle": "ThePakistanExperience",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T09:46:52.097415+00:00"
+      "lastFetchedAt": "2026-10-18T14:58:13.015442+00:00"
     },
     "maaz": {
       "youtubeId": "UCz0M2pV4jOUUQ88lOd2q08A",
       "uploadsId": "UUz0M2pV4jOUUQ88lOd2q08A",
       "handle": "MaazSafderWorld",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T09:46:52.097415+00:00"
+      "lastFetchedAt": "2026-10-18T14:58:13.015442+00:00"
     },
     "matiullah": {
       "youtubeId": "UC-hJ0cobUiWlBFTHgLwt8sQ",
       "uploadsId": "UU-hJ0cobUiWlBFTHgLwt8sQ",
       "handle": "MatiullahJanMJtv",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T09:46:52.097415+00:00"
+      "lastFetchedAt": "2026-10-18T14:58:13.015442+00:00"
     },
     "p4pakao": {
       "youtubeId": "UCI9tIvSPsdxNEICjZk7ujUA",
       "uploadsId": "UUI9tIvSPsdxNEICjZk7ujUA",
       "handle": "p4pakaoofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T09:46:52.097415+00:00"
+      "lastFetchedAt": "2026-10-18T14:58:13.015442+00:00"
     },
     "dawnnews": {
       "youtubeId": "UCaxR-D8FjZ-2otbU0_Y2grg",
       "uploadsId": "UUaxR-D8FjZ-2otbU0_Y2grg",
       "handle": "dawnnewspakistan",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T09:46:52.097415+00:00"
+      "lastFetchedAt": "2026-10-18T14:58:13.015442+00:00"
     },
     "irfanjunejo": {
       "youtubeId": "UCUuDUW0Y6IQZYDvH1QQBsgA",
       "uploadsId": "UUUuDUW0Y6IQZYDvH1QQBsgA",
       "handle": "irfanjunejo",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T12:54:10.794362+00:00"
+      "lastFetchedAt": "2026-10-18T14:58:13.015442+00:00"
     },
     "kunfoods": {
       "youtubeId": "UCJEGvNxXunjqrcd2Xg9ntMQ",
       "uploadsId": "UUJEGvNxXunjqrcd2Xg9ntMQ",
       "handle": "KunFoods",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T12:54:10.794362+00:00"
+      "lastFetchedAt": "2026-10-18T14:58:13.015442+00:00"
     },
     "kitchenamna": {
       "youtubeId": "UCQ2P7C8UGoVM6AhqsVx-M0Q",
       "uploadsId": "UUQ2P7C8UGoVM6AhqsVx-M0Q",
       "handle": "KitchenWithAmna",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T12:54:10.794362+00:00"
+      "lastFetchedAt": "2026-10-18T14:58:13.015442+00:00"
     },
     "geoclassics": {
       "youtubeId": "UCLUfX9--VscMEKnIE6thhbg",
@@ -401,6 +401,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "l5e8TWtmqmM",
+      "title": "Talks can resume if US accepts conditions: Araghchi | Dawn News Headlines 07 PM",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T14:35:05Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 250,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/l5e8TWtmqmM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "QYcqfW-b91k",
       "title": "KP Emergency and Latest Saudi Arabia Missile Updates  | 07 PM HEADLINES",
       "channel": "Aaj TV Official",
@@ -452,6 +470,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/bcCDw84umd0/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "Kt7iHziwZSs",
+      "title": "PM praises outstanding achievements of Daanish School students | Breaking News | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T14:31:56Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 183,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Kt7iHziwZSs/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -743,6 +779,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "0ZmGsCWIzAY",
+      "title": "Life, Love, Loss, Mens Mental Health and Bad Jokes - Kazi Akber - #TPE",
+      "channel": "The Pakistan Experience",
+      "channelId": "pakexperience",
+      "youtubeChannelId": "UC44l9XMwecN5nSgIF2Dvivg",
+      "category": "vloggers",
+      "genre": "Interviews & commentary",
+      "date": "2026-10-18",
+      "published": "2026-10-18T14:05:34Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 13664,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/0ZmGsCWIzAY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "SsCoeU_SSpY",
       "title": "Mohabbat Aamne Saamne 😍 | Izzat | ARY Digital",
       "channel": "ARY Digital",
@@ -992,6 +1046,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/ByofRyCn2O8/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "nbzB_wywf4w",
+      "title": "Talks offered to opposition to end Governor's Rule | Dawn News Headlines 06 PM",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T13:44:50Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 855,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/nbzB_wywf4w/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -1319,6 +1391,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "6l7fiB5AovA",
+      "title": "First Pakistani astronaut set for space mission on Nov 25 | Dawn News Headlines 05 PM",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T13:14:32Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 433,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/6l7fiB5AovA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "l9UMUa8S-us",
       "title": "Global Oil Prices | Tugboat Hit by Two Unknown Projectiles Off UAE Coast | 05 PM HEADLINES",
       "channel": "Aaj TV Official",
@@ -1625,6 +1715,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "mFennXXLHm4",
+      "title": "Karachi Young Innovator Achieves Major Breakthrough in Technology | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T12:30:15Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 134,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/mFennXXLHm4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "vw_r5cxUcMU",
       "title": "Tumhari Wajah Se Maine Apni Maa Kho Di 😡🔥🫨 | Best Moment | Main Tera",
       "channel": "ARY Digital",
@@ -1658,6 +1766,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/ez4uLSbN3rc/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "OyBdi2KZBOU",
+      "title": "Flour Prices Drop in Peshawar and Bannu | Breaking News | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T12:20:23Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 137,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/OyBdi2KZBOU/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -1787,6 +1913,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "hQXOH0bYLXM",
+      "title": "FIA Successful Operations Across Pakistan | Breaking News | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T12:10:38Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 173,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/hQXOH0bYLXM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "7iLR1W8u2Cs",
       "title": "Mysterious Calls | Bushra Bibi’s Sister Breaks Her Silence | Two Months Without a Meeting | Do Tok",
       "channel": "SAMAA TV",
@@ -1910,6 +2054,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/A7DguWZ5MsY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "ACrYHaWwu-E",
+      "title": "Security Forces Conduct Successful Operation | ISPR Updates | Breaking News | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T11:50:31Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 103,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/ACrYHaWwu-E/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -2327,6 +2489,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "zzI4NMhvWpg",
+      "title": "Ek Jumla Aur Sab Deport! London Airport Par Musiqaron Ki Khair Na Rahi! | Hasb-e-Haal | Dunya News",
+      "channel": "Hasb-e-Haal Official",
+      "channelId": "hasbehaal",
+      "youtubeChannelId": "UCyiJNpF7RgpPhyeKc4wnQkg",
+      "category": "comedy",
+      "genre": "Comedy & satire",
+      "date": "2026-10-18",
+      "published": "2026-10-18T11:00:28Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 689,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/zzI4NMhvWpg/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "ghjmSCnXFR0",
       "title": "Baghan Vihe mein tou tore Tere Liye Gulaab vey 🌹 | Rutba | ARY Digital Drama",
       "channel": "ARY Digital",
@@ -2399,6 +2579,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "AaAaJr4ZNvY",
+      "title": "🔴 Live: Bilawal Bhutto Addresses the Media | Dawn News Live",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T10:55:58Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1382,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/AaAaJr4ZNvY/hqdefault_live.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "tnOVhK9dAF0",
       "title": "Terrorism Brings Industrial Activity to a Standstill in KP: Adviser on Industries and Commerce",
       "channel": "ARY News",
@@ -2435,6 +2633,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "obT8NhPD1v0",
+      "title": "Lahore Chicken Price Hike: Consumers Face Higher Costs | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T10:50:31Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 98,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/obT8NhPD1v0/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "xhrpAzvv7XQ",
       "title": "Khabardar! Agar Aik Lafz Bhi Bola Toh! 😡 || Uswah || Har Pal Geo",
       "channel": "Har Pal Geo",
@@ -2468,6 +2684,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/r-a43pI4uTw/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "gEdbXe7f94s",
+      "title": "Helicopter Crash Fatalities & US Warns Iran Of New Military Strikes | Dawn News Headlines 3 PM",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T10:36:45Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 673,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/gEdbXe7f94s/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -41729,24 +41963,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "cTCrMHRFIm8",
-      "title": "🔴 Live: Prime Minister Shehbaz Sharif Addresses The Meeting | Dawn News Live",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-14",
-      "published": "2026-10-14T03:10:05Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 1190,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/cTCrMHRFIm8/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "sWfE6_DRQUk",
       "title": "KPK Political Crisis: Long March Announced, Governor Removed? Asim Munir Under Spotlight",
       "channel": "Sabir Shakir",
@@ -41783,24 +41999,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "m2robW03RCk",
-      "title": "🔴 Live: Senator Faisal Vawda’s Press Conference | Latest Updates | Dawn News Live",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-13",
-      "published": "2026-10-13T23:13:39Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 2595,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/m2robW03RCk/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "zDt8Caqpq2g",
       "title": "PTV News LIVE | 24/7 Coverage | Headlines, Bulletins & Breaking News",
       "channel": "PTV News",
@@ -41834,78 +42032,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/PpP9CO-zboY/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "qtMmLnrEzCw",
-      "title": "Pakistan Successfully Tests Fatah-2 Hypersonic Missile | Dawn News Headlines 01 AM",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-13",
-      "published": "2026-10-13T20:20:32Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 318,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/qtMmLnrEzCw/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "ly0THzsJDYU",
-      "title": "🔴 Live: Islamabad: Federal Ministers Hold Important News Briefing  | Dawn News Live",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-13",
-      "published": "2026-10-13T20:02:04Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 5346,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/ly0THzsJDYU/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "kMSmXL6LQWI",
-      "title": "Laiba Case In Islamabad: More Shocking Revelations Emerge | Dawn News",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-13",
-      "published": "2026-10-13T19:45:15Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 97,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/kMSmXL6LQWI/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "Evicq8Gy6N0",
-      "title": "Saudi Arabia Foils Houthi Attack | Missile Intercepted | Dawn News Headlines 12 AM",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-13",
-      "published": "2026-10-13T19:40:06Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 1015,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/Evicq8Gy6N0/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -41981,60 +42107,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "TtSeVKsE2fc",
-      "title": "Governors Rule: Is This a Trailer For The Rest Of The Country? | Zara Hat Kay | Dawn News",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-13",
-      "published": "2026-10-13T19:06:27Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 2417,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/TtSeVKsE2fc/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "71epa-35q18",
-      "title": "Governor Rule: Beauty Of Democracy - Zardari's Masterstroke | Dawn News",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-13",
-      "published": "2026-10-13T19:06:21Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 532,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/71epa-35q18/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "oJWPIOmzrjQ",
-      "title": "Govt Planning Emergency In KP Till 2029 - What's The Plan? | Dawn News",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-13",
-      "published": "2026-10-13T19:06:19Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 813,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/oJWPIOmzrjQ/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "yIdHMCAtInw",
       "title": "Technocrat Government | Democracy in Pakistan | Political System Debate | News Insight with Amir Zia",
       "channel": "Aaj TV Official",
@@ -42053,24 +42125,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "RM1UpXCU3eI",
-      "title": "National Assembly Set to Approve Emergency Enforcement Tomorrow | Dawn News",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-13",
-      "published": "2026-10-13T19:00:03Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 96,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/RM1UpXCU3eI/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "ccc3lUxZBPs",
       "title": "PTI in KP | Khyber Pakhtunkhwa Political Crisis | PTI Response | News Insight with Amir Zia",
       "channel": "Aaj TV Official",
@@ -42086,24 +42140,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/ccc3lUxZBPs/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "oP3VMEidQIM",
-      "title": "Foreign University Admission Guide - Factors You Can't Ignore | Dawn News",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-13",
-      "published": "2026-10-13T18:54:06Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 520,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/oP3VMEidQIM/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79419,44 +79455,8 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/Wudigoj6al4/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "HGp4_l5LnIs",
-      "title": "Biggest Mutton Karahi | Full Bakra Karahi Cooking in Village | Mubashir Saddique | Village Food",
-      "channel": "Village Food Secrets",
-      "channelId": "villagefood",
-      "youtubeChannelId": "UCQexaAjPn3-1MCE4DmBK3Tg",
-      "category": "vloggers",
-      "genre": "Food & recipes",
-      "date": "2025-12-29",
-      "published": "2025-12-29T14:20:37Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 430,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/HGp4_l5LnIs/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "uHSRab-do1w",
-      "title": "Extreme Fish Challenge in Lahore - Sardar, Bashir, Billa, Siddique ki machli",
-      "channel": "Rana Hamza Saif (RHS)",
-      "channelId": "rhs",
-      "youtubeChannelId": "UCgFG7lz7BI5hsNEifevrWSw",
-      "category": "vloggers",
-      "genre": "Food & travel",
-      "date": "2025-12-29",
-      "published": "2025-12-29T12:04:48Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 1424,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/uHSRab-do1w/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Junaid Akram: channel unavailable",
+  "lastError": "Express News: channel unavailable; Asad Toor: channel unavailable; Siddique Jaan: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
