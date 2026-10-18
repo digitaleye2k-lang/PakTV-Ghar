@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-10-18T19:31:22.954996+00:00",
+  "generatedAt": "2026-10-18T19:32:39.864447+00:00",
   "dateTimezone": "UTC",
-  "cursor": 15,
+  "cursor": 27,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
       "uploadsId": "UU_vt34wimdCzdkrzVejwX9g",
       "handle": "geonews",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T19:13:32.626207+00:00"
+      "lastFetchedAt": "2026-10-18T19:32:39.864447+00:00"
     },
     "ducky": {
       "youtubeId": "UC_c-RTowPbIlzMkIa_O7s6Q",
       "uploadsId": "UU_c-RTowPbIlzMkIa_O7s6Q",
       "handle": "duckybhai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T19:13:32.626207+00:00"
+      "lastFetchedAt": "2026-10-18T19:32:39.864447+00:00"
     },
     "arynews": {
       "youtubeId": "UCMmpLL2ucRHAXbNHiCPyIyg",
       "uploadsId": "UUMmpLL2ucRHAXbNHiCPyIyg",
       "handle": "ArynewsTvofficial",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T19:13:32.626207+00:00"
+      "lastFetchedAt": "2026-10-18T19:32:39.864447+00:00"
     },
     "rhs": {
       "youtubeId": "UCgFG7lz7BI5hsNEifevrWSw",
       "uploadsId": "UUgFG7lz7BI5hsNEifevrWSw",
       "handle": "ranahamzasaifrhs",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T19:13:32.626207+00:00"
+      "lastFetchedAt": "2026-10-18T19:32:39.864447+00:00"
     },
     "dunya": {
       "youtubeId": "UCG7xCQTxgy93j6r49wl48rw",
@@ -42,28 +42,28 @@
       "uploadsId": "UUQexaAjPn3-1MCE4DmBK3Tg",
       "handle": "villagefoodsecrets",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T19:13:32.626207+00:00"
+      "lastFetchedAt": "2026-10-18T19:32:39.864447+00:00"
     },
     "geohasna": {
       "youtubeId": "UC6HQ4d3xq9EgSeJgMhc-4AQ",
       "uploadsId": "UU6HQ4d3xq9EgSeJgMhc-4AQ",
       "handle": "GeoHasnaManaHai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T19:13:32.626207+00:00"
+      "lastFetchedAt": "2026-10-18T19:32:39.864447+00:00"
     },
     "streetfoodpk": {
       "youtubeId": "UCt8NJjYKc2aT3T0TnbcWxSw",
       "uploadsId": "UUt8NJjYKc2aT3T0TnbcWxSw",
       "handle": "streetfoodpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T19:13:32.626207+00:00"
+      "lastFetchedAt": "2026-10-18T19:32:39.864447+00:00"
     },
     "hum": {
       "youtubeId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
       "uploadsId": "UUEeEQxm6qc_qaTE7qTV5aLQ",
       "handle": "HUMTV",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T19:16:00.197977+00:00"
+      "lastFetchedAt": "2026-10-18T19:32:39.864447+00:00"
     },
     "arydigital": {
       "youtubeId": "UC4JCksJF76g_MdzPVBJoC3Q",
@@ -245,14 +245,14 @@
       "uploadsId": "UU2PYniNHljOED9xNaMpiMiQ",
       "handle": "ARYFilms",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-18T19:13:32.626207+00:00"
+      "lastFetchedAt": "2026-10-18T19:32:39.864447+00:00"
     },
     "drmmovies": {
       "youtubeId": "UCDmQsP_LTEWPZ2AXS9eWTrQ",
       "uploadsId": "UUDmQsP_LTEWPZ2AXS9eWTrQ",
       "handle": "pakistani_movies",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-18T19:13:32.626207+00:00"
+      "lastFetchedAt": "2026-10-18T19:32:39.864447+00:00"
     },
     "pcb": {
       "youtubeId": "UCiWrjBhlICf_L_RK5y6Vrxw",
@@ -357,7 +357,7 @@
       "uploadsId": "UU8Artr_jqToYkRKjgjhezmw",
       "handle": "movieboxmovies",
       "checkedAt": "2026-10-18T17:28:01.603474+00:00",
-      "lastFetchedAt": "2026-10-18T19:13:32.626207+00:00"
+      "lastFetchedAt": "2026-10-18T19:32:39.864447+00:00"
     },
     "lollywoodclassics": {
       "youtubeId": "UCV-z8APBalmSWNrre62xKxg",
@@ -368,6 +368,24 @@
     }
   },
   "videos": [
+    {
+      "id": "3r6a5uzwNf0",
+      "title": "Kamran Murtaza's Strong Statement on Govt #kamranmurtaza #mariamemon #sawalyehai #juif #shorts",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T19:30:41Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 96,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/3r6a5uzwNf0/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
     {
       "id": "1e2A3B1JwpI",
       "title": "Emergency, Governor’s Rule in KP | Shaukat Yousafzai Criticizes PTI Leadership | Samaa TV",
@@ -802,7 +820,7 @@
     },
     {
       "id": "IT3IG3enZOc",
-      "title": "KP Emergency & Governor Rule | Shocking Updates | Violent Protest | ARY News 11 PM Headlines",
+      "title": "KP Emergency & Governor Rule Debate | Shocking Updates | Violent Protest | ARY News 11 PM Headlines",
       "channel": "ARY News",
       "channelId": "arynews",
       "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
@@ -1107,6 +1125,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "Zl4tnSx7HBA",
+      "title": "Aiteraz Hai | Governor’s Rule in KP: Will Talks Continue or Collapse? | 18th Oct 2026",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T18:26:55Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2874,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Zl4tnSx7HBA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "uSc8Lwz0Iac",
       "title": "Shaukat Yousafzai Questions PTI Leadership Over Long March",
       "channel": "ARY News",
@@ -1122,6 +1158,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/uSc8Lwz0Iac/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "Th39DIi9Of0",
+      "title": "Can reconciliation be achieved between Imran Khan and the establishment? | Jirga | Saleem Safi",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "talk",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T18:25:55Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2751,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Th39DIi9Of0/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -28377,24 +28431,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "yCfnSX6-6ME",
-      "title": "Khawaja Asif Rejects Faisal Vawda’s Claim! Political Controversy Intensifies",
-      "channel": "Geo News",
-      "channelId": "geonews",
-      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T17:51:14Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 682,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/yCfnSX6-6ME/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "DJRY0-e1PAM",
       "title": "Asy Nah Dekhein Jaan Nikal Jati Hai Meri..!! #aangan #sajalaly #ahadrazamir #ahsankhan",
       "channel": "HUM TV",
@@ -29601,24 +29637,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "EAu7GO9gvkk",
-      "title": "Mohsin Naqvi’s Criticism of Maulana Was Inappropriate and Could Backfire, Says Aamir Ilyas Rana",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T16:30:39Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 538,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/EAu7GO9gvkk/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "vQLfwXu9BcA",
       "title": "Aqib Javed to Stay for the Long Run? Shoaib Akhtar Reveals",
       "channel": "PTV SPORTS OFFICIAL",
@@ -29760,24 +29778,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/qcpAqiGj8pc/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "t50uso_Ublo",
-      "title": "New Provinces, Administrative Units or Local Government System? Rana Sanaullah Breaks Silence",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T16:27:48Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 208,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/t50uso_Ublo/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79569,6 +79569,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "",
+  "lastError": "Dunya News: HTTP 404: playlistNotFound",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
