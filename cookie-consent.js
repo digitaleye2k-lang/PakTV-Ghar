@@ -72,20 +72,32 @@
     }
   }
   function loadExtraAds(){
-    // The original separate ad script (often a click/popunder format) needs
-    // access to normal page events, not a hidden 1px sandboxed iframe.
-    // Only insert it for visitors who explicitly enabled this category.
-    const script=document.createElement("script");
-    script.async=true;
-    script.src="https://pl31906515.profitableratecpmnetwork.com/4f/0a/64/4f0a641a189dc6322b38f5314f6a2e11.js";
-    script.setAttribute("data-adsterra-extra","true");
-    document.body.appendChild(script);
-    // Separate Adsterra Social Bar code, also gated behind extra-ad consent.
-    const social=document.createElement("script");
-    social.async=true;
-    social.src="https://pl31906518.profitableratecpmnetwork.com/ff/fa/b4/fffab493e7b49c6ce9105c26081329de.js";
-    social.setAttribute("data-adsterra-extra","true");
-    document.body.appendChild(social);
+    // Do not load the popunder/direct-navigation script: it can take
+    // visitors away from the site without an intentional ad click.
+    // Keep the separate Social Bar optional and delay it for 20 minutes
+    // from the start of this tab's browsing session.
+    const WAIT=20*60*1000, KEY="pgh_extra_ads_session_start";
+    let start=Date.now();
+    try{
+      const stored=Number(sessionStorage.getItem(KEY));
+      if(Number.isFinite(stored)&&stored>0&&stored<=Date.now())start=stored;
+      else sessionStorage.setItem(KEY,String(start));
+    }catch{}
+    function loadSocial(){
+      if(document.querySelector('script[data-adsterra-social]'))return;
+      // Recheck latest consent before loading after a long-running timer.
+      const current=choice();
+      if(GPC||!current?.extra||document.body?.dataset?.paktvExtraAds==="no"||
+        document.body?.dataset?.paktvBannerOnly==="yes")return;
+      const social=document.createElement("script");
+      social.async=true;
+      social.src="https://pl31906518.profitableratecpmnetwork.com/ff/fa/b4/fffab493e7b49c6ce9105c26081329de.js";
+      social.setAttribute("data-adsterra-social","true");
+      document.body.appendChild(social);
+    }
+    const remaining=Math.max(0,WAIT-(Date.now()-start));
+    if(remaining)window.setTimeout(loadSocial,remaining);
+    else loadSocial();
   }
 
   // A single optional 160x600 placement follows the active video player or DJ.
