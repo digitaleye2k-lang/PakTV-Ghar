@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T22:48:42.861047+00:00",
+  "generatedAt": "2026-10-18T22:51:37.066173+00:00",
   "dateTimezone": "UTC",
-  "cursor": 76,
+  "cursor": 11,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -371,49 +371,49 @@
       "uploadsId": "UUM1VesJtJ9vTXcMLLr_FfdQ",
       "handle": "cokestudio",
       "checkedAt": "2026-10-18T19:46:24.753696+00:00",
-      "lastFetchedAt": "2026-10-18T22:13:52.818839+00:00"
+      "lastFetchedAt": "2026-10-18T22:51:37.066173+00:00"
     },
     "emipakistan": {
       "youtubeId": "UC52h_LCatoUs6ycLjT9V8bQ",
       "uploadsId": "UU52h_LCatoUs6ycLjT9V8bQ",
       "handle": "EMIPakistanOfficial",
       "checkedAt": "2026-10-18T20:11:10.576823+00:00",
-      "lastFetchedAt": "2026-10-18T22:13:52.818839+00:00"
+      "lastFetchedAt": "2026-10-18T22:51:37.066173+00:00"
     },
     "talhaanjum": {
       "youtubeId": "UCaHBioELm9IzGYhg70Z1BKg",
       "uploadsId": "UUaHBioELm9IzGYhg70Z1BKg",
       "handle": "talhaanjum",
       "checkedAt": "2026-10-18T19:46:24.753696+00:00",
-      "lastFetchedAt": "2026-10-18T22:13:52.818839+00:00"
+      "lastFetchedAt": "2026-10-18T22:51:37.066173+00:00"
     },
     "youngstunners": {
       "youtubeId": "UCaHpJ-SkCR604NNBnjM9thQ",
       "uploadsId": "UUaHpJ-SkCR604NNBnjM9thQ",
       "handle": "YoungStunners",
       "checkedAt": "2026-10-18T19:46:24.753696+00:00",
-      "lastFetchedAt": "2026-10-18T22:19:00.832783+00:00"
+      "lastFetchedAt": "2026-10-18T22:51:37.066173+00:00"
     },
     "jaubi": {
       "youtubeId": "UC6s1zz1-t7rPf-4scKVYD8g",
       "uploadsId": "UU6s1zz1-t7rPf-4scKVYD8g",
       "handle": "Jaubi",
       "checkedAt": "2026-10-18T20:04:20.517484+00:00",
-      "lastFetchedAt": "2026-10-18T22:19:00.832783+00:00"
+      "lastFetchedAt": "2026-10-18T22:51:37.066173+00:00"
     },
     "atifs": {
       "youtubeId": "UC3FnOdo2ooBS4TrEcmwUR_Q",
       "uploadsId": "UU3FnOdo2ooBS4TrEcmwUR_Q",
       "handle": "AtifAslamOfficial",
       "checkedAt": "2026-10-18T19:47:58.539938+00:00",
-      "lastFetchedAt": "2026-10-18T22:19:00.832783+00:00"
+      "lastFetchedAt": "2026-10-18T22:51:37.066173+00:00"
     },
     "bayaan": {
       "youtubeId": "UCqOLlRNuWqswf30c9AJC-Cg",
       "uploadsId": "UUqOLlRNuWqswf30c9AJC-Cg",
       "handle": "BayaanOfficial",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-18T22:19:00.832783+00:00"
+      "lastFetchedAt": "2026-10-18T22:51:37.066173+00:00"
     },
     "abdulhannan": {
       "youtubeId": "UCZ1FCXu6uAhE6YkAsKQDGNg",
@@ -79639,6 +79639,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Asad Toor: channel unavailable; Siddique Jaan: channel unavailable; HUM TV Comedy: channel unavailable",
+  "lastError": "Mazaaq Raat: channel unavailable; NESCAFÉ Basement: channel unavailable; Sajjad Ali: channel unavailable; Mekaal Hasan Band: channel unavailable; Rahat Fateh Ali Khan: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
