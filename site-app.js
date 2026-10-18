@@ -202,83 +202,118 @@ let spotlightHovered=false;
 let spotlightFocused=false;
 const spotlightReducedMotion=window.matchMedia('(prefers-reduced-motion: reduce)');
 function spotlightChoices(){
-  const found=SPOTLIGHT_IDS.map(id=>LIBRARY.find(show=>show.id===id))
-    .filter(show=>show&&typeof state.showMeta[show.id]?.poster==='string'&&
-      /^https:\/\//.test(state.showMeta[show.id].poster));
-  // Include other genuinely illustrated serials if our spotlight choices rotate.
-  const extra=LIBRARY.filter(show=>show.type==='drama'&&
-    state.showMeta[show.id]?.poster&&/^https:\/\//.test(state.showMeta[show.id].poster));
-  const used=new Set();
-  const choices=[...found,...extra].filter(show=>!used.has(show.id)&&used.add(show.id));
-  return choices.slice(0,6);
+  // The homepage showcases the whole site, not just dramas.
+  // All artwork is owner-supplied or from indexed original publishers.
+  const pick=cat=>catVideos(cat).find(v=>/^[A-Za-z0-9_-]{11}$/.test(v.id||''));
+  const drama=SPOTLIGHT_IDS.map(id=>LIBRARY.find(show=>show.id===id))
+    .find(show=>show&&/^https:\/\//.test(state.showMeta[show.id]?.poster||''))||
+    LIBRARY.find(show=>show.type==='drama'&&/^https:\/\//.test(state.showMeta[show.id]?.poster||''));
+  const news=pick('news'),sports=pick('sports'),comedy=pick('comedy'),vlog=pick('vloggers');
+  const out=[];
+  if(drama)out.push({name:drama.name,poster:state.showMeta[drama.id].poster,
+    subtitle:networkName[drama.network]||'Official broadcaster',label:'TV SHOW SPOTLIGHT',
+    description:'Browse drama episodes, official broadcaster sources and viewer ratings.',
+    kind:'show',id:drama.id,href:routeURL('dramas'),action:'Explore this show →'});
+  out.push(
+    {name:'GUPSHUP · Chai, chat & community',poster:'./assets/gupshup-chai-main.jpg',
+      subtitle:'Friends · chai · conversations',label:'DISCOVER GUPSHUP',
+      description:'Visit our tea-inspired gathering place, join a discussion room and discover the latest community features.',
+      href:'./gupshup.html',action:'Step into GUPSHUP ☕'},
+    {name:'Pakistani Movies · Cinema & classics',poster:'./assets/movie-headline-1.webp',
+      subtitle:'Films · classics · full movies',label:'FILM NIGHT',
+      description:'Discover Pakistani cinema, browse classic film collections and rate your favourite movies.',
+      href:routeURL('movies'),action:'Browse Pakistani movies →'});
+  if(sports)out.push({name:'Pakistani Sports · Cricket & beyond',poster:thumb(sports.id),
+    subtitle:sports.channel||'Pakistan sports broadcasters',label:'SPORTS HIGHLIGHTS',
+    description:'Catch sports videos, cricket highlights, match coverage and creator commentary.',
+    href:routeURL('sports'),action:'Explore sports →'});
+  out.push(
+    {name:'Kids Corner · Watch, learn & play',poster:'./assets/waggle-workshop-logo.svg',
+      subtitle:'Kids videos · safe games',label:'NEW IN KIDS CORNER',
+      description:'Pakistani cartoons, Urdu rhymes and family-friendly learning games with Professor Pip.',
+      href:'./kids.html',action:'Visit Kids Corner 🌈',logo:true},
+    {name:'The Waggle Workshop · Professor Pip',poster:'./assets/waggle-workshop-logo.svg',
+      subtitle:'YouTube videos · playroom',label:'FEATURED COLLABORATION',
+      description:'Meet Professor Pip for playful learning videos and seven browser games, including Cricket Champs.',
+      href:'./waggle-workshop.html',action:'Discover the collaboration →',logo:true});
+  if(news)out.push({name:'News from Pakistan & the world',poster:thumb(news.id),
+    subtitle:'Headlines · English / اردو',label:'STAY INFORMED',
+    description:'Follow Pakistani and world headlines, choose Urdu or English, and catch up with trusted publisher updates.',
+    href:routeURL('news'),action:'Read & watch the news →'});
+  if(comedy)out.push({name:'Pakistani Comedy & laughs',poster:thumb(comedy.id),
+    subtitle:comedy.channel||'Comedy and entertainment',label:'TIME FOR A LAUGH',
+    description:'From comedy classics to current satire, find funny clips and familiar performers.',
+    href:routeURL('comedy'),action:'Watch comedy →'});
+  if(vlog)out.push({name:'Pakistani Creators & Vloggers',poster:thumb(vlog.id),
+    subtitle:vlog.channel||'Pakistani creators',label:'MEET THE CREATORS',
+    description:'Discover food, travel, family videos and the stories creators share every day.',
+    href:routeURL('vloggers'),action:'Explore creators →'});
+  out.push({name:'RetroWorld · Play retro games',poster:'./assets/movie-headline-3.webp',
+    subtitle:'Our sister website',label:'MORE TO EXPLORE',
+    description:'Looking for games? Visit our other website, RetroWorld, for more fun.',
+    href:'https://retroworld.eu.cc/',action:'Visit RetroWorld ↗'});
+  return out;
 }
 function spotlightFallback(){
-  const seed=SEED_VIDEOS.find(v=>v.category==='dramas')||SEED_VIDEOS[0];
   return '<div class="spotlight-slide is-active" aria-hidden="false">'+
-    '<div class="spotlight-art"><img class="spotlight-backdrop" src="'+escapeHTML(thumb(seed.id))+'" alt="" fetchpriority="high">'+
-    '<img class="spotlight-feature-art" src="'+escapeHTML(thumb(seed.id))+'" alt="" loading="eager"></div>'+
+    '<div class="spotlight-art"><img class="spotlight-backdrop" src="./assets/gupshup-chai-main.jpg" alt=""></div>'+
     '<div class="spotlight-shade"></div><div class="spotlight-slide-inner">'+
-    '<span class="spotlight-kicker"><span>✦ PAKTV GHAR</span> YOUR PAKISTANI TV HOME</span>'+
-    '<h1>Every story.<br>One beautiful place.</h1>'+
-    '<p class="spotlight-description">Dramas, current affairs, comedy and Pakistani creators. Find your next favourite from the original publishers.</p>'+
-    '<div class="spotlight-buttons"><button class="btn-primary" type="button" data-nav="dramas">▶ Explore dramas</button>'+
-    '<button class="btn-secondary" type="button" data-nav="archive">▦ Explore archive</button></div>'+
-    '</div></div>';
+    '<span class="spotlight-kicker">✦ PAKTV GHAR · EXPLORE</span><h1>Every story.<br>One beautiful place.</h1>'+
+    '<p class="spotlight-description">Discover dramas, films, sports, kids, games and GUPSHUP.</p>'+
+    '<div class="spotlight-buttons"><a class="btn-primary" href="./gupshup.html">Explore GUPSHUP →</a></div></div></div>';
 }
 function hero(){
   const choices=spotlightChoices();
   spotlightIndex=choices.length?spotlightIndex%choices.length:0;
-  const slideMarkup=choices.length?choices.map((show,i)=>{
-    const meta=state.showMeta[show.id]||{};
+  const slideMarkup=choices.length?choices.map((slide,i)=>{
     const active=i===spotlightIndex;
-    const latest=meta.latestUpload?.number;
-    const label=show.status==='airing'?'Currently featured':show.status==='archive'?'From the classics':'Pakistani drama';
-    const background=meta.poster;
-    return '<article class="spotlight-slide'+(active?' is-active':'')+'" data-spotlight-slide="'+i+'" '+
-      'aria-hidden="'+(!active)+'"'+(active?'':' inert')+'>'+
+    const background=slide.poster;
+    const isExternal=/^https?:\/\//.test(slide.href||'');
+    const action=slide.kind==='show'
+      ?'<button class="btn-primary" type="button" data-series="'+escapeHTML(slide.id)+'">'+escapeHTML(slide.action)+'</button>'
+      :'<a class="btn-primary" href="'+escapeHTML(slide.href)+'"'+(isExternal?' target="_blank" rel="noopener noreferrer"':'')+'>'+escapeHTML(slide.action)+'</a>';
+    return '<article class="spotlight-slide'+(active?' is-active':'')+(slide.logo?' spotlight-logo-slide':'')+
+      '" data-spotlight-slide="'+i+'" aria-hidden="'+(!active)+'"'+(active?'':' inert')+'>'+
       '<div class="spotlight-art"><img class="spotlight-backdrop" src="'+escapeHTML(background)+'" alt="" '+
       (i===0?'fetchpriority="high" loading="eager"':'loading="lazy"')+
-      ' decoding="async" referrerpolicy="no-referrer" onerror="this.style.opacity=0">'+
+      ' decoding="async" onerror="this.style.opacity=0">'+
       '<img class="spotlight-feature-art" src="'+escapeHTML(background)+'" alt="" '+
       (i===0?'loading="eager"':'loading="lazy"')+
-      ' decoding="async" referrerpolicy="no-referrer" onerror="this.style.display=\'none\'"></div>'+
+      ' decoding="async" onerror="this.style.display=\'none\'"></div>'+
       '<div class="spotlight-shade"></div><div class="spotlight-slide-inner">'+
-      '<span class="spotlight-kicker"><span>✦ FEATURED DRAMA</span> '+escapeHTML(label)+'</span>'+
-      '<h1>'+escapeHTML(show.name)+'</h1>'+
-      '<div class="spotlight-meta"><span>'+escapeHTML(networkName[show.network]||show.network)+'</span>'+
-      '<span>Official publisher links</span>'+
-      (latest?'<span>Indexed episode '+escapeHTML(latest)+'</span>':'')+'</div>'+
-      '<p class="spotlight-description">Step into the world of '+escapeHTML(show.name)+
-      '. Discover available episodes, explore the original broadcaster, and save this Pakistani drama to your favourites.</p>'+
-      '<div class="spotlight-buttons"><button class="btn-primary" type="button" data-series="'+escapeHTML(show.id)+'">▶ Browse episodes</button>'+
-      '<button class="btn-secondary" type="button" data-nav="dramas">View all dramas →</button></div>'+
+      '<span class="spotlight-kicker"><span>✦ PAKTV GHAR</span> '+escapeHTML(slide.label)+'</span>'+
+      '<h1>'+escapeHTML(slide.name)+'</h1>'+
+      '<div class="spotlight-meta"><span>'+escapeHTML(slide.subtitle)+'</span><span>Discover more →</span></div>'+
+      '<p class="spotlight-description">'+escapeHTML(slide.description)+'</p>'+
+      '<div class="spotlight-buttons">'+action+
+      '<a class="btn-secondary" href="./gupshup.html">GUPSHUP ☕</a></div>'+
       '</div></article>';
   }).join(''):spotlightFallback();
   const count=choices.length;
-  return '<section class="spotlight-section" aria-label="Featured Pakistani drama slideshow">'+
+  return '<section class="spotlight-section" aria-label="Explore PakTV Ghar featured sections">'+
     '<div class="spotlight-topline"><span class="spotlight-title">PakTV Ghar · The Spotlight</span>'+
-    '<span class="spotlight-channel-count">HUM · ARY · GEO · GREEN · PTV</span></div>'+
+    '<span class="spotlight-channel-count">TV · MOVIES · SPORTS · KIDS · GUPSHUP · MORE</span></div>'+
     '<div id="spotlightCarousel" class="spotlight-stage'+(spotlightPaused||spotlightReducedMotion.matches?' is-paused':'')+
-    '" aria-roledescription="carousel" aria-label="Featured Pakistani dramas" tabindex="0">'+
+    '" aria-roledescription="carousel" aria-label="Featured Pakistani videos, pages and new features" tabindex="0">'+
     '<div class="spotlight-glimmer" aria-hidden="true"></div>'+slideMarkup+
     '<div class="spotlight-sheen" aria-hidden="true"></div>'+
     (count>1?'<div class="spotlight-controls"><div class="spotlight-control-left">'+
-     '<span class="spotlight-counter" aria-label="Slide number"><strong data-spotlight-count>'+(spotlightIndex+1)+
-     '</strong> / '+count+'</span><div class="spotlight-dots" aria-label="Choose featured drama">'+
-     choices.map((show,i)=>'<button class="spotlight-dot'+(i===spotlightIndex?' is-active':'')+
-        '" type="button" data-spotlight-index="'+i+'" aria-label="Show '+escapeHTML(show.name)+
-        '" aria-pressed="'+(i===spotlightIndex)+'"></button>').join('')+
-     '</div></div><div class="spotlight-buttons-right">'+
-     '<button class="spotlight-nav" type="button" data-spotlight-move="-1" aria-label="Previous drama">‹</button>'+
-     '<button class="spotlight-pause" type="button" data-spotlight-pause aria-label="'+(spotlightPaused?'Play slideshow':'Pause slideshow')+
-     '" aria-pressed="'+spotlightPaused+'">'+(spotlightPaused?'▶':'Ⅱ')+'</button>'+
-     '<button class="spotlight-nav" type="button" data-spotlight-move="1" aria-label="Next drama">›</button>'+
-     '</div></div>':'')+'</div>'+
-    (count>1?'<div class="spotlight-mini-track" role="group" aria-label="Featured drama previews">'+
-      choices.map((show,i)=>'<button type="button" class="spotlight-mini'+(i===spotlightIndex?' is-active':'')+
-      '" data-spotlight-index="'+i+'" aria-pressed="'+(i===spotlightIndex)+'" aria-label="Show '+escapeHTML(show.name)+'">'+
-      '<img src="'+escapeHTML(state.showMeta[show.id].poster)+'" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">'+
-      '<span><strong>'+escapeHTML(show.name)+'</strong><small>'+escapeHTML(networkName[show.network]||show.network)+'</small></span></button>').join('')+
+      '<span class="spotlight-counter" aria-label="Slide number"><strong data-spotlight-count>'+(spotlightIndex+1)+
+      '</strong> / '+count+'</span><div class="spotlight-dots" aria-label="Choose featured section">'+
+      choices.map((slide,i)=>'<button class="spotlight-dot'+(i===spotlightIndex?' is-active':'')+
+      '" type="button" data-spotlight-index="'+i+'" aria-label="Show '+escapeHTML(slide.name)+
+      '" aria-pressed="'+(i===spotlightIndex)+'"></button>').join('')+
+      '</div></div><div class="spotlight-buttons-right">'+
+      '<button class="spotlight-nav" type="button" data-spotlight-move="-1" aria-label="Previous feature">‹</button>'+
+      '<button class="spotlight-pause" type="button" data-spotlight-pause aria-label="'+(spotlightPaused?'Play slideshow':'Pause slideshow')+
+      '" aria-pressed="'+spotlightPaused+'">'+(spotlightPaused?'▶':'Ⅱ')+'</button>'+
+      '<button class="spotlight-nav" type="button" data-spotlight-move="1" aria-label="Next feature">›</button>'+
+      '</div></div>':'')+'</div>'+
+    (count>1?'<div class="spotlight-mini-track" role="group" aria-label="Featured section previews">'+
+      choices.map((slide,i)=>'<button type="button" class="spotlight-mini'+(i===spotlightIndex?' is-active':'')+
+      '" data-spotlight-index="'+i+'" aria-pressed="'+(i===spotlightIndex)+'" aria-label="Show '+escapeHTML(slide.name)+'">'+
+      '<img src="'+escapeHTML(slide.poster)+'" alt="" loading="lazy" decoding="async">'+
+      '<span><strong>'+escapeHTML(slide.name)+'</strong><small>'+escapeHTML(slide.subtitle)+'</small></span></button>').join('')+
       '</div>':'')+'</section>';
 }
 function updateSpotlight(index){
