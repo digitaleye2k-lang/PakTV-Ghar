@@ -11,7 +11,9 @@ const rooms={
  movies:["Movies","New releases, classics and film recommendations."],
  comedy:["Comedy","Share a smile, talk sketches and funny shows."],
  politics:["Political shows","Respectful discussion about talk shows and current affairs."],
- youtubers:["YouTubers","Discuss creators, vlogs and online series."]
+ youtubers:["YouTubers","Discuss creators, vlogs and online series."],
+ sports:["Sports & cricket","Pakistan cricket, football, hockey, PSL and sports updates."],
+ family:["Kids & Family (for parents)","Parent-led chats about cartoons, family shows and safe viewing. No unsupervised child participation."]
 };
 let backend=null,room="general",busy=false,timer=null,pendingReport=null,ready=false;
 const status=(message,mode="")=>{
@@ -187,6 +189,10 @@ async function init(){
 for(const btn of document.querySelectorAll("[data-room]")){
  btn.addEventListener("click",()=>setRoom(btn.dataset.room));
 }
+el("openFamilyRoom").addEventListener("click",()=>{
+ document.getElementById("conversation")?.scrollIntoView({behavior:"smooth"});
+ setRoom("family");
+});
 el("chatRefresh").addEventListener("click",()=>void loadMessages());
 el("gupshupForm").addEventListener("submit",send);
 el("reportForm").addEventListener("submit",report);
