@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-18T21:14:34.888907Z",
+  "generatedAt": "2026-10-18T21:16:01.184686Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-18T21:14:34.888907Z",
+      "updatedAt": "2026-10-18T21:16:01.184686Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -62,7 +62,7 @@
       ]
     },
     "world": {
-      "updatedAt": "2026-10-18T21:14:34.888907Z",
+      "updatedAt": "2026-10-18T21:16:01.184686Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -70,12 +70,6 @@
           "source": "Yahoo Sports",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbmlPbEdCRFFLS3R3YnM3dklmam0xNnFRUGtZYnRaazBRanI1S2xvZG9PcHBKR2c1VkNfUGpObl8tdGVadXFQdjVqak1zclJiTlNzeExQZ1ZZNFkwY1lIbFJ4TWZhT3dDc1FsTkdURThfeEhXNldLTW9WR0ViM1ZldFRockp6TE5BWmJZU3kyZmJSNkx5eWZTa1Y3OVd0WnJiMUY4ZENsMHY0Q2UtdHZwMTVqckZDN3djbzRfcnpOR2RYMG8?oc=5",
           "published": "2026-10-18T20:59:59Z"
-        },
-        {
-          "title": "95% of MAGA Republicans approve of Trump. For non-MAGA Republicans, it's 47%. - Axios",
-          "source": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX3lJdTZISU8xN3dtbDBaRV9sV05pdHdhYk1rMHMxR3kyV29lNWVjUV84cnlHcUZ2NThEOUJCNHB4ZWdHd0gzaURYeEJZRVM2SW9teXR3Y0lyaVQzdW8wWnRZeWdmX2hSSWFYcjZteHZtUlRONzhrMHZXd2JhWGtiUVN3?oc=5",
-          "published": "2026-10-18T19:57:06Z"
         },
         {
           "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27 - BBC",
@@ -96,10 +90,16 @@
           "published": "2026-10-18T19:42:37Z"
         },
         {
-          "title": "Elizabeth Holmes Documentary ‘You Can See Everything’ Opens to Over 2,000 Sold-Out Shows - The New York Times",
+          "title": "Elizabeth Holmes Film Opens to Over 2,000 Sold-Out Shows - The New York Times",
           "source": "The New York Times",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2Y2TlI4ZG1BWW5tQi00ZmMzNUZGaHJuaHhqRThzaU5LcG0wYWJaUlk0MzJ3OGpBdDlkN0lrX25PVXl6andKZm54aERjWHpCRXk1eXQwcEM5ejRDYUxJdVl3SlhMdVUzZVhxYXlaTkFUZ3ljMEtyRFFsRjNNMUlrQWNBd3pndTZOOVdJSmtCM0tvanZp?oc=5",
           "published": "2026-10-18T19:40:28Z"
+        },
+        {
+          "title": "Trump approval hits record low, handing Democrats a clear midterm edge - The Washington Post",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkJrME56Z1A3aVBwazIzNTA5ekFNUDFtRzAyaTgteUo1cU4yOElmOFJwYzB4WUVkR3hoWk5QYk9kbDRJR3AtWm91VEZfRnUyQzBQeVk1czBkWGhhNXZwWjNtUk1NdVpRcG1DMGZTZ2swcU5lQmFESzR5Y2h6ak1OdWhKQ0kxTERscDBPcGZlWWVleFdPczNVOWdlYkdkQUtick1oanByQlkxXzJKWi1hRDNDYXlFekVlaG1r?oc=5",
+          "published": "2026-10-18T19:24:49Z"
         },
         {
           "title": "Travis Hunter stars in Jaguars' loss, is 1st with INT and TD catch since 2002 - ESPN",
@@ -124,7 +124,7 @@
   },
   "newsUrdu": {
     "pakistan": {
-      "updatedAt": "2026-10-18T21:14:34.888907Z",
+      "updatedAt": "2026-10-18T21:16:01.184686Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -140,6 +140,12 @@
           "published": "2026-10-18T19:16:30Z"
         },
         {
+          "title": "How Much Is the Afghanistan Border Closure Costing Pakistan’s Pharma Industry?|Dus with Imran Sultan - Aaj News",
+          "source": "Aaj News",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zR0pGQUZ2Skt5WmhpY0E2TV9LdHBURXYwYmhiMHZaazd4a3ZjVUhmd3h3aHlnLVV3amU5WXgxQS10cjRscWpXSlRvUTQ?oc=5",
+          "published": "2026-10-18T18:45:09Z"
+        },
+        {
           "title": "Pakistan Responds to Afghan Taliban Firing in Upper Kurram, Border Alert Maintained - Aaj News",
           "source": "Aaj News",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWbzJtSWpvcm5zSDRVSE9tR05VMG5mT1NJSjlCUjFBSnRGbmVSdDAxYWw0Nm9rRGpqNU1FNHIxelF3STFRckJZVw?oc=5",
@@ -150,6 +156,12 @@
           "source": "Aaj News",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qY2FZNmFDcE00SUc5YmVneUFKejVDTFVyVC1Jb3ZGTkpiYkZZY0ZNcDNSdlI4elgxWXVORVp4SGozWlZXRVBBMC1GRUk?oc=5",
           "published": "2026-10-18T18:10:07Z"
+        },
+        {
+          "title": "Pakistan to Hire Global Experts to Recover K2 Airways Black Box From Deep Sea - Aaj English TV",
+          "source": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRl9FNlk3VHJmWHVpUThia3pvMW1LaVNIdUc4UnJmWWtWcnhOU0lESmliZW1IbjFjdGlSNEM4OG1aZFhUSGNiX1lnY1p4QXF3MU15REJ4Vk1Memp3NzdRWXdvTExzTS1vM1NoS3RGdEs5SHkzTEcwLVk0a3cwODJHMzFwTDhqRXFlQzZ0WWtXaGstNzkza3A5eUpRNVVHNlJycFBDaERXMWg0aWFIZFRNOWhUd29SeUVENEdKWFByVVA5QQ?oc=5",
+          "published": "2026-10-18T17:50:10Z"
         },
         {
           "title": "Pakistan to Hire Global Experts to Recover K2 Airways Black Box From Deep Sea - Aaj News",
@@ -168,25 +180,13 @@
           "source": "| Associated Press Of Pakistan",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRkhhTUxuRVZwSXIya1lXTGZxMk5iQWNwMWJFMVpHY1FHZ3JmbDRHRXFjRWJRdndwV0tkV2ZPRVV2ZVUxWjBCQmxyVjRvaDdiSjhUNHJiaVlNeTFwaTBBVTRfMEJ4WXNCeElsUFE5Q2xoSU1lNEp2V0JXU3hSV292U3pPSldzcWw0ZDFNNEhkRkE5Ym9ZMTRXN1dNa05TY0stYUFCeXVISWFlb1FpaWdGdXhBVnZUNzEwdk1scF92SW0?oc=5",
           "published": "2026-10-18T17:17:33Z"
-        },
-        {
-          "title": "Shehbaz Sharif calls for equal education for all, highlighti - Pakistan Today",
-          "source": "Pakistan Today",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWh1YU9JUmlZZ2xGTUxWSFVCNmdBakFpdlZRaWYtRGkweFR2ZkI2Tzk5Ykk5UTlYUV9hRE04Z3JBMGRZTDhVUlk1ZzdwYTRFNlZpdDA4VlpaWXJUM1ZaMjZJLVRDbkl0V2cxa1J5d3BldXlDaEYzUkVxVU9vTDVsREJ0Z24xXzVfQlJUa25NNnBnZUNILW5sLVREWERRVk1GU09mQmNZejVzT1RITmt6X1JMSQ?oc=5",
-          "published": "2026-10-18T16:43:15Z"
-        },
-        {
-          "title": "Pakistan beat Sri Lanka by 37 runs in ODI tri-series opener - Dunya News",
-          "source": "Dunya News",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaTRUTHZKdlFHOTlqWEJDWFZOYll5UVotTlMtZ3EwWF9YVkYyaXJmM3U5enExTlpLMkl4b2ZJM3ZYQTlQM2l1cFNTdXI0TVpaSnZiV1JacXJZazk3U1YwMGNlQVVTS3VxUVZMbXVYRnZtV2JNY3IxVXRRcWVQbXVvLUExbXEzazVGUjlZTVppYmJ6Y3ExR1g5NkVnaWHSAVZBVV95cUxNS1ZPMVh2VWFpMXVzMXVIaXNVamF3ckVJQnFta0tWaFBsMUx0RDE4QmpqYnoteE53eXZSRHhGY2hBcXIwLU9YTkVXT2pXSmxBYTRKbVpXdw?oc=5",
-          "published": "2026-10-18T16:36:43Z"
         }
       ]
     },
     "world": {}
   },
   "weather": {
-    "updatedAt": "2026-10-18T21:14:34.888907Z",
+    "updatedAt": "2026-10-18T21:16:01.184686Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -225,7 +225,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-18T21:14:34.888907Z",
+    "updatedAt": "2026-10-18T21:16:01.184686Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
@@ -251,7 +251,7 @@
     ]
   },
   "sports": {
-    "updatedAt": "2026-10-18T21:14:36.632664Z",
+    "updatedAt": "2026-10-18T21:16:02.679732Z",
     "source": "ESPN cricket snapshot",
     "url": "https://www.espncricinfo.com/live-cricket-score",
     "matches": []
