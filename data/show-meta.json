@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T02:45:01.050935+05:00",
+  "generatedAt": "2026-10-18T06:01:38.623341+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,6 +17,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 6,
+        "time": "00:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-18"
       }
     },
     "harpalgeo-nashtar": {
@@ -97,6 +104,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 22,
+        "time": "04:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-18"
       }
     },
     "hum-aangan": {
@@ -1012,10 +1026,10 @@
     "harpalgeo-heer-da-hero": {
       "lastAttempt": "2026-10-12T20:11:00.325812+05:00",
       "latestUpload": {
-        "number": 30,
-        "id": "fG2WXTfjl7M",
-        "title": "Heer Da Hero Ep 30 - [Eng Sub]- Digitally Presented by Qarshi Jam-e-Shirin - Imran Ashraf, Amar Khan",
-        "date": "2023-04-21",
+        "number": 31,
+        "id": "kz3ylg8rpxs",
+        "title": "Heer Da Hero Episode 31 - [Eng Sub] - Imran Ashraf, Amar Khan - 22nd April 2023 - HAR PAL GEO",
+        "date": "2023-04-22",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,

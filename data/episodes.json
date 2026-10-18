@@ -10,14 +10,6 @@
         "date": "2026-10-17"
       },
       {
-        "title": "Khushi - Episode 34 Highlight - 17th Oct 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
-        "episode": 34,
-        "id": "FOGSNgNr9Aw",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-10-17"
-      },
-      {
         "id": "AWHP5v_r5NI",
         "title": "Khushi - Episode 33 - [ENG SUB] 15th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
         "episode": 33,
@@ -119,34 +111,6 @@
       }
     ]
   },
-  "hum-tark-e-tamanna": {
-    "episodes": [
-      {
-        "title": "Tark-e-Tamanna - Episode 11 Highlight | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
-        "episode": 11,
-        "id": "wO2AjOXVIJc",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-10-17"
-      },
-      {
-        "id": "nQGADWyKgdg",
-        "title": "Tark-e-Tamanna - Episode 10 - [Eng Sub] 15th Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
-        "episode": 10,
-        "date": "2026-10-15",
-        "published": "2026-10-15T17:00:22Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/nQGADWyKgdg/hqdefault.jpg",
-        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
-      }
-    ]
-  },
   "hum-zehar-e-mohabbat": {
     "episodes": [
       {
@@ -172,274 +136,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Alxhc4uy47Q/hqdefault.jpg",
         "checkedAt": "2026-10-16T09:51:10.658370+00:00"
-      }
-    ]
-  },
-  "hum-udaari": {
-    "episodes": [
-      {
-        "title": "Udaari Episode 25 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 25,
-        "id": "5nEvb6b5Mbk",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-10-17"
-      },
-      {
-        "id": "ydgrm_GkcV0",
-        "title": "Udaari Episode 23 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 23,
-        "date": "2026-10-15",
-        "published": "2026-10-15T14:00:18Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ydgrm_GkcV0/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "99Bbeou_qjY",
-        "title": "Udaari Episode 22 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 22,
-        "date": "2026-10-14",
-        "published": "2026-10-14T14:00:00Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/99Bbeou_qjY/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "cUcAc7BJ8kk",
-        "title": "Udaari Episode 21 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 21,
-        "date": "2026-10-13",
-        "published": "2026-10-13T14:00:24Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/cUcAc7BJ8kk/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "y2XFdg_DecM",
-        "title": "Udaari Episode 20 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 20,
-        "date": "2026-10-12",
-        "published": "2026-10-12T14:00:25Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/y2XFdg_DecM/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "ijI4zYgnP0o",
-        "title": "Udaari Episode 19 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 19,
-        "date": "2026-10-11",
-        "published": "2026-10-11T14:00:08Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ijI4zYgnP0o/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "HDUn0tDIkIU",
-        "title": "Udaari Episode 18 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 18,
-        "date": "2026-10-10",
-        "published": "2026-10-10T14:00:24Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/HDUn0tDIkIU/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "TB67afm9kIQ",
-        "title": "Udaari Episode 17 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 17,
-        "date": "2026-10-09",
-        "published": "2026-10-09T14:00:26Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/TB67afm9kIQ/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "7D33h4Eilnc",
-        "title": "Udaari Episode 16 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 16,
-        "date": "2026-10-08",
-        "published": "2026-10-08T14:00:05Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/7D33h4Eilnc/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "xGyrqCi8EuM",
-        "title": "Udaari Episode 15 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 15,
-        "date": "2026-10-07",
-        "published": "2026-10-07T14:00:35Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/xGyrqCi8EuM/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "ACFiGLNsZgU",
-        "title": "Udaari Episode 13 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 13,
-        "date": "2026-10-05",
-        "published": "2026-10-05T14:00:18Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ACFiGLNsZgU/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "wnwh_K-qa8s",
-        "title": "Udaari Episode 11 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 11,
-        "date": "2026-10-03",
-        "published": "2026-10-03T14:00:15Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/wnwh_K-qa8s/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "Rb4YxCK_Cqs",
-        "title": "Udaari Episode 06 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 6,
-        "date": "2026-09-28",
-        "published": "2026-09-28T14:00:04Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Rb4YxCK_Cqs/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "thEg4MYecMw",
-        "title": "Udaari Episode 05 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 5,
-        "date": "2026-09-27",
-        "published": "2026-09-27T14:00:15Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/thEg4MYecMw/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "f2AByMb0SvM",
-        "title": "Udaari Episode 04 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 4,
-        "date": "2026-09-26",
-        "published": "2026-09-26T14:00:11Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/f2AByMb0SvM/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "4eF78oT9-3I",
-        "title": "Udaari Episode 02 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 2,
-        "date": "2026-09-24",
-        "published": "2026-09-24T14:00:18Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/4eF78oT9-3I/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
-      },
-      {
-        "id": "aw8iyRdRea4",
-        "title": "Udaari Episode 01 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 1,
-        "date": "2026-09-23",
-        "published": "2026-09-23T14:00:15Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/aw8iyRdRea4/hqdefault.jpg",
-        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
       }
     ]
   },
@@ -593,30 +289,6 @@
         "title": "Yasir Alam Wins the Best Wazir Award! 🔥 | Tamasha S5",
         "episode": null,
         "id": "QKGwJbD8lio",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-17"
-      },
-      {
-        "title": "Aap Nahi Hotay Tou Tamasha Nahi Lagta | Tamasha S5 | Grand Finale | ARY Digital",
-        "episode": null,
-        "id": "vACY4WnAtwc",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-17"
-      },
-      {
-        "title": "Once in a Lifetime Memories ❤️ | Tamasha Season 5 | ARY Digital",
-        "episode": null,
-        "id": "fjK3TeG4fCk",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-17"
-      },
-      {
-        "title": "Tamasha Ghar Main Sabse Zyada Paisay Kisne Kharch Kiye!",
-        "episode": null,
-        "id": "Euur0tv49NA",
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-10-17"
@@ -826,38 +498,6 @@
         "date": "2026-10-17"
       },
       {
-        "title": "Bano Episode 04 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 4,
-        "id": "WFyvCMkEwlk",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-17"
-      },
-      {
-        "title": "Bano Episode 04 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 4,
-        "id": "PPc1C6oJdsM",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-17"
-      },
-      {
-        "title": "Bano Episode 04 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 4,
-        "id": "jLYREwErDCg",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-17"
-      },
-      {
-        "title": "Bano Episode 04 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 4,
-        "id": "3vF1n8TKKmA",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-17"
-      },
-      {
         "id": "WVihbN5h0Pw",
         "title": "Bano Episode 03 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
         "episode": 3,
@@ -914,34 +554,6 @@
         "episode": null,
         "id": "lcSMNojQe9c",
         "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-17"
-      },
-      {
-        "title": "Nimra wrote song in exam! - Habit of stealing things from Hotel Rooms | Hasna Mana Hai - Geo News",
-        "episode": null,
-        "id": "9SMvbcN0UzA",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-17"
-      },
-      {
-        "title": "Tabish Hashmi banned? - Process to write a song | Hasna Mana Hai - Tabish Hashmi - Geo News",
-        "episode": null,
-        "id": "S80vKOObEw8",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-17"
-      }
-    ]
-  },
-  "arydigital-bulbulay": {
-    "episodes": [
-      {
-        "title": "Bulbulay Season 2 Episode 378 | 17 October 2026 | ARY Digital",
-        "episode": 378,
-        "id": "CB_6Du4evfc",
-        "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-10-17"
       }
@@ -12911,7 +12523,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lnfmCizXhfs/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "TMw7DOIczPM",
@@ -12927,7 +12539,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TMw7DOIczPM/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "fX2nsJm_gH4",
@@ -12943,7 +12555,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fX2nsJm_gH4/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "yl02Vqse560",
@@ -12959,7 +12571,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yl02Vqse560/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "2D2fXy76hJk",
@@ -12991,7 +12603,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Q6qPeEyd1VM/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "ctAtG-BXJko",
@@ -13007,7 +12619,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ctAtG-BXJko/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "0ffGJnm4IIU",
@@ -13039,7 +12651,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DDJRBcllZFU/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "pG2WF8UpzHA",
@@ -13087,7 +12699,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8lLE1h1Tc-s/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "igG0rfuTQxE",
@@ -13119,7 +12731,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QLthZvRABV8/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "sXFlfsFOzeY",
@@ -13135,7 +12747,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/sXFlfsFOzeY/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "5Zs_k5h3TEA",
@@ -13151,7 +12763,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5Zs_k5h3TEA/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "86Ucc-011p8",
@@ -13168,6 +12780,22 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/86Ucc-011p8/hqdefault.jpg",
         "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+      },
+      {
+        "id": "LRhcMHzf4AM",
+        "title": "Dil-e-Momin - Episode 15 - [Eng Sub] - Digitally Presented by Ujooba Beauty Cream - 31st December 21",
+        "episode": 15,
+        "date": "2021-12-31",
+        "published": "2021-12-31T16:00:08Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/LRhcMHzf4AM/hqdefault.jpg",
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "d6kbsX6cf7U",
@@ -13199,7 +12827,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Bzen0RhsgoM/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "6DD5_4cl1kM",
@@ -13215,7 +12843,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6DD5_4cl1kM/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "k8ggP9UljL8",
@@ -13231,7 +12859,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/k8ggP9UljL8/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "snK_KgrJTN8",
@@ -13247,7 +12875,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/snK_KgrJTN8/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "yN_x0SwKZNY",
@@ -13263,7 +12891,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yN_x0SwKZNY/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "pTwVZnSZSVo",
@@ -13279,7 +12907,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pTwVZnSZSVo/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "KuZ0wEjrQLo",
@@ -13295,7 +12923,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/KuZ0wEjrQLo/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "3QwYRN9QZdk",
@@ -13311,7 +12939,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3QwYRN9QZdk/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "YEa6HM2XW68",
@@ -13327,7 +12955,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/YEa6HM2XW68/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "-03gsbObeeg",
@@ -13359,7 +12987,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rrUIrKTXudQ/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "erJ9iWnQTd4",
@@ -13375,7 +13003,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/erJ9iWnQTd4/hqdefault.jpg",
-        "checkedAt": "2026-10-14T07:04:50.372092+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       }
     ]
   },
@@ -13411,7 +13039,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_Z9dPWCgK5k/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "0AQ7A-EDR4o",
@@ -13427,7 +13055,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0AQ7A-EDR4o/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
+      },
+      {
+        "id": "iEUOgCmsR9w",
+        "title": "Farq Episode 46 - [Eng Sub] - Faysal Quraishi - Sehar Khan - Adeel Chaudhry - 4th April 2023",
+        "episode": 46,
+        "date": "2023-04-04",
+        "published": "2023-04-04T16:00:33Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/iEUOgCmsR9w/hqdefault.jpg",
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
+      },
+      {
+        "id": "nD-bDJxRPrU",
+        "title": "Farq Episode 43 - [Eng Sub] - Faysal Quraishi - Sehar Khan - Adeel Chaudhry - 27th March 2023",
+        "episode": 43,
+        "date": "2023-03-27",
+        "published": "2023-03-27T16:00:36Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/nD-bDJxRPrU/hqdefault.jpg",
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "-s0Jh0EIjHk",
@@ -13446,6 +13106,38 @@
         "checkedAt": "2026-10-14T09:51:28.816271+00:00"
       },
       {
+        "id": "AAnIZ9viUzc",
+        "title": "Farq Episode 38 - [Eng Sub] - Faysal Quraishi - Sehar Khan - Adeel Chaudhry - 7th March 2023",
+        "episode": 38,
+        "date": "2023-03-07",
+        "published": "2023-03-07T16:00:05Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/AAnIZ9viUzc/hqdefault.jpg",
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
+      },
+      {
+        "id": "1G7fEanww1Y",
+        "title": "Farq Episode 34 - [Eng Sub] - Faysal Quraishi - Sehar Khan - Adeel Chaudhry - 21st February 2023",
+        "episode": 34,
+        "date": "2023-02-21",
+        "published": "2023-02-21T16:00:02Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/1G7fEanww1Y/hqdefault.jpg",
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
+      },
+      {
         "id": "-fhHxDT_bis",
         "title": "Farq Episode 33 - [Eng Sub] - Faysal Quraishi - Sehar Khan - Adeel Chaudhry - 20th February 2023",
         "episode": 33,
@@ -13459,7 +13151,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-fhHxDT_bis/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "9A7bw1c1RMg",
@@ -13475,7 +13167,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9A7bw1c1RMg/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
+      },
+      {
+        "id": "_Fq_Lxf9J_4",
+        "title": "Farq Episode 31 - [Eng Sub] - Faysal Quraishi - Sehar Khan - Adeel Chaudhry - 13th February 2023",
+        "episode": 31,
+        "date": "2023-02-13",
+        "published": "2023-02-13T16:00:30Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/_Fq_Lxf9J_4/hqdefault.jpg",
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "vqLYhSaB0P8",
@@ -13491,7 +13199,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vqLYhSaB0P8/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "aLwMOWGO51Y",
@@ -13507,7 +13215,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/aLwMOWGO51Y/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
+      },
+      {
+        "id": "uNu-pCft2J4",
+        "title": "Farq Episode 28 - [Eng Sub] - Faysal Quraishi - Sehar Khan - Adeel Chaudhry - 31st January 2023",
+        "episode": 28,
+        "date": "2023-01-31",
+        "published": "2023-01-31T16:00:16Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/uNu-pCft2J4/hqdefault.jpg",
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "Y_RnsLTwaC4",
@@ -13523,7 +13247,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Y_RnsLTwaC4/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "qeJOdh0l31Q",
@@ -13555,7 +13279,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Vg4Q2_wXJl8/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "uMSt-lH7J7o",
@@ -13571,7 +13295,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/uMSt-lH7J7o/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "TAQBLEs3H7o",
@@ -13587,7 +13311,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TAQBLEs3H7o/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "a3Nhf5MoFKA",
@@ -13603,7 +13327,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/a3Nhf5MoFKA/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "GdVbXOh5kzY",
@@ -13619,7 +13343,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GdVbXOh5kzY/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "WIukRjsVY2I",
@@ -13635,7 +13359,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/WIukRjsVY2I/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
+      },
+      {
+        "id": "Ay320_fTvdw",
+        "title": "Farq Episode 19 - [Eng Sub] - Faysal Quraishi - Sehar Khan - Adeel Chaudhry - 2nd January 2023",
+        "episode": 19,
+        "date": "2023-01-02",
+        "published": "2023-01-02T16:00:05Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Ay320_fTvdw/hqdefault.jpg",
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "k7Vo6SCU9jI",
@@ -13651,7 +13391,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/k7Vo6SCU9jI/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "kmF1_0WVnFA",
@@ -13667,7 +13407,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kmF1_0WVnFA/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "MOVmlnMSDwk",
@@ -13683,7 +13423,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/MOVmlnMSDwk/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "cEYfcKz9DV4",
@@ -13699,7 +13439,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cEYfcKz9DV4/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "kCbhXaAhHEA",
@@ -13731,7 +13471,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rw4CL0hGmaE/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "8JoUiv7nSoA",
@@ -13747,7 +13487,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8JoUiv7nSoA/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "RIssigkit24",
@@ -13779,7 +13519,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/x9ythAew4AY/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "SeOt3BK_DxA",
@@ -13795,7 +13535,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SeOt3BK_DxA/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "4IhL7UIP0b4",
@@ -13843,7 +13583,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/soxwQCkeHk8/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
+      },
+      {
+        "id": "gkyqVXv_GIE",
+        "title": "Farq Episode 02 - [Eng Sub] - Faysal Quraishi - Sehar Khan - Adeel Chaudhry - 1st November 2022",
+        "episode": 2,
+        "date": "2022-11-01",
+        "published": "2022-11-01T16:00:34Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/gkyqVXv_GIE/hqdefault.jpg",
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "Fof0uhSzgIQ",
@@ -13859,7 +13615,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Fof0uhSzgIQ/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       }
     ]
   },
@@ -13879,7 +13635,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4ARMphzZThU/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "ZTNzlpT8zks",
@@ -13895,7 +13651,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ZTNzlpT8zks/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "h2mFRF6i-lE",
@@ -13911,7 +13667,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/h2mFRF6i-lE/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "8hRf1oEW0ME",
@@ -13927,7 +13683,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8hRf1oEW0ME/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "jk9khAwnUkM",
@@ -13943,7 +13699,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/jk9khAwnUkM/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "-3mxqwgk8aA",
@@ -13959,7 +13715,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-3mxqwgk8aA/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "5LcsWXMVs9I",
@@ -13991,7 +13747,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wRuHQT6DvqM/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "Sw8Q0gV_608",
@@ -14007,7 +13763,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Sw8Q0gV_608/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "z9-BAcgw7Xw",
@@ -14055,7 +13811,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/hSzHBFJzCf8/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "LujjTZbHuC4",
@@ -14071,7 +13827,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/LujjTZbHuC4/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
+      },
+      {
+        "id": "Z-FrtQlpibU",
+        "title": "Fitoor - Ep 19 [Eng Sub] - Digitally Presented by Happilac Paints - 29th April 2021 - HAR PAL GEO",
+        "episode": 19,
+        "date": "2021-04-29",
+        "published": "2021-04-29T16:00:26Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Z-FrtQlpibU/hqdefault.jpg",
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "72S4SWzkliE",
@@ -14087,7 +13859,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/72S4SWzkliE/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "nMxwzYl6BCg",
@@ -14103,7 +13875,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nMxwzYl6BCg/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "F9hmrgfXCJg",
@@ -14119,7 +13891,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/F9hmrgfXCJg/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "UGS4mBBhxc8",
@@ -14135,7 +13907,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UGS4mBBhxc8/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "pphhtCqELC0",
@@ -14151,7 +13923,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pphhtCqELC0/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "vPC6Ms55j2Q",
@@ -14167,7 +13939,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vPC6Ms55j2Q/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "zXV4t2Q2klc",
@@ -14183,7 +13955,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zXV4t2Q2klc/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "YPVb8ECuqU0",
@@ -14199,7 +13971,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/YPVb8ECuqU0/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "FI0v3NJr4HA",
@@ -14215,7 +13987,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/FI0v3NJr4HA/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "0JL1YGBdXKo",
@@ -14231,7 +14003,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0JL1YGBdXKo/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "uHiWsyKZ30g",
@@ -14247,7 +14019,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/uHiWsyKZ30g/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "97qECJCkfyo",
@@ -14263,7 +14035,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/97qECJCkfyo/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "XNrKY24tNBY",
@@ -14279,7 +14051,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XNrKY24tNBY/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "6ikZa-odhZA",
@@ -14295,7 +14067,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6ikZa-odhZA/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "Est3iNqTwo0",
@@ -14311,7 +14083,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Est3iNqTwo0/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "DUJda3O8R10",
@@ -14327,12 +14099,28 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DUJda3O8R10/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       }
     ]
   },
   "harpalgeo-heer-da-hero": {
     "episodes": [
+      {
+        "id": "kz3ylg8rpxs",
+        "title": "Heer Da Hero Episode 31 - [Eng Sub] - Imran Ashraf, Amar Khan - 22nd April 2023 - HAR PAL GEO",
+        "episode": 31,
+        "date": "2023-04-22",
+        "published": "2023-04-22T15:00:24Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/kz3ylg8rpxs/hqdefault.jpg",
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
+      },
       {
         "id": "fG2WXTfjl7M",
         "title": "Heer Da Hero Ep 30 - [Eng Sub]- Digitally Presented by Qarshi Jam-e-Shirin - Imran Ashraf, Amar Khan",
@@ -14347,7 +14135,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fG2WXTfjl7M/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "OH_jaMzwRjU",
@@ -14363,7 +14151,7 @@
         "availableGB": false,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OH_jaMzwRjU/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "jWBMXj57BI8",
@@ -14379,7 +14167,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/jWBMXj57BI8/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "jJoBzMdExoI",
@@ -14395,7 +14183,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/jJoBzMdExoI/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "WZVl-9djMxg",
@@ -14411,7 +14199,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/WZVl-9djMxg/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
+      },
+      {
+        "id": "Ii7RQLhUZck",
+        "title": "Heer Da Hero Ep 25 - [Eng Sub]- Digitally Presented by Qarshi Jam-e-Shirin - Imran Ashraf, Amar Khan",
+        "episode": 25,
+        "date": "2023-04-16",
+        "published": "2023-04-16T15:00:19Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Ii7RQLhUZck/hqdefault.jpg",
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "wVhjz1CSyfY",
@@ -14427,7 +14231,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wVhjz1CSyfY/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "7qLbthnhEaM",
@@ -14443,7 +14247,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7qLbthnhEaM/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "Qa-EZS53Ft0",
@@ -14459,7 +14263,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Qa-EZS53Ft0/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "y984aVTRpeE",
@@ -14475,7 +14279,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/y984aVTRpeE/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "EQToua4fjvg",
@@ -14491,7 +14295,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/EQToua4fjvg/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "7qkS772oesg",
@@ -14507,7 +14311,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7qkS772oesg/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "NNC_0C_ccDk",
@@ -14523,7 +14327,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/NNC_0C_ccDk/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "a4axwXQgw3s",
@@ -14539,7 +14343,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/a4axwXQgw3s/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "41zO-rBgmKw",
@@ -14555,7 +14359,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/41zO-rBgmKw/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "4WxeEfrri4s",
@@ -14571,7 +14375,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4WxeEfrri4s/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "X97m-LPKzZc",
@@ -14587,7 +14391,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/X97m-LPKzZc/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "uIxzxJQhY1c",
@@ -14603,7 +14407,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/uIxzxJQhY1c/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "SlhF8ivR7rk",
@@ -14619,7 +14423,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SlhF8ivR7rk/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "0rs8pEWyzp0",
@@ -14635,7 +14439,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0rs8pEWyzp0/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "brMZzH6-Mao",
@@ -14651,7 +14455,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/brMZzH6-Mao/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "XQeOw7UOou4",
@@ -14667,7 +14471,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XQeOw7UOou4/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "hk7Utvcmdho",
@@ -14683,7 +14487,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/hk7Utvcmdho/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "L2XLeHbrhFI",
@@ -14699,7 +14503,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/L2XLeHbrhFI/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "-5zWaV6lfA0",
@@ -14715,7 +14519,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-5zWaV6lfA0/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "QQdzsy3lr2s",
@@ -14731,7 +14535,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QQdzsy3lr2s/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "4s8UhzrC2Jo",
@@ -14747,7 +14551,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4s8UhzrC2Jo/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "SohJdteR8bo",
@@ -14763,7 +14567,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SohJdteR8bo/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       },
       {
         "id": "ySNB_0qMIn4",
@@ -14779,7 +14583,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ySNB_0qMIn4/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T01:01:15.779067+00:00"
       }
     ]
   },
@@ -28983,6 +28787,266 @@
       }
     ]
   },
+  "hum-udaari": {
+    "episodes": [
+      {
+        "id": "ydgrm_GkcV0",
+        "title": "Udaari Episode 23 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 23,
+        "date": "2026-10-15",
+        "published": "2026-10-15T14:00:18Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ydgrm_GkcV0/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "99Bbeou_qjY",
+        "title": "Udaari Episode 22 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 22,
+        "date": "2026-10-14",
+        "published": "2026-10-14T14:00:00Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/99Bbeou_qjY/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "cUcAc7BJ8kk",
+        "title": "Udaari Episode 21 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 21,
+        "date": "2026-10-13",
+        "published": "2026-10-13T14:00:24Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/cUcAc7BJ8kk/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "y2XFdg_DecM",
+        "title": "Udaari Episode 20 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 20,
+        "date": "2026-10-12",
+        "published": "2026-10-12T14:00:25Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/y2XFdg_DecM/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "ijI4zYgnP0o",
+        "title": "Udaari Episode 19 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 19,
+        "date": "2026-10-11",
+        "published": "2026-10-11T14:00:08Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ijI4zYgnP0o/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "HDUn0tDIkIU",
+        "title": "Udaari Episode 18 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 18,
+        "date": "2026-10-10",
+        "published": "2026-10-10T14:00:24Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/HDUn0tDIkIU/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "TB67afm9kIQ",
+        "title": "Udaari Episode 17 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 17,
+        "date": "2026-10-09",
+        "published": "2026-10-09T14:00:26Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/TB67afm9kIQ/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "7D33h4Eilnc",
+        "title": "Udaari Episode 16 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 16,
+        "date": "2026-10-08",
+        "published": "2026-10-08T14:00:05Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/7D33h4Eilnc/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "xGyrqCi8EuM",
+        "title": "Udaari Episode 15 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 15,
+        "date": "2026-10-07",
+        "published": "2026-10-07T14:00:35Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/xGyrqCi8EuM/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "ACFiGLNsZgU",
+        "title": "Udaari Episode 13 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 13,
+        "date": "2026-10-05",
+        "published": "2026-10-05T14:00:18Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ACFiGLNsZgU/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "wnwh_K-qa8s",
+        "title": "Udaari Episode 11 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 11,
+        "date": "2026-10-03",
+        "published": "2026-10-03T14:00:15Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/wnwh_K-qa8s/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "Rb4YxCK_Cqs",
+        "title": "Udaari Episode 06 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 6,
+        "date": "2026-09-28",
+        "published": "2026-09-28T14:00:04Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Rb4YxCK_Cqs/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "thEg4MYecMw",
+        "title": "Udaari Episode 05 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 5,
+        "date": "2026-09-27",
+        "published": "2026-09-27T14:00:15Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/thEg4MYecMw/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "f2AByMb0SvM",
+        "title": "Udaari Episode 04 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 4,
+        "date": "2026-09-26",
+        "published": "2026-09-26T14:00:11Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/f2AByMb0SvM/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "4eF78oT9-3I",
+        "title": "Udaari Episode 02 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 2,
+        "date": "2026-09-24",
+        "published": "2026-09-24T14:00:18Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/4eF78oT9-3I/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      },
+      {
+        "id": "aw8iyRdRea4",
+        "title": "Udaari Episode 01 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 1,
+        "date": "2026-09-23",
+        "published": "2026-09-23T14:00:15Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/aw8iyRdRea4/hqdefault.jpg",
+        "checkedAt": "2026-10-15T18:59:55.968796+00:00"
+      }
+    ]
+  },
   "hum-zindagi-gulzar-hai": {
     "episodes": [
       {
@@ -29524,6 +29588,26 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lCFiom01bBo/hqdefault.jpg",
         "checkedAt": "2026-10-16T07:05:15.775682+00:00"
+      }
+    ]
+  },
+  "hum-tark-e-tamanna": {
+    "episodes": [
+      {
+        "id": "nQGADWyKgdg",
+        "title": "Tark-e-Tamanna - Episode 10 - [Eng Sub] 15th Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "episode": 10,
+        "date": "2026-10-15",
+        "published": "2026-10-15T17:00:22Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/nQGADWyKgdg/hqdefault.jpg",
+        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
       }
     ]
   },
