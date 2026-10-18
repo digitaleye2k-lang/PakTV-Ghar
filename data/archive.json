@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-10-18T16:04:42.941160+00:00",
+  "generatedAt": "2026-10-18T16:05:54.147992+00:00",
   "dateTimezone": "UTC",
-  "cursor": 9,
+  "cursor": 21,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
       "uploadsId": "UU_vt34wimdCzdkrzVejwX9g",
       "handle": "geonews",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T15:28:44.680076+00:00"
+      "lastFetchedAt": "2026-10-18T16:05:54.147992+00:00"
     },
     "ducky": {
       "youtubeId": "UC_c-RTowPbIlzMkIa_O7s6Q",
       "uploadsId": "UU_c-RTowPbIlzMkIa_O7s6Q",
       "handle": "duckybhai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T15:28:44.680076+00:00"
+      "lastFetchedAt": "2026-10-18T16:05:54.147992+00:00"
     },
     "arynews": {
       "youtubeId": "UCMmpLL2ucRHAXbNHiCPyIyg",
       "uploadsId": "UUMmpLL2ucRHAXbNHiCPyIyg",
       "handle": "ArynewsTvofficial",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T15:38:13.245762+00:00"
+      "lastFetchedAt": "2026-10-18T16:05:54.147992+00:00"
     },
     "rhs": {
       "youtubeId": "UCgFG7lz7BI5hsNEifevrWSw",
       "uploadsId": "UUgFG7lz7BI5hsNEifevrWSw",
       "handle": "ranahamzasaifrhs",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T15:38:13.245762+00:00"
+      "lastFetchedAt": "2026-10-18T16:05:54.147992+00:00"
     },
     "dunya": {
       "youtubeId": "UCG7xCQTxgy93j6r49wl48rw",
@@ -42,14 +42,14 @@
       "uploadsId": "UUQexaAjPn3-1MCE4DmBK3Tg",
       "handle": "villagefoodsecrets",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T15:38:13.245762+00:00"
+      "lastFetchedAt": "2026-10-18T16:05:54.147992+00:00"
     },
     "geohasna": {
       "youtubeId": "UC6HQ4d3xq9EgSeJgMhc-4AQ",
       "uploadsId": "UU6HQ4d3xq9EgSeJgMhc-4AQ",
       "handle": "GeoHasnaManaHai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T15:38:13.245762+00:00"
+      "lastFetchedAt": "2026-10-18T16:05:54.147992+00:00"
     },
     "streetfoodpk": {
       "youtubeId": "UCt8NJjYKc2aT3T0TnbcWxSw",
@@ -245,14 +245,14 @@
       "uploadsId": "UU2PYniNHljOED9xNaMpiMiQ",
       "handle": "ARYFilms",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-18T15:28:44.680076+00:00"
+      "lastFetchedAt": "2026-10-18T16:05:54.147992+00:00"
     },
     "drmmovies": {
       "youtubeId": "UCDmQsP_LTEWPZ2AXS9eWTrQ",
       "uploadsId": "UUDmQsP_LTEWPZ2AXS9eWTrQ",
       "handle": "pakistani_movies",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-18T15:28:44.680076+00:00"
+      "lastFetchedAt": "2026-10-18T16:05:54.147992+00:00"
     },
     "pcb": {
       "youtubeId": "UCiWrjBhlICf_L_RK5y6Vrxw",
@@ -280,21 +280,21 @@
       "uploadsId": "UUnoH_iEE4tgVznLT97Kb7ig",
       "handle": "ptvsportsofficialpk",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T15:47:35.454766+00:00"
+      "lastFetchedAt": "2026-10-18T16:05:54.147992+00:00"
     },
     "cricketpk": {
       "youtubeId": "UCI7I29IPUtWE68VLUoZfXow",
       "uploadsId": "UUI7I29IPUtWE68VLUoZfXow",
       "handle": "CricketPakistanPK",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T15:47:35.454766+00:00"
+      "lastFetchedAt": "2026-10-18T16:05:54.147992+00:00"
     },
     "wasay": {
       "youtubeId": "UCs2-8ztgdlRqpbpHvfFFPFQ",
       "uploadsId": "UUs2-8ztgdlRqpbpHvfFFPFQ",
       "handle": "wasayhabib",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T15:47:35.454766+00:00"
+      "lastFetchedAt": "2026-10-18T16:05:54.147992+00:00"
     },
     "kidsland": {
       "youtubeId": "UCZMKZS3L9GfhcFkMyBRoVFg",
@@ -341,6 +341,78 @@
   },
   "videos": [
     {
+      "id": "wjxC6zeG3O8",
+      "title": "Can a Local Government System Solve Public Problems? #shorts #youtubeshorts",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:55:01Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 180,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/wjxC6zeG3O8/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "N_j-79_A3Ew",
+      "title": "What is the solution to protect youth from extremism? Dr. Taha explained the solution",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:51:37Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 448,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/N_j-79_A3Ew/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "QMCWSJQrgiI",
+      "title": "What does Dr. Taha miss about Pakistan? - Aik Din Geo Kay Saath",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:50:11Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 473,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/QMCWSJQrgiI/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "WPtiYV52cKU",
+      "title": "Liberal in ordinary life, cleric in the mosque! clear contradiction? - Aik Din Geo Kay Saath",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:49:05Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 427,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/WPtiYV52cKU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "mOgST9ViA8E",
       "title": "Why Couldn’t Pakistan Reach 350 Runs | Kamran Akmal | A SportsHD",
       "channel": "A Sports",
@@ -374,6 +446,60 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/Crgj4dje0BQ/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "YrMMON-ikWo",
+      "title": "From prejudice to success in the UK, the story of Dr. Taha Qureshi - Aik Din Geo Kay Saath",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:46:55Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 673,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/YrMMON-ikWo/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "JTR-4WAm10o",
+      "title": "Pak Afghan Conflict | Attacks Intensify | Emergency in KP | 8:30 PM News Updates",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:45:24Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 754,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/JTR-4WAm10o/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "p3rSt6VHKgI",
+      "title": "KP Governor Rule And Emergency | Shocking Updates | Big Arrest | ARY News 8 PM Headlines",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:44:18Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 828,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/p3rSt6VHKgI/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -485,6 +611,42 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "tmW8kJKySOU",
+      "title": "Who Left Baba Bulleh Shah’s City Neglected? | Kasur Traders Speak Out",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:30:57Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 832,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/tmW8kJKySOU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "FyhKRjM3G88",
+      "title": "🎭 Maanu Ke Teen Naam Ki Story 📖  Jhol Song Ne Maanu Ko Police 🚔 Se Bachaya! 😱👮",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:30:25Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 244,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/FyhKRjM3G88/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "QVOYa1OI-uA",
       "title": "Talaq Dene ka Faisla Kar Chuka Hoon | Hiba Aziz - Danial Afzal - Areej Mohyudin | Dastoor | Green TV",
       "channel": "Green Entertainment",
@@ -503,6 +665,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "A80SfeJLrMo",
+      "title": "Faysal Quraishi Villain or Hero? - #hareemfarooq #faysalquraishi #shorts",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:30:12Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 147,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/A80SfeJLrMo/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "SCTZQeAPuw0",
       "title": "Maulana can play a role in ending governor's rule: Bilawal | Dawn News Headlines 08 PM",
       "channel": "Dawn News",
@@ -518,6 +698,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/SCTZQeAPuw0/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "TQ9AuEqTNwA",
+      "title": "Pakistan Preparing for World Cup 2027 | Should Young Bowlers Have Played vs Sri Lanka? | Geo News",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:29:00Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 321,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/TQ9AuEqTNwA/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -608,6 +806,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/1xvlxCUf0zs/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "kLa9fj3XCmw",
+      "title": "Journey from Chak 444 to Buckingham Palace Dr. Taha Qureshi -Aik Din Geo Kay Saath - Suhail Warraich",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:19:38Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2247,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/kLa9fj3XCmw/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -28061,24 +28277,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "yoqBhxS8pH4",
-      "title": "Governor’s Rule & Emergency Challenged in Court | Emergency in KP | ARY News 7 PM Headlines",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:37:23Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 783,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/yoqBhxS8pH4/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "_TNA3jJ0ipM",
       "title": "Successful Operation by CTD and Security Forces in Lakki Marwat | Dawn News Headlines: 07 PM",
       "channel": "Dawn News",
@@ -28169,42 +28367,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "E-6w9oNEzTU",
-      "title": "West Indies Captain’s Explosive Batting Leaves Indian Bowlers Helpless",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:29:24Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 259,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/E-6w9oNEzTU/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "wq94_MvuazE",
-      "title": "Babar Azam and Mohammad Rizwan’s T20 Batting: An In-Depth Analysis",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:27:41Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 435,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/wq94_MvuazE/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "DetvDt_VZz8",
       "title": "KP Emergency |  How Can Peace Be Restored in KP? Shahjahan Yousuf Interview - Aaj Digital",
       "channel": "Aaj TV Official",
@@ -28223,42 +28385,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "la4LQ-5BAJg",
-      "title": "Maaz Sadaqat’s Brilliant Performance Makes Him a Rising Star",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:25:45Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 522,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/la4LQ-5BAJg/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "4fqBA2SvNds",
-      "title": "Jhang Desert Rally: Driver Registration Opens | Breaking News | Geo News",
-      "channel": "Geo News",
-      "channelId": "geonews",
-      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:22:46Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 128,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/4fqBA2SvNds/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "a0kPsXw_jg4",
       "title": "Sahibzada Farhan Deserved a Place in Pakistan’s ODI Squad | A SportsHD",
       "channel": "A Sports",
@@ -28274,24 +28400,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/a0kPsXw_jg4/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "ly381qcHBoo",
-      "title": "Pakistan in Favour of Saudia Arabia - Recent Statement | Geo News 6 PM Geo Bulletin | 16th Oct 2026",
-      "channel": "Geo News",
-      "channelId": "geonews",
-      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:19:20Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 1072,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/ly381qcHBoo/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -28421,24 +28529,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "QMnIpkOCe9A",
-      "title": "Peshawar School Incident: Two Survivors Emerge From Tragic Event | Geo News Report",
-      "channel": "Geo News",
-      "channelId": "geonews",
-      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:11:49Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 162,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/QMnIpkOCe9A/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "wBIKldbq1JA",
       "title": "Climate Change | Best Trees for Karachi | Environment Awareness - Aaj Digital",
       "channel": "Aaj TV Official",
@@ -28493,24 +28583,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "87pq8bfGmlI",
-      "title": "🎭 Educated Aur Uneducated Actor Mein Kya Farq Hai? 🤔📚 | 🔥 Janiye Dilchasp Haqeeqat! 🎬",
-      "channel": "Geo News",
-      "channelId": "geonews",
-      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:00:30Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 471,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/87pq8bfGmlI/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "YkQE0JUNdOw",
       "title": "Udaari Episode 24 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
       "channel": "HUM TV",
@@ -28526,24 +28598,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/YkQE0JUNdOw/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "LTgdfaLI_CI",
-      "title": "Kya Gen Z Pakistan Ke Legendary Actors ko Jaanti Hai ?faisal Qureshi Ne Khulasa kar diya",
-      "channel": "Geo News",
-      "channelId": "geonews",
-      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:00:27Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 179,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/LTgdfaLI_CI/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -28580,24 +28634,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/MVKult2_w3Y/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "KqaXR71gua8",
-      "title": "Atomic Attack?? - Latest Trump's Statement | 6PM Headlines Geo News (16th Oct 2026)",
-      "channel": "Geo News",
-      "channelId": "geonews",
-      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T13:47:11Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 1318,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/KqaXR71gua8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -28958,42 +28994,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/N8fiT5NNNcM/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "Cijv-7iwIDQ",
-      "title": "A Positive Initiative for Youth in Lahore | Breaking News | Geo News",
-      "channel": "Geo News",
-      "channelId": "geonews",
-      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T13:01:31Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 113,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/Cijv-7iwIDQ/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "oKkNgl0VFSM",
-      "title": "🎭 Ahmed Rafiq Ne Kis Actor Ki Mimicry Ki? 😱😂 | 💔 Zindagi Ki Konsi Sad Reality Samne Aa Gayi? 😔",
-      "channel": "Geo News",
-      "channelId": "geonews",
-      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T13:00:36Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 529,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/oKkNgl0VFSM/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79541,6 +79541,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable",
+  "lastError": "Dunya News: HTTP 404: playlistNotFound",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
