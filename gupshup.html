@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+ <meta name="theme-color" content="#101c24">
+ <meta name="description" content="GUPSHUP on PakTV Ghar: a welcoming place to chat about Pakistani dramas, movies, news and more over chai.">
+ <title>GUPSHUP — Chai &amp; Chat | PakTV Ghar</title>
+ <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Noto+Sans+Arabic:wght@400;600;700&display=swap" rel="stylesheet">
+ <link rel="stylesheet" href="./gupshup.css">
+</head>
+<body>
+ <a class="skip" href="#conversation">Skip to GUPSHUP chat</a>
+ <header class="global-header">
+   <a class="brand" href="./#home"><span class="brand-icon" aria-hidden="true">▶</span>
+     <span>PakTV <em>Ghar</em><small>پاک ٹی وی گھر</small></span></a>
+   <nav aria-label="Site navigation">
+     <a href="./#home">Home</a><a href="./#dramas">Dramas</a><a href="./#movies">Movies</a>
+     <a href="./#news">News</a><a class="current" href="./gupshup.html" aria-current="page">☕ GUPSHUP</a>
+   </nav>
+   <a class="back-link" href="./#home">← Back to TV</a>
+ </header>
+ <main>
+   <section class="tea-hero" aria-labelledby="gupshup-title">
+     <div class="hero-copy">
+       <span class="eyebrow">PAKTV GHAR COMMUNITY • THE CHAI CORNER</span>
+       <span class="hero-teacup" aria-hidden="true">☕</span>
+       <h1 id="gupshup-title">GUP<span>SHUP</span></h1>
+       <p class="hero-urdu" lang="ur">چائے، گپ شپ اور اچھے دوست</p>
+       <p class="hero-description">A little chai, a lot of conversation. Talk dramas, share opinions and connect with fellow Pakistani entertainment fans.</p>
+       <div class="hero-chips"><span>💬 Real conversations</span><span>🎭 Dramas &amp; movies</span><span>🫖 Good company</span></div>
+       <a class="hero-action" href="#conversation">Join the conversation <span aria-hidden="true">↓</span></a>
+     </div>
+     <figure class="hero-photo">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Friends_talking_over_tea_%28Unsplash%29.jpg/1280px-Friends_talking_over_tea_%28Unsplash%29.jpg" alt="Two friends talking together over cups of tea" loading="eager" fetchpriority="high">
+       <figcaption><span aria-hidden="true">✦</span> Better conversations start with chai.</figcaption>
+     </figure>
+   </section>
+   <div class="tea-divider" aria-hidden="true"><span>✺</span><span>☕</span><span>✺</span></div>
+   <section class="gupshup-section" id="conversation" aria-labelledby="chat-title">
+     <div class="section-header">
+       <div><span class="eyebrow">PULL UP A CHAIR</span><h2 id="chat-title">The GUPSHUP Room</h2>
+         <p>Choose a conversation, grab a cup of chai and join in.</p></div>
+       <span class="live-label"><span class="live-dot"></span> Community discussions</span>
+     </div>
+     <div class="chat-layout">
+       <aside class="rooms-panel" aria-labelledby="room-title">
+         <h3 id="room-title">Find your corner</h3>
+         <p>Different topics, same friendly vibe.</p>
+         <div class="rooms" role="group" aria-label="Choose discussion room">
+           <button type="button" class="room active" data-room="general" aria-pressed="true"><span>☕</span> General GUPSHUP</button>
+           <button type="button" class="room" data-room="dramas" aria-pressed="false"><span>🎭</span> Pakistani dramas</button>
+           <button type="button" class="room" data-room="movies" aria-pressed="false"><span>🎞️</span> Movies</button>
+           <button type="button" class="room" data-room="comedy" aria-pressed="false"><span>😄</span> Comedy</button>
+           <button type="button" class="room" data-room="politics" aria-pressed="false"><span>🎙️</span> Political shows</button>
+           <button type="button" class="room" data-room="youtubers" aria-pressed="false"><span>📹</span> YouTubers</button>
+         </div>
+         <div class="chai-quote"><span aria-hidden="true">🫖</span><strong>Chai aur baatein</strong><p>Great stories are better shared.</p></div>
+       </aside>
+       <section class="conversation-card" aria-label="Community messages">
+         <div class="conversation-toolbar">
+           <div><span class="conversation-icon" aria-hidden="true">💬</span><div>
+             <h3 id="activeRoom">General GUPSHUP</h3>
+             <p id="roomDescription">Say hello and talk about what you love.</p>
+           </div></div>
+           <button type="button" id="chatRefresh" class="subtle-button" aria-label="Refresh messages">↻ <span>Refresh</span></button>
+         </div>
+         <div class="message-area" id="gupshupMessages" role="log" aria-live="polite" aria-relevant="additions text" aria-label="Recent messages in this discussion room">
+           <p class="placeholder">Connecting to the community…</p>
+         </div>
+         <form id="gupshupForm" class="compose-form">
+           <div class="name-row"><label for="guestNickname">Your nickname</label><span>Guest chat • No registration required</span></div>
+           <input id="guestNickname" name="nickname" type="text" autocomplete="nickname" minlength="2" maxlength="22" placeholder="e.g. ChaiLover" required>
+           <label for="guestMessage" class="sr-only">Your message</label>
+           <textarea id="guestMessage" name="message" maxlength="450" minlength="2" rows="2" placeholder="What's the latest gupshup? Type your message…" required></textarea>
+           <div class="compose-bottom"><span>Respectful conversations only • 2–450 characters</span>
+             <button type="submit" id="sendMessage" disabled>Send message <span aria-hidden="true">➤</span></button></div>
+           <p id="chatStatus" role="status" class="status-line">Connecting to the community…</p>
+         </form>
+       </section>
+       <aside class="right-panel">
+         <section class="guidelines-card" aria-labelledby="rules-heading">
+           <span class="aside-icon" aria-hidden="true">🤝</span><h3 id="rules-heading">Our GUPSHUP rules</h3>
+           <ul><li>Be kind and respectful.</li><li>No bullying, racism or personal attacks.</li>
+             <li>No spam, links or personal details.</li><li>Keep conversations suitable for everyone.</li>
+             <li>Report any inappropriate messages.</li></ul>
+           <p>Automatic filtering helps, but human moderation is still needed.</p>
+         </section>
+         <section class="more-card"><span class="aside-icon" aria-hidden="true">✨</span><h3>More from PakTV Ghar</h3>
+           <p>Want to contact the team, report a website issue or apply to moderate?</p>
+           <a href="./community.html#contact">Contact us ↗</a>
+           <a href="./community.html#report">Report a problem ↗</a>
+           <a href="./community.html#moderator">Become a moderator ↗</a>
+         </section>
+       </aside>
+     </div>
+   </section>
+   <section class="bottom-values" aria-label="Community values">
+     <div><span aria-hidden="true">☕</span><strong>Bring your chai</strong><p>Pull up a chair, wherever you are.</p></div>
+     <div><span aria-hidden="true">💛</span><strong>Share good vibes</strong><p>Kind conversations make a better community.</p></div>
+     <div><span aria-hidden="true">🛡️</span><strong>Stay safe</strong><p>Use a nickname. Never share private details.</p></div>
+   </section>
+ </main>
+ <footer class="footer"><div><strong>PakTV <em>Ghar</em> / GUPSHUP</strong><span>Chai, chat &amp; good company.</span></div>
+   <div><a href="./#home">Home</a><a href="./community.html#visitors">Community</a><a href="./privacy.html">Privacy</a><a href="./disclaimer.html">Disclaimer</a>
+   <a href="https://retroworld.eu.cc/" target="_blank" rel="noopener noreferrer">RetroWorld ↗</a></div>
+   <small>Hero photograph: <a href="https://commons.wikimedia.org/wiki/File:Friends_talking_over_tea_(Unsplash).jpg" target="_blank" rel="noopener noreferrer">Matthew Henry / Wikimedia Commons</a> (CC0).</small>
+ </footer>
+ <div class="report-overlay" id="reportOverlay" hidden>
+   <div class="report-panel" role="dialog" aria-modal="true" aria-labelledby="reportHeading">
+     <h2 id="reportHeading">Report a message</h2><p>Help keep GUPSHUP safe. Reports are private.</p>
+     <form id="reportForm"><label for="reportReason">Reason</label>
+       <select id="reportReason"><option value="bullying">Bullying or harassment</option><option value="racism">Racism</option>
+       <option value="namecalling">Name-calling</option><option value="spam">Spam</option>
+       <option value="unsafe">Unsafe content</option><option value="other">Other</option></select>
+       <div class="report-actions"><button type="button" id="cancelReport">Cancel</button>
+         <button type="submit" id="submitReport">Send report</button></div>
+       <p id="reportStatus" role="status"></p>
+     </form>
+   </div>
+ </div>
+ <script src="./community-config.js" defer></script>
+ <script src="./gupshup.js" defer></script>
+</body>
+</html>
