@@ -17,6 +17,28 @@
 <a class="primary" href="#djSets">Explore DJ sets ↓</a></div>
 <div class="hero-disc" aria-hidden="true"><div class="disc-ring"><span>♪</span></div><div class="equalizer"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div><span class="turntable-caption">THE DESI DJ DECK</span></div>
 </section>
+<section class="radio-studio section-wrap" id="pakistanRadio" aria-labelledby="radioHeading">
+ <div class="section-head"><div><span class="eyebrow">📡 ON AIR FROM PAKISTAN</span>
+ <h2 id="radioHeading">Pakistan Live Radio</h2>
+ <p>Explore free-to-listen Pakistani radio streams and official stations. No sound plays until you press Listen.</p></div>
+ <span class="section-pill">🔴 LIVE STATIONS</span></div>
+ <div class="radio-console">
+  <div class="radio-now"><div class="radio-light" aria-hidden="true">📻</div><div class="radio-now-info">
+   <span class="eyebrow">THE DESI RADIO DIAL</span><h3 id="radioNowTitle">Choose a station</h3>
+   <p id="radioNowDetail">FM music, talk, culture and local broadcasts from Pakistan.</p></div></div>
+  <div class="radio-audio-control">
+   <audio id="radioAudio" controls preload="none" aria-label="Live Pakistan radio stream"></audio>
+   <button type="button" id="radioStop" disabled>■ Stop radio</button>
+  </div>
+  <p id="radioPlayerStatus" role="status" class="radio-player-status">Tap a station to listen. Streaming availability depends on the broadcaster and your location.</p>
+ </div>
+ <div class="radio-filter-bar"><label for="radioSearch">Find a radio station</label>
+  <input id="radioSearch" type="search" placeholder="FM 101, Lahore, Karachi, folk..." autocomplete="off">
+  <span id="radioCount" aria-live="polite">Checking stations…</span></div>
+ <div id="radioStations" class="radio-grid" aria-live="polite"></div>
+ <p id="radioStatus" role="status" class="radio-status">Checking the latest Pakistani radio directory…</p>
+ <p class="radio-note">Radio programmes are provided by independent stations. The stream directory is community-maintained, may be temporarily offline or blocked by the broadcaster, and is not part of the DJ song playlists. <a href="https://www.radio.gov.pk/live-streaming" rel="noopener noreferrer" target="_blank">Official Radio Pakistan channels ↗</a></p>
+</section>
 <section class="studio" aria-label="Music player and queue">
 <div class="studio-main"><div class="studio-label"><span class="pulse"></span> <span id="djStatus">DJ DECK · READY</span></div>
 <h2 id="nowTitle">Choose your next favourite</h2><p id="nowArtist">Pick a genre, playlist, or song below.</p>
@@ -37,4 +59,5 @@
 </main>
 <footer><span>PakTV Ghar Music · The Desi DJ Lounge</span><span>Curated listening · original artists keep their YouTube views</span><a href="./privacy.html">Privacy</a><a href="./index.html">Home</a></footer>
 <script src="./music.js" defer></script>
+<script src="./radio.js" defer></script>
 </body></html>
