@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-18T20:38:04.124055Z",
+  "generatedAt": "2026-10-18T20:39:58.452231Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-18T20:38:04.124055Z",
+      "updatedAt": "2026-10-18T20:39:58.452231Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -62,7 +62,7 @@
       ]
     },
     "world": {
-      "updatedAt": "2026-10-18T20:38:04.124055Z",
+      "updatedAt": "2026-10-18T20:39:58.452231Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -124,7 +124,7 @@
   },
   "newsUrdu": {
     "pakistan": {
-      "updatedAt": "2026-10-18T20:38:04.124055Z",
+      "updatedAt": "2026-10-18T20:39:58.452231Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -140,10 +140,10 @@
           "published": "2026-10-18T18:18:21Z"
         },
         {
-          "title": "Pakistan to Hire Global Experts to Recover K2 Airways Black Box From Deep Sea - Aaj News",
+          "title": "Pakistan vs Sri Lanka | Tri-Nation ODI Series | Pakistan Wins by 38 Runs - Aaj News",
           "source": "Aaj News",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EUHlGSGJuR01VbUJ2aXBGZVJUZjBweE9hQnJsYV9KbHRXenpoWTJmdmYwNzBTbEZpM1VPNjQtRGlSRlFwMEU5b1FQTlc?oc=5",
-          "published": "2026-10-18T17:40:07Z"
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qY2FZNmFDcE00SUc5YmVneUFKejVDTFVyVC1Jb3ZGTkpiYkZZY0ZNcDNSdlI4elgxWXVORVp4SGozWlZXRVBBMC1GRUk?oc=5",
+          "published": "2026-10-18T18:10:07Z"
         },
         {
           "title": "Pakistan People’s Party (PPP) women workers light lamps in memory of the Karsaz tragedy martyrs outside a press club - | Associated Press Of Pakistan",
@@ -186,7 +186,7 @@
     "world": {}
   },
   "weather": {
-    "updatedAt": "2026-10-18T20:38:04.124055Z",
+    "updatedAt": "2026-10-18T20:39:58.452231Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -225,7 +225,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-18T20:38:04.124055Z",
+    "updatedAt": "2026-10-18T20:39:58.452231Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
@@ -251,7 +251,7 @@
     ]
   },
   "sports": {
-    "updatedAt": "2026-10-18T20:38:05.593129Z",
+    "updatedAt": "2026-10-18T20:39:59.665439Z",
     "source": "ESPN cricket snapshot",
     "url": "https://www.espncricinfo.com/live-cricket-score",
     "matches": []

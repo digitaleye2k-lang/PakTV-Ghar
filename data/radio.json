@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T20:38:10.007931Z",
+  "updatedAt": "2026-10-18T20:40:04.111888Z",
   "source": "Radio Browser community directory",
   "sourceUrl": "https://www.radio-browser.info/",
   "stations": [
@@ -268,12 +268,28 @@
       "source": "Radio Browser (community directory)"
     },
     {
-      "name": "Radio Pakistan · FM 101",
-      "city": "Nationwide / cities",
-      "genre": "Music, entertainment and public radio",
+      "name": "Radio Pakistan · FM 101 Islamabad",
+      "city": "Islamabad",
+      "genre": "Urdu music, news and entertainment",
       "homepage": "https://www.radio.gov.pk/live-streaming",
-      "stream": "",
-      "source": "Official station directory"
+      "stream": "https://whmsonic.radio.gov.pk:7008/stream",
+      "source": "Public station directory; stream availability varies"
+    },
+    {
+      "name": "City FM 89",
+      "city": "Islamabad / nationwide",
+      "genre": "Pop, modern hits and music",
+      "homepage": "https://cityfm89.com/",
+      "stream": "https://radio.cityfm89.com/stream",
+      "source": "Public station directory; stream availability varies"
+    },
+    {
+      "name": "Radio One FM 91",
+      "city": "Karachi / nationwide",
+      "genre": "Popular music and talk",
+      "homepage": "https://fm91.com.pk/",
+      "stream": "https://cc.vmakerhost.com/proxy/karachi?mp=/stream",
+      "source": "Public station directory; stream availability varies"
     },
     {
       "name": "Radio Pakistan · Planet FM 87.6",
