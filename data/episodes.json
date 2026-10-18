@@ -95,6 +95,34 @@
       }
     ]
   },
+  "hum-zehar-e-mohabbat": {
+    "episodes": [
+      {
+        "title": "Zehar-e-Mohabbat - Episode 18 - [Eng Sub] 18th Oct 2026 - [ Zoha Tauqeer & Omer Shahzad ] HUM TV",
+        "episode": 18,
+        "id": "9v8Ev05lrMc",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-18"
+      },
+      {
+        "id": "Alxhc4uy47Q",
+        "title": "Zehar-e-Mohabbat - Episode 16 - [Eng Sub] 11th Oct 2026 - [ Zoha Tauqeer & Omer Shahzad ] HUM TV",
+        "episode": 16,
+        "date": "2026-10-11",
+        "published": "2026-10-11T17:00:37Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Alxhc4uy47Q/hqdefault.jpg",
+        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
+      }
+    ]
+  },
   "arydigital-izzat": {
     "episodes": [
       {
@@ -177,6 +205,14 @@
   },
   "arydigital-jeeto-pakistan": {
     "episodes": [
+      {
+        "title": "A Truly Heartwarming Moment ...Digitally Presented by ENGLISH  | Jeeto Pakistan | ARY Digital",
+        "episode": null,
+        "id": "VcVEJkBkPGU",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-18"
+      },
       {
         "title": "Jeeto Pakistan | 18 October 2026 | Fahad Mustafa | ARY Digital",
         "episode": null,
@@ -389,6 +425,14 @@
   },
   "harpalgeo-bano": {
     "episodes": [
+      {
+        "title": "Bano Episode 06 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 18th October 2026 | HAR PAL GEO",
+        "episode": 6,
+        "id": "sXmAcHcL0eA",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-18"
+      },
       {
         "title": "Bano Episode 05 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
         "episode": 5,
@@ -31527,26 +31571,6 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nQGADWyKgdg/hqdefault.jpg",
-        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
-      }
-    ]
-  },
-  "hum-zehar-e-mohabbat": {
-    "episodes": [
-      {
-        "id": "Alxhc4uy47Q",
-        "title": "Zehar-e-Mohabbat - Episode 16 - [Eng Sub] 11th Oct 2026 - [ Zoha Tauqeer & Omer Shahzad ] HUM TV",
-        "episode": 16,
-        "date": "2026-10-11",
-        "published": "2026-10-11T17:00:37Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Alxhc4uy47Q/hqdefault.jpg",
         "checkedAt": "2026-10-16T09:51:10.658370+00:00"
       }
     ]

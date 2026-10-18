@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T17:12:52.049520+00:00",
+  "generatedAt": "2026-10-18T17:15:44.895333+00:00",
   "dateTimezone": "UTC",
-  "cursor": 34,
+  "cursor": 46,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -91,63 +91,63 @@
       "uploadsId": "UUuqBZWK9Wrol_4Y22DzisFQ",
       "handle": "FoodfusionPk",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T16:57:57.459640+00:00"
+      "lastFetchedAt": "2026-10-18T17:15:44.895333+00:00"
     },
     "samaa": {
       "youtubeId": "UCJekW1Vj5fCVEGdye_mBN6Q",
       "uploadsId": "UUJekW1Vj5fCVEGdye_mBN6Q",
       "handle": "SAMAATV",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T16:57:57.459640+00:00"
+      "lastFetchedAt": "2026-10-18T17:15:44.895333+00:00"
     },
     "hasbehaal": {
       "youtubeId": "UCyiJNpF7RgpPhyeKc4wnQkg",
       "uploadsId": "UUyiJNpF7RgpPhyeKc4wnQkg",
       "handle": "hasbehaalofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T16:57:57.459640+00:00"
+      "lastFetchedAt": "2026-10-18T17:15:44.895333+00:00"
     },
     "pakexperience": {
       "youtubeId": "UC44l9XMwecN5nSgIF2Dvivg",
       "uploadsId": "UU44l9XMwecN5nSgIF2Dvivg",
       "handle": "ThePakistanExperience",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T16:57:57.459640+00:00"
+      "lastFetchedAt": "2026-10-18T17:15:44.895333+00:00"
     },
     "maaz": {
       "youtubeId": "UCz0M2pV4jOUUQ88lOd2q08A",
       "uploadsId": "UUz0M2pV4jOUUQ88lOd2q08A",
       "handle": "MaazSafderWorld",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T16:57:57.459640+00:00"
+      "lastFetchedAt": "2026-10-18T17:15:44.895333+00:00"
     },
     "matiullah": {
       "youtubeId": "UC-hJ0cobUiWlBFTHgLwt8sQ",
       "uploadsId": "UU-hJ0cobUiWlBFTHgLwt8sQ",
       "handle": "MatiullahJanMJtv",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T16:59:29.744576+00:00"
+      "lastFetchedAt": "2026-10-18T17:15:44.895333+00:00"
     },
     "p4pakao": {
       "youtubeId": "UCI9tIvSPsdxNEICjZk7ujUA",
       "uploadsId": "UUI9tIvSPsdxNEICjZk7ujUA",
       "handle": "p4pakaoofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T16:59:29.744576+00:00"
+      "lastFetchedAt": "2026-10-18T17:15:44.895333+00:00"
     },
     "dawnnews": {
       "youtubeId": "UCaxR-D8FjZ-2otbU0_Y2grg",
       "uploadsId": "UUaxR-D8FjZ-2otbU0_Y2grg",
       "handle": "dawnnewspakistan",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T16:59:29.744576+00:00"
+      "lastFetchedAt": "2026-10-18T17:15:44.895333+00:00"
     },
     "irfanjunejo": {
       "youtubeId": "UCUuDUW0Y6IQZYDvH1QQBsgA",
       "uploadsId": "UUUuDUW0Y6IQZYDvH1QQBsgA",
       "handle": "irfanjunejo",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T16:59:29.744576+00:00"
+      "lastFetchedAt": "2026-10-18T17:15:44.895333+00:00"
     },
     "kunfoods": {
       "youtubeId": "UCJEGvNxXunjqrcd2Xg9ntMQ",
@@ -238,7 +238,7 @@
       "uploadsId": "UU-rP-oFlxQGpSLYHBlhIWkg",
       "handle": "mooroosicity",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T16:57:57.459640+00:00"
+      "lastFetchedAt": "2026-10-18T17:15:44.895333+00:00"
     },
     "aryfilms": {
       "youtubeId": "UC2PYniNHljOED9xNaMpiMiQ",
@@ -402,6 +402,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "slkLleQRjKM",
+      "title": "Nawaz Sharif Supports Emergency In KP - What Does It Mean? | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:05:39Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 897,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/slkLleQRjKM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "cqBntETHkjg",
       "title": "Khushi Ki Shadi Per Zaroor Aana..! #khushi #sumaiyyabukhs #HUMTV",
       "channel": "HUM TV",
@@ -417,6 +435,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/cqBntETHkjg/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "yqzDkB4qyvE",
+      "title": "Saudi-Houthis War | 1,417 Attacks Reported in 24 Hours | 09:30 PM News Update | Samaa TV",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:02:01Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 663,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/yqzDkB4qyvE/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -30570,24 +30606,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "zOhlIRz-Y-Y",
-      "title": "Peshawar Incident | Masoom Bachon Ki Judai Par Har Aankh Ashkbaar | Isal-e-Sawab Ke Liye Khaas Dua",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T12:27:58Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 341,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/zOhlIRz-Y-Y/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "9Rjr3Jj7rFo",
       "title": "Sindh Chief Secretary Chairs Important Meeting | Breaking News | Dawn News",
       "channel": "Dawn News",
@@ -45579,24 +45597,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/tk7McRdwiPw/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "6uauYarUPqY",
-      "title": "Washuk Operation In Balochistan | 5 Terrorists Killed | Dawn News Headlines: 11 AM",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-14",
-      "published": "2026-10-14T06:19:01Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 666,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/6uauYarUPqY/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79548,6 +79548,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Imran Riaz Khan: channel unavailable",
+  "lastError": "Junaid Akram: channel unavailable; Express News: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
