@@ -86,14 +86,6 @@
         "date": "2026-10-17"
       },
       {
-        "title": "Aangan - Episode 05 - Flashback [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
-        "episode": 5,
-        "id": "gDwbkH0v36c",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-10-17"
-      },
-      {
         "id": "K1SHRLAXBuE",
         "title": "Aangan - Episode 04 - Highlight [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
         "episode": 4,
@@ -199,50 +191,6 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QpzPYN2DuEg/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
-      }
-    ]
-  },
-  "arydigital-main-tera": {
-    "episodes": [
-      {
-        "title": "Main Tera Episode 61 | Emotional Scene | ARY Digital",
-        "episode": 61,
-        "id": "LcE201pzVGw",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-17"
-      },
-      {
-        "id": "OErakyu1-A4",
-        "title": "Main Tera Episode 59 | Best Moment | ARY Digital",
-        "episode": 59,
-        "date": "2026-10-15",
-        "published": "2026-10-15T11:10:24Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/OErakyu1-A4/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
-      },
-      {
-        "id": "becjUcBHoMI",
-        "title": "Main Ab Is Ghar Mai Nahi Rahungi | Main Tera Episode 56 | Yusra Irfan | ARY Digital",
-        "episode": 56,
-        "date": "2026-10-15",
-        "published": "2026-10-15T12:50:20Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/becjUcBHoMI/hqdefault.jpg",
         "checkedAt": "2026-10-16T00:59:10.857630+00:00"
       }
     ]
@@ -14603,7 +14551,71 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/gYVborPPkS4/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
+      },
+      {
+        "id": "t7hvVMo1hOg",
+        "title": "Jaan Nisar Ep 62 - [Eng Sub] - Digitally Presented by Happilac Paints - 18th Oct 2024 - Har Pal Geo",
+        "episode": 62,
+        "date": "2024-10-18",
+        "published": "2024-10-18T16:00:07Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/t7hvVMo1hOg/hqdefault.jpg",
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
+      },
+      {
+        "id": "cYCd2gDJObY",
+        "title": "Jaan Nisar Ep 61 - [Eng Sub] - Digitally Presented by Happilac Paints - 12th Oct 2024 - Har Pal Geo",
+        "episode": 61,
+        "date": "2024-10-12",
+        "published": "2024-10-12T16:00:06Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/cYCd2gDJObY/hqdefault.jpg",
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
+      },
+      {
+        "id": "p51z_WImwzE",
+        "title": "Jaan Nisar Ep 58 - [Eng Sub] - Digitally Presented by Happilac Paints - 4th Oct 2024 - Har Pal Geo",
+        "episode": 58,
+        "date": "2024-10-04",
+        "published": "2024-10-04T16:00:26Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/p51z_WImwzE/hqdefault.jpg",
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
+      },
+      {
+        "id": "l0J5AHqE2IQ",
+        "title": "Jaan Nisar Ep 56 - [Eng Sub] - Digitally Presented by Happilac Paints - 27th Sep 2024 - Har Pal Geo",
+        "episode": 56,
+        "date": "2024-09-27",
+        "published": "2024-09-27T16:00:16Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/l0J5AHqE2IQ/hqdefault.jpg",
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "5I98Sfpn8AE",
@@ -14635,7 +14647,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/hYZ1K9fqxZw/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
+      },
+      {
+        "id": "2ibCVi4-JTc",
+        "title": "Jaan Nisar Ep 47 - [Eng Sub] - Digitally Presented by Happilac Paints - 24th Aug 2024 - Har Pal Geo",
+        "episode": 47,
+        "date": "2024-08-24",
+        "published": "2024-08-24T16:00:07Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/2ibCVi4-JTc/hqdefault.jpg",
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "EXwvVZqJOy4",
@@ -14654,6 +14682,22 @@
         "checkedAt": "2026-10-14T09:51:28.816271+00:00"
       },
       {
+        "id": "L8V6eNo1SOQ",
+        "title": "Jaan Nisar Ep 44 - [Eng Sub] - Digitally Presented by Happilac Paints - 16th Aug 2024 - Har Pal Geo",
+        "episode": 44,
+        "date": "2024-08-16",
+        "published": "2024-08-16T16:00:32Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/L8V6eNo1SOQ/hqdefault.jpg",
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
+      },
+      {
         "id": "ZIwp1hLeFQ4",
         "title": "Jaan Nisar Ep 42 - [Eng Sub] - Digitally Presented by Happilac Paints - 9th Aug 2024 - Har Pal Geo",
         "episode": 42,
@@ -14667,7 +14711,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ZIwp1hLeFQ4/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "fIkwuNfrlIM",
@@ -14683,7 +14727,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fIkwuNfrlIM/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "F4Tl1NIqScU",
@@ -14699,7 +14743,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/F4Tl1NIqScU/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "EHf0B0F0JgI",
@@ -14715,7 +14759,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/EHf0B0F0JgI/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
+      },
+      {
+        "id": "wruQfUTcePU",
+        "title": "Jaan Nisar Ep 34 - [Eng Sub] - Digitally Presented by Happilac Paints - 20th July 2024 - Har Pal Geo",
+        "episode": 34,
+        "date": "2024-07-20",
+        "published": "2024-07-20T16:00:06Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/wruQfUTcePU/hqdefault.jpg",
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
+      },
+      {
+        "id": "jLzdGcLglow",
+        "title": "Jaan Nisar Ep 33 - [Eng Sub] - Digitally Presented by Happilac Paints - 19th July 2024 - Har Pal Geo",
+        "episode": 33,
+        "date": "2024-07-19",
+        "published": "2024-07-19T16:00:07Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/jLzdGcLglow/hqdefault.jpg",
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "R1hija2iagg",
@@ -14747,7 +14823,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/tX2VI72s02E/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "MnhKHB3yYoA",
@@ -14763,7 +14839,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/MnhKHB3yYoA/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "nBlXxGS9hIY",
@@ -14779,7 +14855,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nBlXxGS9hIY/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "VR_-7uwu1gc",
@@ -14795,7 +14871,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/VR_-7uwu1gc/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
+      },
+      {
+        "id": "by0dO7sP8dk",
+        "title": "Jaan Nisar Ep 25 - [Eng Sub] - Digitally Presented by Happilac Paints - 29th June 2024 - Har Pal Geo",
+        "episode": 25,
+        "date": "2024-06-29",
+        "published": "2024-06-29T16:00:06Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/by0dO7sP8dk/hqdefault.jpg",
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
+      },
+      {
+        "id": "lpIGuzyyEK0",
+        "title": "Jaan Nisar Ep 24 - [Eng Sub] - Digitally Presented by Happilac Paints - 28th June 2024 - Har Pal Geo",
+        "episode": 24,
+        "date": "2024-06-28",
+        "published": "2024-06-28T16:00:06Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/lpIGuzyyEK0/hqdefault.jpg",
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "hu4flosH37I",
@@ -14843,7 +14951,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UWPf8-hEXTA/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "octKqMbyZTE",
@@ -14859,7 +14967,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/octKqMbyZTE/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "6DOZhCfwZxo",
@@ -14875,7 +14983,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6DOZhCfwZxo/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "egagiqw_K8g",
@@ -14891,7 +14999,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/egagiqw_K8g/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "n5wvOzmnQi4",
@@ -14907,7 +15015,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/n5wvOzmnQi4/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
+      },
+      {
+        "id": "2Pib3S53yI0",
+        "title": "Jaan Nisar Ep 15 - [Eng Sub] - Digitally Presented by Happilac Paints - 9th June 2024 - Har Pal Geo",
+        "episode": 15,
+        "date": "2024-06-09",
+        "published": "2024-06-09T16:00:23Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/2Pib3S53yI0/hqdefault.jpg",
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "H4CSfdlaSoE",
@@ -14923,7 +15047,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/H4CSfdlaSoE/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
+      },
+      {
+        "id": "ZhNaMJ5Iecs",
+        "title": "Jaan Nisar Ep 13 - [Eng Sub] - Digitally Presented by Happilac Paints - 7th June 2024 - Har Pal Geo",
+        "episode": 13,
+        "date": "2024-06-07",
+        "published": "2024-06-07T16:00:07Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ZhNaMJ5Iecs/hqdefault.jpg",
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
+      },
+      {
+        "id": "tok1t8HCp0k",
+        "title": "Jaan Nisar Ep 10 - [Eng Sub] - Digitally Presented by Happilac Paints - 31st May 2024 - Har Pal Geo",
+        "episode": 10,
+        "date": "2024-05-31",
+        "published": "2024-05-31T16:00:06Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/tok1t8HCp0k/hqdefault.jpg",
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "co7zSpcwOHI",
@@ -14939,7 +15095,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/co7zSpcwOHI/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "U9ALGrR7lPE",
@@ -14955,7 +15111,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/U9ALGrR7lPE/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "_VCSxGO295E",
@@ -14971,7 +15127,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_VCSxGO295E/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "hbfryDZ8Sw4",
@@ -15003,7 +15159,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/AP5ijvyyVqQ/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "eBXOcOSlPjM",
@@ -15019,7 +15175,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/eBXOcOSlPjM/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "-7TIA5qsDkc",
@@ -15035,7 +15191,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-7TIA5qsDkc/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "04lNPPVdISI",
@@ -15051,7 +15207,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/04lNPPVdISI/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "0TbObX0dyQQ",
@@ -15067,7 +15223,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0TbObX0dyQQ/hqdefault.jpg",
-        "checkedAt": "2026-10-14T09:51:28.816271+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       }
     ]
   },
@@ -15087,7 +15243,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/aE5aOEq2Kjw/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "yl8mHazCeHM",
@@ -15103,7 +15259,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yl8mHazCeHM/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "xPh1mkgymCc",
@@ -15119,7 +15275,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xPh1mkgymCc/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "ovwGv47i0Zs",
@@ -15135,7 +15291,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ovwGv47i0Zs/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "xjrkWM2dkQU",
@@ -15151,7 +15307,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xjrkWM2dkQU/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "b1kiLqy1hwU",
@@ -15167,7 +15323,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/b1kiLqy1hwU/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "zE0hJLrUpk0",
@@ -15183,7 +15339,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zE0hJLrUpk0/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "ooNMtL3ImZQ",
@@ -15199,7 +15355,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ooNMtL3ImZQ/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "-fWoXGckeXU",
@@ -15215,7 +15371,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-fWoXGckeXU/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "SsRg_3kIDuA",
@@ -15231,7 +15387,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SsRg_3kIDuA/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "7BXWBUTi3FE",
@@ -15247,7 +15403,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7BXWBUTi3FE/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
+      },
+      {
+        "id": "zmkAe7QtxiM",
+        "title": "Jhoom Episode 11 - Haroon Kadwani - Zara Noor Abbas - Haris Waheed -  Sidra Niazi - HAR PAL GEO",
+        "episode": 11,
+        "date": "2026-01-31",
+        "published": "2026-01-31T16:01:28Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/zmkAe7QtxiM/hqdefault.jpg",
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "tXniQtfdi9I",
@@ -15263,7 +15435,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/tXniQtfdi9I/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "-C-OPTx-COc",
@@ -15295,7 +15467,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/O1735ebZdio/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
+      },
+      {
+        "id": "UZ177iez0aU",
+        "title": "Jhoom Episode 09 - Haroon Kadwani - Zara Noor Abbas - Haris Waheed -  Sidra Niazi - HAR PAL GEO",
+        "episode": 9,
+        "date": "2026-01-24",
+        "published": "2026-01-24T16:00:45Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/UZ177iez0aU/hqdefault.jpg",
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "83WtP9PLmaA",
@@ -15311,7 +15499,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/83WtP9PLmaA/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "VUuulgMFo8c",
@@ -15343,7 +15531,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Eb4C1K7gRok/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "DX_ieXu0Evs",
@@ -15359,7 +15547,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DX_ieXu0Evs/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "-hx_7tIZtHI",
@@ -15375,7 +15563,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-hx_7tIZtHI/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
+      },
+      {
+        "id": "m8PO8pwNmK0",
+        "title": "Jhoom Episode 06 - Haroon Kadwani - Zara Noor Abbas - Haris Waheed -  Sidra Niazi - HAR PAL GEO",
+        "episode": 6,
+        "date": "2026-01-11",
+        "published": "2026-01-11T16:01:11Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/m8PO8pwNmK0/hqdefault.jpg",
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "7QYpyTfqzD4",
@@ -15391,7 +15595,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7QYpyTfqzD4/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
+      },
+      {
+        "id": "M6uR7DPc_AA",
+        "title": "Jhoom Episode 05 - Haroon Kadwani - Zara Noor Abbas - Haris Waheed -  Sidra Niazi - HAR PAL GEO",
+        "episode": 5,
+        "date": "2026-01-10",
+        "published": "2026-01-10T16:00:27Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/M6uR7DPc_AA/hqdefault.jpg",
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "exU56F8_g5k",
@@ -15407,7 +15627,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/exU56F8_g5k/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "It2kDwa4Hbs",
@@ -15423,7 +15643,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/It2kDwa4Hbs/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
+      },
+      {
+        "id": "fo3rOvSHBZo",
+        "title": "Jhoom Episode 03 | Haroon Kadwani - Zara Noor Abbas - Sidra Niazi | Har Pal Geo | #romantic #jhoom",
+        "episode": 3,
+        "date": "2026-05-27",
+        "published": "2026-05-27T17:00:10Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/fo3rOvSHBZo/hqdefault.jpg",
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "08ze-D1LG30",
@@ -15439,7 +15675,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/08ze-D1LG30/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
+      },
+      {
+        "id": "YdwsmwhH0SQ",
+        "title": "Jhoom Episode 02 - Haroon Kadwani - Zara Noor Abbas - Haris Waheed -  Sidra Niazi - HAR PAL GEO",
+        "episode": 2,
+        "date": "2025-12-28",
+        "published": "2025-12-28T16:00:53Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/YdwsmwhH0SQ/hqdefault.jpg",
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "xHC5JELXw6Q",
@@ -15455,7 +15707,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xHC5JELXw6Q/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "F2NU83uHocg",
@@ -15471,7 +15723,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/F2NU83uHocg/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "dI40qFKBjq4",
@@ -15487,7 +15739,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dI40qFKBjq4/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       }
     ]
   },
@@ -15507,7 +15759,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/JnvhRXXHqFE/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "WeZ-RIUlIxQ",
@@ -15523,7 +15775,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/WeZ-RIUlIxQ/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "OW6eA-o_Rts",
@@ -15539,7 +15791,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OW6eA-o_Rts/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "QqTqH866xgg",
@@ -15555,7 +15807,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QqTqH866xgg/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "eyyhX4OMpGY",
@@ -15571,7 +15823,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/eyyhX4OMpGY/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
+      },
+      {
+        "id": "MkwhUlpLoG4",
+        "title": "Kaffara Episode 85 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 13th October 2024",
+        "episode": 85,
+        "date": "2024-10-13",
+        "published": "2024-10-13T16:00:20Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/MkwhUlpLoG4/hqdefault.jpg",
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "wXon3TXopSs",
@@ -15587,7 +15855,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wXon3TXopSs/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "vQ61Nxd-ZzY",
@@ -15603,7 +15871,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vQ61Nxd-ZzY/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "K16CGAJ7spM",
@@ -15635,7 +15903,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mRf7KeKI1Oc/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "nnO48HFlp78",
@@ -15683,7 +15951,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DRKRI5kv8eU/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "HqiJB-DkOa4",
@@ -15699,7 +15967,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/HqiJB-DkOa4/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "25fD8YooAJk",
@@ -15715,7 +15983,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/25fD8YooAJk/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "yWYFZqU1MyY",
@@ -15731,7 +15999,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yWYFZqU1MyY/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "rcZdrQC1Cdg",
@@ -15750,6 +16018,22 @@
         "checkedAt": "2026-10-14T13:01:37.756903+00:00"
       },
       {
+        "id": "yHprzPETRAM",
+        "title": "Kaffara Episode 43 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 8th September 2024",
+        "episode": 43,
+        "date": "2024-09-08",
+        "published": "2024-09-08T17:00:46Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/yHprzPETRAM/hqdefault.jpg",
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
+      },
+      {
         "id": "C7tSv5I5amE",
         "title": "Kaffara Episode 40 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 5th September 2024",
         "episode": 40,
@@ -15763,7 +16047,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/C7tSv5I5amE/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "MRXFG34CoFM",
@@ -15795,7 +16079,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/da0CQ-F53Yg/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "y-WqldEGUmQ",
@@ -15811,7 +16095,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/y-WqldEGUmQ/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "H54oWz5cfGQ",
@@ -15827,7 +16111,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/H54oWz5cfGQ/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "d862zOfdTCA",
@@ -15859,7 +16143,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vSZLRF7tKew/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "6wwz4hqkd4E",
@@ -15891,7 +16175,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DimtWhYRV-U/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "FVKbZCnm9xo",
@@ -15907,7 +16191,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/FVKbZCnm9xo/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "50FwBkg9raw",
@@ -15923,7 +16207,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/50FwBkg9raw/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "lDhHbzC9fzo",
@@ -15939,7 +16223,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lDhHbzC9fzo/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "jrnG1jgrTOU",
@@ -15955,7 +16239,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/jrnG1jgrTOU/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "qufX0JLsTPI",
@@ -15971,7 +16255,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/qufX0JLsTPI/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "UlyhO5_b_88",
@@ -15987,7 +16271,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UlyhO5_b_88/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "Sn6EHkJ3pzQ",
@@ -16003,7 +16287,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Sn6EHkJ3pzQ/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "xOc-vQvKWmE",
@@ -16019,7 +16303,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xOc-vQvKWmE/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "cStJOkpW4Qk",
@@ -16035,7 +16319,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cStJOkpW4Qk/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
+      },
+      {
+        "id": "QX4T2Ndndd4",
+        "title": "Kaffara Episode 04 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 30th July 2024 - HAR PAL GEO",
+        "episode": 4,
+        "date": "2024-07-30",
+        "published": "2024-07-30T17:00:30Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/QX4T2Ndndd4/hqdefault.jpg",
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
+      },
+      {
+        "id": "CQnMwNkideo",
+        "title": "Kaffara Episode 03 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 29th July 2024 - HAR PAL GEO",
+        "episode": 3,
+        "date": "2024-07-29",
+        "published": "2024-07-29T17:00:08Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/CQnMwNkideo/hqdefault.jpg",
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "TujCFlBMNLo",
@@ -16051,7 +16367,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TujCFlBMNLo/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       },
       {
         "id": "OAzNGqVD8G8",
@@ -16067,7 +16383,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OAzNGqVD8G8/hqdefault.jpg",
-        "checkedAt": "2026-10-14T13:01:37.756903+00:00"
+        "checkedAt": "2026-10-18T03:50:07.946051+00:00"
       }
     ]
   },
@@ -29532,6 +29848,42 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/AGEGDHZ2bBc/hqdefault.jpg",
         "checkedAt": "2026-10-15T21:49:22.372994+00:00"
+      }
+    ]
+  },
+  "arydigital-main-tera": {
+    "episodes": [
+      {
+        "id": "OErakyu1-A4",
+        "title": "Main Tera Episode 59 | Best Moment | ARY Digital",
+        "episode": 59,
+        "date": "2026-10-15",
+        "published": "2026-10-15T11:10:24Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/OErakyu1-A4/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+      },
+      {
+        "id": "becjUcBHoMI",
+        "title": "Main Ab Is Ghar Mai Nahi Rahungi | Main Tera Episode 56 | Yusra Irfan | ARY Digital",
+        "episode": 56,
+        "date": "2026-10-15",
+        "published": "2026-10-15T12:50:20Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/becjUcBHoMI/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
       }
     ]
   },
