@@ -4,7 +4,7 @@
 <meta name="theme-color" content="#123b35">
 <meta name="description" content="PakTV Ghar Music — Pakistani classics, qawwali, ghazals, folk, pop, rock, jazz fusion, hip-hop and DJ-curated YouTube playlists.">
 <title>Music & DJ Studio | PakTV Ghar</title>
-<link rel="icon" href="./favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="./music.css">
+<link rel="icon" href="./favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="./music.css"><link rel="stylesheet" href="./dj-studio.css">
 <link rel="stylesheet" href="./ads-standalone.css">
 <link rel="stylesheet" href="./cookie-consent.css">
 </head><body data-paktv-auto-ads="yes">
@@ -16,9 +16,11 @@
 <div class="hero-copy"><p class="eyebrow">PAKTV GHAR PRESENTS · DESI DJ LOUNGE</p>
 <h1>Pakistan's <em>Soundtrack.</em></h1><p>From timeless classics and soulful ghazals to qawwali, folk, indie, rock, jazz fusion and Urdu rap. Explore real releases from original Pakistani artists and music publishers.</p>
 <div class="hero-badges"><span>🎧 Original music videos</span><span>💚 Curated DJ playlists</span><span>🔁 Updated from official channels</span></div>
-<a class="primary" href="#djSets">Explore DJ sets ↓</a></div>
+<a class="primary" href="#musicTabs">Explore Music ↓</a></div>
 <div class="hero-disc" aria-hidden="true"><div class="disc-ring"><span>♪</span></div><div class="equalizer"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div><span class="turntable-caption">THE DESI DJ DECK</span></div>
 </section>
+<nav class="music-subtabs" id="musicTabs" aria-label="Music sections"><a href="#music" data-music-tab="music" aria-current="page">🎵 Music</a><a href="#radio" data-music-tab="radio">📻 Radio Stations</a><a href="#djs" data-music-tab="djs">🎧 Virtual DJs</a></nav>
+<div id="radio" class="music-tab-panel" data-panel="radio" hidden>
 <section class="radio-studio section-wrap" id="pakistanRadio" aria-labelledby="radioHeading">
  <div class="section-head"><div><span class="eyebrow">📡 ON AIR FROM PAKISTAN</span>
  <h2 id="radioHeading">Pakistan Live Radio</h2>
@@ -41,6 +43,8 @@
  <p id="radioStatus" role="status" class="radio-status">Checking the latest Pakistani radio directory…</p>
  <p class="radio-note">Radio programmes are provided by independent stations. The stream directory is community-maintained, may be temporarily offline or blocked by the broadcaster, and is not part of the DJ song playlists. <a href="https://www.radio.gov.pk/live-streaming" rel="noopener noreferrer" target="_blank">Official Radio Pakistan channels ↗</a></p>
 </section>
+</div>
+<div id="music" class="music-tab-panel" data-panel="music">
 <section class="studio" aria-label="Music player and queue">
 <div class="studio-main"><div class="studio-label"><span class="pulse"></span> <span id="djStatus">DJ DECK · READY</span></div>
 <h2 id="nowTitle">Choose your next favourite</h2><p id="nowArtist">Pick a genre, playlist, or song below.</p>
@@ -49,7 +53,12 @@
 <p class="player-note">Tracks remain on the artists' original YouTube channels. Playback and country availability are controlled by each publisher. Playing a song connects to YouTube.</p></div>
 <aside class="dj-queue" aria-labelledby="djQueueTitle"><div class="dj-queue-head"><span class="eyebrow">YOUR DJ QUEUE</span><h3 id="djQueueTitle">Up next</h3><span id="queueCount">No songs queued</span></div><ol id="queueList" aria-live="polite"></ol></aside>
 </section>
+</div>
+<div id="djs" class="music-tab-panel" data-panel="djs" hidden>
+<section class="virtual-dj-section section-wrap" aria-labelledby="virtualDJHeading"><div class="section-head"><div><span class="eyebrow">THE PAKTV GHAR VIRTUAL DJ CREW</span><h2 id="virtualDJHeading">Meet your three DJs.</h2><p>Each DJ picks a 10-track set from the available verified artist uploads. Select a set to send it to the music deck.</p></div><span class="section-pill">🎧 THREE STYLES</span></div><div id="virtualDJCards" class="virtual-dj-cards"></div><p id="virtualDJStatus" class="music-status" role="status"></p></section>
 <section id="djSets" class="section-wrap" aria-labelledby="setHeading"><div class="section-head"><div><span class="eyebrow">PAKTV GHAR DJ SELECTS</span><h2 id="setHeading">Pick your mood.</h2><p>Editorial music sets assembled from the available, identified publisher tracks—no fabricated songs.</p></div><span class="section-pill">🎛️ DJ CURATED</span></div><div id="playlistCards" class="dj-sets"></div></section>
+</div>
+<div class="music-tab-panel" data-panel="catalogue" data-parent-tab="music">
 <section class="section-wrap" aria-labelledby="genreTitle"><div class="section-head"><div><span class="eyebrow">FROM GOLDEN ERA TO NEW SCHOOL</span><h2 id="genreTitle">Choose your sound.</h2><p>Browse by Pakistani music style. Genre tags are best-effort based on publisher and release metadata.</p></div></div>
 <div id="genreFilters" class="genres" role="group" aria-label="Filter music by genre"></div>
 <div class="catalogue-top"><h3 id="musicResultTitle">Latest Pakistani music</h3><label class="music-search">Find a song or artist <input id="musicSearch" type="search" placeholder="Song, artist or title..." autocomplete="off"></label></div>
@@ -57,11 +66,12 @@
 <p id="musicStatus" class="music-status" role="status">Checking the Pakistani music archive…</p>
 <button id="showMoreMusic" class="load-more" type="button" hidden>Show more music ↓</button>
 </section>
+</div>
 <div class="music-outro"><span aria-hidden="true">💿</span><div><h2>Keep the music playing.</h2><p>Explore the full PakTV Ghar entertainment world—films, dramas, sports and GUPSHUP.</p></div><a href="./index.html">Back to PakTV Ghar →</a></div>
 </main>
 <footer><span>PakTV Ghar Music · The Desi DJ Lounge</span><span>Curated listening · original artists keep their YouTube views</span><a href="./privacy.html">Privacy</a><a href="./index.html">Home</a><button class="cookie-settings-footer" type="button" data-privacy-settings>Cookie &amp; ad settings</button>
 </footer>
-<script src="./music.js" defer></script>
+<script src="./music.js" defer></script><script src="./dj-studio.js" defer></script>
 <script src="./radio.js" defer></script>
 <script src="./cookie-consent.js" defer></script>
 </body></html>

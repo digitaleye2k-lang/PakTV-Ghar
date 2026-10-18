@@ -142,6 +142,7 @@ function drawQueue(){
 }
 function startQueue(tracks,index=0){
  state.queue=uniq(tracks);state.index=-1;drawQueue();playAt(index);
+ document.dispatchEvent(new CustomEvent("paktv:dj-queue-start"));
  document.querySelector(".studio")?.scrollIntoView({behavior:"smooth",block:"center"});
 }
 function playAt(index){
@@ -180,6 +181,7 @@ async function load(){
  for(const r of responses)if(r.status==="fulfilled"&&Array.isArray(r.value?.videos))entries.push(...r.value.videos);
  state.tracks=uniq(entries.filter(safe).map(normalize)).sort(compare);
  state.loading=false;drawTracks();drawSets();
+ document.dispatchEvent(new CustomEvent("paktv:music-catalog-ready",{detail:{tracks:state.tracks}}));
 }
 $("musicSearch").addEventListener("input",e=>{state.search=e.target.value;state.visible=20;drawTracks();});
 $("showMoreMusic").addEventListener("click",()=>{state.visible+=20;drawTracks();});
@@ -190,5 +192,6 @@ $("playerShuffle").addEventListener("click",()=>{
  $("playerShuffle").setAttribute("aria-pressed",String(state.shuffle));
  $("playerShuffle").textContent=state.shuffle?"🔀 Shuffle on":"🔀 Shuffle off";
 });
+document.addEventListener("paktv:virtual-dj-play",e=>{const tracks=e.detail?.tracks;if(Array.isArray(tracks)&&tracks.length)startQueue(tracks.slice(0,10));});
 drawGenres();drawTracks();drawSets();void load();
 })();
