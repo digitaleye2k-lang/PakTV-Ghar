@@ -19,6 +19,7 @@ PER_CHANNEL_LIMIT = 220
 ARCHIVE_RETENTION_DAYS = 365
 MAX_ARCHIVE_VIDEOS = 4400
 MOVIE_ARCHIVE_RETENTION_DAYS = 3650
+MUSIC_ARCHIVE_RETENTION_DAYS = 9000  # Keep older ghazals, folk, qawwali and classic tracks
 # Publisher-uploaded full films / feature-length telefilms, not teasers or
 # arbitrary third-party copies. A label alone does not prove worldwide rights.
 MOVIE_TITLE = re.compile(r'\b(?:full\s+(?:pakistani\s+)?(?:movie|film)|(?:movie|film)\s+full|complete\s+(?:movie|film)|tele[ -]?film)\b', re.I)
@@ -122,8 +123,10 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
     entries = {}
     earliest = (now - timedelta(days=ARCHIVE_RETENTION_DAYS)).date().isoformat()
     movie_earliest = (now - timedelta(days=MOVIE_ARCHIVE_RETENTION_DAYS)).date().isoformat()
+    music_earliest = (now - timedelta(days=MUSIC_ARCHIVE_RETENTION_DAYS)).date().isoformat()
     for v in previous.get('videos', []):
-        threshold = movie_earliest if v.get('category') == 'movies' else earliest
+        threshold = (movie_earliest if v.get('category') == 'movies' else
+                     music_earliest if v.get('category') == 'music' else earliest)
         if VIDEO_ID.fullmatch(v.get('id','')) and v.get('date','') >= threshold:
             entries[v['id']] = v
     cache = dict(previous.get('channels') or {})
@@ -143,7 +146,10 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
                    [source for source in CHANNELS if
                     (source.get('category') in ('sports', 'kids', 'waggle') or
                      source.get('id') in ('lollywoodcinema','movieboxmovies',
-                                         'cokestudio','talhaanjum','jaubi','emipakistan'))
+                                         'cokestudio','talhaanjum','jaubi','emipakistan') or
+                     (source.get('channelId') and
+                      source['channelId'] != (cache.get(source['id']) or {}).get('youtubeId')))
+                    )
                     and not (cache.get(source['id']) or {}).get('lastFetchedAt')],
                    key=lambda source: 0 if source['id'] in
                    ('lollywoodcinema', 'movieboxmovies') else
@@ -161,8 +167,11 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
     for source in sources:
         sid = source['id']
         record = cache.get(sid, {})
-        youtube_id = source.get('channelId') or record.get('youtubeId', '')
-        uploads = record.get('uploadsId','')
+        pinned_id = source.get('channelId') or ''
+        youtube_id = pinned_id or record.get('youtubeId', '')
+        # Never reuse the cached uploads playlist after a curator corrects
+        # a mistaken channel handle: fetch the playlist for the pinned ID.
+        uploads = record.get('uploadsId','') if not pinned_id or pinned_id == record.get('youtubeId') else ''
         channel_name = source['name']
         try:
             # Resolve official handle with YouTube Data API rather than trusting
@@ -203,7 +212,9 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
                 }, key, transport)
                 for v in video_batch.get('items',[]):
                     converted = normalise_video(v,entry)
-                    if converted and converted['date'] >= (movie_earliest if converted['category']=='movies' else earliest):
+                    if converted and converted['date'] >= (
+                            movie_earliest if converted['category']=='movies' else
+                            music_earliest if converted['category']=='music' else earliest):
                         entries[converted['id']] = converted
                         checked_with_videos += 1
             cache[sid]['lastFetchedAt'] = now.isoformat()
