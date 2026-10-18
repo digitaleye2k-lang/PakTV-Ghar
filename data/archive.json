@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-10-18T22:23:51.588263+00:00",
+  "generatedAt": "2026-10-18T22:34:57.939653+00:00",
   "dateTimezone": "UTC",
-  "cursor": 28,
+  "cursor": 40,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
       "uploadsId": "UU_vt34wimdCzdkrzVejwX9g",
       "handle": "geonews",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T21:59:33.509666+00:00"
+      "lastFetchedAt": "2026-10-18T22:34:57.939653+00:00"
     },
     "ducky": {
       "youtubeId": "UC_c-RTowPbIlzMkIa_O7s6Q",
       "uploadsId": "UU_c-RTowPbIlzMkIa_O7s6Q",
       "handle": "duckybhai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T21:59:33.509666+00:00"
+      "lastFetchedAt": "2026-10-18T22:34:57.939653+00:00"
     },
     "arynews": {
       "youtubeId": "UCMmpLL2ucRHAXbNHiCPyIyg",
       "uploadsId": "UUMmpLL2ucRHAXbNHiCPyIyg",
       "handle": "ArynewsTvofficial",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T21:59:33.509666+00:00"
+      "lastFetchedAt": "2026-10-18T22:34:57.939653+00:00"
     },
     "rhs": {
       "youtubeId": "UCgFG7lz7BI5hsNEifevrWSw",
       "uploadsId": "UUgFG7lz7BI5hsNEifevrWSw",
       "handle": "ranahamzasaifrhs",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T21:59:33.509666+00:00"
+      "lastFetchedAt": "2026-10-18T22:34:57.939653+00:00"
     },
     "dunya": {
       "youtubeId": "UCG7xCQTxgy93j6r49wl48rw",
@@ -245,14 +245,14 @@
       "uploadsId": "UU2PYniNHljOED9xNaMpiMiQ",
       "handle": "ARYFilms",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-18T21:59:33.509666+00:00"
+      "lastFetchedAt": "2026-10-18T22:34:57.939653+00:00"
     },
     "drmmovies": {
       "youtubeId": "UCDmQsP_LTEWPZ2AXS9eWTrQ",
       "uploadsId": "UUDmQsP_LTEWPZ2AXS9eWTrQ",
       "handle": "pakistani_movies",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-18T21:59:33.509666+00:00"
+      "lastFetchedAt": "2026-10-18T22:34:57.939653+00:00"
     },
     "pcb": {
       "youtubeId": "UCiWrjBhlICf_L_RK5y6Vrxw",
@@ -280,21 +280,21 @@
       "uploadsId": "UUnoH_iEE4tgVznLT97Kb7ig",
       "handle": "ptvsportsofficialpk",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
+      "lastFetchedAt": "2026-10-18T22:34:57.939653+00:00"
     },
     "cricketpk": {
       "youtubeId": "UCI7I29IPUtWE68VLUoZfXow",
       "uploadsId": "UUI7I29IPUtWE68VLUoZfXow",
       "handle": "CricketPakistanPK",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T21:50:15.620000+00:00"
+      "lastFetchedAt": "2026-10-18T22:34:57.939653+00:00"
     },
     "wasay": {
       "youtubeId": "UCs2-8ztgdlRqpbpHvfFFPFQ",
       "uploadsId": "UUs2-8ztgdlRqpbpHvfFFPFQ",
       "handle": "wasayhabib",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T21:50:15.620000+00:00"
+      "lastFetchedAt": "2026-10-18T22:34:57.939653+00:00"
     },
     "kidsland": {
       "youtubeId": "UCZMKZS3L9GfhcFkMyBRoVFg",
@@ -350,21 +350,21 @@
       "uploadsId": "UUMlGWm_woMhMcVYhJu8zsvA",
       "handle": "LollywoodCinema",
       "checkedAt": "2026-10-18T17:28:01.603474+00:00",
-      "lastFetchedAt": "2026-10-18T21:50:15.620000+00:00"
+      "lastFetchedAt": "2026-10-18T22:34:57.939653+00:00"
     },
     "movieboxmovies": {
       "youtubeId": "UC8Artr_jqToYkRKjgjhezmw",
       "uploadsId": "UU8Artr_jqToYkRKjgjhezmw",
       "handle": "movieboxmovies",
       "checkedAt": "2026-10-18T17:28:01.603474+00:00",
-      "lastFetchedAt": "2026-10-18T21:59:33.509666+00:00"
+      "lastFetchedAt": "2026-10-18T22:34:57.939653+00:00"
     },
     "lollywoodclassics": {
       "youtubeId": "UCV-z8APBalmSWNrre62xKxg",
       "uploadsId": "UUV-z8APBalmSWNrre62xKxg",
       "handle": "lollywoodclassics",
       "checkedAt": "2026-10-18T17:48:49.190558+00:00",
-      "lastFetchedAt": "2026-10-18T21:50:15.620000+00:00"
+      "lastFetchedAt": "2026-10-18T22:34:57.939653+00:00"
     },
     "cokestudio": {
       "youtubeId": "UCM1VesJtJ9vTXcMLLr_FfdQ",
@@ -439,6 +439,42 @@
   },
   "videos": [
     {
+      "id": "xbKU9gcxInA",
+      "title": "Hoshyarian Funny Moment #hoshyarian #haroonrafique #saleemalbela #gogapasroori #shorts",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T22:30:15Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 157,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/xbKU9gcxInA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "dDjsmGw13PE",
+      "title": "Haroon Rafique Important Message #hoshyarian #haroonrafique #saleemalbela #gogapasroori #shorts",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T22:15:30Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 103,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/dDjsmGw13PE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "tBm1MbC-Uos",
       "title": "PTI Members Want Mahmood Achakzai Replaced? | Naeem Haider Panjotha | Dotok",
       "channel": "SAMAA TV",
@@ -457,6 +493,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "_tS-VkcDlcY",
+      "title": "3 AM Latest News Headlines #breakingnews #latestnews #headlines #newsheadlines #shorts",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T22:00:23Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 171,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/_tS-VkcDlcY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "rdtulGc_3MQ",
       "title": "Uswah Episode 26 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
       "channel": "Har Pal Geo",
@@ -472,6 +526,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/rdtulGc_3MQ/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "FIZLZZ4x5_s",
+      "title": "Houthi Attack on Saudi City Leaves 6 People Injured | 2 AM Geo News Headlines(19th Oct 2026)",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T21:58:59Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 480,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/FIZLZZ4x5_s/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -27907,24 +27979,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "WyXd9IzmXDY",
-      "title": "Who Is Mohsin Naqvi Hinting At? #mohsinnaqvi #haidernaqvi #governorrule #khyberpakhtunkhwa",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T19:45:12Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 128,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/WyXd9IzmXDY/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "8gZQFQf43yY",
       "title": "KP Governor Not Being Changed | Federal Govt Rules Out Replacement | Breaking News | Samaa TV",
       "channel": "SAMAA TV",
@@ -28012,24 +28066,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/e94LMhZUSeI/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "CV6YYkluI5k",
-      "title": "KP Emergency and Governor’s Rule #arynews #shorts #pti #kpemergency #governorsrule",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T19:30:39Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 172,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/CV6YYkluI5k/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -28264,24 +28300,6 @@
       "availablePK": false,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/RKLOYyJnuRI/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "uhksjcK08yY",
-      "title": "Government-PTI Talks? Shaukat Yousafzai Reveals #arynews #shorts #pti",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T19:15:08Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 150,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/uhksjcK08yY/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -28948,24 +28966,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/ffZ8AoP8zO8/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "JNSiyXqCnHA",
-      "title": "Today Petrol Prices Updates | 11PM Headlines Geo News (16th Oct 2026)",
-      "channel": "Geo News",
-      "channelId": "geonews",
-      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T18:13:46Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 785,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/JNSiyXqCnHA/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79639,6 +79639,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Hassan & Roshaan: channel unavailable; Kashmir The Band: channel unavailable",
+  "lastError": "",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
