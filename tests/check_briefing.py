@@ -16,7 +16,7 @@ gupshup_js = (root / "gupshup.js").read_text(encoding="utf-8")
 gupshup_css = (root / "gupshup.css").read_text(encoding="utf-8")
 for expected in ('id="homeBriefing"', 'href="./home-briefing.css"',
                  'src="./home-briefing.js"', "new Event('paktv:paint')",
-                 "href='./gupshup.html'", 'GUPSHUP'):
+                 "href:'./gupshup.html'", 'GUPSHUP'):
     assert expected in page, "Missing front-page briefing/GUPSHUP integration: " + expected
 assert 'id="pghMiniDrawer"' not in page, "Old floating mini chat still appears on homepage"
 for expected in ("briefTabPakistan", "briefTabWorld", "briefWeather",
