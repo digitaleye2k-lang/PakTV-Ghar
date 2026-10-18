@@ -8,7 +8,7 @@ root=Path(__file__).resolve().parent.parent
 sys.path.insert(0,str(root))
 from channel_sources import CHANNELS
 
-home=(root/"index.html").read_text(encoding="utf-8")
+home=(root/"index.html").read_text(encoding="utf-8") + (root/"site-app.js").read_text(encoding="utf-8")
 kids=(root/"kids.html").read_text(encoding="utf-8")
 client=(root/"kids.js").read_text(encoding="utf-8")
 gupshup=(root/"gupshup.html").read_text(encoding="utf-8")
@@ -32,14 +32,14 @@ assert 'python3 tests/check_kids.py' in workflow
 play=(root/"waggle-play.html").read_text(encoding="utf-8")
 game=(root/"waggle-play.js").read_text(encoding="utf-8")
 assert 'href="./waggle-play.html"' in kids, "Kids Corner must link to Waggle Workshop playroom"
-assert 'waggle-home-teaser' in home, "Homepage needs Waggle Workshop feature"
+assert 'waggle-home-teaser' not in home, "Keep Waggle Workshop collaboration inside Kids Corner"
 assert "Waggle Workshop" in play and 'Professor Pip' in play
 for expected in ('data-game="letters"','data-game="numbers"','data-game="colours"',
-                 'data-game="shapes"','data-game="memory"','data-game="builder"',
+                 'data-game="shapes"','data-game="memory"','data-game="builder"','data-game="cricket"',
                  'id="ageMode"','id="gameBoard"'):
     assert expected in play, 'Missing playable game control: '+expected
 for expected in ('lettersRound','numbersRound','coloursRound','shapesRound',
-                 'startMemory','startBuilder','addEventListener'):
+                 'startMemory','startBuilder','startCricket','addEventListener'):
     assert expected in game, 'Unimplemented game mode: '+expected
 assert 'fetch(' not in game and 'localStorage' not in game and 'createClient' not in game, 'Games should run offline without profiling'
 assert 'class="pakistan-flag"' not in home
@@ -68,7 +68,7 @@ waggle_js=(root/"waggle-workshop.js").read_text(encoding="utf-8")
 waggle_css=(root/"waggle-workshop.css").read_text(encoding="utf-8")
 from channel_sources import CHANNELS as SOURCE_CHANNELS
 assert any(c["id"]=="waggleworkshop" and c["handle"]=="TheWaggleWorkshop" for c in SOURCE_CHANNELS)
-assert "waggle-workshop.html" in home and "waggle-workshop-logo.svg" in home
+assert "id:'waggle'" not in home, "Waggle Workshop must not be a top-level tab"
 assert "Green TV, PTV & Express collections" not in home, "Remove old broadcaster collections from homepage"
 assert "waggle-workshop.html" in kids and "waggle-workshop-logo.svg" in kids
 assert "The Waggle Workshop" in waggle and "waggleVideosGrid" in waggle
@@ -76,7 +76,10 @@ assert "TheWaggleWorkshop" in waggle_js
 assert 'channelId==="waggleworkshop"' in waggle_js
 assert "youtube-nocookie.com/embed/" in waggle_js
 assert "createClient(" not in waggle_js and "innerHTML" not in waggle_js
-assert "waggle-feature-brand" in home and ".waggle-feature-brand" in (root/"paktv-green.css").read_text(encoding="utf-8")
+assert 'waggle-kids-videos' in kids, "Kids Corner requires a Waggle Workshop full-length video section"
 assert ".hero-logo" in waggle_css
 result=subprocess.run(["node","--check",str(root/"waggle-workshop.js")],capture_output=True,text=True)
 assert result.returncode==0, "Waggle workshop JS: "+result.stderr
+
+assert "briefUrdu" in (root/"home-briefing.js").read_text(encoding="utf-8")
+assert "Classic Pakistani Movies" in (root/"site-app.js").read_text(encoding="utf-8")
