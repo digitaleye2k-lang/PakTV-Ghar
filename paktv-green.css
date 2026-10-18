@@ -51,3 +51,15 @@ html{background:#0c171e}body{background:radial-gradient(ellipse at 82% 6%,#1a443
 .waggle-home-teaser a{display:inline-flex;background:#ffd391;border-radius:10px;padding:10px 14px;font-weight:800;color:#213d2f;text-decoration:none;white-space:nowrap;font-size:12px}
 .waggle-home-teaser a:hover{background:#ffeac3}
 @media(max-width:690px){.waggle-home-teaser{flex-wrap:wrap;padding:16px}.waggle-home-teaser>span{font-size:31px}.waggle-home-teaser a{margin-left:44px}}
+
+/* The Waggle Workshop featured collaboration on PakTV Ghar */
+.waggle-collab-feature{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:18px;margin:24px 0 12px;padding:19px 23px;background:linear-gradient(115deg,#215c47,#153d3b);border:1px solid #69a77d;border-radius:20px;box-shadow:0 9px 28px #07191270}
+.waggle-feature-brand{display:flex;align-items:center;gap:18px;flex:1;min-width:250px}
+.waggle-feature-brand img{height:95px;width:95px;flex:none;background:#fff8e7;border-radius:17px;padding:6px;object-fit:contain}
+.waggle-feature-brand h2{font-size:clamp(19px,2.5vw,26px);margin:5px 0;letter-spacing:-.04em;color:#fcfff9}
+.waggle-feature-brand h2 span{color:#ffe0a4}
+.waggle-feature-brand p{margin:4px 0;color:#cee9d8;font-size:12px;line-height:1.55}
+.waggle-feature-actions{display:flex;gap:9px;flex-wrap:wrap}
+.waggle-feature-actions a{display:inline-flex;padding:10px 14px;border:1px solid #95c29c;background:#287955;border-radius:11px;text-decoration:none;color:#f6fff9;font-weight:800;font-size:12px}
+.waggle-feature-actions a:first-child{background:#ffdc9e;border-color:#ffdc9e;color:#254431}
+@media(max-width:640px){.waggle-collab-feature{padding:15px}.waggle-feature-brand img{width:72px;height:72px}.waggle-feature-brand{gap:11px}.waggle-feature-actions{width:100%}}
