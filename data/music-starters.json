@@ -1,0 +1,49 @@
+{
+  "note": "Editorial starter videos confirmed on the original publishers' YouTube channels; the scheduled archive adds newer tracks automatically. Never claim these are freshly released.",
+  "videos": [
+    {
+      "id": "wnuDBs6UsM8",
+      "title": "2AM IN LONDON · Talha Anjum (Official Music Video)",
+      "channel": "Talha Anjum",
+      "channelId": "talhaanjum",
+      "category": "music",
+      "genre": "Hip-Hop & Rap",
+      "published": "2026-03-20T00:00:00Z",
+      "date": "2026-03-20",
+      "sourceType": "editorial_verified_official"
+    },
+    {
+      "id": "5Eqb_-j3FDA",
+      "title": "Pasoori · Ali Sethi × Shae Gill · Coke Studio Season 14",
+      "channel": "Coke Studio Pakistan",
+      "channelId": "cokestudio",
+      "category": "music",
+      "genre": "Sufi & Fusion",
+      "published": "2022-02-07T00:00:00Z",
+      "date": "2022-02-07",
+      "sourceType": "editorial_verified_official"
+    },
+    {
+      "id": "FkLFz2RzRhQ",
+      "title": "Har Zulm · Sajjad Ali (Official Video)",
+      "channel": "Sajjad Ali",
+      "channelId": "sajjadali",
+      "category": "music",
+      "genre": "Pop & Ghazal",
+      "published": "2013-01-22T00:00:00Z",
+      "date": "2013-01-22",
+      "sourceType": "editorial_verified_official"
+    },
+    {
+      "id": "a18py61_F_w",
+      "title": "Tajdar-e-Haram · Atif Aslam · Coke Studio Season 8",
+      "channel": "Coke Studio Pakistan",
+      "channelId": "cokestudio",
+      "category": "music",
+      "genre": "Qawwali & Sufi",
+      "published": "2015-08-15T00:00:00Z",
+      "date": "2015-08-15",
+      "sourceType": "editorial_verified_official"
+    }
+  ]
+}
