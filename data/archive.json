@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T21:44:47.440929+00:00",
+  "generatedAt": "2026-10-18T21:47:40.841004+00:00",
   "dateTimezone": "UTC",
-  "cursor": 9,
+  "cursor": 21,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -259,28 +259,28 @@
       "uploadsId": "UUiWrjBhlICf_L_RK5y6Vrxw",
       "handle": "PakistanCricket",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T21:15:27.828632+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     },
     "psl": {
       "youtubeId": "UCpNzXJ5jpcJojC5mHQvGA8w",
       "uploadsId": "UUpNzXJ5jpcJojC5mHQvGA8w",
       "handle": "pakistansuperleagueofficial",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T21:20:03.775651+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     },
     "asports": {
       "youtubeId": "UCCLdGxMC4fwkaQ4AIcL7Z8w",
       "uploadsId": "UUCLdGxMC4fwkaQ4AIcL7Z8w",
       "handle": "asportspk",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T21:20:03.775651+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     },
     "ptvsports": {
       "youtubeId": "UCnoH_iEE4tgVznLT97Kb7ig",
       "uploadsId": "UUnoH_iEE4tgVznLT97Kb7ig",
       "handle": "ptvsportsofficialpk",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T21:20:03.775651+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     },
     "cricketpk": {
       "youtubeId": "UCI7I29IPUtWE68VLUoZfXow",
@@ -301,49 +301,49 @@
       "uploadsId": "UUZMKZS3L9GfhcFkMyBRoVFg",
       "handle": "kidslandofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T21:15:27.828632+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     },
     "kidsmadani": {
       "youtubeId": "UCsNSt0fxMniSH9XHaNneZfw",
       "uploadsId": "UUsNSt0fxMniSH9XHaNneZfw",
       "handle": "kidsmadanichannel",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T21:15:27.828632+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     },
     "salamkids": {
       "youtubeId": "UC_4moTH4Pmatx5ogzCLxUtA",
       "uploadsId": "UU_4moTH4Pmatx5ogzCLxUtA",
       "handle": "salamkidstvofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T21:15:27.828632+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     },
     "urdukidsstudio": {
       "youtubeId": "UCxqHh4UJsNqiwk_aaMI9HBg",
       "uploadsId": "UUxqHh4UJsNqiwk_aaMI9HBg",
       "handle": "urdukidsstudio",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T21:15:27.828632+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     },
     "shirazi": {
       "youtubeId": "UC8YddK8DXYyry_LWY4NksgA",
       "uploadsId": "UU8YddK8DXYyry_LWY4NksgA",
       "handle": "shirazi786",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T21:15:27.828632+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     },
     "haimparishay": {
       "youtubeId": "UC6jgnXHUJ4eDjrvHJNtAUYg",
       "uploadsId": "UU6jgnXHUJ4eDjrvHJNtAUYg",
       "handle": "HaimParishayKhan",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T21:15:27.828632+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     },
     "waggleworkshop": {
       "youtubeId": "UCDf7-AujhJJkMF1Cg5iT-Pw",
       "uploadsId": "UUDf7-AujhJJkMF1Cg5iT-Pw",
       "handle": "TheWaggleWorkshop",
       "checkedAt": "2026-10-18T16:55:18.549048+00:00",
-      "lastFetchedAt": "2026-10-18T21:15:27.828632+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     },
     "lollywoodcinema": {
       "youtubeId": "UCMlGWm_woMhMcVYhJu8zsvA",
@@ -406,7 +406,7 @@
       "uploadsId": "UU3FnOdo2ooBS4TrEcmwUR_Q",
       "handle": "AtifAslamOfficial",
       "checkedAt": "2026-10-18T19:47:58.539938+00:00",
-      "lastFetchedAt": "2026-10-18T21:15:27.828632+00:00"
+      "lastFetchedAt": "2026-10-18T21:47:40.841004+00:00"
     }
   },
   "videos": [
@@ -78621,6 +78621,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "dRHQijfLymE",
+      "title": "Phool Mere Gulshan Ka (1974) – Mohammad Ali, Zeba, Waheed Murad, Nisho | Full Pakistani Movie",
+      "channel": "LollywoodCinema",
+      "channelId": "lollywoodcinema",
+      "youtubeChannelId": "UCMlGWm_woMhMcVYhJu8zsvA",
+      "category": "movies",
+      "genre": "Classic Pakistani Movies",
+      "date": "2022-10-06",
+      "published": "2022-10-06T08:00:11Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 7637,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/dRHQijfLymE/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
+    },
+    {
       "id": "naGFRwzbKo0",
       "title": "Pain Killers - Talha Anjum | Prod. Umair (Official Audio)",
       "channel": "Talha Anjum",
@@ -79521,6 +79539,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "ManZs01zkhE",
+      "title": "AFSANA ZINDAGI KA (1972) - MOHAMMAD ALI & ZEBA - OFFICIAL FULL PAKISTANI MOVIE",
+      "channel": "MovieboxMovies",
+      "channelId": "movieboxmovies",
+      "youtubeChannelId": "UC8Artr_jqToYkRKjgjhezmw",
+      "category": "movies",
+      "genre": "Classic Pakistani Movies",
+      "date": "2017-08-18",
+      "published": "2017-08-18T08:00:00Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 7594,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/ManZs01zkhE/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
+    },
+    {
       "id": "n8R-W9Lsrzk",
       "title": "NOHookUps - Young Stunners - Official Audio",
       "channel": "Young Stunners",
@@ -79573,44 +79609,8 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/h2E2wiz3sug/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "ojpHAF8-IIU",
-      "title": "Raga Shivranjani",
-      "channel": "Jaubi",
-      "channelId": "jaubi",
-      "youtubeChannelId": "UC6s1zz1-t7rPf-4scKVYD8g",
-      "category": "music",
-      "genre": "Jazz & Fusion",
-      "date": "2016-05-27",
-      "published": "2016-05-27T07:24:28Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 368,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/ojpHAF8-IIU/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "I38WjGEzyBQ",
-      "title": "\"Vicky\" - Jaubi",
-      "channel": "Jaubi",
-      "channelId": "jaubi",
-      "youtubeChannelId": "UC6s1zz1-t7rPf-4scKVYD8g",
-      "category": "music",
-      "genre": "Jazz & Fusion",
-      "date": "2016-03-17",
-      "published": "2016-03-17T08:48:43Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 188,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/I38WjGEzyBQ/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable; NESCAFÉ Basement: channel unavailable; Sajjad Ali: channel unavailable; Mekaal Hasan Band: channel unavailable; Rahat Fateh Ali Khan: channel unavailable",
+  "lastError": "",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
