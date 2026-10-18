@@ -73,3 +73,20 @@ html{background:#0c171e}body{background:radial-gradient(ellipse at 82% 6%,#1a443
 .movie-headline-controls button{font-weight:900;font-size:12px;min-width:27px;height:27px;border-radius:50%;background:transparent;color:#ebfff2;border:1px solid #789a80;cursor:pointer}
 .movie-headline-controls button[aria-pressed="true"],.movie-headline-controls button:hover{background:#ffdb98;border-color:#ffdb98;color:#213f30}
 @media(max-width:640px){.movie-feature{min-height:325px}.movie-headline-controls{right:8px;bottom:9px}.movie-feature-content{padding-bottom:65px}}
+
+/* Classic Lollywood collection with publisher source links */
+.classic-movie-search{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:15px;background:linear-gradient(110deg,#2a5e49,#1a3d35);border:1px solid #679678;border-radius:16px;padding:16px 21px;margin:12px 0 17px}
+.classic-movie-search>span{font-size:14px;color:#ffe3b7;font-weight:800}
+.classic-movie-search>a{font-size:12px;font-weight:800;color:#173b2c;background:#ffda9a;padding:11px 15px;border-radius:11px;text-decoration:none}
+.classic-movie-search>a:hover{background:#fff0cc}
+.classic-movie-grid{margin:12px 0 19px}
+.classic-publisher-links{display:flex;flex-wrap:wrap;gap:13px;margin:0 0 26px}
+.classic-publisher-links>a{color:#ffdb9f;font-weight:800;font-size:12px;background:#20473a;border:1px solid #59876a;padding:10px 13px;border-radius:9px;text-decoration:none}
+.classic-publisher-links>a:hover{text-decoration:underline}
+/* Show genuine broadcaster programme posters, with official YouTube fallback */
+.schedule-card{overflow:hidden}
+.schedule-artwork{width:100%;aspect-ratio:16/8.8;background:linear-gradient(125deg,#215646,#15372f);border-radius:12px;overflow:hidden;margin-bottom:12px;border:1px solid #5a8b6d}
+.schedule-artwork img{display:block;width:100%;height:100%;object-fit:cover;object-position:center}
+.schedule-artwork-fallback{display:grid;place-items:center;align-content:center;gap:3px;color:#e6f2dc}
+.schedule-artwork-fallback>span{font-size:30px}
+.schedule-artwork-fallback small{font-size:11px;font-weight:800;color:#c6d8c7}
