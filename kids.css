@@ -12,3 +12,5 @@
 .waggle-mascot img{height:140px;width:140px;object-fit:contain;border-radius:22px;background:#fff9e8;padding:8px;box-shadow:0 10px 24px #001d1550}
 .waggle-games-cta{margin-left:9px;background:#a9ebc6;color:#184034!important}
 @media(max-width:660px){.waggle-mascot img{width:58px;height:58px;border-radius:11px;padding:3px}.waggle-games-cta{margin-left:0;margin-top:8px}}
+
+.waggle-kids-videos{margin:27px 0 35px;padding:18px 21px;border-radius:19px;background:#174536;border:1px solid #75a781}.waggle-section-link{color:#ffda9f;font-weight:800;font-size:12px;text-decoration:none;white-space:nowrap}.waggle-section-link:hover{text-decoration:underline}@media(max-width:650px){.waggle-kids-videos{padding:14px}}
