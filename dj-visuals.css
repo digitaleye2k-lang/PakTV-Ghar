@@ -1,22 +1,12 @@
-/* Subtle ambient decorations behind the actual audio/video controls. */
-.studio-main,.radio-studio{position:relative;isolation:isolate;overflow:hidden}
-.studio-main::before,.radio-studio::before,.studio-main::after,.radio-studio::after{
- content:"";position:absolute;z-index:-1;pointer-events:none;opacity:0;
- width:65%;height:65%;border-radius:50%;filter:blur(35px);transition:opacity .6s ease;
-}
-.studio-main::before,.radio-studio::before{left:-17%;top:0;background:radial-gradient(circle,#46ab8966 0,transparent 69%)}
-.studio-main::after,.radio-studio::after{right:-15%;bottom:-8%;background:radial-gradient(circle,#a987c34c 0,transparent 67%)}
-.dj-visual-active::before,.dj-visual-active::after{opacity:.75}
-.dj-visual-active::before{animation:djFloatOne 14s ease-in-out infinite alternate}
-.dj-visual-active::after{animation:djFloatTwo 18s ease-in-out infinite alternate}
-[data-visual-style="waves"].dj-visual-active::before{background:repeating-radial-gradient(ellipse at center,#79bfab44 0 5px,transparent 13px 42px);filter:blur(9px);width:130%;height:110%;left:-15%;top:-10%;animation:djFloatOne 22s ease-in-out infinite alternate}
-[data-visual-style="waves"].dj-visual-active::after{background:repeating-radial-gradient(circle,#bca4ee33 0 5px,transparent 11px 38px);filter:blur(9px)}
-[data-visual-style="stars"].dj-visual-active::before{background:radial-gradient(circle at 14% 19%,#b6e6c4bb 0 2px,transparent 4px),radial-gradient(circle at 42% 69%,#c3b4ed99 0 3px,transparent 5px),radial-gradient(circle at 76% 38%,#fff3ba99 0 2px,transparent 5px),radial-gradient(circle at 64% 88%,#a0dfd6cc 0 3px,transparent 5px);filter:none;width:100%;height:100%;left:0;top:0}
-[data-visual-style="stars"].dj-visual-active::after{background:radial-gradient(circle at 25% 63%,#bdd8efaa 0 3px,transparent 5px),radial-gradient(circle at 82% 13%,#ffeeb8aa 0 2px,transparent 5px),radial-gradient(circle at 58% 40%,#b8eabdbb 0 2px,transparent 5px);filter:none;width:100%;height:100%;right:0;bottom:0}
-.dj-visual-controls{position:relative;z-index:1;display:flex;justify-content:flex-end;align-items:center;flex-wrap:wrap;gap:9px;margin:0 0 14px;font-size:12px;color:#e1f4e7}
-.dj-visual-controls label{display:flex;align-items:center;gap:6px}
-.dj-visual-controls select{background:#194239;color:#f3fff6;border:1px solid #77aa92;border-radius:8px;padding:5px}
+/* Full-viewport ambient canvas, below site content; never blocks clicks. */
+body{position:relative;background:#091c21}
+.paktv-full-visual{position:fixed;inset:0;width:100%;height:100%;z-index:0;pointer-events:none;opacity:0;transition:opacity .5s ease}
+body.paktv-visual-running .paktv-full-visual{opacity:1}
+body>.music-nav,body>main,body>footer,body>.classic-dj-float,body>.cookie-banner{position:relative;z-index:1}
+body>.classic-dj-float{position:fixed;z-index:100}
+.studio-main::before,.radio-studio::before,.studio-main::after,.radio-studio::after{display:none!important}
+.dj-visual-controls{position:relative;z-index:3;display:flex;justify-content:flex-end;align-items:center;flex-wrap:wrap;gap:10px;margin:0 0 14px;font-size:12px;color:#e1f4e7}
+.dj-visual-controls label{display:flex;gap:6px;align-items:center}
+.dj-visual-controls select{background:#194239;color:#f3fff6;border:1px solid #77aa92;border-radius:8px;padding:6px}
 .dj-visual-controls input{accent-color:#a9dfac}
-@keyframes djFloatOne{to{transform:translate(19%,24%) scale(1.15)}}
-@keyframes djFloatTwo{to{transform:translate(-22%,-16%) scale(.9)}}
-@media(prefers-reduced-motion:reduce){.dj-visual-active::before,.dj-visual-active::after{animation:none!important;opacity:0!important}}
+@media(prefers-reduced-motion:reduce){.paktv-full-visual{display:none!important}}
