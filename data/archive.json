@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T16:57:57.459640+00:00",
+  "generatedAt": "2026-10-18T16:59:29.744576+00:00",
   "dateTimezone": "UTC",
-  "cursor": 42,
+  "cursor": 54,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -126,63 +126,63 @@
       "uploadsId": "UU-hJ0cobUiWlBFTHgLwt8sQ",
       "handle": "MatiullahJanMJtv",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T16:37:32.892990+00:00"
+      "lastFetchedAt": "2026-10-18T16:59:29.744576+00:00"
     },
     "p4pakao": {
       "youtubeId": "UCI9tIvSPsdxNEICjZk7ujUA",
       "uploadsId": "UUI9tIvSPsdxNEICjZk7ujUA",
       "handle": "p4pakaoofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T16:37:32.892990+00:00"
+      "lastFetchedAt": "2026-10-18T16:59:29.744576+00:00"
     },
     "dawnnews": {
       "youtubeId": "UCaxR-D8FjZ-2otbU0_Y2grg",
       "uploadsId": "UUaxR-D8FjZ-2otbU0_Y2grg",
       "handle": "dawnnewspakistan",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T16:37:32.892990+00:00"
+      "lastFetchedAt": "2026-10-18T16:59:29.744576+00:00"
     },
     "irfanjunejo": {
       "youtubeId": "UCUuDUW0Y6IQZYDvH1QQBsgA",
       "uploadsId": "UUUuDUW0Y6IQZYDvH1QQBsgA",
       "handle": "irfanjunejo",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T16:37:32.892990+00:00"
+      "lastFetchedAt": "2026-10-18T16:59:29.744576+00:00"
     },
     "kunfoods": {
       "youtubeId": "UCJEGvNxXunjqrcd2Xg9ntMQ",
       "uploadsId": "UUJEGvNxXunjqrcd2Xg9ntMQ",
       "handle": "KunFoods",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T16:37:32.892990+00:00"
+      "lastFetchedAt": "2026-10-18T16:59:29.744576+00:00"
     },
     "kitchenamna": {
       "youtubeId": "UCQ2P7C8UGoVM6AhqsVx-M0Q",
       "uploadsId": "UUQ2P7C8UGoVM6AhqsVx-M0Q",
       "handle": "KitchenWithAmna",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T16:37:32.892990+00:00"
+      "lastFetchedAt": "2026-10-18T16:59:29.744576+00:00"
     },
     "geoclassics": {
       "youtubeId": "UCLUfX9--VscMEKnIE6thhbg",
       "uploadsId": "UULUfX9--VscMEKnIE6thhbg",
       "handle": "GeoNewsClassics",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T16:37:32.892990+00:00"
+      "lastFetchedAt": "2026-10-18T16:59:29.744576+00:00"
     },
     "wildlens": {
       "youtubeId": "UCf1XIplYiqNv9baGsFHwPPQ",
       "uploadsId": "UUf1XIplYiqNv9baGsFHwPPQ",
       "handle": "WildLensByAbrar",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T16:40:53.272948+00:00"
+      "lastFetchedAt": "2026-10-18T16:59:29.744576+00:00"
     },
     "ruby": {
       "youtubeId": "UCMhx-uS3O-G_6_lTrYmDKLw",
       "uploadsId": "UUMhx-uS3O-G_6_lTrYmDKLw",
       "handle": "RubyKaKitchen",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T16:40:53.272948+00:00"
+      "lastFetchedAt": "2026-10-18T16:59:29.744576+00:00"
     },
     "ijazfood": {
       "youtubeId": "UCc1BSASBDsE_XYOTxD9SNmA",
@@ -435,6 +435,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/SB7d4-64whU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "yhLN169yLwM",
+      "title": "Iran is building a large stockpile of missiles: US Defense Secretary | Dawn News Headlines 09 PM",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:46:12Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 971,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/yhLN169yLwM/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -45528,24 +45546,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "vEKinFIJwPU",
-      "title": "Petrol And Diesel Prices Cut | Public Still Awaits Real Relief | Dawn News Headlines: 10 AM",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-14",
-      "published": "2026-10-14T05:40:32Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 119,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/vEKinFIJwPU/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "jq43KAIUm9A",
       "title": "Samar Jaffery Ka concert Aur New Member in House #maazsafder #maazsafderworld #parrot #shorts",
       "channel": "Maaz Safder",
@@ -79548,6 +79548,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Junaid Akram: channel unavailable; Express News: channel unavailable",
+  "lastError": "Asad Toor: channel unavailable; Siddique Jaan: channel unavailable; HUM TV Comedy: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
