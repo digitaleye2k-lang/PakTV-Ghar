@@ -23,7 +23,7 @@ for expected in ("briefTabPakistan", "briefTabWorld", "briefWeather",
                  "briefMarkets", "textContent", "noopener noreferrer"):
     assert expected in client, "Briefing behaviour missing: " + expected
 for expected in ('id="gupshupMessages"', 'id="gupshupForm"',
-                 'id="reportForm"', 'src="./gupshup.js"', 'src="./gupshup.css"',
+                 'id="reportForm"', 'src="./gupshup.js"', 'href="./gupshup.css"',
                  'Friends_talking_over_tea', 'aria-label="Choose discussion room"'):
     assert expected in gupshup, "Dedicated GUPSHUP page missing: " + expected
 for expected in ("pgh_public_messages", "pgh_post_message",
