@@ -5,6 +5,7 @@
 'use strict';
 const CHANNELS = [
  {id:'lollywoodcinema',name:'LollywoodCinema',handle:'LollywoodCinema',category:'movies',genre:'Classic Pakistani Movies',initials:'LC',colors:['#2d8b6b','#bf9b64'],description:'Publisher-managed Pakistani cinema: classics, Urdu and Punjabi films.'},
+ {id:'lollywoodclassics',name:'Lollywood Classics',handle:'lollywoodclassics',category:'movies',genre:'Classic Pakistani Movies',initials:'LC',colors:['#306d6e','#b79d74'],description:'Classic Pakistani movie publishers; full-length uploads checked automatically.'},
  {id:'movieboxmovies',name:'MovieboxMovies',handle:'movieboxmovies',category:'movies',genre:'Classic Pakistani Movies',initials:'MB',colors:['#2d8b6b','#bf9b64'],description:'Pakistani full films and classic Lollywood from Moviebox.'},
  {id:'waggleworkshop',name:'The Waggle Workshop',handle:'TheWaggleWorkshop',category:'waggle',genre:'Kids learning, games & Professor Pip',initials:'WW',colors:['#22ad7c','#f3b647'],description:'Professor Pip adventures, letters, numbers, colours, animals and learning videos for children.'},
  {id:'aryfilms',name:'ARY Films',handle:'ARYFilms',category:'movies',genre:'Pakistani films & TV movies',initials:'ARY',colors:['#e87166','#863444'],description:'Full-length films and movie-length editions uploaded by ARY Films.'},
