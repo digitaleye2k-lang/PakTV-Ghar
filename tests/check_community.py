@@ -17,7 +17,7 @@ for path in ('community.js', 'site-visitors.js', 'community-config.js'):
     if result.returncode:
         raise SystemExit(f'Invalid JavaScript: {path}\n{result.stderr[:1600]}')
 
-for expected in ('./community.html#chat', './community.html#contact',
+for expected in ('./gupshup.html', './community.html#contact',
                  './community.html#visitors', './community.html#report',
                  'homeCountVisit', 'homeVisitCount', 'site-visitors.js', 'community-config.js'):
     assert expected in index, 'Main-site community link or counter missing: '+expected
