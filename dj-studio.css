@@ -22,3 +22,7 @@
 @media(max-width:1120px){.virtual-dj-cards{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:650px){.virtual-dj-cards{grid-template-columns:1fr}}
 @media(max-width:600px){.music-subtabs a{min-width:0;font-size:12px;padding:10px 8px}}
+
+/* Portrait DJ footage as still previews rather than emoji icons. */
+.virtual-dj-preview{width:100%;height:100%;object-fit:contain;background:#091b20;pointer-events:none}
+.virtual-dj-fallback[hidden]{display:none}

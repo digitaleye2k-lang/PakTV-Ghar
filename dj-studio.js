@@ -35,7 +35,14 @@ function draw(){
  for(const dj of DJs){
   const songs=sample(dj),card=node("article","virtual-dj-card");card.dataset.style=dj.id;
   const media=node("div","virtual-dj-media"),fallback=node("span","virtual-dj-fallback",dj.emoji);
-  media.append(fallback);
+  // Show an actual still frame from the DJ's uploaded introduction video.
+  // Media fragments request a frame near one second without autoplay or sound.
+  const preview=node("video","virtual-dj-preview");
+  preview.muted=true;preview.playsInline=true;preview.preload="metadata";
+  preview.setAttribute("aria-label",dj.name+" video preview");
+  preview.src=dj.intro+"#t=1";
+  preview.addEventListener("error",()=>{preview.remove();fallback.hidden=false;});
+  fallback.hidden=true;media.append(preview,fallback);
   // Intros supplied by owner: optional media, never autoplay or fetch on initial page load.
   const toggle=node("button","","▶ Watch DJ intro");toggle.type="button";
   toggle.addEventListener("click",()=>{
