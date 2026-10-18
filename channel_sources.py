@@ -7,7 +7,7 @@ CHANNELS = [
  # Music publishers and Pakistani performers; API forHandle lookup validates each channel identity.
  {'id':'cokestudio','name':'Coke Studio Pakistan','handle':'cokestudio','category':'music','genre':'Sufi & Fusion'},
  {'id':'nescafebasement','name':'NESCAFÉ Basement','handle':'nescafebasement','category':'music','genre':'Rock & Fusion'},
- {'id':'emipakistan','name':'EMI Pakistan','handle':'EMIPakistan','category':'music','genre':'Golden Classics'},
+ {'id':'emipakistan','name':'EMI Pakistan','handle':'EMIPakistanOfficial','category':'music','genre':'Golden Classics','channelId':'UC52h_LCatoUs6ycLjT9V8bQ'},
  {'id':'talhaanjum','name':'Talha Anjum','handle':'talhaanjum','category':'music','genre':'Hip-Hop & Rap'},
  {'id':'youngstunners','name':'Young Stunners','handle':'YoungStunners','category':'music','genre':'Hip-Hop & Rap'},
  {'id':'sajjadali','name':'Sajjad Ali','handle':'sajjadali','category':'music','genre':'Pop & Ghazal'},
