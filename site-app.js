@@ -553,43 +553,91 @@ function renderMovies(){
    posters and publisher YouTube previews. Avoid generated or unverified imagery. */
 let sectionHeadlineTimer=null;
 function sectionBanner(type){
+  const officialVideo=v=>v&&/^[A-Za-z0-9_-]{11}$/.test(v.id||'');
+  const vidSlide=(v,topic)=>({
+    image:thumb(v.id),fallback:thumb(v.id),title:v.title,type:'video',id:v.id,
+    source:v.channel||'Official YouTube publisher',
+    desc:topic||'Discover verified videos from Pakistani publishers.'
+  });
+  const showSlide=(show,topic)=>({
+    image:state.showMeta[show.id].poster,
+    fallback:thumb(state.showMeta[show.id].latestUpload?.id||'0Yif1LS-bT4'),
+    title:show.name,type:'show',id:show.id,
+    source:networkName[show.network]||show.channel||'Official TV publisher',
+    desc:topic||'Explore this programme and find available official episodes.'
+  });
+  const staticSlide=(name,image,desc,href,source='PakTV Ghar')=>({
+    title:name,image,fallback:'./assets/gupshup-chai-main.jpg',
+    type:'link',href,desc,source
+  });
+  const group=uniqueVideos([...state.archiveVideos,...state.feed,...SEED_VIDEOS]);
+  const forTopic=topic=>group.filter(v=>officialVideo(v)&&v.category===topic)
+    .sort((a,b)=>String(b.published||b.date||'').localeCompare(String(a.published||a.date||'')));
+  const posters=spotlightChoices().filter(slide=>slide.kind==='show');
   let slides=[];
-  if(type==='dramas'){
-    const favourites=spotlightChoices();
-    const rest=LIBRARY.filter(s=>s.type==='drama' &&
-      typeof state.showMeta[s.id]?.poster==='string' &&
-      /^https:\/\//.test(state.showMeta[s.id].poster));
-    const ids=new Set();
-    slides=[...favourites,...rest].filter(s=>!ids.has(s.id)&&ids.add(s.id)).slice(0,5)
-      .map(show=>({
-        image:state.showMeta[show.id].poster,
-        fallback:thumb(state.showMeta[show.id].latestUpload?.id||'0Yif1LS-bT4'),
-        title:show.name,
-        type:'show',id:show.id,
-        source:networkName[show.network]||show.channel||'Pakistani drama',
-        desc:'Explore official episodes, broadcaster listings and viewer ratings.'
-      }));
+  if(type==='dramas'||type==='today'){
+    const entries=LIBRARY.filter(show=>show.type==='drama'&&
+      /^https:\/\//.test(state.showMeta[show.id]?.poster||''));
+    const preferred=SPOTLIGHT_IDS.map(id=>entries.find(s=>s.id===id)).filter(Boolean);
+    const seen=new Set();
+    slides=[...preferred,...entries].filter(show=>!seen.has(show.id)&&seen.add(show.id))
+      .slice(0,5).map(show=>showSlide(show,type==='today'?
+        'Find schedules and official uploads for Pakistani TV programmes.':
+        'Explore official episodes, broadcaster listings and viewer ratings.'));
+    if(!slides.length){
+      slides=[staticSlide('Today on Pakistani TV','./assets/movie-headline-2.webp',
+        'Follow broadcaster schedules and catch up with your favourite Pakistani TV programmes.',routeURL('today'),'Pakistani TV guide')];
+    }
   }else if(type==='sports'){
-    const all=uniqueVideos([...state.archiveVideos,...state.feed,...SEED_VIDEOS])
-      .filter(v=>v.category==='sports' && /^[A-Za-z0-9_-]{11}$/.test(v.id||''));
+    const all=forTopic('sports'),ids=new Set();
     const official=all.filter(v=>['pcb','ptvsports','aSports','tenSports'].includes(v.channelId));
-    const picked=[...official,...all.filter(v=>!official.includes(v))].slice(0,5);
-    slides=picked.map(video=>({
-      image:thumb(video.id),fallback:thumb(video.id),title:video.title,
-      type:'video',id:video.id,source:video.channel||'Pakistan sports',
-      desc:'Match highlights, cricket coverage and sports updates from original publishers.'
-    }));
+    slides=[...official,...all].filter(v=>!ids.has(v.id)&&ids.add(v.id))
+      .slice(0,5).map(v=>vidSlide(v,'Match highlights, cricket coverage and sports updates from Pakistani sports publishers.'));
+  }else if(['news','talk','comedy','vloggers'].includes(type)){
+    const label=type==='news'?'Pakistan news and verified publisher reports':
+      type==='talk'?'Political talk shows, opinions and interviews':
+      type==='comedy'?'Pakistani comedy clips and satire':'Pakistani creators, travel and everyday stories';
+    slides=forTopic(type).slice(0,5).map(v=>vidSlide(v,label));
+    if(type==='talk'&&slides.length<2){
+      const ids=new Set(slides.map(v=>v.id));
+      slides.push(...LIBRARY.filter(show=>show.type==='talk'&&
+        /^https:\/\//.test(state.showMeta[show.id]?.poster||''))
+        .filter(show=>!ids.has(show.id)).slice(0,3).map(show=>showSlide(show,'Watch political discussion and broadcaster interviews.')));
+    }
+  }else if(type==='archive'){
+    slides=group.filter(officialVideo).sort((a,b)=>String(b.published||b.date||'').localeCompare(String(a.published||a.date||'')))
+      .slice(0,5).map(v=>vidSlide(v,'Browse indexed past programmes, films and Pakistani YouTube uploads.'));
+  }else if(type==='favourites'){
+    const foundShows=LIBRARY.filter(show=>state.favoriteShows.includes(show.id)&&
+      /^https:\/\//.test(state.showMeta[show.id]?.poster||'')).slice(0,3);
+    slides=foundShows.map(show=>showSlide(show,'Your saved programme: continue exploring official episodes.'));
+    const favVideos=group.filter(v=>officialVideo(v)&&state.favoriteVideos.includes(v.id));
+    slides.push(...favVideos.slice(0,5-slides.length).map(v=>vidSlide(v,'Return to this saved video.')));
+    if(!slides.length)slides=[staticSlide('Make a favourites collection','./assets/movie-headline-3.webp',
+      'Save the TV shows, channels and videos you love. Your choices stay on this device.',routeURL('favourites'),'Your collection')];
+  }else if(type==='search'){
+    slides=state.searchResults.filter(officialVideo).slice(0,4).map(v=>vidSlide(v,'Explore results from our indexed Pakistani video library.'));
+    if(!slides.length)slides=[staticSlide('Discover Pakistani programmes','./assets/movie-headline-2.webp',
+      'Search for Pakistani films, TV shows, news, sports and favourite creators.',routeURL('search'),'Search PakTV Ghar')];
+  }else if(type==='show'){
+    const show=LIBRARY.find(x=>x.id===state.selectedShowId);
+    if(show&&/^https:\/\//.test(state.showMeta[show.id]?.poster||''))slides=[showSlide(show)];
   }
+  if(!slides.length&&type!=='show')slides=[
+    staticSlide('Explore Pakistani TV & more','./assets/movie-headline-1.webp',
+      'Discover fresh videos, programmes and new features across PakTV Ghar.',routeURL('home'),'PakTV Ghar')];
   if(!slides.length)return '';
-  const label=type==='dramas'?'Pakistan TV spotlight':'Pakistan sports spotlight';
+  const labels={dramas:'Pakistani dramas',today:'On Today',sports:'Pakistani sports',news:'Pakistan & world news',talk:'Political talk',comedy:'Pakistani comedy',vloggers:'Pakistani creators',archive:'Video archive',favourites:'Your favourites',search:'Search highlights',show:'Featured programme'};
+  const label=(labels[type]||'PakTV Ghar')+' · Spotlight';
   return '<section class="section-promo-banner" data-section-banner="'+type+'" aria-label="'+escapeHTML(label)+'">'+
     slides.map((slide,index)=>'<article class="section-banner-slide'+(index===0?' is-active':'')+'" data-section-slide="'+index+'" aria-hidden="'+(index===0?'false':'true')+'">'+
       '<img class="section-banner-art" src="'+escapeHTML(slide.image)+'" data-fallback="'+escapeHTML(slide.fallback)+'" alt="" loading="'+(index===0?'eager':'lazy')+'" onerror="this.onerror=null;this.src=this.dataset.fallback">'+
       '<div class="section-banner-shade"></div><div class="section-banner-copy">'+
       '<span class="section-banner-kicker">'+escapeHTML(label)+' · '+escapeHTML(slide.source)+'</span>'+
       '<h2>'+escapeHTML(slide.title)+'</h2><p>'+escapeHTML(slide.desc)+'</p>'+
-      '<button type="button" class="section-banner-action" data-'+(slide.type==='show'?'series':'video')+'="'+escapeHTML(slide.id)+'">'+
-      (slide.type==='show'?'Explore this drama →':'Watch highlights ▶')+'</button>'+
+      (slide.type==='link'?'<a class="section-banner-action" href="'+escapeHTML(slide.href)+'">Explore this section →</a>':
+        '<button type="button" class="section-banner-action" data-'+(slide.type==='show'?'series':'video')+'="'+escapeHTML(slide.id)+'">'+
+        (slide.type==='show'?'Explore this programme →':'Watch highlights ▶')+'</button>')+
       '</div></article>').join('')+
     '<div class="section-banner-controls" role="group" aria-label="'+escapeHTML(label)+' controls">'+
       '<button type="button" data-banner-move="-1" aria-label="Previous highlight">‹</button>'+
@@ -636,7 +684,7 @@ const catChannels=CHANNELS.filter(c=>c.category===cat&&(cat!=='vloggers'||state.
 const recent=catVideos(cat).filter(v=>cat!=='vloggers'||state.creatorGenre==='all'||v.genre===state.creatorGenre);
 const creators=['all','Food & recipes','Food & travel','Lifestyle & vlogs','Travel & lifestyle','News & commentary','Interviews & commentary'];
 return `<div class="page-title"><span class="eyebrow">YOUR PAKISTANI TV</span><h1>${escapeHTML(name)}</h1><p>${escapeHTML(labels[cat]||'Watch official publisher videos.')}</p></div>
-${cat==='sports'?sectionBanner('sports'):''}
+${sectionBanner(cat)}
 ${cat==='vloggers'?'<div class="creator-genres" role="group" aria-label="YouTuber genres">'+creators.map(g=>'<button type="button" class="chip '+(state.creatorGenre===g?'active':'')+'" data-creator-genre="'+escapeHTML(g)+'">'+escapeHTML(g==='all'?'All creators':g)+'</button>').join('')+'</div>':''}
 ${cat==='sports'?'<div class="notice-box">🏏 Pakistan sports updates are sourced from broadcasters, cricket organisations and sports analysts on YouTube. New uploads appear after scheduled checks; video and regional playback depend on each publisher.</div>':''}
 ${cat==='sports'?`${sectionHead('Sports broadcasters & official cricket channels','Pakistan cricket, PSL, sports news and match coverage.')}<div class="channel-grid">${catChannels.filter(c=>c.genre!=='Sports analysis & creators').map(channelCard).join('')}</div>${sectionHead('Sports creators & analysts','Cricket commentary and independent match analysis.')}<div class="channel-grid">${catChannels.filter(c=>c.genre==='Sports analysis & creators').map(channelCard).join('')}</div>`:''}
@@ -672,6 +720,7 @@ function renderArchive(){
   return '<div class="page-title"><span class="eyebrow">EXPLORE THE VIDEO ARCHIVE</span>'+
     '<h1>Yesterday &amp; older Pakistani videos</h1>'+
     '<p>Browse saved uploads from news, political discussions, comedy and YouTubers. Select a date, topic or channel. Video dates are shown in UTC. New channels are indexed gradually.</p></div>'+
+    sectionBanner('archive')+
     '<div class="archive-toolbar"><div class="chips" role="group" aria-label="Video age">'+
     periods.map(([id,label])=>'<button type="button" class="chip '+(state.archivePeriod===id?'active':'')+'" data-archive-period="'+id+'">'+label+'</button>').join('')+'</div>'+
     (state.archivePeriod==='date'?'<label class="archive-field">Upload date (UTC)<input id="archiveDay" type="date" value="'+escapeHTML(state.archiveDate||archiveDateUTC(-1))+'" max="'+archiveDateUTC()+'"></label>':'')+
@@ -692,9 +741,9 @@ function renderArchive(){
     renderInfo();
 }
 
-function renderFavourites(){const ch=CHANNELS.filter(c=>state.favoriteChannels.includes(c.id));const starred=LIBRARY.filter(s=>state.favoriteShows.includes(s.id));const videos=uniqueVideos([...state.archiveVideos,...SEED_VIDEOS,...state.feed,...state.searchResults,...Object.values(state.savedVideoData)]).filter(v=>state.favoriteVideos.includes(v.id));return `<div class="page-title"><span class="eyebrow">JUST FOR YOU</span><h1>♡ My Favourites</h1><p>Saved on this device. Your favourite channels are always just one tap away.</p></div>${!ch.length&&!state.favoriteVideos.length&&!starred.length?`<div class="empty-state" style="margin-top:24px"><div class="empty-emoji">💛</div><h3>No favourites yet</h3><p>Tap the heart on any video or channel to make it easy to find next time.</p><button class="btn-primary" data-nav="home" type="button">Discover videos</button></div>`:''}${starred.length?`${sectionHead('Saved programmes','Pick a series and choose an episode.')}<div class="series-grid">${starred.map(seriesCard).join('')}</div>`:''}${ch.length?`${sectionHead('Saved channels','Your easy-access channel list.')}<div class="channel-grid">${ch.map(channelCard).join('')}</div>`:''}${state.favoriteVideos.length?`${sectionHead('Saved videos','Videos you wanted to watch again.')} ${videos.length?`<div class="media-grid">${videos.map(videoCard).join('')}</div>`:`<div class="notice-box">Some saved videos are from a past search. Search for them again to reload their details.</div>`}`:''}`}
+function renderFavourites(){const ch=CHANNELS.filter(c=>state.favoriteChannels.includes(c.id));const starred=LIBRARY.filter(s=>state.favoriteShows.includes(s.id));const videos=uniqueVideos([...state.archiveVideos,...SEED_VIDEOS,...state.feed,...state.searchResults,...Object.values(state.savedVideoData)]).filter(v=>state.favoriteVideos.includes(v.id));return `<div class="page-title"><span class="eyebrow">JUST FOR YOU</span><h1>♡ My Favourites</h1><p>Saved on this device. Your favourite channels are always just one tap away.</p></div>${sectionBanner('favourites')}${!ch.length&&!state.favoriteVideos.length&&!starred.length?`<div class="empty-state" style="margin-top:24px"><div class="empty-emoji">💛</div><h3>No favourites yet</h3><p>Tap the heart on any video or channel to make it easy to find next time.</p><button class="btn-primary" data-nav="home" type="button">Discover videos</button></div>`:''}${starred.length?`${sectionHead('Saved programmes','Pick a series and choose an episode.')}<div class="series-grid">${starred.map(seriesCard).join('')}</div>`:''}${ch.length?`${sectionHead('Saved channels','Your easy-access channel list.')}<div class="channel-grid">${ch.map(channelCard).join('')}</div>`:''}${state.favoriteVideos.length?`${sectionHead('Saved videos','Videos you wanted to watch again.')} ${videos.length?`<div class="media-grid">${videos.map(videoCard).join('')}</div>`:`<div class="notice-box">Some saved videos are from a past search. Search for them again to reload their details.</div>`}`:''}`}
 function searchYouTube(q){return `https://www.youtube.com/results?search_query=${encodeURIComponent(q+' Pakistani official')}`}
-function renderSearch(){const q=state.query.trim();const lower=q.toLocaleLowerCase();const videos=uniqueVideos([...state.searchResults,...state.archiveVideos,...state.feed,...SEED_VIDEOS]).filter(v=>!lower||`${v.title} ${v.channel} ${v.description||''}`.toLocaleLowerCase().includes(lower));const channels=CHANNELS.filter(c=>!lower||`${c.name} ${c.description}`.toLocaleLowerCase().includes(lower));const catalogue=LIBRARY.filter(s=>!lower||`${s.name} ${s.network} ${(s.aliases||[]).join(' ')}`.toLocaleLowerCase().includes(lower));const shows=SHOWS.filter(s=>!lower||`${s.name} ${s.channel} ${s.description}`.toLocaleLowerCase().includes(lower));const any=videos.length+channels.length+shows.length+catalogue.length;return `<div class="page-title"><span class="eyebrow">FIND WHAT YOU LOVE</span><h1>Search ${q?`for “<span class="search-term">${escapeHTML(q)}</span>”`:'Pakistani TV'}</h1><p>Look for full drama episodes, talk shows, news, and Pakistani creators — English or Urdu.</p></div>
+function renderSearch(){const q=state.query.trim();const lower=q.toLocaleLowerCase();const videos=uniqueVideos([...state.searchResults,...state.archiveVideos,...state.feed,...SEED_VIDEOS]).filter(v=>!lower||`${v.title} ${v.channel} ${v.description||''}`.toLocaleLowerCase().includes(lower));const channels=CHANNELS.filter(c=>!lower||`${c.name} ${c.description}`.toLocaleLowerCase().includes(lower));const catalogue=LIBRARY.filter(s=>!lower||`${s.name} ${s.network} ${(s.aliases||[]).join(' ')}`.toLocaleLowerCase().includes(lower));const shows=SHOWS.filter(s=>!lower||`${s.name} ${s.channel} ${s.description}`.toLocaleLowerCase().includes(lower));const any=videos.length+channels.length+shows.length+catalogue.length;return `<div class="page-title"><span class="eyebrow">FIND WHAT YOU LOVE</span><h1>Search ${q?`for “<span class="search-term">${escapeHTML(q)}</span>”`:'Pakistani TV'}</h1><p>Look for full drama episodes, talk shows, news, and Pakistani creators — English or Urdu.</p></div>${sectionBanner('search')}
 <div class="search-options"><span class="status-pill ${state.backend?'live':''}"><span class="mini-dot"></span>${state.searchLoading?'Searching…':state.backend?(state.apiMode==='youtube'?'YouTube search enabled':'Official channel feed search'):'Starter catalogue search'}</span>${state.searchLoading?'<span class="spinner"></span>':''}${q?`<a class="btn-secondary" href="${escapeHTML(searchYouTube(q))}" target="_blank" rel="noopener noreferrer">↗ Search all YouTube</a>`:''}</div>
 ${q?`<div class="result-banner">🔎 ${state.searchLoading?'Looking for videos...':`Showing matches from the catalogue${state.searchMode==='youtube'?' and YouTube':''}.`} ${state.searchMessage?`<span>${escapeHTML(state.searchMessage)}</span>`:''}</div>`:''}
 ${catalogue.length?`${sectionHead('Programmes & series',`${catalogue.length} shows found · choose a programme to browse episodes`)}<div class="series-grid">${catalogue.slice(0,60).map(seriesCard).join('')}</div>`:''}
@@ -852,7 +901,7 @@ function renderLibrary(type){
   return '<div class="page-title"><span class="eyebrow">THE PAKTV COLLECTION</span><h1>'+ (isDrama?'Pakistani Drama Universe':'Comedy &amp; Political Satire')+
     '</h1><p>'+(isDrama?'Explore dramas from HUM, ARY, Geo, Green Entertainment, PTV Home and Express TV.':'Explore comedy, satire and interviews from Pakistani channels.')+
     ' Choose a show to explore verified uploads or search its original broadcaster.</p></div>'+
-    (isDrama?sectionBanner('dramas'):'')+
+    sectionBanner(type)+
     '<div class="library-tools"><div class="chips" role="group" aria-label="Programme era">'+
     [['featured','Spotlight'],['classic','Classics & libraries'],['all','All shows']].map(([id,label])=>'<button type="button" class="chip '+(state.libraryFilter===id?'active':'')+'" data-era="'+id+'">'+label+'</button>').join('')+
     '</div><div class="chips" role="group" aria-label="Broadcaster">'+
@@ -903,7 +952,7 @@ function scheduleCards(limit=0){
 }
 function scheduleLinks(){return `<div class="source-links"><a href="https://hum.tv/" target="_blank" rel="noopener noreferrer">HUM TV ↗</a><a href="https://arydigital.tv/schedule" target="_blank" rel="noopener noreferrer">ARY Digital ↗</a><a href="https://harpalgeo.tv/schedule" target="_blank" rel="noopener noreferrer">Har Pal Geo ↗</a></div>`}
 function renderTodayMini(){return `${sectionHead('📅 Airing in Pakistan today',nowInPakistan()+' · programme schedule, not uploaded episodes','today','Full TV guide →')}${scheduleCards(6)}`}
-function renderToday(){return `<div class="page-title"><span class="eyebrow">PAKISTAN STANDARD TIME · PKT</span><h1>📅 Today on Pakistani TV</h1><p>${escapeHTML(nowInPakistan())}. Latest broadcaster listings are checked automatically; backups are labelled when used.</p></div><div class="notice-box">📺 <b>Scheduled on TV ≠ uploaded to YouTube.</b> An episode only becomes playable once its publisher makes it available. All times below are Pakistan time, not UK time.</div>${scheduleCards()}${scheduleLinks()}${state.schedule?.errors?.length?`<div class="notice-box">Some source listings could not be loaded: ${escapeHTML(state.schedule.errors.join('; '))}. Check their official schedules directly.</div>`:''}`}
+function renderToday(){return `<div class="page-title"><span class="eyebrow">PAKISTAN STANDARD TIME · PKT</span><h1>📅 Today on Pakistani TV</h1><p>${escapeHTML(nowInPakistan())}. Latest broadcaster listings are checked automatically; backups are labelled when used.</p></div>${sectionBanner('today')}<div class="notice-box">📺 <b>Scheduled on TV ≠ uploaded to YouTube.</b> An episode only becomes playable once its publisher makes it available. All times below are Pakistan time, not UK time.</div>${scheduleCards()}${scheduleLinks()}${state.schedule?.errors?.length?`<div class="notice-box">Some source listings could not be loaded: ${escapeHTML(state.schedule.errors.join('; '))}. Check their official schedules directly.</div>`:''}`}
 
 function showEpisodeFact(label,number,note,link){
   const value=number?'Episode '+number:'Not confirmed';
