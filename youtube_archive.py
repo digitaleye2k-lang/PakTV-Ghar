@@ -227,14 +227,25 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
     # recent uploads first so browsing previous days is possible.
     ordered = sorted(entries.values(),
         key=lambda x:(x.get('published',''),x['id']),reverse=True)
+    # News and short-form programming outnumber music uploads. Reserve
+    # enough slots for genuine older music before filling the rest by date,
+    # otherwise classic songs and jazz would disappear from the music page.
+    music_reserve = min(700, MAX_ARCHIVE_VIDEOS // 5)
+    music_first = [v for v in ordered if v.get('category') == 'music'][:music_reserve]
+    ordered = music_first + [v for v in ordered if v.get('category') != 'music'] + [
+        v for v in ordered if v.get('category') == 'music' and v not in music_first
+    ]
     by_channel = {}
     videos = []
+    seen_ids = set()
     for v in ordered:
         sid=v.get('channelId')
-        if by_channel.get(sid,0)>=PER_CHANNEL_LIMIT:continue
+        if v['id'] in seen_ids or by_channel.get(sid,0)>=PER_CHANNEL_LIMIT:continue
         if len(videos)>=MAX_ARCHIVE_VIDEOS:break
         by_channel[sid]=by_channel.get(sid,0)+1
+        seen_ids.add(v['id'])
         videos.append(v)
+    videos.sort(key=lambda x:(x.get('published',''),x['id']),reverse=True)
     result = {
         'generatedAt':now.isoformat(),'dateTimezone':'UTC',
         'cursor':(start+advance) % len(CHANNELS), 'channels':cache,
