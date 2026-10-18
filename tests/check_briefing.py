@@ -1,4 +1,4 @@
-"""Regression checks for automatically refreshed homepage briefing and opt-in mini chat."""
+"""Regression checks for homepage briefing and the standalone GUPSHUP chat."""
 from pathlib import Path
 import importlib.util
 import json
@@ -11,22 +11,36 @@ page = (root / "index.html").read_text(encoding="utf-8")
 client = (root / "home-briefing.js").read_text(encoding="utf-8")
 stylesheet = (root / "home-briefing.css").read_text(encoding="utf-8")
 workflow = (root / ".github/workflows/publish.yml").read_text(encoding="utf-8")
-for expected in ('id="homeBriefing"', 'id="pghMiniDrawer"', 'id="pghMiniToggle"',
-                 'href="./home-briefing.css"', 'src="./home-briefing.js"',
-                 "new Event('paktv:paint')"):
-    assert expected in page, "Missing front-page briefing integration: " + expected
+gupshup = (root / "gupshup.html").read_text(encoding="utf-8")
+gupshup_js = (root / "gupshup.js").read_text(encoding="utf-8")
+gupshup_css = (root / "gupshup.css").read_text(encoding="utf-8")
+for expected in ('id="homeBriefing"', 'href="./home-briefing.css"',
+                 'src="./home-briefing.js"', "new Event('paktv:paint')",
+                 "href='./gupshup.html'", 'GUPSHUP'):
+    assert expected in page, "Missing front-page briefing/GUPSHUP integration: " + expected
+assert 'id="pghMiniDrawer"' not in page, "Old floating mini chat still appears on homepage"
 for expected in ("briefTabPakistan", "briefTabWorld", "briefWeather",
-                 "briefMarkets", "pgh_public_messages", "pgh_post_message",
-                 "signInAnonymously", "textContent", "noopener noreferrer"):
-    assert expected in client, "Briefing/chat behaviour missing: " + expected
+                 "briefMarkets", "textContent", "noopener noreferrer"):
+    assert expected in client, "Briefing behaviour missing: " + expected
+for expected in ('id="gupshupMessages"', 'id="gupshupForm"',
+                 'id="reportForm"', 'src="./gupshup.js"', 'src="./gupshup.css"',
+                 'Friends_talking_over_tea', 'aria-label="Choose discussion room"'):
+    assert expected in gupshup, "Dedicated GUPSHUP page missing: " + expected
+for expected in ("pgh_public_messages", "pgh_post_message",
+                 "pgh_report_message", "signInAnonymously", "textContent",
+                 "messageElement", "noopener"):
+    # Secure user-generated content must use DOM textContent, never HTML string interpolation.
+    assert expected in gupshup_js or (expected == "noopener" and 'noopener noreferrer' in gupshup), "GUPSHUP behaviour missing: " + expected
+assert "innerHTML" not in gupshup_js
+assert "service_role" not in gupshup_js.lower()
+assert ".report-overlay[hidden]" in gupshup_css
 assert "document.write(" not in client
-assert "service_role" not in client.lower()
-assert ".pgh-chat-drawer[hidden]" in stylesheet
 assert "python3 briefing_fetch.py" in workflow
 assert "data/*.json" in workflow
-result = subprocess.run(["node", "--check", str(root / "home-briefing.js")],
-                        capture_output=True, text=True)
-assert result.returncode == 0, "Briefing JavaScript syntax: " + result.stderr[:2000]
+for filename in ("home-briefing.js", "gupshup.js"):
+    result = subprocess.run(["node", "--check", str(root / filename)],
+                            capture_output=True, text=True)
+    assert result.returncode == 0, filename + " JavaScript syntax: " + result.stderr[:2000]
 
 spec = importlib.util.spec_from_file_location("briefing_fetch", root / "briefing_fetch.py")
 module = importlib.util.module_from_spec(spec)
