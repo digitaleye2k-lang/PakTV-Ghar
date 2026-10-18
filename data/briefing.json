@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-10-18T21:51:01.613659Z",
+  "generatedAt": "2026-10-18T22:00:07.046093Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-18T21:51:01.613659Z",
+      "updatedAt": "2026-10-18T22:00:07.046093Z",
       "source": "Google News RSS",
       "items": [
+        {
+          "title": "A US bond shock will reach Pakistan's doorstep - The Express Tribune",
+          "source": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa19VUV9UTkpaYzFnTndWXzFQNVBjT1hySTlDWjc3VFl4SEc0RzRjQXcyQVJiNGpfRzhhaFRQLXhLbHhzXzU4Y3RmMThoRjVXWGlzYldmVHM3aE5weUN4T05OSERjVktpVElDTjdPYnRUU0VETjR0TTNoWkVtbmNlS0J6ci0wNENacFHSAZIBQVVfeXFMUC13bVJJOE56RkswcUJiTXYycC16YUR1WGViSkFCbkdiQUpITjFKcy1LbG00cHVGUjhpdndTRW5qU3dDd2RqR19WdkRzWEhsbmIzekdpTjJyLThwcDJlMkVXUVlnUTNKY3E1VXdfOGhfSTlnckt4MDFybWN0N2lrVGVRbjdfaXBDZjdpQkd4cTBVZEE?oc=5",
+          "published": "2026-10-18T21:51:22Z"
+        },
         {
           "title": "Was Pakistan ever an open economy? - The Express Tribune",
           "source": "The Express Tribune",
@@ -30,6 +36,12 @@
           "published": "2026-10-18T21:10:09Z"
         },
         {
+          "title": "Talal vows support to PHMA for textile sector growth - Business Recorder",
+          "source": "Business Recorder",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EbmN0cG9rZG9oTFFxc3ZHM2xNSU9iTl9FTXhXcFE0c2gtNzdzRVpBOTBRZFhmVUdfTW9uMlZyb1hGWDVVTGtnbWpyQ2ViTFRaUEFqQmJ30gFWQVVfeXFMT0RuY3Rwb2tkb2hMUXFzdkczbE1JT2JOX0VNeFdwUTRzaC03N3NFWkE5MFFkWGZVR19Nb24yVnJvWEZYNVVMa2dtanJDZWJMVFpQQWpCYnc?oc=5",
+          "published": "2026-10-18T21:10:09Z"
+        },
+        {
           "title": "PHA to set up nurseries, install uniform planters, flowerpots - Business Recorder",
           "source": "Business Recorder",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU2tvR0d4a1dKZF8xTUpFbkpLMGVTYzJzSi1TUFlaVmJhUzYtbFdkaUN3SVJfV01aU3gyRzNqcHdnSVFfQWtFMkJZem4tM2Z3TWRsSThObXl5eW0xVXlpNjM1S21XWWlYTm8wNl82bC1iLXVPaXotMmZZQ216NUFnWi1zcVlmYUpEQ2FLeWZ6NTZkRTY0X2x5bktlNUdQSVNx0gFWQVVfeXFMUDFtVFZ2TnFQNkZxUFNTSHVFd0ZUVW5wWDVjVDlBaVhWckpVcDVOdW53dUxvUThvbGNnM3B1YUhvVVQteFVvTUR5VEUzck9weHpYVHpCLVE?oc=5",
@@ -42,40 +54,28 @@
           "published": "2026-10-18T21:10:09Z"
         },
         {
-          "title": "Talal vows support to PHMA for textile sector growth - Business Recorder",
-          "source": "Business Recorder",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcTNzYllVVGhOYlFUM2hxbE9YU19KbEVRTlpnRi10SW50MlM0VjhBZkI3QUE5My10M2gzYlJRbnhJNGhZQl9hUkRjSEdQZXVjeEZqRktKS04xM1pTTnUxWUdOVzJ5a1FCVGpyT3plcm1hRHp6SnQ2MFN3ZlhvQ3pleENad0JMeklud2lNTXJqQzd2VG8xa2xz0gFWQVVfeXFMT0RuY3Rwb2tkb2hMUXFzdkczbE1JT2JOX0VNeFdwUTRzaC03N3NFWkE5MFFkWGZVR19Nb24yVnJvWEZYNVVMa2dtanJDZWJMVFpQQWpCYnc?oc=5",
-          "published": "2026-10-18T21:10:09Z"
-        },
-        {
           "title": "760 kalashnikovs, 26,897 pistols recovered across Punjab - Business Recorder",
           "source": "Business Recorder",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdEtRZlJEclBrWkpFNnBxQjgwSjZvU2FJeFByQkctNVFra09zTG5CLTZmWVNzM3k3Y2lUVFBCN2lwQ3IyT2xaS3NZY1QyZnZWVnl5UWpRT0pUMEItSDJ0X2FIWG8yamNCWHdBaXdTZDA5US1RdGRmNlJVRlFFdDJWWmpyMHJWVWRZeHE5a0ZfYUl6ci1PVE1FZ3Rn0gFWQVVfeXFMTW5meWtRa0VvQlFTUmZ4S3IydXZTOGpSSXhZanpPR2c4bWxsS2thazB6c1dpN1pjaVRydnh2cUJ3YlJuMVJqNk1aVmEzUTdwYWlwdlpUc0E?oc=5",
-          "published": "2026-10-18T21:10:09Z"
-        },
-        {
-          "title": "Meeting held to discuss FPCCI elections - Business Recorder",
-          "source": "Business Recorder",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSDJzLWVBb2NVZ2hHQ01xbnhOQTZyc0NkS0NHTUE0bTkxMGRMaWJiMEY3Z1J1UDRGMVFzWVViYWQzSnlxZF8tb0hROGNXTG0wQ2Z5LXM0SF95aGdXMWFWM3Q4Rld3Zm9jX1hkckFpY2NKbWN0QmFsNGlnLWxBRjJsYTlQV09FUdIBVkFVX3lxTE5MalBsTDBhVGloYVc1QmdBWUtld3BiMHVOb3FKZ2JheXY0TncxVjloZ1FyZVhJSlFnSGtzbnFKSmYzZXlfclRveWEtdmFremFnMlJkcnpn?oc=5",
           "published": "2026-10-18T21:10:09Z"
         }
       ]
     },
     "world": {
-      "updatedAt": "2026-10-18T21:51:01.613659Z",
+      "updatedAt": "2026-10-18T22:00:07.046093Z",
       "source": "Google News RSS",
       "items": [
         {
-          "title": "Week 6 NFL highlights: Best plays, moments, touchdowns, more - ESPN",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMW1OWnBkUkg1QlQxZmhDYTdRRHhDRUhEUHFyNWVSb0s2RkE3a2N5ZFh4cWdybkxZeW1Fc0JEUDQ5cHp4b1dzcWtnQVlqLXdCNTNPS0lObkI2TEZrcVpMYzR5R29ZUzZMd2lHV3NaSGI1eTNCcGo3MXlVVE5RVW94QWN0eElfQUZqaWN3YXYwZ2Y5eWZ3NGl0Rnc2SW4?oc=5",
-          "published": "2026-10-18T21:11:00Z"
+          "title": "Elizabeth Holmes Documentary ‘You Can See Everything’ Opens to Over 2,000 Sold-Out Shows - The New York Times",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2Y2TlI4ZG1BWW5tQi00ZmMzNUZGaHJuaHhqRThzaU5LcG0wYWJaUlk0MzJ3OGpBdDlkN0lrX25PVXl6andKZm54aERjWHpCRXk1eXQwcEM5ejRDYUxJdVl3SlhMdVUzZVhxYXlaTkFUZ3ljMEtyRFFsRjNNMUlrQWNBd3pndTZOOVdJSmtCM0tvanZp?oc=5",
+          "published": "2026-10-18T21:55:14Z"
         },
         {
-          "title": "Trump endorses Netanyahu in close Israeli election - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNEX0FibmplMGVhLVA1TDdESTEzdk9PR1JYNWtsQzJkTG5ER1lrMkhfV05saHNXYndlOXFxdFJONU4zOEZhZUdtXzR0WGpVSHBuLUUyOExTWHktR3AtMjlnU08yNXpaUWFVOXE1Q3dNaDFkZG4yT0JFMmlkYzdvTXFudjFQOF9rcFBaM0VBbjBaOFQ5bndSNS1fZw?oc=5",
-          "published": "2026-10-18T20:55:47Z"
+          "title": "Week 6 NFL schedule, scores, live updates: Cam Skattebo doesn't have single touch in first half amid fumble struggles; Caleb Williams shines in return from hamstring injury - Yahoo Sports",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbmlPbEdCRFFLS3R3YnM3dklmam0xNnFRUGtZYnRaazBRanI1S2xvZG9PcHBKR2c1VkNfUGpObl8tdGVadXFQdjVqak1zclJiTlNzeExQZ1ZZNFkwY1lIbFJ4TWZhT3dDc1FsTkdURThfeEhXNldLTW9WR0ViM1ZldFRockp6TE5BWmJZU3kyZmJSNkx5eWZTa1Y3OVd0WnJiMUY4ZENsMHY0Q2UtdHZwMTVqckZDN3djbzRfcnpOR2RYMG8?oc=5",
+          "published": "2026-10-18T20:36:36Z"
         },
         {
           "title": "AP Top 25 poll: Miami takes over at No. 1, BYU surges to No. 2 in college football rankings - CBS Sports",
@@ -102,31 +102,37 @@
           "published": "2026-10-18T19:50:00Z"
         },
         {
+          "title": "Trump shares plan to overhaul East Potomac golf course amid court fight over land - The Washington Post",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjdfRmFtX2xmZ241Z0RHMWdRdW1TbjgtN1hGUmljRnVYaFRGVWdscExsZlItMDJGa0NZYXhpU1VnSEJTbjJzSHlrU2phNFlxWEgwNlowRDd6TEZZX3c3UlM0akRVaDNXNjdFWnJ0UDc5ZzFheFE1YUt6LUJlUW1PUzBnQnBnbE04NlBka3ZrSFp2NTVXZjlqdmtjYXA3emhI?oc=5",
+          "published": "2026-10-18T19:49:26Z"
+        },
+        {
           "title": "Canadian military base fire: Death toll confirmed and cause under investigation - BBC",
           "source": "BBC",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0d3l6Z2FRaTlwVkJicUp1RHhqbHZReHA5QUZJOFlxckJWYklPcWRoWGZXOTVteDhIQV9SZ1VJVGMzYnQ0VnduT2FlcGp6bFpLWm52SUdMUmJBYVE?oc=5",
           "published": "2026-10-18T19:42:37Z"
         },
         {
-          "title": "Elizabeth Holmes Documentary ‘You Can See Everything’ Opens to Over 2,000 Sold-Out Shows - The New York Times",
+          "title": "Huge Riots and Anti-Government Protests in France: What to Know - The New York Times",
           "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2Y2TlI4ZG1BWW5tQi00ZmMzNUZGaHJuaHhqRThzaU5LcG0wYWJaUlk0MzJ3OGpBdDlkN0lrX25PVXl6andKZm54aERjWHpCRXk1eXQwcEM5ejRDYUxJdVl3SlhMdVUzZVhxYXlaTkFUZ3ljMEtyRFFsRjNNMUlrQWNBd3pndTZOOVdJSmtCM0tvanZp?oc=5",
-          "published": "2026-10-18T19:40:28Z"
-        },
-        {
-          "title": "Cindy Crawford, Kaia Gerber Break Their Silence on Presley Gerber’s Death: “A Sweet, Beautiful Soul” - The Hollywood Reporter",
-          "source": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObHBraVNIQmtrXy1LM1RPZV8yUnltOUFRMmlVbC0xMXdQWWhuWGx4SXBGRFZselV0V2dtb3EwTHNvdVVQNWlSMFIxc0JXaXZfa0tNSklVRTBSdUtWaWtnUk41dWNFZUtabXBQbVdnZ0NmbmdiZFRkbU1ra2pkTWJFTHJFRm5aSnJQak5xZUROTW51aFI0OVMzSURYSzRJNTh0N2EyRjhiWXd5cnhobEpV?oc=5",
-          "published": "2026-10-18T19:21:04Z"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYnoxd1dncFRldUlCNW5vMDEydGR3U1VpY1RtQVNQdGJGTlItUVpoR1U2dUwyNVNoQU1uQzBDNU5LWUl2UTc2REswb3QzQjVpcFlEVGZhOWxJd3J0RTlIbU4xeUN2RmtIU1IyLWxaaGctZw?oc=5",
+          "published": "2026-10-18T19:29:26Z"
         }
       ]
     }
   },
   "newsUrdu": {
     "pakistan": {
-      "updatedAt": "2026-10-18T21:51:01.613659Z",
+      "updatedAt": "2026-10-18T22:00:07.046093Z",
       "source": "Google News RSS",
       "items": [
+        {
+          "title": "New administrative units necessary for country's stability: MQM - Dunya News",
+          "source": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM2lyajRDR1M3TXU4THN3VlVmckdEcFI3TXVmdmVOY0FFTzNzZF80bFAtQTdjeS1MemFVNjJJbjdkY0FLM2ZJMVUtWDJ6Nk12NnZTbWhuZ0pIUmlseGl4dG9wYS1kVU1nZUNJUThzbmxCSzkyMFg0WHJYTUZkdWVmY0Zja191UTVwRFRERUlUZkQ4YV9yeVFFSjJ2MUVoamt6ekln0gFWQVVfeXFMUHNTM0N6VmNsQ3FYMUpfMzgtZFZXemFrWjY2TUxtVkZrVnBNckF4aEhoUzRMd2lwclh0OVJBVGZ5MGNhbFFQWUdLQ2VVLTh5ZDFodlB4ekE?oc=5",
+          "published": "2026-10-18T21:42:02Z"
+        },
         {
           "title": "‘Merely in Transit?: Kh Asif questions bureaucrats’ loyalty, alleges exodus to Portugal - Pakistan Today",
           "source": "Pakistan Today",
@@ -158,6 +164,12 @@
           "published": "2026-10-18T18:10:07Z"
         },
         {
+          "title": "Pakistan to Hire Global Experts to Recover K2 Airways Black Box From Deep Sea - Aaj English TV",
+          "source": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRl9FNlk3VHJmWHVpUThia3pvMW1LaVNIdUc4UnJmWWtWcnhOU0lESmliZW1IbjFjdGlSNEM4OG1aZFhUSGNiX1lnY1p4QXF3MU15REJ4Vk1Memp3NzdRWXdvTExzTS1vM1NoS3RGdEs5SHkzTEcwLVk0a3cwODJHMzFwTDhqRXFlQzZ0WWtXaGstNzkza3A5eUpRNVVHNlJycFBDaERXMWg0aWFIZFRNOWhUd29SeUVENEdKWFByVVA5QQ?oc=5",
+          "published": "2026-10-18T17:50:10Z"
+        },
+        {
           "title": "Pakistan to Hire Global Experts to Recover K2 Airways Black Box From Deep Sea - Aaj News",
           "source": "Aaj News",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EUHlGSGJuR01VbUJ2aXBGZVJUZjBweE9hQnJsYV9KbHRXenpoWTJmdmYwNzBTbEZpM1VPNjQtRGlSRlFwMEU5b1FQTlc?oc=5",
@@ -168,64 +180,52 @@
           "source": "| Associated Press Of Pakistan",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdnFYdnJvZ21sUU9qY0taNS1tRlo2Yk9URnpNRlhJWi1LanRocWtocDcwRklHTjhId2pYMDZ0UWxYRXQ1SVRzc2Y3RUJ6bXB1a1A2cGtHX1NWTnlEaFpTX2VwNHBtNjI2TkUtZTJ4QmU5ZkdnSWQ0LU1sSy1vd2otMXdnTkZiOTNWVTVhMGV0TXBYa1pTRi1mbzI2ZTRiSDAtcnRWVGdJZXFOeHR2SnZzZEtTd1BudllNTDlLQW1pMzloT3ZYeFJVaUtONjRWYUs2YXFPZzJPUkpHUmFfMDJKLVhvVnRZcFE?oc=5",
           "published": "2026-10-18T17:19:39Z"
-        },
-        {
-          "title": "Nazriya Pakistan Council holds ceremony to commemorate Liaquat Ali Khan’s death anniversary - | Associated Press Of Pakistan",
-          "source": "| Associated Press Of Pakistan",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRkhhTUxuRVZwSXIya1lXTGZxMk5iQWNwMWJFMVpHY1FHZ3JmbDRHRXFjRWJRdndwV0tkV2ZPRVV2ZVUxWjBCQmxyVjRvaDdiSjhUNHJiaVlNeTFwaTBBVTRfMEJ4WXNCeElsUFE5Q2xoSU1lNEp2V0JXU3hSV292U3pPSldzcWw0ZDFNNEhkRkE5Ym9ZMTRXN1dNa05TY0stYUFCeXVISWFlb1FpaWdGdXhBVnZUNzEwdk1scF92SW0?oc=5",
-          "published": "2026-10-18T17:17:33Z"
-        },
-        {
-          "title": "Shehbaz Sharif calls for equal education for all, highlighti - Pakistan Today",
-          "source": "Pakistan Today",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWh1YU9JUmlZZ2xGTUxWSFVCNmdBakFpdlZRaWYtRGkweFR2ZkI2Tzk5Ykk5UTlYUV9hRE04Z3JBMGRZTDhVUlk1ZzdwYTRFNlZpdDA4VlpaWXJUM1ZaMjZJLVRDbkl0V2cxa1J5d3BldXlDaEYzUkVxVU9vTDVsREJ0Z24xXzVfQlJUa25NNnBnZUNILW5sLVREWERRVk1GU09mQmNZejVzT1RITmt6X1JMSQ?oc=5",
-          "published": "2026-10-18T16:43:15Z"
         }
       ]
     },
     "world": {}
   },
   "weather": {
-    "updatedAt": "2026-10-18T21:51:01.613659Z",
+    "updatedAt": "2026-10-18T22:00:07.046093Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
       {
         "city": "Karachi",
         "temperatureC": 25,
-        "humidity": 88,
-        "windMs": 3.8,
+        "humidity": 85,
+        "windMs": 3.6,
         "symbol": "clearsky_night",
-        "forecastTime": "2026-10-18T22:00:00Z"
+        "forecastTime": "2026-10-18T23:00:00Z"
       },
       {
         "city": "Lahore",
         "temperatureC": 20,
-        "humidity": 81,
-        "windMs": 1.9,
+        "humidity": 83,
+        "windMs": 1.7,
         "symbol": "clearsky_night",
-        "forecastTime": "2026-10-18T22:00:00Z"
+        "forecastTime": "2026-10-18T23:00:00Z"
       },
       {
         "city": "Islamabad",
         "temperatureC": 20,
-        "humidity": 53,
-        "windMs": 2.0,
+        "humidity": 54,
+        "windMs": 2.2,
         "symbol": "clearsky_night",
-        "forecastTime": "2026-10-18T22:00:00Z"
+        "forecastTime": "2026-10-18T23:00:00Z"
       },
       {
         "city": "Peshawar",
         "temperatureC": 18,
-        "humidity": 80,
-        "windMs": 2.1,
+        "humidity": 82,
+        "windMs": 2.2,
         "symbol": "clearsky_night",
-        "forecastTime": "2026-10-18T22:00:00Z"
+        "forecastTime": "2026-10-18T23:00:00Z"
       }
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-18T21:51:01.613659Z",
+    "updatedAt": "2026-10-18T22:00:07.046093Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
@@ -251,7 +251,7 @@
     ]
   },
   "sports": {
-    "updatedAt": "2026-10-18T21:51:02.991415Z",
+    "updatedAt": "2026-10-18T22:00:08.581154Z",
     "source": "ESPN cricket snapshot",
     "url": "https://www.espncricinfo.com/live-cricket-score",
     "matches": []

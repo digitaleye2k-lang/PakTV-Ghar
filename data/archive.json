@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-10-18T21:50:15.620000+00:00",
+  "generatedAt": "2026-10-18T21:59:33.509666+00:00",
   "dateTimezone": "UTC",
-  "cursor": 33,
+  "cursor": 45,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
       "uploadsId": "UU_vt34wimdCzdkrzVejwX9g",
       "handle": "geonews",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T21:50:15.620000+00:00"
+      "lastFetchedAt": "2026-10-18T21:59:33.509666+00:00"
     },
     "ducky": {
       "youtubeId": "UC_c-RTowPbIlzMkIa_O7s6Q",
       "uploadsId": "UU_c-RTowPbIlzMkIa_O7s6Q",
       "handle": "duckybhai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T21:50:15.620000+00:00"
+      "lastFetchedAt": "2026-10-18T21:59:33.509666+00:00"
     },
     "arynews": {
       "youtubeId": "UCMmpLL2ucRHAXbNHiCPyIyg",
       "uploadsId": "UUMmpLL2ucRHAXbNHiCPyIyg",
       "handle": "ArynewsTvofficial",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T21:50:15.620000+00:00"
+      "lastFetchedAt": "2026-10-18T21:59:33.509666+00:00"
     },
     "rhs": {
       "youtubeId": "UCgFG7lz7BI5hsNEifevrWSw",
       "uploadsId": "UUgFG7lz7BI5hsNEifevrWSw",
       "handle": "ranahamzasaifrhs",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T21:50:15.620000+00:00"
+      "lastFetchedAt": "2026-10-18T21:59:33.509666+00:00"
     },
     "dunya": {
       "youtubeId": "UCG7xCQTxgy93j6r49wl48rw",
@@ -42,28 +42,28 @@
       "uploadsId": "UUQexaAjPn3-1MCE4DmBK3Tg",
       "handle": "villagefoodsecrets",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T21:26:30.939541+00:00"
+      "lastFetchedAt": "2026-10-18T21:59:33.509666+00:00"
     },
     "geohasna": {
       "youtubeId": "UC6HQ4d3xq9EgSeJgMhc-4AQ",
       "uploadsId": "UU6HQ4d3xq9EgSeJgMhc-4AQ",
       "handle": "GeoHasnaManaHai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T21:26:30.939541+00:00"
+      "lastFetchedAt": "2026-10-18T21:59:33.509666+00:00"
     },
     "streetfoodpk": {
       "youtubeId": "UCt8NJjYKc2aT3T0TnbcWxSw",
       "uploadsId": "UUt8NJjYKc2aT3T0TnbcWxSw",
       "handle": "streetfoodpk",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T21:26:30.939541+00:00"
+      "lastFetchedAt": "2026-10-18T21:59:33.509666+00:00"
     },
     "hum": {
       "youtubeId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
       "uploadsId": "UUEeEQxm6qc_qaTE7qTV5aLQ",
       "handle": "HUMTV",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T21:26:30.939541+00:00"
+      "lastFetchedAt": "2026-10-18T21:59:33.509666+00:00"
     },
     "arydigital": {
       "youtubeId": "UC4JCksJF76g_MdzPVBJoC3Q",
@@ -245,14 +245,14 @@
       "uploadsId": "UU2PYniNHljOED9xNaMpiMiQ",
       "handle": "ARYFilms",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-18T21:50:15.620000+00:00"
+      "lastFetchedAt": "2026-10-18T21:59:33.509666+00:00"
     },
     "drmmovies": {
       "youtubeId": "UCDmQsP_LTEWPZ2AXS9eWTrQ",
       "uploadsId": "UUDmQsP_LTEWPZ2AXS9eWTrQ",
       "handle": "pakistani_movies",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-18T21:50:15.620000+00:00"
+      "lastFetchedAt": "2026-10-18T21:59:33.509666+00:00"
     },
     "pcb": {
       "youtubeId": "UCiWrjBhlICf_L_RK5y6Vrxw",
@@ -357,7 +357,7 @@
       "uploadsId": "UU8Artr_jqToYkRKjgjhezmw",
       "handle": "movieboxmovies",
       "checkedAt": "2026-10-18T17:28:01.603474+00:00",
-      "lastFetchedAt": "2026-10-18T21:50:15.620000+00:00"
+      "lastFetchedAt": "2026-10-18T21:59:33.509666+00:00"
     },
     "lollywoodclassics": {
       "youtubeId": "UCV-z8APBalmSWNrre62xKxg",
@@ -430,7 +430,7 @@
     },
     {
       "id": "sb-xXXMap98",
-      "title": "| 2:30 AM News Updates | 19 Oct 2026",
+      "title": "PTI Core Committee Meeting Details Revealed | 2:30 AM News Updates | 19 Oct 2026",
       "channel": "ARY News",
       "channelId": "arynews",
       "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
@@ -498,6 +498,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/6BapQDQ_Vic/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "WmP6kGumV-0",
+      "title": "Government Opens Door for Talks with Opposition, Dr. Tariq Fazal | 12 AM Geo Bulletin | 19 Oct 2026",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T21:28:26Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1353,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/WmP6kGumV-0/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -28920,24 +28938,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/PVT5vOU0s0s/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "wK_CsNVcqUE",
-      "title": "Pakistan’s Economy Improving? Why Is the Common Man Still Struggling? | Shahzad Iqbal",
-      "channel": "Geo News",
-      "channelId": "geonews",
-      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T18:03:22Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 450,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/wK_CsNVcqUE/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
