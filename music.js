@@ -169,7 +169,7 @@ function nextSong(step){
  }else playAt(state.index+step);
 }
 async function load(){
- const paths=["./data/archive.json","./data/videos.json"];
+ const paths=["./data/archive.json","./data/videos.json","./data/music-starters.json"];
  const responses=await Promise.allSettled(paths.map(async path=>{
    const res=await fetch(path,{cache:"no-store"});
    if(!res.ok)throw Error("Music feed unavailable");
