@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-10-18T21:47:40.841004+00:00",
+  "generatedAt": "2026-10-18T21:50:15.620000+00:00",
   "dateTimezone": "UTC",
-  "cursor": 21,
+  "cursor": 33,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
       "uploadsId": "UU_vt34wimdCzdkrzVejwX9g",
       "handle": "geonews",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T21:20:03.775651+00:00"
+      "lastFetchedAt": "2026-10-18T21:50:15.620000+00:00"
     },
     "ducky": {
       "youtubeId": "UC_c-RTowPbIlzMkIa_O7s6Q",
       "uploadsId": "UU_c-RTowPbIlzMkIa_O7s6Q",
       "handle": "duckybhai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T21:20:03.775651+00:00"
+      "lastFetchedAt": "2026-10-18T21:50:15.620000+00:00"
     },
     "arynews": {
       "youtubeId": "UCMmpLL2ucRHAXbNHiCPyIyg",
       "uploadsId": "UUMmpLL2ucRHAXbNHiCPyIyg",
       "handle": "ArynewsTvofficial",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T21:26:30.939541+00:00"
+      "lastFetchedAt": "2026-10-18T21:50:15.620000+00:00"
     },
     "rhs": {
       "youtubeId": "UCgFG7lz7BI5hsNEifevrWSw",
       "uploadsId": "UUgFG7lz7BI5hsNEifevrWSw",
       "handle": "ranahamzasaifrhs",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T21:26:30.939541+00:00"
+      "lastFetchedAt": "2026-10-18T21:50:15.620000+00:00"
     },
     "dunya": {
       "youtubeId": "UCG7xCQTxgy93j6r49wl48rw",
@@ -245,14 +245,14 @@
       "uploadsId": "UU2PYniNHljOED9xNaMpiMiQ",
       "handle": "ARYFilms",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-18T21:20:03.775651+00:00"
+      "lastFetchedAt": "2026-10-18T21:50:15.620000+00:00"
     },
     "drmmovies": {
       "youtubeId": "UCDmQsP_LTEWPZ2AXS9eWTrQ",
       "uploadsId": "UUDmQsP_LTEWPZ2AXS9eWTrQ",
       "handle": "pakistani_movies",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-18T21:20:03.775651+00:00"
+      "lastFetchedAt": "2026-10-18T21:50:15.620000+00:00"
     },
     "pcb": {
       "youtubeId": "UCiWrjBhlICf_L_RK5y6Vrxw",
@@ -287,14 +287,14 @@
       "uploadsId": "UUI7I29IPUtWE68VLUoZfXow",
       "handle": "CricketPakistanPK",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T21:20:03.775651+00:00"
+      "lastFetchedAt": "2026-10-18T21:50:15.620000+00:00"
     },
     "wasay": {
       "youtubeId": "UCs2-8ztgdlRqpbpHvfFFPFQ",
       "uploadsId": "UUs2-8ztgdlRqpbpHvfFFPFQ",
       "handle": "wasayhabib",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T21:20:03.775651+00:00"
+      "lastFetchedAt": "2026-10-18T21:50:15.620000+00:00"
     },
     "kidsland": {
       "youtubeId": "UCZMKZS3L9GfhcFkMyBRoVFg",
@@ -350,21 +350,21 @@
       "uploadsId": "UUMlGWm_woMhMcVYhJu8zsvA",
       "handle": "LollywoodCinema",
       "checkedAt": "2026-10-18T17:28:01.603474+00:00",
-      "lastFetchedAt": "2026-10-18T21:20:03.775651+00:00"
+      "lastFetchedAt": "2026-10-18T21:50:15.620000+00:00"
     },
     "movieboxmovies": {
       "youtubeId": "UC8Artr_jqToYkRKjgjhezmw",
       "uploadsId": "UU8Artr_jqToYkRKjgjhezmw",
       "handle": "movieboxmovies",
       "checkedAt": "2026-10-18T17:28:01.603474+00:00",
-      "lastFetchedAt": "2026-10-18T21:20:03.775651+00:00"
+      "lastFetchedAt": "2026-10-18T21:50:15.620000+00:00"
     },
     "lollywoodclassics": {
       "youtubeId": "UCV-z8APBalmSWNrre62xKxg",
       "uploadsId": "UUV-z8APBalmSWNrre62xKxg",
       "handle": "lollywoodclassics",
       "checkedAt": "2026-10-18T17:48:49.190558+00:00",
-      "lastFetchedAt": "2026-10-18T21:20:03.775651+00:00"
+      "lastFetchedAt": "2026-10-18T21:50:15.620000+00:00"
     },
     "cokestudio": {
       "youtubeId": "UCM1VesJtJ9vTXcMLLr_FfdQ",
@@ -410,6 +410,78 @@
     }
   },
   "videos": [
+    {
+      "id": "6VDZ_0hImd0",
+      "title": "Mustafa Kamal Supports Governor's Rule! #shorts #mustafakamal #governorsrule #mqm #pakistanpolitics",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T21:45:17Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 136,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/6VDZ_0hImd0/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "sb-xXXMap98",
+      "title": "| 2:30 AM News Updates | 19 Oct 2026",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T21:42:20Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1059,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/sb-xXXMap98/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "FDBwypcDPOA",
+      "title": "PTI Workers Sacrifice, But Where Are the Leaders? #shorts #pti #ptiworkers #ptileadership #imrankhan",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T21:30:38Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 105,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/FDBwypcDPOA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "66fM6m1pBJs",
+      "title": "‎Haroon Rafique Ka Paigham, Saza Hee Hai Muashray Ki Islah | Hoshyarian",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T21:30:21Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 628,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/66fM6m1pBJs/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
     {
       "id": "6BapQDQ_Vic",
       "title": "Why did Sohail Afridi not convene the Apex Committee meeting? Revelations by Mahmood Jan Babar",
@@ -465,6 +537,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "OmIRiAJzEw4",
+      "title": "Shocking Incident Explained | ARY News 2 AM | 19 Oct 2026",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T21:15:00Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 709,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/OmIRiAJzEw4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "D9c1sVGtsKY",
       "title": "🔴 Live: Islamabad: Inauguration Ceremony of Danish School | Dawn News Live",
       "channel": "Dawn News",
@@ -480,6 +570,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/D9c1sVGtsKY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "b_DVjlHqPXg",
+      "title": "Bilawal Bhutto Takes a Firm Stand Against Terrorism | 1 AM Geo News Headlines(19th Oct 2026)",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T21:10:46Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1317,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/b_DVjlHqPXg/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -28113,24 +28221,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "F-n3xCrKuY0",
-      "title": "Hoshyarian | Haroon Rafique | Agha Majid | Saleem Albela | Goga Pasroori | 16th Oct 2026",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T19:00:11Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 2423,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/F-n3xCrKuY0/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "7HKZRQPeVG8",
       "title": "Pajje Ki Naukri Chali Gai | Ghar Walon Ka Shugal | Hasb-e-Haal | 16 Oct 2026 | حسب حال | Dunya News",
       "channel": "Hasb-e-Haal Official",
@@ -28185,24 +28275,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "vI3IPyqA8rk",
-      "title": "Aiteraz Hai | Emergency & Governor's Rule Imposed In KP | 16th Oct 2026",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T18:55:56Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 2740,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/vI3IPyqA8rk/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "uyBkipD91yc",
       "title": "Politics, Modi’s Popularity & Saudi Security Crisis | Middle East Tensions Rise | Shahzeb Khanzada",
       "channel": "Geo News",
@@ -28218,24 +28290,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/uyBkipD91yc/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "98DTpWxi3_s",
-      "title": "Karachi - Sad News | Emergency in KP | 10:30 PM News Updates | 16 Oct 2026",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T18:52:36Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 431,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/98DTpWxi3_s/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -28308,24 +28362,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/oOJPdqA_jF0/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "Vp36ee4lmhg",
-      "title": "KP Emergency | Are Government-PTI Tensions Easing? Is Dialogue Possible? Khawaja Asif Clarifies",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T18:44:14Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 513,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/Vp36ee4lmhg/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -28416,24 +28452,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/tTiBnsE8xHM/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "4RgCmCufsns",
-      "title": "Ali Muhammad Khan Raises Key Questions About PTI",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T18:34:28Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 584,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/4RgCmCufsns/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -29100,24 +29118,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/vYRw3wivMFk/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "ct6zQ4lGxyQ",
-      "title": "Economic Stability or Public Hardship? The Big Question for Pakistan | Shahzad Iqbal",
-      "channel": "Geo News",
-      "channelId": "geonews",
-      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T17:58:49Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 394,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/ct6zQ4lGxyQ/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -75849,6 +75849,42 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "gq3S_0BFsz4",
+      "title": "King England Mein Karlega? SL Kya India Per Bhari Parega ?",
+      "channel": "Wasay Habib",
+      "channelId": "wasay",
+      "youtubeChannelId": "UCs2-8ztgdlRqpbpHvfFFPFQ",
+      "category": "sports",
+      "genre": "Sports analysis & creators",
+      "date": "2026-08-07",
+      "published": "2026-08-07T19:30:13Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 3656,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": false,
+      "thumbnail": "https://i.ytimg.com/vi/gq3S_0BFsz4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "E35AAjyHTa8",
+      "title": "Award Show Website Crashed by Ducky Bhai Army 🔥 | Dog Ko Bahar Nikalna Para 😱",
+      "channel": "Ducky Bhai",
+      "channelId": "ducky",
+      "youtubeChannelId": "UC_c-RTowPbIlzMkIa_O7s6Q",
+      "category": "vloggers",
+      "genre": "Lifestyle & vlogs",
+      "date": "2026-08-07",
+      "published": "2026-08-07T16:27:54Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 921,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/E35AAjyHTa8/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "D9HNPnpMlaA",
       "title": "Thehar Bhi Jao Sanam | Mala | @EMIPakistanOfficial",
       "channel": "EMI Pakistan",
@@ -78621,24 +78657,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "dRHQijfLymE",
-      "title": "Phool Mere Gulshan Ka (1974) – Mohammad Ali, Zeba, Waheed Murad, Nisho | Full Pakistani Movie",
-      "channel": "LollywoodCinema",
-      "channelId": "lollywoodcinema",
-      "youtubeChannelId": "UCMlGWm_woMhMcVYhJu8zsvA",
-      "category": "movies",
-      "genre": "Classic Pakistani Movies",
-      "date": "2022-10-06",
-      "published": "2022-10-06T08:00:11Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 7637,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/dRHQijfLymE/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
-    },
-    {
       "id": "naGFRwzbKo0",
       "title": "Pain Killers - Talha Anjum | Prod. Umair (Official Audio)",
       "channel": "Talha Anjum",
@@ -79539,24 +79557,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "ManZs01zkhE",
-      "title": "AFSANA ZINDAGI KA (1972) - MOHAMMAD ALI & ZEBA - OFFICIAL FULL PAKISTANI MOVIE",
-      "channel": "MovieboxMovies",
-      "channelId": "movieboxmovies",
-      "youtubeChannelId": "UC8Artr_jqToYkRKjgjhezmw",
-      "category": "movies",
-      "genre": "Classic Pakistani Movies",
-      "date": "2017-08-18",
-      "published": "2017-08-18T08:00:00Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 7594,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/ManZs01zkhE/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
-    },
-    {
       "id": "n8R-W9Lsrzk",
       "title": "NOHookUps - Young Stunners - Official Audio",
       "channel": "Young Stunners",
@@ -79611,6 +79611,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "",
+  "lastError": "Dunya News: HTTP 404: playlistNotFound",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
