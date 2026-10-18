@@ -87,6 +87,52 @@
     social.setAttribute("data-adsterra-extra","true");
     document.body.appendChild(social);
   }
+
+  // A single optional 160x600 placement follows the active video player or DJ.
+  // Never create it without display-ad consent; close/removal unloads its iframe.
+  function installSideAd(){
+    if(document.body?.dataset?.paktvBannerOnly==="yes")return;
+    const css=document.createElement("style");
+    css.textContent=`
+      .paktv-side-ad{position:fixed;z-index:105;width:160px;height:626px;
+        display:flex;flex-direction:column;align-items:center;gap:6px;
+        pointer-events:auto}
+      .paktv-side-ad span{font:600 10px system-ui,sans-serif;letter-spacing:.1em;
+        color:#d9dfe4;text-transform:uppercase;text-shadow:0 1px 5px #000}
+      .paktv-side-ad iframe{display:block;width:160px;height:600px;border:0;background:transparent}
+      .paktv-side-ad[data-location="player"]{right:12px;top:50%;transform:translateY(-50%)}
+      .paktv-side-ad[data-location="dj"]{right:238px;bottom:18px}
+      @media(max-width:1390px){.paktv-side-ad[data-location="player"]{display:none}}
+      @media(max-width:680px){.paktv-side-ad[data-location="dj"]{display:none}}
+    `;
+    document.head.append(css);
+    let ad=null,place="";
+    function sync(){
+      const player=document.getElementById("playerOverlay");
+      const playerOpen=!!player&&!player.hidden;
+      const dj=document.querySelector(".classic-dj-float");
+      const target=playerOpen?"player":dj?"dj":"";
+      if(target===place&&ad?.isConnected)return;
+      if(ad){ad.remove();ad=null;}
+      place=target;
+      if(!target)return;
+      ad=document.createElement("aside");
+      ad.className="paktv-side-ad";ad.dataset.location=target;
+      ad.setAttribute("aria-label","Sponsored advertisement");
+      const label=document.createElement("span");label.textContent="Advertisement";
+      const frame=document.createElement("iframe");
+      frame.title="160 by 600 sponsored advertisement";
+      frame.loading="lazy";frame.referrerPolicy="strict-origin-when-cross-origin";
+      frame.setAttribute("scrolling","no");
+      frame.src="./ad-side.html";
+      ad.append(label,frame);document.body.append(ad);
+    }
+    const observer=new MutationObserver(sync);
+    observer.observe(document.body,{childList:true,subtree:false,attributes:true,attributeFilter:["hidden"]});
+    const player=document.getElementById("playerOverlay");
+    if(player)observer.observe(player,{attributes:true,attributeFilter:["hidden"]});
+    sync();
+  }
   function loadGoogleAds(){
     // Google AdSense Auto ads: insert the exact publisher script only after
     // explicit Google advertising consent. The static publisher meta tag in
@@ -189,7 +235,7 @@
     });
     document.querySelectorAll("[data-privacy-settings]").forEach(x=>x.addEventListener("click",open));
     if(!saved)banner.hidden=false;
-    if(!GPC&&saved?.ads)loadDisplayAds();
+    if(!GPC&&saved?.ads){loadDisplayAds();installSideAd();}
     if(!GPC&&saved?.extra&&document.body?.dataset?.paktvExtraAds!=="no"&&
        document.body?.dataset?.paktvBannerOnly!=="yes")loadExtraAds();
     if(!GPC&&saved?.googleAds&&document.body?.dataset?.paktvBannerOnly!=="yes")loadGoogleAds();
