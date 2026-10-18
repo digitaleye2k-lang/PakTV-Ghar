@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-18T17:50:20.690053Z",
+  "generatedAt": "2026-10-18T17:51:32.802298Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-18T17:50:20.690053Z",
+      "updatedAt": "2026-10-18T17:51:32.802298Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -62,7 +62,7 @@
       ]
     },
     "world": {
-      "updatedAt": "2026-10-18T17:50:20.690053Z",
+      "updatedAt": "2026-10-18T17:51:32.802298Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -124,7 +124,7 @@
   },
   "newsUrdu": {
     "pakistan": {
-      "updatedAt": "2026-10-18T17:50:20.690053Z",
+      "updatedAt": "2026-10-18T17:51:32.802298Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -186,7 +186,7 @@
     "world": {}
   },
   "weather": {
-    "updatedAt": "2026-10-18T17:50:20.690053Z",
+    "updatedAt": "2026-10-18T17:51:32.802298Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -225,7 +225,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-18T17:50:20.690053Z",
+    "updatedAt": "2026-10-18T17:51:32.802298Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
@@ -251,7 +251,7 @@
     ]
   },
   "sports": {
-    "updatedAt": "2026-10-18T17:50:20.933153Z",
+    "updatedAt": "2026-10-18T17:51:34.055003Z",
     "source": "ESPN cricket snapshot",
     "url": "https://www.espncricinfo.com/live-cricket-score",
     "matches": [
