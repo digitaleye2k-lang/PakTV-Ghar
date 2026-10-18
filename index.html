@@ -102,6 +102,7 @@
   <link rel="stylesheet" href="./movies.css">
   <link rel="stylesheet" href="./header-layout.css">
   <link rel="stylesheet" href="./site-visitors.css">
+  <link rel="stylesheet" href="./home-briefing.css">
   <link rel="stylesheet" href="./cookie-consent.css">
 </head>
 <body>
@@ -571,6 +572,7 @@ function renderHome(){
     '<a class="quick-tile community-home-tile" href="./community.html#chat"><span class="quick-emoji">💬</span><span class="quick-name">Community chat</span></a>'+
     '<a class="quick-tile community-home-tile" href="./community.html#visitors"><span class="quick-emoji">🌍</span><span class="quick-name">Visitor countries</span></a>'+
     '</div>'+
+    '<div id="homeBriefing" class="home-briefing" aria-label="Latest news, Pakistan weather and world markets"></div>'+
     '<section class="home-world-widget" aria-label="Visitor countries"><div class="home-world-symbol" aria-hidden="true">🌍</div>'+
     '<div class="home-world-info"><strong>PakTV Ghar around the world</strong><span><b id="homeVisitCount">—</b> optional counted visits · <b id="homeCountryTop">Countries coming soon</b></span></div>'+
     '<div class="home-world-actions"><button id="homeCountVisit" type="button" disabled title="Optional anonymous daily visitor count">Count my visit</button>'+
@@ -709,7 +711,7 @@ ${videos.length?`${sectionHead('Videos',`${videos.length} available result${vide
 ${shows.length?`${sectionHead('Political & TV shows','Search for a specific programme by name.')}<div class="channel-grid">${shows.map(showCard).join('')}</div>`:''}
 ${channels.length?`${sectionHead('Channels & YouTubers','Browse videos or open the publisher.')}<div class="channel-grid">${channels.map(channelCard).join('')}</div>`:''}
 ${q&&!any&&!state.searchLoading?`<div class="empty-state"><div class="empty-emoji">🔎</div><h3>No matching videos in this catalogue</h3><p>For a full YouTube search, use the button below. Or try a shorter search, like “Humsafar”, “Capital Talk” or “Geo”.</p><a class="btn-primary" href="${escapeHTML(searchYouTube(q))}" target="_blank" rel="noopener noreferrer">Search YouTube ↗</a></div>`:''}`}
-function paint(){renderNav();el('mainContent').innerHTML=state.page==='home'?renderHome():state.page==='today'?renderToday():state.page==='show'?renderShowPage():state.page==='movies'?renderMovies():state.page==='archive'?renderArchive():state.page==='favourites'?renderFavourites():state.page==='search'?renderSearch():renderCategory(state.page);updateSpotlightTimer();if(state.page==='search'){el('searchInput').value=state.query}document.documentElement.lang=state.language==='ur'?'ur':'en';const s=el('searchInput');s.placeholder=state.language==='ur'?'ڈرامے، خبریں، ٹاک شوز، یوٹیوبرز تلاش کریں...':'Search dramas, movies, videos & more...'}
+function paint(){renderNav();el('mainContent').innerHTML=state.page==='home'?renderHome():state.page==='today'?renderToday():state.page==='show'?renderShowPage():state.page==='movies'?renderMovies():state.page==='archive'?renderArchive():state.page==='favourites'?renderFavourites():state.page==='search'?renderSearch():renderCategory(state.page);updateSpotlightTimer();document.dispatchEvent(new Event('paktv:paint'));if(state.page==='search'){el('searchInput').value=state.query}document.documentElement.lang=state.language==='ur'?'ur':'en';const s=el('searchInput');s.placeholder=state.language==='ur'?'ڈرامے، خبریں، ٹاک شوز، یوٹیوبرز تلاش کریں...':'Search dramas, movies, videos & more...'}
 function toast(message){el('toast').textContent=message;el('toast').classList.add('show');clearTimeout(state.toastTimer);state.toastTimer=setTimeout(()=>el('toast').classList.remove('show'),2200)}
 function favVideo(id){const set=new Set(state.favoriteVideos);const v=pickVideo(id);if(set.has(id)){set.delete(id);delete state.savedVideoData[id]}else{set.add(id);if(v)state.savedVideoData[id]=v}state.favoriteVideos=[...set];safeSet('pgh_video_favs',state.favoriteVideos);safeSet('pgh_video_data',state.savedVideoData);toast(set.has(id)?'Video saved to favourites ♥':'Video removed from favourites');if(state.currentVideo?.id===id)el('playerFav').textContent=set.has(id)?'♥ Saved':'♡ Save';paint()}
 function favChannel(id){const set=new Set(state.favoriteChannels);set.has(id)?set.delete(id):set.add(id);state.favoriteChannels=[...set];safeSet('pgh_channel_favs',state.favoriteChannels);toast(set.has(id)?'Channel added to favourites ♥':'Channel unpinned');paint()}
@@ -1019,8 +1021,30 @@ state.page=locationPage();bindEvents();initSpotlightEvents();paint();refreshFeed
 </script>
 
 
+<div class="pgh-chat-dock" aria-label="Compact community chat">
+  <section class="pgh-chat-drawer" id="pghMiniDrawer" role="dialog" aria-label="Community mini chat" hidden>
+    <header class="pgh-mini-header"><div><strong>💬 PakTV community</strong><small>Family-friendly guest chat</small></div>
+    <button type="button" id="pghMiniClose" aria-label="Close chat">×</button></header>
+    <div class="pgh-mini-room"><label for="pghMiniRoom">Room</label>
+    <select id="pghMiniRoom">
+      <option value="general">General</option><option value="dramas">Dramas</option>
+      <option value="movies">Movies</option><option value="comedy">Comedy</option>
+      <option value="politics">Political shows</option><option value="youtubers">YouTubers</option>
+    </select></div>
+    <div class="pgh-mini-messages" id="pghMiniMessages" aria-live="polite"></div>
+    <form class="pgh-mini-form" id="pghMiniForm">
+      <input id="pghMiniName" maxlength="22" minlength="2" autocomplete="nickname" placeholder="Your nickname" aria-label="Your nickname" required>
+      <textarea id="pghMiniBody" maxlength="450" minlength="2" rows="2" placeholder="Write a friendly message…" aria-label="Chat message" required></textarea>
+      <button id="pghMiniSend" type="submit" disabled>Send message →</button>
+      <p class="pgh-mini-status" id="pghMiniStatus" role="status">Messages load when you open this tab.</p>
+    </form>
+    <p class="pgh-mini-footer"><a href="./community.html#chat">Full chat · Report messages ↗</a></p>
+  </section>
+  <button class="pgh-chat-tab" id="pghMiniToggle" type="button" aria-expanded="false" aria-controls="pghMiniDrawer">💬 Community chat</button>
+</div>
 <script src="./cookie-consent.js" defer></script>
 <script src="./community-config.js" defer></script>
 <script src="./site-visitors.js" defer></script>
+<script src="./home-briefing.js" defer></script>
 </body>
 </html>
