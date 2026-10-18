@@ -22,7 +22,7 @@ for expected in ('./community.html#chat', './community.html#contact',
                  'homeCountVisit', 'homeVisitCount', 'site-visitors.js', 'community-config.js'):
     assert expected in index, 'Main-site community link or counter missing: '+expected
 
-for expected in ('Visitors','Show chat','Contact us','Report','Be a moderator',
+for expected in ('Visitors','GUPSHUP','Contact us','Report','Be a moderator',
                  'id="communitySetup"', 'id="countryRows"', 'id="chatForm"',
                  'id="chatMessages"', 'id="staffEmailForm"', 'id="ownerInbox"',
                  'data-community-panel="moderator"', 'data-intake-kind="report"',
