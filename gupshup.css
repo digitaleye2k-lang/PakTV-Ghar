@@ -20,3 +20,13 @@ main{max-width:1530px;margin:auto;padding:0 clamp(14px,3vw,42px) 44px}
 @media(max-width:740px){.global-header{flex-wrap:wrap;padding:14px}.global-header nav{order:3;width:100%;justify-content:space-around;gap:3px}.global-header nav a{font-size:12px}.back-link{font-size:11px}.tea-hero{padding:21px;grid-template-columns:1fr;border-radius:19px}.hero-photo{min-height:225px;height:235px}.hero-copy h1{font-size:65px}.section-header{align-items:start;flex-direction:column}.chat-layout{grid-template-columns:1fr}.rooms-panel{padding:15px}.rooms{grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}.room{font-size:11px;padding:9px;line-height:1.25}.room span{font-size:17px}.chai-quote{display:none}.conversation-card{min-height:525px}.message-area{height:340px}.right-panel{grid-column:auto;grid-template-columns:1fr}.bottom-values{grid-template-columns:1fr}.bottom-values>div+div{border-left:0;border-top:1px solid #d6c8b0}.footer{grid-template-columns:1fr}.footer>div:nth-child(2){justify-content:start}}
 @media(max-width:420px){.global-header nav a{font-size:10px}.global-header nav a.current{padding:8px}.rooms{grid-template-columns:repeat(2,minmax(0,1fr))}.hero-copy h1{font-size:54px}.conversation-toolbar{padding:13px}.conversation-toolbar h3{font-size:14px}.subtle-button span{display:none}.compose-form{padding:12px}.compose-bottom{align-items:stretch;flex-direction:column}.compose-bottom button{align-self:flex-end}.message-area{padding:12px}.hero-chips span{font-size:10px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+/* Parent-led Kids & Family discussion corner */
+.family-corner{margin:25px 0 0;display:flex;align-items:center;gap:18px;padding:21px 26px;border:1px solid #4b8c69;border-radius:19px;background:linear-gradient(110deg,#204938,#1b3b3b);box-shadow:0 8px 28px #030d1030}
+.family-corner-icon{font-size:39px;flex:0 0 auto;width:70px;height:70px;display:grid;place-items:center;background:#477c56a8;border-radius:17px}
+.family-corner>div:nth-child(2){flex:1;min-width:0}
+.family-corner h2{margin:5px 0 6px;font-size:23px;letter-spacing:-.04em;color:#fff6e6}
+.family-corner p{margin:0;max-width:790px;font-size:12px;line-height:1.65;color:#d0e5d8}
+.family-corner button{border:0;border-radius:11px;background:#ffcb8e;color:#273427;padding:12px 16px;font-weight:800;white-space:nowrap;font-size:12px}
+.family-corner button:hover{background:#ffe0b0}
+@media(max-width:700px){.family-corner{align-items:flex-start;flex-wrap:wrap;padding:17px}.family-corner-icon{width:48px;height:48px;font-size:26px}.family-corner>div:nth-child(2){flex-basis:calc(100% - 70px)}.family-corner button{margin-left:0;width:100%}}
