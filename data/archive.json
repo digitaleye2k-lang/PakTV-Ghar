@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T19:24:35.322586+00:00",
+  "generatedAt": "2026-10-18T19:31:22.954996+00:00",
   "dateTimezone": "UTC",
-  "cursor": 3,
+  "cursor": 15,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -259,42 +259,42 @@
       "uploadsId": "UUiWrjBhlICf_L_RK5y6Vrxw",
       "handle": "PakistanCricket",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T19:12:14.334231+00:00"
+      "lastFetchedAt": "2026-10-18T19:31:22.954996+00:00"
     },
     "psl": {
       "youtubeId": "UCpNzXJ5jpcJojC5mHQvGA8w",
       "uploadsId": "UUpNzXJ5jpcJojC5mHQvGA8w",
       "handle": "pakistansuperleagueofficial",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T19:12:14.334231+00:00"
+      "lastFetchedAt": "2026-10-18T19:31:22.954996+00:00"
     },
     "asports": {
       "youtubeId": "UCCLdGxMC4fwkaQ4AIcL7Z8w",
       "uploadsId": "UUCLdGxMC4fwkaQ4AIcL7Z8w",
       "handle": "asportspk",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T19:12:14.334231+00:00"
+      "lastFetchedAt": "2026-10-18T19:31:22.954996+00:00"
     },
     "ptvsports": {
       "youtubeId": "UCnoH_iEE4tgVznLT97Kb7ig",
       "uploadsId": "UUnoH_iEE4tgVznLT97Kb7ig",
       "handle": "ptvsportsofficialpk",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T19:12:14.334231+00:00"
+      "lastFetchedAt": "2026-10-18T19:31:22.954996+00:00"
     },
     "cricketpk": {
       "youtubeId": "UCI7I29IPUtWE68VLUoZfXow",
       "uploadsId": "UUI7I29IPUtWE68VLUoZfXow",
       "handle": "CricketPakistanPK",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T19:12:14.334231+00:00"
+      "lastFetchedAt": "2026-10-18T19:31:22.954996+00:00"
     },
     "wasay": {
       "youtubeId": "UCs2-8ztgdlRqpbpHvfFFPFQ",
       "uploadsId": "UUs2-8ztgdlRqpbpHvfFFPFQ",
       "handle": "wasayhabib",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T19:12:14.334231+00:00"
+      "lastFetchedAt": "2026-10-18T19:31:22.954996+00:00"
     },
     "kidsland": {
       "youtubeId": "UCZMKZS3L9GfhcFkMyBRoVFg",
@@ -315,28 +315,28 @@
       "uploadsId": "UU_4moTH4Pmatx5ogzCLxUtA",
       "handle": "salamkidstvofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T19:12:14.334231+00:00"
+      "lastFetchedAt": "2026-10-18T19:31:22.954996+00:00"
     },
     "urdukidsstudio": {
       "youtubeId": "UCxqHh4UJsNqiwk_aaMI9HBg",
       "uploadsId": "UUxqHh4UJsNqiwk_aaMI9HBg",
       "handle": "urdukidsstudio",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T19:12:14.334231+00:00"
+      "lastFetchedAt": "2026-10-18T19:31:22.954996+00:00"
     },
     "shirazi": {
       "youtubeId": "UC8YddK8DXYyry_LWY4NksgA",
       "uploadsId": "UU8YddK8DXYyry_LWY4NksgA",
       "handle": "shirazi786",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T19:12:14.334231+00:00"
+      "lastFetchedAt": "2026-10-18T19:31:22.954996+00:00"
     },
     "haimparishay": {
       "youtubeId": "UC6jgnXHUJ4eDjrvHJNtAUYg",
       "uploadsId": "UU6jgnXHUJ4eDjrvHJNtAUYg",
       "handle": "HaimParishayKhan",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T19:12:14.334231+00:00"
+      "lastFetchedAt": "2026-10-18T19:31:22.954996+00:00"
     },
     "waggleworkshop": {
       "youtubeId": "UCDf7-AujhJJkMF1Cg5iT-Pw",
@@ -350,7 +350,7 @@
       "uploadsId": "UUMlGWm_woMhMcVYhJu8zsvA",
       "handle": "LollywoodCinema",
       "checkedAt": "2026-10-18T17:28:01.603474+00:00",
-      "lastFetchedAt": "2026-10-18T19:12:14.334231+00:00"
+      "lastFetchedAt": "2026-10-18T19:31:22.954996+00:00"
     },
     "movieboxmovies": {
       "youtubeId": "UC8Artr_jqToYkRKjgjhezmw",
@@ -364,7 +364,7 @@
       "uploadsId": "UUV-z8APBalmSWNrre62xKxg",
       "handle": "lollywoodclassics",
       "checkedAt": "2026-10-18T17:48:49.190558+00:00",
-      "lastFetchedAt": "2026-10-18T19:13:32.626207+00:00"
+      "lastFetchedAt": "2026-10-18T19:31:22.954996+00:00"
     }
   },
   "videos": [
@@ -79569,6 +79569,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Siddique Jaan: channel unavailable; HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable",
+  "lastError": "",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
