@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-18T22:44:45.195402Z",
+  "generatedAt": "2026-10-18T22:49:05.983295Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-18T22:44:45.195402Z",
+      "updatedAt": "2026-10-18T22:49:05.983295Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -62,26 +62,20 @@
       ]
     },
     "world": {
-      "updatedAt": "2026-10-18T22:44:45.195402Z",
+      "updatedAt": "2026-10-18T22:49:05.983295Z",
       "source": "Google News RSS",
       "items": [
         {
           "title": "Caleb Williams is sensational in return from injury with career-best completion streak to lead Bears past Falcons - Yahoo Sports",
           "source": "Yahoo Sports",
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZVZDNlBXUDR5QWhIMzZaT1BUM244RHlQZFpNUDM4RExCdHhVNkJIOElodWVBNm9NZUxJQ2pvc1VhWlA4WGtBeG5IVnExb1dGdTdoakN4Z0t4QXdhVGlEWlktZkZmeW8tY0FJeVlhZkRNT1VXbnFOTU92cTM1VmpuT1RCUW8wSXQ1TjB1eTdpNDVLUzZieHVBclBla2JqTU9nN3BuTEUxdlFJdWRUcE5Yc3A5NXA5REtxZHdPLVJkX3BZMjRWYTFudlpHdWZtcFJvWkY5amhWczBobmVIcm15MUF0NEZHWDJ3WVlBOXI1c1c?oc=5",
-          "published": "2026-10-18T22:16:23Z"
+          "published": "2026-10-18T22:37:33Z"
         },
         {
-          "title": "Elizabeth Holmes Film Opens to Over 2,000 Sold-Out Shows - The New York Times",
+          "title": "Elizabeth Holmes Documentary ‘You Can See Everything’ Opens to Over 2,000 Sold-Out Shows - The New York Times",
           "source": "The New York Times",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2Y2TlI4ZG1BWW5tQi00ZmMzNUZGaHJuaHhqRThzaU5LcG0wYWJaUlk0MzJ3OGpBdDlkN0lrX25PVXl6andKZm54aERjWHpCRXk1eXQwcEM5ejRDYUxJdVl3SlhMdVUzZVhxYXlaTkFUZ3ljMEtyRFFsRjNNMUlrQWNBd3pndTZOOVdJSmtCM0tvanZp?oc=5",
           "published": "2026-10-18T21:55:14Z"
-        },
-        {
-          "title": "4 dead, dozens wounded after large fire breaks out at Canadian military base, officials say - CBS News",
-          "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNHVyQWVXZnB0YTllV3p0aElfOWY2eWlNS3lOM05aMVBMaGVBUURtc0ZUU00xR3pGcGV6MVRQcnVuLXotOEpCOG8wTE1KUHhPcW9LRDhVb2FNOTU3TTlKY3NFY0FVZjBkZFk2c1FtOXNfWFpCU2cyekd1MzNBMzRsNGtvbHFhUHhZbjBYRlRHWWtPdGtMSE1ETU9R?oc=5",
-          "published": "2026-10-18T21:48:38Z"
         },
         {
           "title": "Huge Riots and Anti-Government Protests in France: What to Know - The New York Times",
@@ -94,6 +88,12 @@
           "source": "ESPN",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMW1OWnBkUkg1QlQxZmhDYTdRRHhDRUhEUHFyNWVSb0s2RkE3a2N5ZFh4cWdybkxZeW1Fc0JEUDQ5cHp4b1dzcWtnQVlqLXdCNTNPS0lObkI2TEZrcVpMYzR5R29ZUzZMd2lHV3NaSGI1eTNCcGo3MXlVVE5RVW94QWN0eElfQUZqaWN3YXYwZ2Y5eWZ3NGl0Rnc2SW4?oc=5",
           "published": "2026-10-18T21:11:00Z"
+        },
+        {
+          "title": "At least 4 killed in major fire at Canadian military base - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXEzTWctWFllT2dCNGlES0Ewcm9qV0djallLZ3c2bEdoRVlta2RBQ09uQ1hZQnMxbndPUHNzRzdmakNYZU5IeHRPbF9wUVlFNTBCLUwyWE9TbUFFYjRua1BEM01VWm5ab0NwRm5QWXV2eW1ycERzRklTbzdxV2NpS1lOV29pZWtsRzgyOE9RTVVRNDhOdXhBdnJ6REFJQk54azV3ag?oc=5",
+          "published": "2026-10-18T21:02:45Z"
         },
         {
           "title": "Priest killed by falling crucifix during livestreamed Mass as worshippers rush to help - Fox News",
@@ -124,7 +124,7 @@
   },
   "newsUrdu": {
     "pakistan": {
-      "updatedAt": "2026-10-18T22:44:45.195402Z",
+      "updatedAt": "2026-10-18T22:49:05.983295Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -186,7 +186,7 @@
     "world": {}
   },
   "weather": {
-    "updatedAt": "2026-10-18T22:44:45.195402Z",
+    "updatedAt": "2026-10-18T22:49:05.983295Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -225,7 +225,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-18T22:44:45.195402Z",
+    "updatedAt": "2026-10-18T22:49:05.983295Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
@@ -251,7 +251,7 @@
     ]
   },
   "sports": {
-    "updatedAt": "2026-10-18T22:44:46.503719Z",
+    "updatedAt": "2026-10-18T22:49:07.329605Z",
     "source": "ESPN cricket snapshot",
     "url": "https://www.espncricinfo.com/live-cricket-score",
     "matches": []
