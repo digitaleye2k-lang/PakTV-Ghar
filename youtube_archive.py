@@ -130,6 +130,8 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
         if VIDEO_ID.fullmatch(v.get('id','')) and v.get('date','') >= threshold:
             entries[v['id']] = v
     cache = dict(previous.get('channels') or {})
+    music_indexed = {v.get('channelId') for v in previous.get('videos',[])
+                     if v.get('category') == 'music'}
     start = int(previous.get('cursor', 0)) % len(CHANNELS)
     checked = []
     errors = []
@@ -149,7 +151,8 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
                                           'cokestudio','talhaanjum','jaubi','emipakistan'))
                      and not (cache.get(source['id']) or {}).get('lastFetchedAt'))
                     or (source.get('channelId') and
-                        source['channelId'] != (cache.get(source['id']) or {}).get('youtubeId'))],
+                        source['channelId'] != (cache.get(source['id']) or {}).get('youtubeId'))
+                    or (source['id'] == 'jaubi' and 'jaubi' not in music_indexed)],
                    key=lambda source: 0 if source['id'] in
                    ('lollywoodcinema', 'movieboxmovies') else
                     1 if source['id'] in
