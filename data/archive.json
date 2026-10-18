@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T19:16:00.197977+00:00",
+  "generatedAt": "2026-10-18T19:19:47.712480+00:00",
   "dateTimezone": "UTC",
-  "cursor": 38,
+  "cursor": 50,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -98,56 +98,56 @@
       "uploadsId": "UUJekW1Vj5fCVEGdye_mBN6Q",
       "handle": "SAMAATV",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T17:51:08.623850+00:00"
+      "lastFetchedAt": "2026-10-18T19:19:47.712480+00:00"
     },
     "hasbehaal": {
       "youtubeId": "UCyiJNpF7RgpPhyeKc4wnQkg",
       "uploadsId": "UUyiJNpF7RgpPhyeKc4wnQkg",
       "handle": "hasbehaalofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T17:51:08.623850+00:00"
+      "lastFetchedAt": "2026-10-18T19:19:47.712480+00:00"
     },
     "pakexperience": {
       "youtubeId": "UC44l9XMwecN5nSgIF2Dvivg",
       "uploadsId": "UU44l9XMwecN5nSgIF2Dvivg",
       "handle": "ThePakistanExperience",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T17:51:08.623850+00:00"
+      "lastFetchedAt": "2026-10-18T19:19:47.712480+00:00"
     },
     "maaz": {
       "youtubeId": "UCz0M2pV4jOUUQ88lOd2q08A",
       "uploadsId": "UUz0M2pV4jOUUQ88lOd2q08A",
       "handle": "MaazSafderWorld",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T17:51:08.623850+00:00"
+      "lastFetchedAt": "2026-10-18T19:19:47.712480+00:00"
     },
     "matiullah": {
       "youtubeId": "UC-hJ0cobUiWlBFTHgLwt8sQ",
       "uploadsId": "UU-hJ0cobUiWlBFTHgLwt8sQ",
       "handle": "MatiullahJanMJtv",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T17:51:08.623850+00:00"
+      "lastFetchedAt": "2026-10-18T19:19:47.712480+00:00"
     },
     "p4pakao": {
       "youtubeId": "UCI9tIvSPsdxNEICjZk7ujUA",
       "uploadsId": "UUI9tIvSPsdxNEICjZk7ujUA",
       "handle": "p4pakaoofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T17:51:08.623850+00:00"
+      "lastFetchedAt": "2026-10-18T19:19:47.712480+00:00"
     },
     "dawnnews": {
       "youtubeId": "UCaxR-D8FjZ-2otbU0_Y2grg",
       "uploadsId": "UUaxR-D8FjZ-2otbU0_Y2grg",
       "handle": "dawnnewspakistan",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T17:51:08.623850+00:00"
+      "lastFetchedAt": "2026-10-18T19:19:47.712480+00:00"
     },
     "irfanjunejo": {
       "youtubeId": "UCUuDUW0Y6IQZYDvH1QQBsgA",
       "uploadsId": "UUUuDUW0Y6IQZYDvH1QQBsgA",
       "handle": "irfanjunejo",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T17:51:08.623850+00:00"
+      "lastFetchedAt": "2026-10-18T19:19:47.712480+00:00"
     },
     "kunfoods": {
       "youtubeId": "UCJEGvNxXunjqrcd2Xg9ntMQ",
@@ -238,7 +238,7 @@
       "uploadsId": "UU-rP-oFlxQGpSLYHBlhIWkg",
       "handle": "mooroosicity",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T17:51:08.623850+00:00"
+      "lastFetchedAt": "2026-10-18T19:19:47.712480+00:00"
     },
     "aryfilms": {
       "youtubeId": "UC2PYniNHljOED9xNaMpiMiQ",
@@ -369,6 +369,42 @@
   },
   "videos": [
     {
+      "id": "1e2A3B1JwpI",
+      "title": "Emergency, Governor’s Rule in KP | Shaukat Yousafzai Criticizes PTI Leadership | Samaa TV",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T19:16:17Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 583,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/1e2A3B1JwpI/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "hM-zOAorOk4",
+      "title": "What is Federal Govt’s Next Strategy for KP? Tariq Fazal Chaudhry Reveal Details | Mere Sawal",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T19:13:43Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 121,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/hM-zOAorOk4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "dI2SwwaU-dY",
       "title": "Faisal Vawda points out similarities between Imran Khan and Altaf Hussain",
       "channel": "Geo News",
@@ -441,6 +477,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "nxl9MDf9OKA",
+      "title": "Saudi-Houthi War | Houthis Attack on Saudi Arabia Foiled | 11:30 PM News Update | Samaa TV",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T19:00:10Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 745,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/nxl9MDf9OKA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "UHu1u7wluWg",
       "title": "🔥 Badle Ki Aag Sab Kuch Jala Degi! | Main Tera | Ghana Ali | ARY Digital",
       "channel": "ARY Digital",
@@ -456,6 +510,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/UHu1u7wluWg/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "vf9YkINMrhg",
+      "title": "Egypt To Join Makkah Agreement After Pakistan, Saudi Arabia, Turkey? | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T18:55:37Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 458,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/vf9YkINMrhg/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -510,6 +582,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/uWDnht842y8/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "Tc0QbwaqtN8",
+      "title": "Governor’s Rule in KP | What Happens Now? | Tariq Fazal Chaudhry Shares Key Details | Samaa TV",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T18:55:15Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 740,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Tc0QbwaqtN8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -693,6 +783,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "xY_8SOYlaSI",
+      "title": "Iran's Mediation In Yemen-Saudi Conflict - Will It Be Accepted? | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T18:45:14Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 369,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/xY_8SOYlaSI/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "IT3IG3enZOc",
       "title": "KP Emergency & Governor Rule | Shocking Updates | Violent Protest | ARY News 11 PM Headlines",
       "channel": "ARY News",
@@ -744,6 +852,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/ReuiSAMIJfI/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "Gk6C63If6WA",
+      "title": "Iran also wishes to join the Makkah defense pact | Dawn News Headlines 11 PM",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T18:40:36Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 190,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Gk6C63If6WA/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -855,6 +981,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "iUoUs8WLfws",
+      "title": "Why Govt Ministers Making Harsh Statements Against Maulana Fazal-ur-Rehman? | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T18:35:11Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 430,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/iUoUs8WLfws/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "6BRZkbK1WTA",
       "title": "😎 Rutba Ki Barat | Rutba |  Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat",
       "channel": "ARY Digital",
@@ -870,6 +1014,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/6BRZkbK1WTA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "JKm2KpbzDr4",
+      "title": "Iran-US War Update | Iranian President Makes Offer to US | 11 PM News Headlines | SAMAA TV",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T18:30:27Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 661,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/JKm2KpbzDr4/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -981,6 +1143,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "VFxzJV78cjs",
+      "title": "Has PTI Closed The Door To Direct Talks With Government? | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T18:25:02Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 841,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/VFxzJV78cjs/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "hCKpR8XBKlw",
       "title": "Attending the meeting despite being under house arrest, how did they reach Gandapur?",
       "channel": "Geo News",
@@ -1035,6 +1215,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "o075mLEwlcM",
+      "title": "Cockroach Janta Party’s Protest: Situation Has Slipped Out of Modi’s Control: Haris Nawaz",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T18:20:42Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 139,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/o075mLEwlcM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "nFfia_ahJDE",
       "title": "Salma Ko Nokari Se Kyun Nikala..? Mohabbat Mukhtasir - ft. Madiha Imam - HUM TV",
       "channel": "HUM TV",
@@ -1050,6 +1248,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/nFfia_ahJDE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "HbRpq48DSLw",
+      "title": "KP Emergency | Federal Govt Against Governor’s Rule | Ameer Muqam Reveals | Sunday @ 7",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T18:20:13Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 489,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/HbRpq48DSLw/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -1395,6 +1611,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "ZpUXgIBy-wk",
+      "title": "Saudi-Houthis War | Iran-US | Latest Update| 10:30 PM News Update | Samaa TV",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T18:06:16Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 696,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/ZpUXgIBy-wk/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "xLjqjeHtNDA",
       "title": "Janith Liyanage post match press conference | PAK vs SL | Match 01 | ODI Tri Series 2026",
       "channel": "A Sports",
@@ -1464,6 +1698,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/AEbx3gIUqek/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "L6jfMz6Ubww",
+      "title": "Govt-PTI Talks Fail - Deadlock Continues | Khabar Se Khabar | Dawn News",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T18:00:22Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2389,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/L6jfMz6Ubww/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -1626,6 +1878,42 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/L6-Is83DhQU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "PjUFdNlKKEc",
+      "title": "KP Emergency | Govt PTI  Talk | Everything Was Agreed, Why Did Negotiations Collapse? | Sunday @ 7",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:54:17Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 513,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/PjUFdNlKKEc/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "jpeOAhQ2PO4",
+      "title": "Imposition of Governor’s Rule in KP Was a Necessity, Not a Change of Stance: Ameer Muqam | Sunday@7",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:53:33Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 117,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/jpeOAhQ2PO4/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -1842,6 +2130,24 @@
       "availablePK": true,
       "embeddable": false,
       "thumbnail": "https://i.ytimg.com/vi/qmPdDwcOHIg/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "N0QXuC4CNiw",
+      "title": "Pak-Iran Border Closed | KP Emergency, Governor’s Rule Update | Maulana in Trouble | Mere Sawal",
+      "channel": "SAMAA TV",
+      "channelId": "samaa",
+      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:40:58Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2289,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/N0QXuC4CNiw/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -30717,24 +31023,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "1FokXhLtzBg",
-      "title": "Peshawar Tragedy | What Really Happened? | New Details Revealed | Breaking News | SAMAA TV",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T15:00:17Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 107,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/1FokXhLtzBg/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "CvucSOnC20A",
       "title": "Mere Pass Raho Tum | Mega Highlights | Nawal Saeed | Omer Shahzad | Express TV",
       "channel": "Express TV",
@@ -30807,24 +31095,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "Psc0NUdY978",
-      "title": "Shocking Mur*der of a Young Man in Karachi – Who Is the Kill*er? Eye-Opening Revelations | Samaa TV",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:50:12Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 180,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/Psc0NUdY978/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "eNCDkzq-Yl4",
       "title": "Short Term Goals vs Long Term Vision! What Is Hesson’s Plan | A SportsHD",
       "channel": "A Sports",
@@ -30876,24 +31146,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/edVvIzxzVPQ/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "CF4OkYL-pOA",
-      "title": "KP Emergency Update | Another Crisis | Youths Leaving Pakistan |  07:30 PM News Update | Samaa TV",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:45:36Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 532,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/CF4OkYL-pOA/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -30987,24 +31239,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "FOKnqgJnigQ",
-      "title": "Former Cricketer Saqlain Mushtaq Recalls Historic Victory Against India",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:37:38Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 161,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/FOKnqgJnigQ/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "_TNA3jJ0ipM",
       "title": "Successful Operation by CTD and Security Forces in Lakki Marwat | Dawn News Headlines: 07 PM",
       "channel": "Dawn News",
@@ -31056,24 +31290,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/-V1pejDaXr4/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "d2aGaFGAkng",
-      "title": "PM Shehbaz Sharif Condemns Houthi Attacks on Saudi Arabia | Pakistan Stands with Riyadh | SAMAA TV",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:30:26Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 116,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/d2aGaFGAkng/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -31221,24 +31437,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "Q0jHPsYLms0",
-      "title": "\"Chopping and Changing Creates Insecurity\" | Saqlain Mushtaq Calls Out Pakistan Cricket's Core Issue",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:13:33Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 2053,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/Q0jHPsYLms0/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "DO6y-HDqRkQ",
       "title": "England Land in Pakistan! ODI Tri Series Action Begins Sunday | A SportsHD",
       "channel": "A Sports",
@@ -31272,24 +31470,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/wBIKldbq1JA/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "3iGlVYV975M",
-      "title": "KP Emergency Update | PTI New Moves | Pakistan Warns India | 07 PM News Headlines | Samaa TV",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T14:05:23Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 612,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/3iGlVYV975M/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -31362,24 +31542,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/b4NvdcCfkls/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "MVKult2_w3Y",
-      "title": "KP Emergency Update | Peshawar Roof Collapse Live Update  | 06:30 PM News Update | Samaa TV",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T13:47:19Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 548,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/MVKult2_w3Y/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -31491,24 +31653,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "wNz_-BwA4Jg",
-      "title": "Saudi Ambassador Holds Important Meeting with Ishaq Dar | Breaking News | Samaa TV",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T13:39:09Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 106,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/wNz_-BwA4Jg/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "rF7NzchLnK8",
       "title": "Saudi Arabia vs Houthis: Will the Yemen War Escalate Further? | Dawn News",
       "channel": "Dawn News",
@@ -31560,24 +31704,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/VwKSaRIcTIg/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "qkSukr4XDYU",
-      "title": "KP Emergency Update | PTI New Moves | Mohsin Naqvi Warns | 06 PM News Headlines | Samaa TV",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T13:28:31Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 713,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/qkSukr4XDYU/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -31704,24 +31830,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/YIqdiuIOf6g/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "-z59GpgRb3s",
-      "title": "Emergency in KP | Pervaiz Rashid Sets Condition for Opposition Talks",
-      "channel": "SAMAA TV",
-      "channelId": "samaa",
-      "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T13:06:08Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 123,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/-z59GpgRb3s/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -45459,24 +45567,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "bPOZPpbXzXs",
-      "title": "Rehman Baba Express Accident: Cause Revealed in Initial Investigation Report | Breaking News | Dawn",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-14",
-      "published": "2026-10-14T09:20:26Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 131,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/bPOZPpbXzXs/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "sEDqsZav18k",
       "title": "Zuban O Quran | Program 20 | PTV Home |",
       "channel": "PTV Home",
@@ -45510,42 +45600,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/lIW02k1odh0/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "J8_fjxAynAg",
-      "title": "Sindh CM Murad Ali Shah’s China Visit | Breaking News | Dawn News",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-14",
-      "published": "2026-10-14T09:10:11Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 115,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/J8_fjxAynAg/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "vm7VXcIZ5A0",
-      "title": "Basant Returning to Lahore | Strict Guidelines Issued for Kite Makers and Sellers | Dawn News",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-14",
-      "published": "2026-10-14T09:04:04Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 195,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/vm7VXcIZ5A0/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -45747,24 +45801,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "T1ESVlreIEg",
-      "title": "Bilawal Bhutto Says Ready For Talks With Opposition Even Today | Dawn News",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-14",
-      "published": "2026-10-14T08:40:07Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 1348,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/T1ESVlreIEg/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "7i2QmffjSHo",
       "title": "Zuban O Quran | Program 13 | PTV Home |",
       "channel": "PTV Home",
@@ -45780,24 +45816,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/7i2QmffjSHo/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "m4Xe-gGLIOs",
-      "title": "KP Emergency Imposition Is Constitutional | Azam Nazeer Tarar’s Key Statement | Dawn News",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-14",
-      "published": "2026-10-14T08:30:19Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 1442,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/m4Xe-gGLIOs/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -45834,24 +45852,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/aUFCxWjOgcI/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "caGx6666utw",
-      "title": "LPG Mafia Uncontrolled in Lahore | Gas Sold at Rs. 450 Instead of Official Rate? | Dawn News",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-14",
-      "published": "2026-10-14T08:00:38Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 303,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/caGx6666utw/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79569,6 +79569,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Imran Riaz Khan: channel unavailable",
+  "lastError": "Junaid Akram: channel unavailable; Express News: channel unavailable; Asad Toor: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }

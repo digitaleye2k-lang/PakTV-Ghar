@@ -1,94 +1,10 @@
 {
-  "hum-khushi": {
-    "episodes": [
-      {
-        "title": "Khushi - Episode 36 - [Eng Sub] 18th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 36,
-        "id": "ZyTelm5JH4w",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-10-18"
-      },
-      {
-        "id": "AWHP5v_r5NI",
-        "title": "Khushi - Episode 33 - [ENG SUB] 15th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 33,
-        "date": "2026-10-15",
-        "published": "2026-10-15T15:00:23Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/AWHP5v_r5NI/hqdefault.jpg",
-        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
-      },
-      {
-        "id": "cHKT6woUT0Y",
-        "title": "Khushi - Episode 30 - [Eng Sub] 12th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 30,
-        "date": "2026-10-12",
-        "published": "2026-10-12T15:00:05Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": false,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/cHKT6woUT0Y/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      },
-      {
-        "id": "4qgcZlaUMX4",
-        "title": "Khushi - Episode 29 Highlight - 12th Oct 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
-        "episode": 29,
-        "date": "2026-10-12",
-        "published": "2026-10-12T12:00:34Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/4qgcZlaUMX4/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      },
-      {
-        "id": "-7COdwR1U9Y",
-        "title": "Khushi - Episode 29 - [Eng Sub] 11th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 29,
-        "date": "2026-10-11",
-        "published": "2026-10-11T15:00:20Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/-7COdwR1U9Y/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      }
-    ]
-  },
   "hum-mohabbat-mukhtasir": {
     "episodes": [
       {
         "title": "Mohabbat Mukhtasir - Episode 04 - [Eng Sub] 18th Oct 2026 - [ Usama Khan & Madiha Imam ] HUM TV",
         "episode": 4,
         "id": "eynUsCjZli8",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-10-18"
-      },
-      {
-        "title": "Mohabbat Mukhtasir - Flashback Episode 03 - Oct 2026 - [ Usama Khan & Madiha Imam ] HUM TV",
-        "episode": 3,
-        "id": "xworgfAK5A0",
         "source": "HUM TV",
         "kind": "youtube",
         "date": "2026-10-18"
@@ -123,39 +39,31 @@
       }
     ]
   },
-  "arydigital-izzat": {
+  "arydigital-rutba": {
     "episodes": [
       {
-        "title": "Izzat Episode 29 | 18 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 29,
-        "id": "wgOwV7Xcwj4",
+        "title": "Rutba EP 2 | BEST SCENE  | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat",
+        "episode": 2,
+        "id": "RjBZIbe66cA",
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-10-18"
       },
       {
-        "title": "Izzat Episode 29 | 18 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 29,
-        "id": "Mf-8njYlB54",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-18"
-      },
-      {
-        "id": "2S5_eQI24A0",
-        "title": "Izzat Episode 26 | 15 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 26,
-        "date": "2026-10-15",
-        "published": "2026-10-15T15:00:37Z",
+        "id": "QpzPYN2DuEg",
+        "title": "Rutba EP 2 | 12 Oct 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ENG SUB",
+        "episode": 2,
+        "date": "2026-10-12",
+        "published": "2026-10-12T16:00:08Z",
         "source": "ARY Digital",
         "channelId": "arydigital",
         "sourceType": "youtube_api",
         "kind": "youtube",
         "embeddable": true,
         "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/2S5_eQI24A0/hqdefault.jpg",
-        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/QpzPYN2DuEg/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
       }
     ]
   },
@@ -187,16 +95,208 @@
       }
     ]
   },
-  "harpalgeo-uswa": {
+  "harpalgeo-nashtar": {
     "episodes": [
       {
-        "title": "Uswah Episode 26 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 18th October 2026",
-        "episode": 26,
-        "id": "Yj7EilD0eAc",
+        "title": "Nashtar Episode 21 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
+        "episode": 21,
+        "id": "5vlp0YFzoRc",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-18"
       },
+      {
+        "title": "Recap Nashtar Episode 20 - 18th October 2026 - Har Pal Geo",
+        "episode": 20,
+        "id": "0T4kATNbijc",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-18"
+      },
+      {
+        "id": "ZsWUGhmQ0bU",
+        "title": "Nashtar Episode 18 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
+        "episode": 18,
+        "date": "2026-10-11",
+        "published": "2026-10-11T16:00:27Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ZsWUGhmQ0bU/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
+      }
+    ]
+  },
+  "harpalgeo-bano": {
+    "episodes": [
+      {
+        "title": "Bano Episode 06 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 18th October 2026 | HAR PAL GEO",
+        "episode": 6,
+        "id": "sXmAcHcL0eA",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-18"
+      },
+      {
+        "id": "WVihbN5h0Pw",
+        "title": "Bano Episode 03 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 3,
+        "date": "2026-10-15",
+        "published": "2026-10-15T23:00:24Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/WVihbN5h0Pw/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+      },
+      {
+        "id": "KttBb-ESUuk",
+        "title": "Bano Episode 03 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 3,
+        "date": "2026-10-15",
+        "published": "2026-10-15T22:00:11Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/KttBb-ESUuk/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+      },
+      {
+        "id": "xuW3EY5v0ks",
+        "title": "Bano Episode 03 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 15th October 2026 | HAR PAL GEO",
+        "episode": 3,
+        "date": "2026-10-15",
+        "published": "2026-10-15T17:00:12Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/xuW3EY5v0ks/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+      }
+    ]
+  },
+  "geonews-hasna-mana-hai": {
+    "episodes": [
+      {
+        "title": "Nimra's brother did Hilarious scene with Guests!😂 | Hasna Mana Hai - Tabish Hashmi - Geo News",
+        "episode": null,
+        "id": "jpd9k8btgCU",
+        "source": "Geo News",
+        "kind": "youtube",
+        "date": "2026-10-18"
+      }
+    ]
+  },
+  "geonews-naya-pakistan": {
+    "episodes": [
+      {
+        "title": "Trump makes U-turn on Russia policy | Naya Pakistan | Shahzad Iqbal",
+        "episode": null,
+        "id": "q6SkU9-nkn4",
+        "source": "Geo News",
+        "kind": "youtube",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "Failure of the long march caused a split in the PTI | Sohail Afridi future | Naya Pakistan",
+        "episode": null,
+        "id": "dOOwniUdR4o",
+        "source": "Geo News",
+        "kind": "youtube",
+        "date": "2026-10-18"
+      }
+    ]
+  },
+  "harpalgeo-kaisa-yeh-ishq": {
+    "episodes": [
+      {
+        "id": "0Yif1LS-bT4",
+        "title": "Kaisa Yeh Ishq Last Episode 62 [Eng Sub] Zoha Tauqeer - Hashaam Khan | 12th Oct 2026 | HAR PAL GEO",
+        "episode": 62,
+        "date": "2026-10-12",
+        "published": "2026-10-12T17:00:05Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/0Yif1LS-bT4/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+      },
+      {
+        "id": "OgVDeLaWZwU",
+        "title": "Kaisa Yeh Ishq 2nd Last Episode 61 [Eng Sub] Zoha Tauqeer - Hashaam Khan | 11th October 2026",
+        "episode": 61,
+        "date": "2026-10-11",
+        "published": "2026-10-11T17:00:19Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/OgVDeLaWZwU/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:20:21.512502+00:00"
+      },
+      {
+        "id": "-OSZ6BfKy8c",
+        "title": "Kaisa Yeh Ishq Episode 60 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Zoha Tauqeer - Hashaam Khan | HAR PAL GEO",
+        "episode": 60,
+        "date": "2026-10-11",
+        "published": "2026-10-11T12:00:09Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/-OSZ6BfKy8c/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:20:21.512502+00:00"
+      }
+    ]
+  },
+  "harpalgeo-mohabbat": {
+    "episodes": [
+      {
+        "id": "Kc6JezV_1oY",
+        "title": "Mohabbat Episode 05 [Eng Sub] Feroze Khan - Nawal Saeed | 12th October 2026 - HAR PAL GEO",
+        "episode": 5,
+        "date": "2026-10-12",
+        "published": "2026-10-12T16:00:28Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Kc6JezV_1oY/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
+      }
+    ]
+  },
+  "harpalgeo-uswa": {
+    "episodes": [
       {
         "id": "FE34Wg7lDVE",
         "title": "Uswah Episode 23 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 15th October 2026",
@@ -343,226 +443,6 @@
       }
     ]
   },
-  "harpalgeo-nashtar": {
-    "episodes": [
-      {
-        "title": "Nashtar Episode 21 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
-        "episode": 21,
-        "id": "5vlp0YFzoRc",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-18"
-      },
-      {
-        "title": "Recap Nashtar Episode 20 - 18th October 2026 - Har Pal Geo",
-        "episode": 20,
-        "id": "0T4kATNbijc",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-18"
-      },
-      {
-        "id": "ZsWUGhmQ0bU",
-        "title": "Nashtar Episode 18 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
-        "episode": 18,
-        "date": "2026-10-11",
-        "published": "2026-10-11T16:00:27Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ZsWUGhmQ0bU/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
-      }
-    ]
-  },
-  "harpalgeo-bano": {
-    "episodes": [
-      {
-        "title": "Bano Episode 06 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 18th October 2026 | HAR PAL GEO",
-        "episode": 6,
-        "id": "sXmAcHcL0eA",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-18"
-      },
-      {
-        "id": "WVihbN5h0Pw",
-        "title": "Bano Episode 03 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 3,
-        "date": "2026-10-15",
-        "published": "2026-10-15T23:00:24Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/WVihbN5h0Pw/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
-      },
-      {
-        "id": "KttBb-ESUuk",
-        "title": "Bano Episode 03 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 3,
-        "date": "2026-10-15",
-        "published": "2026-10-15T22:00:11Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/KttBb-ESUuk/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
-      },
-      {
-        "id": "xuW3EY5v0ks",
-        "title": "Bano Episode 03 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 15th October 2026 | HAR PAL GEO",
-        "episode": 3,
-        "date": "2026-10-15",
-        "published": "2026-10-15T17:00:12Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/xuW3EY5v0ks/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
-      }
-    ]
-  },
-  "geonews-hasna-mana-hai": {
-    "episodes": [
-      {
-        "title": "Nimra's brother did Hilarious scene with Guests!😂 | Hasna Mana Hai - Tabish Hashmi - Geo News",
-        "episode": null,
-        "id": "jpd9k8btgCU",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-18"
-      }
-    ]
-  },
-  "geonews-naya-pakistan": {
-    "episodes": [
-      {
-        "title": "Trump makes U-turn on Russia policy | Naya Pakistan | Shahzad Iqbal",
-        "episode": null,
-        "id": "q6SkU9-nkn4",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-18"
-      },
-      {
-        "title": "Failure of the long march caused a split in the PTI | Sohail Afridi future | Naya Pakistan",
-        "episode": null,
-        "id": "dOOwniUdR4o",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-18"
-      }
-    ]
-  },
-  "arydigital-rutba": {
-    "episodes": [
-      {
-        "id": "QpzPYN2DuEg",
-        "title": "Rutba EP 2 | 12 Oct 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ENG SUB",
-        "episode": 2,
-        "date": "2026-10-12",
-        "published": "2026-10-12T16:00:08Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/QpzPYN2DuEg/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
-      }
-    ]
-  },
-  "harpalgeo-kaisa-yeh-ishq": {
-    "episodes": [
-      {
-        "id": "0Yif1LS-bT4",
-        "title": "Kaisa Yeh Ishq Last Episode 62 [Eng Sub] Zoha Tauqeer - Hashaam Khan | 12th Oct 2026 | HAR PAL GEO",
-        "episode": 62,
-        "date": "2026-10-12",
-        "published": "2026-10-12T17:00:05Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/0Yif1LS-bT4/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
-      },
-      {
-        "id": "OgVDeLaWZwU",
-        "title": "Kaisa Yeh Ishq 2nd Last Episode 61 [Eng Sub] Zoha Tauqeer - Hashaam Khan | 11th October 2026",
-        "episode": 61,
-        "date": "2026-10-11",
-        "published": "2026-10-11T17:00:19Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/OgVDeLaWZwU/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:20:21.512502+00:00"
-      },
-      {
-        "id": "-OSZ6BfKy8c",
-        "title": "Kaisa Yeh Ishq Episode 60 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Zoha Tauqeer - Hashaam Khan | HAR PAL GEO",
-        "episode": 60,
-        "date": "2026-10-11",
-        "published": "2026-10-11T12:00:09Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/-OSZ6BfKy8c/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:20:21.512502+00:00"
-      }
-    ]
-  },
-  "harpalgeo-mohabbat": {
-    "episodes": [
-      {
-        "id": "Kc6JezV_1oY",
-        "title": "Mohabbat Episode 05 [Eng Sub] Feroze Khan - Nawal Saeed | 12th October 2026 - HAR PAL GEO",
-        "episode": 5,
-        "date": "2026-10-12",
-        "published": "2026-10-12T16:00:28Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": false,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Kc6JezV_1oY/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
-      }
-    ]
-  },
   "hum-aangan": {
     "episodes": [
       {
@@ -635,6 +515,74 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/bNfLroyIbUY/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
+      }
+    ]
+  },
+  "hum-khushi": {
+    "episodes": [
+      {
+        "id": "AWHP5v_r5NI",
+        "title": "Khushi - Episode 33 - [ENG SUB] 15th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 33,
+        "date": "2026-10-15",
+        "published": "2026-10-15T15:00:23Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/AWHP5v_r5NI/hqdefault.jpg",
+        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
+      },
+      {
+        "id": "cHKT6woUT0Y",
+        "title": "Khushi - Episode 30 - [Eng Sub] 12th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 30,
+        "date": "2026-10-12",
+        "published": "2026-10-12T15:00:05Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/cHKT6woUT0Y/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
+      },
+      {
+        "id": "4qgcZlaUMX4",
+        "title": "Khushi - Episode 29 Highlight - 12th Oct 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
+        "episode": 29,
+        "date": "2026-10-12",
+        "published": "2026-10-12T12:00:34Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/4qgcZlaUMX4/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
+      },
+      {
+        "id": "-7COdwR1U9Y",
+        "title": "Khushi - Episode 29 - [Eng Sub] 11th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 29,
+        "date": "2026-10-11",
+        "published": "2026-10-11T15:00:20Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/-7COdwR1U9Y/hqdefault.jpg",
         "checkedAt": "2026-10-12T17:30:35.039122+00:00"
       }
     ]
@@ -31455,6 +31403,26 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/AGEGDHZ2bBc/hqdefault.jpg",
+        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
+      }
+    ]
+  },
+  "arydigital-izzat": {
+    "episodes": [
+      {
+        "id": "2S5_eQI24A0",
+        "title": "Izzat Episode 26 | 15 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 26,
+        "date": "2026-10-15",
+        "published": "2026-10-15T15:00:37Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/2S5_eQI24A0/hqdefault.jpg",
         "checkedAt": "2026-10-15T21:49:22.372994+00:00"
       }
     ]
