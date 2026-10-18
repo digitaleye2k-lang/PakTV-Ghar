@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-10-18T17:02:15.292433Z",
+  "generatedAt": "2026-10-18T17:08:16.393225Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-18T17:02:15.292433Z",
+      "updatedAt": "2026-10-18T17:08:16.393225Z",
       "source": "Google News RSS",
       "items": [
+        {
+          "title": "Maldivian President Muizzu’s Pakistan State Visit to Focus on Bilateral Cooperation - South Asian Herald",
+          "source": "South Asian Herald",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdXVuOFdIa2tqZjdSb1p2TG12RzRqdHlJcHZXbGlLeXhlbEpXYmdpSGpERVRwaTVRTHJjaWotSGhmUWdVSjQ2YjU4bkMxVC1QbkdqSTR4bGtVOEVlak1LeUVCRkYxdXlDNWI0OWo2ak1CYUpvNW5ZTVNtMmlzYmJrQ0Noc0xadDQzaHhkNHRjOVNnckl3QUVWeFlydXBoZzZONDFLM0FyYkd4aWlBS0xaV1NR?oc=5",
+          "published": "2026-10-18T16:57:24Z"
+        },
         {
           "title": "Pakistan vs Sri Lanka: Salman Agha ton sets up Pakistan's win in tri-series opener - Cricbuzz",
           "source": "Cricbuzz",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdW9IWk1rRWtVR1lxUHMwNndqRjNDMTJPWTBHeTZ2QURtV1dwa1F5WjJDSGVSVHAtUUVRenR6S0FZSHNyeFNVbEVZdy03NzdhZlNlaUdrX0xrQ0hnZVJNbGtnLWxuQWw4REZfYjIya3JLUG8tTnVXRTRpWXk0anpqdnotaTBOY0FpbmlDODhzVEk4WmFHUEEwOWVXRnFveGxkZGEzQ1ln?oc=5",
           "published": "2026-10-18T16:51:55Z"
+        },
+        {
+          "title": "PM Shehbaz stresses equal opportunities in education to realize Quaid's vision - The Express Tribune",
+          "source": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUXFDN0NBdG1kTDBQOGVyWW1FN21mbDViX2V2eUlrNGpVQ2Y1Tmh1ODJsSmtQeVlNMnpUTE1LUFBuTXdacFVNSklKVXhIcTBFZERBQlpiWTk5Q2dKUWZKYURhRUNHUXVCVmhEOFhTRDdidm1VVVpCQXAxTjVlVzJMVHp1aG5XY2JDeE43N3B1VGk5MGxlZXJKaGtkUFJVeUJtX0hXN1RBWGUtYWNaZTdTQWZJSkrSAbwBQVVfeXFMTmd4V0FFbmppU05ZbnJJRG9BVXdtTmFDekUtTy1KY3Z2ZktqTnBtUFkxQTJwSGFJWVZ4VWlaSTB1NWw5dVBKRkYxdXdYVEtFTXJQcTZwOW1od3N4SE9WemI1U1dCcGR0TkQ2S29iTU53LUh4OWlfY3lQX2xNdGdBWER1UEZBSXpMLVViOHJuVUVUbjZZZGJMYnV1enQxZVBBZG9jLWdnZjlNVXBaTzBKdWtZdl8tcVVqOTBPaWk?oc=5",
+          "published": "2026-10-18T16:42:32Z"
         },
         {
           "title": "Pakistan ODI Tri-Series: Salman Agha Smashes 107 as Pakistan beat Sri Lanka by 37 runs in opening ODI - Cricket World",
@@ -46,23 +58,11 @@
           "source": "The Times of India",
           "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQYTZZXzRCOGVZcGg1RG9hM1AzWlY1dzB0cDJFaHRMNVZ4R1BEY0pRaS0xeGlTVWdOUTIwWEZkTGdQalhUcVE2N05CRlVyTGpkYzFmNmtqb1pGNU5YZXhUVFJrVnlWOExnR01pbkZ1Z21hZElKNTZjSTcwclJzVnNZMGh5X2xsY2xDOGM4bmRBeS0xeVVKVmNhcGJEdE5MN1VNaUgwNHVwSVFNMk1neUFzdTVvdUllOUtIaW1KQnl5bDBpM0dub3ZvcXdLZktlWlRMQjBPQVBoX19XQ0FZRmIxdTNOLVd6RW9rbm5Wal8tbURrM2VDTDNwSWE3dFFzNjRlYkNaRGFwMVAyQU3SAZACQVVfeXFMTWVPR3RINV92X2trYTQ4UU13Wk92T1ZUUVZreXZJRVVaS2NkdjFVSE5MS19LWjlsQW9tdmZ4b3pXRXhGSFNodk45VmpDOXVyU3RmNGtJelVlYmdyYzdfd2tvV0dCSjJ6UDNjVUV1WGFiUWljVDlVSElxVmFmaUktanJVZ0xDYmljOXNDS2N4UTZMeHh5NmlzbzdzTzdWTGpKZ2lMUjJ5TUJxUnlkMF9HeTVJenhWdEVyaGd0R2lNc3FBUVFQUGJLSDVyRGpvRWh2NFBob2J2LWREYWU1dHJ5VGl3R3BwejV2NTdzX3k2RFFhTU16c2trYzFvNGVNV2FpUTJ1NkgxYlhlR0NwM2E4V0Y?oc=5",
           "published": "2026-10-18T15:38:00Z"
-        },
-        {
-          "title": "Pakistani forces kill 8 militants in Balochistan, raid hideouts as abductions rise - The Times of India",
-          "source": "The Times of India",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZFkxZjMteFZHMzdta0taYXdNWTU1T3Zpb1lYencwMHAwcGdVOTlnejdJVHlfUTB3czdkR1dhblRUMHphTmNtMnJLalRLUjhMWHBITHFfRWJLLTQyS1pJQlJ4Z1hrZDRRR3doQ3hDZExKdlFkMmRjcTVUNXRMbl8ydk8tNnNsd2E0bDh2aEliQjdDOFViZ2QwVEdlSHV6RFFSM1BhMl81U2N4NWV3Vml2V3E4bDdHRzFpeXRscmozNGQwUEtVQTE3NFZ4ODFmSmFUb0cxQVhtOXNkZjVvVHVUYks1SVpSQmp5a0dqRkxvNNIB9AFBVV95cUxNVUNEZ0pfeGxwY0Z2ZHdRNHFjTjkxTGd4R183dGtZYUdxeVdUbHFmQm5zdkhrM0JPQldXcmVjRnJNd2ZzX2FRblcxbHI0MEk2aEQwT2NLMjRpaWRJMGtBeGkzNk43bVdBOVpfanQwdkpVV0pDTXpmZXFoekdSaG83OW43UkJQNkctY1c4bUNSWnhFTTB5SDV5T2lWejRjdHI0MzkzamtybFZyRDFJcUIwUVJkN0daYU1OYlBlSDFtTmlaR2pfamUyYXN4RGxZTWpDaTQyY3piMzZDWmd0LVhxNTFQMS1zQl9VV0hMblladjR5d3pU?oc=5",
-          "published": "2026-10-18T15:38:00Z"
-        },
-        {
-          "title": "First Pakistani astronaut to embark on space mission from China on Nov. 25— minister - Arab News PK",
-          "source": "Arab News PK",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ2JmWlRjRTBwWG1mWXd4V1RYcDZyY2ctN1lISm82MG9SamFOZVBDa3JrMDJIZDRPVlR6aDNrT0F5U1R3LWJrN0VLQjlxRmZ5Rzl4eFR1QTlFdzRBRjV6d3QtbUx1VWJuVlg1Z3R6SXU3Ml9yNHpMWXNlTndmd1FZZUZWSXJXUFpiR2xNa0N5REtyb1lQRXRsOUNwdWZEYjlueGpkOVhGOVZILXBCSU1CczlIZGFjTVdJODRiaXlnMk0?oc=5",
-          "published": "2026-10-18T15:27:59Z"
         }
       ]
     },
     "world": {
-      "updatedAt": "2026-10-18T17:02:15.292433Z",
+      "updatedAt": "2026-10-18T17:08:16.393225Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -70,12 +70,6 @@
           "source": "USA Today",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTWE0cDdXbVU5XzdYSXFaMVNzTXZ2TC1KNndlSGFvcm5NamthVGFwb1ptSTVwTHNKd1drWmJsRHRMT2lYS0JpV0hSUVFpZVNSUDlmWGhrUUZwRjhaQzVuM2NhVVJlcDNYcU1NYUpTNmF1MFVfdmN5cXdDam1KNzNKaloySXBOM1hzSjk1OXpaWlRLOVlRdk1wLXU3NWN2eHUwZlRNaU5FRmxMTXNBQzdrSGdR?oc=5",
           "published": "2026-10-18T16:23:00Z"
-        },
-        {
-          "title": "Trump endorses Israeli Prime Minister Benjamin Netanyahu ahead of reelection bid - CBS News",
-          "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd3FmdVp6cU1aX2NDajdPdVFvdzBVMVhoWUl0NjhteWJkVHJxaExfQW5UcnB3V2RsRUc5c01nUVpTSHN4OENubkxsd3BYeVhnaGJDQURFOGhKZl9DNU1xeFNFd0tyRjZfdHNia3p6UXBXSUV6azFfWDNVTUNYQkFyNnVZcUdDRkFMNHhvMjFPMG5LOFo5M0huX0FVOTI?oc=5",
-          "published": "2026-10-18T16:04:31Z"
         },
         {
           "title": "Elizabeth Holmes Film Opens to Over 2,000 Sold-Out Shows - The New York Times",
@@ -88,6 +82,12 @@
           "source": "NBC Sports",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNTlsOEFNMHdyODBBdmt4V1NJamltYU1URnk3R3lsY0FvZ1cwY2lRV0x6NzBhcU8tZ2w5RVc3U1BEd01lSGxSUmE0cTN4T3RPOTR6RTZrWTJNaHNCQkdGNzhZLVVzMEtpUWIwWEkwYU45bnlmV0o3a2o0OThEMkRwc1RpMHgtZG5jTGZLWFFOQVp3VnhQUEdHc3F1cmk4SGF5dC1STlZmNkM5dXYzdWVtSF9zMUhQSVUwT1E?oc=5",
           "published": "2026-10-18T15:45:00Z"
+        },
+        {
+          "title": "Trump endorses Netanyahu 9 days before Israel election - Axios",
+          "source": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmlUNWVNcFlkMnV4NmR2TWhvS1daNVlab2RvY0FCQU5DU2pwSGtWMEJpcFNRY0FESFlmSThHbzljaE5ZVndfOFRfZE1kZG1taGtiS3hTMnNPNzRrTm16dEtXLWEwcE1LMUF0TjRjNThwR2dCbm02cFJjdWZWSjlGU2RvQzE?oc=5",
+          "published": "2026-10-18T15:07:10Z"
         },
         {
           "title": "Apple Reveals iPhone Duo's Battery Capacity - MacRumors",
@@ -123,7 +123,7 @@
     }
   },
   "weather": {
-    "updatedAt": "2026-10-18T17:02:15.292433Z",
+    "updatedAt": "2026-10-18T17:08:16.393225Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -162,7 +162,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-18T17:02:15.292433Z",
+    "updatedAt": "2026-10-18T17:08:16.393225Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
