@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-18T17:08:16.393225Z",
+  "generatedAt": "2026-10-18T17:09:15.321155Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-18T17:08:16.393225Z",
+      "updatedAt": "2026-10-18T17:09:15.321155Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -36,6 +36,12 @@
           "published": "2026-10-18T16:33:00Z"
         },
         {
+          "title": "PAK vs SL, 1st Match, Pakistan ODI Tri-Series, 2026 - Commentary - Cricbuzz",
+          "source": "Cricbuzz",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRklLaG42aTlXamtURGNKV2hHcGtqWUExR3QzcVpzZG1BQ2ZhMkc3UGxSckcyNnVDeGRUY1BxMm12Q19uUHNEVUg1cEFDbm9ZbENQQS1GVXVFX2VwZlg4Y3FZZGkwMUpjU19hTUo3VWd1bWpKZVN5U1lYQ0ExVFQ0TC14Y1BsS0JrQUpYcTJsMS1MNU1tV29SNFcwWXpJWHk4c1E?oc=5",
+          "published": "2026-10-18T16:30:42Z"
+        },
+        {
           "title": "Pakistan, Egypt condemn Houthi attacks, reaffirm solidarity with Saudi Arabia - Yeni Şafak English",
           "source": "Yeni Şafak English",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdTRGV200dGZpX1BudGJlWjl4N2U4cmNsampsZWQ2X3VCSTBUSmtDRnIzMEVvVTB0UWlaNFh4Z0ZRN0xmdnZtdzlyNTREWlQ4UkJvWHFVSmduLTZRQ0hGaVkzN2hXSU1zRzVkREtiZUdtT2F1OG93dV9vVFNtQXlGVHVYMkZQVEtqWGlpZnZVWUpJeUgtcllVQjNmX2lwMHFpSUtORUZ1RVV0VFJzbUpWUXJtXzg?oc=5",
@@ -52,17 +58,11 @@
           "source": "| Associated Press Of Pakistan",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU3p5TzhuRWhNcDM5aEItMkl1aHAyOTh6cGJrUmVWWGxXdVA4VEMxRnNXc3h5RnZ6NHFTOEFPUzJMOW9uOXotaXBKSVlaSXJOR0l4dERqOTI2UW5fM2paT2t1Z0szckNxS3M5MlhhaWMyeVpFdXZjcU5ubXNGMnFLUW5jT1JsQmIzd0ZQTXdn?oc=5",
           "published": "2026-10-18T15:51:04Z"
-        },
-        {
-          "title": "Pakistan’s decades of backing terror comes full circle as Khyber Pakhtunkhwa falls under emergency rule - The Times of India",
-          "source": "The Times of India",
-          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQYTZZXzRCOGVZcGg1RG9hM1AzWlY1dzB0cDJFaHRMNVZ4R1BEY0pRaS0xeGlTVWdOUTIwWEZkTGdQalhUcVE2N05CRlVyTGpkYzFmNmtqb1pGNU5YZXhUVFJrVnlWOExnR01pbkZ1Z21hZElKNTZjSTcwclJzVnNZMGh5X2xsY2xDOGM4bmRBeS0xeVVKVmNhcGJEdE5MN1VNaUgwNHVwSVFNMk1neUFzdTVvdUllOUtIaW1KQnl5bDBpM0dub3ZvcXdLZktlWlRMQjBPQVBoX19XQ0FZRmIxdTNOLVd6RW9rbm5Wal8tbURrM2VDTDNwSWE3dFFzNjRlYkNaRGFwMVAyQU3SAZACQVVfeXFMTWVPR3RINV92X2trYTQ4UU13Wk92T1ZUUVZreXZJRVVaS2NkdjFVSE5MS19LWjlsQW9tdmZ4b3pXRXhGSFNodk45VmpDOXVyU3RmNGtJelVlYmdyYzdfd2tvV0dCSjJ6UDNjVUV1WGFiUWljVDlVSElxVmFmaUktanJVZ0xDYmljOXNDS2N4UTZMeHh5NmlzbzdzTzdWTGpKZ2lMUjJ5TUJxUnlkMF9HeTVJenhWdEVyaGd0R2lNc3FBUVFQUGJLSDVyRGpvRWh2NFBob2J2LWREYWU1dHJ5VGl3R3BwejV2NTdzX3k2RFFhTU16c2trYzFvNGVNV2FpUTJ1NkgxYlhlR0NwM2E4V0Y?oc=5",
-          "published": "2026-10-18T15:38:00Z"
         }
       ]
     },
     "world": {
-      "updatedAt": "2026-10-18T17:08:16.393225Z",
+      "updatedAt": "2026-10-18T17:09:15.321155Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -72,16 +72,16 @@
           "published": "2026-10-18T16:23:00Z"
         },
         {
+          "title": "Caleb Williams officially active for the Bears on Sunday - NBC Sports",
+          "source": "NBC Sports",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNTlsOEFNMHdyODBBdmt4V1NJamltYU1URnk3R3lsY0FvZ1cwY2lRV0x6NzBhcU8tZ2w5RVc3U1BEd01lSGxSUmE0cTN4T3RPOTR6RTZrWTJNaHNCQkdGNzhZLVVzMEtpUWIwWEkwYU45bnlmV0o3a2o0OThEMkRwc1RpMHgtZG5jTGZLWFFOQVp3VnhQUEdHc3F1cmk4SGF5dC1STlZmNkM5dXYzdWVtSF9zMUhQSVUwT1E?oc=5",
+          "published": "2026-10-18T15:53:39Z"
+        },
+        {
           "title": "Elizabeth Holmes Film Opens to Over 2,000 Sold-Out Shows - The New York Times",
           "source": "The New York Times",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2Y2TlI4ZG1BWW5tQi00ZmMzNUZGaHJuaHhqRThzaU5LcG0wYWJaUlk0MzJ3OGpBdDlkN0lrX25PVXl6andKZm54aERjWHpCRXk1eXQwcEM5ejRDYUxJdVl3SlhMdVUzZVhxYXlaTkFUZ3ljMEtyRFFsRjNNMUlrQWNBd3pndTZOOVdJSmtCM0tvanZp?oc=5",
           "published": "2026-10-18T15:45:49Z"
-        },
-        {
-          "title": "Caleb Williams officially active for the Bears on Sunday - NBC Sports",
-          "source": "NBC Sports",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNTlsOEFNMHdyODBBdmt4V1NJamltYU1URnk3R3lsY0FvZ1cwY2lRV0x6NzBhcU8tZ2w5RVc3U1BEd01lSGxSUmE0cTN4T3RPOTR6RTZrWTJNaHNCQkdGNzhZLVVzMEtpUWIwWEkwYU45bnlmV0o3a2o0OThEMkRwc1RpMHgtZG5jTGZLWFFOQVp3VnhQUEdHc3F1cmk4SGF5dC1STlZmNkM5dXYzdWVtSF9zMUhQSVUwT1E?oc=5",
-          "published": "2026-10-18T15:45:00Z"
         },
         {
           "title": "Trump endorses Netanyahu 9 days before Israel election - Axios",
@@ -102,28 +102,28 @@
           "published": "2026-10-18T15:01:16Z"
         },
         {
-          "title": "2026 Midterm Elections: Trump Rallies Republicans - Fox News",
-          "source": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObm9FYWtTdVB6dUxkVDlaY0c1NFd2X21QaDNVRVZ2UUp3X0NkQTh5YTZPYW1qR19obGEzdWFENjNnWno4WVFlRjdxbW9nSG1pMFBRQlRBOUJ2QS13TnhLM0VEdXZZcEgzcGZMSzRIb2pSNWVibVhuOHRoNjRrWTNSeFhVV3ZGMEVfdVN2R2xqNFprbkFYTkd6UWE1NA?oc=5",
-          "published": "2026-10-18T14:39:18Z"
-        },
-        {
           "title": "Pope Leo tells faithful in St. Peter's Square he will gradually resume duties after cancer surgery - AP News",
           "source": "AP News",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGxoemZ1SU5mT0NtVU56WWxPclZWWXZ3Vlc2TkpJOVlIaUw5T3luaDlkVVE0YlJqOXRTUmJ5anI3eHdqTEdJemtKRGtxUmNaN2U3Z21CWUQ0UEVLSUdZX3UtZVlFRzBQSHZmTWRQTFJtWmNrcHg2NDkxX1RBRy1BVkRMZEtnU3BfR0dYSWk3M01RZlowenZCT0QwZw?oc=5",
           "published": "2026-10-18T14:36:00Z"
         },
         {
-          "title": "Eric Dane Daughter Saved Him from Drowning During ALS Battle, Revealed in Posthumous Book - TMZ",
-          "source": "TMZ",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZlRzLWFqeENvVFBtc05ZYmdFeWhveWlOWFVnVjJBSzhRbmRnMW1OeDRJZy1SeDFNY0RuQUNzV09jdVlwS3dpNUx2eEJ4d2htcTQyaUdqbG52QzYxZElwQ0M3RnV5czdKdzF1aFFWVzdaa0hRdXRIbEdlSHlkQTI2U09n?oc=5",
-          "published": "2026-10-18T14:35:37Z"
+          "title": "Mark Gurman: Apple Made 'Major Mistake' With iPhone Duo Pre-Orders - MacRumors",
+          "source": "MacRumors",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQXy12Z19Ua3JWOXpwdmtMWFdaaElhUVZMR2xZZGJrc2JsRmJKVGVHbFRfSXdrSHNNWDg2Q1pJTlpQNC1qNlZ3UE9Rb2o5MDNNY1dQSHFKdTZRdE9FMDc0VW5QN29MNXFueEdqbk9HcV93N2NfaHFmcHVBbVVzN2ctNDlUemVvYmN1VXFOZg?oc=5",
+          "published": "2026-10-18T14:33:37Z"
+        },
+        {
+          "title": "Zelenskyy: Not right to 'compare me and Putin' - Politico",
+          "source": "Politico",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUzh4TFc4UkUweDIwb05YNWJZY1pQeEoxUUQ0b3NZTm93TFdIQTNZbnhyR3ZDaW9jbXVVak40N182S201NnNON0VGR0xnYlFrOUctZDAxd2dWRk1NN19oT3hQMEdmc2Z5WTU0UnNvMGZmNGxtTVJQd1N6LXFFRXppTUFObzdXYV9FT3c?oc=5",
+          "published": "2026-10-18T14:31:00Z"
         }
       ]
     }
   },
   "weather": {
-    "updatedAt": "2026-10-18T17:08:16.393225Z",
+    "updatedAt": "2026-10-18T17:09:15.321155Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -162,7 +162,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-18T17:08:16.393225Z",
+    "updatedAt": "2026-10-18T17:09:15.321155Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
