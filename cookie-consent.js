@@ -35,6 +35,9 @@
       frame.className="privacy-ad-frame";
       frame.setAttribute("scrolling","no");
       frame.referrerPolicy="strict-origin-when-cross-origin";
+      // Chat and contact forms must never be readable from advertiser scripts.
+      if(document.body?.dataset?.paktvBannerOnly==="yes")
+        frame.setAttribute("sandbox","allow-scripts allow-popups");
       frame.style.width="468px";
       frame.style.height="68px";
       frame.style.border="0";
@@ -44,7 +47,7 @@
       frame.src="./ad-banner.html";
       bannerSlot.appendChild(frame);
     }
-    if(nativeSection && nativeSlot){
+    if(nativeSection && nativeSlot && document.body?.dataset?.paktvBannerOnly!=="yes"){
       nativeSection.hidden=false;
       nativeSlot.replaceChildren();
       // Native ads target this exact container ID; it must exist before
@@ -181,8 +184,9 @@
     document.querySelectorAll("[data-privacy-settings]").forEach(x=>x.addEventListener("click",open));
     if(!saved)banner.hidden=false;
     if(!GPC&&saved?.ads)loadDisplayAds();
-    if(!GPC&&saved?.extra&&document.body?.dataset?.paktvExtraAds!=="no")loadExtraAds();
-    if(!GPC&&saved?.googleAds)loadGoogleAds();
+    if(!GPC&&saved?.extra&&document.body?.dataset?.paktvExtraAds!=="no"&&
+       document.body?.dataset?.paktvBannerOnly!=="yes")loadExtraAds();
+    if(!GPC&&saved?.googleAds&&document.body?.dataset?.paktvBannerOnly!=="yes")loadGoogleAds();
   }
   if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",init,{once:true});
   else init();
