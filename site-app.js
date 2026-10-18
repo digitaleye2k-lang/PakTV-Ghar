@@ -469,7 +469,7 @@ function renderMovies(){
     (v.title+' '+v.channel).toLocaleLowerCase().includes(state.movieSearch.trim().toLocaleLowerCase()));
   const movieChannels=CHANNELS.filter(c=>c.category==='movies');
   const movieCards=candidates.slice(0,state.visibleVideos);
-  const classicPublishers=['lollywoodcinema','movieboxmovies'];
+  const classicPublishers=['lollywoodcinema','movieboxmovies','lollywoodclassics'];
   const classicFilms=all.filter(v=>classicPublishers.includes(v.channelId) ||
     /\bclassic\b|\bold\s+pakistani\s+movie\b|\blollywood\s+classic\b/i.test(v.title||''));
   const classicResults=classicFilms.filter(v=>!state.movieSearch.trim()||
@@ -750,7 +750,15 @@ function scheduleCards(limit=0){
     const show=LIBRARY.find(s=>s.id===x.showId);
     const info=show?showDetails(show):{meta:state.showMeta?.[x.showId]||{},upload:state.showMeta?.[x.showId]?.latestUpload||null};
     const sourcePoster=typeof info.meta.poster==='string'&&info.meta.poster.startsWith('https://')?info.meta.poster:'';
-    const youtubeArtwork=/^[a-zA-Z0-9_-]{11}$/.test(info.upload?.id||'')?thumb(info.upload.id):'';
+    const officialVideos=[...state.archiveVideos,...state.feed].filter(v=>{
+      if(v.channelId!==x.channelId&&v.channel!==x.channel&&show&&v.channelId!==show.network)return false;
+      const title=(v.title||'').toLocaleLowerCase().replace(/[^a-z0-9 ]/g,'');
+      const showName=(x.name||'').toLocaleLowerCase().replace(/[^a-z0-9 ]/g,'');
+      return showName.length>5&&title.includes(showName)&&/^[A-Za-z0-9_-]{11}$/.test(v.id||'');
+    });
+    const nearestOfficial=officialVideos.sort((a,b)=>(b.published||b.date||'').localeCompare(a.published||a.date||''))[0];
+    const youtubeArtwork=/^[a-zA-Z0-9_-]{11}$/.test(info.upload?.id||'')?thumb(info.upload.id):
+      nearestOfficial?thumb(nearestOfficial.id):'';
     const poster=sourcePoster||youtubeArtwork;
     const imageMarkup=poster?'<div class="schedule-artwork"><img src="'+escapeHTML(poster)+'" alt="'+escapeHTML(x.name)+' programme poster from official broadcaster or official YouTube upload" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;'+(youtubeArtwork&&youtubeArtwork!==poster?'this.src=\''+youtubeArtwork+'\';':'this.style.display=\'none\';')+'"></div>':
       '<div class="schedule-artwork schedule-artwork-fallback" aria-hidden="true"><span>📺</span><small>'+escapeHTML(x.channel)+'</small></div>';
