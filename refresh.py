@@ -13,6 +13,12 @@ import json, re, xml.etree.ElementTree as ET, os
 HERE=Path(__file__).resolve().parent
 (HERE/'data').mkdir(exist_ok=True)
 SOURCES={
+'pcb':('Pakistan Cricket Board','PakistanCricket','sports'),
+'psl':('Pakistan Super League','pakistansuperleagueofficial','sports'),
+'asports':('A Sports','asportspk','sports'),
+'ptvsports':('PTV SPORTS OFFICIAL','ptvsportsofficialpk','sports'),
+'cricketpk':('Cricket Pakistan','CricketPakistanPK','sports'),
+'wasay':('Wasay Habib','wasayhabib','sports'),
 'hum':('HUM TV','HUMTV','dramas'),
 'arydigital':('ARY Digital','ARYDigitalasia','dramas'),
 'harpalgeo':('Har Pal Geo','HarPalGeoOfficial','dramas'),
