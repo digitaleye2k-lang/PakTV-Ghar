@@ -7,7 +7,7 @@ const genres=[
  {id:"folk",label:"🪕 Folk & regional"},{id:"sufi",label:"✨ Sufi"},
  {id:"pop",label:"🌈 Pop"},{id:"rock",label:"🎸 Rock"},
  {id:"rap",label:"🎤 Hip-hop & rap"},{id:"jazz",label:"🎷 Jazz & fusion"},
- {id:"indie",label:"🌿 Indie & acoustic"}
+ {id:"indie",label:"🌿 Indie & acoustic"},{id:"covers",label:"🎙️ Covers & sessions"}
 ];
 const publishers={
  cokestudio:{name:"Coke Studio Pakistan",genre:"sufi"},
@@ -19,13 +19,22 @@ const publishers={
  jaubi:{name:"Jaubi",genre:"jazz"},
  mekaalhasan:{name:"Mekaal Hasan Band",genre:"rock"},
  rahatfateh:{name:"Rahat Fateh Ali Khan",genre:"qawwali"},
- atifs:{name:"Atif Aslam",genre:"pop"}
+ atifs:{name:"Atif Aslam",genre:"pop"},
+ bayaan:{name:"Bayaan",genre:"indie"},
+ abdulhannan:{name:"Abdul Hannan",genre:"indie"},
+ hasanraheem:{name:"Hasan Raheem",genre:"indie"},
+ arooj:{name:"Arooj Aftab",genre:"jazz"},
+ natashabaig:{name:"Natasha Baig",genre:"covers"},
+ zamadbaig:{name:"Zamad Baig",genre:"covers"},
+ hassanroshaan:{name:"Hassan & Roshaan",genre:"indie"},
+ kashmir:{name:"Kashmir The Band",genre:"rock"}
 };
 const sets=[
  {title:"Golden Hour",emoji:"📻",desc:"A journey through Pakistani music's timeless sound.",genre:["classic","ghazal"],limit:18},
  {title:"Qawwali After Dark",emoji:"🌙",desc:"Spiritual voices, poetry and soulful evenings.",genre:["qawwali","sufi"],limit:20},
- {title:"The Desi Drive",emoji:"🚗",desc:"Modern Pakistani pop, indie and guitar-driven energy.",genre:["pop","rock","indie"],limit:22},
+ {title:"The Desi Drive",emoji:"🚗",desc:"Modern Pakistani pop, indie and guitar-driven energy.",genre:["pop","rock","indie","covers"],limit:22},
  {title:"Karachi Mic Check",emoji:"🎤",desc:"Urdu bars, hip-hop beats and Pakistan's rap scene.",genre:["rap"],limit:20},
+ {title:"Unplugged & Covers",emoji:"🎙️",desc:"Pakistani acoustic sessions, reinterpretations and cover performances.",genre:["covers","indie"],limit:24},
  {title:"Jazz on the Rooftop",emoji:"🎷",desc:"A mellow detour into jazz, fusion and creative sounds.",genre:["jazz","rock"],limit:20},
  {title:"DJ's Folk & Fusion",emoji:"🪕",desc:"Regional melodies, Sufi fusion and rhythmic traditions.",genre:["folk","sufi","jazz"],limit:20}
 ];
@@ -35,6 +44,7 @@ const text=(tag,cl,value)=>{const node=document.createElement(tag);if(cl)node.cl
 const clipPattern=/\b(?:shorts?|teaser|trailer|promo|reaction|podcast|interview|behind the scenes|behind-the-scenes|making of|bts|vlog|behind the mic)\b/i;
 function category(v){
  const t=String(v.title||"").toLowerCase(),raw=String(v.genre||"").toLowerCase();
+ if(/\b(cover|cover song|rendition|tribute|reimagined|live session|session cover)\b/i.test(t)||raw.includes("cover"))return "covers";
  if(/\b(jazz|jazz fusion|jaubi|instrumental fusion)\b/.test(t)||v.channelId==="jaubi")return "jazz";
  if(/\b(ghazal|ghazals|غزل)\b/.test(t))return "ghazal";
  if(/\b(qawwali|qawali|قوالی)\b/.test(t))return "qawwali";
@@ -48,6 +58,7 @@ function category(v){
  if(raw.includes("ghazal"))return "ghazal";
  if(raw.includes("qawwali"))return "qawwali";
  if(raw.includes("classic"))return "classic";
+ if(raw.includes("indie")||raw.includes("acoustic"))return "indie";
  return publishers[v.channelId]?.genre||"pop";
 }
 function safe(v){

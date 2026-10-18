@@ -15,6 +15,14 @@ CHANNELS = [
  {'id':'mekaalhasan','name':'Mekaal Hasan Band','handle':'MekaalHasanBand','category':'music','genre':'Rock & Fusion'},
  {'id':'rahatfateh','name':'Rahat Fateh Ali Khan','handle':'RahatFatehAliKhan','category':'music','genre':'Qawwali & Sufi'},
  {'id':'atifs','name':'Atif Aslam','handle':'AtifAslamOfficial','category':'music','genre':'Pop & Rock'},
+ {'id':'bayaan','name':'Bayaan','handle':'BayaanOfficial','category':'music','genre':'Indie & Alternative'},
+ {'id':'abdulhannan','name':'Abdul Hannan','handle':'abdulhannanmusic','category':'music','genre':'Indie & Acoustic'},
+ {'id':'hasanraheem','name':'Hasan Raheem','handle':'hasanraheem','category':'music','genre':'Indie & Pop'},
+ {'id':'arooj','name':'Arooj Aftab','handle':'AroojAftab','category':'music','genre':'Indie & Jazz'},
+ {'id':'natashabaig','name':'Natasha Baig','handle':'NatashaBaigOfficial','category':'music','genre':'Covers & Sufi'},
+ {'id':'zamadbaig','name':'Zamad Baig','handle':'ZamadBaigOfficial','category':'music','genre':'Covers & Ghazal'},
+ {'id':'hassanroshaan','name':'Hassan & Roshaan','handle':'hassanroshaan','category':'music','genre':'Indie & Acoustic'},
+ {'id':'kashmir','name':'Kashmir The Band','handle':'kashmirtheband','category':'music','genre':'Indie & Rock'},
  # Co-branded family learning channel; handle verified by YouTube API on refresh.
  {'id':'waggleworkshop','name':'The Waggle Workshop','handle':'TheWaggleWorkshop','category':'waggle','genre':'Kids learning videos'},
  # Parent-curated Pakistani children's channels; YouTube API verifies handles and publisher IDs.
