@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 from unittest.mock import patch
 
 root = Path(__file__).resolve().parent.parent
-page = (root / "index.html").read_text(encoding="utf-8")
+page = (root / "index.html").read_text(encoding="utf-8") + (root / "site-app.js").read_text(encoding="utf-8")
 client = (root / "home-briefing.js").read_text(encoding="utf-8")
 stylesheet = (root / "home-briefing.css").read_text(encoding="utf-8")
 workflow = (root / ".github/workflows/publish.yml").read_text(encoding="utf-8")
@@ -20,7 +20,7 @@ for expected in ('id="homeBriefing"', 'href="./home-briefing.css"',
     assert expected in page, "Missing front-page briefing/GUPSHUP integration: " + expected
 assert 'id="pghMiniDrawer"' not in page, "Old floating mini chat still appears on homepage"
 for expected in ("briefTabPakistan", "briefTabWorld", "briefWeather",
-                 "briefMarkets", "textContent", "noopener noreferrer"):
+                 "briefMarkets", "briefSports", "briefUrdu", "briefEnglish", "textContent", "noopener noreferrer"):
     assert expected in client, "Briefing behaviour missing: " + expected
 for expected in ('id="gupshupMessages"', 'id="gupshupForm"',
                  'id="reportForm"', 'src="./gupshup.js"', 'href="./gupshup.css"',
