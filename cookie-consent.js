@@ -38,8 +38,8 @@
       // Chat and contact forms must never be readable from advertiser scripts.
       if(document.body?.dataset?.paktvBannerOnly==="yes")
         frame.setAttribute("sandbox","allow-scripts allow-popups");
-      frame.style.width="468px";
-      frame.style.height="68px";
+      frame.style.width="728px";
+      frame.style.height="100px";
       frame.style.border="0";
       frame.style.display="block";
       // This is a normal same-site document, not an opaque-origin srcdoc.
@@ -53,12 +53,12 @@
       // Native ads target this exact container ID; it must exist before
       // the asynchronously loaded Adsterra invoke.js executes.
       const target=document.createElement("div");
-      target.id="container-8d58a68f4a6bcd33f948f07d9c5d0c85";
+      target.id="container-f2f16d24ca9a3049cd4688257eb5b256";
       nativeSlot.appendChild(target);
       const script=document.createElement("script");
       script.async=true;
       script.setAttribute("data-cfasync","false");
-      script.src="https://pl31793698.profitableratecpmnetwork.com/8d58a68f4a6bcd33f948f07d9c5d0c85/invoke.js";
+      script.src="https://pl31906516.profitableratecpmnetwork.com/f2f16d24ca9a3049cd4688257eb5b256/invoke.js";
       script.onerror=()=>{
         // Network blocking or a rejected script is not a consent failure.
         if(!nativeSlot.querySelector(".ad-load-note")){
@@ -77,9 +77,15 @@
     // Only insert it for visitors who explicitly enabled this category.
     const script=document.createElement("script");
     script.async=true;
-    script.src="https://pl31793699.profitableratecpmnetwork.com/9e/d2/5b/9ed25bbb75a6ead1d017f33f41e1dc2d.js";
+    script.src="https://pl31906515.profitableratecpmnetwork.com/4f/0a/64/4f0a641a189dc6322b38f5314f6a2e11.js";
     script.setAttribute("data-adsterra-extra","true");
     document.body.appendChild(script);
+    // Separate Adsterra Social Bar code, also gated behind extra-ad consent.
+    const social=document.createElement("script");
+    social.async=true;
+    social.src="https://pl31906518.profitableratecpmnetwork.com/ff/fa/b4/fffab493e7b49c6ce9105c26081329de.js";
+    social.setAttribute("data-adsterra-extra","true");
+    document.body.appendChild(social);
   }
   function loadGoogleAds(){
     // Google AdSense Auto ads: insert the exact publisher script only after
