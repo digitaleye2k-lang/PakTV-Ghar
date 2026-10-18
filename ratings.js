@@ -141,6 +141,7 @@ async function vote(kind,item,stars){
  const k=key(kind,item);
  if(pending.has(k))return;
  pending.add(k);redraw(kind,item);
+ let message="",failed=false;
  try{
    const db=await connect();
    await ensureGuest(db);
@@ -149,19 +150,18 @@ async function vote(kind,item,stars){
    parse(data);
    lastLoadedAt=0;
    await refresh(true);
-   for(const n of nodes().filter(n=>n.dataset.ratingKind===kind&&n.dataset.ratingItem===item)){
-     announce(n,"Your "+stars+"-star rating has been saved.");
-   }
+   message="Your "+stars+"-star rating has been saved.";
  }catch(error){
    const detail=String(error?.message||"");
-   const message=/wait|limit/i.test(detail)?detail:
+   message=/wait|limit/i.test(detail)?detail:
      "Could not save your rating. Please try again.";
-   for(const n of nodes().filter(n=>n.dataset.ratingKind===kind&&n.dataset.ratingItem===item)){
-     announce(n,message,true);
-   }
+   failed=true;
  }finally{
    pending.delete(k);
    redraw(kind,item);
+   for(const n of nodes().filter(n=>n.dataset.ratingKind===kind&&n.dataset.ratingItem===item)){
+     announce(n,message,failed);
+   }
  }
 }
 document.addEventListener("paktv:paint",()=>{void refresh();});
