@@ -90,3 +90,17 @@ html{background:#0c171e}body{background:radial-gradient(ellipse at 82% 6%,#1a443
 .schedule-artwork-fallback{display:grid;place-items:center;align-content:center;gap:3px;color:#e6f2dc}
 .schedule-artwork-fallback>span{font-size:30px}
 .schedule-artwork-fallback small{font-size:11px;font-weight:800;color:#c6d8c7}
+
+/* On Today: every programme has an identical thumbnail frame, regardless of source aspect ratio. */
+.schedule-grid{grid-template-columns:repeat(auto-fill,minmax(245px,1fr));align-items:stretch;gap:16px}
+.schedule-grid .schedule-card{display:flex;flex-direction:column;min-width:0;padding:14px;border-radius:17px;background:linear-gradient(145deg,#1a3835,#12282d)}
+.schedule-grid .schedule-artwork{position:relative;display:block;flex:0 0 auto;width:100%;height:auto;aspect-ratio:16 / 9;min-height:0;max-height:none;overflow:hidden;border-radius:11px;margin:0 0 13px;border:1px solid #477d63;background:#214839}
+.schedule-grid .schedule-artwork img{position:absolute;inset:0;display:block;width:100%;height:100%;min-width:100%;max-width:100%;max-height:none;object-fit:cover;object-position:center center}
+.schedule-grid .schedule-artwork-fallback{display:flex;flex-direction:column;justify-content:center;align-items:center;gap:5px}
+.schedule-grid .schedule-card h3{font-size:16px;line-height:1.4;min-height:2.8em;margin:9px 0 6px;overflow-wrap:anywhere}
+.schedule-grid .schedule-card p{line-height:1.45;min-height:2.7em;margin:4px 0 10px}
+.schedule-grid .schedule-source{margin-top:auto;display:block;line-height:1.4}
+.schedule-grid .schedule-buttons{display:flex;flex-wrap:wrap;align-items:center;gap:7px;margin-top:12px}
+.schedule-grid .schedule-buttons .small-button{white-space:normal;text-align:center}
+@media(max-width:600px){.schedule-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.schedule-grid .schedule-card{padding:9px}.schedule-grid .schedule-card h3{font-size:13px;line-height:1.35}.schedule-grid .schedule-card p{font-size:11px}.schedule-grid .schedule-time{font-size:20px}.schedule-grid .schedule-buttons{display:grid;grid-template-columns:1fr}.schedule-grid .schedule-artwork{border-radius:8px}}
+@media(max-width:370px){.schedule-grid{grid-template-columns:1fr}.schedule-grid .schedule-card{padding:13px}}
