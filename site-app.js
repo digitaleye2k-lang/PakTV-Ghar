@@ -734,10 +734,16 @@ function scheduleCards(limit=0){
   return header+`<div class="schedule-grid">${items.map(x=>{
     const upcoming=x.time>=now;
     const show=LIBRARY.find(s=>s.id===x.showId);
+    const info=show?showDetails(show):{meta:state.showMeta?.[x.showId]||{},upload:state.showMeta?.[x.showId]?.latestUpload||null};
+    const sourcePoster=typeof info.meta.poster==='string'&&info.meta.poster.startsWith('https://')?info.meta.poster:'';
+    const youtubeArtwork=/^[a-zA-Z0-9_-]{11}$/.test(info.upload?.id||'')?thumb(info.upload.id):'';
+    const poster=sourcePoster||youtubeArtwork;
+    const imageMarkup=poster?'<div class="schedule-artwork"><img src="'+escapeHTML(poster)+'" alt="'+escapeHTML(x.name)+' programme poster from official broadcaster or official YouTube upload" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;'+(youtubeArtwork&&youtubeArtwork!==poster?'this.src=\''+youtubeArtwork+'\';':'this.style.display=\'none\';')+'"></div>':
+      '<div class="schedule-artwork schedule-artwork-fallback" aria-hidden="true"><span>📺</span><small>'+escapeHTML(x.channel)+'</small></div>';
     const stateLabel=x.repeat===true?'Repeat broadcast':x.repeat===false?'New scheduled broadcast':upcoming?'Later today':'Broadcast slot';
     const search='https://www.youtube.com/results?search_query='+encodeURIComponent(x.name+' '+x.channel+' official full episode');
     const source=x.sourceLabel||'Broadcaster schedule';
-    return `<article class="schedule-card"><span class="schedule-time">${escapeHTML(x.time)} <small>PKT</small></span><span class="schedule-channel">${escapeHTML(x.channel)}</span><h3>${escapeHTML(x.name)}</h3><p>${x.episode?'Episode '+escapeHTML(String(x.episode))+' · ':''}${escapeHTML(stateLabel)}</p><small class="schedule-source">${escapeHTML(source)}</small><div class="schedule-buttons">${show?`<button type="button" class="small-button accent" data-series="${escapeHTML(show.id)}">Choose episode</button>`:`<a class="small-button accent" target="_blank" rel="noopener noreferrer" href="${escapeHTML(search)}">Find episode ↗</a>`}<a class="small-button" href="${escapeHTML(x.sourceUrl||'https://hum.tv/') }" target="_blank" rel="noopener noreferrer">Check listing ↗</a></div></article>`;
+    return `<article class="schedule-card">${imageMarkup}<span class="schedule-time">${escapeHTML(x.time)} <small>PKT</small></span><span class="schedule-channel">${escapeHTML(x.channel)}</span><h3>${escapeHTML(x.name)}</h3><p>${x.episode?'Episode '+escapeHTML(String(x.episode))+' · ':''}${escapeHTML(stateLabel)}</p><small class="schedule-source">${escapeHTML(source)}</small><div class="schedule-buttons">${show?`<button type="button" class="small-button accent" data-series="${escapeHTML(show.id)}">Choose episode</button>`:`<a class="small-button accent" target="_blank" rel="noopener noreferrer" href="${escapeHTML(search)}">Find episode ↗</a>`}<a class="small-button" href="${escapeHTML(x.sourceUrl||'https://hum.tv/') }" target="_blank" rel="noopener noreferrer">Check listing ↗</a></div></article>`;
   }).join('')}</div>`;
 }
 function scheduleLinks(){return `<div class="source-links"><a href="https://hum.tv/" target="_blank" rel="noopener noreferrer">HUM TV ↗</a><a href="https://arydigital.tv/schedule" target="_blank" rel="noopener noreferrer">ARY Digital ↗</a><a href="https://harpalgeo.tv/schedule" target="_blank" rel="noopener noreferrer">Har Pal Geo ↗</a></div>`}
