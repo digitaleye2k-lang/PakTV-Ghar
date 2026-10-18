@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-18T19:47:58.539938+00:00",
+  "generatedAt": "2026-10-18T19:49:39.561113+00:00",
   "dateTimezone": "UTC",
-  "cursor": 18,
+  "cursor": 30,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
       "uploadsId": "UU_vt34wimdCzdkrzVejwX9g",
       "handle": "geonews",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T19:32:39.864447+00:00"
+      "lastFetchedAt": "2026-10-18T19:49:39.561113+00:00"
     },
     "ducky": {
       "youtubeId": "UC_c-RTowPbIlzMkIa_O7s6Q",
       "uploadsId": "UU_c-RTowPbIlzMkIa_O7s6Q",
       "handle": "duckybhai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T19:32:39.864447+00:00"
+      "lastFetchedAt": "2026-10-18T19:49:39.561113+00:00"
     },
     "arynews": {
       "youtubeId": "UCMmpLL2ucRHAXbNHiCPyIyg",
@@ -245,14 +245,14 @@
       "uploadsId": "UU2PYniNHljOED9xNaMpiMiQ",
       "handle": "ARYFilms",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-18T19:32:39.864447+00:00"
+      "lastFetchedAt": "2026-10-18T19:49:39.561113+00:00"
     },
     "drmmovies": {
       "youtubeId": "UCDmQsP_LTEWPZ2AXS9eWTrQ",
       "uploadsId": "UUDmQsP_LTEWPZ2AXS9eWTrQ",
       "handle": "pakistani_movies",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-18T19:32:39.864447+00:00"
+      "lastFetchedAt": "2026-10-18T19:49:39.561113+00:00"
     },
     "pcb": {
       "youtubeId": "UCiWrjBhlICf_L_RK5y6Vrxw",
@@ -266,35 +266,35 @@
       "uploadsId": "UUpNzXJ5jpcJojC5mHQvGA8w",
       "handle": "pakistansuperleagueofficial",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T19:31:22.954996+00:00"
+      "lastFetchedAt": "2026-10-18T19:49:39.561113+00:00"
     },
     "asports": {
       "youtubeId": "UCCLdGxMC4fwkaQ4AIcL7Z8w",
       "uploadsId": "UUCLdGxMC4fwkaQ4AIcL7Z8w",
       "handle": "asportspk",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T19:31:22.954996+00:00"
+      "lastFetchedAt": "2026-10-18T19:49:39.561113+00:00"
     },
     "ptvsports": {
       "youtubeId": "UCnoH_iEE4tgVznLT97Kb7ig",
       "uploadsId": "UUnoH_iEE4tgVznLT97Kb7ig",
       "handle": "ptvsportsofficialpk",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T19:31:22.954996+00:00"
+      "lastFetchedAt": "2026-10-18T19:49:39.561113+00:00"
     },
     "cricketpk": {
       "youtubeId": "UCI7I29IPUtWE68VLUoZfXow",
       "uploadsId": "UUI7I29IPUtWE68VLUoZfXow",
       "handle": "CricketPakistanPK",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T19:31:22.954996+00:00"
+      "lastFetchedAt": "2026-10-18T19:49:39.561113+00:00"
     },
     "wasay": {
       "youtubeId": "UCs2-8ztgdlRqpbpHvfFFPFQ",
       "uploadsId": "UUs2-8ztgdlRqpbpHvfFFPFQ",
       "handle": "wasayhabib",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T19:31:22.954996+00:00"
+      "lastFetchedAt": "2026-10-18T19:49:39.561113+00:00"
     },
     "kidsland": {
       "youtubeId": "UCZMKZS3L9GfhcFkMyBRoVFg",
@@ -350,21 +350,21 @@
       "uploadsId": "UUMlGWm_woMhMcVYhJu8zsvA",
       "handle": "LollywoodCinema",
       "checkedAt": "2026-10-18T17:28:01.603474+00:00",
-      "lastFetchedAt": "2026-10-18T19:31:22.954996+00:00"
+      "lastFetchedAt": "2026-10-18T19:49:39.561113+00:00"
     },
     "movieboxmovies": {
       "youtubeId": "UC8Artr_jqToYkRKjgjhezmw",
       "uploadsId": "UU8Artr_jqToYkRKjgjhezmw",
       "handle": "movieboxmovies",
       "checkedAt": "2026-10-18T17:28:01.603474+00:00",
-      "lastFetchedAt": "2026-10-18T19:32:39.864447+00:00"
+      "lastFetchedAt": "2026-10-18T19:49:39.561113+00:00"
     },
     "lollywoodclassics": {
       "youtubeId": "UCV-z8APBalmSWNrre62xKxg",
       "uploadsId": "UUV-z8APBalmSWNrre62xKxg",
       "handle": "lollywoodclassics",
       "checkedAt": "2026-10-18T17:48:49.190558+00:00",
-      "lastFetchedAt": "2026-10-18T19:31:22.954996+00:00"
+      "lastFetchedAt": "2026-10-18T19:49:39.561113+00:00"
     },
     "cokestudio": {
       "youtubeId": "UCM1VesJtJ9vTXcMLLr_FfdQ",
@@ -64361,7 +64361,7 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/F1v5B_9PqoA/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
+      "sourceType": "youtube_uploads_playlist"
     },
     {
       "id": "TGrP3KeZmKY",
@@ -73181,7 +73181,7 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/qHaUmAGJl0s/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
+      "sourceType": "youtube_uploads_playlist"
     },
     {
       "id": "S-sz6bV45Os",
@@ -79265,7 +79265,7 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/XfeZyz2Y2tM/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
+      "sourceType": "youtube_uploads_playlist"
     },
     {
       "id": "2WD845pHIj8",
@@ -79610,6 +79610,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Mekaal Hasan Band: channel unavailable; Rahat Fateh Ali Khan: channel unavailable",
+  "lastError": "",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
