@@ -13,6 +13,7 @@ const featured=[
  {id:"Q_wagTKtDVY",channelId:"kidsland",channel:"Kids Land",category:"kids",title:"Ghulam Rasool — Urdu animated story for children",date:"Featured cartoon · 2021"},
  {id:"sckvX1MGIUk",channelId:"kidsmadani",channel:"Kids Madani Channel",category:"kids",title:"Popular Urdu nursery rhymes and poems for children",date:"Featured rhymes · 2020"}
 ];
+const waggleChannel={id:"waggleworkshop",name:"The Waggle Workshop",handle:"TheWaggleWorkshop",genre:"Learning & values",initials:"WW",desc:"Official full-length Professor Pip learning videos."};
 const known=new Map(channels.map(c=>[c.id,c]));
 const labels=["Cartoons & stories","Rhymes & poems","Learning & values","Family vlogs","Kids creators"];
 const $=id=>document.getElementById(id);
@@ -78,8 +79,10 @@ function renderChannels(){
   section.append(grid);host.append(section);
  }
 }
-function openPlayer(v){
- if(!validVideo(v))return;
+function openPlayer(v,isWaggle=false){
+ if(isWaggle){
+   if(v.channelId!=="waggleworkshop" || v.category!=="waggle" || Number(v.durationSeconds)<181 || !/^[a-zA-Z0-9_-]{11}$/.test(v.id||""))return;
+ }else if(!validVideo(v))return;
  const overlay=$("playerOverlay");$("playerTitle").textContent=v.title.slice(0,115);
  $("openYoutube").href=youtubeURL(v.id);
  const iframe=document.createElement("iframe");
@@ -102,6 +105,31 @@ async function loadVideos(){
   const results=await Promise.allSettled([loadJson("./data/archive.json"),loadJson("./data/videos.json")]);
   const merged=[];
   for(const r of results)if(r.status==="fulfilled"&&Array.isArray(r.value?.videos))merged.push(...r.value.videos);
+  const waggleSeen=new Set();
+  const waggleVideos=merged.filter(v=>v && v.channelId==="waggleworkshop" && v.category==="waggle" &&
+    /^[a-zA-Z0-9_-]{11}$/.test(v.id||"") && Number(v.durationSeconds)>=181 &&
+    typeof v.title==="string" && !/shorts?|grand theft auto|gta.?6|playstation vs xbox|omaha beach/i.test(v.title) &&
+    !waggleSeen.has(v.id) && waggleSeen.add(v.id))
+   .sort((a,b)=>String(b.published||b.date||"").localeCompare(String(a.published||a.date||"")));
+  const waggleHost=$("waggleKidsGrid");
+  waggleHost.replaceChildren();
+  for(const item of waggleVideos.slice(0,6)){
+    const card=element("article","video-card");
+    const cover=element("button","thumb");cover.type="button";
+    const image=document.createElement("img");
+    image.src="https://i.ytimg.com/vi/"+encodeURIComponent(item.id)+"/hqdefault.jpg";
+    image.alt="";image.loading="lazy";
+    const play=element("span","play-icon","▶");play.setAttribute("aria-hidden","true");
+    cover.append(image,play);cover.addEventListener("click",()=>openPlayer(item,true));card.append(cover);
+    const body=element("div","video-copy");body.append(element("span","video-category","The Waggle Workshop"),
+      element("h4","",item.title.slice(0,135)),
+      element("p","","Full video · Official publisher"));
+    const actions=element("div","video-actions");
+    const watch=element("button","","▶ Watch here");watch.type="button";watch.addEventListener("click",()=>openPlayer(item,true));
+    const external=element("a","","Open on YouTube ↗");external.href=youtubeURL(item.id);external.target="_blank";external.rel="noopener noreferrer";
+    actions.append(watch,external);body.append(actions);card.append(body);waggleHost.append(card);
+  }
+  $("waggleKidsStatus").textContent=waggleVideos.length?waggleVideos.length+" verified full videos currently indexed.":"No verified longer Waggle Workshop videos indexed yet. Visit the official channel or check back after the next scheduled refresh.";
   const seen=new Set();
   videos=merged.filter(v=>validVideo(v)&&!seen.has(v.id)&&seen.add(v.id))
    .sort((a,b)=>String(b.published||b.date||"").localeCompare(String(a.published||a.date||"")));
