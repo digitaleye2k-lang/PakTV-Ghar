@@ -29,7 +29,24 @@ assert 'innerHTML' not in client, "Kids page must not interpolate external video
 assert 'muted loop playsinline' in gupshup, "GUPSHUP loop must remain muted"
 assert 'gupshup-chai-main.jpg' in gupshup and 'gupshup-chai-rooftop.jpg' in gupshup
 assert 'python3 tests/check_kids.py' in workflow
-for f in ("kids.js","gupshup.js","home-briefing.js"):
+play=(root/"waggle-play.html").read_text(encoding="utf-8")
+game=(root/"waggle-play.js").read_text(encoding="utf-8")
+assert 'href="./waggle-play.html"' in kids, "Kids Corner must link to Waggle Workshop playroom"
+assert 'waggle-home-teaser' in home, "Homepage needs Waggle Workshop feature"
+assert "Waggle Workshop" in play and 'Professor Pip' in play
+for expected in ('data-game="letters"','data-game="numbers"','data-game="colours"',
+                 'data-game="shapes"','data-game="memory"','data-game="builder"',
+                 'id="ageMode"','id="gameBoard"'):
+    assert expected in play, 'Missing playable game control: '+expected
+for expected in ('lettersRound','numbersRound','coloursRound','shapesRound',
+                 'startMemory','startBuilder','addEventListener'):
+    assert expected in game, 'Unimplemented game mode: '+expected
+assert 'fetch(' not in game and 'localStorage' not in game and 'createClient' not in game, 'Games should run offline without profiling'
+assert 'class="pakistan-flag"' not in home
+assert 'pakistan-flag-art.svg' in home
+assert 'GUPSHUP moments · silent loop' not in gupshup
+assert 'media-note' not in gupshup
+for f in ("waggle-play.js","kids.js","gupshup.js","home-briefing.js"):
     result=subprocess.run(["node","--check",str(root/f)],capture_output=True,text=True)
     assert result.returncode==0, f+": "+result.stderr[:900]
 class Tags(HTMLParser):
