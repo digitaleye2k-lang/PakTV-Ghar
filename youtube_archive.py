@@ -128,8 +128,10 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
     # Newly-added sports channels must appear on their first refresh rather than
     # waiting several scheduled rotations. Do not expend extra requests beyond
     # max_channels: fill the remaining slots from the normal round-robin cursor.
-    priority = [source for source in CHANNELS if source.get('category') == 'sports'
-                and not (cache.get(source['id']) or {}).get('lastFetchedAt')][:max_channels]
+    # Respect small test/manual sampling windows and preserve their cursor behaviour.
+    priority = ([source for source in CHANNELS if source.get('category') == 'sports'
+                 and not (cache.get(source['id']) or {}).get('lastFetchedAt')][:max_channels]
+                if max_channels >= 4 else [])
     regular = []
     advance = 0
     while len(priority) + len(regular) < min(max_channels,len(CHANNELS)) and advance < len(CHANNELS):
