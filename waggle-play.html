@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#173d34">
+<meta name="description" content="Waggle Workshop and PakTV Ghar Kids — free playful learning games with Professor Pip.">
+<title>Waggle Workshop Playroom | PakTV Ghar Kids</title>
+<link rel="icon" href="./favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="./waggle-play.css">
+</head><body>
+<a class="skip" href="#playArea">Skip to games</a>
+<header class="mast"><a href="./kids.html" class="home">← Kids Corner</a><a href="./#home" class="site">PakTV <strong>Ghar</strong></a><span>Waggle Workshop <span aria-hidden="true">✦</span></span></header>
+<main>
+<section class="hero">
+<div><p class="eyebrow">WAGGLE WORKSHOP × PAKTV GHAR KIDS</p><h1>Professor Pip's <em>Playroom!</em></h1>
+<p>Little games for big imaginations. Learn your letters, count some stars, play with colours and shapes, meet animals, and build your own rainbow creations.</p>
+<div class="pills"><span>🎮 Six little games</span><span>🔇 Quiet play</span><span>🔒 No accounts or chat</span></div></div>
+<div class="mascot" aria-hidden="true"><span>🦉</span><small>Professor Pip says:<br>“You're doing great!”</small></div>
+</section>
+<aside class="care-note"><strong>For parents and guardians:</strong> Games run entirely in your browser. No names, accounts, chat, scores sent to servers, external embeds or purchases. Younger children should play with an adult nearby.</aside>
+<section id="playArea" aria-labelledby="chooseHeading">
+<div class="headrow"><div><p class="eyebrow">PICK A LITTLE ADVENTURE</p><h2 id="chooseHeading">What shall we play?</h2></div><div class="difficulty"><label for="ageMode">Choose a level</label><select id="ageMode"><option value="little">Little learners (3–5)</option><option value="big">Brave explorers (6–9)</option></select></div></div>
+<div class="game-picker" id="gamePicker" role="group" aria-label="Choose game">
+<button type="button" data-game="letters" aria-pressed="true"><span>🔤</span><strong>Letter Garden</strong><small>ABC adventures</small></button>
+<button type="button" data-game="numbers" aria-pressed="false"><span>🔢</span><strong>Count &amp; Smile</strong><small>Numbers made fun</small></button>
+<button type="button" data-game="colours" aria-pressed="false"><span>🎨</span><strong>Colour Pop</strong><small>Spot the colour</small></button>
+<button type="button" data-game="shapes" aria-pressed="false"><span>🔺</span><strong>Shape Safari</strong><small>Find the shape</small></button>
+<button type="button" data-game="memory" aria-pressed="false"><span>🦁</span><strong>Animal Pairs</strong><small>Memory &amp; matching</small></button>
+<button type="button" data-game="builder" aria-pressed="false"><span>🧱</span><strong>Rainbow Bricks</strong><small>Build and colour</small></button>
+</div>
+<div class="game-stage">
+<div class="game-info"><div><p class="eyebrow">LET'S PLAY</p><h3 id="gameHeading">Letter Garden</h3><p id="gameDescription">Let's find a letter!</p></div><span id="gameStars" aria-live="polite">⭐ 0 stars</span></div>
+<div id="gameBoard" class="game-board" aria-live="polite"></div>
+<div id="gameFeedback" class="feedback" role="status" aria-live="polite">Choose an answer to play.</div>
+<div class="stage-footer"><button id="restartGame" type="button">↻ New game</button><span>🌈 Learn, try again, and have fun!</span></div>
+</div>
+</section>
+<section class="back-banner"><span aria-hidden="true">🌟</span><div><h2>Ready for cartoons too?</h2><p>Head back to Pakistani kids videos and family entertainment.</p></div><a href="./kids.html">Back to Kids Corner ↗</a></section>
+</main>
+<footer><span>Waggle Workshop × PakTV Ghar · A playful learning collaboration</span><a href="./kids.html">Kids Corner</a><a href="./privacy.html">Privacy</a></footer>
+<script defer src="./waggle-play.js"></script>
+</body></html>
