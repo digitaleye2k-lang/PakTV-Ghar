@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#123b35">
+<meta name="description" content="PakTV Ghar Music — Pakistani classics, qawwali, ghazals, folk, pop, rock, jazz fusion, hip-hop and DJ-curated YouTube playlists.">
+<title>Music & DJ Studio | PakTV Ghar</title>
+<link rel="icon" href="./favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="./music.css">
+</head><body>
+<a class="skip" href="#musicContent">Skip to music</a>
+<header class="music-nav"><a class="music-brand" href="./index.html">PakTV <strong>Ghar</strong><span>♪ MUSIC</span></a>
+<nav aria-label="Website navigation"><a href="./index.html">Home</a><a href="./movies.html">Movies</a><a href="./dramas.html">TV Shows</a><a href="./sports.html">Sports</a><a href="./kids.html">Kids</a><a href="./gupshup.html">GUPSHUP</a></nav></header>
+<main id="musicContent">
+<section class="music-hero">
+<div class="hero-copy"><p class="eyebrow">PAKTV GHAR PRESENTS · DESI DJ LOUNGE</p>
+<h1>Pakistan's <em>Soundtrack.</em></h1><p>From timeless classics and soulful ghazals to qawwali, folk, indie, rock, jazz fusion and Urdu rap. Explore real releases from original Pakistani artists and music publishers.</p>
+<div class="hero-badges"><span>🎧 Original music videos</span><span>💚 Curated DJ playlists</span><span>🔁 Updated from official channels</span></div>
+<a class="primary" href="#djSets">Explore DJ sets ↓</a></div>
+<div class="hero-disc" aria-hidden="true"><div class="disc-ring"><span>♪</span></div><div class="equalizer"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div><span class="turntable-caption">THE DESI DJ DECK</span></div>
+</section>
+<section class="studio" aria-label="Music player and queue">
+<div class="studio-main"><div class="studio-label"><span class="pulse"></span> <span id="djStatus">DJ DECK · READY</span></div>
+<h2 id="nowTitle">Choose your next favourite</h2><p id="nowArtist">Pick a genre, playlist, or song below.</p>
+<div id="musicPlayer" class="music-player"><div class="deck-placeholder"><span aria-hidden="true">🎶</span><p>Press Play on a track to start listening</p></div></div>
+<div class="player-controls"><button id="playerPrevious" type="button" disabled aria-label="Previous track">⏮ Previous</button><button id="playerNext" type="button" disabled aria-label="Next track">Next ⏭</button><button id="playerShuffle" type="button" aria-pressed="false">🔀 Shuffle off</button><a id="openTrack" href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer" hidden>Open this video ↗</a></div>
+<p class="player-note">Tracks remain on the artists' original YouTube channels. Playback and country availability are controlled by each publisher. Playing a song connects to YouTube.</p></div>
+<aside class="dj-queue" aria-labelledby="djQueueTitle"><div class="dj-queue-head"><span class="eyebrow">YOUR DJ QUEUE</span><h3 id="djQueueTitle">Up next</h3><span id="queueCount">No songs queued</span></div><ol id="queueList" aria-live="polite"></ol></aside>
+</section>
+<section id="djSets" class="section-wrap" aria-labelledby="setHeading"><div class="section-head"><div><span class="eyebrow">PAKTV GHAR DJ SELECTS</span><h2 id="setHeading">Pick your mood.</h2><p>Editorial music sets assembled from the available, identified publisher tracks—no fabricated songs.</p></div><span class="section-pill">🎛️ DJ CURATED</span></div><div id="playlistCards" class="dj-sets"></div></section>
+<section class="section-wrap" aria-labelledby="genreTitle"><div class="section-head"><div><span class="eyebrow">FROM GOLDEN ERA TO NEW SCHOOL</span><h2 id="genreTitle">Choose your sound.</h2><p>Browse by Pakistani music style. Genre tags are best-effort based on publisher and release metadata.</p></div></div>
+<div id="genreFilters" class="genres" role="group" aria-label="Filter music by genre"></div>
+<div class="catalogue-top"><h3 id="musicResultTitle">Latest Pakistani music</h3><label class="music-search">Find a song or artist <input id="musicSearch" type="search" placeholder="Song, artist or title..." autocomplete="off"></label></div>
+<div id="musicGrid" class="music-grid" aria-live="polite"></div>
+<p id="musicStatus" class="music-status" role="status">Checking the Pakistani music archive…</p>
+<button id="showMoreMusic" class="load-more" type="button" hidden>Show more music ↓</button>
+</section>
+<div class="music-outro"><span aria-hidden="true">💿</span><div><h2>Keep the music playing.</h2><p>Explore the full PakTV Ghar entertainment world—films, dramas, sports and GUPSHUP.</p></div><a href="./index.html">Back to PakTV Ghar →</a></div>
+</main>
+<footer><span>PakTV Ghar Music · The Desi DJ Lounge</span><span>Curated listening · original artists keep their YouTube views</span><a href="./privacy.html">Privacy</a><a href="./index.html">Home</a></footer>
+<script src="./music.js" defer></script>
+</body></html>
