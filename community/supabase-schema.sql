@@ -4,7 +4,7 @@
 create extension if not exists pgcrypto;
 create table if not exists public.community_messages (
   id bigint generated always as identity primary key,
-  topic text not null check (topic in ('general','dramas','movies','comedy','politics','youtubers')),
+  topic text not null check (topic in ('general','dramas','movies','comedy','politics','youtubers','sports','family')),
   author_id uuid not null references auth.users(id) on delete cascade,
   nickname text not null check (char_length(nickname) between 2 and 22),
   body text not null check (char_length(body) between 2 and 450),
@@ -84,7 +84,7 @@ returns table(id bigint,topic text,nickname text,body text,created_at timestampt
 language plpgsql stable security definer set search_path=''
 as $$
 begin
- if p_topic not in ('general','dramas','movies','comedy','politics','youtubers') then
+ if p_topic not in ('general','dramas','movies','comedy','politics','youtubers','sports','family') then
    raise exception 'Invalid discussion room'; end if;
  return query select m.id,m.topic,m.nickname,m.body,m.created_at
    from public.community_messages m where m.topic=p_topic and m.status='visible'
@@ -132,7 +132,7 @@ as $$
 declare new_id bigint; uid uuid := auth.uid();
 begin
   if uid is null then raise exception 'Anonymous guest session required'; end if;
-  if p_topic not in ('general','dramas','movies','comedy','politics','youtubers') then
+  if p_topic not in ('general','dramas','movies','comedy','politics','youtubers','sports','family') then
     raise exception 'Invalid discussion room'; end if;
   p_nickname:=btrim(coalesce(p_nickname,''));
   p_body:=btrim(coalesce(p_body,''));
