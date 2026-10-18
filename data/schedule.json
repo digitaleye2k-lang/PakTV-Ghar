@@ -2,7 +2,7 @@
   "date": "2026-10-18",
   "weekday": "Sunday",
   "timezone": "Asia/Karachi",
-  "generatedAt": "2026-10-18T22:30:13.183311+05:00",
+  "generatedAt": "2026-10-18T22:36:34.642099+05:00",
   "items": [
     {
       "name": "Mohabbat",
@@ -215,6 +215,16 @@
       "sourceLabel": "Official broadcaster"
     },
     {
+      "name": "Izzat",
+      "showId": "arydigital-izzat",
+      "channel": "ARY Digital",
+      "time": "19:00",
+      "episode": null,
+      "repeat": null,
+      "sourceUrl": "https://dramas.pk/?pdhs_date=2026-10-18",
+      "sourceLabel": "Dramas.pk TV guide (backup, not broadcaster)"
+    },
+    {
       "name": "Khushi",
       "showId": "hum-khushi",
       "channel": "HUM TV",
@@ -255,6 +265,16 @@
       "sourceLabel": "Official broadcaster"
     },
     {
+      "name": "Main Tera",
+      "showId": "arydigital-main-tera",
+      "channel": "ARY Digital",
+      "time": "21:00",
+      "episode": null,
+      "repeat": null,
+      "sourceUrl": "https://dramas.pk/?pdhs_date=2026-10-18",
+      "sourceLabel": "Dramas.pk TV guide (backup, not broadcaster)"
+    },
+    {
       "name": "Zehar-e-Mohabbat",
       "showId": "hum-zehar-e-mohabbat",
       "channel": "HUM TV",
@@ -273,6 +293,16 @@
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
+    },
+    {
+      "name": "Tamasha season 5",
+      "showId": "arydigital-tamasha-season-5",
+      "channel": "ARY Digital",
+      "time": "22:00",
+      "episode": null,
+      "repeat": null,
+      "sourceUrl": "https://dramas.pk/?pdhs_date=2026-10-18",
+      "sourceLabel": "Dramas.pk TV guide (backup, not broadcaster)"
     },
     {
       "name": "Hasna Mana Hai",
@@ -297,12 +327,11 @@
   ],
   "sources": {
     "hum": "official",
-    "arydigital": "unavailable",
+    "arydigital": "independent guide fallback",
     "harpalgeo": "official"
   },
   "errors": [
-    "ARY Digital: No scheduled entries in retrieved page",
-    "Backup guide: HTTPError"
+    "ARY Digital: No scheduled entries in retrieved page"
   ],
   "note": "Schedule entries are TV slots, not proof episodes were uploaded. Times and reruns can change."
 }
