@@ -30,3 +30,14 @@ main{max-width:1530px;margin:auto;padding:0 clamp(14px,3vw,42px) 44px}
 .family-corner button{border:0;border-radius:11px;background:#ffcb8e;color:#273427;padding:12px 16px;font-weight:800;white-space:nowrap;font-size:12px}
 .family-corner button:hover{background:#ffe0b0}
 @media(max-width:700px){.family-corner{align-items:flex-start;flex-wrap:wrap;padding:17px}.family-corner-icon{width:48px;height:48px;font-size:26px}.family-corner>div:nth-child(2){flex-basis:calc(100% - 70px)}.family-corner button{margin-left:0;width:100%}}
+
+/* GUPSHUP chai gallery — mute looping MP4 with accessible still-image fallbacks. */
+.gupshup-media{margin:13px 0 25px}.media-title{text-align:center;margin:0 0 14px}.media-title h2{font-size:clamp(21px,2.6vw,30px);margin:4px 0;letter-spacing:-.04em;color:#fff1d9}.media-title p{color:#bed5ca;font-size:12px;margin:0}
+.gupshup-media-grid{display:grid;grid-template-columns:1fr 1.18fr 1fr;gap:13px}
+.gupshup-media-card{position:relative;margin:0;min-width:0;height:clamp(180px,23vw,315px);border:1px solid #5d8a6d;border-radius:16px;overflow:hidden;background:linear-gradient(115deg,#275844,#142f37);box-shadow:0 12px 30px #030e1260}
+.gupshup-media-card img,.gupshup-media-card video{display:block;object-fit:cover;width:100%;height:100%}.gupshup-media-card img[hidden],.gupshup-media-card video[hidden]{display:none}
+.gupshup-media-card:after{content:'';pointer-events:none;position:absolute;inset:45% 0 0;background:linear-gradient(transparent,#0b181cbf)}
+.gupshup-media-card figcaption{position:absolute;bottom:13px;left:14px;right:14px;z-index:1;font-weight:800;color:#fff8ec;text-shadow:0 2px 5px #001;font-size:12px}
+.gupshup-media-card.featured{border-color:#d1a86c}.media-note{text-align:center;font-size:10px;color:#bbd3c8;margin:10px auto 0}
+@media(max-width:730px){.gupshup-media-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.gupshup-media-card{height:205px}.gupshup-media-card.featured{grid-column:span 2;grid-row:1}.gupshup-media-card.featured{height:245px}.gupshup-media-card figcaption{font-size:11px}}
+@media(max-width:400px){.gupshup-media-card{height:155px}.gupshup-media-card.featured{height:205px}}
