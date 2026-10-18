@@ -810,7 +810,41 @@ function loadPlayerApi(){if(youtubeAPILoading||window.YT?.Player)return;youtubeA
 window.onYouTubeIframeAPIReady=()=>{state.ytLoaded=true;if(state.currentVideo)installIframePlayer(state.currentVideo.id)};
 function installIframePlayer(videoId){if(!window.YT?.Player||!state.currentVideo||state.currentVideo.id!==videoId)return;try{state.ytPlayer=new YT.Player('youtubeFrame',{events:{onError:(ev)=>{const box=el('playbackNotice');if(!state.currentVideo||state.currentVideo.id!==videoId)return;const error=Number(ev.data);let msg=error===101||error===150?'This publisher does not allow this video in embedded players.':error===153?'YouTube needs a normal website address to play this embed. Start PakTV Ghar through its included server, or open this video on YouTube.':error===100?'This video was removed or is private.':'YouTube could not play this video here. It might be restricted in your country, unavailable, or blocked from embedding.';box.textContent=msg+' Try “Open on YouTube” to view the original upload.';box.hidden=false},onStateChange:(ev)=>{if(ev.data===1&&state.currentVideo){state.history=[state.currentVideo.id,...state.history.filter(x=>x!==state.currentVideo.id)].slice(0,12);safeSet('pgh_history',state.history)}}}})}catch(e){console.warn('YouTube player setup:',e)}}
 async function checkVideoAvailability(id){try{const resp=await fetch(`/api/check?video=${encodeURIComponent(id)}`,{signal:AbortSignal.timeout(5500)});if(!resp.ok)return;const d=await resp.json();if(!state.currentVideo||state.currentVideo.id!==id)return;if(d.restrictionMessage){el('playbackNotice').textContent=d.restrictionMessage;el('playbackNotice').hidden=false}}catch{}}
-function watchVideo(v){state.currentVideo=v;state.history=[v.id,...state.history.filter(x=>x!==v.id)].slice(0,12);safeSet('pgh_history',state.history);el('playerTitle').textContent=v.title;el('playerSource').textContent=v.channel;el('playerSubtitle').textContent=v.description||'Watching from the original YouTube channel';el('openYouTube').href=videoURL(v.id);el('playerFav').textContent=state.favoriteVideos.includes(v.id)?'♥ Saved':'♡ Save';el('playbackNotice').hidden=true;el('playerOverlay').hidden=false;document.body.style.overflow='hidden';const box=el('videoBox');box.innerHTML='';const frame=document.createElement('iframe');frame.id='youtubeFrame';frame.src=`https://www.youtube-nocookie.com/embed/${encodeURIComponent(v.id)}?autoplay=1&rel=0&enablejsapi=1&origin=${encodeURIComponent(window.location.origin||'')}`;frame.title=v.title;frame.allow='autoplay; encrypted-media; picture-in-picture; fullscreen';frame.allowFullscreen=true;frame.referrerPolicy='strict-origin-when-cross-origin';box.appendChild(frame);loadPlayerApi();if(window.YT?.Player)installIframePlayer(v.id);el('closePlayer').focus()}
+function setDramaPlayerAmbience(v){
+ const overlay=el('playerOverlay'),panel=overlay?.querySelector('.player-panel');
+ if(!panel)return;
+ let band=panel.querySelector('.drama-ambience');
+ const isDrama=state.page==='dramas'||(state.page==='show'&&LIBRARY.some(x=>x.id===showId()&&x.type==='drama'))||v.category==='dramas';
+ if(!isDrama){if(band)band.hidden=true;return;}
+ if(!band){
+  band=document.createElement('div');band.className='drama-ambience';
+  band.setAttribute('aria-hidden','true');
+  const left=document.createElement('div'),right=document.createElement('div');
+  left.className=right.className='drama-ambience-track';
+  const title=document.createElement('span'),channel=document.createElement('span');
+  title.className='drama-ambience-title';channel.className='drama-ambience-channel';
+  left.append(title);right.append(channel);band.append(left,right);
+  const box=panel.querySelector('.video-box');panel.insertBefore(band,box);
+ }
+ band.hidden=false;
+ band.querySelector('.drama-ambience-title').textContent=v.title||'Pakistani drama';
+ band.querySelector('.drama-ambience-channel').textContent=v.channel||'PakTV Ghar';
+ if(!document.getElementById('dramaAmbienceSharedStyle')){
+  const css=document.createElement('style');css.id='dramaAmbienceSharedStyle';
+  css.textContent=`
+  .player-panel .drama-ambience:not([hidden]){display:flex!important;position:relative!important;inset:auto!important;opacity:1!important;visibility:visible!important;align-items:center;justify-content:space-between;gap:20px;min-height:100px;padding:20px 28px;overflow:hidden;background:radial-gradient(ellipse at 12% 55%,#237967aa,transparent 60%),radial-gradient(ellipse at 88% 40%,#62488baa,transparent 60%),#101d2b!important;border-top:1px solid #8edcc45b;border-bottom:1px solid #aa92f171;color:#f2fff9;z-index:3}
+  .player-panel .drama-ambience-track{width:49%;max-width:none;min-width:0;animation:dramaSharedFloat 16s ease-in-out infinite alternate}
+  .player-panel .drama-ambience-track:last-child{text-align:right;animation-direction:alternate-reverse}
+  .player-panel .drama-ambience-title,.player-panel .drama-ambience-channel{display:block;overflow-wrap:anywhere;font-size:clamp(14px,2.4vw,29px);font-weight:900;line-height:1.2;text-transform:uppercase;letter-spacing:.035em;text-shadow:0 0 12px #75e9b8,0 0 32px #5fd3b388}
+  .player-panel .drama-ambience-channel{color:#f0d6ff;text-shadow:0 0 12px #dcbbff,0 0 28px #9876de}
+  @keyframes dramaSharedFloat{from{transform:translateY(-5px);opacity:.78}to{transform:translateY(5px);opacity:1}}
+  @media(max-width:600px){.player-panel .drama-ambience:not([hidden]){padding:13px;min-height:76px;gap:12px}}
+  @media(prefers-reduced-motion:reduce){.player-panel .drama-ambience-track{animation:none!important}}
+  `;
+  document.head.append(css);
+ }
+}
+function watchVideo(v){setDramaPlayerAmbience(v);state.currentVideo=v;state.history=[v.id,...state.history.filter(x=>x!==v.id)].slice(0,12);safeSet('pgh_history',state.history);el('playerTitle').textContent=v.title;el('playerSource').textContent=v.channel;el('playerSubtitle').textContent=v.description||'Watching from the original YouTube channel';el('openYouTube').href=videoURL(v.id);el('playerFav').textContent=state.favoriteVideos.includes(v.id)?'♥ Saved':'♡ Save';el('playbackNotice').hidden=true;el('playerOverlay').hidden=false;document.body.style.overflow='hidden';const box=el('videoBox');box.innerHTML='';const frame=document.createElement('iframe');frame.id='youtubeFrame';frame.src=`https://www.youtube-nocookie.com/embed/${encodeURIComponent(v.id)}?autoplay=1&rel=0&enablejsapi=1&origin=${encodeURIComponent(window.location.origin||'')}`;frame.title=v.title;frame.allow='autoplay; encrypted-media; picture-in-picture; fullscreen';frame.allowFullscreen=true;frame.referrerPolicy='strict-origin-when-cross-origin';box.appendChild(frame);loadPlayerApi();if(window.YT?.Player)installIframePlayer(v.id);el('closePlayer').focus()}
 function closeVideo(){if(state.ytPlayer){try{state.ytPlayer.destroy()}catch{}state.ytPlayer=null}el('videoBox').innerHTML='';el('playerOverlay').hidden=true;document.body.style.overflow='';state.currentVideo=null}
 function openChannelVideos(c){state.archiveChannel=c.id;state.archiveCategory='all';state.archivePeriod='all';state.archiveQuery='';state.archiveLimit=30;navTo('archive')}
 function searchShow(show){state.query=show.name;el('searchInput').value=show.name;navTo('search');doSearch(show.query,show.channelId,true)}
