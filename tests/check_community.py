@@ -4,7 +4,7 @@ import re
 import subprocess
 
 root = Path(__file__).resolve().parent.parent
-index = (root / 'index.html').read_text(encoding='utf-8')
+index = (root / 'index.html').read_text(encoding='utf-8') + (root / 'site-app.js').read_text(encoding='utf-8')
 page = (root / 'community.html').read_text(encoding='utf-8')
 client = (root / 'community.js').read_text(encoding='utf-8')
 stats = (root / 'site-visitors.js').read_text(encoding='utf-8')
