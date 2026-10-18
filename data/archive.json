@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T21:35:23.123320+00:00",
+  "generatedAt": "2026-10-18T21:42:05.707865+00:00",
   "dateTimezone": "UTC",
-  "cursor": 54,
+  "cursor": 66,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -119,70 +119,70 @@
       "uploadsId": "UUz0M2pV4jOUUQ88lOd2q08A",
       "handle": "MaazSafderWorld",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T20:39:15.240359+00:00"
+      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
     },
     "matiullah": {
       "youtubeId": "UC-hJ0cobUiWlBFTHgLwt8sQ",
       "uploadsId": "UU-hJ0cobUiWlBFTHgLwt8sQ",
       "handle": "MatiullahJanMJtv",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T20:39:15.240359+00:00"
+      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
     },
     "p4pakao": {
       "youtubeId": "UCI9tIvSPsdxNEICjZk7ujUA",
       "uploadsId": "UUI9tIvSPsdxNEICjZk7ujUA",
       "handle": "p4pakaoofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T20:39:15.240359+00:00"
+      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
     },
     "dawnnews": {
       "youtubeId": "UCaxR-D8FjZ-2otbU0_Y2grg",
       "uploadsId": "UUaxR-D8FjZ-2otbU0_Y2grg",
       "handle": "dawnnewspakistan",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T20:39:15.240359+00:00"
+      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
     },
     "irfanjunejo": {
       "youtubeId": "UCUuDUW0Y6IQZYDvH1QQBsgA",
       "uploadsId": "UUUuDUW0Y6IQZYDvH1QQBsgA",
       "handle": "irfanjunejo",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T20:39:15.240359+00:00"
+      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
     },
     "kunfoods": {
       "youtubeId": "UCJEGvNxXunjqrcd2Xg9ntMQ",
       "uploadsId": "UUJEGvNxXunjqrcd2Xg9ntMQ",
       "handle": "KunFoods",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T20:39:15.240359+00:00"
+      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
     },
     "kitchenamna": {
       "youtubeId": "UCQ2P7C8UGoVM6AhqsVx-M0Q",
       "uploadsId": "UUQ2P7C8UGoVM6AhqsVx-M0Q",
       "handle": "KitchenWithAmna",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T20:39:15.240359+00:00"
+      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
     },
     "geoclassics": {
       "youtubeId": "UCLUfX9--VscMEKnIE6thhbg",
       "uploadsId": "UULUfX9--VscMEKnIE6thhbg",
       "handle": "GeoNewsClassics",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T21:14:01.402381+00:00"
+      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
     },
     "wildlens": {
       "youtubeId": "UCf1XIplYiqNv9baGsFHwPPQ",
       "uploadsId": "UUf1XIplYiqNv9baGsFHwPPQ",
       "handle": "WildLensByAbrar",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T21:14:01.402381+00:00"
+      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
     },
     "ruby": {
       "youtubeId": "UCMhx-uS3O-G_6_lTrYmDKLw",
       "uploadsId": "UUMhx-uS3O-G_6_lTrYmDKLw",
       "handle": "RubyKaKitchen",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T21:14:01.402381+00:00"
+      "lastFetchedAt": "2026-10-18T21:42:05.707865+00:00"
     },
     "ijazfood": {
       "youtubeId": "UCc1BSASBDsE_XYOTxD9SNmA",
@@ -465,6 +465,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "D9c1sVGtsKY",
+      "title": "🔴 Live: Islamabad: Inauguration Ceremony of Danish School | Dawn News Live",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T21:14:35Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 3170,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/D9c1sVGtsKY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "wrYtGam3CKg",
       "title": "Why Were Two Constitutional Provisions Invoked in Khyber Pakhtunkhwa? Hafiz Ehsan Explains",
       "channel": "SAMAA TV",
@@ -588,6 +606,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/z-edTI1JHdc/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "500jqTjMM1I",
+      "title": "Opposition should come and negotiate: Bilawal Bhutto | Dawn News Headlines 01 AM",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T20:40:10Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 276,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/500jqTjMM1I/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -9624,24 +9660,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/lEc6pqOyz5o/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "D9c1sVGtsKY",
-      "title": "🔴 Live: Islamabad: Inauguration Ceremony of Danish School | Dawn News Live",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-18",
-      "published": "2026-10-18T08:17:47Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 3153,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/D9c1sVGtsKY/hqdefault_live.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -45429,24 +45447,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "hflr93I2g2c",
-      "title": "PTI Misuse of State Resources | Report Exposes Official Car Usage | Breaking News | Dawn News",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-14",
-      "published": "2026-10-14T10:20:01Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 108,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/hflr93I2g2c/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "UrKg1fyuhzw",
       "title": "Tragedies Behind Closed Doors in Karachi Raise Serious Questions for Society - Aaj News",
       "channel": "Aaj TV Official",
@@ -79611,6 +79611,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Junaid Akram: channel unavailable; Express News: channel unavailable",
+  "lastError": "Asad Toor: channel unavailable; Siddique Jaan: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
