@@ -4,6 +4,17 @@ Handles are resolved via YouTube Data API before indexing. Unknown or changed
 handles simply produce no videos; no unrelated uploader is silently substituted.
 """
 CHANNELS = [
+ # Music publishers and Pakistani performers; API forHandle lookup validates each channel identity.
+ {'id':'cokestudio','name':'Coke Studio Pakistan','handle':'cokestudio','category':'music','genre':'Sufi & Fusion'},
+ {'id':'nescafebasement','name':'NESCAFÉ Basement','handle':'nescafebasement','category':'music','genre':'Rock & Fusion'},
+ {'id':'emipakistan','name':'EMI Pakistan','handle':'EMIPakistan','category':'music','genre':'Golden Classics'},
+ {'id':'talhaanjum','name':'Talha Anjum','handle':'talhaanjum','category':'music','genre':'Hip-Hop & Rap'},
+ {'id':'youngstunners','name':'Young Stunners','handle':'YoungStunners','category':'music','genre':'Hip-Hop & Rap'},
+ {'id':'sajjadali','name':'Sajjad Ali','handle':'sajjadali','category':'music','genre':'Pop & Ghazal'},
+ {'id':'jaubi','name':'Jaubi','handle':'Jaubi','category':'music','genre':'Jazz & Fusion'},
+ {'id':'mekaalhasan','name':'Mekaal Hasan Band','handle':'MekaalHasanBand','category':'music','genre':'Rock & Fusion'},
+ {'id':'rahatfateh','name':'Rahat Fateh Ali Khan','handle':'RahatFatehAliKhan','category':'music','genre':'Qawwali & Sufi'},
+ {'id':'atifs','name':'Atif Aslam','handle':'AtifAslamOfficial','category':'music','genre':'Pop & Rock'},
  # Co-branded family learning channel; handle verified by YouTube API on refresh.
  {'id':'waggleworkshop','name':'The Waggle Workshop','handle':'TheWaggleWorkshop','category':'waggle','genre':'Kids learning videos'},
  # Parent-curated Pakistani children's channels; YouTube API verifies handles and publisher IDs.
