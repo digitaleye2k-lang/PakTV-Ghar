@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-18T17:28:38.554035Z",
+  "generatedAt": "2026-10-18T17:30:16.416022Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-18T17:28:38.554035Z",
+      "updatedAt": "2026-10-18T17:30:16.416022Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -62,7 +62,7 @@
       ]
     },
     "world": {
-      "updatedAt": "2026-10-18T17:28:38.554035Z",
+      "updatedAt": "2026-10-18T17:30:16.416022Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -70,6 +70,24 @@
           "source": "AP News",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaEJLUHBtM3VzdFoybW9zSjNaMnR5ZmY1dkFxdTRmeFM1TUxyV0hWNEMzcE1RMFpWUlQtQVpiY0JrUk5xSXR5SDZDNVZYb2tWNVkzTDlwRkZ2UkVzc21XdnRLSnBsUVZJNGN3ZVo3c2VieG4zd1VBZW9XMW5VQlRSZnhYaTRpWDhHQUE2YzQ5ZzhVNGhl?oc=5",
           "published": "2026-10-18T16:37:00Z"
+        },
+        {
+          "title": "Trump endorses Netanyahu in Israeli election - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNEX0FibmplMGVhLVA1TDdESTEzdk9PR1JYNWtsQzJkTG5ER1lrMkhfV05saHNXYndlOXFxdFJONU4zOEZhZUdtXzR0WGpVSHBuLUUyOExTWHktR3AtMjlnU08yNXpaUWFVOXE1Q3dNaDFkZG4yT0JFMmlkYzdvTXFudjFQOF9rcFBaM0VBbjBaOFQ5bndSNS1fZw?oc=5",
+          "published": "2026-10-18T16:10:37Z"
+        },
+        {
+          "title": "R.J. Mitte’s Mother Opens Up About His Tragic Passing to Help Other Families (While Clarifying Speculation About His Finances, Career and Fiancé) - The Hollywood Reporter",
+          "source": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd2I2aUFrOFJoLWdsTHA5YWVUZnBYTERjOHFZY2ZYS1pFZnJQYWppSm1OZkhkcUxoblJUSWY1MWZyVHZtQ1hJcWJCa1FueGpFaEpVejBqVlBCMktVS3J0elRocWluVnJqX0Y2eTJZcTJLY3JGYk9aaF9xS0xXQWhvTHJjdVRxOWllWUxFOTgyMHE4X1ZTYl9xQnBfOWk4Z0JDbWQ2Wm9wbTlKZ0h1OS1jbjdjY2NXb3VNajZJX2hiZw?oc=5",
+          "published": "2026-10-18T16:00:36Z"
+        },
+        {
+          "title": "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout - Yahoo Finance",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONkF2UGc0SmgxTzdidVlLNWRHU3JjZFdrOHpKRGt2ODFqSUJFQWpnYVRXLUJ0aDJ6c3pmNDB3OVB0VGpsNlJJRkkzZjNXODNzaEJnUFdOemZZVTBKc3pWbUJ6MnBaeFdIRjB1VDl0UlVzMnNneDJGN0NJTGNaWmUyVnRqT2QxOERjZ2ZJYVltT0tLZzE0T2pSYjRqZW1tbE00TVJzbzJTQjRTemRILTV5cGFQZU9EeHg0TlVDdE95bE5VVHh0Z0w5eGdGa1FmWGdtVzY4Wg?oc=5",
+          "published": "2026-10-18T15:59:30Z"
         },
         {
           "title": "Caleb Williams officially active for the Bears on Sunday - NBC Sports",
@@ -96,35 +114,17 @@
           "published": "2026-10-18T15:01:16Z"
         },
         {
-          "title": "Pope Leo tells faithful in St. Peter's Square he will gradually resume duties after cancer surgery - AP News",
-          "source": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGxoemZ1SU5mT0NtVU56WWxPclZWWXZ3Vlc2TkpJOVlIaUw5T3luaDlkVVE0YlJqOXRTUmJ5anI3eHdqTEdJemtKRGtxUmNaN2U3Z21CWUQ0UEVLSUdZX3UtZVlFRzBQSHZmTWRQTFJtWmNrcHg2NDkxX1RBRy1BVkRMZEtnU3BfR0dYSWk3M01RZlowenZCT0QwZw?oc=5",
-          "published": "2026-10-18T14:36:00Z"
-        },
-        {
-          "title": "Trump approval hits record low, handing Democrats a clear midterm edge - The Washington Post",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkJrME56Z1A3aVBwazIzNTA5ekFNUDFtRzAyaTgteUo1cU4yOElmOFJwYzB4WUVkR3hoWk5QYk9kbDRJR3AtWm91VEZfRnUyQzBQeVk1czBkWGhhNXZwWjNtUk1NdVpRcG1DMGZTZ2swcU5lQmFESzR5Y2h6ak1OdWhKQ0kxTERscDBPcGZlWWVleFdPczNVOWdlYkdkQUtick1oanByQlkxXzJKWi1hRDNDYXlFekVlaG1r?oc=5",
-          "published": "2026-10-18T14:34:31Z"
-        },
-        {
-          "title": "'DWTS' Val Chmerkovskiy Speaks Out on Suspension as Jenna Dewan's New Partner Revealed - TV Insider",
-          "source": "TV Insider",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdjlPY1pJWm9EUDlWdll0RWVKanNXOFNxODNzMHZVVHBwTjBHX3FTYmRJVlZHU2FxZ294ZXZBZHlKRGpsN0ZrTFlUc2tyQUZiQmdjcUpTbUVodEJNM3RQaVhOLTNzTjhDTW4xZzg4Rm5PZTN2WU9TUFdsNWY0dTVUc19TaE1VNllYRVRxcm03dlFGQ2pHZG1HQ21hOW83WTJOZUllR0s3SDhxUmYxM2hsTTFzRUV6NU9kQlpYTEdBbXptZWtGM3c?oc=5",
-          "published": "2026-10-18T14:21:02Z"
-        },
-        {
-          "title": "France says Israel must ‘stop these acts of terror’ following attack on EU diplomats - POLITICO.eu",
-          "source": "POLITICO.eu",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaGlRVTFOTDJZVU51a1lqam5HY1JwajhlSEprTjlrQTZ2UFVub1RWaXlEdTZCNGlPNFJkc3Z5YXluaWZGVTNmRWZpWjVVVWtiVU9pVUt5R1A3a3EzeTJudk5XbkZZZjFMbEVtWmFfUHJMa25FUC1kX0tiNWFnWWlRVF9FbzVMMDVwMmszWUlxZFh5bXNhTklZWkNNU0NaelppQjhDVGlQOA?oc=5",
-          "published": "2026-10-18T14:20:00Z"
+          "title": "Two killed and at least 17 injured as Russia and Ukraine trade blows on power infrastructure - The Guardian",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTmh5WmYyVmh4N096X21la2RhLUJvTV9qV3o2RlRIeHZtcFdwa0lLbFBjQ2dNSUJ2RFkzeHZ3MUxtdFlqcVRMdWFySFpNR1RvLWtHVFNrVFpSOThtUklfSkRrbTBka1E1anNCa214QjA1VzVFLXdZUHBGMVdMZ2xBMkw5czViOENTZUhBQzNzLXVLbnRyN0lvZ2gxQ3o2NTRQejFoMW1UNA?oc=5",
+          "published": "2026-10-18T14:47:00Z"
         }
       ]
     }
   },
   "newsUrdu": {
     "pakistan": {
-      "updatedAt": "2026-10-18T17:28:38.554035Z",
+      "updatedAt": "2026-10-18T17:30:16.416022Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -170,23 +170,23 @@
           "published": "2026-10-18T16:10:10Z"
         },
         {
-          "title": "Why Is Pakistani Rice Falling Behind in the Global Market? | AAJ EXCLUSIVE - Aaj English TV",
-          "source": "Aaj English TV",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY1FJWm9ibXNkdWx3S3RuVkNzVTJSelNhUEJuNjJqMkE3Y25QX0xFOEZkTGc1anl6UnlDLVdGS1lQZkVXR3FBYmRwb0hwTmJMRm1YQ0ttVWdyaXFYa2JPd1JkdGN4WVhzNnhESl9vVHY2TVBLN2VQX0ZnTy1DeXFBbnpCMGNYdVp4R1ptcUR5TzRrOF9UVzdMOTdJR2xRWmZPYmxuV05aTlJHa0J5UHc?oc=5",
-          "published": "2026-10-18T16:10:09Z"
-        },
-        {
           "title": "Why has Pakistan halted trade with Iran? What it means for trade and LPG prices - Moneycontrol.com",
           "source": "Moneycontrol.com",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMWFjcTI4ajY5THVCT3dmV0Z2dkphN1U2Ni1Kc25RZ25yTHNIMDliN3lkLU56ekU1YW1jWUxsVU1tVXlSUzFnNmhzUVRibTJNNjl1SG5NQkxvdEhYaVpQZmw0bHEtWXhCWldzaVZidUQzcmdpX0RHLUsyMjN5UWVNTF9xZ2R6YXJtZHlGaVVISEN3ZHdSbU9xdnFkQ2J5bTQ4QUx0Zjliay01RDBJcjVsRFNWbDZ6Y2JrcFgxREdabVU0em1XdlJPbG1YejNXekM40gHWAUFVX3lxTE5aMGlybG5ZVzR3QnRtdS1nQkVncXVOM3lDdGYtNkNuQVN5Zi1qUGdfdjdHdTNmOHF3Xzl5ZEtHakZqTWZ1ZzVKZ3d0UXctRUNIRFUwdkp5UnZ6TkZtT2NSZ3pBdHNVZjdIQmZoX3RpYmFoUkVLdTZVMDlqMWh3TXZJSVJ4UU44VUZkNlRSWnVRM0t4RjlfOXc3ZFMzc3Fha1B2b01jUkxuejBPNG1KSDhIeE1tWmpLcWhFRE5EVW1DNHlwbUF5TG12T1VfRGptTUNCOHRObXc?oc=5",
           "published": "2026-10-18T15:27:25Z"
+        },
+        {
+          "title": "Pakistan's 'historic milestone' claim gets a reality check from ex-IMF director - India Today",
+          "source": "India Today",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORUZWUEhzU00yVXlmNlNGWmtyM3RldHZGb0tnTlZTUnYzb0pTVGxZNGMyTFQ5SUF6NEFhaE9mLVFYZ3JuZmlxcjVURWF2N0FZanNDTDV6T08xM2x1Nko1VngzRy0tdzhkUy1GMzg0dDFVTkwyTVFSUTdrSk1SZ2YySnJxM194VEN4NHdoa3NpWkd1bzZTWkpxVmZlWFBRdlQxTXhsbkJXN2puamZURFFCbHNlY1hJVjNIc3U4TUpweDRLRnZ3RmgwUmxlMG9Nd9IB0wFBVV95cUxOTy1xeWhkNHQ1Mk41VTlWRHUtcGRabVBBSFFSVnBaWl9pSXZMY0R5cFZKR0xib2xFV0xoMVJlT3hPeXpfSmRCUU8wWng1MlVtenY4Yl9OekhQSlpiSG1vS2MzZ1dhaHUzdHZLeENoYjBxaUVPeVhvRlpzcUtiTGJ2cXZTZDRid2hsd0xGeWZ3RE5QWHJkbDhDcFZMLWpqNFZrTnVtWnBudkRWZ2NybzZTTXVieDl1WG4tYmJpUFYtdEVFd1lKN3ZRMS1uTVZFbGgyUFJz?oc=5",
+          "published": "2026-10-18T14:12:27Z"
         }
       ]
     },
     "world": {}
   },
   "weather": {
-    "updatedAt": "2026-10-18T17:28:38.554035Z",
+    "updatedAt": "2026-10-18T17:30:16.416022Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -225,7 +225,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-18T17:28:38.554035Z",
+    "updatedAt": "2026-10-18T17:30:16.416022Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
@@ -251,7 +251,7 @@
     ]
   },
   "sports": {
-    "updatedAt": "2026-10-18T17:28:40.403900Z",
+    "updatedAt": "2026-10-18T17:30:17.991621Z",
     "source": "ESPN cricket snapshot",
     "url": "https://www.espncricinfo.com/live-cricket-score",
     "matches": [

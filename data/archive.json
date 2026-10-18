@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-10-18T17:28:01.603474+00:00",
+  "generatedAt": "2026-10-18T17:29:50.221349+00:00",
   "dateTimezone": "UTC",
-  "cursor": 12,
+  "cursor": 24,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
       "uploadsId": "UU_vt34wimdCzdkrzVejwX9g",
       "handle": "geonews",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T17:08:40.931296+00:00"
+      "lastFetchedAt": "2026-10-18T17:29:50.221349+00:00"
     },
     "ducky": {
       "youtubeId": "UC_c-RTowPbIlzMkIa_O7s6Q",
       "uploadsId": "UU_c-RTowPbIlzMkIa_O7s6Q",
       "handle": "duckybhai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T17:08:40.931296+00:00"
+      "lastFetchedAt": "2026-10-18T17:29:50.221349+00:00"
     },
     "arynews": {
       "youtubeId": "UCMmpLL2ucRHAXbNHiCPyIyg",
       "uploadsId": "UUMmpLL2ucRHAXbNHiCPyIyg",
       "handle": "ArynewsTvofficial",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T17:08:40.931296+00:00"
+      "lastFetchedAt": "2026-10-18T17:29:50.221349+00:00"
     },
     "rhs": {
       "youtubeId": "UCgFG7lz7BI5hsNEifevrWSw",
       "uploadsId": "UUgFG7lz7BI5hsNEifevrWSw",
       "handle": "ranahamzasaifrhs",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T17:08:40.931296+00:00"
+      "lastFetchedAt": "2026-10-18T17:29:50.221349+00:00"
     },
     "dunya": {
       "youtubeId": "UCG7xCQTxgy93j6r49wl48rw",
@@ -42,14 +42,14 @@
       "uploadsId": "UUQexaAjPn3-1MCE4DmBK3Tg",
       "handle": "villagefoodsecrets",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T17:08:40.931296+00:00"
+      "lastFetchedAt": "2026-10-18T17:29:50.221349+00:00"
     },
     "geohasna": {
       "youtubeId": "UC6HQ4d3xq9EgSeJgMhc-4AQ",
       "uploadsId": "UU6HQ4d3xq9EgSeJgMhc-4AQ",
       "handle": "GeoHasnaManaHai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-18T17:08:40.931296+00:00"
+      "lastFetchedAt": "2026-10-18T17:29:50.221349+00:00"
     },
     "streetfoodpk": {
       "youtubeId": "UCt8NJjYKc2aT3T0TnbcWxSw",
@@ -245,14 +245,14 @@
       "uploadsId": "UU2PYniNHljOED9xNaMpiMiQ",
       "handle": "ARYFilms",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-18T17:08:40.931296+00:00"
+      "lastFetchedAt": "2026-10-18T17:29:50.221349+00:00"
     },
     "drmmovies": {
       "youtubeId": "UCDmQsP_LTEWPZ2AXS9eWTrQ",
       "uploadsId": "UUDmQsP_LTEWPZ2AXS9eWTrQ",
       "handle": "pakistani_movies",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-18T17:08:40.931296+00:00"
+      "lastFetchedAt": "2026-10-18T17:29:50.221349+00:00"
     },
     "pcb": {
       "youtubeId": "UCiWrjBhlICf_L_RK5y6Vrxw",
@@ -294,7 +294,7 @@
       "uploadsId": "UUs2-8ztgdlRqpbpHvfFFPFQ",
       "handle": "wasayhabib",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T17:08:40.931296+00:00"
+      "lastFetchedAt": "2026-10-18T17:29:50.221349+00:00"
     },
     "kidsland": {
       "youtubeId": "UCZMKZS3L9GfhcFkMyBRoVFg",
@@ -350,17 +350,35 @@
       "uploadsId": "UUMlGWm_woMhMcVYhJu8zsvA",
       "handle": "LollywoodCinema",
       "checkedAt": "2026-10-18T17:28:01.603474+00:00",
-      "lastFetchedAt": "2026-10-18T17:28:01.603474+00:00"
+      "lastFetchedAt": "2026-10-18T17:29:50.221349+00:00"
     },
     "movieboxmovies": {
       "youtubeId": "UC8Artr_jqToYkRKjgjhezmw",
       "uploadsId": "UU8Artr_jqToYkRKjgjhezmw",
       "handle": "movieboxmovies",
       "checkedAt": "2026-10-18T17:28:01.603474+00:00",
-      "lastFetchedAt": "2026-10-18T17:28:01.603474+00:00"
+      "lastFetchedAt": "2026-10-18T17:29:50.221349+00:00"
     }
   },
   "videos": [
+    {
+      "id": "JQZvXluIsNg",
+      "title": "Prime Minsiter Shahbaz Sharif Big Annoucement | Geo News10PM Headlines 18 October 2026",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:11:03Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 577,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/JQZvXluIsNg/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
     {
       "id": "VcVEJkBkPGU",
       "title": "A Truly Heartwarming Moment ...Digitally Presented by ENGLISH  | Jeeto Pakistan | ARY Digital",
@@ -395,6 +413,42 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/fvD2JIz91nQ/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "xjda_J2kqG4",
+      "title": "Asad Qaiser’s Big Claim: Governor’s Rule & Emergency Decided in Advance? | Breaking News | Geo News",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:09:40Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 119,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/xjda_J2kqG4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "dVgrvJ6rJEg",
+      "title": "PTI Internal Differences??: The Inside Story Revealed | Geo News 9 PM Geo Bulletin",
+      "channel": "Geo News",
+      "channelId": "geonews",
+      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T17:08:45Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 841,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/dVgrvJ6rJEg/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -683,6 +737,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/FVRYj55MVpw/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "gkO8vQgjggc",
+      "title": "KP Governor Rule Debate | Iran’s Statement | Big Offer To Saudi Arabia | ARY News 9 PM Headlines",
+      "channel": "ARY News",
+      "channelId": "arynews",
+      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:51:43Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1117,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/gkO8vQgjggc/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -28676,24 +28748,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "T_Um1sXQbhI",
-      "title": "Sohail Afridi Faces Backlash from PTI Social Media | Is PTI Held Hostage by Its Own Supporters?",
-      "channel": "Geo News",
-      "channelId": "geonews",
-      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T15:28:30Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 352,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/T_Um1sXQbhI/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "lX3hD7WECUA",
       "title": "KP Emergency, Governor's Rule Update | PTI Finished? | Hassan Nisar Reacts Strongly | SAMAA TV",
       "channel": "SAMAA TV",
@@ -28745,24 +28799,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/w0pKm0UYv4w/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "6KCMA1LUDUY",
-      "title": "Petrol Prices Updates - Inflation Report | 8PM Headlines Geo News (19th Oct 2026)",
-      "channel": "Geo News",
-      "channelId": "geonews",
-      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T15:21:32Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 707,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/6KCMA1LUDUY/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -28835,24 +28871,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/_b1wFGOju5U/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "Wy9iGj4RkwI",
-      "title": "Pakistan Cricket’s Big Challenge! England & Sri Lanka in Tri-Series | Yahya Hussaini | 16th October",
-      "channel": "Geo News",
-      "channelId": "geonews",
-      "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T15:16:11Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 1210,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/Wy9iGj4RkwI/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -29123,24 +29141,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/tD37vjYuv2M/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "H67XLNartFo",
-      "title": "Government-PTI Talks: Shaukat Yousafzai Makes Key Revelations",
-      "channel": "ARY News",
-      "channelId": "arynews",
-      "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-16",
-      "published": "2026-10-16T15:01:02Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 504,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/H67XLNartFo/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79562,6 +79562,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "",
+  "lastError": "Dunya News: HTTP 404: playlistNotFound",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
