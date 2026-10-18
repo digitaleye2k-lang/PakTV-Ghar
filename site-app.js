@@ -678,11 +678,22 @@ function setupMovieHeadlines(){
   const buttons=[...document.querySelectorAll('[data-movie-slide]')];
   const fallbackIds=movieVideos().slice(0,3).map(v=>v.id);
   while(fallbackIds.length<3)fallbackIds.push(FEATURED_MOVIE.id);
+  // Accept correctly named optimised WebP files or the original uploaded JPG filenames.
+  const originalImages=['35cc81b7-a472-4dad-9fc9-bb36f86c1158.jpg',
+    '4595f7b2-1bc7-4e26-9369-d7f1e9d2ae26.jpg',
+    'cad2d0ce-b651-4f07-a409-9293e0a39a76.jpg'];
   let active=Math.floor(Math.random()*3);
   const show=(number)=>{
     active=((number%3)+3)%3;
-    img.onerror=function(){this.onerror=null;this.src=thumb(fallbackIds[active]);};
-    img.src='./assets/movie-headline-'+(active+1)+'.webp';
+    const candidates=['./assets/movie-headline-'+(active+1)+'.webp',
+      './assets/'+originalImages[active],thumb(fallbackIds[active])];
+    let attempt=0;
+    img.onerror=function(){
+      attempt++;
+      if(attempt<candidates.length){this.src=candidates[attempt];}
+      else {this.onerror=null;}
+    };
+    img.src=candidates[0];
     for(const btn of buttons){
       const id=Number(btn.dataset.movieSlide);
       if(Number.isInteger(id))btn.setAttribute('aria-pressed',String(id===active));
