@@ -13,6 +13,7 @@ import json, re, xml.etree.ElementTree as ET, os
 HERE=Path(__file__).resolve().parent
 (HERE/'data').mkdir(exist_ok=True)
 SOURCES={
+'waggleworkshop':('The Waggle Workshop','TheWaggleWorkshop','waggle'),
 'kidsland':('Kids Land','kidslandofficial','kids'),
 'kidsmadani':('Kids Madani Channel','kidsmadanichannel','kids'),
 'salamkids':('Salam Kids TV','salamkidstvofficial','kids'),
