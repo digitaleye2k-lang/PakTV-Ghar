@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T16:37:32.892990+00:00",
+  "generatedAt": "2026-10-18T16:40:53.272948+00:00",
   "dateTimezone": "UTC",
-  "cursor": 50,
+  "cursor": 7,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -175,21 +175,21 @@
       "uploadsId": "UUf1XIplYiqNv9baGsFHwPPQ",
       "handle": "WildLensByAbrar",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T16:14:00.449785+00:00"
+      "lastFetchedAt": "2026-10-18T16:40:53.272948+00:00"
     },
     "ruby": {
       "youtubeId": "UCMhx-uS3O-G_6_lTrYmDKLw",
       "uploadsId": "UUMhx-uS3O-G_6_lTrYmDKLw",
       "handle": "RubyKaKitchen",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T16:14:00.449785+00:00"
+      "lastFetchedAt": "2026-10-18T16:40:53.272948+00:00"
     },
     "ijazfood": {
       "youtubeId": "UCc1BSASBDsE_XYOTxD9SNmA",
       "uploadsId": "UUc1BSASBDsE_XYOTxD9SNmA",
       "handle": "IjazAnsariFoodSecrets",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T16:14:00.449785+00:00"
+      "lastFetchedAt": "2026-10-18T16:40:53.272948+00:00"
     },
     "greentv": {
       "youtubeId": "UCF2ltLX1dnPa6-L1paPaMzw",
@@ -259,7 +259,7 @@
       "uploadsId": "UUiWrjBhlICf_L_RK5y6Vrxw",
       "handle": "PakistanCricket",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-18T16:15:50.482365+00:00"
+      "lastFetchedAt": "2026-10-18T16:40:53.272948+00:00"
     },
     "psl": {
       "youtubeId": "UCpNzXJ5jpcJojC5mHQvGA8w",
@@ -301,45 +301,81 @@
       "uploadsId": "UUZMKZS3L9GfhcFkMyBRoVFg",
       "handle": "kidslandofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T16:14:00.449785+00:00"
+      "lastFetchedAt": "2026-10-18T16:40:53.272948+00:00"
     },
     "kidsmadani": {
       "youtubeId": "UCsNSt0fxMniSH9XHaNneZfw",
       "uploadsId": "UUsNSt0fxMniSH9XHaNneZfw",
       "handle": "kidsmadanichannel",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T16:14:00.449785+00:00"
+      "lastFetchedAt": "2026-10-18T16:40:53.272948+00:00"
     },
     "salamkids": {
       "youtubeId": "UC_4moTH4Pmatx5ogzCLxUtA",
       "uploadsId": "UU_4moTH4Pmatx5ogzCLxUtA",
       "handle": "salamkidstvofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T16:15:50.482365+00:00"
+      "lastFetchedAt": "2026-10-18T16:40:53.272948+00:00"
     },
     "urdukidsstudio": {
       "youtubeId": "UCxqHh4UJsNqiwk_aaMI9HBg",
       "uploadsId": "UUxqHh4UJsNqiwk_aaMI9HBg",
       "handle": "urdukidsstudio",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T16:15:50.482365+00:00"
+      "lastFetchedAt": "2026-10-18T16:40:53.272948+00:00"
     },
     "shirazi": {
       "youtubeId": "UC8YddK8DXYyry_LWY4NksgA",
       "uploadsId": "UU8YddK8DXYyry_LWY4NksgA",
       "handle": "shirazi786",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T16:15:50.482365+00:00"
+      "lastFetchedAt": "2026-10-18T16:40:53.272948+00:00"
     },
     "haimparishay": {
       "youtubeId": "UC6jgnXHUJ4eDjrvHJNtAUYg",
       "uploadsId": "UU6jgnXHUJ4eDjrvHJNtAUYg",
       "handle": "HaimParishayKhan",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-18T16:15:50.482365+00:00"
+      "lastFetchedAt": "2026-10-18T16:40:53.272948+00:00"
     }
   },
   "videos": [
+    {
+      "id": "fK3EvyWZ5go",
+      "title": "Pavan Rathnayake's Brilliant Knock Ends At 79 | Pakistan vs Sri Lanka | M1 | ODI Tri-Series | MZS1K",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:27:38Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 521,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/fK3EvyWZ5go/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "TF2oMElOkAg",
+      "title": "Janith Liyanage's Fighting 60 👏 | Pakistan vs Sri Lanka | Match 1 | Pakistan ODI Tri-Series | MZS1K",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:25:35Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 355,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/TF2oMElOkAg/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
     {
       "id": "zsiawZBExX0",
       "title": "Mujhe Apse Ek Zaruri Baat Karni Hai | Hiba Aziz - Danial Afzal - Areej Mohyudin | Dastoor | Green TV",
@@ -79503,44 +79539,8 @@
       "embeddable": false,
       "thumbnail": "https://i.ytimg.com/vi/6NyDDIIWM7o/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "s3eFlxgyz8Y",
-      "title": "Despite the Warnings I Took the Overnight Ferry to Sinaloa 🇲🇽 S9 EP 71 | Pakistan to Americas",
-      "channel": "WildLens by Abrar",
-      "channelId": "wildlens",
-      "youtubeChannelId": "UCf1XIplYiqNv9baGsFHwPPQ",
-      "category": "vloggers",
-      "genre": "Travel & lifestyle",
-      "date": "2026-07-02",
-      "published": "2026-07-02T14:43:38Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 2800,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/s3eFlxgyz8Y/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "OJ_dBfmaYJQ",
-      "title": "Real Chicken Koftay - Special Soft and Puffy Kofta Curry (make and store)",
-      "channel": "Kun Foods",
-      "channelId": "kunfoods",
-      "youtubeChannelId": "UCJEGvNxXunjqrcd2Xg9ntMQ",
-      "category": "vloggers",
-      "genre": "Food & recipes",
-      "date": "2026-07-02",
-      "published": "2026-07-02T14:30:27Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 1103,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/OJ_dBfmaYJQ/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Express News: channel unavailable; Asad Toor: channel unavailable; Siddique Jaan: channel unavailable",
+  "lastError": "HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
