@@ -41,3 +41,7 @@ main{max-width:1530px;margin:auto;padding:0 clamp(14px,3vw,42px) 44px}
 .gupshup-media-card.featured{border-color:#d1a86c}.media-note{text-align:center;font-size:10px;color:#bbd3c8;margin:10px auto 0}
 @media(max-width:730px){.gupshup-media-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.gupshup-media-card{height:205px}.gupshup-media-card.featured{grid-column:span 2;grid-row:1}.gupshup-media-card.featured{height:245px}.gupshup-media-card figcaption{font-size:11px}}
 @media(max-width:400px){.gupshup-media-card{height:155px}.gupshup-media-card.featured{height:205px}}
+
+/* Gallery is intentionally image-only: no dark text scrim or captions. */
+.gupshup-media-card:after,.hero-photo:after{display:none!important}
+.gupshup-media-card figcaption,.hero-photo figcaption,.gupshup-media .media-note{display:none!important}
