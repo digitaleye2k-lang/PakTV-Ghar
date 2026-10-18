@@ -152,6 +152,7 @@ function playAt(index){
  $("nowTitle").textContent=t.title;$("nowArtist").textContent=t.publisher;
  $("djStatus").textContent="DJ DECK · NOW PLAYING";
  $("openTrack").hidden=false;$("openTrack").href=link(t);
+ document.dispatchEvent(new CustomEvent("paktv:music-video-play"));
  const slot=$("musicPlayer");
  slot.replaceChildren();
  const iframe=document.createElement("iframe");
