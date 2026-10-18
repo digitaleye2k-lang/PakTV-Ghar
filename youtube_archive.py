@@ -144,13 +144,12 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
     # Respect small test/manual sampling windows and preserve their cursor behaviour.
     priority = (sorted(
                    [source for source in CHANNELS if
-                    (source.get('category') in ('sports', 'kids', 'waggle') or
-                     source.get('id') in ('lollywoodcinema','movieboxmovies',
-                                         'cokestudio','talhaanjum','jaubi','emipakistan') or
-                     (source.get('channelId') and
-                      source['channelId'] != (cache.get(source['id']) or {}).get('youtubeId')))
-                    )
-                    and not (cache.get(source['id']) or {}).get('lastFetchedAt')],
+                    ((source.get('category') in ('sports', 'kids', 'waggle') or
+                      source.get('id') in ('lollywoodcinema','movieboxmovies',
+                                          'cokestudio','talhaanjum','jaubi','emipakistan'))
+                     and not (cache.get(source['id']) or {}).get('lastFetchedAt'))
+                    or (source.get('channelId') and
+                        source['channelId'] != (cache.get(source['id']) or {}).get('youtubeId'))],
                    key=lambda source: 0 if source['id'] in
                    ('lollywoodcinema', 'movieboxmovies') else
                     1 if source['id'] in
