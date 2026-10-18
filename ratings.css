@@ -1,0 +1,22 @@
+/* Five-star film and show ratings. Explicitly separate starter previews from votes. */
+.pgh-rating{display:grid;gap:5px;min-width:0;padding:10px 0 6px;color:#e9fff0;font-size:11px;line-height:1.4}
+.pgh-rating-row{display:flex;align-items:center;gap:8px;flex-wrap:wrap;min-width:0}
+.pgh-rating-stars{display:inline-flex;gap:1px;flex:none;align-items:center}
+.pgh-star{display:grid;place-items:center;min-width:24px;width:26px;height:29px;border:0;background:none;padding:0;color:#d3c99e;font-size:23px;line-height:1;cursor:pointer;border-radius:6px}
+.pgh-star:hover:not(:disabled){color:#ffe4a4;background:#47674b}
+.pgh-star.selected{color:#ffcf74}
+.pgh-star:disabled{opacity:.54;cursor:wait}
+.pgh-star:focus-visible{outline:2px solid #fbd993;outline-offset:2px}
+.pgh-rating-summary{font-size:11px;line-height:1.4;color:#d8e8d5;font-weight:700;max-width:100%;overflow-wrap:break-word}
+.pgh-rating-foot{font-size:10px;color:#b3cbb8;line-height:1.4}
+.pgh-rating-message{font-size:10px;color:#b7efd0;line-height:1.5}
+.pgh-rating-message.pgh-rating-error{color:#ffcfbd}
+.series-card>.pgh-rating{padding:10px 12px 13px;border-top:1px solid #436c5360}
+.video-card .pgh-rating{margin-top:8px;border-top:1px solid #527c5c88}
+.pgh-featured-rating{margin:13px 0 20px;padding:16px 21px;background:linear-gradient(110deg,#224c3b,#153d35);border:1px solid #609579;border-radius:17px;box-shadow:0 10px 28px #061d184c}
+.pgh-featured-rating h2{margin:0 0 7px;font-size:16px;color:#ffe4b5}
+.pgh-featured-rating .pgh-rating{padding:3px 0;gap:7px}
+.pgh-featured-rating .pgh-star{font-size:30px;width:33px;height:34px}
+.pgh-featured-rating .pgh-rating-summary{font-size:13px}
+.pgh-featured-rating .pgh-rating-foot{font-size:11px}
+@media(max-width:630px){.pgh-star{min-width:24px}.pgh-rating-summary{font-size:10px}.pgh-featured-rating{padding:12px 15px}.pgh-featured-rating .pgh-star{font-size:26px;width:28px}}
