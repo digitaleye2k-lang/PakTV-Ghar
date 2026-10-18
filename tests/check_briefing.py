@@ -52,7 +52,7 @@ with patch.object(module, "request", return_value=json.dumps(sample_weather).enc
     assert weather["temperatureC"] == 28
     assert weather["city"] == "Karachi"
 sample_market = {"chart": {"result": [{"meta": {"regularMarketPrice": 101,
-                       "chartPreviousClose": 100, "regularMarketTime": int(now.timestamp())}}]}}
+                       "previousClose": 100, "regularMarketTime": int(now.timestamp())}}]}}
 with patch.object(module, "request", return_value=json.dumps(sample_market).encode()):
     quote = module.market_quote("Test index", "^GSPC", "US")
     assert quote["changePercent"] == 1.0
