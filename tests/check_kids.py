@@ -61,3 +61,22 @@ class Tags(HTMLParser):
 for page in (kids,gupshup):
     p=Tags();p.feed(page)
 print("Kids Corner: curated channels, safe browser scripts, video controls and silent gallery OK")
+
+# Waggle Workshop featured channel and official-only video filtering.
+waggle=(root/"waggle-workshop.html").read_text(encoding="utf-8")
+waggle_js=(root/"waggle-workshop.js").read_text(encoding="utf-8")
+waggle_css=(root/"waggle-workshop.css").read_text(encoding="utf-8")
+from channel_sources import CHANNELS as SOURCE_CHANNELS
+assert any(c["id"]=="waggleworkshop" and c["handle"]=="TheWaggleWorkshop" for c in SOURCE_CHANNELS)
+assert "waggle-workshop.html" in home and "waggle-workshop-logo.svg" in home
+assert "Green TV, PTV & Express collections" not in home, "Remove old broadcaster collections from homepage"
+assert "waggle-workshop.html" in kids and "waggle-workshop-logo.svg" in kids
+assert "The Waggle Workshop" in waggle and "waggleVideosGrid" in waggle
+assert "TheWaggleWorkshop" in waggle_js
+assert 'channelId==="waggleworkshop"' in waggle_js
+assert "youtube-nocookie.com/embed/" in waggle_js
+assert "createClient(" not in waggle_js and "innerHTML" not in waggle_js
+assert "waggle-feature-brand" in home and ".waggle-feature-brand" in (root/"paktv-green.css").read_text(encoding="utf-8")
+assert ".hero-logo" in waggle_css
+result=subprocess.run(["node","--check",str(root/"waggle-workshop.js")],capture_output=True,text=True)
+assert result.returncode==0, "Waggle workshop JS: "+result.stderr
