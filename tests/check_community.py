@@ -18,8 +18,8 @@ for path in ('community.js', 'site-visitors.js', 'community-config.js'):
         raise SystemExit(f'Invalid JavaScript: {path}\n{result.stderr[:1600]}')
 
 for expected in ('./gupshup.html', './community.html#contact',
-                 './community.html#visitors', './community.html#report',
-                 'homeCountVisit', 'homeVisitCount', 'site-visitors.js', 'community-config.js'):
+                 './community.html#report', 'community-config.js',
+                 'paktv-green.css', '🇵🇰', "en:'Sports'"):
     assert expected in index, 'Main-site community link or counter missing: '+expected
 
 for expected in ('Visitors','GUPSHUP','Contact us','Report','Be a moderator',
@@ -61,7 +61,7 @@ assert 'VISITOR_HASH_SECRET' in edge and '"HMAC"' in edge
 assert 'ALLOWED.has(origin)' in edge
 assert 'countVisit").addEventListener("click"' in client
 assert 'recordVisit(),loadChat()' not in client, 'Visit was called automatically'
-assert 'window.confirm(' in stats, 'Main-site tracking needs explicit opt-in'
+assert 'window.confirm(' in stats, 'Optional visitor statistics still require explicit opt-in'
 assert 'getElementById' in stats and 'pgh_visit_summary' in stats
 assert 'sessionStorage' in client and 'textContent' in client
 assert 'content-editable' not in page
