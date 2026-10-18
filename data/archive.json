@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T19:35:23.193021+00:00",
+  "generatedAt": "2026-10-18T19:43:30.598615+00:00",
   "dateTimezone": "UTC",
-  "cursor": 39,
+  "cursor": 51,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -105,56 +105,56 @@
       "uploadsId": "UUyiJNpF7RgpPhyeKc4wnQkg",
       "handle": "hasbehaalofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T19:19:47.712480+00:00"
+      "lastFetchedAt": "2026-10-18T19:43:30.598615+00:00"
     },
     "pakexperience": {
       "youtubeId": "UC44l9XMwecN5nSgIF2Dvivg",
       "uploadsId": "UU44l9XMwecN5nSgIF2Dvivg",
       "handle": "ThePakistanExperience",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T19:19:47.712480+00:00"
+      "lastFetchedAt": "2026-10-18T19:43:30.598615+00:00"
     },
     "maaz": {
       "youtubeId": "UCz0M2pV4jOUUQ88lOd2q08A",
       "uploadsId": "UUz0M2pV4jOUUQ88lOd2q08A",
       "handle": "MaazSafderWorld",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T19:19:47.712480+00:00"
+      "lastFetchedAt": "2026-10-18T19:43:30.598615+00:00"
     },
     "matiullah": {
       "youtubeId": "UC-hJ0cobUiWlBFTHgLwt8sQ",
       "uploadsId": "UU-hJ0cobUiWlBFTHgLwt8sQ",
       "handle": "MatiullahJanMJtv",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T19:19:47.712480+00:00"
+      "lastFetchedAt": "2026-10-18T19:43:30.598615+00:00"
     },
     "p4pakao": {
       "youtubeId": "UCI9tIvSPsdxNEICjZk7ujUA",
       "uploadsId": "UUI9tIvSPsdxNEICjZk7ujUA",
       "handle": "p4pakaoofficial",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T19:19:47.712480+00:00"
+      "lastFetchedAt": "2026-10-18T19:43:30.598615+00:00"
     },
     "dawnnews": {
       "youtubeId": "UCaxR-D8FjZ-2otbU0_Y2grg",
       "uploadsId": "UUaxR-D8FjZ-2otbU0_Y2grg",
       "handle": "dawnnewspakistan",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T19:19:47.712480+00:00"
+      "lastFetchedAt": "2026-10-18T19:43:30.598615+00:00"
     },
     "irfanjunejo": {
       "youtubeId": "UCUuDUW0Y6IQZYDvH1QQBsgA",
       "uploadsId": "UUUuDUW0Y6IQZYDvH1QQBsgA",
       "handle": "irfanjunejo",
       "checkedAt": "2026-10-12T17:32:22.761010+00:00",
-      "lastFetchedAt": "2026-10-18T19:19:47.712480+00:00"
+      "lastFetchedAt": "2026-10-18T19:43:30.598615+00:00"
     },
     "kunfoods": {
       "youtubeId": "UCJEGvNxXunjqrcd2Xg9ntMQ",
       "uploadsId": "UUJEGvNxXunjqrcd2Xg9ntMQ",
       "handle": "KunFoods",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-18T19:24:35.322586+00:00"
+      "lastFetchedAt": "2026-10-18T19:43:30.598615+00:00"
     },
     "kitchenamna": {
       "youtubeId": "UCQ2P7C8UGoVM6AhqsVx-M0Q",
@@ -238,7 +238,7 @@
       "uploadsId": "UU-rP-oFlxQGpSLYHBlhIWkg",
       "handle": "mooroosicity",
       "checkedAt": "2026-10-12T18:00:45.245243+00:00",
-      "lastFetchedAt": "2026-10-18T19:19:47.712480+00:00"
+      "lastFetchedAt": "2026-10-18T19:43:30.598615+00:00"
     },
     "aryfilms": {
       "youtubeId": "UC2PYniNHljOED9xNaMpiMiQ",
@@ -368,6 +368,24 @@
     }
   },
   "videos": [
+    {
+      "id": "X9q2I2MzTnY",
+      "title": "US soldiers will go back in coffins if a bomb falls: Akhlaqi | Dawn News Headlines 12 AM",
+      "channel": "Dawn News",
+      "channelId": "dawnnews",
+      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "category": "news",
+      "genre": "News & politics",
+      "date": "2026-10-18",
+      "published": "2026-10-18T19:40:35Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 752,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/X9q2I2MzTnY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
     {
       "id": "3r6a5uzwNf0",
       "title": "Kamran Murtaza's Strong Statement on Govt #kamranmurtaza #mariamemon #sawalyehai #juif #shorts",
@@ -45369,24 +45387,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "MHRk9tx9HI8",
-      "title": "CIA and Police Clash Over Suspects' Arrest | Breaking News | Dawn News",
-      "channel": "Dawn News",
-      "channelId": "dawnnews",
-      "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-      "category": "news",
-      "genre": "News & politics",
-      "date": "2026-10-14",
-      "published": "2026-10-14T10:10:18Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 105,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/MHRk9tx9HI8/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "6vGMBc-UiHI",
       "title": "2nd Innings Powerplay | Sri Lanka vs Bangladesh | Match 9 | Women U19 Tri-Nation Series 2026 | MZP1H",
       "channel": "Pakistan Cricket Board",
@@ -79569,6 +79569,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Imran Riaz Khan: channel unavailable",
+  "lastError": "Junaid Akram: channel unavailable; Express News: channel unavailable; Asad Toor: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
