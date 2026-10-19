@@ -44,3 +44,36 @@
 .chat-layout .gup-radio-actions a{font-size:10px}
 @media(min-width:1181px){.chat-layout{grid-template-columns:minmax(175px,.7fr) minmax(0,2.5fr) minmax(240px,1fr)}}
 @media(max-width:1180px) and (min-width:701px){.chat-layout .right-panel{grid-template-columns:minmax(240px,.7fr) minmax(0,1fr)!important}.chat-layout .gup-radio-section{grid-row:span 2}}
+
+/* Small vintage wireless light show: activates only while audio plays. */
+.gup-radio-face{position:relative;overflow:hidden}
+.gup-radio-visuals{position:absolute;inset:0;pointer-events:none;opacity:0;transition:opacity .45s ease;z-index:0}
+.gup-radio-face.radio-on .gup-radio-visuals{opacity:1}
+.gup-radio-face .gup-radio-controls,.gup-radio-face .gup-radio-speaker{position:relative;z-index:1}
+.gup-radio-glow{position:absolute;border-radius:50%;filter:blur(22px);opacity:.64}
+.gup-radio-glow-a{width:150px;height:150px;left:-55px;top:2%;background:radial-gradient(circle,#4cf9b6a6,transparent 70%)}
+.gup-radio-glow-b{width:165px;height:165px;right:-50px;bottom:0;background:radial-gradient(circle,#ffb85e82,transparent 70%)}
+.radio-on .gup-radio-glow-a{animation:gupGlowDriftA 5s ease-in-out infinite alternate}
+.radio-on .gup-radio-glow-b{animation:gupGlowDriftB 6s ease-in-out infinite alternate}
+.gup-radio-bars{position:absolute;display:flex;align-items:flex-end;gap:3px;left:10%;right:10%;bottom:5px;height:55px;opacity:.68}
+.gup-radio-bars span{flex:1;height:15px;border-radius:6px 6px 1px 1px;background:linear-gradient(to top,#e5a251,#fdf7a4);box-shadow:0 0 8px #f8d77b9c}
+.radio-on .gup-radio-bars span{animation:gupRadioBeat .8s ease-in-out infinite alternate}
+.radio-on .gup-radio-bars span:nth-child(3n){animation-duration:1.15s;animation-delay:-.5s}
+.radio-on .gup-radio-bars span:nth-child(4n){animation-duration:.65s;animation-delay:-.3s}
+.radio-on .gup-radio-bars span:nth-child(5n){animation-duration:1.4s;animation-delay:-.8s}
+.gup-radio-particles{position:absolute;inset:0}
+.gup-radio-particles i{position:absolute;width:5px;height:5px;border-radius:50%;background:#ffe6a3;box-shadow:0 0 12px #fff0a6;opacity:0}
+.radio-on .gup-radio-particles i{animation:gupParticleRise 5s ease-in infinite}
+.radio-on .gup-radio-particles i:nth-child(1){left:9%;bottom:7%;animation-delay:-1s}
+.radio-on .gup-radio-particles i:nth-child(2){left:21%;bottom:10%;animation-delay:-3s}
+.radio-on .gup-radio-particles i:nth-child(3){left:34%;bottom:5%;animation-delay:-2s}
+.radio-on .gup-radio-particles i:nth-child(4){left:47%;bottom:8%;animation-delay:-4s}
+.radio-on .gup-radio-particles i:nth-child(5){left:61%;bottom:6%;animation-delay:-.5s}
+.radio-on .gup-radio-particles i:nth-child(6){left:72%;bottom:9%;animation-delay:-2.7s}
+.radio-on .gup-radio-particles i:nth-child(7){left:85%;bottom:8%;animation-delay:-1.8s}
+.radio-on .gup-radio-particles i:nth-child(8){left:94%;bottom:6%;animation-delay:-3.7s}
+@keyframes gupGlowDriftA{to{transform:translate(35px,20px) scale(1.2)}}
+@keyframes gupGlowDriftB{to{transform:translate(-30px,-22px) scale(1.15)}}
+@keyframes gupRadioBeat{from{height:9px}to{height:49px}}
+@keyframes gupParticleRise{0%{transform:translateY(0);opacity:0}20%{opacity:.8}100%{transform:translateY(-130px);opacity:0}}
+@media(prefers-reduced-motion:reduce){.gup-radio-face.radio-on .gup-radio-bars span,.gup-radio-face.radio-on .gup-radio-glow,.gup-radio-face.radio-on .gup-radio-particles i{animation:none!important}}
