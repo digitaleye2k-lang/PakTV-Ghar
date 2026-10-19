@@ -147,6 +147,7 @@ const NAV = [
  {id:'vloggers',icon:'📹',en:'YouTubers',ur:'یوٹیوبرز'},
  {id:'archive',icon:'🗓️',en:'Video Archive',ur:'پرانے ویڈیوز'},
  {id:'favourites',icon:'♡',en:'Favourites',ur:'پسندیدہ'},
+ {id:'zaika',icon:'🍛',en:'Desi Zaika · Food',ur:'دیسی ذائقہ',href:'./desi-zaika.html'},
  {id:'yaadein',icon:'📼',en:'Yaadein · Nostalgia',ur:'یادیں',href:'./yaadein.html'},
  {id:'gupshup',icon:'☕',en:'GUPSHUP',ur:'گپ شپ',href:'./gupshup.html'},
  {id:'contact',icon:'✉️',en:'Contact Us',ur:'رابطہ',href:'./community.html#contact'}
