@@ -48,7 +48,7 @@ function showDJOverlay(id){
  video.play().catch(()=>{});
 }
 function setTab(tab,hash=true){
- if(!["music","radio","djs"].includes(tab))tab="music";
+ if(!["music","radio","djs","originals"].includes(tab))tab="music";
  for(const a of tabs){const active=a.dataset.musicTab===tab;active?a.setAttribute("aria-current","page"):a.removeAttribute("aria-current");}
  for(const p of panels)p.hidden=(p.dataset.parentTab||p.dataset.panel)!==tab;
  if(hash&&location.hash!=="#"+tab)history.replaceState(null,"","#"+tab);
