@@ -1,0 +1,20 @@
+/* DAADI KA DHABA — privacy-friendly, on-device recipe assistant using local site recipes. */
+(()=>{"use strict";
+const recipes=window.PAKTV_ZAIKA_RECIPES||[],form=document.getElementById("daadiForm"),input=document.getElementById("daadiInput"),messages=document.getElementById("daadiMessages");
+if(!form||!input||!messages)return;
+const tokens=s=>String(s).toLowerCase().replace(/[^a-z0-9 ]/g," ").split(/ +/).filter(x=>x.length>2);
+function respond(raw){const q=raw.toLowerCase(),quick=/quick|fast|30 min|minutes|short time|jaldi/.test(q),veg=/vegetarian|veggie|without meat|no meat|sabzi/.test(q),sweet=/sweet|dessert|meetha/.test(q),drink=/chai|tea|drink/.test(q),spicy=/spicy|hot|mirch/.test(q),help=/help|what can|suggest|recommend|ideas|cook tonight/.test(q);
+let matches=recipes.map(r=>{const name=r.name.toLowerCase(),words=tokens(raw);let score=words.reduce((n,w)=>n+(name.includes(w)?6:0)+(r.region.toLowerCase().includes(w)?2:0)+(r.intro.toLowerCase().includes(w)?1:0),0);if(name.includes(q.trim()))score+=12;if(drink&&name.includes("chai"))score+=8;if(sweet&&r.category==="sweets")score+=5;if(quick&&parseInt(r.time,10)<=30)score+=6;if(veg&&["chaat","halwa","chai","samosa"].some(x=>name.includes(x)))score+=7;return {r,score}}).sort((a,b)=>b.score-a.score);
+if(veg)matches=matches.filter(x=>!/(chicken|beef|kebab|nihari|karahi|biryani)/i.test(x.r.name));
+if(quick)matches=matches.filter(x=>parseInt(x.r.time,10)<=30);
+if(sweet)matches=matches.filter(x=>x.r.category==="sweets");
+if(spicy&&!matches.some(x=>x.score>0))return "Aray beta! 🌶️ For more spice, adjust fresh chillies or red chilli gradually. Start with a little and taste your masala. Want a karahi or chaat recipe?";
+const item=matches[0];
+if(!item||(!item.score&&!quick&&!veg&&!sweet&&!help))return "Beta, I know the recipes in our Desi Zaika kitchen: biryani, chicken karahi, nihari, chapli kebab, aloo samosa, chana chaat, suji halwa and karak chai. Ask about one of these, or say ‘quick recipes’! 💛";
+if(quick||veg||sweet||help){const options=matches.slice(0,4).map(x=>x.r.name+" ("+x.r.time+")");return "Bilkul beta! 👵🏽 Here are some ideas from our kitchen:\n• "+options.join("\n• ")+"\nAsk me for the full recipe of any one!";}
+const r=item.r;let detail=r.emoji+" "+r.name+" — "+r.region+"\n⏱ "+r.time+" · Serves "+r.serves+"\n\nIngredients:\n• "+r.ingredients.join("\n• ")+"\n\nDaadi's method:\n"+r.steps.map((s,i)=>(i+1)+". "+s).join("\n")+"\n\nEnjoy, beta! ❤️";return detail}
+function bubble(value,you){const p=document.createElement("p");p.className="za-daadi-bubble"+(you?" you":"");p.textContent=value;messages.append(p);messages.scrollTop=messages.scrollHeight}
+function ask(value){const text=value.trim().slice(0,300);if(!text)return;bubble(text,true);bubble(respond(text),false);input.value=""}
+form.addEventListener("submit",e=>{e.preventDefault();ask(input.value)});document.querySelectorAll("[data-daadi-question]").forEach(btn=>btn.addEventListener("click",()=>ask(btn.dataset.daadiQuestion)));
+const audio=document.getElementById("zaMusicAudio"),play=document.getElementById("zaMusicPlay"),vol=document.getElementById("zaMusicVolume"),status=document.getElementById("zaMusicStatus"),box=document.querySelector(".za-chai-music");if(!audio||!play)return;audio.volume=.26;function sync(){const on=!audio.paused;play.textContent=on?"❚❚ Pause":"▶ Play";play.setAttribute("aria-pressed",String(on));box.classList.toggle("playing",on);status.textContent=on?"Playing your Chai Time soundtrack":audio.error?"Audio file not published yet":"Press play to enjoy"}play.addEventListener("click",async()=>{if(!audio.paused){audio.pause();return}status.textContent="Connecting…";try{await audio.play()}catch{status.textContent="Please upload Chai Time.m4a to assets/audio/ in GitHub."}});vol.addEventListener("input",()=>audio.volume=Number(vol.value)/100);audio.addEventListener("playing",sync);audio.addEventListener("pause",sync);audio.addEventListener("error",sync);window.addEventListener("pagehide",()=>audio.pause());sync();
+})();
