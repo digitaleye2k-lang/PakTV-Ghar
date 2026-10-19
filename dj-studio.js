@@ -108,6 +108,6 @@ document.addEventListener("paktv:music-catalog-ready",e=>{tracks=e.detail.tracks
 document.addEventListener("paktv:dj-queue-start",()=>setTab("music",false));
 document.addEventListener("paktv:music-queue-changed",()=>closeDJOverlay());
 window.addEventListener("pagehide",closeDJOverlay);
-window.addEventListener("hashchange",()=>{const h=location.hash.slice(1);if(["music","radio","djs"].includes(h))setTab(h,false);});
-setTab(["music","radio","djs"].includes(location.hash.slice(1))?location.hash.slice(1):"music",false);draw();
+window.addEventListener("hashchange",()=>{const h=location.hash.slice(1);if(["music","radio","djs","originals"].includes(h))setTab(h,false);});
+setTab(["music","radio","djs","originals"].includes(location.hash.slice(1))?location.hash.slice(1):"music",false);draw();
 })();
