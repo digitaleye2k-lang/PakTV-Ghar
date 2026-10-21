@@ -34,6 +34,7 @@ function run(choice, globalPrivacyControl=false) {
   const document = {
     readyState:"complete",activeElement:null,body:element("body"),head:element("head"),
     querySelector:()=>null,
+    addEventListener(){},
     createElement:tag=>element(tag),
     getElementById:id=>nodes[id],
     querySelectorAll:()=>[]
