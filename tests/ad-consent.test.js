@@ -6,7 +6,7 @@ const html = fs.readFileSync("index.html", "utf8");
 const banner = fs.readFileSync("ad-banner.html", "utf8");
 assert(!/<script[^>]+src=["']https:\/\/(?:pl3179369|www\.highrevenueformat)/i.test(html),
        "Do not include vendor script tags directly on the site before consent");
-assert(banner.includes("ac85365b8166d90133c08c7e2e7eccec"));
+assert(banner.includes("496d9513280ec1abea29f69a25c35fa8"));
 assert(banner.includes("highrevenueformat.com"));
 assert(html.includes('name="google-adsense-account" content="ca-pub-7935805760564580"'));
 assert(!html.includes('<script async src="https://pagead2.googlesyndication.com'),"Google script must remain consent-gated");
@@ -42,8 +42,12 @@ function run(choice, globalPrivacyControl=false) {
       version:2,date:new Date().toISOString(),ads:choice.ads,extra:choice.extra,googleAds:choice.googleAds}),
     setItem(){}
   };
-  const window = { location:{reload(){}} };
-  vm.runInNewContext(code, {document,localStorage,navigator:{globalPrivacyControl},window},
+  const timers=[];
+  const window = { location:{reload(){}},setTimeout:(fn,delay)=>{timers.push({fn,delay});return timers.length} };
+  const sessionStorage = {getItem:()=>null,setItem(){} };
+  class MutationObserver { observe(){} disconnect(){} }
+
+  vm.runInNewContext(code, {document,localStorage,sessionStorage,MutationObserver,navigator:{globalPrivacyControl},window},
     {timeout:3000,filename:"cookie-consent.js"});
   return {
     adScripts:all.filter(el=>el.tag==="script").map(el=>el.src).filter(Boolean),
@@ -51,7 +55,8 @@ function run(choice, globalPrivacyControl=false) {
     banner:!nodes.paktvBannerSection.hidden,
     native:!nodes.paktvNativeSection.hidden,
     consent:!nodes.paktvCookieBanner.hidden,
-    target:all.some(el=>el.id==="container-8d58a68f4a6bcd33f948f07d9c5d0c85")
+    timers,
+    target:all.some(el=>el.id==="container-f2f16d24ca9a3049cd4688257eb5b256")
   };
 }
 let first=run(null);
@@ -64,7 +69,7 @@ assert.equal(refused.bannerFrames.length,0);
 assert(!refused.native);
 let display=run({ads:true,extra:false});
 assert.equal(display.adScripts.length,1);
-assert(display.adScripts[0].includes("pl31793698.profitableratecpmnetwork.com"));
+assert(display.adScripts[0].includes("pl31906516.profitableratecpmnetwork.com"));
 assert.deepEqual(display.bannerFrames,["./ad-banner.html"]);
 assert(display.native&&display.banner&&display.target);
 let googleOnly=run({ads:false,extra:false,googleAds:true});
@@ -73,8 +78,9 @@ assert(googleOnly.adScripts[0].includes("pagead2.googlesyndication.com/pagead/js
 assert.equal(googleOnly.bannerFrames.length,0);
 assert(!googleOnly.native);
 let all=run({ads:true,extra:true});
-assert.equal(all.adScripts.length,2);
-assert(all.adScripts.some(x=>x.includes("pl31793699.profitableratecpmnetwork.com")));
+assert.equal(all.adScripts.length,1, "Social Bar is delayed, and redirect scripts must not load");
+assert.equal(all.timers.length,1);
+assert(all.timers[0].delay > 0 && all.timers[0].delay <= 20*60*1000);
 let gpc=run({ads:true,extra:true,googleAds:true},true);
 assert.equal(gpc.adScripts.length,0);
 assert.equal(gpc.bannerFrames.length,0);
