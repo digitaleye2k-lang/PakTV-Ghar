@@ -41,7 +41,7 @@ consent=(root/"cookie-consent.js").read_text(encoding="utf-8")
 assert 'paktvAutoAds' in consent and 'paktvExtraAds' in consent
 assert 'kids|waggle-play|waggle-workshop' in consent
 assert 'standaloneAdSlots();' in consent
-assert 'if(!GPC&&saved?.ads)loadDisplayAds()' in consent
+assert 'if(!GPC&&saved?.ads){loadDisplayAds();installSideAd();}' in consent
 assert 'saved?.googleAds&&document.body?.dataset?.paktvBannerOnly!=="yes"' in consent
 assert 'saved?.extra&&document.body?.dataset?.paktvExtraAds!=="no"' in consent
 assert 'paktvBannerOnly' in consent
