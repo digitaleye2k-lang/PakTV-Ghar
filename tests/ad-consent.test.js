@@ -17,6 +17,7 @@ function run(choice, globalPrivacyControl=false) {
     const node = {
       tag,id,hidden:true,children:[],style:{},attributes:{},listeners:{},
       appendChild(child){this.children.push(child);return child},
+      append(...children){this.children.push(...children)},
       replaceChildren(...children){this.children=children},
       setAttribute(key,value){this.attributes[key]=value},
       addEventListener(type,callback){this.listeners[type]=callback},
