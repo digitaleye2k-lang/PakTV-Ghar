@@ -1,6 +1,6 @@
 {
-  "quotaDay": "2026-10-18",
-  "dailySearches": 80,
+  "quotaDay": "2026-10-21",
+  "dailySearches": 8,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -31093,6 +31093,22 @@
     ],
     "arydigital-izzat": [
       {
+        "id": "Thu_M83L190",
+        "title": "Izzat Episode 32 | 21 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 32,
+        "date": "2026-10-21",
+        "published": "2026-10-21T15:00:14Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/Thu_M83L190/hqdefault.jpg",
+        "checkedAt": "2026-10-21T22:11:59.697806+00:00"
+      },
+      {
         "id": "2S5_eQI24A0",
         "title": "Izzat Episode 26 | 15 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
         "episode": 26,
@@ -31110,6 +31126,22 @@
       }
     ],
     "arydigital-main-tera": [
+      {
+        "id": "I5gDYGVf4l0",
+        "title": "Main Tera 2nd Last Episode 64 | 20 October 2026 | Ghana Ali | Yusra Irfan | Arez Ahmed | ARY Digital",
+        "episode": 64,
+        "date": "2026-10-20",
+        "published": "2026-10-20T17:00:26Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/I5gDYGVf4l0/hqdefault.jpg",
+        "checkedAt": "2026-10-21T22:11:59.697806+00:00"
+      },
       {
         "id": "OErakyu1-A4",
         "title": "Main Tera Episode 59 | Best Moment | ARY Digital",
@@ -31144,6 +31176,38 @@
       }
     ],
     "harpalgeo-bano": [
+      {
+        "id": "3GsRhhcO-e8",
+        "title": "Bano Episode 09 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 21st October 2026 | HAR PAL GEO",
+        "episode": 9,
+        "date": "2026-10-21",
+        "published": "2026-10-21T17:00:18Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/3GsRhhcO-e8/hqdefault.jpg",
+        "checkedAt": "2026-10-21T22:11:59.697806+00:00"
+      },
+      {
+        "id": "9BDUO9_eCSs",
+        "title": "Bano Episode 08 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 8,
+        "date": "2026-10-21",
+        "published": "2026-10-21T07:30:28Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/9BDUO9_eCSs/hqdefault.jpg",
+        "checkedAt": "2026-10-21T22:11:59.697806+00:00"
+      },
       {
         "id": "WVihbN5h0Pw",
         "title": "Bano Episode 03 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
@@ -31336,6 +31400,6 @@
       }
     ]
   },
-  "cursor": 2,
+  "cursor": 6,
   "apiValidated": true
 }
