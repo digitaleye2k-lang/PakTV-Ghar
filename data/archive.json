@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-22T09:54:40.169863+00:00",
+  "generatedAt": "2026-10-22T13:05:50.167899+00:00",
   "dateTimezone": "UTC",
-  "cursor": 5,
+  "cursor": 17,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -399,42 +399,42 @@
       "uploadsId": "UU6s1zz1-t7rPf-4scKVYD8g",
       "handle": "Jaubi",
       "checkedAt": "2026-10-18T20:04:20.517484+00:00",
-      "lastFetchedAt": "2026-10-22T07:08:54.953433+00:00"
+      "lastFetchedAt": "2026-10-22T13:05:50.167899+00:00"
     },
     "atifs": {
       "youtubeId": "UC3FnOdo2ooBS4TrEcmwUR_Q",
       "uploadsId": "UU3FnOdo2ooBS4TrEcmwUR_Q",
       "handle": "AtifAslamOfficial",
       "checkedAt": "2026-10-18T19:47:58.539938+00:00",
-      "lastFetchedAt": "2026-10-18T22:51:37.066173+00:00"
+      "lastFetchedAt": "2026-10-22T13:05:50.167899+00:00"
     },
     "bayaan": {
       "youtubeId": "UCqOLlRNuWqswf30c9AJC-Cg",
       "uploadsId": "UUqOLlRNuWqswf30c9AJC-Cg",
       "handle": "BayaanOfficial",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-18T22:51:37.066173+00:00"
+      "lastFetchedAt": "2026-10-22T13:05:50.167899+00:00"
     },
     "abdulhannan": {
       "youtubeId": "UCZ1FCXu6uAhE6YkAsKQDGNg",
       "uploadsId": "UUZ1FCXu6uAhE6YkAsKQDGNg",
       "handle": "abdulhannanmusic",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-18T23:01:15.364202+00:00"
+      "lastFetchedAt": "2026-10-22T13:05:50.167899+00:00"
     },
     "hasanraheem": {
       "youtubeId": "UCaQvtCweOs1RpgFIO3-ezMA",
       "uploadsId": "UUaQvtCweOs1RpgFIO3-ezMA",
       "handle": "hasanraheem",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-18T23:01:15.364202+00:00"
+      "lastFetchedAt": "2026-10-22T13:05:50.167899+00:00"
     },
     "natashabaig": {
       "youtubeId": "UCfoMcYBhl7LM23G6tziMEYw",
       "uploadsId": "UUfoMcYBhl7LM23G6tziMEYw",
       "handle": "NatashaBaigOfficial",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-18T23:01:15.364202+00:00"
+      "lastFetchedAt": "2026-10-22T13:05:50.167899+00:00"
     }
   },
   "videos": [
@@ -72115,6 +72115,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "DGkWcFPRZu4",
+      "title": "ZABATA (1993) Full Movie | Sultan Rahi & Babra Sharif | Classic Pakistani Film",
+      "channel": "MovieboxMovies",
+      "channelId": "movieboxmovies",
+      "youtubeChannelId": "UC8Artr_jqToYkRKjgjhezmw",
+      "category": "movies",
+      "genre": "Classic Pakistani Movies",
+      "date": "2026-09-11",
+      "published": "2026-09-11T14:00:28Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 7763,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/DGkWcFPRZu4/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
+    },
+    {
       "id": "LhnAsHYP010",
       "title": "Dil | Music Video Concept",
       "channel": "Coke Studio Pakistan",
@@ -72275,24 +72293,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/55ORabmXir8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "XfeZyz2Y2tM",
-      "title": "PARWARISH - FULL MOVIE | SAMAR JAFRI | AINA ASIF | ARY FILMS",
-      "channel": "ARY Films",
-      "channelId": "aryfilms",
-      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
-      "category": "movies",
-      "genre": "Pakistani films & TV movies",
-      "date": "2026-07-19",
-      "published": "2026-07-19T15:00:09Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 8877,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/XfeZyz2Y2tM/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "_vMrPyWJY28",
@@ -72761,24 +72761,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/y3QKLxKGzcU/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "Ey_7ajUNqYM",
-      "title": "GHUNDA (1993) Full Punjabi Pakistani Movie | Superhit Action Film HD | Official Pakistani Full Movie",
-      "channel": "LollywoodCinema",
-      "channelId": "lollywoodcinema",
-      "youtubeChannelId": "UCMlGWm_woMhMcVYhJu8zsvA",
-      "category": "movies",
-      "genre": "Classic Pakistani Movies",
-      "date": "2026-05-29",
-      "published": "2026-05-29T15:00:26Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 9799,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/Ey_7ajUNqYM/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "7Q5lGTu-etI",
@@ -73517,24 +73499,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/Ot-0wmYeHNc/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "db-ee9yNMIg",
-      "title": "MERI ZINDAGI HAI TU - FULL MOVIE | HANIA AAMIR | BILAL ABBAS | ARY FILMS",
-      "channel": "ARY Films",
-      "channelId": "aryfilms",
-      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
-      "category": "movies",
-      "genre": "Pakistani films & TV movies",
-      "date": "2026-05-10",
-      "published": "2026-05-10T16:01:03Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 8842,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/db-ee9yNMIg/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "IvZPdew21A4",
@@ -74293,24 +74257,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "qcgpME7M4As",
-      "title": "RADD - FULL MOVIE | SHEHERYAR MUNAWAR | HIBA BUKHARI | ARY FILMS",
-      "channel": "ARY Films",
-      "channelId": "aryfilms",
-      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
-      "category": "movies",
-      "genre": "Pakistani films & TV movies",
-      "date": "2026-01-25",
-      "published": "2026-01-25T15:01:32Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 9433,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/qcgpME7M4As/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
-    },
-    {
       "id": "-x_D1J-20S8",
       "title": "Ulfat - SEHER, Abdul Hannan, & Shahmeer Raza Khan (Official Audio)",
       "channel": "Abdul Hannan",
@@ -74993,24 +74939,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/jSGjrLZq2mo/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "frs0YZE1CH4",
-      "title": "Cake (Full Pakistani Movie) | Oscar Nominated Drama | Aamina Sheikh & Sanam Saeed",
-      "channel": "MovieboxMovies",
-      "channelId": "movieboxmovies",
-      "youtubeChannelId": "UC8Artr_jqToYkRKjgjhezmw",
-      "category": "movies",
-      "genre": "Classic Pakistani Movies",
-      "date": "2025-02-16",
-      "published": "2025-02-16T06:48:02Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 7538,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/frs0YZE1CH4/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "_wJUiI-QrxE",
@@ -77045,6 +76973,24 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/uESo-j31UX4/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "dRHQijfLymE",
+      "title": "Phool Mere Gulshan Ka (1974) – Mohammad Ali, Zeba, Waheed Murad, Nisho | Full Pakistani Movie",
+      "channel": "LollywoodCinema",
+      "channelId": "lollywoodcinema",
+      "youtubeChannelId": "UCMlGWm_woMhMcVYhJu8zsvA",
+      "category": "movies",
+      "genre": "Classic Pakistani Movies",
+      "date": "2022-10-06",
+      "published": "2022-10-06T08:00:11Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 7637,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/dRHQijfLymE/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "naGFRwzbKo0",
@@ -79637,8 +79583,62 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/QD7CnAnPRg8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "esX0monWu7E",
+      "title": "lari chuti (MED STUDENT ANTHEM)",
+      "channel": "Hasan Raheem",
+      "channelId": "hasanraheem",
+      "youtubeChannelId": "UCaQvtCweOs1RpgFIO3-ezMA",
+      "category": "music",
+      "genre": "Indie & Pop",
+      "date": "2018-05-01",
+      "published": "2018-05-01T12:03:14Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 322,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/esX0monWu7E/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "gzO8c_QNawg",
+      "title": "Bayaan - Din Dhalay (Official Video)",
+      "channel": "Bayaan",
+      "channelId": "bayaan",
+      "youtubeChannelId": "UCqOLlRNuWqswf30c9AJC-Cg",
+      "category": "music",
+      "genre": "Indie & Alternative",
+      "date": "2018-01-06",
+      "published": "2018-01-06T11:32:08Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 346,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/gzO8c_QNawg/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "ojpHAF8-IIU",
+      "title": "Raga Shivranjani",
+      "channel": "Jaubi",
+      "channelId": "jaubi",
+      "youtubeChannelId": "UC6s1zz1-t7rPf-4scKVYD8g",
+      "category": "music",
+      "genre": "Jazz & Fusion",
+      "date": "2016-05-27",
+      "published": "2016-05-27T07:24:28Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 368,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/ojpHAF8-IIU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable; NESCAFÉ Basement: channel unavailable",
+  "lastError": "Sajjad Ali: channel unavailable; Mekaal Hasan Band: channel unavailable; Rahat Fateh Ali Khan: channel unavailable; Arooj Aftab: channel unavailable; Zamad Baig: channel unavailable; Hassan & Roshaan: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }

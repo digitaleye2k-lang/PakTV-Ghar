@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-22",
-  "dailySearches": 16,
+  "dailySearches": 24,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -650,7 +650,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iSsowAULHBM/hqdefault.jpg",
-        "checkedAt": "2026-10-16T13:04:00.853727+00:00"
+        "checkedAt": "2026-10-22T13:05:46.386479+00:00"
       }
     ],
     "arydigital-mirza-ki-heer": [
@@ -668,7 +668,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/JVflRbjyA3U/hqdefault.jpg",
-        "checkedAt": "2026-10-16T15:50:47.616908+00:00"
+        "checkedAt": "2026-10-22T13:05:46.386479+00:00"
       },
       {
         "id": "XrppTAxAkcY",
@@ -702,7 +702,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/EeBtW9QO-ek/hqdefault.jpg",
-        "checkedAt": "2026-10-16T15:50:47.616908+00:00"
+        "checkedAt": "2026-10-22T13:05:46.386479+00:00"
       }
     ],
     "harpalgeo-beti-ka-ghar-konsa": [
@@ -31592,6 +31592,6 @@
       }
     ]
   },
-  "cursor": 22,
+  "cursor": 26,
   "apiValidated": true
 }
