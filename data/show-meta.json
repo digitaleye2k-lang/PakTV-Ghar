@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T03:12:42.010036+05:00",
+  "generatedAt": "2026-10-22T06:03:05.084917+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -42,6 +42,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 21,
+        "time": "11:30",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-22"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -89,10 +96,10 @@
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
       "latestPublisherSource": "https://harpalgeo.tv/program/Khafa",
       "latestUpload": {
-        "number": 22,
-        "id": "ps74wq2Pv8s",
-        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
-        "date": "2026-10-16",
+        "number": 23,
+        "id": "aD6aT1uLd-U",
+        "title": "Khafa Episode 23 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 21st Oct 2026 | HAR PAL GEO",
+        "date": "2026-10-21",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -178,10 +185,10 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Gulbahar-500.jpg.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 10,
-        "id": "lCFiom01bBo",
-        "title": "Gulbahar - Episode 10 - [Eng Sub] 15th Oct 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
-        "date": "2026-10-15",
+        "number": 11,
+        "id": "-SSVup_u-y4",
+        "title": "Gulbahar - Episode 11 - [Eng Sub] 21st Oct 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
+        "date": "2026-10-21",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -196,10 +203,10 @@
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
       "latestPublisherSource": "https://arydigital.tv/drama/hey-fam/",
       "latestUpload": {
-        "number": 10,
-        "id": "oGPEN2vcyjA",
-        "title": "Hey Fam | EP  10 | 15 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
-        "date": "2026-10-15",
+        "number": 11,
+        "id": "OHzfWHFVzCM",
+        "title": "Hey Fam | EP  11 | 21 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
+        "date": "2026-10-21",
         "source": "Official YouTube upload",
         "availableGB": false,
         "availablePK": true,
@@ -242,10 +249,10 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Khushi-500.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 36,
-        "id": "ZyTelm5JH4w",
-        "title": "Khushi - Episode 36 - [Eng Sub] 18th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "date": "2026-10-18",
+        "number": 39,
+        "id": "L2jN_CghoOM",
+        "title": "Khushi - Episode 39 - [Eng Sub] 21st Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "date": "2026-10-21",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -260,10 +267,10 @@
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
       "latestPublisherSource": "https://arydigital.tv/drama/main-tera/",
       "latestUpload": {
-        "number": 64,
-        "id": "I5gDYGVf4l0",
-        "title": "Main Tera 2nd Last Episode 64 | 20 October 2026 | Ghana Ali | Yusra Irfan | Arez Ahmed | ARY Digital",
-        "date": "2026-10-20",
+        "number": 65,
+        "id": "avW-UFQRmbE",
+        "title": "Main Tera Last Episode 65 | 21 October 2026 | Ghana Ali | Yusra Irfan | Arez Ahmed | ARY Digital",
+        "date": "2026-10-21",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": false,
@@ -322,10 +329,10 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/TT-500.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 11,
-        "id": "wO2AjOXVIJc",
-        "title": "Tark-e-Tamanna - Episode 11 Highlight | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
-        "date": "2026-10-17",
+        "number": 12,
+        "id": "OLB9Cy49X2g",
+        "title": "Tark-e-Tamanna - Episode 12 - [Eng Sub] 21st Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "date": "2026-10-21",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -1699,10 +1706,10 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "hum-yaqeen-ka-safar": {
-      "lastAttempt": "2026-10-12T20:13:29.083832+05:00"
+      "lastAttempt": "2026-10-22T06:03:05.084426+05:00"
     },
     "hum-zindagi-gulzar-hai": {
-      "lastAttempt": "2026-10-12T20:13:29.083842+05:00",
+      "lastAttempt": "2026-10-22T06:03:05.084697+05:00",
       "latestUpload": {
         "number": 26,
         "id": "6ldpYcSAxOg",
