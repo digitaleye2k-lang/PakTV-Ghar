@@ -1,70 +1,94 @@
 {
-  "generatedAt": "2026-10-22T03:54:30.482831Z",
+  "generatedAt": "2026-10-22T07:09:17.875261Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-22T03:54:30.482831Z",
+      "updatedAt": "2026-10-22T07:09:17.875261Z",
       "source": "Google News RSS",
       "items": [
         {
-          "title": "Pakistan slashes petrol price by Rs2.71 per liter as US-Iran conflict persists - Arab News PK",
+          "title": "AI could reshape Pakistan’s labour market, puts service-sector jobs in focus: World Bank - Business Recorder",
+          "source": "Business Recorder",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZlVmcmJaa3RrUUVuN2thSGZ6VU16bXNzajhRaWdrcEtQZTNXZlpPLUc4S19ldnNreUZGVjFXaURONWF5M1lncUhHUDNHXy1hOWN6UHlQYmNrUWhmbTM3V19TVmEwTzVuWWJMYUNnS0h0WUYtdkZLcWpvX2xpTGJ2TEVnUklfU21WZHpBbnBOZzhEem1sd25ocmpvNFluR0dBMGpuRFI1d0ZacGF6SERiRW1nelBsVVJKOHZ5MHB4T1V4Q0HSAVZBVV95cUxOX09zZnZJTU0yeGU2dzh1RTh5S19obXFqaXVYLVhIbGRYZHNKVlM1QzdkLUNXVmZMT3UtcjV3Rm1fSllWdC1faHl4Nl9XQUpaT3pKT05CQQ?oc=5",
+          "published": "2026-10-22T07:01:39Z"
+        },
+        {
+          "title": "IMF sees 1.3% contraction in Middle East, North Africa and Pakistan in 2026 - Arab News PK",
           "source": "Arab News PK",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbFdmcW1xSlVLSUVxemNpNTZYa3duSV9mYnJybUdxQ3dtRDY1WE55aG51U1VYQ1F0QkJIa2RKM2EwZjg1R1ZlZnlpXzQtWWgxYzdiTUo2Vk5PR0FlN3ppMExsVUllWmp2ak5kRzdWZk5hYURyMjZtamtIczZBNVFudUkzVEY3VlUyWG9Kb2pDcm5nSU1xM2YxUU93UURha1Z2SG5CQ09oVVhkMy16LXBuNGVnYnpVMlFIYmc?oc=5",
-          "published": "2026-10-22T03:44:19Z"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTkJXRjlNOFV3b1M2cjVySkh0bEdXWGkyeUxLN051TnZ6aGZNcmRUUTlmQ25kZF9hTjhRS25aNy1Qekpka0Exb0FLMGxxQjdNdUdjUHp1QmV1MVNCYWRJSGlVUmtDX0xQYl9mbVBoOHFVU3ljdmVsMUhGUEUweXA1NThzbGRjMEl3TzFvU0RodEtiVDMyMHBVVDliTXBRZ05qXy00TnZHNjFxaEV1WlhxMEhYVQ?oc=5",
+          "published": "2026-10-22T06:50:49Z"
         },
         {
-          "title": "Pakistan, Turkey, Qatar, Indonesia sign new defence deal. Why India should pay close attention to Badr pact - Firstpost",
-          "source": "Firstpost",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOU0wzVXJPeVA2XzlyTFhTSkRYN2lVWnp1X3BYWGp4YWNxX3A3OTdaNGVrZU8tQkxjWGhGNWdsdG5zNjJ3c3g1ekdPYmF1aTZFelpKYU5OZzluRkJOVUNpVWZELXpFUmxlMTRJNU9zVV9YeHRzcHdJQkEydy1GM2wtWEM2ZzRWaXdoWWk0MHEya0VWSU1LcXlhTENkdkRIWGdORURGNGRiZ3VuN3k1LTljYWM4Z0g2UGdMWWJOLU9lZHVDNkVCYm5YSlJtSWJlTkZTblZMel82OGV3VHl1OWlodkU1RWp6QdIB6wFBVV95cUxQdzFGZEVxblJuVDY4X3d3RkhSOWFDNlVEVTZaU1RCYjVuTXg1LWRjU0pTYm1FMWZ2cklpb212OHFQVF9SSTJ1NXpVMTNnMmljT0hSa3RLbTB1ZWhoVkktOEsxd1UzV2tRRk82NFA0OGQ1d3N5WEpkYXY5S0MyTTRkWUFpeS0xM3otUjBvN0Jta2xLeDdXVGFaLXFoUUJ6aE43SDM2a2dQTnR2MGFxU1FEMUpZT0pVNTR6dGxyZTNranREX1V4V2FidXVuOGt3ck1HS3pYVTN1dVM1RFpHSkg3d1FIWlZ3clBOWGJJ?oc=5",
-          "published": "2026-10-22T03:44:09Z"
+          "title": "Mashreq launches NEO BIZ in Pakistan to empower SMEs through integrated digital banking - The Nation (Pakistan )",
+          "source": "The Nation (Pakistan )",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFc0VkRzRnkzeEg3TDJUaThxWWc5WWVUOGFWWXZDVFdvRHBYdUNfX0J4Z1pqWmsyNzk5VldfTnpIS2tURzYyUU9USU5wRFpOUkZnYmJUWUlfOGItSV84Xy1NRjEyRFloRGZVcWdDU1M0WGtqSFZVXy1ZN1RvTEZDLUZmZjYxZWxpbFl3S24tSXluMkNJSTEyQXNxT1NoU3dFNjdRQURRMjU1c09jZjBzWQ?oc=5",
+          "published": "2026-10-22T06:44:08Z"
         },
         {
-          "title": "Pakistan receives second LNG cargo from Qatar in October as winter gas supply concerns mount - Investify",
-          "source": "Investify",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUXl5RTQzUHJMVUhEM20wYU9jd19XeHYzLWlSUWRzM3djdEt2QTdtUkNYQ1lsbzMzd1NDbnlCVU9vUHdVX2syRWV1eWJKMFQySDVYdnlBUGkwWnhQMHBfT1NZemJQR2wwTjdZSERqbWVWdEF6S29JQlNVRm4tdkgzdlQ2dTlrV2xQYVlNUkxwUTF2Rk5iLU5vRmk3cWtaUDFwdlFzcnlBQnFxMGh3UzVQeW5tM3g3UHcwOG9aR1QxLXg1bjRTYXlyLWl2eDE2dw?oc=5",
-          "published": "2026-10-22T03:34:12Z"
+          "title": "Ambassador Sheikh outlines shift toward technology in Pakistan-US relations - | Associated Press Of Pakistan",
+          "source": "| Associated Press Of Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVIxU0VTSVF2VXNHUkNmMXlha1o4VEw5VHBOOE5ZUnlfMi1kTFMxZ1ZJMGJBYkNGQUgxNTFPeU5zMUJqeUJucmpKa1BsZUhFRWZONXQybWlXTFBROWdOdGR1eFViRWl3UzhfY1lxNTlWdXhDWl9CdEFWSjgxWVN5YXBhRHlGcFBhMnBQMWRGVGxka2NBMU5GUXBLZnNFQzJNZzBtN2wzNGpqRzR0?oc=5",
+          "published": "2026-10-22T06:43:19Z"
         },
         {
-          "title": "Pakistan hosts seventh Suspolo apple festival — Dawn - UA.NEWS",
-          "source": "UA.NEWS",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNREtpRE5QTVVCdEpXemV0ZFVOX242Y242d3hLLXVpWEJDbW91SWxNLVdVQW0tU044amQ4SjdLTkkxRDkzU0I5MUVuc1JDRXVVZ3FFN2dJLUtUZTBOdW50QnF0ZDlhZDljc2hEVDVzeTUxbk5xdV8zdkFKQ01aSUZqWHdERk4zaHphZXI4b0g1Ymp5X00?oc=5",
-          "published": "2026-10-22T03:33:16Z"
+          "title": "OPPO Launches Find X10 Series Globally, Bringing Triple 200MP Hasselblad Imaging to Pakistan Soon - Biz Today",
+          "source": "Biz Today",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeDUxSllHMjZ2eVhma09oT2s3REtEa01wZ2s1dThRd3kweHFoTkNEYjRuMkotbks5am50ekRPeUhBU2dxNFFvdVhROUR6U21CUjhibERzVTRHbE9yNFdhMWZzdVk0Tjl6Nk5IbTBnM0hQRGpxYVNQR3Ffd2hzbFZJVHkwUzdxX1NMX3Z3aDkxOHVoNTd1SnktbGJnN1I1ZkliTkpQczliWmRtZEgwWlZoLXN1OXI0T3NEeXQ2RVZjREdpTks2QzBqdUMyUXYxUmM?oc=5",
+          "published": "2026-10-22T06:42:43Z"
         },
         {
-          "title": "Pakistani Embassy in Tehran, ECO Cultural Institute host exhibit showcasing Pakistan’s rich history - Tehran Times",
-          "source": "Tehran Times",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa0poY2NQM0VQcWxZemIzTlQxSHItRGRHaVhaaGRvWllaSlRKT2ZpMEdNNDFQZ2w5OXVVYVhwYWNNQ010TkFMVDdpdHF2T0cxYzNfX1d0dGh5MlVZeThSQ0laMFdZaEltTzJqOHY0THpnbVdHWlF3dXV0bGhuQmZ1Vk9JbS1Ga0dQMkdBVzEzZ3ItSW1kY01IeTVsWVFveUZJMWszRGF3?oc=5",
-          "published": "2026-10-22T03:05:12Z"
+          "title": "Pakistan, Saudi Arabia vow to strengthen bilateral ties - The Nation (Pakistan )",
+          "source": "The Nation (Pakistan )",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQazl0UHQ2Um5DSFV4QlN0Nk1JVXdWU1N1QUVmb2pHaEs3QlVoVkQwdTUzOUtMYm03Zm5tRlFfQU15Y3RRNURwb3Bic1hlMzZEN0JmenNwbFdLU2xsTThjSEY2SkRHZVBHY3E3T0xNRkRQZ0tYV25Pc2xPVkwzQXVLRnR2Z1ZjekM3S1hPa3JCeFhVUXM?oc=5",
+          "published": "2026-10-22T06:39:44Z"
         },
         {
-          "title": "Qatar, Türkiye, Pakistan, Indonesia Sign Badr Defence Industry MoU - Quwa",
-          "source": "Quwa",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb0Uzb2xES2F4SU53bDNsTlNhT0EtQWV0Z0l3Vl8teDFvSjVpWDJoN2liRU5QSjkwV2duY3R4Vk95dVpiSFVzLWR2aXAtWDBHY29jMHlBT0xkRi1FYl8yRDZjbnpVYU13Zl9BNnAteG5hM1pEa2tGT242SDduLVR3MHM2SUxka0l4X2JIam11a1kzbHlENk5WOFk3aDV1ems3el9J?oc=5",
-          "published": "2026-10-22T02:54:50Z"
+          "title": "Pakistan Revises Customs Valuation of Imported Coal Based on Argus Prices - Energy Update",
+          "source": "Energy Update",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaUxWYlR5emZCX3B4LXNpMFBIS1ZNLWNhVTYwWWg0bjAyaGhJMWFoSzdodzdleTdVWlNyUEdQZ052VXFwdHdwWmlhQU1Wa0NMdTlpQzBjQzdOVllsVjlGX0EzWGJmX3BVWHBtVnBVMEVqMS1IWC1XUnZ5S2I1UW9hamdQOURTSU4yYlhyemhHRDV4MzBOY3lrSE9zWDhtYmh5VmdQd3NNUG8xdw?oc=5",
+          "published": "2026-10-22T06:35:43Z"
         },
         {
-          "title": "PDP demands cut in oil prices - Business Recorder",
-          "source": "Business Recorder",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4weDREc01jLW1nU1JSZUJ4cEROTXF0OHlfU2Q5Uk45Y1d4OVI5YksyOUtldVUwQUY0TlpBUFN5TTJjWHZYNDg5eHBxamhUWkhuTy1vTXVkZXl2OHROMXc5Y1M5U0NXTzBzUWZfbFp6ZHJzSlVpWjJxYdIBVkFVX3lxTE1qWDhqUDdyanhUcjBTYWxncW54ektldGZDSEM3aWJCRkNXVXYtTEJ4SzUzejBneE5xS05NT2VFRWgxVUVfQnl5MVhNYVJmNnlZU3ZFMlJ3?oc=5",
-          "published": "2026-10-22T01:45:35Z"
+          "title": "IAEA’s Endorsement of Pakistan’s Nuclear Responsibility - The Diplomatic Insight",
+          "source": "The Diplomatic Insight",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeEhOcHhQbzZOMnA1VTZvLVlRblBodjF0OG1ib1owMl9rV0lvVFFscGdLNXNLVzVHWXEwSEQzOGllYlh4NWhHTGRreng3bFFnU1VCaWN3Wk93Z1UwOHR6YzNVbHRJU2ZjbDgtbGJQel93VGtZa3dYT2ZkcG5JUmM4QQ?oc=5",
+          "published": "2026-10-22T06:24:12Z"
         },
         {
-          "title": "Saudi envoy meets Governor, seeks enhanced cooperation - Business Recorder",
-          "source": "Business Recorder",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45YmpKVWs0SXNSbjhBdncwbWVBOXIyTjJONExDbThLZTBId0VUVzY0NVVOeFBwM2F3MEd4M0hoU1VfMnpuMjdkaFU3bjZUdHFGNnpWN2V30gFWQVVfeXFMTjliakpVazRJc1JuOEF2dzBtZUE5cjJOMk40TENtOEtlMEh3RVRXNjQ1VU54UHAzYXcwR3gzSGhTVV8yem4yN2RoVTduNlR0cUY2elY3ZXc?oc=5",
-          "published": "2026-10-22T01:43:03Z"
-        },
-        {
-          "title": "Sindh prepares to strengthen climate response - Business Recorder",
-          "source": "Business Recorder",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdV9HOHVSbVBNeUZ6N3VhdVJIRzNpaWcxcFRwVklQa2xZSnkwekRkM28tcGYyMEt3V1BLUTJ0ZkJqbk4tR3hNVDlMaS1ndk90ZGw4NWZHWEUtcFdiU0c0a2haRGdDSllNMXJqNXBjTnFCYVlvSllYbldqT1RxS3hESzg1Qk84d19XNVhMOEt30gFWQVVfeXFMT3ZhejFLQVd4VEdubFBYcm9iaHZCWjBTTWhTOUJhdWczaGw0ZXBRMWJxQl9hNmdhZ2NfN1F5Z1V4NFRabnFsam5tY0VpeWRpSlVpS1FvY2c?oc=5",
-          "published": "2026-10-22T01:40:49Z"
+          "title": "IMF sees 1.3% contraction in Middle East, North Africa and Pakistan in 2026 By Reuters - Investing.com",
+          "source": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUWNDelpkQXZhT0lueDg4SFNENW5Bd09RaTA5R2kxZFcteXhZRmxrZU5kc2w5VU9xQ2RzSHU4TXBxSTY4cVF3aE51VlJMOGNZWmVUUFhZakJETHdWbS03a21UQ0dhVWkza2MzcmRxWVlPZ2NMenAwNDZJTnZMMldYNmNTRjhGcTBDYmFERGpCQ1NnY29lcWZmczQ2aDBkYzRWMnM1Nk04TUtTaXB0WjVQcUxnQktybk1obl9Cc05VVnpvdw?oc=5",
+          "published": "2026-10-22T06:10:06Z"
         }
       ]
     },
     "world": {
-      "updatedAt": "2026-10-22T03:54:30.482831Z",
+      "updatedAt": "2026-10-22T07:09:17.875261Z",
       "source": "Google News RSS",
       "items": [
+        {
+          "title": "Orionid meteor shower 2026: cloud cover forecast by region - The Weather Channel",
+          "source": "The Weather Channel",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTFJM0dBYmo0ODJBNmhIemE4b0JGR1lxbk9JYmFlY3diZk9tSk9uQU83ZUw2ZHV4MWNkcC1tSXJPZ0FJUjZQdWEzUXVSbzlBZHE3NmhaSjFVWkpDdkVFSlVEWm1mczF0dlZWXzVJcDB3a05kREpab3N6UUdXY3RtR0NCQnBneDFmeG5TZ2ZQQmN2QkdGWExMNlRZTUFvNHExNEE?oc=5",
+          "published": "2026-10-22T06:56:08Z"
+        },
+        {
+          "title": "EXCLUSIVE: Musk’s public endorsement of SpaceX-Tesla deal may throw a wrench in talks - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMElybkJjbnJVcng0S3ZMdGFraU9qazdTRS1sU05ScEU3YWpHTlJYRS1TTVVRa0FvR3Q5aFNjeG1TRWJPQU00clFvbmtSYlVMMEhrcE1MRUxXcG5Uamo4emRadjI5LTU1eENCX1Z4MnRPd2ZJYlJPVzZNSnNzQ1lLRGJiaUxxbVRucWNjdXUxWTlmcDEtM0VMazROblJvLXJGTXZmcG01RkxRaXRuUEVHdlBVOEJMMndJYVE?oc=5",
+          "published": "2026-10-22T04:24:00Z"
+        },
+        {
+          "title": "As Ohio attack ad draws bipartisan heat, Vivek Ramaswamy doubles down - The Washington Post",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQejhmU25UdXc3dUkybk9XcGlYWTdtaGJBQzJ4TEZXdVAzSWt2S192OURVSmtWQmc2dmpCSWw1WVo3X3pYSDFWZlJ5dEhnZUl2THBNdlhQSDJxM2UyNnBDZVFMYUdDbGdHRlBudFdMWGdWX21nbzRHRGQwSFoyYnA0Y1RFaHNRM18xZkluTlVjSFhiWnVfSkRjUGRIT3U0ZW9wY1lZaVJpNHA?oc=5",
+          "published": "2026-10-22T04:01:36Z"
+        },
+        {
+          "title": "Angel Reese Makes History as Dream Beat Valkyries in WNBA Finals Game 3, Box Score Stats, Highlights - Bleacher Report",
+          "source": "Bleacher Report",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT0NUZEFiQi03OXNOWWRUbUUxbVpCTzlCRUdDR1FmNzlMdjlLdVVLaHI3REM3WVA0WWNudnB3RjhKNGlDMWNpQ1BVb2dfOGkxcmg2UnZWSXc3SUx5Tk8xZ2JqMGJmR01RbThaR256YkNDYWdIMUd4OEpJWjRBZVlEdFVkOGxOSlluWG1aajBqa1ZqWFoyM0JfR1lxOXNrS2F5QUhBS2NTa3NWbjZqRzBDSno4bXpoZF9adkNKQy1wVjQ2U1lVY1pmXzVrSEw4a1F0S2w4?oc=5",
+          "published": "2026-10-22T02:49:12Z"
+        },
         {
           "title": "Teacher who survived Oregon school shooting says she had no chance to protect children - CNN",
           "source": "CNN",
@@ -72,160 +96,136 @@
           "published": "2026-10-22T02:29:00Z"
         },
         {
-          "title": "Judge Restricts D.H.S. Field Operations Aimed at Unearthing Voter Fraud - The New York Times",
+          "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched - WIRED",
+          "source": "WIRED",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRHBCSV9jVXNQRUVUankxMEdROWJyZUxVazhZSElHVm9rc1lPZUFwSHBjR0I1dXRsMWVSWXVUZ05QSlZCNEctQ01hYnJwUGVJOUN0YTJwQm9PODdLMExVeEFsLXpJRFFBX3FiOHh3blJ4cjEtS2J1MHNFZktmN1YtNk0ycUN3dTRYY1FSMGotZFRGNWU1NGNIdmZDLWctYThUdmc?oc=5",
+          "published": "2026-10-22T02:24:00Z"
+        },
+        {
+          "title": "El-Sayed, Rogers face off in last Michigan Senate debate: 3 takeaways - The Hill",
+          "source": "The Hill",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOEM2YTBhVGY2ME9DbEdZYUxCc1ctZ2hJQVAwdzh2bDZUdzFfbk9CWlR5eGV1Z1V3WUZEbWVfQVZjdkI0VGNpcTZiNkF5ZzVpbVFVRUp1cFVIVzRiS0VkSkpqRmpiTHEzUDJJdnc5bGZRRG1WRE9TQzA3cFRSM2c4ZUxfTWFNVzFtZ1lUZXhFVFFlb252dkY1MlFyRdIBoAFBVV95cUxNOS1TTTk0WlItVWFQYm5vOW1iSlJMcC0zY0hhb0luRmxXVDRIeUdqVkVRZFo2ekduNFdSVnNyWHMxV2VTUXk4aTFqLTdJa3FlM2thSF9FRTE3NVdHNTUtWHFDLWdpMEFxcl9EQ0RCVXJWNG1oZkp4T1BLSi1XRHRtbmZFMHhNWS1LNHZCbG1lOXh3RGVtazAwWG1BYkFid0VU?oc=5",
+          "published": "2026-10-22T02:15:00Z"
+        },
+        {
+          "title": "Clashes Darken Rally in South Carolina as Trump Seeks to Boost Darline Graham - The New York Times",
           "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQlc5YXJjdHJsTU1BZjhOY1RDY2M1R0VQN1U2MjE4T050R3hkODYtU3NLQXlRVDlJUENMem1LZ3g0T0FYdE1XY21Td0M3M0pkd2ZhWVNmVG9SYUp3ZGVOcUZweVNiSzF1aUp1SW5HSXJuZTV3WkxfeE9odGxCNEtQb3ZWNmlOMDdfc0tr?oc=5",
-          "published": "2026-10-22T02:27:56Z"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMldQQlp5dHZ6MGtxa0U4NGVXd1p2bDAtYTktRzJoUTZiN2swZkxhWkZrRWtDYzAybjZLOFVjWV94bU1rSVdERkdDUnlLOFVhTnhCenYzN29DUWtGT1d6c0ViTFpEWG44T2VQcWNWTUFwWWM5bkxXV1BwQV83OUJWdlRRRUp1Q2dSNFdhWGx2dnlfV0NpaDBrQQ?oc=5",
+          "published": "2026-10-22T02:07:53Z"
         },
         {
           "title": "‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos - The Guardian",
           "source": "The Guardian",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSXQzX1cwWUJLUjNfX0lOX2tlSkoyaDlXaDNzcjdUNlF2eG90X3RMNjJhYlJkVkpGYmhWZWtlVnRoRFNvOFJkOEtxNWpiQTVPeFdETTNNZHlqQU43Y0dsU0pESDBmSUVsQ0VpdmtGOG4ydEhuMEp5czMzZDdjUWo4dDFnb3M0bjROUXhUZDFUdHZUbGxS?oc=5",
           "published": "2026-10-22T02:00:00Z"
-        },
-        {
-          "title": "Joel Klatt: SEC-Big Ten scheduling agreement expected once CFP expands to 24 - FootballScoop.com",
-          "source": "FootballScoop.com",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZnJBTDRySEg4Vnk4azhJTnM1SVVmdzNXWXEzc2htVDNwbmhyRGI2b3kxUDh5cm9WbmRfMkNYQ0NoYjhwaEZSaFo4RTJBRXFxR09ZSUQ0b01DTU5GMlYtMzJIVnRjdXotX3FvUDNBWDMyVzlXUmZLdnNNaU1DSy1ac0hXUTlxOUtaQXNMN20yeUpXTDByNW1WTU5EMWMydVhlVFNDeW5HdGhWX3dCYVFyTDh2aXFqWk5OM0pxWTBhczFGdE15eXNPekZRUjdiN2M?oc=5",
-          "published": "2026-10-22T01:35:47Z"
-        },
-        {
-          "title": "‘Man, I loved that’: Trump cheers South Carolina rally attender who hit protester - The Guardian",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNck45VWZfai16MWR2WnZFRDhmYUtPZ0xwNkR1WWFZMWQtdVBfWlRpR3BYcGlWQXFpTXFxV1FfYktDeUZEd2lDODVieEoyUzVmMTVZSTZTUWRqMXJRc0VCYTV4WVpuM2FWcks0M1VkVTQtRjBmRi1fbW51SWticmx2Y0RWeldXSnBUbkpKSmxsRUZjeEE?oc=5",
-          "published": "2026-10-22T01:23:00Z"
-        },
-        {
-          "title": "John Anderson, Country Music Hall of Famer With Unmistakable Voice, Dead at 71 - Rolling Stone",
-          "source": "Rolling Stone",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM2FjTDVyUEVKcE41b1Y0Tm10NXhUWlRWWXZUdlZINFN1b0t1Ti11bkpwMzJyazZiTkhGbHhuRmkyZHJGM2pUQmdxY3NuNXA0bjVtb1JJYWlycW5fZnhUMUJtcHl0V09ockg4aTFrU2REWURNN3VUeFJnMENJVGpLcW5hcHJ0bzdhNnRkaQ?oc=5",
-          "published": "2026-10-22T01:22:06Z"
-        },
-        {
-          "title": "In final Michigan Senate debate, El-Sayed ties Rogers to Trump, while Rogers says El-Sayed is untrustworthy - CBS News",
-          "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYmN6S2JoaGI2c0tXZndNZG1ZTFBvdkpBSEM3bzlVcXNrUTVkTmlPR2Z5LVFUVG1VbGNPUDlRWXhDSENvdGpiYVdHUUM2Qnh0VWRDR29yRWF2ZzNFVFFZWkRhU0c2LWs1T05QTDlZNG56R1gxMFZtbkdqX25WdXlYTG9DeUl4Zk9BRG1HdWp3?oc=5",
-          "published": "2026-10-22T01:21:22Z"
-        },
-        {
-          "title": "How Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax - The New York Times",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcEdocGZfUk9Ia0YxSjBwLXlHTHNQeFJDdENxdVNkWjJnb08wV1dGYW9DN2FHMjRZSDlla3lFMVdKYjB1SUg1azIta19CWHdLY3RNeV9iZHhSUUdxSVNmdFFhVHhhb3Rvcl9jdXFqZkVwcE9sSlFkdkIwZ2QzdXhuYnNmNC1IM0Qwcl9xZkN5aGJTa1FQLTd5Tg?oc=5",
-          "published": "2026-10-22T01:21:13Z"
-        },
-        {
-          "title": "US State Department orders some staff to leave Saudi Arabia as attacks escalate - BBC",
-          "source": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmeWNaNkZfMWgyVENuck5jTjBjUTZKNWE4V29DcW8xMURzclJjUFJsQk5Jb1pwTFNtcnJsU3R3RXI1YW8wVUxtejV2bFVkXzZrUF94M2tpbm5nQVU?oc=5",
-          "published": "2026-10-22T01:07:34Z"
         }
       ]
     }
   },
   "newsUrdu": {
     "pakistan": {
-      "updatedAt": "2026-10-22T03:54:30.482831Z",
+      "updatedAt": "2026-10-22T07:09:17.875261Z",
       "source": "Google News RSS",
       "items": [
         {
-          "title": "Maldives and Pakistan exchange 20 agreements across key sectors - Myanmar International TV",
-          "source": "Myanmar International TV",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMXJJNFpRS2stMjN1MTJlQlRrejgyd1JuQ29hTEdvQ0dHeVNRTnE2NWJPdUJ5WXlrSTRTeF90TGI5RGNVOEtsSWlNS3ZGQk1ib0h3QVg3M05pYndPeUctLU5OQjJJRndJS29aUEo1UURrVWpaTDJORHA5a2VJdWZkR0pqX2k5c0hOOFN5RGFmUjh3LVo2NS04akFHQQ?oc=5",
-          "published": "2026-10-22T03:09:30Z"
+          "title": "Pakistan makes winning start at Billie Jean King Cup Asia - Daily Times",
+          "source": "Daily Times",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVlN1Q2JiaWNPdE1jZTJ5MjVZNGlqV0VfVnRHTXN4YXVIZWxLSDhkRkRiWTlMT1JoUjZKSk9qdV9qRWdYN0NlTVFRTnVuZlNHa1lxWW5td1VLMEhGemtObFExQldCS3QtaDdlU1hRSTBKS1U5WVdtMXlXYTBJVnJLbVFWQW1mUEFybmdPV3ZEanBudUJsNUE0?oc=5",
+          "published": "2026-10-22T06:43:20Z"
         },
         {
-          "title": "Rubio defends ties with Pakistan - The Express Tribune",
-          "source": "The Express Tribune",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPZVgxbXlkVFpua05HUEo0YUJCNzdmcjNNUk52UEdKYVlXLUxHTUR4WUp4elBIS0diSzJ0aFBZZVZpeC0xSDNOZHlpYS1wSFQ4TnowNnlNOXBmRDA5aEp6S1RYVV9oTEx3YTVob2FkZzllVi10T1JyMdIBgAFBVV95cUxPVkFScVJwRV9FSUFSWmloUHRTbW5EODhrcXlNSXRuLUNyYm1ZeWxpeW9PTVNjOFFsSVkzWW5nUVRfVmRvYTBUdlZ3Y1VDV3ZWWmNUQkhuSXFhMnZfSGFJLUpvS0VsMG5wTXhmMUxBSWRwaWtWaWtqaVY4anFOT0tPVA?oc=5",
-          "published": "2026-10-22T01:04:44Z"
+          "title": "CNS Amateur Golf Cup kicks off - Daily Times",
+          "source": "Daily Times",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtMHMyaGlUYWp4TmJNOTRXM3E3emRTU2U4Y1J5MEZ5MTRlN0FVSmp2VENOQjZ4djVRWnY2M2VLR1ItT1FZdS1xQmpXeFE3RWdSWEVCTllWSHpNdVRTLWVEekluNmhqVnMwR09vczlRMjk5ZEk?oc=5",
+          "published": "2026-10-22T06:42:05Z"
         },
         {
-          "title": "Pakistan, Maldives sign 20 MoUs, target $200m trade - The Express Tribune",
-          "source": "The Express Tribune",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON0g4MEZGUDlHVk1RSmlRZFlDSU4wdHhXOWVNRnFxYVp0elZUdmxmemdPc3hheGJiVjc2U0VGZnZoaXNTQ0pKYlNJQVVGOXVTSVVDemZmVUNCbmIyYTBMVHFNVWNkTTFvNFN6VXNLclpVd3FpdjdaeFRURUl2SkYwT2lhS0VaaGlGalBHVFV30gGWAUFVX3lxTFB4LU1DamkzTHN5MWFfTTFiaElrZTd6aEZYSnM5S1Z1UUFQWE5MZG9NaDJOeWRYQUVSZXpOaEs0ckt3NVVySFZvOXZnekxUdWNJc1l4bG95RVVhVkplcUg0d2tYWXJWcGtHN1VfZGJsRlY2M19JSmF1YnRRZ291Y29kSnJhaEg3MXZvNHdJX3l0ckJMQVhFUQ?oc=5",
-          "published": "2026-10-22T00:55:46Z"
+          "title": "Arafat Minhas eyes Lahore leg after Pakistan’s back-to-back wins - Daily Times",
+          "source": "Daily Times",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZUhwWU45WG80UVg0TWNtSWNpc3dvaG5xVm5qemhVZG9oVlVUWHlJZnVOMi0yYzdyXzg5c0pYdWo4clpOYWthZEJNanBxMUptSnY0clgzQkRqZ0V4OGxiY3hHYTFtaHNhRFcwT0E1QkRzam81YlItQ05LV0xxWkppYXptM2tRcUNpNGhGNE8zam1UNnh2Z3R1dkVMLVFiYWM?oc=5",
+          "published": "2026-10-22T06:40:20Z"
         },
         {
-          "title": "Pakistan expands strategic defence footprint in Gulf - The Express Tribune",
-          "source": "The Express Tribune",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN2duZV9QOGtpdF9EcGxPZlBWTzk0YU9UeURxUlc1S0ZMa0dvdnh2LUFwZll1Z2tWUnNBcWYzcUJHVDFxRTJXZjBVSlhCVS1ManJoWkR5TU9COEVZdUt3a2w0ekZ1SlBjQml3QXlBMXJFQTRqZjdXeDRFaHlYekJSZWpaU1hvR1B1VjBJRUppZEtoV2PSAZsBQVVfeXFMUE80aXdiMlBQTUF3U29jTmUxcmV6ZEt2N2FNWVBhX3puNmctbzNWVEFrRW8xRlRvN21LWTkweWxMeW5CV1d1WEVYdXE5bmJSZFhpODJiMDNTQVlLNU14aWFSaWhLSHQ5Y3lCQmxsTWhJcGZFMTJaLS1DazZGazhYb3ZaUXhKQ0ZWY0dkdG1ITmg3MFRCaXpHMkVuSVU?oc=5",
-          "published": "2026-10-22T00:55:11Z"
+          "title": "Metro bus to remain suspended today, October 22, 2026 - Pakistan Connect",
+          "source": "Pakistan Connect",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mQVVqT3dNNGxySFhvQXpUV3VvVTNqanRjOXBEcmVLbG41Y2JJeGhOaG5wQTlrc2FLUWpBNUJxeXB4ZTcwbmVJZ2szYUQ5QU9IRlllemMzV0p0UVp6clhBeUJvLTNHMm1Pd2hReXN3?oc=5",
+          "published": "2026-10-22T06:36:20Z"
         },
         {
-          "title": "ECP’s directive on LG polls in Capital: Failure to enact fresh legislation renders ICT delimitation exercise futile - Business Recorder",
-          "source": "Business Recorder",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HTTRUdk1tcnlCOXNZRWQ4YlE1bUpLVWV4TVFqT3RDVHItc05ZTWZlM3JUeFJtVDZtVUVMUDlwX19sOVpBdjV6aTZEcGIwZW9EZEgtQThB0gFWQVVfeXFMT0dNNFR2TW1yeUI5c1lFZDhiUTVtSktVZXhNUWpPdENUci1zTllNZmUzclR4Um1UNm1VRUxQOXBfX2w5WkF2NXppNkRwYjBlb0RkSC1BOEE?oc=5",
-          "published": "2026-10-22T00:52:54Z"
+          "title": "LPG and firewood prices surge across major cities in Pakistan - Daily Times",
+          "source": "Daily Times",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ21VTFNHX3hnT3BJR1FHeldzMmlILTVtRHoxb3JrZlVuR1EtY0Y2bUszOXhUM1I3bXRILUp3VjZxcjAxQmZmSU5zanI0N0VhUzZ1LWlIUE43V04yc3JfWlljMXJiUnRkZC1OWnRjaGZFd0dVeGJKVUdpa2J4V1ZrQTVydFlNck9EWTZEY0RjSHBjZGNJQ3hoSUxfVjE?oc=5",
+          "published": "2026-10-22T06:33:52Z"
         },
         {
-          "title": "Replay: Pakistan vs Sri Lanka | Pakistan ODI Series 2026 - Cricbuzz",
-          "source": "Cricbuzz",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1V5Ukp5ZXJtMlpWbXY2a2pfMGRoRnN3eU1ITXlPLS1uOGxDSFgyX3E5VHpDY082SVc3aTlGaVZYYXJvNUxUSWJSQWZIU3ZVcDdwalJ6SmxRVm5YSUdBZjZRanFlS3BfZ05lMzZCUzRlTnVtSHNPcEktOTMxS09laU9JWGU0VVRtTTR1UnFRWWxWWE0zajhLa3VGR1lyazA?oc=5",
-          "published": "2026-10-22T00:35:32Z"
+          "title": "Pakistan joins new four-nation defence pact - Daily Times",
+          "source": "Daily Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb25PcUpOX0tyM3RTZnZyWWdNT1BpRVRmZEQ5ZFlPZW80X2lwTDJMZlZKRGdVemFJaVRJTkd2SEQ5NmhCNkJxbWlfS3BYTF9Oc3piM1VFdHV3OHBwVlRXUFhrMC1vYThicEtWWXNxQXhjeGRIX25jb0txZGQ5NjFhUXBRbHY?oc=5",
+          "published": "2026-10-22T06:21:45Z"
         },
         {
-          "title": "Pakistan, Latvia discuss visa service - The Express Tribune",
-          "source": "The Express Tribune",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tQUc0SFVGbVVCYkVycXZNVVg4eFp4Tkk2bkdlOEZzQ2NqampHenRrdnNWdTg3bTFFT2tyMEdzYlNlSFp0Z2hiV09WckFuTDhDdEo2cVJxenZ2VkotNlRDLWpiNFRBWkNjQ0M1Tm9aSTJhY3RSV1RZMVBza21VUdIBhgFBVV95cUxPbEk2Q050dXFmZERQbEwwdUJsS2FBbjJzSHFZT2FOMW5SbGJ4d09FM1g5cEMyRXdSSWY1dE1ZdmNObUN6MV84RTRRZng4aUhmYmVXNUEzU2dQTkVQRno4U3JFTFpaOHJWQngxOFltQzJkc2tHcndteDd1OVZmS3ExWjlkdFd6QQ?oc=5",
-          "published": "2026-10-22T00:34:30Z"
+          "title": "Pakistan, Maldives target $200 million trade in two years - Daily Times",
+          "source": "Daily Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVngtdF9lTTRIT3RjWUVuU1FyZHdMV2xXSHhRTDRIZW9lR2puMHFiOE1ZZ0FzOWNmWk8wbXlkSHMyeHk0Sm1PSE5UNnc1Y19VcXBkRjk3enVOOG45UGpvZGRSNWpwcUh3TTVzUVRCczVTV3NfXzlHYzljTWlzUTIzTUVjVWNBbVVqb2x3VGhfNnVtcGdW?oc=5",
+          "published": "2026-10-22T06:18:11Z"
         },
         {
-          "title": "Field Marshal, Maldives President talk defence cooperation - Dunya News",
-          "source": "Dunya News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaHZLS2RJcG95TlUxWWJtbFVNREEwUXhrVGFRRUFZRmpveE5QeGhyOC10dEttMXZVNjRGeHgwS3kzcDFPLVJuckJxc0RGZnZPSl9yZFFnaU0xWDFrZHF6OXFMTHUxZ2hpeTNLbGRUQkFPLW43U2s1cHQwUlFNRm5zd0hVTF93XzVBNEZ2UlpsTGh5cFJ3djNxdGFxYzdJQ0RmcUlsalVMR1oxc2xZTzU1NEdFVy1DWHJrcmfSAVZBVV95cUxOOGJON2M3SVpBLU14b3FPdFJSSDYzcTRQVmpIZUhGUW9vTjFpc254MDg2SmQ4MkVKS1Rwd1lHLUhtUlZuOFRZcWJENVYzYXBUS28zR0MtQQ?oc=5",
-          "published": "2026-10-21T23:50:29Z"
+          "title": "PTI era scandal: KP launches probe into tablet procurement irregularities - Pakistan Connect",
+          "source": "Pakistan Connect",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbVpKLWpBcGpWZHU1QjlmUnVObF9KQ3AtM2llSUxKeF91UjBTVVVRQUtjOHZpSnpJT0UzQXNjenpRRGpkcUFPZ3BPSGtyUXcyNTVxeGRjWG9OWVZKdzg1OS12Mk9UaEhZVGNwY3d2dkk3aGdyVUdETVRuU2Y0Rm5JTzVLZ0VnN281TGx4Q3ptZlh2Q3lIVVVwMlZqRlVYY0pSamJnUnpDUQ?oc=5",
+          "published": "2026-10-22T05:56:07Z"
         },
         {
-          "title": "Punjab targets over $1.8billion in food exports to Saudi Arabia - Dunya News",
-          "source": "Dunya News",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQk9FcmdpemNQMjljOXc0U2dSamw4Tmh2ejB2ZC1SVURxUEI0cDBsVmNvSjM4dllBSG56R2tWSkFkT290VVdpVXB3SGlfQ0tBZlNMcWR5ZU1IaTQ4MXBwSjI5YlNidEc2ZWNJUFpyYzlWOTFjdmRGQlU1T1o0c0kxa0pqUWJPY2pGQ3ZMd1hKLVA0M0pzSVRVeU05aUlmUDI0Zksw0gFWQVVfeXFMUEl3QkRlcm12V2szRjBLLWhVRWQ1OG1PWmR5MTdMblpEY2JLRTBvWUZncC03a1VWWl84SWlIVEV4b0FpV291NGFhcGxpOVNVWUZNZGtPaUE?oc=5",
-          "published": "2026-10-21T23:46:29Z"
+          "title": "Oct 22, 2026 - لاہور - 1 - Daily Pakistan",
+          "source": "Daily Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01cHMtWWlXdjhraXZFNTF3T2JpZkMyYmZScjdIblFxSGVpQ0dwTVAyOE5FaDRzT2lwSVdNR0d0UWFFRjNadEUtV1pQTkgxdU1icGlReDRQUWxFSnI1dGtaQXd0dElFRFA1YWRTSU13?oc=5",
+          "published": "2026-10-22T05:34:07Z"
         }
       ]
     },
     "world": {}
   },
   "weather": {
-    "updatedAt": "2026-10-22T03:54:30.482831Z",
+    "updatedAt": "2026-10-22T07:09:17.875261Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
       {
         "city": "Karachi",
-        "temperatureC": 29,
-        "humidity": 54,
-        "windMs": 2.1,
+        "temperatureC": 37,
+        "humidity": 16,
+        "windMs": 3.9,
         "symbol": "clearsky_day",
-        "forecastTime": "2026-10-22T04:00:00Z"
+        "forecastTime": "2026-10-22T08:00:00Z"
       },
       {
         "city": "Lahore",
-        "temperatureC": 26,
-        "humidity": 71,
-        "windMs": 0.9,
+        "temperatureC": 30,
+        "humidity": 48,
+        "windMs": 2.4,
         "symbol": "clearsky_day",
-        "forecastTime": "2026-10-22T04:00:00Z"
+        "forecastTime": "2026-10-22T08:00:00Z"
       },
       {
         "city": "Islamabad",
-        "temperatureC": 24,
-        "humidity": 46,
-        "windMs": 1.5,
+        "temperatureC": 28,
+        "humidity": 31,
+        "windMs": 2.7,
         "symbol": "clearsky_day",
-        "forecastTime": "2026-10-22T04:00:00Z"
+        "forecastTime": "2026-10-22T08:00:00Z"
       },
       {
         "city": "Peshawar",
-        "temperatureC": 22,
-        "humidity": 62,
-        "windMs": 0.6,
+        "temperatureC": 28,
+        "humidity": 43,
+        "windMs": 1.6,
         "symbol": "clearsky_day",
-        "forecastTime": "2026-10-22T04:00:00Z"
+        "forecastTime": "2026-10-22T08:00:00Z"
       }
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-22T03:54:30.482831Z",
+    "updatedAt": "2026-10-22T07:09:17.875261Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
@@ -234,7 +234,7 @@
         "region": "US",
         "value": 7757.17,
         "changePercent": 0.58,
-        "marketTime": "2026-10-21T20:00:00Z",
+        "marketTime": "2026-10-21T20:31:21Z",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/%5EGSPC/"
       },
@@ -251,7 +251,7 @@
     ]
   },
   "sports": {
-    "updatedAt": "2026-10-22T03:54:31.949296Z",
+    "updatedAt": "2026-10-22T07:09:19.545375Z",
     "source": "ESPN cricket snapshot",
     "url": "https://www.espncricinfo.com/live-cricket-score",
     "matches": [

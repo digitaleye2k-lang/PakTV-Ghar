@@ -1,6 +1,6 @@
 {
-  "quotaDay": "2026-10-21",
-  "dailySearches": 24,
+  "quotaDay": "2026-10-22",
+  "dailySearches": 8,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -472,6 +472,22 @@
       }
     ],
     "hum-khushi": [
+      {
+        "id": "L2jN_CghoOM",
+        "title": "Khushi - Episode 39 - [Eng Sub] 21st Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 39,
+        "date": "2026-10-21",
+        "published": "2026-10-21T15:00:03Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/L2jN_CghoOM/hqdefault.jpg",
+        "checkedAt": "2026-10-22T07:08:51.571087+00:00"
+      },
       {
         "id": "AWHP5v_r5NI",
         "title": "Khushi - Episode 33 - [ENG SUB] 15th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
@@ -31455,6 +31471,22 @@
     ],
     "hum-tark-e-tamanna": [
       {
+        "id": "OLB9Cy49X2g",
+        "title": "Tark-e-Tamanna - Episode 12 - [Eng Sub] 21st Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "episode": 12,
+        "date": "2026-10-21",
+        "published": "2026-10-21T17:00:16Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/OLB9Cy49X2g/hqdefault.jpg",
+        "checkedAt": "2026-10-22T07:08:51.571087+00:00"
+      },
+      {
         "id": "nQGADWyKgdg",
         "title": "Tark-e-Tamanna - Episode 10 - [Eng Sub] 15th Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
         "episode": 10,
@@ -31544,6 +31576,6 @@
       }
     ]
   },
-  "cursor": 14,
+  "cursor": 18,
   "apiValidated": true
 }
