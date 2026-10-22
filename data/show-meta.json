@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T20:53:10.084303+05:00",
+  "generatedAt": "2026-10-23T00:01:18.055897+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,13 +17,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 8,
-        "time": "16:30",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-22"
       }
     },
     "harpalgeo-nashtar": {
@@ -44,11 +37,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 21,
-        "time": "11:30",
+        "number": 22,
+        "time": "20:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-22"
+        "date": "2026-10-23"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -68,11 +61,11 @@
     },
     "harpalgeo-uswa": {
       "tvToday": {
-        "number": 30,
+        "number": 31,
         "time": "19:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-22"
+        "date": "2026-10-23"
       },
       "lastAttempt": "2026-10-22T03:12:40.218128+05:00",
       "latestUpload": {
@@ -104,13 +97,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 24,
-        "time": "20:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-22"
       }
     },
     "hum-aangan": {
@@ -132,11 +118,11 @@
       "poster": "https://harpalgeo.tv/assets/uploads/programs/641_9919269_programs.jpg",
       "posterSource": "Official broadcaster",
       "tvToday": {
-        "number": 10,
+        "number": 11,
         "time": "21:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-22"
+        "date": "2026-10-23"
       },
       "latestUpload": {
         "number": 9,

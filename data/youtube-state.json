@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-22",
-  "dailySearches": 32,
+  "dailySearches": 40,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -868,7 +868,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kT5HHJDY8NA/hqdefault.jpg",
-        "checkedAt": "2026-10-16T18:56:31.543803+00:00"
+        "checkedAt": "2026-10-22T19:00:32.878598+00:00"
       },
       {
         "id": "s9iFJ19ZdAY",
@@ -884,7 +884,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/s9iFJ19ZdAY/hqdefault.jpg",
-        "checkedAt": "2026-10-16T18:56:31.543803+00:00"
+        "checkedAt": "2026-10-22T19:00:32.878598+00:00"
       },
       {
         "id": "dIe4nDHGm-g",
@@ -900,7 +900,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dIe4nDHGm-g/hqdefault.jpg",
-        "checkedAt": "2026-10-16T18:56:31.543803+00:00"
+        "checkedAt": "2026-10-22T19:00:32.878598+00:00"
       },
       {
         "id": "TmWFxqx2aJo",
@@ -934,7 +934,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/LDu-XHAWJM4/hqdefault.jpg",
-        "checkedAt": "2026-10-16T21:48:01.620251+00:00"
+        "checkedAt": "2026-10-22T19:00:32.878598+00:00"
       },
       {
         "id": "Gud4kMK5WrM",
@@ -950,7 +950,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Gud4kMK5WrM/hqdefault.jpg",
-        "checkedAt": "2026-10-16T21:48:01.620251+00:00"
+        "checkedAt": "2026-10-22T19:00:32.878598+00:00"
       },
       {
         "id": "GLVCe0bFBXw",
@@ -966,7 +966,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GLVCe0bFBXw/hqdefault.jpg",
-        "checkedAt": "2026-10-16T21:48:01.620251+00:00"
+        "checkedAt": "2026-10-22T19:00:32.878598+00:00"
       },
       {
         "id": "kNBnHth7BT8",
@@ -1016,7 +1016,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nzE6TeRnstM/hqdefault.jpg",
-        "checkedAt": "2026-10-16T21:48:01.620251+00:00"
+        "checkedAt": "2026-10-22T19:00:32.878598+00:00"
       },
       {
         "id": "bCe2W5uakAY",
@@ -1032,7 +1032,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/bCe2W5uakAY/hqdefault.jpg",
-        "checkedAt": "2026-10-16T21:48:01.620251+00:00"
+        "checkedAt": "2026-10-22T19:00:32.878598+00:00"
       },
       {
         "id": "ym_DGbtvNNQ",
@@ -1048,7 +1048,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ym_DGbtvNNQ/hqdefault.jpg",
-        "checkedAt": "2026-10-16T21:48:01.620251+00:00"
+        "checkedAt": "2026-10-22T19:00:32.878598+00:00"
       }
     ],
     "hum-ek-jhooti-kahani": [
@@ -31610,6 +31610,6 @@
       }
     ]
   },
-  "cursor": 30,
+  "cursor": 34,
   "apiValidated": true
 }
