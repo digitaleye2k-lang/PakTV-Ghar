@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T18:06:00.662746+05:00",
+  "generatedAt": "2026-10-22T20:53:10.084303+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -464,7 +464,17 @@
       "posterSource": "Official broadcaster",
       "latestPublisherEpisode": 39,
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
-      "latestPublisherSource": "https://harpalgeo.tv/program/Humrahi"
+      "latestPublisherSource": "https://harpalgeo.tv/program/Humrahi",
+      "latestUpload": {
+        "number": 41,
+        "id": "7MI7S4KsaXE",
+        "title": "Humrahi Last Episode 41 [Eng Sub] Presented by Happilac Paints & Sunsilk | 15th August 2026",
+        "date": "2026-08-15",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "arydigital-kafeel": {
       "lastAttempt": "2026-10-12T20:10:58.834590+05:00",
