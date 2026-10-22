@@ -2,7 +2,7 @@
   "date": "2026-10-23",
   "weekday": "Friday",
   "timezone": "Asia/Karachi",
-  "generatedAt": "2026-10-23T00:01:12.988662+05:00",
+  "generatedAt": "2026-10-23T02:50:47.571324+05:00",
   "items": [
     {
       "name": "Nashtar",
@@ -245,8 +245,8 @@
       "sourceLabel": "Official broadcaster"
     },
     {
-      "name": "HEY FAM",
-      "showId": "arydigital-hey-fam",
+      "name": "Dar-e-Nijaat",
+      "showId": "arydigital-dar-e-nijaat",
       "channel": "ARY Digital",
       "time": "20:00",
       "episode": null,

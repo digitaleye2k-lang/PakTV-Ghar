@@ -1,88 +1,4 @@
 {
-  "hum-khushi": {
-    "episodes": [
-      {
-        "id": "L2jN_CghoOM",
-        "title": "Khushi - Episode 39 - [Eng Sub] 21st Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 39,
-        "date": "2026-10-21",
-        "published": "2026-10-21T15:00:03Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/L2jN_CghoOM/hqdefault.jpg",
-        "checkedAt": "2026-10-22T07:08:51.571087+00:00"
-      },
-      {
-        "id": "AWHP5v_r5NI",
-        "title": "Khushi - Episode 33 - [ENG SUB] 15th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 33,
-        "date": "2026-10-15",
-        "published": "2026-10-15T15:00:23Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/AWHP5v_r5NI/hqdefault.jpg",
-        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
-      },
-      {
-        "id": "cHKT6woUT0Y",
-        "title": "Khushi - Episode 30 - [Eng Sub] 12th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 30,
-        "date": "2026-10-12",
-        "published": "2026-10-12T15:00:05Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": false,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/cHKT6woUT0Y/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      },
-      {
-        "id": "4qgcZlaUMX4",
-        "title": "Khushi - Episode 29 Highlight - 12th Oct 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
-        "episode": 29,
-        "date": "2026-10-12",
-        "published": "2026-10-12T12:00:34Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/4qgcZlaUMX4/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      },
-      {
-        "id": "-7COdwR1U9Y",
-        "title": "Khushi - Episode 29 - [Eng Sub] 11th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 29,
-        "date": "2026-10-11",
-        "published": "2026-10-11T15:00:20Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/-7COdwR1U9Y/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      }
-    ]
-  },
   "hum-gulbahar": {
     "episodes": [
       {
@@ -155,78 +71,6 @@
       }
     ]
   },
-  "arydigital-izzat": {
-    "episodes": [
-      {
-        "id": "Thu_M83L190",
-        "title": "Izzat Episode 32 | 21 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 32,
-        "date": "2026-10-21",
-        "published": "2026-10-21T15:00:14Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/Thu_M83L190/hqdefault.jpg",
-        "checkedAt": "2026-10-21T22:11:59.697806+00:00"
-      },
-      {
-        "title": "Izzat Episode 32 | 21 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 32,
-        "id": "zF_TnmwpdYQ",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-21"
-      },
-      {
-        "id": "2S5_eQI24A0",
-        "title": "Izzat Episode 26 | 15 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 26,
-        "date": "2026-10-15",
-        "published": "2026-10-15T15:00:37Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/2S5_eQI24A0/hqdefault.jpg",
-        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
-      }
-    ]
-  },
-  "arydigital-rutba": {
-    "episodes": [
-      {
-        "title": "Kya Mahnoor Hadi Ke Sath Khush Rahegi | Rutba Episode 2 | Hiba Bukhari | Talha Chahour | ARY Digital",
-        "episode": 2,
-        "id": "CirEy8AMw5c",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-21"
-      },
-      {
-        "id": "QpzPYN2DuEg",
-        "title": "Rutba EP 2 | 12 Oct 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ENG SUB",
-        "episode": 2,
-        "date": "2026-10-12",
-        "published": "2026-10-12T16:00:08Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/QpzPYN2DuEg/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
-      }
-    ]
-  },
   "arydigital-main-tera": {
     "episodes": [
       {
@@ -260,14 +104,6 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/I5gDYGVf4l0/hqdefault.jpg",
         "checkedAt": "2026-10-21T22:11:59.697806+00:00"
-      },
-      {
-        "title": "Main Tera Episode 63 | Unmissable Scene | ARY Digital",
-        "episode": 63,
-        "id": "gPvkjhqIJDo",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-21"
       },
       {
         "id": "OErakyu1-A4",
@@ -710,22 +546,6 @@
         "checkedAt": "2026-10-21T22:11:59.697806+00:00"
       },
       {
-        "title": "Bano Episode 08 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 8,
-        "id": "-MT_5MkSnNY",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-21"
-      },
-      {
-        "title": "Bano Episode 08 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 8,
-        "id": "dtPDi8ohnzM",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-21"
-      },
-      {
         "id": "9BDUO9_eCSs",
         "title": "Bano Episode 08 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
         "episode": 8,
@@ -805,6 +625,46 @@
   },
   "geonews-capital-talk": {
     "episodes": [
+      {
+        "title": "Hamid Mir's two-pronged question to Rana Sanaullah: What is happening in Punjab?",
+        "episode": null,
+        "id": "VI08wlovpiI",
+        "source": "Geo News",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "What is the future of the KP Assembly? | Capital Talk",
+        "episode": null,
+        "id": "RxyBJBvt-Qc",
+        "source": "Geo News",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Big secrets about Sohail Afridi revealed! | Capital Talk",
+        "episode": null,
+        "id": "DC8TMwCesrc",
+        "source": "Geo News",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "PTI anti-national? Rana Sanaullah's revelation on the ban | Capital Talk",
+        "episode": null,
+        "id": "E2C9V0ddXeg",
+        "source": "Geo News",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Terrorism will end in six months? Will PTI be declared an enemy of the country? PM | Capital Talk",
+        "episode": null,
+        "id": "Ghcr023tfUc",
+        "source": "Geo News",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
       {
         "title": "Back-channel talks begin within PTI government? | Capital Talk",
         "episode": null,
@@ -902,12 +762,40 @@
   "arynews-the-reporters": {
     "episodes": [
       {
+        "title": "Governor’s Rule & Emergency in KPK | PM Shehbaz's Huge Statement | The Reporters",
+        "episode": null,
+        "id": "ws25KfiPDss",
+        "source": "ARY News",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
         "title": "Governor’s Rule & Emergency: Is the 28th Amendment Next? | The Reporters | 21st Oct 26 | ARY News",
         "episode": null,
         "id": "DotF89M7LI4",
         "source": "ARY News",
         "kind": "youtube",
         "date": "2026-10-21"
+      }
+    ]
+  },
+  "arydigital-rutba": {
+    "episodes": [
+      {
+        "id": "QpzPYN2DuEg",
+        "title": "Rutba EP 2 | 12 Oct 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ENG SUB",
+        "episode": 2,
+        "date": "2026-10-12",
+        "published": "2026-10-12T16:00:08Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/QpzPYN2DuEg/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
       }
     ]
   },
@@ -1139,6 +1027,90 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/bNfLroyIbUY/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
+      }
+    ]
+  },
+  "hum-khushi": {
+    "episodes": [
+      {
+        "id": "L2jN_CghoOM",
+        "title": "Khushi - Episode 39 - [Eng Sub] 21st Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 39,
+        "date": "2026-10-21",
+        "published": "2026-10-21T15:00:03Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/L2jN_CghoOM/hqdefault.jpg",
+        "checkedAt": "2026-10-22T07:08:51.571087+00:00"
+      },
+      {
+        "id": "AWHP5v_r5NI",
+        "title": "Khushi - Episode 33 - [ENG SUB] 15th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 33,
+        "date": "2026-10-15",
+        "published": "2026-10-15T15:00:23Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/AWHP5v_r5NI/hqdefault.jpg",
+        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
+      },
+      {
+        "id": "cHKT6woUT0Y",
+        "title": "Khushi - Episode 30 - [Eng Sub] 12th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 30,
+        "date": "2026-10-12",
+        "published": "2026-10-12T15:00:05Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/cHKT6woUT0Y/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
+      },
+      {
+        "id": "4qgcZlaUMX4",
+        "title": "Khushi - Episode 29 Highlight - 12th Oct 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
+        "episode": 29,
+        "date": "2026-10-12",
+        "published": "2026-10-12T12:00:34Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/4qgcZlaUMX4/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
+      },
+      {
+        "id": "-7COdwR1U9Y",
+        "title": "Khushi - Episode 29 - [Eng Sub] 11th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 29,
+        "date": "2026-10-11",
+        "published": "2026-10-11T15:00:20Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/-7COdwR1U9Y/hqdefault.jpg",
         "checkedAt": "2026-10-12T17:30:35.039122+00:00"
       }
     ]
@@ -1675,7 +1647,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dhJj0oDY58w/hqdefault.jpg",
-        "checkedAt": "2026-10-16T21:48:01.620251+00:00"
+        "checkedAt": "2026-10-22T21:49:46.823165+00:00"
       }
     ]
   },
@@ -1695,7 +1667,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/EQ-baUqmNaA/hqdefault.jpg",
-        "checkedAt": "2026-10-17T01:00:49.537935+00:00"
+        "checkedAt": "2026-10-22T21:49:46.823165+00:00"
       },
       {
         "id": "-FXbu933_Bg",
@@ -1711,7 +1683,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-FXbu933_Bg/hqdefault.jpg",
-        "checkedAt": "2026-10-17T01:00:49.537935+00:00"
+        "checkedAt": "2026-10-22T21:49:46.823165+00:00"
       },
       {
         "id": "zrbd1u81X2E",
@@ -31927,6 +31899,42 @@
       }
     ]
   },
+  "arydigital-izzat": {
+    "episodes": [
+      {
+        "id": "Thu_M83L190",
+        "title": "Izzat Episode 32 | 21 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 32,
+        "date": "2026-10-21",
+        "published": "2026-10-21T15:00:14Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/Thu_M83L190/hqdefault.jpg",
+        "checkedAt": "2026-10-21T22:11:59.697806+00:00"
+      },
+      {
+        "id": "2S5_eQI24A0",
+        "title": "Izzat Episode 26 | 15 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 26,
+        "date": "2026-10-15",
+        "published": "2026-10-15T15:00:37Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/2S5_eQI24A0/hqdefault.jpg",
+        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
+      }
+    ]
+  },
   "hum-zehar-e-mohabbat": {
     "episodes": [
       {
@@ -31963,7 +31971,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kbJ0_aO-2w0/hqdefault.jpg",
-        "checkedAt": "2026-10-17T01:00:49.537935+00:00"
+        "checkedAt": "2026-10-22T21:49:46.823165+00:00"
       }
     ]
   },
@@ -31983,7 +31991,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GYARaiI6JCo/hqdefault.jpg",
-        "checkedAt": "2026-10-17T01:00:49.537935+00:00"
+        "checkedAt": "2026-10-22T21:49:46.823165+00:00"
       }
     ]
   },

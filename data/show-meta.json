@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T00:01:18.055897+05:00",
+  "generatedAt": "2026-10-23T02:50:51.652828+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,6 +17,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 8,
+        "time": "04:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-23"
       }
     },
     "harpalgeo-nashtar": {
@@ -69,10 +76,10 @@
       },
       "lastAttempt": "2026-10-22T03:12:40.218128+05:00",
       "latestUpload": {
-        "number": 29,
-        "id": "pxKltJstdjk",
-        "title": "Uswah Episode 29 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "date": "2026-10-21",
+        "number": 30,
+        "id": "OxZZOkyZAKk",
+        "title": "Uswah Episode 30 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "date": "2026-10-22",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -89,24 +96,31 @@
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
       "latestPublisherSource": "https://harpalgeo.tv/program/Khafa",
       "latestUpload": {
-        "number": 23,
-        "id": "bKjZLn4bMPA",
-        "title": "Khafa Episode 23 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
-        "date": "2026-10-21",
+        "number": 24,
+        "id": "IVZ_EneCFh8",
+        "title": "Khafa Episode 24 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "date": "2026-10-22",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 24,
+        "time": "01:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-23"
       }
     },
     "hum-aangan": {
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Aangan-500.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 6,
-        "id": "2u4RXpLlA64",
-        "title": "Aangan - Episode 06 [Eng Sub] - 17th Oct 2026  [Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain]",
-        "date": "2026-10-17",
+        "number": 4,
+        "id": "K1SHRLAXBuE",
+        "title": "Aangan - Episode 04 - Highlight [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
+        "date": "2026-10-11",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -125,12 +139,12 @@
         "date": "2026-10-23"
       },
       "latestUpload": {
-        "number": 9,
-        "id": "3GsRhhcO-e8",
-        "title": "Bano Episode 09 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 21st October 2026 | HAR PAL GEO",
-        "date": "2026-10-21",
+        "number": 10,
+        "id": "Xe3sKzOR-P0",
+        "title": "Bano Episode 10 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 22nd October 2026 | HAR PAL GEO",
+        "date": "2026-10-22",
         "source": "Official YouTube upload",
-        "availableGB": true,
+        "availableGB": false,
         "availablePK": true,
         "embeddable": true
       }
@@ -158,12 +172,12 @@
       "latestPublisherSource": "https://arydigital.tv/drama/dar-e-nijaat/",
       "latestUpload": {
         "number": 23,
-        "id": "ebioxADOBOw",
-        "title": "Dar-e-Nijaat Episode 23 | 17 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
-        "date": "2026-10-17",
+        "id": "7OUwjtVMAsk",
+        "title": "Best of Dar e Nijaat Ep 23 | ARY Digital Drama",
+        "date": "2026-10-22",
         "source": "Official YouTube upload",
         "availableGB": true,
-        "availablePK": false,
+        "availablePK": true,
         "embeddable": true
       }
     },
@@ -171,10 +185,10 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Gulbahar-500.jpg.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 11,
-        "id": "-SSVup_u-y4",
-        "title": "Gulbahar - Episode 11 - [Eng Sub] 21st Oct 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
-        "date": "2026-10-21",
+        "number": 12,
+        "id": "WA6ulplmiaY",
+        "title": "Gulbahar - Episode 12 - [Eng Sub] 22nd Oct 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
+        "date": "2026-10-22",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -189,13 +203,13 @@
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
       "latestPublisherSource": "https://arydigital.tv/drama/hey-fam/",
       "latestUpload": {
-        "number": 11,
-        "id": "OHzfWHFVzCM",
-        "title": "Hey Fam | EP  11 | 21 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
-        "date": "2026-10-21",
+        "number": 12,
+        "id": "qylU1oI1G_Q",
+        "title": "Hey Fam | EP 12 | 22 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
+        "date": "2026-10-22",
         "source": "Official YouTube upload",
-        "availableGB": false,
-        "availablePK": true,
+        "availableGB": true,
+        "availablePK": false,
         "embeddable": true
       }
     },
@@ -221,10 +235,10 @@
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
       "latestPublisherSource": "https://arydigital.tv/drama/izzat/",
       "latestUpload": {
-        "number": 32,
-        "id": "Thu_M83L190",
-        "title": "Izzat Episode 32 | 21 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "date": "2026-10-21",
+        "number": 33,
+        "id": "M-E-edj87Og",
+        "title": "Izzat Episode 33 | 22 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "date": "2026-10-22",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": false,
@@ -235,10 +249,10 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Khushi-500.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 39,
-        "id": "L2jN_CghoOM",
-        "title": "Khushi - Episode 39 - [Eng Sub] 21st Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "date": "2026-10-21",
+        "number": 40,
+        "id": "7bG3pPrglLk",
+        "title": "Khushi - Episode 40 - [ENG SUB] 22nd Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "date": "2026-10-22",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -315,10 +329,10 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/TT-500.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 12,
-        "id": "OLB9Cy49X2g",
-        "title": "Tark-e-Tamanna - Episode 12 - [Eng Sub] 21st Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
-        "date": "2026-10-21",
+        "number": 13,
+        "id": "pcLDvGX4dj0",
+        "title": "Tark-e-Tamanna - Episode 13 - [Eng Sub] 22nd Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "date": "2026-10-22",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -341,7 +355,17 @@
     },
     "arydigital-lagan-lagi": {
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1791124391063_c79ece2290.webp&w=1920&q=75",
-      "posterSource": "Official broadcaster"
+      "posterSource": "Official broadcaster",
+      "latestUpload": {
+        "number": 1,
+        "id": "zptfzGBbndw",
+        "title": "Lagan Lagi Episode 1 | 22 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "date": "2026-10-22",
+        "source": "Official YouTube upload",
+        "availableGB": true,
+        "availablePK": true,
+        "embeddable": true
+      }
     },
     "hum-aye-dil-aazma-nahi": {
       "lastAttempt": "2026-10-22T03:12:40.218368+05:00",
