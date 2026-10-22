@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-22",
-  "dailySearches": 8,
+  "dailySearches": 16,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -568,7 +568,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xExSgmC8ia4/hqdefault.jpg",
-        "checkedAt": "2026-10-16T13:04:00.853727+00:00"
+        "checkedAt": "2026-10-22T09:54:37.350268+00:00"
       },
       {
         "id": "IER1YNf9NIM",
@@ -587,6 +587,22 @@
         "checkedAt": "2026-10-16T13:04:00.853727+00:00"
       },
       {
+        "id": "Mg5t1PzPYFs",
+        "title": "Bas Tera Saath Ho Last EP 45 | 5 October 2026 | Farhan Saeed | Sana Javed | ENG SUB | ARY Digital",
+        "episode": 45,
+        "date": "2026-10-05",
+        "published": "2026-10-05T16:00:22Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/Mg5t1PzPYFs/hqdefault.jpg",
+        "checkedAt": "2026-10-22T09:54:37.350268+00:00"
+      },
+      {
         "id": "UB9QULJuQaQ",
         "title": "Gham Ko Sehne Main Bhi Qudrat ne Maza Rakha Hai | Bas Tera Saath Ho Ep 44",
         "episode": 44,
@@ -600,7 +616,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UB9QULJuQaQ/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:32:18.575540+00:00"
+        "checkedAt": "2026-10-22T09:54:37.350268+00:00"
       },
       {
         "id": "GscKavABvSU",
@@ -616,7 +632,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GscKavABvSU/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:32:18.575540+00:00"
+        "checkedAt": "2026-10-22T09:54:37.350268+00:00"
       }
     ],
     "arydigital-kafeel": [
@@ -31576,6 +31592,6 @@
       }
     ]
   },
-  "cursor": 18,
+  "cursor": 22,
   "apiValidated": true
 }
