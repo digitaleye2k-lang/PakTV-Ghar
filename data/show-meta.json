@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T00:00:13.550157+05:00",
+  "generatedAt": "2026-10-24T02:50:16.382914+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,6 +17,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 8,
+        "time": "16:30",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-24"
       }
     },
     "harpalgeo-nashtar": {
@@ -97,6 +104,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 24,
+        "time": "00:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-24"
       }
     },
     "hum-aangan": {
