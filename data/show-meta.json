@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T20:56:17.027969+05:00",
+  "generatedAt": "2026-10-24T00:00:13.550157+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,13 +17,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 8,
-        "time": "04:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-23"
       }
     },
     "harpalgeo-nashtar": {
@@ -34,21 +27,21 @@
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
       "latestPublisherSource": "https://harpalgeo.tv/program/Nashtar",
       "latestUpload": {
-        "number": 21,
-        "id": "jfk_2EeP_GQ",
-        "title": "Nashtar Episode 21 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
-        "date": "2026-10-18",
+        "number": 22,
+        "id": "8IoaP1duZ5E",
+        "title": "Nashtar Episode 22 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
+        "date": "2026-10-23",
         "source": "Official YouTube upload",
-        "availableGB": true,
+        "availableGB": false,
         "availablePK": true,
         "embeddable": true
       },
       "tvToday": {
-        "number": 22,
+        "number": 23,
         "time": "20:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-23"
+        "date": "2026-10-24"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -68,20 +61,20 @@
     },
     "harpalgeo-uswa": {
       "tvToday": {
-        "number": 31,
+        "number": 32,
         "time": "19:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-23"
+        "date": "2026-10-24"
       },
       "lastAttempt": "2026-10-22T03:12:40.218128+05:00",
       "latestUpload": {
-        "number": 30,
-        "id": "OxZZOkyZAKk",
-        "title": "Uswah Episode 30 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "date": "2026-10-22",
+        "number": 31,
+        "id": "mE-n6co5NUE",
+        "title": "Uswah Episode 31 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 23rd October 2026",
+        "date": "2026-10-23",
         "source": "Official YouTube upload",
-        "availableGB": true,
+        "availableGB": false,
         "availablePK": true,
         "embeddable": true
       },
@@ -97,20 +90,13 @@
       "latestPublisherSource": "https://harpalgeo.tv/program/Khafa",
       "latestUpload": {
         "number": 24,
-        "id": "IVZ_EneCFh8",
-        "title": "Khafa Episode 24 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
-        "date": "2026-10-22",
+        "id": "_mgVD-alezg",
+        "title": "Khafa Episode 24 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "date": "2026-10-23",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 24,
-        "time": "01:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-23"
       }
     },
     "hum-aangan": {
@@ -132,17 +118,17 @@
       "poster": "https://harpalgeo.tv/assets/uploads/programs/641_9919269_programs.jpg",
       "posterSource": "Official broadcaster",
       "tvToday": {
-        "number": 11,
+        "number": 12,
         "time": "21:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-23"
+        "date": "2026-10-24"
       },
       "latestUpload": {
-        "number": 10,
-        "id": "Xe3sKzOR-P0",
-        "title": "Bano Episode 10 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 22nd October 2026 | HAR PAL GEO",
-        "date": "2026-10-22",
+        "number": 11,
+        "id": "erXqGX-bXto",
+        "title": "Bano Episode 11 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 23rd October 2026 | HAR PAL GEO",
+        "date": "2026-10-23",
         "source": "Official YouTube upload",
         "availableGB": false,
         "availablePK": true,
@@ -171,12 +157,12 @@
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
       "latestPublisherSource": "https://arydigital.tv/drama/dar-e-nijaat/",
       "latestUpload": {
-        "number": 23,
-        "id": "7OUwjtVMAsk",
-        "title": "Best of Dar e Nijaat Ep 23 | ARY Digital Drama",
-        "date": "2026-10-22",
+        "number": 24,
+        "id": "L1-WDqO_MUE",
+        "title": "Dar-e-Nijaat Episode 24 | 23 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ARY Digital Drama",
+        "date": "2026-10-23",
         "source": "Official YouTube upload",
-        "availableGB": true,
+        "availableGB": false,
         "availablePK": true,
         "embeddable": true
       }
@@ -235,12 +221,12 @@
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
       "latestPublisherSource": "https://arydigital.tv/drama/izzat/",
       "latestUpload": {
-        "number": 33,
-        "id": "M-E-edj87Og",
-        "title": "Izzat Episode 33 | 22 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "date": "2026-10-22",
+        "number": 34,
+        "id": "vU-qYlSiZ2g",
+        "title": "Izzat Episode 34 | 23 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "date": "2026-10-23",
         "source": "Official YouTube upload",
-        "availableGB": true,
+        "availableGB": false,
         "availablePK": false,
         "embeddable": true
       }
@@ -299,10 +285,10 @@
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
       "latestPublisherSource": "https://arydigital.tv/drama/rutba/",
       "latestUpload": {
-        "number": 76,
-        "id": "DgXTdrxmajI",
-        "title": "Exclusive Chat with Mehwish Hayat | BUZZ - EP 76 | RUTBA | 17 October 2026 l",
-        "date": "2026-10-17",
+        "number": 31,
+        "id": "QBr6L4_sz64",
+        "title": "Kya Tum Rutba Ko Talaq Dena Chahte Ho | Izzat Episode 31 | ARY Digital",
+        "date": "2026-10-23",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -357,12 +343,12 @@
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1791124391063_c79ece2290.webp&w=1920&q=75",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 1,
-        "id": "zptfzGBbndw",
-        "title": "Lagan Lagi Episode 1 | 22 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
-        "date": "2026-10-22",
+        "number": 2,
+        "id": "tJe5Cuncg8Q",
+        "title": "Lagan Lagi Episode 2 | 23 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "date": "2026-10-23",
         "source": "Official YouTube upload",
-        "availableGB": true,
+        "availableGB": false,
         "availablePK": true,
         "embeddable": true
       }
