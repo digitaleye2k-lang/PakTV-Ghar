@@ -1,6 +1,122 @@
 {
+  "hum-khushi": {
+    "episodes": [
+      {
+        "title": "Khushi - Episode 40 - [ENG SUB] 22nd Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 40,
+        "id": "7bG3pPrglLk",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Khushi - Episode 39 Highlight - 22th Oct 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
+        "episode": 39,
+        "id": "Ma8Hc-uxDn0",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "id": "L2jN_CghoOM",
+        "title": "Khushi - Episode 39 - [Eng Sub] 21st Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 39,
+        "date": "2026-10-21",
+        "published": "2026-10-21T15:00:03Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/L2jN_CghoOM/hqdefault.jpg",
+        "checkedAt": "2026-10-22T07:08:51.571087+00:00"
+      },
+      {
+        "id": "AWHP5v_r5NI",
+        "title": "Khushi - Episode 33 - [ENG SUB] 15th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 33,
+        "date": "2026-10-15",
+        "published": "2026-10-15T15:00:23Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/AWHP5v_r5NI/hqdefault.jpg",
+        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
+      },
+      {
+        "id": "cHKT6woUT0Y",
+        "title": "Khushi - Episode 30 - [Eng Sub] 12th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 30,
+        "date": "2026-10-12",
+        "published": "2026-10-12T15:00:05Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/cHKT6woUT0Y/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
+      },
+      {
+        "id": "4qgcZlaUMX4",
+        "title": "Khushi - Episode 29 Highlight - 12th Oct 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
+        "episode": 29,
+        "date": "2026-10-12",
+        "published": "2026-10-12T12:00:34Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/4qgcZlaUMX4/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
+      },
+      {
+        "id": "-7COdwR1U9Y",
+        "title": "Khushi - Episode 29 - [Eng Sub] 11th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 29,
+        "date": "2026-10-11",
+        "published": "2026-10-11T15:00:20Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/-7COdwR1U9Y/hqdefault.jpg",
+        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
+      }
+    ]
+  },
   "hum-gulbahar": {
     "episodes": [
+      {
+        "title": "Gulbahar - Episode 12 - [Eng Sub] 22nd Oct 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
+        "episode": 12,
+        "id": "WA6ulplmiaY",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Gulbahar - Flashback - Episode 11 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
+        "episode": 11,
+        "id": "J6n4maEszOk",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
       {
         "id": "-SSVup_u-y4",
         "title": "Gulbahar - Episode 11 - [Eng Sub] 21st Oct 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
@@ -38,6 +154,22 @@
   "hum-tark-e-tamanna": {
     "episodes": [
       {
+        "title": "Tark-e-Tamanna - Episode 13 - [Eng Sub] 22nd Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "episode": 13,
+        "id": "pcLDvGX4dj0",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Tark-e-Tamanna - Episode 12 Highlight | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "episode": 12,
+        "id": "Bmq_o1En8gc",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
         "id": "OLB9Cy49X2g",
         "title": "Tark-e-Tamanna - Episode 12 - [Eng Sub] 21st Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
         "episode": 12,
@@ -71,23 +203,151 @@
       }
     ]
   },
+  "arydigital-izzat": {
+    "episodes": [
+      {
+        "title": "Izzat Episode 33 | 22 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 33,
+        "id": "M-E-edj87Og",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Izzat Episode 33 | 22 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 33,
+        "id": "7IoPNCmLm3Y",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "id": "Thu_M83L190",
+        "title": "Izzat Episode 32 | 21 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 32,
+        "date": "2026-10-21",
+        "published": "2026-10-21T15:00:14Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/Thu_M83L190/hqdefault.jpg",
+        "checkedAt": "2026-10-21T22:11:59.697806+00:00"
+      },
+      {
+        "title": "Bas Ek Baat Ka Afsoos Reh Gaya 😭💔 | Izzat Episode 31",
+        "episode": 31,
+        "id": "PGrolGbIngk",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Izzat Episode 31 | Heart Stopping Moment | ARY Digital",
+        "episode": 31,
+        "id": "MfbCjJehtIw",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Izzat Episode 31 | Emotional Scene | ARY Digital",
+        "episode": 31,
+        "id": "imKQEm-7O5Y",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Izzat Episode 31 | Best Scene | ARY Digital",
+        "episode": 31,
+        "id": "_SJlwlztr1w",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Aakri Bar Rutba Se Maafi Mangna Chahta Hoon | Izzat Episode 30 | Merub Ali | ARY Digital",
+        "episode": 30,
+        "id": "7IMqLfrb28U",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Apne Shohar Ke Rawaiyye Se Pareshan Aa Gayi Hoon Main | Izzat Episode 30 | Merub Ali | ARY Digital",
+        "episode": 30,
+        "id": "WnEcTEmweLA",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Agar Aap Nahi Hotay Tou Mera Kya Hota | Izzat Episode 30 | ARY Digital",
+        "episode": 30,
+        "id": "3zO5cI_ofTU",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "id": "2S5_eQI24A0",
+        "title": "Izzat Episode 26 | 15 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 26,
+        "date": "2026-10-15",
+        "published": "2026-10-15T15:00:37Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/2S5_eQI24A0/hqdefault.jpg",
+        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
+      }
+    ]
+  },
+  "arydigital-rutba": {
+    "episodes": [
+      {
+        "title": "Aakri Bar Rutba Se Maafi Mangna Chahta Hoon | Izzat Episode 30 | Merub Ali | ARY Digital",
+        "episode": 30,
+        "id": "7IMqLfrb28U",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "id": "QpzPYN2DuEg",
+        "title": "Rutba EP 2 | 12 Oct 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ENG SUB",
+        "episode": 2,
+        "date": "2026-10-12",
+        "published": "2026-10-12T16:00:08Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/QpzPYN2DuEg/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+      }
+    ]
+  },
   "arydigital-main-tera": {
     "episodes": [
       {
-        "title": "Main Tera Last Episode 65 | 21 October 2026 | Ghana Ali | Yusra Irfan | Arez Ahmed | ARY Digital",
-        "episode": 65,
-        "id": "avW-UFQRmbE",
+        "title": "Main Tera Episode 64 | Unforgettable Scene | ARY Digital",
+        "episode": 64,
+        "id": "x79N-j8ONB8",
         "source": "ARY Digital",
         "kind": "youtube",
-        "date": "2026-10-21"
-      },
-      {
-        "title": "Main Tera Last Episode 65 | 21 October 2026 | Ghana Ali | Yusra Irfan | Arez Ahmed | ARY Digital",
-        "episode": 65,
-        "id": "im1Cfl3Cf6E",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-21"
+        "date": "2026-10-22"
       },
       {
         "id": "I5gDYGVf4l0",
@@ -104,6 +364,14 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/I5gDYGVf4l0/hqdefault.jpg",
         "checkedAt": "2026-10-21T22:11:59.697806+00:00"
+      },
+      {
+        "title": "Tumhare Dil Main Kitni Nafrat Hai Mere Liye | Main Tera Episode 60 | ARY Digital",
+        "episode": 60,
+        "id": "0nPgTM7uTe8",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-22"
       },
       {
         "id": "OErakyu1-A4",
@@ -142,20 +410,20 @@
   "arydigital-hey-fam": {
     "episodes": [
       {
-        "title": "Hey Fam | EP  11 | 21 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
-        "episode": 11,
-        "id": "OHzfWHFVzCM",
+        "title": "Hey Fam | EP 12 | 22 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
+        "episode": 12,
+        "id": "qylU1oI1G_Q",
         "source": "ARY Digital",
         "kind": "youtube",
-        "date": "2026-10-21"
+        "date": "2026-10-22"
       },
       {
-        "title": "Hey Fam | EP  11 | 21 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
-        "episode": 11,
-        "id": "tSiVAfGFEpE",
+        "title": "Hey Fam | EP 12 | 22 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
+        "episode": 12,
+        "id": "YZg2YVHh_os",
         "source": "ARY Digital",
         "kind": "youtube",
-        "date": "2026-10-21"
+        "date": "2026-10-22"
       },
       {
         "id": "fL5lA6STcb8",
@@ -172,6 +440,38 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/fL5lA6STcb8/hqdefault.jpg",
         "checkedAt": "2026-10-15T21:49:22.372994+00:00"
+      },
+      {
+        "title": "Kya Seerat Is Video Ke Baad Bohat Famous Ho Jayegi | Hey Fam Episode 8 | Dua Zahra | ARY Digital",
+        "episode": 8,
+        "id": "oD0X76hOxyg",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Mera Mujrim Abhi Tak Giraftar Kyun Nahi Hua | Hey Fam Episode 8 | ARY Digital",
+        "episode": 8,
+        "id": "_bFHynkmnqk",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Hey Fam Episode 8 | Zaviyar Ejaz | Best Scene | ARY Digital",
+        "episode": 8,
+        "id": "nET5KmOdcQE",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Hey Fam Episode 7 | Best Scene | Dua Zahra | ARY Digital",
+        "episode": 7,
+        "id": "kzE6hF-axFg",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-22"
       },
       {
         "id": "8N6zIC3KIY8",
@@ -207,8 +507,836 @@
       }
     ]
   },
+  "arydigital-lagan-lagi": {
+    "episodes": [
+      {
+        "title": "Lagan Lagi Episode 1 | 22 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 1,
+        "id": "zptfzGBbndw",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      }
+    ]
+  },
+  "arydigital-tamasha-season-5": {
+    "episodes": [
+      {
+        "title": "UNCUT | Tamasha Ghar Mein Kaun Kis Ka Favourite Nikla? 🤔🔥😍 | Tamasha S5 | ARY Digital",
+        "episode": null,
+        "id": "bcsZnFhQlpw",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      }
+    ]
+  },
+  "arydigital-angna": {
+    "episodes": [
+      {
+        "id": "YrDVNI5w4dk",
+        "title": "Angna Last Episode 66 | 6th June 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 66,
+        "date": "2022-06-06",
+        "published": "2022-06-06T15:04:44Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/YrDVNI5w4dk/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "N-kTC38e7Lg",
+        "title": "Angna Episode 64 - 4th June 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 64,
+        "date": "2022-06-04",
+        "published": "2022-06-04T15:03:04Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/N-kTC38e7Lg/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "TVNHFf3ELBQ",
+        "title": "Angna Episode 63 - 3rd June 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 63,
+        "date": "2022-06-03",
+        "published": "2022-06-03T15:02:06Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/TVNHFf3ELBQ/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "6H_fha8BlHM",
+        "title": "Angna Episode 59 - 30th May 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 59,
+        "date": "2022-05-30",
+        "published": "2022-05-30T15:02:32Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/6H_fha8BlHM/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "3UMgzjID78Y",
+        "title": "Angna Episode 57 - 28th May 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 57,
+        "date": "2022-05-28",
+        "published": "2022-05-28T15:06:36Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/3UMgzjID78Y/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "_73AQTnr-FE",
+        "title": "Angna Episode 56 - 27th May 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 56,
+        "date": "2022-05-27",
+        "published": "2022-05-27T15:03:21Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/_73AQTnr-FE/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "8FGefmw2VtM",
+        "title": "Angna Episode 55 - 26th May 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 55,
+        "date": "2022-05-26",
+        "published": "2022-05-26T15:06:47Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/8FGefmw2VtM/hqdefault.jpg",
+        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+      },
+      {
+        "id": "2k23VBBSOLk",
+        "title": "Angna Episode 52 - 23rd May 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 52,
+        "date": "2022-05-23",
+        "published": "2022-05-23T15:05:25Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/2k23VBBSOLk/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "fZNtKKz7sdE",
+        "title": "Angna Episode 51 - 22nd May 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 51,
+        "date": "2022-05-22",
+        "published": "2022-05-22T15:03:26Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/fZNtKKz7sdE/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "PMe7H0VyUy4",
+        "title": "Angna Episode 50 | 21st May 2022 (English Subtitles) | ARY Digital Drama",
+        "episode": 50,
+        "date": "2022-05-21",
+        "published": "2022-05-21T15:00:03Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/PMe7H0VyUy4/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "hXHsKYuV7Xk",
+        "title": "Angna Episode 49 | 20th May 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 49,
+        "date": "2022-05-20",
+        "published": "2022-05-20T15:04:28Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/hXHsKYuV7Xk/hqdefault.jpg",
+        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+      },
+      {
+        "id": "UVDNBvHmQaA",
+        "title": "Angna Episode 47 | 18th May 2022 (English Subtitles) | ARY Digital Drama",
+        "episode": 47,
+        "date": "2022-05-18",
+        "published": "2022-05-18T15:08:01Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/UVDNBvHmQaA/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "ZeNXOc9YtNc",
+        "title": "Angna Episode 46 | 17th May 2022 (English Subtitles) | ARY Digital Drama",
+        "episode": 46,
+        "date": "2022-05-17",
+        "published": "2022-05-17T15:03:43Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ZeNXOc9YtNc/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "yhBhfHdG6mc",
+        "title": "Angna Episode 44 (English Subtitles) ARY Digital Drama",
+        "episode": 44,
+        "date": "2022-05-15",
+        "published": "2022-05-15T15:00:05Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/yhBhfHdG6mc/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "s2F6nErYkcM",
+        "title": "Angna Episode 43 - 14th May 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 43,
+        "date": "2022-05-14",
+        "published": "2022-05-14T15:01:40Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/s2F6nErYkcM/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "PHREzd42Mrg",
+        "title": "Angna Episode 41 (English Subtitles) ARY Digital Drama",
+        "episode": 41,
+        "date": "2022-05-12",
+        "published": "2022-05-12T15:01:56Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/PHREzd42Mrg/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "nX2fSb6gZGQ",
+        "title": "Angna Episode 39 - 10th May 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 39,
+        "date": "2022-05-10",
+        "published": "2022-05-10T15:06:28Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/nX2fSb6gZGQ/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "4GFjK0MXopw",
+        "title": "Angna Episode 38 - 9th May 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 38,
+        "date": "2022-05-09",
+        "published": "2022-05-09T15:03:28Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/4GFjK0MXopw/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "sKbS-o7d1cA",
+        "title": "Angna Episode 37 - 8th May 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 37,
+        "date": "2022-05-08",
+        "published": "2022-05-08T15:06:51Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/sKbS-o7d1cA/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "wBzBL_qaq-Y",
+        "title": "Angna Episode 36 (English Subtitles) ARY Digital Drama",
+        "episode": 36,
+        "date": "2022-05-07",
+        "published": "2022-05-07T15:03:14Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/wBzBL_qaq-Y/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "PkYFGLL23Nw",
+        "title": "Angna Episode 35 - 6th May 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 35,
+        "date": "2022-05-06",
+        "published": "2022-05-06T15:03:25Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/PkYFGLL23Nw/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "g054ifYUBmc",
+        "title": "Angna Episode 34 - 27th April 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 34,
+        "date": "2022-04-27",
+        "published": "2022-04-27T18:06:38Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/g054ifYUBmc/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "XHEC_ozg3zY",
+        "title": "Angna Episode 33 (English Subtitles) ARY Digital Drama",
+        "episode": 33,
+        "date": "2022-04-21",
+        "published": "2022-04-21T17:53:11Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/XHEC_ozg3zY/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "title": "Aakri Bar Rutba Se Maafi Mangna Chahta Hoon | Izzat Episode 30 | Merub Ali | ARY Digital",
+        "episode": 30,
+        "id": "7IMqLfrb28U",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "id": "7yIcfmxCmm8",
+        "title": "Angna Episode 29 - 7th April 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 29,
+        "date": "2022-04-07",
+        "published": "2022-04-07T19:08:32Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/7yIcfmxCmm8/hqdefault.jpg",
+        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+      },
+      {
+        "id": "CNwyyJI7A7s",
+        "title": "Angna Episode 26 - 1st April 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 26,
+        "date": "2022-04-01",
+        "published": "2022-04-01T15:01:52Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/CNwyyJI7A7s/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "JysKsTdKfx8",
+        "title": "Angna Episode 25 - 31st March 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 25,
+        "date": "2022-03-31",
+        "published": "2022-03-31T15:02:24Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/JysKsTdKfx8/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "76We-RyIlgI",
+        "title": "Angna Episode 24 - 30th March 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 24,
+        "date": "2022-03-30",
+        "published": "2022-03-30T15:01:11Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/76We-RyIlgI/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "Si-MtsC_ZSw",
+        "title": "Angna Episode 23 (English Subtitles) ARY Digital Drama",
+        "episode": 23,
+        "date": "2022-03-29",
+        "published": "2022-03-29T15:00:13Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Si-MtsC_ZSw/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "kBb6-kwZKVU",
+        "title": "Angna Episode 22 - 28th March 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 22,
+        "date": "2022-03-28",
+        "published": "2022-03-28T15:09:55Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/kBb6-kwZKVU/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "7n7qVk1EeHA",
+        "title": "Angna Episode 21 - 27th March 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 21,
+        "date": "2022-03-27",
+        "published": "2022-03-27T15:00:06Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/7n7qVk1EeHA/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "37JiguVqcBI",
+        "title": "Angna Episode 20 - 26th March 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 20,
+        "date": "2022-03-26",
+        "published": "2022-03-26T15:00:01Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/37JiguVqcBI/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "EszfVCSM9wQ",
+        "title": "Angna Episode 16 - 22nd March 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 16,
+        "date": "2022-03-22",
+        "published": "2022-03-22T15:07:52Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/EszfVCSM9wQ/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "r0T6Bmv7M2Y",
+        "title": "Angna Episode 15 - 21st March 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 15,
+        "date": "2022-03-21",
+        "published": "2022-03-21T15:03:26Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/r0T6Bmv7M2Y/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "dAxNhYobr8c",
+        "title": "Angna Episode 14 - 20th March 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 14,
+        "date": "2022-03-20",
+        "published": "2022-03-20T15:00:03Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/dAxNhYobr8c/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "77HSL_fq-ZM",
+        "title": "Angna Episode 13 - 19th March 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 13,
+        "date": "2022-03-19",
+        "published": "2022-03-19T15:00:08Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/77HSL_fq-ZM/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "XGRfFLRbb3U",
+        "title": "Angna Episode 12 (English Subtitles) ARY Digital Drama",
+        "episode": 12,
+        "date": "2022-03-18",
+        "published": "2022-03-18T15:06:04Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/XGRfFLRbb3U/hqdefault.jpg",
+        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+      },
+      {
+        "id": "gtJmxWGwxME",
+        "title": "Angna Episode 11 - 17th March 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 11,
+        "date": "2022-03-17",
+        "published": "2022-03-17T15:00:21Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/gtJmxWGwxME/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "yuDxJ3NbWhU",
+        "title": "Angna Episode 10 (English Subtitles) ARY Digital Drama",
+        "episode": 10,
+        "date": "2022-03-16",
+        "published": "2022-03-16T15:00:36Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/yuDxJ3NbWhU/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "8vhfULKPusc",
+        "title": "Angna Episode 8 - 14th March 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 8,
+        "date": "2022-03-14",
+        "published": "2022-03-14T15:00:01Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/8vhfULKPusc/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "V582zsl8DIg",
+        "title": "Angna Episode 7 (English Subtitles) ARY Digital Drama",
+        "episode": 7,
+        "date": "2022-03-13",
+        "published": "2022-03-13T15:09:25Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/V582zsl8DIg/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "oIckzZCKg_U",
+        "title": "Angna Episode 6 - 12th March 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 6,
+        "date": "2022-03-12",
+        "published": "2022-03-12T15:00:19Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/oIckzZCKg_U/hqdefault.jpg",
+        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+      },
+      {
+        "id": "3u-oXR0UiiM",
+        "title": "Angna Episode 5 - 11th March 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 5,
+        "date": "2022-03-11",
+        "published": "2022-03-11T15:06:49Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/3u-oXR0UiiM/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "FCrNEEG3Y7Y",
+        "title": "Angna Episode 4 - 10th March 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 4,
+        "date": "2022-03-10",
+        "published": "2022-03-10T15:07:01Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/FCrNEEG3Y7Y/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "xQzYY2pX-t0",
+        "title": "Angna Episode 3 (English Subtitles) ARY Digital Drama",
+        "episode": 3,
+        "date": "2022-03-09",
+        "published": "2022-03-09T15:02:01Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/xQzYY2pX-t0/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "rQ5_yc8p_hY",
+        "title": "Angna Episode 2 - 8th March 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 2,
+        "date": "2022-03-08",
+        "published": "2022-03-08T14:59:11Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/rQ5_yc8p_hY/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
+      {
+        "id": "ITXXidXckcc",
+        "title": "Angna Episode 1 (English Subtitles) ARY Digital Drama",
+        "episode": 1,
+        "date": "2022-03-07",
+        "published": "2022-03-07T15:01:35Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ITXXidXckcc/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      }
+    ]
+  },
   "harpalgeo-uswa": {
     "episodes": [
+      {
+        "title": "Uswah Episode 30 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 30,
+        "id": "OxZZOkyZAKk",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Uswah Episode 30 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 30,
+        "id": "0yfZnM_eVwg",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Uswah Episode 30 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 22nd October 2026",
+        "episode": 30,
+        "id": "BL4183qNFpo",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Uswah Episode 29 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 29,
+        "id": "u4ndCEVpopY",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Uswah Episode 29 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 29,
+        "id": "hehU-jadYdI",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Uswah Episode 29 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 29,
+        "id": "h62ZOSW9iW0",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Uswah Episode 29 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 29,
+        "id": "_YNRdzm4sHo",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
       {
         "title": "Uswah Episode 29 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
         "episode": 29,
@@ -438,6 +1566,78 @@
   "harpalgeo-khafa": {
     "episodes": [
       {
+        "title": "Khafa Episode 24 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 24,
+        "id": "IVZ_EneCFh8",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Khafa Episode 24 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 24,
+        "id": "WrWVS_jOK70",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Khafa Episode 24 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 24,
+        "id": "SKIT8HJvH54",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Khafa Episode 24 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 22nd Oct 2026 | HAR PAL GEO",
+        "episode": 24,
+        "id": "x0gr1rs_FFw",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Recap Khafa Episode 23 - 22nd October 2026 - Har Pal Geo",
+        "episode": 23,
+        "id": "_rDiNqb54L0",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Khafa Episode 23 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 23,
+        "id": "fYEkclJkvgs",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Khafa Episode 23 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 23,
+        "id": "q2qnGlYT9ok",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Khafa Episode 23 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 23,
+        "id": "cM5hYkzc9hs",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Khafa Episode 23 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 23,
+        "id": "qgNYolqpgj4",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
         "title": "Khafa Episode 23 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
         "episode": 23,
         "id": "bKjZLn4bMPA",
@@ -462,14 +1662,6 @@
         "date": "2026-10-21"
       },
       {
-        "title": "Khafa Episode 23 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
-        "episode": 23,
-        "id": "tDlLwW_rh1U",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-21"
-      },
-      {
         "id": "aD6aT1uLd-U",
         "title": "Khafa Episode 23 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 21st Oct 2026 | HAR PAL GEO",
         "episode": 23,
@@ -484,14 +1676,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/aD6aT1uLd-U/hqdefault.jpg",
         "checkedAt": "2026-10-22T01:02:25.930340+00:00"
-      },
-      {
-        "title": "Recap Khafa Episode 22 - 21st October 2026 - Har Pal Geo",
-        "episode": 22,
-        "id": "rpYuSFgHvdQ",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-21"
       },
       {
         "id": "2hMkdgRZ2uk",
@@ -529,6 +1713,78 @@
   },
   "harpalgeo-bano": {
     "episodes": [
+      {
+        "title": "Bano Episode 10 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 22nd October 2026 | HAR PAL GEO",
+        "episode": 10,
+        "id": "Xe3sKzOR-P0",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Bano Episode 09 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 9,
+        "id": "yBEEawcKpdY",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Bano Episode 09 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 9,
+        "id": "AQUopav-7AI",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Bano Episode 09 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 9,
+        "id": "GyDewYVLHkc",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Bano Episode 09 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 9,
+        "id": "QeslB-xXGCg",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Bano Episode 09 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 9,
+        "id": "bnHYpTyGOog",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Bano Episode 09 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 9,
+        "id": "CzE1UlfSN3Y",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Bano Episode 09 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 9,
+        "id": "NAAm9rifRFg",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Bano Episode 09 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 9,
+        "id": "nz1FuYIrwWQ",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-22"
+      },
       {
         "id": "3GsRhhcO-e8",
         "title": "Bano Episode 09 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 21st October 2026 | HAR PAL GEO",
@@ -614,12 +1870,12 @@
   "arydigital-bulbulay": {
     "episodes": [
       {
-        "title": "Bulbulay Oil Company! 🛢️💰 | Momo | Khoobsurat | Non Stop Comedy",
+        "title": "Murgi Chor! 🐔🤣 | Momo | Khoobsurat | Non Stop Comedy | Bulbulay",
         "episode": null,
-        "id": "ZI3OWaB5t4s",
+        "id": "8z4Cy6R-IaY",
         "source": "ARY Digital",
         "kind": "youtube",
-        "date": "2026-10-21"
+        "date": "2026-10-22"
       }
     ]
   },
@@ -664,46 +1920,6 @@
         "source": "Geo News",
         "kind": "youtube",
         "date": "2026-10-22"
-      },
-      {
-        "title": "Back-channel talks begin within PTI government? | Capital Talk",
-        "episode": null,
-        "id": "hgFAfR9fcpg",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-21"
-      },
-      {
-        "title": "Why are Gandapur and Salman Akram Raja face to face? | Capital talk",
-        "episode": null,
-        "id": "p9Kkow9LsOY",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-21"
-      },
-      {
-        "title": "Who is angry about the PPL headquarters being moved to Islamabad? | Capital Talk",
-        "episode": null,
-        "id": "iXpwsYWcPoA",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-21"
-      },
-      {
-        "title": "Petroleum Minister reveals solution to expensive LPG | Capital Talk",
-        "episode": null,
-        "id": "6If5ze41IPo",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-21"
-      },
-      {
-        "title": "Salman Akram Raja vs Ali Amin Gandapur! | After petrol, LPG soars high | Capital Talk | Hamid Mir",
-        "episode": null,
-        "id": "sw0WzUVVB-c",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-21"
       }
     ]
   },
@@ -748,14 +1964,6 @@
         "source": "Geo News",
         "kind": "youtube",
         "date": "2026-10-21"
-      },
-      {
-        "title": "3 encounters, 3 deaths, questions over police procedures  | Aaj Shahzeb Khanzada Kay Saath",
-        "episode": null,
-        "id": "B2oEqBHDIjw",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-21"
       }
     ]
   },
@@ -768,34 +1976,6 @@
         "source": "ARY News",
         "kind": "youtube",
         "date": "2026-10-22"
-      },
-      {
-        "title": "Governor’s Rule & Emergency: Is the 28th Amendment Next? | The Reporters | 21st Oct 26 | ARY News",
-        "episode": null,
-        "id": "DotF89M7LI4",
-        "source": "ARY News",
-        "kind": "youtube",
-        "date": "2026-10-21"
-      }
-    ]
-  },
-  "arydigital-rutba": {
-    "episodes": [
-      {
-        "id": "QpzPYN2DuEg",
-        "title": "Rutba EP 2 | 12 Oct 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ENG SUB",
-        "episode": 2,
-        "date": "2026-10-12",
-        "published": "2026-10-12T16:00:08Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/QpzPYN2DuEg/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
       }
     ]
   },
@@ -1027,90 +2207,6 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/bNfLroyIbUY/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      }
-    ]
-  },
-  "hum-khushi": {
-    "episodes": [
-      {
-        "id": "L2jN_CghoOM",
-        "title": "Khushi - Episode 39 - [Eng Sub] 21st Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 39,
-        "date": "2026-10-21",
-        "published": "2026-10-21T15:00:03Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/L2jN_CghoOM/hqdefault.jpg",
-        "checkedAt": "2026-10-22T07:08:51.571087+00:00"
-      },
-      {
-        "id": "AWHP5v_r5NI",
-        "title": "Khushi - Episode 33 - [ENG SUB] 15th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 33,
-        "date": "2026-10-15",
-        "published": "2026-10-15T15:00:23Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/AWHP5v_r5NI/hqdefault.jpg",
-        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
-      },
-      {
-        "id": "cHKT6woUT0Y",
-        "title": "Khushi - Episode 30 - [Eng Sub] 12th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 30,
-        "date": "2026-10-12",
-        "published": "2026-10-12T15:00:05Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": false,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/cHKT6woUT0Y/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      },
-      {
-        "id": "4qgcZlaUMX4",
-        "title": "Khushi - Episode 29 Highlight - 12th Oct 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
-        "episode": 29,
-        "date": "2026-10-12",
-        "published": "2026-10-12T12:00:34Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/4qgcZlaUMX4/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      },
-      {
-        "id": "-7COdwR1U9Y",
-        "title": "Khushi - Episode 29 - [Eng Sub] 11th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 29,
-        "date": "2026-10-11",
-        "published": "2026-10-11T15:00:20Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/-7COdwR1U9Y/hqdefault.jpg",
         "checkedAt": "2026-10-12T17:30:35.039122+00:00"
       }
     ]
@@ -1719,7 +2815,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wqiKk2kIMA0/hqdefault.jpg",
-        "checkedAt": "2026-10-17T01:00:49.537935+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "nw17xXuRiKM",
@@ -1735,7 +2831,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nw17xXuRiKM/hqdefault.jpg",
-        "checkedAt": "2026-10-17T01:00:49.537935+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "mKVCCKqFKJA",
@@ -1771,7 +2867,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/T-rg8ZWoMeI/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "mbujMW8PDK8",
@@ -1787,624 +2883,28 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mbujMW8PDK8/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      }
-    ]
-  },
-  "arydigital-angna": {
-    "episodes": [
-      {
-        "id": "YrDVNI5w4dk",
-        "title": "Angna Last Episode 66 | 6th June 2022 (English Subtitles) ARY Digital Drama",
-        "episode": 66,
-        "date": "2022-06-06",
-        "published": "2022-06-06T15:04:44Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/YrDVNI5w4dk/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "TVNHFf3ELBQ",
-        "title": "Angna Episode 63 - 3rd June 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 63,
-        "date": "2022-06-03",
-        "published": "2022-06-03T15:02:06Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/TVNHFf3ELBQ/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "6H_fha8BlHM",
-        "title": "Angna Episode 59 - 30th May 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 59,
-        "date": "2022-05-30",
-        "published": "2022-05-30T15:02:32Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/6H_fha8BlHM/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "3UMgzjID78Y",
-        "title": "Angna Episode 57 - 28th May 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 57,
-        "date": "2022-05-28",
-        "published": "2022-05-28T15:06:36Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/3UMgzjID78Y/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "_73AQTnr-FE",
-        "title": "Angna Episode 56 - 27th May 2022 (English Subtitles) ARY Digital Drama",
-        "episode": 56,
-        "date": "2022-05-27",
-        "published": "2022-05-27T15:03:21Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/_73AQTnr-FE/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "8FGefmw2VtM",
-        "title": "Angna Episode 55 - 26th May 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 55,
-        "date": "2022-05-26",
-        "published": "2022-05-26T15:06:47Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/8FGefmw2VtM/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
-      },
-      {
-        "id": "fZNtKKz7sdE",
-        "title": "Angna Episode 51 - 22nd May 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 51,
-        "date": "2022-05-22",
-        "published": "2022-05-22T15:03:26Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/fZNtKKz7sdE/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "PMe7H0VyUy4",
-        "title": "Angna Episode 50 | 21st May 2022 (English Subtitles) | ARY Digital Drama",
-        "episode": 50,
-        "date": "2022-05-21",
-        "published": "2022-05-21T15:00:03Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/PMe7H0VyUy4/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "hXHsKYuV7Xk",
-        "title": "Angna Episode 49 | 20th May 2022 (English Subtitles) ARY Digital Drama",
-        "episode": 49,
-        "date": "2022-05-20",
-        "published": "2022-05-20T15:04:28Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/hXHsKYuV7Xk/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
-      },
-      {
-        "id": "UVDNBvHmQaA",
-        "title": "Angna Episode 47 | 18th May 2022 (English Subtitles) | ARY Digital Drama",
-        "episode": 47,
-        "date": "2022-05-18",
-        "published": "2022-05-18T15:08:01Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/UVDNBvHmQaA/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
-      },
-      {
-        "id": "ZeNXOc9YtNc",
-        "title": "Angna Episode 46 | 17th May 2022 (English Subtitles) | ARY Digital Drama",
-        "episode": 46,
-        "date": "2022-05-17",
-        "published": "2022-05-17T15:03:43Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ZeNXOc9YtNc/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
-      },
-      {
-        "id": "yhBhfHdG6mc",
-        "title": "Angna Episode 44 (English Subtitles) ARY Digital Drama",
-        "episode": 44,
-        "date": "2022-05-15",
-        "published": "2022-05-15T15:00:05Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/yhBhfHdG6mc/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "s2F6nErYkcM",
-        "title": "Angna Episode 43 - 14th May 2022 (English Subtitles) ARY Digital Drama",
-        "episode": 43,
-        "date": "2022-05-14",
-        "published": "2022-05-14T15:01:40Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/s2F6nErYkcM/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
-      },
-      {
-        "id": "PHREzd42Mrg",
-        "title": "Angna Episode 41 (English Subtitles) ARY Digital Drama",
-        "episode": 41,
-        "date": "2022-05-12",
-        "published": "2022-05-12T15:01:56Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/PHREzd42Mrg/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "nX2fSb6gZGQ",
-        "title": "Angna Episode 39 - 10th May 2022 (English Subtitles) ARY Digital Drama",
-        "episode": 39,
-        "date": "2022-05-10",
-        "published": "2022-05-10T15:06:28Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/nX2fSb6gZGQ/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "sKbS-o7d1cA",
-        "title": "Angna Episode 37 - 8th May 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 37,
-        "date": "2022-05-08",
-        "published": "2022-05-08T15:06:51Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/sKbS-o7d1cA/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "wBzBL_qaq-Y",
-        "title": "Angna Episode 36 (English Subtitles) ARY Digital Drama",
-        "episode": 36,
-        "date": "2022-05-07",
-        "published": "2022-05-07T15:03:14Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/wBzBL_qaq-Y/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "g054ifYUBmc",
-        "title": "Angna Episode 34 - 27th April 2022 (English Subtitles) ARY Digital Drama",
-        "episode": 34,
-        "date": "2022-04-27",
-        "published": "2022-04-27T18:06:38Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/g054ifYUBmc/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
-      },
-      {
-        "id": "XHEC_ozg3zY",
-        "title": "Angna Episode 33 (English Subtitles) ARY Digital Drama",
-        "episode": 33,
-        "date": "2022-04-21",
-        "published": "2022-04-21T17:53:11Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/XHEC_ozg3zY/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "7yIcfmxCmm8",
-        "title": "Angna Episode 29 - 7th April 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 29,
-        "date": "2022-04-07",
-        "published": "2022-04-07T19:08:32Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/7yIcfmxCmm8/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
-      },
-      {
-        "id": "CNwyyJI7A7s",
-        "title": "Angna Episode 26 - 1st April 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 26,
-        "date": "2022-04-01",
-        "published": "2022-04-01T15:01:52Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/CNwyyJI7A7s/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "JysKsTdKfx8",
-        "title": "Angna Episode 25 - 31st March 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 25,
-        "date": "2022-03-31",
-        "published": "2022-03-31T15:02:24Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/JysKsTdKfx8/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "76We-RyIlgI",
-        "title": "Angna Episode 24 - 30th March 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 24,
-        "date": "2022-03-30",
-        "published": "2022-03-30T15:01:11Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/76We-RyIlgI/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "kBb6-kwZKVU",
-        "title": "Angna Episode 22 - 28th March 2022 (English Subtitles) ARY Digital Drama",
-        "episode": 22,
-        "date": "2022-03-28",
-        "published": "2022-03-28T15:09:55Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/kBb6-kwZKVU/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "7n7qVk1EeHA",
-        "title": "Angna Episode 21 - 27th March 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 21,
-        "date": "2022-03-27",
-        "published": "2022-03-27T15:00:06Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/7n7qVk1EeHA/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "37JiguVqcBI",
-        "title": "Angna Episode 20 - 26th March 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 20,
-        "date": "2022-03-26",
-        "published": "2022-03-26T15:00:01Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/37JiguVqcBI/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "EszfVCSM9wQ",
-        "title": "Angna Episode 16 - 22nd March 2022 (English Subtitles) ARY Digital Drama",
-        "episode": 16,
-        "date": "2022-03-22",
-        "published": "2022-03-22T15:07:52Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/EszfVCSM9wQ/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "r0T6Bmv7M2Y",
-        "title": "Angna Episode 15 - 21st March 2022 (English Subtitles) ARY Digital Drama",
-        "episode": 15,
-        "date": "2022-03-21",
-        "published": "2022-03-21T15:03:26Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/r0T6Bmv7M2Y/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "77HSL_fq-ZM",
-        "title": "Angna Episode 13 - 19th March 2022 (English Subtitles) ARY Digital Drama",
-        "episode": 13,
-        "date": "2022-03-19",
-        "published": "2022-03-19T15:00:08Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/77HSL_fq-ZM/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
-      },
-      {
-        "id": "XGRfFLRbb3U",
-        "title": "Angna Episode 12 (English Subtitles) ARY Digital Drama",
-        "episode": 12,
-        "date": "2022-03-18",
-        "published": "2022-03-18T15:06:04Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/XGRfFLRbb3U/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
-      },
-      {
-        "id": "gtJmxWGwxME",
-        "title": "Angna Episode 11 - 17th March 2022 (English Subtitles) ARY Digital Drama",
-        "episode": 11,
-        "date": "2022-03-17",
-        "published": "2022-03-17T15:00:21Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/gtJmxWGwxME/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "yuDxJ3NbWhU",
-        "title": "Angna Episode 10 (English Subtitles) ARY Digital Drama",
-        "episode": 10,
-        "date": "2022-03-16",
-        "published": "2022-03-16T15:00:36Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/yuDxJ3NbWhU/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "8vhfULKPusc",
-        "title": "Angna Episode 8 - 14th March 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 8,
-        "date": "2022-03-14",
-        "published": "2022-03-14T15:00:01Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/8vhfULKPusc/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "oIckzZCKg_U",
-        "title": "Angna Episode 6 - 12th March 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 6,
-        "date": "2022-03-12",
-        "published": "2022-03-12T15:00:19Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/oIckzZCKg_U/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "3u-oXR0UiiM",
-        "title": "Angna Episode 5 - 11th March 2022 (English Subtitles) ARY Digital Drama",
-        "episode": 5,
-        "date": "2022-03-11",
-        "published": "2022-03-11T15:06:49Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/3u-oXR0UiiM/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "xQzYY2pX-t0",
-        "title": "Angna Episode 3 (English Subtitles) ARY Digital Drama",
-        "episode": 3,
-        "date": "2022-03-09",
-        "published": "2022-03-09T15:02:01Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/xQzYY2pX-t0/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "rQ5_yc8p_hY",
-        "title": "Angna Episode 2 - 8th March 2022 (English Subtitles) ARY Digital Drama",
-        "episode": 2,
-        "date": "2022-03-08",
-        "published": "2022-03-08T14:59:11Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/rQ5_yc8p_hY/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
-      },
-      {
-        "id": "ITXXidXckcc",
-        "title": "Angna Episode 1 (English Subtitles) ARY Digital Drama",
-        "episode": 1,
-        "date": "2022-03-07",
-        "published": "2022-03-07T15:01:35Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ITXXidXckcc/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       }
     ]
   },
   "arydigital-aulaad": {
     "episodes": [
+      {
+        "id": "7cnfTErGmwQ",
+        "title": "Aulaad 2nd Last Episode 30 | Part 2 | Presented By Brite | 1st June 2021 | ARY Digital Drama",
+        "episode": 30,
+        "date": "2021-06-01",
+        "published": "2021-06-01T17:11:12Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/7cnfTErGmwQ/hqdefault.jpg",
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
+      },
       {
         "id": "T8ttQtDT5dI",
         "title": "Aulaad 2nd Last Episode 30 | Part 1 | Presented By Brite | 1st June 2021 | ARY Digital Drama",
@@ -2419,7 +2919,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/T8ttQtDT5dI/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "zwl7HtXL4uo",
@@ -2435,7 +2935,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zwl7HtXL4uo/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "ll3hVjnHQDw",
@@ -2451,7 +2951,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ll3hVjnHQDw/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "DtG4rF7QWZE",
@@ -2467,7 +2967,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DtG4rF7QWZE/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "CN4TrzAjHrI",
@@ -2483,7 +2983,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/CN4TrzAjHrI/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "lj_O6mf5tN4",
@@ -2499,7 +2999,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lj_O6mf5tN4/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "QyQugso92s0",
@@ -2531,7 +3031,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Ltm5QYV7NkI/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "7Obu5-GqbDc",
@@ -2547,7 +3047,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7Obu5-GqbDc/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "oPqftXPe9jg",
@@ -2563,7 +3063,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/oPqftXPe9jg/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "XzrjYYOTW5U",
@@ -2579,7 +3079,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XzrjYYOTW5U/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "lmN9K9zQyTQ",
@@ -2595,7 +3095,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lmN9K9zQyTQ/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "npwYUHy17Qs",
@@ -2611,7 +3111,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/npwYUHy17Qs/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "QoWkmOT1ieg",
@@ -2643,7 +3143,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/c8akXvyII5E/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "pwPf25BCJb4",
@@ -2691,7 +3191,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/s4CfZ0dyzDA/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "UUjnfwowAsc",
@@ -2707,7 +3207,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UUjnfwowAsc/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "kcEkZtkTycA",
@@ -2723,7 +3223,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kcEkZtkTycA/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "fidGxRTtu5o",
@@ -2739,7 +3239,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fidGxRTtu5o/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "SuZRTBKVDQo",
@@ -2771,7 +3271,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/maYoMZ2p4m0/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "8UdCqwg_Cl8",
@@ -2787,7 +3287,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8UdCqwg_Cl8/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "W4vTGkH_eN8",
@@ -2803,7 +3303,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/W4vTGkH_eN8/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "cIsxePYGd3k",
@@ -2819,7 +3319,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cIsxePYGd3k/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "Eix1QivK6qs",
@@ -2835,7 +3335,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Eix1QivK6qs/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "n1Mmu3TfrvE",
@@ -2851,7 +3351,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/n1Mmu3TfrvE/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
         "id": "vKF-ffjTnYw",
@@ -2867,7 +3367,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vKF-ffjTnYw/hqdefault.jpg",
-        "checkedAt": "2026-10-17T03:49:41.164961+00:00"
+        "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       }
     ]
   },
@@ -31896,42 +32396,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OrkuogQOKuQ/hqdefault.jpg",
         "checkedAt": "2026-10-18T15:21:13.629433+00:00"
-      }
-    ]
-  },
-  "arydigital-izzat": {
-    "episodes": [
-      {
-        "id": "Thu_M83L190",
-        "title": "Izzat Episode 32 | 21 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 32,
-        "date": "2026-10-21",
-        "published": "2026-10-21T15:00:14Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/Thu_M83L190/hqdefault.jpg",
-        "checkedAt": "2026-10-21T22:11:59.697806+00:00"
-      },
-      {
-        "id": "2S5_eQI24A0",
-        "title": "Izzat Episode 26 | 15 October 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 26,
-        "date": "2026-10-15",
-        "published": "2026-10-15T15:00:37Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/2S5_eQI24A0/hqdefault.jpg",
-        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
       }
     ]
   },
