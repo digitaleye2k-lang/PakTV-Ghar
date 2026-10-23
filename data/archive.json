@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-23T09:52:48.334156+00:00",
+  "generatedAt": "2026-10-23T13:02:12.787024+00:00",
   "dateTimezone": "UTC",
-  "cursor": 21,
+  "cursor": 33,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -259,42 +259,42 @@
       "uploadsId": "UUiWrjBhlICf_L_RK5y6Vrxw",
       "handle": "PakistanCricket",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-22T15:52:29.185482+00:00"
+      "lastFetchedAt": "2026-10-23T13:02:12.787024+00:00"
     },
     "psl": {
       "youtubeId": "UCpNzXJ5jpcJojC5mHQvGA8w",
       "uploadsId": "UUpNzXJ5jpcJojC5mHQvGA8w",
       "handle": "pakistansuperleagueofficial",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-22T15:52:29.185482+00:00"
+      "lastFetchedAt": "2026-10-23T13:02:12.787024+00:00"
     },
     "asports": {
       "youtubeId": "UCCLdGxMC4fwkaQ4AIcL7Z8w",
       "uploadsId": "UUCLdGxMC4fwkaQ4AIcL7Z8w",
       "handle": "asportspk",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-22T15:52:29.185482+00:00"
+      "lastFetchedAt": "2026-10-23T13:02:12.787024+00:00"
     },
     "ptvsports": {
       "youtubeId": "UCnoH_iEE4tgVznLT97Kb7ig",
       "uploadsId": "UUnoH_iEE4tgVznLT97Kb7ig",
       "handle": "ptvsportsofficialpk",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-22T15:52:29.185482+00:00"
+      "lastFetchedAt": "2026-10-23T13:02:12.787024+00:00"
     },
     "cricketpk": {
       "youtubeId": "UCI7I29IPUtWE68VLUoZfXow",
       "uploadsId": "UUI7I29IPUtWE68VLUoZfXow",
       "handle": "CricketPakistanPK",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-22T19:00:36.776917+00:00"
+      "lastFetchedAt": "2026-10-23T13:02:12.787024+00:00"
     },
     "wasay": {
       "youtubeId": "UCs2-8ztgdlRqpbpHvfFFPFQ",
       "uploadsId": "UUs2-8ztgdlRqpbpHvfFFPFQ",
       "handle": "wasayhabib",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-22T19:00:36.776917+00:00"
+      "lastFetchedAt": "2026-10-23T13:02:12.787024+00:00"
     },
     "kidsland": {
       "youtubeId": "UCZMKZS3L9GfhcFkMyBRoVFg",
@@ -315,28 +315,28 @@
       "uploadsId": "UU_4moTH4Pmatx5ogzCLxUtA",
       "handle": "salamkidstvofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-22T15:52:29.185482+00:00"
+      "lastFetchedAt": "2026-10-23T13:02:12.787024+00:00"
     },
     "urdukidsstudio": {
       "youtubeId": "UCxqHh4UJsNqiwk_aaMI9HBg",
       "uploadsId": "UUxqHh4UJsNqiwk_aaMI9HBg",
       "handle": "urdukidsstudio",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-22T15:52:29.185482+00:00"
+      "lastFetchedAt": "2026-10-23T13:02:12.787024+00:00"
     },
     "shirazi": {
       "youtubeId": "UC8YddK8DXYyry_LWY4NksgA",
       "uploadsId": "UU8YddK8DXYyry_LWY4NksgA",
       "handle": "shirazi786",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-22T15:52:29.185482+00:00"
+      "lastFetchedAt": "2026-10-23T13:02:12.787024+00:00"
     },
     "haimparishay": {
       "youtubeId": "UC6jgnXHUJ4eDjrvHJNtAUYg",
       "uploadsId": "UU6jgnXHUJ4eDjrvHJNtAUYg",
       "handle": "HaimParishayKhan",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-22T15:52:29.185482+00:00"
+      "lastFetchedAt": "2026-10-23T13:02:12.787024+00:00"
     },
     "waggleworkshop": {
       "youtubeId": "UCDf7-AujhJJkMF1Cg5iT-Pw",
@@ -350,7 +350,7 @@
       "uploadsId": "UUMlGWm_woMhMcVYhJu8zsvA",
       "handle": "LollywoodCinema",
       "checkedAt": "2026-10-18T17:28:01.603474+00:00",
-      "lastFetchedAt": "2026-10-22T19:00:36.776917+00:00"
+      "lastFetchedAt": "2026-10-23T13:02:12.787024+00:00"
     },
     "movieboxmovies": {
       "youtubeId": "UC8Artr_jqToYkRKjgjhezmw",
@@ -364,7 +364,7 @@
       "uploadsId": "UUV-z8APBalmSWNrre62xKxg",
       "handle": "lollywoodclassics",
       "checkedAt": "2026-10-18T17:48:49.190558+00:00",
-      "lastFetchedAt": "2026-10-22T19:00:36.776917+00:00"
+      "lastFetchedAt": "2026-10-23T13:02:12.787024+00:00"
     },
     "cokestudio": {
       "youtubeId": "UCM1VesJtJ9vTXcMLLr_FfdQ",
@@ -438,6 +438,114 @@
     }
   },
   "videos": [
+    {
+      "id": "qdpn192bRxE",
+      "title": "National Athletics Championship Returns After 9 Years | Arshad Nadeem in Action 🇵🇰",
+      "channel": "PTV SPORTS OFFICIAL",
+      "channelId": "ptvsports",
+      "youtubeChannelId": "UCnoH_iEE4tgVznLT97Kb7ig",
+      "category": "sports",
+      "genre": "Sports TV & news",
+      "date": "2026-10-23",
+      "published": "2026-10-23T13:00:22Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 130,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/qdpn192bRxE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "DjIvibstaaE",
+      "title": "From CPL to PSL Sohail Tanvir Recalls His Clash With Ben Cutting | A Sports",
+      "channel": "A Sports",
+      "channelId": "asports",
+      "youtubeChannelId": "UCCLdGxMC4fwkaQ4AIcL7Z8w",
+      "category": "sports",
+      "genre": "Sports TV & news",
+      "date": "2026-10-23",
+      "published": "2026-10-23T12:54:45Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 179,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/DjIvibstaaE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "EbDGDLsTTnY",
+      "title": "Sri Lanka Chase Down 430! England Suffer Historic Defeat | Kamran Akmal | A SportsHD",
+      "channel": "A Sports",
+      "channelId": "asports",
+      "youtubeChannelId": "UCCLdGxMC4fwkaQ4AIcL7Z8w",
+      "category": "sports",
+      "genre": "Sports TV & news",
+      "date": "2026-10-23",
+      "published": "2026-10-23T07:52:21Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 530,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/EbDGDLsTTnY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "Wcuxs2u9tek",
+      "title": "🎥 Scenes after a thriller at Rawalpindi Cricket Stadium, as Sri Lanka chased down 430🏏",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-23",
+      "published": "2026-10-23T07:48:41Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 98,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Wcuxs2u9tek/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "lN0sWxPDqNY",
+      "title": "Pakistan Fast Bowler Mohammad Amir Assesses National Cricket Academy Facilities & Age-Group Cricket",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-23",
+      "published": "2026-10-23T06:40:30Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 506,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/lN0sWxPDqNY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "1rRrT2xQySQ",
+      "title": "THE AGE-HIDING GAME: A DILEMMA IN PAKISTAN CRICKET!",
+      "channel": "PTV SPORTS OFFICIAL",
+      "channelId": "ptvsports",
+      "youtubeChannelId": "UCnoH_iEE4tgVznLT97Kb7ig",
+      "category": "sports",
+      "genre": "Sports TV & news",
+      "date": "2026-10-23",
+      "published": "2026-10-23T06:09:00Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 162,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/1rRrT2xQySQ/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
     {
       "id": "zdy4NOK6DgM",
       "title": "Used Water Reuse Karna | Maulana Ilyas Qadri Ka Behtreen Jawab | Hamza AI Cartoon",
@@ -979,6 +1087,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "D7ztSIBZQvg",
+      "title": "🔴 LIVE: England vs Sri Lanka ODI | Tri-Series | Rawalpindi Cricket Stadium",
+      "channel": "PTV SPORTS OFFICIAL",
+      "channelId": "ptvsports",
+      "youtubeChannelId": "UCnoH_iEE4tgVznLT97Kb7ig",
+      "category": "sports",
+      "genre": "Sports TV & news",
+      "date": "2026-10-22",
+      "published": "2026-10-22T21:04:36Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 19526,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/D7ztSIBZQvg/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "OxZZOkyZAKk",
       "title": "Uswah Episode 30 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
       "channel": "Har Pal Geo",
@@ -1213,6 +1339,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "lbTg1plmFUQ",
+      "title": "England vs Sri Lanka Highlights | Sri Lanka Chase 430 Runs | ODI Tri-Series 2026",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T20:00:12Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1100,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/lbTg1plmFUQ/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "0yfZnM_eVwg",
       "title": "Uswah Episode 30 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
       "channel": "Har Pal Geo",
@@ -1354,6 +1498,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/74CvXdksTbQ/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "DTY1bSKmZzw",
+      "title": "Live | Harry Brook Press Conference | Sri Lanka vs England | Match 3 | ODI Tri-Series | MZS1K",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T19:32:00Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 241,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/DTY1bSKmZzw/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -1516,6 +1678,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/naBGW6w5Wbs/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "qgD7Bx8e-W8",
+      "title": "Sri Lanka's All Boundaries & FOW | Sri Lanka vs England | Match 3 | ODI Tri-Series 2026 | MZS1K",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T19:00:11Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 530,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/qgD7Bx8e-W8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -1915,6 +2095,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "FLOrhr78uhY",
+      "title": "Harry Brook, Pavan Rathnayake & Kusal Mendis make entries on Rawalpindi Stadium Honours Board",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T18:41:05Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 99,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/FLOrhr78uhY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "LIqBmDc4PE4",
       "title": "Kaash Hamary Beech Koi Teesra Na Ho..! #sanamsaeed #komalmeer",
       "channel": "HUM TV",
@@ -2095,6 +2293,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "LALn4HpjTLM",
+      "title": "Harry Brook - Press Conference (Post Match) | SL vs ENG | A Sports",
+      "channel": "A Sports",
+      "channelId": "asports",
+      "youtubeChannelId": "UCCLdGxMC4fwkaQ4AIcL7Z8w",
+      "category": "sports",
+      "genre": "Sports TV & news",
+      "date": "2026-10-22",
+      "published": "2026-10-22T18:30:47Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 202,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/LALn4HpjTLM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "Fxd7yUOopos",
       "title": "Kya Tumhe Humna Ke Chakkar Ka Pata Tha?? #sumaiyyabukhsh #khushi",
       "channel": "HUM TV",
@@ -2164,6 +2380,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/6SP5YbKbNWY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "o-xug1hqwVI",
+      "title": "Pavan Rathnayake - Press Conference (Post Match) | SL vs ENG | A Sports",
+      "channel": "A Sports",
+      "channelId": "asports",
+      "youtubeChannelId": "UCCLdGxMC4fwkaQ4AIcL7Z8w",
+      "category": "sports",
+      "genre": "Sports TV & news",
+      "date": "2026-10-22",
+      "published": "2026-10-22T18:29:54Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 195,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/o-xug1hqwVI/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -2290,6 +2524,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/zDo3ps99VMY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "H-1M7fghVm8",
+      "title": "Live | Pavan Rathnayake Press Conference | Sri Lanka vs England | Match 3 | ODI Tri-Series | MZS1K",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T18:17:06Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 166,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/H-1M7fghVm8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -2599,6 +2851,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "r2gYVLzyf0I",
+      "title": "Pitch Side Post Match Show | Sri Lanka vs England | Match 3 | Pakistan ODI Tri-Series 2026 | MZS1K",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T17:58:31Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 745,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/r2gYVLzyf0I/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "mX_0ZYegBYw",
       "title": "New Pakistan’s Auto Policy | 300 Billions Relief For Elite | Zaheer Ali Exclusive",
       "channel": "SAMAA TV",
@@ -2614,6 +2884,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/mX_0ZYegBYw/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "XE5TxZDJwIk",
+      "title": "Post Match Ceremony | Sri Lanka vs England | Match 3 | Pakistan ODI Tri-Series 2026 | PCB | MZS1K",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T17:55:46Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 565,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/XE5TxZDJwIk/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -2869,6 +3157,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "DUb_zUiEiF4",
+      "title": "Full Match Highlights | Sri Lanka vs England | Match 3 | Pakistan ODI Tri-Series 2026 | PCB | MZS1K",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T17:43:57Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1776,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/DUb_zUiEiF4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "4_OgQEC4jCM",
       "title": "Is The World Facing A Third World War? | Dawn News",
       "channel": "Dawn News",
@@ -2956,6 +3262,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/e5QI0C076D0/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "Xo1RXeN-iQE",
+      "title": "Pavan Rathnayake Press Conference | Sri Lanka vs England | Match 3 | ODI Tri-Series 2026 | MZS1K",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T17:33:15Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 196,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Xo1RXeN-iQE/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -3103,6 +3427,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "UrO0WN962Qw",
+      "title": "Harry Brook Press Conference | Sri Lanka vs England | Match 3 | ODI Tri-Series 2026 | PCB | MZS1K",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T17:28:33Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 222,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/UrO0WN962Qw/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "ukQEa46OMRY",
       "title": "“Auto Manufacturing Licenses Should Be Suspended for Five Years,” Says Muhammad Shaaf",
       "channel": "SAMAA TV",
@@ -3118,6 +3460,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/ukQEa46OMRY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "x6E6vjxOG_4",
+      "title": "Hussain Talat Reaches 100 in Style!  | Ghani vs OGDCL | Day 4 | President Trophy Grade-I | MZK1T",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T17:26:26Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 144,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/x6E6vjxOG_4/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -3226,6 +3586,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/AaRAMDJVK04/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "uBLa-n0_L-8",
+      "title": "Full Day Highlights | Ghani vs OGDCL | Day 4 | President Trophy Grade-I | MZK1T",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T17:20:21Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 790,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/uBLa-n0_L-8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -3373,6 +3751,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "pm4aiY2SrXU",
+      "title": "Janith Liyanage's Superb Innings Of 61 Runs | Sri Lanka vs England | M 3 | ODI Tri-Series | MZS1K",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T17:14:09Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 377,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/pm4aiY2SrXU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "_4r2NIdYwnU",
       "title": "Is Netanyahu Preparing a New War With Iran? | Geo Digital",
       "channel": "Geo News",
@@ -3427,6 +3823,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "gtekGGz-fCQ",
+      "title": "3rd Session Highlights | Ghani vs OGDCL | Day 4 | President Trophy Grade-I | MZK1T",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T17:12:09Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 282,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/gtekGGz-fCQ/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "khGXtlgLdbw",
       "title": "What Does New Auto Policy Offer the Auto Parts Sector? Syed Nabeel Hashmi Raises Key Questions",
       "channel": "SAMAA TV",
@@ -3442,6 +3856,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/khGXtlgLdbw/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "FriRWf4Cf1s",
+      "title": "2nd Innings Highlights | Sri Lanka vs England | Match 3 | Pakistan ODI Tri-Series 2026 | PCB | MZS1K",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T17:11:43Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 932,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/FriRWf4Cf1s/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -3586,6 +4018,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/lIlRVJG7ZWA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "qnJ4cwf5rEk",
+      "title": "2nd Session Highlights | Ghani vs OGDCL | Day 4 | President Trophy Grade-I | MZK1T",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T17:04:57Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 287,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/qnJ4cwf5rEk/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -3769,6 +4219,42 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "m0kj4Uef_SM",
+      "title": "Josh Tongue gave late hope to England fans by cleaning up the stumps twice in a row! 🎯#SLvENG MZS1K",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T16:58:43Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 106,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/m0kj4Uef_SM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "dxmaTAVCX_s",
+      "title": "1st Session Highlights | Ghani vs OGDCL | Day 4 | President Trophy Grade-I | MZK1T",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T16:56:33Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 224,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/dxmaTAVCX_s/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "6BywDSXckpE",
       "title": "Tum Na Hoti Tou Mera Khayal Kon Rakhta..! #Gulbahar #SanamSaeed #humtv",
       "channel": "HUM TV",
@@ -3802,6 +4288,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/D4m3aZ58QrI/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "XH6oQooXAOI",
+      "title": "Full Day Highlights | Kingsmen v SBP | National Cricket Ground | President Trophy Grade-I | MZK1T",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T16:52:32Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1716,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/XH6oQooXAOI/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -3910,6 +4414,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/g9p7g01u0pk/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "Gnm8N6tfyqc",
+      "title": "Last Over Thriller! SL Need 8 Runs Off 6 Balls 😱| Sri Lanka v England | M 3 | ODI Tri-Series | MZS1K",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T16:49:31Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 482,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Gnm8N6tfyqc/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -4183,6 +4705,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "5VbHUHew4uw",
+      "title": "Shanaka Falls Just 3 Runs Short Of A Century 💔| Sri Lanka v England | M 3 | ODI Tri-Series | MZS1K",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T16:33:24Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 484,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/5VbHUHew4uw/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "wKpM5PvURec",
       "title": "Itna Ameer Couple Dhabay Pe Nashta Kar Raha..! #Gulbahar #SanamSaeed #humtv",
       "channel": "HUM TV",
@@ -4417,6 +4957,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "g3y-cH_OdtY",
+      "title": "2nd Session Highlights | Kingsmen v SBP | National Cricket Ground | President Trophy Grade-I | MZK1T",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T16:23:29Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 936,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/g3y-cH_OdtY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "a_aeTFFGtRQ",
       "title": "KP Peace & Development: PM Vows to Restore an Era of Happiness in KP | Shahrah e Dastoor | PTV News",
       "channel": "PTV News",
@@ -4432,6 +4990,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/a_aeTFFGtRQ/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "w_Whqk5Nr4g",
+      "title": "3rd Session Highlights | Kingsmen v SBP | National Cricket Ground | President Trophy Grade-I | MZK1T",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T16:22:20Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 408,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/w_Whqk5Nr4g/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -4489,6 +5065,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "TXBZRrNfcuE",
+      "title": "1st Session Highlights | Kingsmen v SBP | National Cricket Ground | President Trophy Grade-I | MZK1T",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T16:19:02Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 563,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/TXBZRrNfcuE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "VkfSXE3klN4",
       "title": "PPL Headquarters Relocation | Karachi to Islamabad? | Government vs PPP |Rubaru WIth Shaukat Piracha",
       "channel": "Aaj TV Official",
@@ -4540,6 +5134,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/SReyqS_LJm4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "U-8QSeEHrN8",
+      "title": "What An Innings! Pavan Rathnayake 130 Runs | Sri Lanka v England | Match 3 | ODI Tri-Series | MZS1K",
+      "channel": "Pakistan Cricket Board",
+      "channelId": "pcb",
+      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "sports",
+      "genre": "Cricket board & highlights",
+      "date": "2026-10-22",
+      "published": "2026-10-22T16:15:18Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 488,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/U-8QSeEHrN8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -6247,7 +6859,7 @@
       "description": "Video from the publisher’s YouTube channel",
       "durationSeconds": 20244,
       "availableGB": true,
-      "availablePK": false,
+      "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/L2jyFdhjE9g/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
@@ -7471,7 +8083,7 @@
       "description": "Video from the publisher’s YouTube channel",
       "durationSeconds": 20073,
       "availableGB": true,
-      "availablePK": false,
+      "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/KSLbkZBMEFA/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
@@ -8317,7 +8929,7 @@
       "description": "Video from the publisher’s YouTube channel",
       "durationSeconds": 16099,
       "availableGB": true,
-      "availablePK": false,
+      "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/lS_S2DVfyQA/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
@@ -8893,7 +9505,7 @@
       "description": "Video from the publisher’s YouTube channel",
       "durationSeconds": 19366,
       "availableGB": true,
-      "availablePK": false,
+      "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/Dash8qK61AA/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
@@ -10801,7 +11413,7 @@
       "description": "Video from the publisher’s YouTube channel",
       "durationSeconds": 7046,
       "availableGB": true,
-      "availablePK": false,
+      "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/MbD62cjfuB0/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
@@ -10909,7 +11521,7 @@
       "description": "Video from the publisher’s YouTube channel",
       "durationSeconds": 8701,
       "availableGB": true,
-      "availablePK": false,
+      "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/Pjoyx_M1dRo/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
@@ -11467,7 +12079,7 @@
       "description": "Video from the publisher’s YouTube channel",
       "durationSeconds": 3931,
       "availableGB": true,
-      "availablePK": false,
+      "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/PttWXIGkAF4/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
@@ -19225,7 +19837,7 @@
       "description": "Video from the publisher’s YouTube channel",
       "durationSeconds": 26483,
       "availableGB": true,
-      "availablePK": false,
+      "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/oOOwSk5qHLU/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
@@ -21187,7 +21799,7 @@
       "description": "Video from the publisher’s YouTube channel",
       "durationSeconds": 26034,
       "availableGB": true,
-      "availablePK": false,
+      "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/b3GZ2Ut_ukA/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
@@ -21529,7 +22141,7 @@
       "description": "Video from the publisher’s YouTube channel",
       "durationSeconds": 25188,
       "availableGB": true,
-      "availablePK": false,
+      "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/LawFcfxmDlY/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
@@ -24120,7 +24732,7 @@
       "published": "2026-10-21T08:15:23Z",
       "description": "Video from the publisher’s YouTube channel",
       "durationSeconds": 1440,
-      "availableGB": false,
+      "availableGB": true,
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/c--T7MbW2rA/hqdefault.jpg",
@@ -49777,24 +50389,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "jfCFmuQBUkg",
-      "title": "1st Innings Powerplay | Sri Lanka vs Bangladesh | Final | Women U19 Tri-Nation Series 2026 | MZP1A",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-16",
-      "published": "2026-10-16T07:31:51Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 534,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/jfCFmuQBUkg/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "JL-Z33hL3QI",
       "title": "Namon Ka Asar | Buray Namon Ka Asar | Maulana Ilyas Qadri Ka Behtreen Jawab | Hamza AI Cartoon",
       "channel": "Kids Madani Channel",
@@ -49828,24 +50422,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/VSnw5saN3I8/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "SjzkOCRFYTM",
-      "title": "TOSS | Sri Lanka vs Bangladesh | Final | Women U19 Tri-Nation Series 2026 | MZP1A",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-16",
-      "published": "2026-10-16T07:26:43Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 99,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/SjzkOCRFYTM/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -50008,24 +50584,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/wm5P27xG0pE/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "cOBdmrt9g_4",
-      "title": "Mohammad Yousuf shares his views on National Cricket Academy facilities & infrastructure development",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-16",
-      "published": "2026-10-16T04:26:32Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 515,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/cOBdmrt9g_4/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -50821,24 +51379,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "TRj5aU7OCZk",
-      "title": "Can Pakistan Players Identify These Former Cricketers❓ | Knowledge Test",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-15",
-      "published": "2026-10-15T14:47:57Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 210,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/TRj5aU7OCZk/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "rvjb6nf7TvM",
       "title": "Aik Number Ke Bewaqoof Ho!! | Missing Darling | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞𝐬 | 𝐘𝐚𝐬𝐢𝐫 𝐇𝐮𝐬𝐬𝐚𝐢𝐧 |  Express TV",
       "channel": "Express TV",
@@ -51091,42 +51631,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "Wd1GBqkGuxQ",
-      "title": "Birthday Rewind: Babar Azam's Excellent 32nd International Century vs Sri Lanka | Rawalpindi, 2025",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-15",
-      "published": "2026-10-15T12:58:27Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 118,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/Wd1GBqkGuxQ/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "-cfpUlHX_m8",
-      "title": "Live | SNGPL v OGDCL | LCCA Ground Lahore | President Trophy Grade-I | MZK1J",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-15",
-      "published": "2026-10-15T12:58:06Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 7356,
-      "availableGB": true,
-      "availablePK": false,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/-cfpUlHX_m8/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "YYKtNpoU0sU",
       "title": "Muqaddus! Us Larkay Ko Bhool Jao..... | Dil Dhoondta Hai Phir Wohi | Express TV",
       "channel": "Express TV",
@@ -51142,24 +51646,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/YYKtNpoU0sU/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "f1t0iwz1Q78",
-      "title": "Full Match Highlights | Pakistan U17 vs Sri Lanka U17 | Youth One-Day - Match 1 | MZR1H",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-15",
-      "published": "2026-10-15T12:33:48Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 1621,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/f1t0iwz1Q78/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -51214,42 +51700,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/ZzwGBaHtRqs/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "-lnE79FKtLY",
-      "title": "LIVE | Pakistan U17 vs Sri Lanka U17 | Youth One-Day - Match 1 | MZR1J",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-15",
-      "published": "2026-10-15T11:50:12Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 23630,
-      "availableGB": true,
-      "availablePK": false,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/-lnE79FKtLY/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "pOBCKVokEhI",
-      "title": "2nd Innings Highlights | Pakistan U17 vs Sri Lanka U17 | Youth One-Day - Match 1 | MZR1H",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-15",
-      "published": "2026-10-15T11:39:10Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 910,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/pOBCKVokEhI/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -51415,24 +51865,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "zASY0sAxGUI",
-      "title": "\"My peak is yet to come\" - Naseem Shah on his bowling & balancing aggression with smartness",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-15",
-      "published": "2026-10-15T09:40:44Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 341,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/zASY0sAxGUI/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "hKENk1g9nBo",
       "title": "Gari Ki Price Lagwa Li #shorts  #maazsafderworld #maazsafdar #sabamaaz",
       "channel": "Maaz Safder",
@@ -51502,24 +51934,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/VYdntLa9jU8/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "_16EzM-9CeQ",
-      "title": "1st Innings Highlights | Pakistan U17 vs Sri Lanka U17 | Youth One-Day - Match 1 | MZR1J",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-15",
-      "published": "2026-10-15T09:07:07Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 752,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/_16EzM-9CeQ/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -51790,42 +52204,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/-nJRcC2cBlQ/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "eVly46yk-Mc",
-      "title": "Muhammad Imran Randhawa discusses the impressive start to his T20I career & confidence in his bowing",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-15",
-      "published": "2026-10-15T05:48:45Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 310,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/eVly46yk-Mc/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "-TTwp0fwQxw",
-      "title": "Maaz Sadaqat on developing his attacking strokeplay & the fearless approach to batting",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-15",
-      "published": "2026-10-15T05:48:22Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 284,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/-TTwp0fwQxw/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -52171,24 +52549,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "wdPSqzEy__I",
-      "title": "LIVE | Peshawar Region Vs DMJ Region | Railways Cricket Ground | National U19 Championship | MZL1J",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-14",
-      "published": "2026-10-14T17:55:50Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 24701,
-      "availableGB": true,
-      "availablePK": false,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/wdPSqzEy__I/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "RQkeCVsnW0w",
       "title": "Jo Doriyan Kam Honi Thi Woh Ziyada Hogayien.!! | Picnic Fund | Express TV",
       "channel": "Express TV",
@@ -52405,78 +52765,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "De9pu1oUMNs",
-      "title": "Live | MIT Solutions v SBP | Diamond Cricket Ground | President Trophy Grade-I | MZK1H",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-14",
-      "published": "2026-10-14T15:48:23Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 37406,
-      "availableGB": true,
-      "availablePK": false,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/De9pu1oUMNs/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "ueL2TnUgu5E",
-      "title": "Live | PTV v KRL | Shoaib Akhtar Cricket Stadium, Rawalpindi | President Trophy Grade-I | MZK1H",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-14",
-      "published": "2026-10-14T15:48:06Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 37411,
-      "availableGB": true,
-      "availablePK": false,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/ueL2TnUgu5E/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "KJXGPSgN3aI",
-      "title": "Live | SNGPL v OGDCL | LCCA Ground Lahore | President Trophy Grade-I | MZK1H",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-14",
-      "published": "2026-10-14T15:41:50Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 26316,
-      "availableGB": true,
-      "availablePK": false,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/KJXGPSgN3aI/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "vELt8XdwdLw",
-      "title": "Live | Ghani v Kingsmen Academy | Rana Naveed Cricket Academy | President Trophy Grade-I | MZK1H",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-14",
-      "published": "2026-10-14T15:35:31Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 26371,
-      "availableGB": true,
-      "availablePK": false,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/vELt8XdwdLw/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "I3O183buD-8",
       "title": "National Assembly Ratifies Emergency in Khyber Pakhtunkhwa | Major Political Development | PTV News",
       "channel": "PTV News",
@@ -52495,42 +52783,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "MhB8qqn3CcM",
-      "title": "LIVE | Rawalpindi Region Vs Sialkot Region | Saeed Ajmal Academy | National U19 Championship | MZL1J",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-14",
-      "published": "2026-10-14T15:20:25Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 34931,
-      "availableGB": true,
-      "availablePK": false,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/MhB8qqn3CcM/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "5w4o4MXeJBc",
-      "title": "LIVE | FATA Region vs Larkana Region | CSS Cricket Ground Sialkot | National U19 Championship| MZL1J",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-14",
-      "published": "2026-10-14T15:20:21Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 24527,
-      "availableGB": true,
-      "availablePK": false,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/5w4o4MXeJBc/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "wKJ4Tjgkb8s",
       "title": "Pakistan Supports Saudi Arabia’s Right to Self-Defence | PM Shehbaz Sharif’s Message | PTV News |",
       "channel": "PTV News",
@@ -52546,24 +52798,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/wKJ4Tjgkb8s/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "7OPwudUSdos",
-      "title": "Shaun Tait talks Pakistan comeback, fast-bowling future & SL T20I series win",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-14",
-      "published": "2026-10-14T15:01:38Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 512,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/7OPwudUSdos/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -52819,24 +53053,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "NAVByIer9_Q",
-      "title": "Full Series Highlights | Pakistan vs Sri Lanka | T20I Series 2026 | PCB | MZQ1H",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-14",
-      "published": "2026-10-14T11:53:23Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 3710,
-      "availableGB": false,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/NAVByIer9_Q/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "Zan0D1Z-laM",
       "title": "Punjab Intensifies Crackdown on Smog, Imposes Heavy Fines!",
       "channel": "PTV News",
@@ -52870,24 +53086,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/J45fhnpjfX4/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "UYlDtz6lTsA",
-      "title": "Arafat Minhas reflects on his performance and Pakistan's overall display against Sri Lanka",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-14",
-      "published": "2026-10-14T11:20:00Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 161,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/UYlDtz6lTsA/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -52945,24 +53143,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "RjAu0K4BuhM",
-      "title": "Shan Masood's Fifty on Test Debut & Splendid Tons at Home | Classy Batting ✨",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-14",
-      "published": "2026-10-14T10:56:08Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 223,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/RjAu0K4BuhM/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "5lMcZL0E_DI",
       "title": "Explaining Article 232 and 234 in KP",
       "channel": "The Pakistan Experience",
@@ -52999,42 +53179,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "ITLxvL3OB9M",
-      "title": "Full Match Highlights | Sri Lanka vs Bangladesh | Match 9 | Women U19 Tri-Nation Series 2026 | MZP1H",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-14",
-      "published": "2026-10-14T10:14:57Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 961,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/ITLxvL3OB9M/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "oQl8jr-Lr1U",
-      "title": "2nd Innings Highlights | Sri Lanka vs Bangladesh | Women U19 Tri-Nation Series 2026 | MZP1H",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-14",
-      "published": "2026-10-14T10:12:10Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 310,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/oQl8jr-Lr1U/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "KD3d-f5zYrs",
       "title": "DPM Ishaq Dar and Omani FM’s Joint Press Conference | PTV News | 14-10-2026",
       "channel": "PTV News",
@@ -53068,24 +53212,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/gl2nlPqW79U/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "6vGMBc-UiHI",
-      "title": "2nd Innings Powerplay | Sri Lanka vs Bangladesh | Match 9 | Women U19 Tri-Nation Series 2026 | MZP1H",
-      "channel": "Pakistan Cricket Board",
-      "channelId": "pcb",
-      "youtubeChannelId": "UCiWrjBhlICf_L_RK5y6Vrxw",
-      "category": "sports",
-      "genre": "Cricket board & highlights",
-      "date": "2026-10-14",
-      "published": "2026-10-14T10:08:35Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 292,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/6vGMBc-UiHI/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -72043,6 +72169,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "rv0mtWj4o_4",
+      "title": "Players Ka Bara Faisla | Pakistan Hit With Dual WTC Sanction",
+      "channel": "Wasay Habib",
+      "channelId": "wasay",
+      "youtubeChannelId": "UCs2-8ztgdlRqpbpHvfFFPFQ",
+      "category": "sports",
+      "genre": "Sports analysis & creators",
+      "date": "2026-09-14",
+      "published": "2026-09-14T18:34:36Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2586,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": false,
+      "thumbnail": "https://i.ytimg.com/vi/rv0mtWj4o_4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "RF4Mh0uksC0",
       "title": "Coke Studio Nu.WAV Session ft Afusic x Ali Soomro",
       "channel": "Coke Studio Pakistan",
@@ -72059,6 +72203,24 @@
       "embeddable": false,
       "thumbnail": "https://i.ytimg.com/vi/RF4Mh0uksC0/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "DGkWcFPRZu4",
+      "title": "ZABATA (1993) Full Movie | Sultan Rahi & Babra Sharif | Classic Pakistani Film",
+      "channel": "MovieboxMovies",
+      "channelId": "movieboxmovies",
+      "youtubeChannelId": "UC8Artr_jqToYkRKjgjhezmw",
+      "category": "movies",
+      "genre": "Classic Pakistani Movies",
+      "date": "2026-09-11",
+      "published": "2026-09-11T14:00:28Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 7763,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/DGkWcFPRZu4/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "LhnAsHYP010",
@@ -72097,24 +72259,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "VMhPE9PVeKU",
-      "title": "DIL LAGI - FULL MOVIE | MEHWISH HAYAT | HUMAYUN SAEED | ARY FILMS",
-      "channel": "ARY Films",
-      "channelId": "aryfilms",
-      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
-      "category": "movies",
-      "genre": "Pakistani films & TV movies",
-      "date": "2026-09-06",
-      "published": "2026-09-06T15:00:16Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 8721,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/VMhPE9PVeKU/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
-    },
-    {
       "id": "4ZjVJ7xDYHo",
       "title": "A Heartfelt Tribute to Pakistan Army | Ae Watan Ke Sajeele Jawano | Defence Day",
       "channel": "EMI Pakistan",
@@ -72149,24 +72293,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/e-1zjovjWiA/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "qHaUmAGJl0s",
-      "title": "NEELI ZINDA HAI - FULL MOVIE | URWA HOCANE | MOHIB MIRZA | SONIA MISHAL | ARY FILMS",
-      "channel": "ARY Films",
-      "channelId": "aryfilms",
-      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
-      "category": "movies",
-      "genre": "Pakistani films & TV movies",
-      "date": "2026-08-23",
-      "published": "2026-08-23T15:00:34Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 8801,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/qHaUmAGJl0s/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "4o5508kTdT8",
@@ -72221,24 +72347,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/55ORabmXir8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "XfeZyz2Y2tM",
-      "title": "PARWARISH - FULL MOVIE | SAMAR JAFRI | AINA ASIF | ARY FILMS",
-      "channel": "ARY Films",
-      "channelId": "aryfilms",
-      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
-      "category": "movies",
-      "genre": "Pakistani films & TV movies",
-      "date": "2026-07-19",
-      "published": "2026-07-19T15:00:09Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 8877,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/XfeZyz2Y2tM/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "_vMrPyWJY28",
@@ -72707,24 +72815,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/y3QKLxKGzcU/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "Ey_7ajUNqYM",
-      "title": "GHUNDA (1993) Full Punjabi Pakistani Movie | Superhit Action Film HD | Official Pakistani Full Movie",
-      "channel": "LollywoodCinema",
-      "channelId": "lollywoodcinema",
-      "youtubeChannelId": "UCMlGWm_woMhMcVYhJu8zsvA",
-      "category": "movies",
-      "genre": "Classic Pakistani Movies",
-      "date": "2026-05-29",
-      "published": "2026-05-29T15:00:26Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 9799,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/Ey_7ajUNqYM/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "7Q5lGTu-etI",
@@ -73463,24 +73553,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/Ot-0wmYeHNc/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "db-ee9yNMIg",
-      "title": "MERI ZINDAGI HAI TU - FULL MOVIE | HANIA AAMIR | BILAL ABBAS | ARY FILMS",
-      "channel": "ARY Films",
-      "channelId": "aryfilms",
-      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
-      "category": "movies",
-      "genre": "Pakistani films & TV movies",
-      "date": "2026-05-10",
-      "published": "2026-05-10T16:01:03Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 8842,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/db-ee9yNMIg/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "IvZPdew21A4",
@@ -74239,24 +74311,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "qcgpME7M4As",
-      "title": "RADD - FULL MOVIE | SHEHERYAR MUNAWAR | HIBA BUKHARI | ARY FILMS",
-      "channel": "ARY Films",
-      "channelId": "aryfilms",
-      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
-      "category": "movies",
-      "genre": "Pakistani films & TV movies",
-      "date": "2026-01-25",
-      "published": "2026-01-25T15:01:32Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 9433,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/qcgpME7M4As/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
-    },
-    {
       "id": "-x_D1J-20S8",
       "title": "Ulfat - SEHER, Abdul Hannan, & Shahmeer Raza Khan (Official Audio)",
       "channel": "Abdul Hannan",
@@ -74939,24 +74993,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/jSGjrLZq2mo/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "frs0YZE1CH4",
-      "title": "Cake (Full Pakistani Movie) | Oscar Nominated Drama | Aamina Sheikh & Sanam Saeed",
-      "channel": "MovieboxMovies",
-      "channelId": "movieboxmovies",
-      "youtubeChannelId": "UC8Artr_jqToYkRKjgjhezmw",
-      "category": "movies",
-      "genre": "Classic Pakistani Movies",
-      "date": "2025-02-16",
-      "published": "2025-02-16T06:48:02Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 7538,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/frs0YZE1CH4/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "_wJUiI-QrxE",
@@ -76991,6 +77027,24 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/uESo-j31UX4/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "dRHQijfLymE",
+      "title": "Phool Mere Gulshan Ka (1974) – Mohammad Ali, Zeba, Waheed Murad, Nisho | Full Pakistani Movie",
+      "channel": "LollywoodCinema",
+      "channelId": "lollywoodcinema",
+      "youtubeChannelId": "UCMlGWm_woMhMcVYhJu8zsvA",
+      "category": "movies",
+      "genre": "Classic Pakistani Movies",
+      "date": "2022-10-06",
+      "published": "2022-10-06T08:00:11Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 7637,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/dRHQijfLymE/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "naGFRwzbKo0",
@@ -79583,62 +79637,8 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/QD7CnAnPRg8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "esX0monWu7E",
-      "title": "lari chuti (MED STUDENT ANTHEM)",
-      "channel": "Hasan Raheem",
-      "channelId": "hasanraheem",
-      "youtubeChannelId": "UCaQvtCweOs1RpgFIO3-ezMA",
-      "category": "music",
-      "genre": "Indie & Pop",
-      "date": "2018-05-01",
-      "published": "2018-05-01T12:03:14Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 322,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/esX0monWu7E/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "XTIwW2yPjfo",
-      "title": "Dear Zainab - Young Stunners | Talha Anjum | Talhah Yunus (Official Music Video)",
-      "channel": "Young Stunners",
-      "channelId": "youngstunners",
-      "youtubeChannelId": "UCaHpJ-SkCR604NNBnjM9thQ",
-      "category": "music",
-      "genre": "Hip-Hop & Rap",
-      "date": "2018-03-06",
-      "published": "2018-03-06T22:22:55Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 209,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/XTIwW2yPjfo/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "l2VVQflyp_c",
-      "title": "PoPo - Official Audio (Prod by Umair Khan) Talha Anjum | Talhah Yunus",
-      "channel": "Young Stunners",
-      "channelId": "youngstunners",
-      "youtubeChannelId": "UCaHpJ-SkCR604NNBnjM9thQ",
-      "category": "music",
-      "genre": "Hip-Hop & Rap",
-      "date": "2018-01-20",
-      "published": "2018-01-20T23:05:49Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 221,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/l2VVQflyp_c/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Arooj Aftab: channel unavailable; Zamad Baig: channel unavailable; Hassan & Roshaan: channel unavailable; Kashmir The Band: channel unavailable",
+  "lastError": "",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
