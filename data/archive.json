@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T03:52:14.980323+00:00",
+  "generatedAt": "2026-10-24T07:02:18.927511+00:00",
   "dateTimezone": "UTC",
-  "cursor": 13,
+  "cursor": 25,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -301,49 +301,49 @@
       "uploadsId": "UUZMKZS3L9GfhcFkMyBRoVFg",
       "handle": "kidslandofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-23T09:52:48.334156+00:00"
+      "lastFetchedAt": "2026-10-24T07:02:18.927511+00:00"
     },
     "kidsmadani": {
       "youtubeId": "UCsNSt0fxMniSH9XHaNneZfw",
       "uploadsId": "UUsNSt0fxMniSH9XHaNneZfw",
       "handle": "kidsmadanichannel",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-23T09:52:48.334156+00:00"
+      "lastFetchedAt": "2026-10-24T07:02:18.927511+00:00"
     },
     "salamkids": {
       "youtubeId": "UC_4moTH4Pmatx5ogzCLxUtA",
       "uploadsId": "UU_4moTH4Pmatx5ogzCLxUtA",
       "handle": "salamkidstvofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-23T13:02:12.787024+00:00"
+      "lastFetchedAt": "2026-10-24T07:02:18.927511+00:00"
     },
     "urdukidsstudio": {
       "youtubeId": "UCxqHh4UJsNqiwk_aaMI9HBg",
       "uploadsId": "UUxqHh4UJsNqiwk_aaMI9HBg",
       "handle": "urdukidsstudio",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-23T13:02:12.787024+00:00"
+      "lastFetchedAt": "2026-10-24T07:02:18.927511+00:00"
     },
     "shirazi": {
       "youtubeId": "UC8YddK8DXYyry_LWY4NksgA",
       "uploadsId": "UU8YddK8DXYyry_LWY4NksgA",
       "handle": "shirazi786",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-23T13:02:12.787024+00:00"
+      "lastFetchedAt": "2026-10-24T07:02:18.927511+00:00"
     },
     "haimparishay": {
       "youtubeId": "UC6jgnXHUJ4eDjrvHJNtAUYg",
       "uploadsId": "UU6jgnXHUJ4eDjrvHJNtAUYg",
       "handle": "HaimParishayKhan",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-23T13:02:12.787024+00:00"
+      "lastFetchedAt": "2026-10-24T07:02:18.927511+00:00"
     },
     "waggleworkshop": {
       "youtubeId": "UCDf7-AujhJJkMF1Cg5iT-Pw",
       "uploadsId": "UUDf7-AujhJJkMF1Cg5iT-Pw",
       "handle": "TheWaggleWorkshop",
       "checkedAt": "2026-10-18T16:55:18.549048+00:00",
-      "lastFetchedAt": "2026-10-23T09:52:48.334156+00:00"
+      "lastFetchedAt": "2026-10-24T07:02:18.927511+00:00"
     },
     "lollywoodcinema": {
       "youtubeId": "UCMlGWm_woMhMcVYhJu8zsvA",
@@ -434,10 +434,28 @@
       "uploadsId": "UUfoMcYBhl7LM23G6tziMEYw",
       "handle": "NatashaBaigOfficial",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-23T09:52:48.334156+00:00"
+      "lastFetchedAt": "2026-10-24T07:02:18.927511+00:00"
     }
   },
   "videos": [
+    {
+      "id": "jUksSQDam10",
+      "title": "Ghulam Rasool Cartoon Series  Compilation 2026 |  3D Animation | Islamic Cartoon  Series | Kids Land",
+      "channel": "Kids Land",
+      "channelId": "kidsland",
+      "youtubeChannelId": "UCZMKZS3L9GfhcFkMyBRoVFg",
+      "category": "kids",
+      "genre": "Cartoons & stories",
+      "date": "2026-10-24",
+      "published": "2026-10-24T06:00:06Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1520,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/jUksSQDam10/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
     {
       "id": "ZmOMVktIliY",
       "title": "Who Really Controls PTI? | Firdous Shamim Makes Shocking Revelations After Resignation | SAMAA TV",
@@ -71989,6 +72007,132 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "AQk7mQfEUrs",
+      "title": "Achay Bachay Episode 519 | Moral Stories for Kids | Kids Madani Channel",
+      "channel": "Kids Madani Channel",
+      "channelId": "kidsmadani",
+      "youtubeChannelId": "UCsNSt0fxMniSH9XHaNneZfw",
+      "category": "kids",
+      "genre": "Learning & values",
+      "date": "2026-09-16",
+      "published": "2026-09-16T08:00:08Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2775,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/AQk7mQfEUrs/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "WcLb9L_y8t0",
+      "title": "Hamara Islam Episode 598 | Hamara Islam Kya Hai? | Kids Madani Channel",
+      "channel": "Kids Madani Channel",
+      "channelId": "kidsmadani",
+      "youtubeChannelId": "UCsNSt0fxMniSH9XHaNneZfw",
+      "category": "kids",
+      "genre": "Learning & values",
+      "date": "2026-09-16",
+      "published": "2026-09-16T05:00:33Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2728,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/WcLb9L_y8t0/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "bllbvdaeA2s",
+      "title": "Aao Seekhein Quran Episode 534 | Learn Quran for Kids | Kids Madani Channel",
+      "channel": "Kids Madani Channel",
+      "channelId": "kidsmadani",
+      "youtubeChannelId": "UCsNSt0fxMniSH9XHaNneZfw",
+      "category": "kids",
+      "genre": "Learning & values",
+      "date": "2026-09-16",
+      "published": "2026-09-16T05:00:25Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1745,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/bllbvdaeA2s/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "K8Ntb-tnQL4",
+      "title": "Achay Bachay Episode 518 | Moral Stories for Kids | Kids Madani Channel",
+      "channel": "Kids Madani Channel",
+      "channelId": "kidsmadani",
+      "youtubeChannelId": "UCsNSt0fxMniSH9XHaNneZfw",
+      "category": "kids",
+      "genre": "Learning & values",
+      "date": "2026-09-15",
+      "published": "2026-09-15T08:00:37Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 3457,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/K8Ntb-tnQL4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "Pa1NP0v3ENo",
+      "title": "Baghdad Ke Safar Par Janay Walon Ke Liye Kuch Ehtiyatein | Maulana Ilyas Qadri Ka Behtreen Jawab",
+      "channel": "Kids Madani Channel",
+      "channelId": "kidsmadani",
+      "youtubeChannelId": "UCsNSt0fxMniSH9XHaNneZfw",
+      "category": "kids",
+      "genre": "Learning & values",
+      "date": "2026-09-15",
+      "published": "2026-09-15T07:36:43Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1150,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Pa1NP0v3ENo/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "Y2_Ln-PVaPc",
+      "title": "Hamara Islam Episode 597 | Hamara Islam Kya Hai? | Kids Madani Channel",
+      "channel": "Kids Madani Channel",
+      "channelId": "kidsmadani",
+      "youtubeChannelId": "UCsNSt0fxMniSH9XHaNneZfw",
+      "category": "kids",
+      "genre": "Learning & values",
+      "date": "2026-09-15",
+      "published": "2026-09-15T05:00:37Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 2533,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Y2_Ln-PVaPc/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "qiftT2ecPcg",
+      "title": "Aao Seekhein Quran Episode 533 | Learn Quran for Kids | Kids Madani Channel",
+      "channel": "Kids Madani Channel",
+      "channelId": "kidsmadani",
+      "youtubeChannelId": "UCsNSt0fxMniSH9XHaNneZfw",
+      "category": "kids",
+      "genre": "Learning & values",
+      "date": "2026-09-15",
+      "published": "2026-09-15T05:00:35Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1657,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/qiftT2ecPcg/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "RF4Mh0uksC0",
       "title": "Coke Studio Nu.WAV Session ft Afusic x Ali Soomro",
       "channel": "Coke Studio Pakistan",
@@ -72005,6 +72149,24 @@
       "embeddable": false,
       "thumbnail": "https://i.ytimg.com/vi/RF4Mh0uksC0/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "DGkWcFPRZu4",
+      "title": "ZABATA (1993) Full Movie | Sultan Rahi & Babra Sharif | Classic Pakistani Film",
+      "channel": "MovieboxMovies",
+      "channelId": "movieboxmovies",
+      "youtubeChannelId": "UC8Artr_jqToYkRKjgjhezmw",
+      "category": "movies",
+      "genre": "Classic Pakistani Movies",
+      "date": "2026-09-11",
+      "published": "2026-09-11T14:00:28Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 7763,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/DGkWcFPRZu4/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "LhnAsHYP010",
@@ -72043,24 +72205,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "VMhPE9PVeKU",
-      "title": "DIL LAGI - FULL MOVIE | MEHWISH HAYAT | HUMAYUN SAEED | ARY FILMS",
-      "channel": "ARY Films",
-      "channelId": "aryfilms",
-      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
-      "category": "movies",
-      "genre": "Pakistani films & TV movies",
-      "date": "2026-09-06",
-      "published": "2026-09-06T15:00:16Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 8721,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/VMhPE9PVeKU/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
-    },
-    {
       "id": "4ZjVJ7xDYHo",
       "title": "A Heartfelt Tribute to Pakistan Army | Ae Watan Ke Sajeele Jawano | Defence Day",
       "channel": "EMI Pakistan",
@@ -72095,24 +72239,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/e-1zjovjWiA/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "qHaUmAGJl0s",
-      "title": "NEELI ZINDA HAI - FULL MOVIE | URWA HOCANE | MOHIB MIRZA | SONIA MISHAL | ARY FILMS",
-      "channel": "ARY Films",
-      "channelId": "aryfilms",
-      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
-      "category": "movies",
-      "genre": "Pakistani films & TV movies",
-      "date": "2026-08-23",
-      "published": "2026-08-23T15:00:34Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 8801,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/qHaUmAGJl0s/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "4o5508kTdT8",
@@ -72167,24 +72293,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/55ORabmXir8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "XfeZyz2Y2tM",
-      "title": "PARWARISH - FULL MOVIE | SAMAR JAFRI | AINA ASIF | ARY FILMS",
-      "channel": "ARY Films",
-      "channelId": "aryfilms",
-      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
-      "category": "movies",
-      "genre": "Pakistani films & TV movies",
-      "date": "2026-07-19",
-      "published": "2026-07-19T15:00:09Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 8877,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/XfeZyz2Y2tM/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "_vMrPyWJY28",
@@ -72653,24 +72761,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/y3QKLxKGzcU/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "Ey_7ajUNqYM",
-      "title": "GHUNDA (1993) Full Punjabi Pakistani Movie | Superhit Action Film HD | Official Pakistani Full Movie",
-      "channel": "LollywoodCinema",
-      "channelId": "lollywoodcinema",
-      "youtubeChannelId": "UCMlGWm_woMhMcVYhJu8zsvA",
-      "category": "movies",
-      "genre": "Classic Pakistani Movies",
-      "date": "2026-05-29",
-      "published": "2026-05-29T15:00:26Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 9799,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/Ey_7ajUNqYM/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "7Q5lGTu-etI",
@@ -73409,24 +73499,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/Ot-0wmYeHNc/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "db-ee9yNMIg",
-      "title": "MERI ZINDAGI HAI TU - FULL MOVIE | HANIA AAMIR | BILAL ABBAS | ARY FILMS",
-      "channel": "ARY Films",
-      "channelId": "aryfilms",
-      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
-      "category": "movies",
-      "genre": "Pakistani films & TV movies",
-      "date": "2026-05-10",
-      "published": "2026-05-10T16:01:03Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 8842,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/db-ee9yNMIg/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "IvZPdew21A4",
@@ -74185,24 +74257,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "qcgpME7M4As",
-      "title": "RADD - FULL MOVIE | SHEHERYAR MUNAWAR | HIBA BUKHARI | ARY FILMS",
-      "channel": "ARY Films",
-      "channelId": "aryfilms",
-      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
-      "category": "movies",
-      "genre": "Pakistani films & TV movies",
-      "date": "2026-01-25",
-      "published": "2026-01-25T15:01:32Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 9433,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/qcgpME7M4As/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
-    },
-    {
       "id": "-x_D1J-20S8",
       "title": "Ulfat - SEHER, Abdul Hannan, & Shahmeer Raza Khan (Official Audio)",
       "channel": "Abdul Hannan",
@@ -74885,24 +74939,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/jSGjrLZq2mo/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "frs0YZE1CH4",
-      "title": "Cake (Full Pakistani Movie) | Oscar Nominated Drama | Aamina Sheikh & Sanam Saeed",
-      "channel": "MovieboxMovies",
-      "channelId": "movieboxmovies",
-      "youtubeChannelId": "UC8Artr_jqToYkRKjgjhezmw",
-      "category": "movies",
-      "genre": "Classic Pakistani Movies",
-      "date": "2025-02-16",
-      "published": "2025-02-16T06:48:02Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 7538,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/frs0YZE1CH4/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "_wJUiI-QrxE",
@@ -79601,44 +79637,8 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/gzO8c_QNawg/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "ltTqwVSUnmQ",
-      "title": "ROOH - (REMIX) - Official Audio",
-      "channel": "Young Stunners",
-      "channelId": "youngstunners",
-      "youtubeChannelId": "UCaHpJ-SkCR604NNBnjM9thQ",
-      "category": "music",
-      "genre": "Hip-Hop & Rap",
-      "date": "2017-12-23",
-      "published": "2017-12-23T20:46:42Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 263,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/ltTqwVSUnmQ/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "xjBSCLjyX-E",
-      "title": "Right Now - Young Stunners | Talhah Yunus | Talha Anjum (Official Audio)",
-      "channel": "Young Stunners",
-      "channelId": "youngstunners",
-      "youtubeChannelId": "UCaHpJ-SkCR604NNBnjM9thQ",
-      "category": "music",
-      "genre": "Hip-Hop & Rap",
-      "date": "2017-11-16",
-      "published": "2017-11-16T20:57:55Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 288,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/xjBSCLjyX-E/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "NESCAFÉ Basement: channel unavailable; Sajjad Ali: channel unavailable; Mekaal Hasan Band: channel unavailable; Rahat Fateh Ali Khan: channel unavailable",
+  "lastError": "Arooj Aftab: channel unavailable; Zamad Baig: channel unavailable; Hassan & Roshaan: channel unavailable; Kashmir The Band: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
