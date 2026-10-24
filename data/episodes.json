@@ -10,22 +10,6 @@
         "date": "2026-10-24"
       },
       {
-        "title": "Khushi - Episode 41 - [ENG SUB] 23rd Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 41,
-        "id": "B7iGJsvEvnc",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Khushi - Episode 40 Highlights - 23rd Oct 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
-        "episode": 40,
-        "id": "2AJ_QE2oHys",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-10-23"
-      },
-      {
         "id": "L2jN_CghoOM",
         "title": "Khushi - Episode 39 - [Eng Sub] 21st Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
         "episode": 39,
@@ -107,100 +91,12 @@
       }
     ]
   },
-  "hum-gulbahar": {
-    "episodes": [
-      {
-        "title": "Gulbahar - Highlights - Episode 12 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
-        "episode": 12,
-        "id": "hYK7UFJBW3U",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-10-23"
-      },
-      {
-        "id": "-SSVup_u-y4",
-        "title": "Gulbahar - Episode 11 - [Eng Sub] 21st Oct 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
-        "episode": 11,
-        "date": "2026-10-21",
-        "published": "2026-10-21T16:00:03Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/-SSVup_u-y4/hqdefault.jpg",
-        "checkedAt": "2026-10-22T03:53:46.745995+00:00"
-      },
-      {
-        "id": "lCFiom01bBo",
-        "title": "Gulbahar - Episode 10 - [Eng Sub] 15th Oct 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
-        "episode": 10,
-        "date": "2026-10-15",
-        "published": "2026-10-15T16:00:04Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/lCFiom01bBo/hqdefault.jpg",
-        "checkedAt": "2026-10-16T07:05:15.775682+00:00"
-      }
-    ]
-  },
-  "hum-aangan": {
-    "episodes": [
-      {
-        "title": "Aangan - Episode 07 - [Eng Sub]- 23rd Oct 2026 [Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain]",
-        "episode": 7,
-        "id": "7a0Dy7jX-4c",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Aangan - Episode 06 - Flashback [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
-        "episode": 6,
-        "id": "Em5Vtyv3SVw",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-10-23"
-      },
-      {
-        "id": "K1SHRLAXBuE",
-        "title": "Aangan - Episode 04 - Highlight [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
-        "episode": 4,
-        "date": "2026-10-11",
-        "published": "2026-10-11T13:00:33Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/K1SHRLAXBuE/hqdefault.jpg",
-        "checkedAt": "2026-10-16T07:05:15.775682+00:00"
-      }
-    ]
-  },
   "hum-tark-e-tamanna": {
     "episodes": [
       {
         "title": "Tark-e-Tamanna - Episode 14 [Eng Sub] - 23rd Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
         "episode": 14,
         "id": "8fzsPY70av8",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Tark-e-Tamanna - Episode 13 Highlights | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
-        "episode": 13,
-        "id": "17iH0NU3rI0",
         "source": "HUM TV",
         "kind": "youtube",
         "date": "2026-10-23"
@@ -241,22 +137,6 @@
   },
   "arydigital-izzat": {
     "episodes": [
-      {
-        "title": "Izzat Episode 34 | 23 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 34,
-        "id": "vU-qYlSiZ2g",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Izzat Episode 34 | 23 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 34,
-        "id": "WpaKJmEPSeY",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-23"
-      },
       {
         "title": "Izzat Episode 33 | Best Moment | ARY Digital",
         "episode": 33,
@@ -391,42 +271,6 @@
       }
     ]
   },
-  "arydigital-dar-e-nijaat": {
-    "episodes": [
-      {
-        "title": "Dar-e-Nijaat Episode 24 | 23 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ARY Digital Drama",
-        "episode": 24,
-        "id": "L1-WDqO_MUE",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Dar-e-Nijaat Episode 24 | 23 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
-        "episode": 24,
-        "id": "tMwTz2a72cw",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-23"
-      },
-      {
-        "id": "ebioxADOBOw",
-        "title": "Dar-e-Nijaat Episode 23 | 17 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
-        "episode": 23,
-        "date": "2026-10-17",
-        "published": "2026-10-17T16:00:39Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/ebioxADOBOw/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:21:13.629433+00:00"
-      }
-    ]
-  },
   "arydigital-hey-fam": {
     "episodes": [
       {
@@ -518,9 +362,73 @@
   "harpalgeo-uswa": {
     "episodes": [
       {
-        "title": "Uswah Episode 31 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 23rd October 2026",
+        "title": "Uswah Episode 32 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 24th October 2026",
+        "episode": 32,
+        "id": "iZIdealp0j4",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Uswah Episode 31 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
         "episode": 31,
-        "id": "mE-n6co5NUE",
+        "id": "c6zeLCaSE8I",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Uswah Episode 31 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 31,
+        "id": "jhNkiXYG8kg",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Uswah Episode 31 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 31,
+        "id": "V2YudWqBNHQ",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Uswah Episode 31 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 31,
+        "id": "UswG2o8ar0k",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Uswah Episode 31 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 31,
+        "id": "LZ57NZj81gQ",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "Uswah Episode 31 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 31,
+        "id": "ddBbYNnsUkU",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "Uswah Episode 31 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 31,
+        "id": "Sj3Akqpj1aM",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "Uswah Episode 31 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 31,
+        "id": "5vAlm0HbHL8",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-23"
@@ -722,17 +630,73 @@
   "harpalgeo-nashtar": {
     "episodes": [
       {
-        "title": "Nashtar Episode 22 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
+        "title": "Recap Nashtar Episode 22 - 24th October 2026 - Har Pal Geo",
         "episode": 22,
-        "id": "8IoaP1duZ5E",
+        "id": "zqZVZKCCiNg",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Nashtar Episode 22 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 22,
+        "id": "VTcihQoBz_Y",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Nashtar Episode 22 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 22,
+        "id": "Y5emdP1716I",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Nashtar Episode 22 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 22,
+        "id": "NP6Eu8nWnxM",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Nashtar Episode 22 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 22,
+        "id": "lFAki0bmvts",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Nashtar Episode 22 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 22,
+        "id": "A0TRS56UXjA",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-23"
       },
       {
-        "title": "Recap Nashtar Episode 21 - 23rd October 2026 - Har Pal Geo",
-        "episode": 21,
-        "id": "nz52aUmEEh8",
+        "title": "Nashtar Episode 22 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 22,
+        "id": "UCpDCeJyvx8",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "Nashtar Episode 22 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 22,
+        "id": "RKbUUXQyWWE",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "Nashtar Episode 22 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 22,
+        "id": "gpopjebJwcU",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-23"
@@ -758,33 +722,73 @@
   "harpalgeo-bano": {
     "episodes": [
       {
+        "title": "Bano Episode 11 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 11,
+        "id": "JGOZ3LlNRx8",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Bano Episode 11 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 11,
+        "id": "vKJpOUPTZrc",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Bano Episode 11 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 11,
+        "id": "vIZxSQ1uIyQ",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Bano Episode 11 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 11,
+        "id": "BWL_fRI5eqk",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Bano Episode 11 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 11,
+        "id": "qCC_TT3A3o8",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Bano Episode 11 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 11,
+        "id": "LC-34HjJjlA",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Bano Episode 11 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 11,
+        "id": "3nEUjKuKqpo",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Bano Episode 11 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 11,
+        "id": "fMeo2KqqKD0",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
         "title": "Bano Episode 11 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 23rd October 2026 | HAR PAL GEO",
         "episode": 11,
         "id": "erXqGX-bXto",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Bano Episode 10 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 10,
-        "id": "yMAfECo6d6Y",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Bano Episode 10 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 10,
-        "id": "kZabknKGvQU",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Bano Episode 10 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 10,
-        "id": "Emc2DGQEnbY",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-23"
@@ -868,26 +872,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xuW3EY5v0ks/hqdefault.jpg",
         "checkedAt": "2026-10-16T00:59:10.857630+00:00"
-      }
-    ]
-  },
-  "geonews-hasna-mana-hai": {
-    "episodes": [
-      {
-        "title": "Kaun Hai Asli Teacher? 🤔- Khatarnak Punishment! 😱- Hasna Mana Hai - Tabish Hashmi - Geo News",
-        "episode": null,
-        "id": "jHRD6agKZ78",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Security Guard Se Delivery Boy Tak - Arsalan Naseer Ka Ireland Mein Experience ✈️- Hasna Mana Hai",
-        "episode": null,
-        "id": "i7PY7TnM0l8",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-23"
       }
     ]
   },
@@ -1184,6 +1168,26 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Kc6JezV_1oY/hqdefault.jpg",
         "checkedAt": "2026-10-12T17:29:47.310917+00:00"
+      }
+    ]
+  },
+  "hum-aangan": {
+    "episodes": [
+      {
+        "id": "K1SHRLAXBuE",
+        "title": "Aangan - Episode 04 - Highlight [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
+        "episode": 4,
+        "date": "2026-10-11",
+        "published": "2026-10-11T13:00:33Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/K1SHRLAXBuE/hqdefault.jpg",
+        "checkedAt": "2026-10-16T07:05:15.775682+00:00"
       }
     ]
   },
@@ -25135,7 +25139,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/l3d9UUQTdq4/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "VUYYLdKh-GM",
@@ -25151,7 +25155,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/VUYYLdKh-GM/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "hst_60j_vzU",
@@ -25167,7 +25171,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/hst_60j_vzU/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "sLZDxD7pDiI",
@@ -25199,7 +25203,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kmRQF0oeoVI/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "_zFi3JHlvfM",
@@ -25215,7 +25219,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_zFi3JHlvfM/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "kqSrqQwKyus",
@@ -25231,7 +25235,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kqSrqQwKyus/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "OPAJOiMmHHA",
@@ -25247,7 +25251,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OPAJOiMmHHA/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "rZ_YmPafhyE",
@@ -25263,7 +25267,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rZ_YmPafhyE/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "UnfOLHVGwKE",
@@ -25279,7 +25283,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UnfOLHVGwKE/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "Uq8Ecue93_o",
@@ -25295,7 +25299,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Uq8Ecue93_o/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "52NP4tlEW64",
@@ -25311,7 +25315,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/52NP4tlEW64/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "FCI0nrvZ64c",
@@ -25327,7 +25331,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/FCI0nrvZ64c/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "j7JQzIpGFW8",
@@ -25343,7 +25347,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/j7JQzIpGFW8/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "huJhYQnwluY",
@@ -25359,7 +25363,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/huJhYQnwluY/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "IkdGB04gBRk",
@@ -25375,7 +25379,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/IkdGB04gBRk/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "lX20ZetFw14",
@@ -25391,7 +25395,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lX20ZetFw14/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "1foN2cX2Zcw",
@@ -25407,7 +25411,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/1foN2cX2Zcw/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "HGTh6VEec2Q",
@@ -25423,7 +25427,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/HGTh6VEec2Q/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "sN_wPpUTCWw",
@@ -25439,7 +25443,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/sN_wPpUTCWw/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "jLOeDMZU-ns",
@@ -25455,7 +25459,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/jLOeDMZU-ns/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "d4HjUsRbMLY",
@@ -25471,7 +25475,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/d4HjUsRbMLY/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "4N_8U9Zrl_0",
@@ -25487,7 +25491,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4N_8U9Zrl_0/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "efSsmW1cPR4",
@@ -25503,7 +25507,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/efSsmW1cPR4/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "b1fa-Krw48Y",
@@ -25519,7 +25523,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/b1fa-Krw48Y/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       }
     ]
   },
@@ -25539,7 +25543,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/MECejw5F6wU/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "uBfE9M-4LDk",
@@ -25555,7 +25559,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/uBfE9M-4LDk/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "H0InZ4EJD30",
@@ -25571,7 +25575,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/H0InZ4EJD30/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "9Wyq9p0Hx1k",
@@ -25587,7 +25591,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9Wyq9p0Hx1k/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "QTNQiSiuYIA",
@@ -25603,7 +25607,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QTNQiSiuYIA/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "w9JJkb-IUY8",
@@ -25619,7 +25623,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/w9JJkb-IUY8/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "1EMGLRsaKpY",
@@ -25635,7 +25639,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/1EMGLRsaKpY/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "ZYBbncpJBnc",
@@ -25651,7 +25655,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ZYBbncpJBnc/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "XikO17FRQZ0",
@@ -25667,7 +25671,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XikO17FRQZ0/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "TUqtA9W8kB4",
@@ -25683,7 +25687,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TUqtA9W8kB4/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "xTvLMseulkg",
@@ -25715,7 +25719,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zeF0OhQQri8/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "DjVx_HUmHEQ",
@@ -25731,7 +25735,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DjVx_HUmHEQ/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "Vo7WysNYY1o",
@@ -25763,7 +25767,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/eSehEXJ8MYg/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "0-Nsk3YVOP0",
@@ -25779,7 +25783,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0-Nsk3YVOP0/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "BfQqgLRSCTA",
@@ -25795,7 +25799,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/BfQqgLRSCTA/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "wK-s_4sk9w8",
@@ -25811,7 +25815,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wK-s_4sk9w8/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "l7DmHGrJBto",
@@ -25827,7 +25831,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/l7DmHGrJBto/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "dY9-YvC2Fxc",
@@ -25843,7 +25847,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dY9-YvC2Fxc/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "5hnqtyOcmEs",
@@ -25859,7 +25863,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5hnqtyOcmEs/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "2OtT6LfWJYQ",
@@ -25875,7 +25879,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2OtT6LfWJYQ/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "aZmJsYHzwCM",
@@ -25891,7 +25895,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/aZmJsYHzwCM/hqdefault.jpg",
-        "checkedAt": "2026-10-15T03:52:08.158988+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "QKtjyih1H4I",
@@ -25907,7 +25911,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QKtjyih1H4I/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "4l_kCATs3ik",
@@ -25923,7 +25927,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4l_kCATs3ik/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "GZ7oxj2adbg",
@@ -25939,7 +25943,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GZ7oxj2adbg/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "RufuBwJ4aLI",
@@ -25955,7 +25959,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/RufuBwJ4aLI/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "TN5psIZrF6Q",
@@ -25971,7 +25975,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TN5psIZrF6Q/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "xg0T65ir8SY",
@@ -25987,7 +25991,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xg0T65ir8SY/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "AtYzx_h4Vcs",
@@ -26003,7 +26007,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/AtYzx_h4Vcs/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "kz2oj9KOYBY",
@@ -26019,7 +26023,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kz2oj9KOYBY/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "wwKOiwllRz8",
@@ -26035,7 +26039,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wwKOiwllRz8/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       }
     ]
   },
@@ -26055,7 +26059,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/r9GHXVoxRVs/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "Jvmgr8R7QGA",
@@ -26071,7 +26075,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Jvmgr8R7QGA/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "va8MDFFeXV8",
@@ -26087,7 +26091,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/va8MDFFeXV8/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "8Q_CFvrm3vI",
@@ -26103,7 +26107,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8Q_CFvrm3vI/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "PdvYRzHgMX0",
@@ -26119,7 +26123,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PdvYRzHgMX0/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "Zn33eoQa2pg",
@@ -26135,7 +26139,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Zn33eoQa2pg/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "Wg_OnBdF2E4",
@@ -26151,7 +26155,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Wg_OnBdF2E4/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "lmcirpqqY48",
@@ -26167,7 +26171,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lmcirpqqY48/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "9-UdZF47GpQ",
@@ -26183,7 +26187,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9-UdZF47GpQ/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "IEdUyyzEmqo",
@@ -26199,7 +26203,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/IEdUyyzEmqo/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
+      },
+      {
+        "id": "jEkjPhZ7GXo",
+        "title": "Ehd e Wafa Episode 14 | English Sub | Digitally Presented by Master Paints HUM TV Drama 22 Dec 2019",
+        "episode": 14,
+        "date": "2019-12-22",
+        "published": "2019-12-22T15:57:08Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/jEkjPhZ7GXo/hqdefault.jpg",
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "57j605955UQ",
@@ -26218,6 +26238,22 @@
         "checkedAt": "2026-10-18T14:58:09.071815+00:00"
       },
       {
+        "id": "XYmtOcS4s7Y",
+        "title": "Ehd e Wafa Episode 12 | English Sub | Digitally Presented by Master Paints HUM TV Drama 8 Dec 2019",
+        "episode": 12,
+        "date": "2019-12-08",
+        "published": "2019-12-08T16:03:43Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/XYmtOcS4s7Y/hqdefault.jpg",
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
+      },
+      {
         "id": "mLTcw-is_kU",
         "title": "Ehd e Wafa Episode 11 | English Sub | Digitally Presented by Master Paints HUM TV Drama 1 Dec 2019",
         "episode": 11,
@@ -26231,7 +26267,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mLTcw-is_kU/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "lY0uBX08420",
@@ -26247,7 +26283,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lY0uBX08420/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "uDPuHxIRnJk",
@@ -26263,7 +26299,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/uDPuHxIRnJk/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "WxFMaNnCeBs",
@@ -26279,7 +26315,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/WxFMaNnCeBs/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "q2V8OswrBrY",
@@ -26295,7 +26331,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/q2V8OswrBrY/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "bIdMbSV5OZo",
@@ -26311,7 +26347,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/bIdMbSV5OZo/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "FcjQXNf_RO0",
@@ -26327,7 +26363,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/FcjQXNf_RO0/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "YoFF7wkpLTY",
@@ -26343,7 +26379,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/YoFF7wkpLTY/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "itcyZWols_Q",
@@ -26359,7 +26395,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/itcyZWols_Q/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "Oo-LW5HfH7w",
@@ -26375,7 +26411,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Oo-LW5HfH7w/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "TUN-iNJ_lMk",
@@ -26391,7 +26427,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TUN-iNJ_lMk/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "Gaxsb9Uvwt0",
@@ -26407,7 +26443,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Gaxsb9Uvwt0/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       }
     ]
   },
@@ -26427,7 +26463,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7Q8HIxnOuOs/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "F97C921x1-4",
@@ -26443,7 +26479,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/F97C921x1-4/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "cl-FH27OyY0",
@@ -26459,7 +26495,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cl-FH27OyY0/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "LCk-KYWLVt8",
@@ -26475,7 +26511,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/LCk-KYWLVt8/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "Hz2vnaM99h8",
@@ -26491,7 +26527,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Hz2vnaM99h8/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "SZo_yOTLeI0",
@@ -26507,7 +26543,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SZo_yOTLeI0/hqdefault.jpg",
-        "checkedAt": "2026-10-15T07:06:11.019967+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "iKpVms8zrMM",
@@ -26523,7 +26559,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iKpVms8zrMM/hqdefault.jpg",
-        "checkedAt": "2026-10-15T07:06:11.019967+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "OcndM-7fMbE",
@@ -26539,7 +26575,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OcndM-7fMbE/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "Srq5lNIpGvo",
@@ -26555,7 +26591,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Srq5lNIpGvo/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "Wgeh29GU-YQ",
@@ -26571,7 +26607,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Wgeh29GU-YQ/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "Xz7tnbbyOWI",
@@ -26587,7 +26623,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Xz7tnbbyOWI/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "TuxZPEZPffg",
@@ -26603,7 +26639,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TuxZPEZPffg/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "QVftz-WOon8",
@@ -26635,7 +26671,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cnO4uMa3tM4/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "dnQQZ_r5qrc",
@@ -26651,7 +26687,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dnQQZ_r5qrc/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "1-5-kcRE_EA",
@@ -26667,7 +26703,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/1-5-kcRE_EA/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "waIPohaimhY",
@@ -26715,7 +26751,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Xg02NZt3Yfg/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "A07sX5Xc9QY",
@@ -26731,7 +26767,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/A07sX5Xc9QY/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "UB53hLzGbxw",
@@ -26747,7 +26783,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UB53hLzGbxw/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "wh0LC6g1zxQ",
@@ -26763,7 +26799,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wh0LC6g1zxQ/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "DaugPHxWNCQ",
@@ -26795,7 +26831,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UYmc0lo8A6U/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "QphZFJusBnc",
@@ -26811,7 +26847,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QphZFJusBnc/hqdefault.jpg",
-        "checkedAt": "2026-10-15T07:06:11.019967+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "ToCKgq6w2kI",
@@ -26827,7 +26863,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ToCKgq6w2kI/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "9huWy0XMmqw",
@@ -26843,7 +26879,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9huWy0XMmqw/hqdefault.jpg",
-        "checkedAt": "2026-10-15T07:06:11.019967+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "7YOiidDjzBc",
@@ -26859,7 +26895,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7YOiidDjzBc/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "5xJ0-Yn3ONE",
@@ -26891,7 +26927,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/33vDcNl0MYI/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "66UCsI2Ggbo",
@@ -26907,7 +26943,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/66UCsI2Ggbo/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "nzl1m5OJOnc",
@@ -26923,7 +26959,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nzl1m5OJOnc/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "BsmrGAn2aS0",
@@ -26939,7 +26975,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/BsmrGAn2aS0/hqdefault.jpg",
-        "checkedAt": "2026-10-15T07:06:11.019967+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "6F0wI7ybdKc",
@@ -26955,7 +26991,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6F0wI7ybdKc/hqdefault.jpg",
-        "checkedAt": "2026-10-15T07:06:11.019967+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "iJBLsWD8xQs",
@@ -26971,7 +27007,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iJBLsWD8xQs/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "-Gw8D4QjIlo",
@@ -26987,7 +27023,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-Gw8D4QjIlo/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "3YOOTfMxqZs",
@@ -27003,7 +27039,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3YOOTfMxqZs/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       },
       {
         "id": "ocOPicDPYSA",
@@ -27019,7 +27055,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ocOPicDPYSA/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
+        "checkedAt": "2026-10-24T18:51:31.233653+00:00"
       }
     ]
   },
@@ -33743,6 +33779,42 @@
       }
     ]
   },
+  "hum-gulbahar": {
+    "episodes": [
+      {
+        "id": "-SSVup_u-y4",
+        "title": "Gulbahar - Episode 11 - [Eng Sub] 21st Oct 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
+        "episode": 11,
+        "date": "2026-10-21",
+        "published": "2026-10-21T16:00:03Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/-SSVup_u-y4/hqdefault.jpg",
+        "checkedAt": "2026-10-22T03:53:46.745995+00:00"
+      },
+      {
+        "id": "lCFiom01bBo",
+        "title": "Gulbahar - Episode 10 - [Eng Sub] 15th Oct 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
+        "episode": 10,
+        "date": "2026-10-15",
+        "published": "2026-10-15T16:00:04Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/lCFiom01bBo/hqdefault.jpg",
+        "checkedAt": "2026-10-16T07:05:15.775682+00:00"
+      }
+    ]
+  },
   "hum-zehar-e-mohabbat": {
     "episodes": [
       {
@@ -33800,6 +33872,26 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GYARaiI6JCo/hqdefault.jpg",
         "checkedAt": "2026-10-22T21:49:46.823165+00:00"
+      }
+    ]
+  },
+  "arydigital-dar-e-nijaat": {
+    "episodes": [
+      {
+        "id": "ebioxADOBOw",
+        "title": "Dar-e-Nijaat Episode 23 | 17 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
+        "episode": 23,
+        "date": "2026-10-17",
+        "published": "2026-10-17T16:00:39Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/ebioxADOBOw/hqdefault.jpg",
+        "checkedAt": "2026-10-18T15:21:13.629433+00:00"
       }
     ]
   },
