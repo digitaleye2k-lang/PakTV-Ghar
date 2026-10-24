@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T18:51:35.006365+00:00",
+  "generatedAt": "2026-10-24T23:21:07.600099+00:00",
   "dateTimezone": "UTC",
-  "cursor": 70,
+  "cursor": 4,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -161,35 +161,35 @@
       "uploadsId": "UUQ2P7C8UGoVM6AhqsVx-M0Q",
       "handle": "KitchenWithAmna",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-24T01:09:03.548062+00:00"
+      "lastFetchedAt": "2026-10-24T23:21:07.600099+00:00"
     },
     "geoclassics": {
       "youtubeId": "UCLUfX9--VscMEKnIE6thhbg",
       "uploadsId": "UULUfX9--VscMEKnIE6thhbg",
       "handle": "GeoNewsClassics",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-24T01:09:03.548062+00:00"
+      "lastFetchedAt": "2026-10-24T23:21:07.600099+00:00"
     },
     "wildlens": {
       "youtubeId": "UCf1XIplYiqNv9baGsFHwPPQ",
       "uploadsId": "UUf1XIplYiqNv9baGsFHwPPQ",
       "handle": "WildLensByAbrar",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-24T01:09:03.548062+00:00"
+      "lastFetchedAt": "2026-10-24T23:21:07.600099+00:00"
     },
     "ruby": {
       "youtubeId": "UCMhx-uS3O-G_6_lTrYmDKLw",
       "uploadsId": "UUMhx-uS3O-G_6_lTrYmDKLw",
       "handle": "RubyKaKitchen",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-24T01:09:03.548062+00:00"
+      "lastFetchedAt": "2026-10-24T23:21:07.600099+00:00"
     },
     "ijazfood": {
       "youtubeId": "UCc1BSASBDsE_XYOTxD9SNmA",
       "uploadsId": "UUc1BSASBDsE_XYOTxD9SNmA",
       "handle": "IjazAnsariFoodSecrets",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-24T01:09:03.548062+00:00"
+      "lastFetchedAt": "2026-10-24T23:21:07.600099+00:00"
     },
     "greentv": {
       "youtubeId": "UCF2ltLX1dnPa6-L1paPaMzw",
@@ -371,21 +371,21 @@
       "uploadsId": "UUM1VesJtJ9vTXcMLLr_FfdQ",
       "handle": "cokestudio",
       "checkedAt": "2026-10-18T19:46:24.753696+00:00",
-      "lastFetchedAt": "2026-10-24T01:09:03.548062+00:00"
+      "lastFetchedAt": "2026-10-24T23:21:07.600099+00:00"
     },
     "emipakistan": {
       "youtubeId": "UC52h_LCatoUs6ycLjT9V8bQ",
       "uploadsId": "UU52h_LCatoUs6ycLjT9V8bQ",
       "handle": "EMIPakistanOfficial",
       "checkedAt": "2026-10-18T20:11:10.576823+00:00",
-      "lastFetchedAt": "2026-10-24T03:52:14.980323+00:00"
+      "lastFetchedAt": "2026-10-24T23:21:07.600099+00:00"
     },
     "talhaanjum": {
       "youtubeId": "UCaHBioELm9IzGYhg70Z1BKg",
       "uploadsId": "UUaHBioELm9IzGYhg70Z1BKg",
       "handle": "talhaanjum",
       "checkedAt": "2026-10-18T19:46:24.753696+00:00",
-      "lastFetchedAt": "2026-10-24T03:52:14.980323+00:00"
+      "lastFetchedAt": "2026-10-24T23:21:07.600099+00:00"
     },
     "youngstunners": {
       "youtubeId": "UCaHpJ-SkCR604NNBnjM9thQ",
@@ -399,7 +399,7 @@
       "uploadsId": "UU6s1zz1-t7rPf-4scKVYD8g",
       "handle": "Jaubi",
       "checkedAt": "2026-10-18T20:04:20.517484+00:00",
-      "lastFetchedAt": "2026-10-24T18:51:35.006365+00:00"
+      "lastFetchedAt": "2026-10-24T23:21:07.600099+00:00"
     },
     "atifs": {
       "youtubeId": "UC3FnOdo2ooBS4TrEcmwUR_Q",
@@ -2905,6 +2905,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "2pRqBPA9fzE",
+      "title": "Faysal Quraishi Reveals His Fitness Secret, Calls Aijaz Aslam a Midwife! | Geo Classics",
+      "channel": "Geo Classics",
+      "channelId": "geoclassics",
+      "youtubeChannelId": "UCLUfX9--VscMEKnIE6thhbg",
+      "category": "comedy",
+      "genre": "Comedy & satire",
+      "date": "2026-10-24",
+      "published": "2026-10-24T11:00:35Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 655,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/2pRqBPA9fzE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "NAgU3ZSNN1Q",
       "title": "Mujhe Iss Rishtay Se Koi Iteraz Nahi Hai...! #dananeermubeen #hurmat #shahveerjaffery #humtv",
       "channel": "HUM TV",
@@ -3262,6 +3280,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/2JGRY2zSBEs/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "5PWqcbW7xvk",
+      "title": "Must Try! Gajar ke Halway ki Barfi Recipe - RKK",
+      "channel": "Ruby Ka Kitchen",
+      "channelId": "ruby",
+      "youtubeChannelId": "UCMhx-uS3O-G_6_lTrYmDKLw",
+      "category": "vloggers",
+      "genre": "Food & recipes",
+      "date": "2026-10-24",
+      "published": "2026-10-24T10:15:22Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 766,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/5PWqcbW7xvk/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -4039,6 +4075,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "JmbJ_8k9kJo",
+      "title": "Nadia Mocks Ejaz Over Advice on Skin-Whitening Injections | Geo Classics",
+      "channel": "Geo Classics",
+      "channelId": "geoclassics",
+      "youtubeChannelId": "UCLUfX9--VscMEKnIE6thhbg",
+      "category": "comedy",
+      "genre": "Comedy & satire",
+      "date": "2026-10-24",
+      "published": "2026-10-24T09:00:01Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 505,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/JmbJ_8k9kJo/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "Y5emdP1716I",
       "title": "Nashtar Episode 22 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
       "channel": "Har Pal Geo",
@@ -4072,6 +4126,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/MgwayVbvoD4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "uRkXQSS2Lb8",
+      "title": "Crispy Chicken Tender Recipe l Make & Freeze Chicken Tender Recipe By Kitchen With Amna",
+      "channel": "Kitchen with Amna",
+      "channelId": "kitchenamna",
+      "youtubeChannelId": "UCQ2P7C8UGoVM6AhqsVx-M0Q",
+      "category": "vloggers",
+      "genre": "Food & recipes",
+      "date": "2026-10-24",
+      "published": "2026-10-24T08:56:21Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 482,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/uRkXQSS2Lb8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -4774,6 +4846,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/NP6Eu8nWnxM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "0p1UiUD1y6I",
+      "title": "Coke Studio Nu.WAV Session ft - Talal x Maanu x Zoha",
+      "channel": "Coke Studio Pakistan",
+      "channelId": "cokestudio",
+      "youtubeChannelId": "UCM1VesJtJ9vTXcMLLr_FfdQ",
+      "category": "music",
+      "genre": "Sufi & Fusion",
+      "date": "2026-10-24",
+      "published": "2026-10-24T08:00:05Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1585,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/0p1UiUD1y6I/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -6898,6 +6988,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/JGNDLjvt_Vg/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "_lmmtCbKLzg",
+      "title": "Mooli Ki Chutney Recipe By ijaz Ansari | Chutney Recipe | Chutney Banana ka tarika |",
+      "channel": "Ijaz Ansari Food Secrets",
+      "channelId": "ijazfood",
+      "youtubeChannelId": "UCc1BSASBDsE_XYOTxD9SNmA",
+      "category": "vloggers",
+      "genre": "Food & recipes",
+      "date": "2026-10-24",
+      "published": "2026-10-24T02:00:31Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 421,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/_lmmtCbKLzg/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -72169,42 +72277,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "LPRWSGq1Doo",
-      "title": "Shadab Khan’s All-Round Masterclass! 3 Wickets & Match-Winning 69 | IU vs QG | HBL PSL 11 | MZB1J",
-      "channel": "Pakistan Super League",
-      "channelId": "psl",
-      "youtubeChannelId": "UCpNzXJ5jpcJojC5mHQvGA8w",
-      "category": "sports",
-      "genre": "Cricket league & highlights",
-      "date": "2026-09-18",
-      "published": "2026-09-18T13:09:25Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 552,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/LPRWSGq1Doo/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "36u1_c-bDao",
-      "title": "Kung Pao Chicken Pasta Recipe by Asad Memon - Food Fusion",
-      "channel": "Food Fusion",
-      "channelId": "foodfusion",
-      "youtubeChannelId": "UCuqBZWK9Wrol_4Y22DzisFQ",
-      "category": "vloggers",
-      "genre": "Food & recipes",
-      "date": "2026-09-18",
-      "published": "2026-09-18T13:00:33Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 466,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/36u1_c-bDao/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "8Ix-ekSoEdY",
       "title": "Rangeen | Coke Studio Nu.WAV | Hasan Raheem x Izzchughtai x Umair",
       "channel": "Coke Studio Pakistan",
@@ -72220,96 +72292,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/8Ix-ekSoEdY/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "3k7E0h9ZNQg",
-      "title": "SHOCKING POLITICAL TWIST: Bigger-Than-Panama Case? | Maryam Under Pressure | Shehbaz & Cabinet Rift",
-      "channel": "Sabir Shakir",
-      "channelId": "sabir",
-      "youtubeChannelId": "UCY7eFg5TEMsk_aTqM0pVB4w",
-      "category": "vloggers",
-      "genre": "News & commentary",
-      "date": "2026-09-18",
-      "published": "2026-09-18T12:45:33Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 1998,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/3k7E0h9ZNQg/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "T3x7VRkGPPc",
-      "title": "New Kitchen Ki First Recipe Main Meethay Main Banaya Degi Mutanjan",
-      "channel": "Kitchen with Amna",
-      "channelId": "kitchenamna",
-      "youtubeChannelId": "UCQ2P7C8UGoVM6AhqsVx-M0Q",
-      "category": "vloggers",
-      "genre": "Food & recipes",
-      "date": "2026-09-18",
-      "published": "2026-09-18T12:00:16Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 862,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/T3x7VRkGPPc/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "9zzmEJQlb14",
-      "title": "Cricket Final Mein Hamari Special Entry! 🏏😍 #maazsafderworld #cricketlovers #shorts",
-      "channel": "Maaz Safder",
-      "channelId": "maaz",
-      "youtubeChannelId": "UCz0M2pV4jOUUQ88lOd2q08A",
-      "category": "vloggers",
-      "genre": "Lifestyle & vlogs",
-      "date": "2026-09-18",
-      "published": "2026-09-18T09:29:12Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 149,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/9zzmEJQlb14/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "ysbeHk2-Y70",
-      "title": "Hyderabadi Biryani Recipe By Food Fusion",
-      "channel": "Food Fusion",
-      "channelId": "foodfusion",
-      "youtubeChannelId": "UCuqBZWK9Wrol_4Y22DzisFQ",
-      "category": "vloggers",
-      "genre": "Food & recipes",
-      "date": "2026-09-18",
-      "published": "2026-09-18T08:00:37Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 223,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/ysbeHk2-Y70/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "rnbkkUfOrvE",
-      "title": "Achay Bachay Episode 521 | Moral Stories for Kids | Kids Madani Channel",
-      "channel": "Kids Madani Channel",
-      "channelId": "kidsmadani",
-      "youtubeChannelId": "UCsNSt0fxMniSH9XHaNneZfw",
-      "category": "kids",
-      "genre": "Learning & values",
-      "date": "2026-09-18",
-      "published": "2026-09-18T08:00:00Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 3171,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/rnbkkUfOrvE/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -72329,24 +72311,6 @@
       "embeddable": false,
       "thumbnail": "https://i.ytimg.com/vi/RF4Mh0uksC0/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "DGkWcFPRZu4",
-      "title": "ZABATA (1993) Full Movie | Sultan Rahi & Babra Sharif | Classic Pakistani Film",
-      "channel": "MovieboxMovies",
-      "channelId": "movieboxmovies",
-      "youtubeChannelId": "UC8Artr_jqToYkRKjgjhezmw",
-      "category": "movies",
-      "genre": "Classic Pakistani Movies",
-      "date": "2026-09-11",
-      "published": "2026-09-11T14:00:28Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 7763,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/DGkWcFPRZu4/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "LhnAsHYP010",
@@ -72383,6 +72347,24 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/FRl5nRdStxk/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "VMhPE9PVeKU",
+      "title": "DIL LAGI - FULL MOVIE | MEHWISH HAYAT | HUMAYUN SAEED | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-09-06",
+      "published": "2026-09-06T15:00:16Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 8721,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/VMhPE9PVeKU/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "4ZjVJ7xDYHo",
@@ -72473,6 +72455,24 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/55ORabmXir8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "XfeZyz2Y2tM",
+      "title": "PARWARISH - FULL MOVIE | SAMAR JAFRI | AINA ASIF | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-07-19",
+      "published": "2026-07-19T15:00:09Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 8877,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/XfeZyz2Y2tM/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "_vMrPyWJY28",
@@ -72941,6 +72941,24 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/y3QKLxKGzcU/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "Ey_7ajUNqYM",
+      "title": "GHUNDA (1993) Full Punjabi Pakistani Movie | Superhit Action Film HD | Official Pakistani Full Movie",
+      "channel": "LollywoodCinema",
+      "channelId": "lollywoodcinema",
+      "youtubeChannelId": "UCMlGWm_woMhMcVYhJu8zsvA",
+      "category": "movies",
+      "genre": "Classic Pakistani Movies",
+      "date": "2026-05-29",
+      "published": "2026-05-29T15:00:26Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 9799,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Ey_7ajUNqYM/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "7Q5lGTu-etI",
@@ -73679,6 +73697,24 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/Ot-0wmYeHNc/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "db-ee9yNMIg",
+      "title": "MERI ZINDAGI HAI TU - FULL MOVIE | HANIA AAMIR | BILAL ABBAS | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-05-10",
+      "published": "2026-05-10T16:01:03Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 8842,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/db-ee9yNMIg/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "IvZPdew21A4",
@@ -75119,6 +75155,24 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/jSGjrLZq2mo/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "frs0YZE1CH4",
+      "title": "Cake (Full Pakistani Movie) | Oscar Nominated Drama | Aamina Sheikh & Sanam Saeed",
+      "channel": "MovieboxMovies",
+      "channelId": "movieboxmovies",
+      "youtubeChannelId": "UC8Artr_jqToYkRKjgjhezmw",
+      "category": "movies",
+      "genre": "Classic Pakistani Movies",
+      "date": "2025-02-16",
+      "published": "2025-02-16T06:48:02Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 7538,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/frs0YZE1CH4/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "_wJUiI-QrxE",
@@ -77153,24 +77207,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/uESo-j31UX4/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "dRHQijfLymE",
-      "title": "Phool Mere Gulshan Ka (1974) – Mohammad Ali, Zeba, Waheed Murad, Nisho | Full Pakistani Movie",
-      "channel": "LollywoodCinema",
-      "channelId": "lollywoodcinema",
-      "youtubeChannelId": "UCMlGWm_woMhMcVYhJu8zsvA",
-      "category": "movies",
-      "genre": "Classic Pakistani Movies",
-      "date": "2022-10-06",
-      "published": "2022-10-06T08:00:11Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 7637,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/dRHQijfLymE/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "naGFRwzbKo0",
@@ -79601,44 +79637,8 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/eQebMf9OvHg/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "nAv-Ek1Z4dc",
-      "title": "Hasan Raheem - Paas",
-      "channel": "Hasan Raheem",
-      "channelId": "hasanraheem",
-      "youtubeChannelId": "UCaQvtCweOs1RpgFIO3-ezMA",
-      "category": "music",
-      "genre": "Indie & Pop",
-      "date": "2018-12-21",
-      "published": "2018-12-21T16:03:22Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 182,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/nAv-Ek1Z4dc/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "GmL7zrGhPjQ",
-      "title": "Bonded Labor - Aaj Ki Ghulami (With Shehri Pakistan)",
-      "channel": "Bayaan",
-      "channelId": "bayaan",
-      "youtubeChannelId": "UCqOLlRNuWqswf30c9AJC-Cg",
-      "category": "music",
-      "genre": "Indie & Alternative",
-      "date": "2018-12-19",
-      "published": "2018-12-19T10:04:44Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 187,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/GmL7zrGhPjQ/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Express News: channel unavailable; Asad Toor: channel unavailable; Siddique Jaan: channel unavailable",
+  "lastError": "HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable; NESCAFÉ Basement: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }

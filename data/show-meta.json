@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T23:52:00.319556+05:00",
+  "generatedAt": "2026-10-25T04:21:28.114220+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,13 +17,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 8,
-        "time": "16:30",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-24"
       }
     },
     "harpalgeo-nashtar": {
@@ -44,11 +37,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 23,
+        "number": 24,
         "time": "20:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-24"
+        "date": "2026-10-25"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -68,11 +61,11 @@
     },
     "harpalgeo-uswa": {
       "tvToday": {
-        "number": 32,
+        "number": 33,
         "time": "19:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-24"
+        "date": "2026-10-25"
       },
       "lastAttempt": "2026-10-22T03:12:40.218128+05:00",
       "latestUpload": {
@@ -104,13 +97,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 24,
-        "time": "00:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-24"
       }
     },
     "hum-aangan": {
@@ -132,11 +118,11 @@
       "poster": "https://harpalgeo.tv/assets/uploads/programs/641_9919269_programs.jpg",
       "posterSource": "Official broadcaster",
       "tvToday": {
-        "number": 12,
+        "number": 13,
         "time": "21:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-24"
+        "date": "2026-10-25"
       },
       "latestUpload": {
         "number": 11,
@@ -1116,10 +1102,10 @@
     "hum-ishq-murshid": {
       "lastAttempt": "2026-10-22T03:12:40.566504+05:00",
       "latestUpload": {
-        "number": 29,
-        "id": "7dbbMX6JOCc",
-        "title": "Ishq Murshid - Episode 29 [𝐂𝐂] - 21 Apr 24 - Sponsored By Khurshid Fans, Master Paints & Mothercare",
-        "date": "2024-04-21",
+        "number": 31,
+        "id": "3dCQ4g1DwB0",
+        "title": "Ishq Murshid - Mega Last Ep 31 [Part 02] [𝐂𝐂] - 05 May 24, Khurshid Fans, Master Paints & Mothercare",
+        "date": "2024-05-05",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
