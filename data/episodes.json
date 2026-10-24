@@ -2,6 +2,14 @@
   "hum-khushi": {
     "episodes": [
       {
+        "title": "Khushi - Episode 41 Highlights - 24th Oct 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
+        "episode": 41,
+        "id": "UvQRqbT5uvY",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
         "title": "Khushi - Episode 41 - [ENG SUB] 23rd Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
         "episode": 41,
         "id": "B7iGJsvEvnc",
@@ -146,6 +154,14 @@
   "hum-aangan": {
     "episodes": [
       {
+        "title": "Aangan - Episode 07 - [Eng Sub]- 23rd Oct 2026 [Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain]",
+        "episode": 7,
+        "id": "7a0Dy7jX-4c",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-23"
+      },
+      {
         "title": "Aangan - Episode 06 - Flashback [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
         "episode": 6,
         "id": "Em5Vtyv3SVw",
@@ -173,6 +189,14 @@
   },
   "hum-tark-e-tamanna": {
     "episodes": [
+      {
+        "title": "Tark-e-Tamanna - Episode 14 [Eng Sub] - 23rd Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "episode": 14,
+        "id": "8fzsPY70av8",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-23"
+      },
       {
         "title": "Tark-e-Tamanna - Episode 13 Highlights | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
         "episode": 13,
@@ -234,6 +258,38 @@
         "date": "2026-10-23"
       },
       {
+        "title": "Izzat Episode 33 | Best Moment | ARY Digital",
+        "episode": 33,
+        "id": "kUOFU18z6Dg",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Izzat Episode 33 | Unforgettable Scene | ARY Digital",
+        "episode": 33,
+        "id": "cbjI76tfbhs",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Izzat Episode 33 | Emotional Scene | ARY Digital",
+        "episode": 33,
+        "id": "-fiwKwmyoco",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Izzat Episode 33 | Best Scene | ARY Digital",
+        "episode": 33,
+        "id": "gudWYQZQ7U8",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
         "id": "Thu_M83L190",
         "title": "Izzat Episode 32 | 21 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
         "episode": 32,
@@ -248,22 +304,6 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/Thu_M83L190/hqdefault.jpg",
         "checkedAt": "2026-10-21T22:11:59.697806+00:00"
-      },
-      {
-        "title": "Izzat Episode 31 | Emotional Scene | ARY Digital",
-        "episode": 31,
-        "id": "KmZnbg9wdHM",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Kya Tum Rutba Ko Talaq Dena Chahte Ho | Izzat Episode 31 | ARY Digital",
-        "episode": 31,
-        "id": "QBr6L4_sz64",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-23"
       },
       {
         "id": "2S5_eQI24A0",
@@ -283,30 +323,46 @@
       }
     ]
   },
-  "arydigital-rutba": {
+  "arydigital-main-tera": {
     "episodes": [
       {
-        "title": "Kya Tum Rutba Ko Talaq Dena Chahte Ho | Izzat Episode 31 | ARY Digital",
-        "episode": 31,
-        "id": "QBr6L4_sz64",
+        "id": "I5gDYGVf4l0",
+        "title": "Main Tera 2nd Last Episode 64 | 20 October 2026 | Ghana Ali | Yusra Irfan | Arez Ahmed | ARY Digital",
+        "episode": 64,
+        "date": "2026-10-20",
+        "published": "2026-10-20T17:00:26Z",
         "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
         "kind": "youtube",
-        "date": "2026-10-23"
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/I5gDYGVf4l0/hqdefault.jpg",
+        "checkedAt": "2026-10-21T22:11:59.697806+00:00"
       },
       {
-        "title": "Rutba Episode 3 Best Scene | Hiba Bukhari | Talha Chahour | ARY Digital Drama",
-        "episode": 3,
-        "id": "cLKkvLWR1yY",
+        "title": "Apni Ghalati Per Bohat Pachtawa Hai Mujhe | Main Tera Episode 63 | ARY Dighital",
+        "episode": 63,
+        "id": "WEXMMDYvHmE",
         "source": "ARY Digital",
         "kind": "youtube",
-        "date": "2026-10-23"
+        "date": "2026-10-24"
       },
       {
-        "id": "QpzPYN2DuEg",
-        "title": "Rutba EP 2 | 12 Oct 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ENG SUB",
-        "episode": 2,
-        "date": "2026-10-12",
-        "published": "2026-10-12T16:00:08Z",
+        "title": "Mujhe Khonay Ke Baad Bohat Pachtaoge | Main Tera Episode 63 | ARY Digital",
+        "episode": 63,
+        "id": "wuk6-vmYmoc",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "id": "OErakyu1-A4",
+        "title": "Main Tera Episode 59 | Best Moment | ARY Digital",
+        "episode": 59,
+        "date": "2026-10-15",
+        "published": "2026-10-15T11:10:24Z",
         "source": "ARY Digital",
         "channelId": "arydigital",
         "sourceType": "youtube_api",
@@ -314,7 +370,23 @@
         "embeddable": true,
         "availableGB": true,
         "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/QpzPYN2DuEg/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/OErakyu1-A4/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+      },
+      {
+        "id": "becjUcBHoMI",
+        "title": "Main Ab Is Ghar Mai Nahi Rahungi | Main Tera Episode 56 | Yusra Irfan | ARY Digital",
+        "episode": 56,
+        "date": "2026-10-15",
+        "published": "2026-10-15T12:50:20Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/becjUcBHoMI/hqdefault.jpg",
         "checkedAt": "2026-10-16T00:59:10.857630+00:00"
       }
     ]
@@ -355,6 +427,66 @@
       }
     ]
   },
+  "arydigital-hey-fam": {
+    "episodes": [
+      {
+        "id": "fL5lA6STcb8",
+        "title": "Hey Fam | EP  10 | 15 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ENG SUB | ARY Digital",
+        "episode": 10,
+        "date": "2026-10-15",
+        "published": "2026-10-15T16:00:12Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/fL5lA6STcb8/hqdefault.jpg",
+        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
+      },
+      {
+        "id": "8N6zIC3KIY8",
+        "title": "Hey Fam Episode 7 | Emotional Moments | Dua Zahra | ARY Digital",
+        "episode": 7,
+        "date": "2026-10-15",
+        "published": "2026-10-15T11:00:17Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/8N6zIC3KIY8/hqdefault.jpg",
+        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
+      },
+      {
+        "id": "AGEGDHZ2bBc",
+        "title": "Sirf Dosti Nahi Shadi Karni Hai Mujhe | Hey Fam Episode 7 | ARY Digital",
+        "episode": 7,
+        "date": "2026-10-15",
+        "published": "2026-10-15T09:44:40Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/AGEGDHZ2bBc/hqdefault.jpg",
+        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
+      },
+      {
+        "title": "Shadi Ke Liye Larki Pasand Kyun Nahi Ki | Hey Fam Episode 5 | ARY Digital",
+        "episode": 5,
+        "id": "4X6hcmasB90",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      }
+    ]
+  },
   "arydigital-lagan-lagi": {
     "episodes": [
       {
@@ -364,6 +496,22 @@
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-10-23"
+      },
+      {
+        "title": "Mere Sath Chalo ❤️😍 | Lagan Lagi Episode 1",
+        "episode": 1,
+        "id": "_hL5O1UHwlc",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Lagan Lagi Episode 1 | Best Scene | ARY Digital",
+        "episode": 1,
+        "id": "9y1U_JoAtyI",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-24"
       }
     ]
   },
@@ -607,82 +755,6 @@
       }
     ]
   },
-  "harpalgeo-khafa": {
-    "episodes": [
-      {
-        "title": "Khafa Episode 24 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
-        "episode": 24,
-        "id": "_mgVD-alezg",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Khafa Episode 24 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
-        "episode": 24,
-        "id": "sZL1zPl5hGI",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Khafa Episode 24 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
-        "episode": 24,
-        "id": "xW2Fa5iJdwI",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-23"
-      },
-      {
-        "id": "aD6aT1uLd-U",
-        "title": "Khafa Episode 23 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 21st Oct 2026 | HAR PAL GEO",
-        "episode": 23,
-        "date": "2026-10-21",
-        "published": "2026-10-21T16:00:20Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/aD6aT1uLd-U/hqdefault.jpg",
-        "checkedAt": "2026-10-22T01:02:25.930340+00:00"
-      },
-      {
-        "id": "2hMkdgRZ2uk",
-        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
-        "episode": 22,
-        "date": "2026-10-15",
-        "published": "2026-10-15T19:30:38Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/2hMkdgRZ2uk/hqdefault.jpg",
-        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
-      },
-      {
-        "id": "pWw8tWkPReA",
-        "title": "Khafa Episode 22 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 15th Oct 2026 | HAR PAL GEO",
-        "episode": 22,
-        "date": "2026-10-15",
-        "published": "2026-10-15T16:00:36Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/pWw8tWkPReA/hqdefault.jpg",
-        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
-      }
-    ]
-  },
   "harpalgeo-bano": {
     "episodes": [
       {
@@ -713,14 +785,6 @@
         "title": "Bano Episode 10 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
         "episode": 10,
         "id": "Emc2DGQEnbY",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Bano Episode 10 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 10,
-        "id": "DjzUvGwxMC8",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-23"
@@ -964,6 +1028,26 @@
         "source": "Geo News",
         "kind": "youtube",
         "date": "2026-10-23"
+      }
+    ]
+  },
+  "arydigital-rutba": {
+    "episodes": [
+      {
+        "id": "QpzPYN2DuEg",
+        "title": "Rutba EP 2 | 12 Oct 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ENG SUB",
+        "episode": 2,
+        "date": "2026-10-12",
+        "published": "2026-10-12T16:00:08Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/QpzPYN2DuEg/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
       }
     ]
   },
@@ -23435,7 +23519,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DQRz8reIU8c/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "5L72m71en8k",
@@ -23451,7 +23535,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5L72m71en8k/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "y8_EOv0We10",
@@ -23467,7 +23551,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/y8_EOv0We10/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "diJ8HdWDUhk",
@@ -23483,7 +23567,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/diJ8HdWDUhk/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "I9_C9C8aUfc",
@@ -23499,7 +23583,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/I9_C9C8aUfc/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "g20pMJrClds",
@@ -23515,7 +23599,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/g20pMJrClds/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "h9L2QAbO9P8",
@@ -23531,7 +23615,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/h9L2QAbO9P8/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "yswxzpqE4QE",
@@ -23547,7 +23631,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yswxzpqE4QE/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "ckMUvGh_Bdo",
@@ -23563,7 +23647,7 @@
         "availableGB": false,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ckMUvGh_Bdo/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "R5bjgrfYYko",
@@ -23595,7 +23679,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xXLSyiRppcs/hqdefault.jpg",
-        "checkedAt": "2026-10-15T00:59:37.371476+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "popcIryh8LI",
@@ -23643,7 +23727,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nmpRP7CrXZw/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "yPb5ZCcBxms",
@@ -23675,7 +23759,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/J-txOd_LCQw/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "AOw92IxcsxI",
@@ -23691,7 +23775,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/AOw92IxcsxI/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+      },
+      {
+        "id": "YapYNk3ISpU",
+        "title": "Tere Bin Ep 20 - [Eng Sub] - Digitally Presented by Jhalak Beauty Cream - Yumna Zaidi - Wahaj Ali",
+        "episode": 20,
+        "date": "2023-03-02",
+        "published": "2023-03-02T16:01:16Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/YapYNk3ISpU/hqdefault.jpg",
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "Hco4Ppiu6y8",
@@ -23707,7 +23807,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Hco4Ppiu6y8/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "l56fUioPRBg",
@@ -23723,7 +23823,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/l56fUioPRBg/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "EtuJ1V_QpDA",
@@ -23739,7 +23839,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/EtuJ1V_QpDA/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "_QcYRTPexTU",
@@ -23755,7 +23855,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_QcYRTPexTU/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "Jo9iTnvkiy8",
@@ -23771,7 +23871,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Jo9iTnvkiy8/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "wDOvlUC3i-g",
@@ -23787,7 +23887,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wDOvlUC3i-g/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "YDmxNgXvSW8",
@@ -23803,7 +23903,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/YDmxNgXvSW8/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "ui3ApOB2jfI",
@@ -23819,7 +23919,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ui3ApOB2jfI/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "qJ-OBntrIqc",
@@ -23835,7 +23935,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/qJ-OBntrIqc/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "RilczE2ToBc",
@@ -23851,7 +23951,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/RilczE2ToBc/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "ufdD9nZtgbw",
@@ -23883,7 +23983,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-HiIVL0EOS4/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "vbtPhGeShQQ",
@@ -23899,7 +23999,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vbtPhGeShQQ/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "zmFygS2oGkw",
@@ -23915,7 +24015,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zmFygS2oGkw/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "GzYVAZaJ71M",
@@ -23947,7 +24047,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/hmZlUfGtbJo/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "wykbxHM2Ch4",
@@ -23963,7 +24063,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wykbxHM2Ch4/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       }
     ]
   },
@@ -23983,7 +24083,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5L72m71en8k/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       }
     ]
   },
@@ -24003,7 +24103,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pDRBv-wvO-4/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "8d6W5RA0al8",
@@ -24019,7 +24119,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8d6W5RA0al8/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "4ntSDSX1uPU",
@@ -24035,7 +24135,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4ntSDSX1uPU/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "-RPvJrg0NY4",
@@ -24131,7 +24231,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GIsj3E0DbCM/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "MFmedlCpdaw",
@@ -24211,7 +24311,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iin7l6zBTzs/hqdefault.jpg",
-        "checkedAt": "2026-10-15T03:52:08.158988+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "rhwnQRkOZYI",
@@ -24227,7 +24327,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rhwnQRkOZYI/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "tXmlldvBMhA",
@@ -24243,7 +24343,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/tXmlldvBMhA/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "WTSJO4szKa0",
@@ -24259,7 +24359,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/WTSJO4szKa0/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "sVNwD1J-mR0",
@@ -24275,7 +24375,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/sVNwD1J-mR0/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "dRuuG9pogoY",
@@ -24291,7 +24391,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dRuuG9pogoY/hqdefault.jpg",
-        "checkedAt": "2026-10-15T03:52:08.158988+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "0dR9iQBEEto",
@@ -24307,7 +24407,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0dR9iQBEEto/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "RsbRhTYN5EY",
@@ -24323,7 +24423,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/RsbRhTYN5EY/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "hsVk8hqoaUc",
@@ -24339,7 +24439,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/hsVk8hqoaUc/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "5rTPE3BoiUc",
@@ -24355,7 +24455,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5rTPE3BoiUc/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "UbjnH1yARsE",
@@ -24371,7 +24471,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UbjnH1yARsE/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "hcUb-KOIBEg",
@@ -24387,7 +24487,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/hcUb-KOIBEg/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "4v0LK0LyiHE",
@@ -24403,7 +24503,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4v0LK0LyiHE/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "vUa2tXdw0D0",
@@ -24419,7 +24519,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vUa2tXdw0D0/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "RwKre_Zz_vQ",
@@ -24435,7 +24535,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/RwKre_Zz_vQ/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "gzyVALDCGfQ",
@@ -24451,7 +24551,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/gzyVALDCGfQ/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "7fjzRaH3wfw",
@@ -24467,7 +24567,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7fjzRaH3wfw/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "TkWkEUy7_Co",
@@ -24483,7 +24583,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TkWkEUy7_Co/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "eB7hvVH-rpE",
@@ -24499,7 +24599,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/eB7hvVH-rpE/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "Td-09uci4NM",
@@ -24515,7 +24615,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Td-09uci4NM/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "SdydH3Wskcw",
@@ -24531,7 +24631,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SdydH3Wskcw/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "RV-YXQOvgp4",
@@ -24547,7 +24647,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/RV-YXQOvgp4/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "pY5CMhN8Aew",
@@ -24563,7 +24663,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pY5CMhN8Aew/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       }
     ]
   },
@@ -24583,7 +24683,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TurBvNv76Q4/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "9h9s0_N8t7k",
@@ -24599,7 +24699,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9h9s0_N8t7k/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "2RTSC5d00nY",
@@ -24615,7 +24715,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2RTSC5d00nY/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "ZI5gw-Ds0fY",
@@ -24647,7 +24747,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/NUPbpxz2aZo/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "RqXSNZXQoJU",
@@ -24679,7 +24779,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vO201gKf9bA/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "BPkSUt7Mk00",
@@ -24711,7 +24811,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/gCD6O_TbRSc/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "6pIE6t8idjA",
@@ -24743,7 +24843,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ugdtDrGeKd4/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "3pVo5XtbTzM",
@@ -24759,7 +24859,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3pVo5XtbTzM/hqdefault.jpg",
-        "checkedAt": "2026-10-15T03:52:08.158988+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "YUZl4qyEnqM",
@@ -24775,7 +24875,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/YUZl4qyEnqM/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "JkqYQovN7OQ",
@@ -24791,7 +24891,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/JkqYQovN7OQ/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "xM0JKFoZUNc",
@@ -24807,7 +24907,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xM0JKFoZUNc/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "wXu-R2kav1k",
@@ -24823,7 +24923,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wXu-R2kav1k/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "src_q3AFdVg",
@@ -24839,7 +24939,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/src_q3AFdVg/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "t51CanCBsI4",
@@ -24855,7 +24955,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/t51CanCBsI4/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "zoUKb2LYJ3g",
@@ -24871,7 +24971,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zoUKb2LYJ3g/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "yQlwUJtDgtM",
@@ -24887,7 +24987,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yQlwUJtDgtM/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "xk1lnankI0k",
@@ -24919,7 +25019,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fILeULGm4rk/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "OxJb2FEPMxo",
@@ -24935,7 +25035,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OxJb2FEPMxo/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "f1uhca66AQA",
@@ -24951,7 +25051,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/f1uhca66AQA/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "ndvfaKK2ITs",
@@ -24967,7 +25067,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ndvfaKK2ITs/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       },
       {
         "id": "Gt4TXp44dGY",
@@ -24983,7 +25083,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Gt4TXp44dGY/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
+        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
       }
     ]
   },
@@ -33591,107 +33691,55 @@
       }
     ]
   },
-  "arydigital-hey-fam": {
+  "harpalgeo-khafa": {
     "episodes": [
       {
-        "id": "fL5lA6STcb8",
-        "title": "Hey Fam | EP  10 | 15 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ENG SUB | ARY Digital",
-        "episode": 10,
-        "date": "2026-10-15",
-        "published": "2026-10-15T16:00:12Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/fL5lA6STcb8/hqdefault.jpg",
-        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
-      },
-      {
-        "id": "8N6zIC3KIY8",
-        "title": "Hey Fam Episode 7 | Emotional Moments | Dua Zahra | ARY Digital",
-        "episode": 7,
-        "date": "2026-10-15",
-        "published": "2026-10-15T11:00:17Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
+        "id": "aD6aT1uLd-U",
+        "title": "Khafa Episode 23 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 21st Oct 2026 | HAR PAL GEO",
+        "episode": 23,
+        "date": "2026-10-21",
+        "published": "2026-10-21T16:00:20Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
         "sourceType": "youtube_api",
         "kind": "youtube",
         "embeddable": true,
         "availableGB": true,
         "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/8N6zIC3KIY8/hqdefault.jpg",
-        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
+        "thumbnail": "https://i.ytimg.com/vi/aD6aT1uLd-U/hqdefault.jpg",
+        "checkedAt": "2026-10-22T01:02:25.930340+00:00"
       },
       {
-        "id": "AGEGDHZ2bBc",
-        "title": "Sirf Dosti Nahi Shadi Karni Hai Mujhe | Hey Fam Episode 7 | ARY Digital",
-        "episode": 7,
+        "id": "2hMkdgRZ2uk",
+        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 22,
         "date": "2026-10-15",
-        "published": "2026-10-15T09:44:40Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
+        "published": "2026-10-15T19:30:38Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
         "sourceType": "youtube_api",
         "kind": "youtube",
         "embeddable": true,
         "availableGB": true,
         "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/AGEGDHZ2bBc/hqdefault.jpg",
-        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
-      }
-    ]
-  },
-  "arydigital-main-tera": {
-    "episodes": [
-      {
-        "id": "I5gDYGVf4l0",
-        "title": "Main Tera 2nd Last Episode 64 | 20 October 2026 | Ghana Ali | Yusra Irfan | Arez Ahmed | ARY Digital",
-        "episode": 64,
-        "date": "2026-10-20",
-        "published": "2026-10-20T17:00:26Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/I5gDYGVf4l0/hqdefault.jpg",
-        "checkedAt": "2026-10-21T22:11:59.697806+00:00"
+        "thumbnail": "https://i.ytimg.com/vi/2hMkdgRZ2uk/hqdefault.jpg",
+        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
       },
       {
-        "id": "OErakyu1-A4",
-        "title": "Main Tera Episode 59 | Best Moment | ARY Digital",
-        "episode": 59,
+        "id": "pWw8tWkPReA",
+        "title": "Khafa Episode 22 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 15th Oct 2026 | HAR PAL GEO",
+        "episode": 22,
         "date": "2026-10-15",
-        "published": "2026-10-15T11:10:24Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
+        "published": "2026-10-15T16:00:36Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
         "sourceType": "youtube_api",
         "kind": "youtube",
         "embeddable": true,
         "availableGB": true,
         "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/OErakyu1-A4/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
-      },
-      {
-        "id": "becjUcBHoMI",
-        "title": "Main Ab Is Ghar Mai Nahi Rahungi | Main Tera Episode 56 | Yusra Irfan | ARY Digital",
-        "episode": 56,
-        "date": "2026-10-15",
-        "published": "2026-10-15T12:50:20Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/becjUcBHoMI/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+        "thumbnail": "https://i.ytimg.com/vi/pWw8tWkPReA/hqdefault.jpg",
+        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
       }
     ]
   },
