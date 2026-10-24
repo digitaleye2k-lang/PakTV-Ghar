@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-23T21:49:33.390801+00:00",
+  "generatedAt": "2026-10-24T01:09:03.548062+00:00",
   "dateTimezone": "UTC",
-  "cursor": 67,
+  "cursor": 1,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -154,42 +154,42 @@
       "uploadsId": "UUJEGvNxXunjqrcd2Xg9ntMQ",
       "handle": "KunFoods",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-23T03:52:55.755617+00:00"
+      "lastFetchedAt": "2026-10-24T01:09:03.548062+00:00"
     },
     "kitchenamna": {
       "youtubeId": "UCQ2P7C8UGoVM6AhqsVx-M0Q",
       "uploadsId": "UUQ2P7C8UGoVM6AhqsVx-M0Q",
       "handle": "KitchenWithAmna",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-23T03:52:55.755617+00:00"
+      "lastFetchedAt": "2026-10-24T01:09:03.548062+00:00"
     },
     "geoclassics": {
       "youtubeId": "UCLUfX9--VscMEKnIE6thhbg",
       "uploadsId": "UULUfX9--VscMEKnIE6thhbg",
       "handle": "GeoNewsClassics",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-23T03:52:55.755617+00:00"
+      "lastFetchedAt": "2026-10-24T01:09:03.548062+00:00"
     },
     "wildlens": {
       "youtubeId": "UCf1XIplYiqNv9baGsFHwPPQ",
       "uploadsId": "UUf1XIplYiqNv9baGsFHwPPQ",
       "handle": "WildLensByAbrar",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-23T03:52:55.755617+00:00"
+      "lastFetchedAt": "2026-10-24T01:09:03.548062+00:00"
     },
     "ruby": {
       "youtubeId": "UCMhx-uS3O-G_6_lTrYmDKLw",
       "uploadsId": "UUMhx-uS3O-G_6_lTrYmDKLw",
       "handle": "RubyKaKitchen",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-23T03:52:55.755617+00:00"
+      "lastFetchedAt": "2026-10-24T01:09:03.548062+00:00"
     },
     "ijazfood": {
       "youtubeId": "UCc1BSASBDsE_XYOTxD9SNmA",
       "uploadsId": "UUc1BSASBDsE_XYOTxD9SNmA",
       "handle": "IjazAnsariFoodSecrets",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-23T07:06:01.071276+00:00"
+      "lastFetchedAt": "2026-10-24T01:09:03.548062+00:00"
     },
     "greentv": {
       "youtubeId": "UCF2ltLX1dnPa6-L1paPaMzw",
@@ -371,7 +371,7 @@
       "uploadsId": "UUM1VesJtJ9vTXcMLLr_FfdQ",
       "handle": "cokestudio",
       "checkedAt": "2026-10-18T19:46:24.753696+00:00",
-      "lastFetchedAt": "2026-10-23T07:06:01.071276+00:00"
+      "lastFetchedAt": "2026-10-24T01:09:03.548062+00:00"
     },
     "emipakistan": {
       "youtubeId": "UC52h_LCatoUs6ycLjT9V8bQ",
@@ -399,7 +399,7 @@
       "uploadsId": "UU6s1zz1-t7rPf-4scKVYD8g",
       "handle": "Jaubi",
       "checkedAt": "2026-10-18T20:04:20.517484+00:00",
-      "lastFetchedAt": "2026-10-23T21:49:33.390801+00:00"
+      "lastFetchedAt": "2026-10-24T01:09:03.548062+00:00"
     },
     "atifs": {
       "youtubeId": "UC3FnOdo2ooBS4TrEcmwUR_Q",
@@ -2797,6 +2797,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "q-0iOzkxero",
+      "title": "2011 World Cup fixture - Shahid Afridi speaks up about Jirga Cotroversy   Geo Podcast",
+      "channel": "Geo Classics",
+      "channelId": "geoclassics",
+      "youtubeChannelId": "UCLUfX9--VscMEKnIE6thhbg",
+      "category": "comedy",
+      "genre": "Comedy & satire",
+      "date": "2026-10-23",
+      "published": "2026-10-23T16:00:16Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 246,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/q-0iOzkxero/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "AKcbbUIuzJs",
       "title": "Hum Bhi Ji Lain Episode 16 | 23rd OCT 2026 | Yasir Nawaz | Faiza Hassan | Express Ent",
       "channel": "Express TV",
@@ -3208,6 +3226,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/AgMatcEvezw/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "y1I64rEb__Y",
+      "title": "Shahid Afridi vision for his grandson's future  #geopodcast #shahidafridi #imrankhan #shorts",
+      "channel": "Geo Classics",
+      "channelId": "geoclassics",
+      "youtubeChannelId": "UCLUfX9--VscMEKnIE6thhbg",
+      "category": "comedy",
+      "genre": "Comedy & satire",
+      "date": "2026-10-23",
+      "published": "2026-10-23T15:30:07Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 131,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/y1I64rEb__Y/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -3676,6 +3712,24 @@
       "availablePK": false,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/vU-qYlSiZ2g/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "ua4Mp0lWGAU",
+      "title": "Gautam Gambhir ko Shahid Afridi se kya masla hai - Geo Podcast with Mubashir Hashmi",
+      "channel": "Geo Classics",
+      "channelId": "geoclassics",
+      "youtubeChannelId": "UCLUfX9--VscMEKnIE6thhbg",
+      "category": "comedy",
+      "genre": "Comedy & satire",
+      "date": "2026-10-23",
+      "published": "2026-10-23T15:00:17Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 232,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/ua4Mp0lWGAU/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -72313,6 +72367,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "gWaiQ26mDoQ",
+      "title": "Potato Snacks Recipe By ijaz Ansari | Aloo Ki Tikki | Egg Snacks | Homemade Easy Snacks |",
+      "channel": "Ijaz Ansari Food Secrets",
+      "channelId": "ijazfood",
+      "youtubeChannelId": "UCc1BSASBDsE_XYOTxD9SNmA",
+      "category": "vloggers",
+      "genre": "Food & recipes",
+      "date": "2026-09-16",
+      "published": "2026-09-16T02:00:16Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 489,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/gWaiQ26mDoQ/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "RF4Mh0uksC0",
       "title": "Coke Studio Nu.WAV Session ft Afusic x Ali Soomro",
       "channel": "Coke Studio Pakistan",
@@ -72329,6 +72401,24 @@
       "embeddable": false,
       "thumbnail": "https://i.ytimg.com/vi/RF4Mh0uksC0/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "DGkWcFPRZu4",
+      "title": "ZABATA (1993) Full Movie | Sultan Rahi & Babra Sharif | Classic Pakistani Film",
+      "channel": "MovieboxMovies",
+      "channelId": "movieboxmovies",
+      "youtubeChannelId": "UC8Artr_jqToYkRKjgjhezmw",
+      "category": "movies",
+      "genre": "Classic Pakistani Movies",
+      "date": "2026-09-11",
+      "published": "2026-09-11T14:00:28Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 7763,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/DGkWcFPRZu4/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "LhnAsHYP010",
@@ -72367,24 +72457,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "VMhPE9PVeKU",
-      "title": "DIL LAGI - FULL MOVIE | MEHWISH HAYAT | HUMAYUN SAEED | ARY FILMS",
-      "channel": "ARY Films",
-      "channelId": "aryfilms",
-      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
-      "category": "movies",
-      "genre": "Pakistani films & TV movies",
-      "date": "2026-09-06",
-      "published": "2026-09-06T15:00:16Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 8721,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/VMhPE9PVeKU/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
-    },
-    {
       "id": "4ZjVJ7xDYHo",
       "title": "A Heartfelt Tribute to Pakistan Army | Ae Watan Ke Sajeele Jawano | Defence Day",
       "channel": "EMI Pakistan",
@@ -72419,24 +72491,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/e-1zjovjWiA/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "qHaUmAGJl0s",
-      "title": "NEELI ZINDA HAI - FULL MOVIE | URWA HOCANE | MOHIB MIRZA | SONIA MISHAL | ARY FILMS",
-      "channel": "ARY Films",
-      "channelId": "aryfilms",
-      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
-      "category": "movies",
-      "genre": "Pakistani films & TV movies",
-      "date": "2026-08-23",
-      "published": "2026-08-23T15:00:34Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 8801,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/qHaUmAGJl0s/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "4o5508kTdT8",
@@ -72491,24 +72545,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/55ORabmXir8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "XfeZyz2Y2tM",
-      "title": "PARWARISH - FULL MOVIE | SAMAR JAFRI | AINA ASIF | ARY FILMS",
-      "channel": "ARY Films",
-      "channelId": "aryfilms",
-      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
-      "category": "movies",
-      "genre": "Pakistani films & TV movies",
-      "date": "2026-07-19",
-      "published": "2026-07-19T15:00:09Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 8877,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/XfeZyz2Y2tM/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "_vMrPyWJY28",
@@ -73717,24 +73753,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "db-ee9yNMIg",
-      "title": "MERI ZINDAGI HAI TU - FULL MOVIE | HANIA AAMIR | BILAL ABBAS | ARY FILMS",
-      "channel": "ARY Films",
-      "channelId": "aryfilms",
-      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
-      "category": "movies",
-      "genre": "Pakistani films & TV movies",
-      "date": "2026-05-10",
-      "published": "2026-05-10T16:01:03Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 8842,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/db-ee9yNMIg/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
-    },
-    {
       "id": "IvZPdew21A4",
       "title": "Chhalla Pa De Ranjhan | Noor Jehan | @EMIPakistanOfficial",
       "channel": "EMI Pakistan",
@@ -74491,24 +74509,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "qcgpME7M4As",
-      "title": "RADD - FULL MOVIE | SHEHERYAR MUNAWAR | HIBA BUKHARI | ARY FILMS",
-      "channel": "ARY Films",
-      "channelId": "aryfilms",
-      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
-      "category": "movies",
-      "genre": "Pakistani films & TV movies",
-      "date": "2026-01-25",
-      "published": "2026-01-25T15:01:32Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 9433,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/qcgpME7M4As/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
-    },
-    {
       "id": "-x_D1J-20S8",
       "title": "Ulfat - SEHER, Abdul Hannan, & Shahmeer Raza Khan (Official Audio)",
       "channel": "Abdul Hannan",
@@ -75191,24 +75191,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/jSGjrLZq2mo/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "frs0YZE1CH4",
-      "title": "Cake (Full Pakistani Movie) | Oscar Nominated Drama | Aamina Sheikh & Sanam Saeed",
-      "channel": "MovieboxMovies",
-      "channelId": "movieboxmovies",
-      "youtubeChannelId": "UC8Artr_jqToYkRKjgjhezmw",
-      "category": "movies",
-      "genre": "Classic Pakistani Movies",
-      "date": "2025-02-16",
-      "published": "2025-02-16T06:48:02Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 7538,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/frs0YZE1CH4/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "_wJUiI-QrxE",
@@ -77243,6 +77225,24 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/uESo-j31UX4/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "dRHQijfLymE",
+      "title": "Phool Mere Gulshan Ka (1974) – Mohammad Ali, Zeba, Waheed Murad, Nisho | Full Pakistani Movie",
+      "channel": "LollywoodCinema",
+      "channelId": "lollywoodcinema",
+      "youtubeChannelId": "UCMlGWm_woMhMcVYhJu8zsvA",
+      "category": "movies",
+      "genre": "Classic Pakistani Movies",
+      "date": "2022-10-06",
+      "published": "2022-10-06T08:00:11Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 7637,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/dRHQijfLymE/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "naGFRwzbKo0",
@@ -79639,6 +79639,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Junaid Akram: channel unavailable; Express News: channel unavailable",
+  "lastError": "Asad Toor: channel unavailable; Siddique Jaan: channel unavailable; HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
