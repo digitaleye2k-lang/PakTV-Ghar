@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T01:57:41.495878+05:00",
+  "generatedAt": "2026-10-26T04:20:38.933087+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -42,6 +42,13 @@
         "availableGB": false,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 24,
+        "time": "01:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-26"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -97,6 +104,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 24,
+        "time": "11:30",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-26"
       }
     },
     "hum-aangan": {
@@ -125,9 +139,9 @@
         "date": "2026-10-26"
       },
       "latestUpload": {
-        "number": 12,
-        "id": "aDKH2lDwjY0",
-        "title": "Bano Episode 12 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "number": 13,
+        "id": "Ft8N6fW0NDw",
+        "title": "Bano Episode 13 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 25th October 2026 | HAR PAL GEO",
         "date": "2026-10-25",
         "source": "Official YouTube upload",
         "availableGB": true,

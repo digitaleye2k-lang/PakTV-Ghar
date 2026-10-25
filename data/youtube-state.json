@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-25",
-  "dailySearches": 32,
+  "dailySearches": 40,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -72,7 +72,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0Yif1LS-bT4/hqdefault.jpg",
-        "checkedAt": "2026-10-22T01:02:25.930340+00:00"
+        "checkedAt": "2026-10-25T23:20:05.142413+00:00"
       },
       {
         "id": "OgVDeLaWZwU",
@@ -88,7 +88,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OgVDeLaWZwU/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:20:21.512502+00:00"
+        "checkedAt": "2026-10-25T23:20:05.142413+00:00"
       },
       {
         "id": "-OSZ6BfKy8c",
@@ -33209,6 +33209,38 @@
     ],
     "harpalgeo-bano": [
       {
+        "id": "Ft8N6fW0NDw",
+        "title": "Bano Episode 13 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 25th October 2026 | HAR PAL GEO",
+        "episode": 13,
+        "date": "2026-10-25",
+        "published": "2026-10-25T17:00:35Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Ft8N6fW0NDw/hqdefault.jpg",
+        "checkedAt": "2026-10-25T23:20:05.142413+00:00"
+      },
+      {
+        "id": "DMlPnlj4AC8",
+        "title": "Bano Episode 12 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 24th October 2026 | HAR PAL GEO",
+        "episode": 12,
+        "date": "2026-10-24",
+        "published": "2026-10-24T17:00:01Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/DMlPnlj4AC8/hqdefault.jpg",
+        "checkedAt": "2026-10-25T23:20:05.142413+00:00"
+      },
+      {
         "id": "3GsRhhcO-e8",
         "title": "Bano Episode 09 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 21st October 2026 | HAR PAL GEO",
         "episode": 9,
@@ -33290,6 +33322,22 @@
       }
     ],
     "harpalgeo-khafa": [
+      {
+        "id": "_mgVD-alezg",
+        "title": "Khafa Episode 24 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 24,
+        "date": "2026-10-23",
+        "published": "2026-10-23T10:00:25Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/_mgVD-alezg/hqdefault.jpg",
+        "checkedAt": "2026-10-25T23:20:05.142413+00:00"
+      },
       {
         "id": "aD6aT1uLd-U",
         "title": "Khafa Episode 23 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 21st Oct 2026 | HAR PAL GEO",
@@ -33514,6 +33562,6 @@
       }
     ]
   },
-  "cursor": 5,
+  "cursor": 9,
   "apiValidated": true
 }

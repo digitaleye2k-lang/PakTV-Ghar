@@ -158,14 +158,6 @@
         "date": "2026-10-25"
       },
       {
-        "title": "Zehar-e-Mohabbat - Episode 19 [Eng Sub] - 24th Oct 2026 - [ Zoha Tauqeer & Omer Shahzad ] HUM TV",
-        "episode": 19,
-        "id": "zivWlTzHTJs",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
         "id": "Alxhc4uy47Q",
         "title": "Zehar-e-Mohabbat - Episode 16 - [Eng Sub] 11th Oct 2026 - [ Zoha Tauqeer & Omer Shahzad ] HUM TV",
         "episode": 16,
@@ -208,22 +200,6 @@
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-10-25"
-      },
-      {
-        "title": "Izzat Episode 35 | 24 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 35,
-        "id": "9fB47_fsW-0",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Izzat Episode 35 | 24 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 35,
-        "id": "hL_j_0H2Ipo",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-24"
       },
       {
         "title": "Izzat Episode 34 | Best Moment | ARY Digital",
@@ -272,170 +248,6 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/2S5_eQI24A0/hqdefault.jpg",
         "checkedAt": "2026-10-15T21:49:22.372994+00:00"
-      }
-    ]
-  },
-  "arydigital-rutba": {
-    "episodes": [
-      {
-        "title": "Exclusive Chat with Zahid Ahmed | BUZZ - EP 78 | RUTBA | 24 October 2026 l",
-        "episode": 78,
-        "id": "7BgbbIvqUR4",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
-        "id": "QpzPYN2DuEg",
-        "title": "Rutba EP 2 | 12 Oct 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ENG SUB",
-        "episode": 2,
-        "date": "2026-10-12",
-        "published": "2026-10-12T16:00:08Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/QpzPYN2DuEg/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
-      }
-    ]
-  },
-  "arydigital-main-tera": {
-    "episodes": [
-      {
-        "id": "I5gDYGVf4l0",
-        "title": "Main Tera 2nd Last Episode 64 | 20 October 2026 | Ghana Ali | Yusra Irfan | Arez Ahmed | ARY Digital",
-        "episode": 64,
-        "date": "2026-10-20",
-        "published": "2026-10-20T17:00:26Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/I5gDYGVf4l0/hqdefault.jpg",
-        "checkedAt": "2026-10-21T22:11:59.697806+00:00"
-      },
-      {
-        "id": "K8pm_QfrBA0",
-        "title": "Warisha Ki Zindagi Ki Sabse Bari Ghalati | Main Tera Episode 63 | ARY Digital",
-        "episode": 63,
-        "date": "2026-10-24",
-        "published": "2026-10-24T17:40:32Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/K8pm_QfrBA0/hqdefault.jpg",
-        "checkedAt": "2026-10-25T20:56:53.845295+00:00"
-      },
-      {
-        "id": "Avk4V_zWFAs",
-        "title": "Warisha Ko Apni Hesiyat Pata Chal Gayi | Main Tera Episode 63  | ARY Digital",
-        "episode": 63,
-        "date": "2026-10-24",
-        "published": "2026-10-24T17:20:48Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Avk4V_zWFAs/hqdefault.jpg",
-        "checkedAt": "2026-10-25T20:56:53.845295+00:00"
-      },
-      {
-        "title": "Shohar Se Narazgi Khatam Kardo | Main Tera Episode 63 | ARY Digital",
-        "episode": 63,
-        "id": "nAYtoRa4eaQ",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
-        "id": "OErakyu1-A4",
-        "title": "Main Tera Episode 59 | Best Moment | ARY Digital",
-        "episode": 59,
-        "date": "2026-10-15",
-        "published": "2026-10-15T11:10:24Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/OErakyu1-A4/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
-      },
-      {
-        "id": "becjUcBHoMI",
-        "title": "Main Ab Is Ghar Mai Nahi Rahungi | Main Tera Episode 56 | Yusra Irfan | ARY Digital",
-        "episode": 56,
-        "date": "2026-10-15",
-        "published": "2026-10-15T12:50:20Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/becjUcBHoMI/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
-      }
-    ]
-  },
-  "arydigital-dar-e-nijaat": {
-    "episodes": [
-      {
-        "id": "X6qfF2t9fmQ",
-        "title": "Dar-e-Nijaat Episode 25 | 24 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
-        "episode": 25,
-        "date": "2026-10-24",
-        "published": "2026-10-24T16:00:25Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/X6qfF2t9fmQ/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
-      },
-      {
-        "title": "Dar-e-Nijaat Episode 25 | 24 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
-        "episode": 25,
-        "id": "XkJaGLV4el8",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
-        "id": "ebioxADOBOw",
-        "title": "Dar-e-Nijaat Episode 23 | 17 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
-        "episode": 23,
-        "date": "2026-10-17",
-        "published": "2026-10-17T16:00:39Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/ebioxADOBOw/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:21:13.629433+00:00"
       }
     ]
   },
@@ -504,14 +316,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ueuIIA0VN5k/hqdefault.jpg",
         "checkedAt": "2026-10-25T20:56:53.845295+00:00"
-      },
-      {
-        "title": "Seerat Aakhir Kab Tak Naraz Rahogi Mujhse | Hey Fam Episode 5 | ARY Digital",
-        "episode": 5,
-        "id": "Ry2t6x_NoyA",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-24"
       }
     ]
   },
@@ -621,14 +425,6 @@
         "title": "Uswah Episode 32 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
         "episode": 32,
         "id": "JBerBSZgEHo",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Uswah Episode 32 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 24th October 2026",
-        "episode": 32,
-        "id": "iZIdealp0j4",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-24"
@@ -910,22 +706,6 @@
         "date": "2026-10-24"
       },
       {
-        "title": "Nashtar Episode 23 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
-        "episode": 23,
-        "id": "RGY13TU3m9g",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Recap Nashtar Episode 22 - 24th October 2026 - Har Pal Geo",
-        "episode": 22,
-        "id": "zqZVZKCCiNg",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
         "id": "ZsWUGhmQ0bU",
         "title": "Nashtar Episode 18 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
         "episode": 18,
@@ -945,6 +725,22 @@
   },
   "harpalgeo-bano": {
     "episodes": [
+      {
+        "id": "Ft8N6fW0NDw",
+        "title": "Bano Episode 13 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 25th October 2026 | HAR PAL GEO",
+        "episode": 13,
+        "date": "2026-10-25",
+        "published": "2026-10-25T17:00:35Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Ft8N6fW0NDw/hqdefault.jpg",
+        "checkedAt": "2026-10-25T23:20:05.142413+00:00"
+      },
       {
         "title": "Bano Episode 12 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
         "episode": 12,
@@ -1010,20 +806,20 @@
         "date": "2026-10-25"
       },
       {
+        "id": "DMlPnlj4AC8",
         "title": "Bano Episode 12 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 24th October 2026 | HAR PAL GEO",
         "episode": 12,
-        "id": "DMlPnlj4AC8",
+        "date": "2026-10-24",
+        "published": "2026-10-24T17:00:01Z",
         "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
         "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Bano Episode 11 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 11,
-        "id": "JGOZ3LlNRx8",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-24"
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/DMlPnlj4AC8/hqdefault.jpg",
+        "checkedAt": "2026-10-25T23:20:05.142413+00:00"
       },
       {
         "id": "3GsRhhcO-e8",
@@ -1135,27 +931,23 @@
       }
     ]
   },
-  "arydigital-bulbulay": {
+  "arydigital-rutba": {
     "episodes": [
       {
-        "title": "Bulbulay Season 2 Episode 379 | 24 October 2026 | ARY Digital",
-        "episode": 379,
-        "id": "oSDXI0CmCyQ",
+        "id": "QpzPYN2DuEg",
+        "title": "Rutba EP 2 | 12 Oct 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ENG SUB",
+        "episode": 2,
+        "date": "2026-10-12",
+        "published": "2026-10-12T16:00:08Z",
         "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
         "kind": "youtube",
-        "date": "2026-10-24"
-      }
-    ]
-  },
-  "geonews-naya-pakistan": {
-    "episodes": [
-      {
-        "title": "Maryam Nawaz on Police Encounters! | CCD Official Accused in Alleged Rape Case | Naya Pakistan",
-        "episode": null,
-        "id": "2WJ0NKl0hWI",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-24"
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/QpzPYN2DuEg/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
       }
     ]
   },
@@ -1175,7 +967,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0Yif1LS-bT4/hqdefault.jpg",
-        "checkedAt": "2026-10-22T01:02:25.930340+00:00"
+        "checkedAt": "2026-10-25T23:20:05.142413+00:00"
       },
       {
         "id": "OgVDeLaWZwU",
@@ -1191,7 +983,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OgVDeLaWZwU/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:20:21.512502+00:00"
+        "checkedAt": "2026-10-25T23:20:05.142413+00:00"
       },
       {
         "id": "-OSZ6BfKy8c",
@@ -33975,8 +33767,108 @@
       }
     ]
   },
+  "arydigital-main-tera": {
+    "episodes": [
+      {
+        "id": "I5gDYGVf4l0",
+        "title": "Main Tera 2nd Last Episode 64 | 20 October 2026 | Ghana Ali | Yusra Irfan | Arez Ahmed | ARY Digital",
+        "episode": 64,
+        "date": "2026-10-20",
+        "published": "2026-10-20T17:00:26Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/I5gDYGVf4l0/hqdefault.jpg",
+        "checkedAt": "2026-10-21T22:11:59.697806+00:00"
+      },
+      {
+        "id": "K8pm_QfrBA0",
+        "title": "Warisha Ki Zindagi Ki Sabse Bari Ghalati | Main Tera Episode 63 | ARY Digital",
+        "episode": 63,
+        "date": "2026-10-24",
+        "published": "2026-10-24T17:40:32Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/K8pm_QfrBA0/hqdefault.jpg",
+        "checkedAt": "2026-10-25T20:56:53.845295+00:00"
+      },
+      {
+        "id": "Avk4V_zWFAs",
+        "title": "Warisha Ko Apni Hesiyat Pata Chal Gayi | Main Tera Episode 63  | ARY Digital",
+        "episode": 63,
+        "date": "2026-10-24",
+        "published": "2026-10-24T17:20:48Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Avk4V_zWFAs/hqdefault.jpg",
+        "checkedAt": "2026-10-25T20:56:53.845295+00:00"
+      },
+      {
+        "id": "OErakyu1-A4",
+        "title": "Main Tera Episode 59 | Best Moment | ARY Digital",
+        "episode": 59,
+        "date": "2026-10-15",
+        "published": "2026-10-15T11:10:24Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/OErakyu1-A4/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+      },
+      {
+        "id": "becjUcBHoMI",
+        "title": "Main Ab Is Ghar Mai Nahi Rahungi | Main Tera Episode 56 | Yusra Irfan | ARY Digital",
+        "episode": 56,
+        "date": "2026-10-15",
+        "published": "2026-10-15T12:50:20Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/becjUcBHoMI/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+      }
+    ]
+  },
   "harpalgeo-khafa": {
     "episodes": [
+      {
+        "id": "_mgVD-alezg",
+        "title": "Khafa Episode 24 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 24,
+        "date": "2026-10-23",
+        "published": "2026-10-23T10:00:25Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/_mgVD-alezg/hqdefault.jpg",
+        "checkedAt": "2026-10-25T23:20:05.142413+00:00"
+      },
       {
         "id": "aD6aT1uLd-U",
         "title": "Khafa Episode 23 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 21st Oct 2026 | HAR PAL GEO",
@@ -34136,6 +34028,42 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GYARaiI6JCo/hqdefault.jpg",
         "checkedAt": "2026-10-22T21:49:46.823165+00:00"
+      }
+    ]
+  },
+  "arydigital-dar-e-nijaat": {
+    "episodes": [
+      {
+        "id": "X6qfF2t9fmQ",
+        "title": "Dar-e-Nijaat Episode 25 | 24 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
+        "episode": 25,
+        "date": "2026-10-24",
+        "published": "2026-10-24T16:00:25Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/X6qfF2t9fmQ/hqdefault.jpg",
+        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+      },
+      {
+        "id": "ebioxADOBOw",
+        "title": "Dar-e-Nijaat Episode 23 | 17 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
+        "episode": 23,
+        "date": "2026-10-17",
+        "published": "2026-10-17T16:00:39Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/ebioxADOBOw/hqdefault.jpg",
+        "checkedAt": "2026-10-18T15:21:13.629433+00:00"
       }
     ]
   },
