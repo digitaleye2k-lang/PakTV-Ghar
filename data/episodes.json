@@ -2,12 +2,20 @@
   "hum-khushi": {
     "episodes": [
       {
-        "title": "Khushi - Episode 41 Highlights - 24th Oct 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
-        "episode": 41,
-        "id": "UvQRqbT5uvY",
+        "title": "Khushi - Episode 43 - [ENG SUB] 25th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 43,
+        "id": "xWes3sjnCTQ",
         "source": "HUM TV",
         "kind": "youtube",
-        "date": "2026-10-24"
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Khushi - Episode 42 Highlights - 25th Oct 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
+        "episode": 42,
+        "id": "Y1aZTaFsVZA",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-25"
       },
       {
         "id": "L2jN_CghoOM",
@@ -91,39 +99,147 @@
       }
     ]
   },
+  "hum-aangan": {
+    "episodes": [
+      {
+        "title": "Aangan - Episode 08 - Highlights [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
+        "episode": 8,
+        "id": "S8CI4S0Ml0o",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "id": "K1SHRLAXBuE",
+        "title": "Aangan - Episode 04 - Highlight [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
+        "episode": 4,
+        "date": "2026-10-11",
+        "published": "2026-10-11T13:00:33Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/K1SHRLAXBuE/hqdefault.jpg",
+        "checkedAt": "2026-10-16T07:05:15.775682+00:00"
+      }
+    ]
+  },
+  "hum-mohabbat-mukhtasir": {
+    "episodes": [
+      {
+        "title": "Mohabbat Mukhtasir - [ ENG SUB ] Episode 05 - 25th Oct 2026 - [ Usama Khan & Madiha Imam ] HUM TV",
+        "episode": 5,
+        "id": "Zc_69zANejo",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Mohabbat Mukhtasir - Flashback Episode 04 - Oct 2026 - [ Usama Khan & Madiha Imam ] HUM TV",
+        "episode": 4,
+        "id": "D4_kiPS6gdE",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      }
+    ]
+  },
+  "hum-zehar-e-mohabbat": {
+    "episodes": [
+      {
+        "title": "Zehar-e-Mohabbat - Episode 19 Highlights - Oct 2026 - [ Zoha Tauqeer & Omer Shahzad ] HUM TV",
+        "episode": 19,
+        "id": "vYek_1nd65A",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Zehar-e-Mohabbat - Episode 19 [Eng Sub] - 24th Oct 2026 - [ Zoha Tauqeer & Omer Shahzad ] HUM TV",
+        "episode": 19,
+        "id": "zivWlTzHTJs",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "id": "Alxhc4uy47Q",
+        "title": "Zehar-e-Mohabbat - Episode 16 - [Eng Sub] 11th Oct 2026 - [ Zoha Tauqeer & Omer Shahzad ] HUM TV",
+        "episode": 16,
+        "date": "2026-10-11",
+        "published": "2026-10-11T17:00:37Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Alxhc4uy47Q/hqdefault.jpg",
+        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
+      }
+    ]
+  },
   "arydigital-izzat": {
     "episodes": [
       {
-        "title": "Izzat Episode 33 | Best Moment | ARY Digital",
-        "episode": 33,
-        "id": "kUOFU18z6Dg",
+        "title": "Izzat Episode 36 | 25 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 36,
+        "id": "0c5lfnA8mLU",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Izzat Episode 36 | 25 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 36,
+        "id": "rblILDtFKz0",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Izzat Episode 35 | BEST SCENE | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 35,
+        "id": "iqltwGl6RWY",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Izzat Episode 35 | 24 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 35,
+        "id": "9fB47_fsW-0",
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-10-24"
       },
       {
-        "title": "Izzat Episode 33 | Unforgettable Scene | ARY Digital",
-        "episode": 33,
-        "id": "cbjI76tfbhs",
+        "title": "Izzat Episode 35 | 24 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 35,
+        "id": "hL_j_0H2Ipo",
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-10-24"
       },
       {
-        "title": "Izzat Episode 33 | Emotional Scene | ARY Digital",
-        "episode": 33,
-        "id": "-fiwKwmyoco",
+        "title": "Izzat Episode 34 | Best Moment | ARY Digital",
+        "episode": 34,
+        "id": "RsmmhNV5sps",
         "source": "ARY Digital",
         "kind": "youtube",
-        "date": "2026-10-24"
+        "date": "2026-10-25"
       },
       {
-        "title": "Izzat Episode 33 | Best Scene | ARY Digital",
-        "episode": 33,
-        "id": "gudWYQZQ7U8",
+        "title": "Izzat Episode 34 | Best Scene | ARY Digital",
+        "episode": 34,
+        "id": "vHVWqehHd7M",
         "source": "ARY Digital",
         "kind": "youtube",
-        "date": "2026-10-24"
+        "date": "2026-10-25"
       },
       {
         "id": "Thu_M83L190",
@@ -159,6 +275,34 @@
       }
     ]
   },
+  "arydigital-rutba": {
+    "episodes": [
+      {
+        "title": "Exclusive Chat with Zahid Ahmed | BUZZ - EP 78 | RUTBA | 24 October 2026 l",
+        "episode": 78,
+        "id": "7BgbbIvqUR4",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "id": "QpzPYN2DuEg",
+        "title": "Rutba EP 2 | 12 Oct 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ENG SUB",
+        "episode": 2,
+        "date": "2026-10-12",
+        "published": "2026-10-12T16:00:08Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/QpzPYN2DuEg/hqdefault.jpg",
+        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+      }
+    ]
+  },
   "arydigital-main-tera": {
     "episodes": [
       {
@@ -178,17 +322,41 @@
         "checkedAt": "2026-10-21T22:11:59.697806+00:00"
       },
       {
-        "title": "Apni Ghalati Per Bohat Pachtawa Hai Mujhe | Main Tera Episode 63 | ARY Dighital",
+        "id": "K8pm_QfrBA0",
+        "title": "Warisha Ki Zindagi Ki Sabse Bari Ghalati | Main Tera Episode 63 | ARY Digital",
         "episode": 63,
-        "id": "WEXMMDYvHmE",
+        "date": "2026-10-24",
+        "published": "2026-10-24T17:40:32Z",
         "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
         "kind": "youtube",
-        "date": "2026-10-24"
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/K8pm_QfrBA0/hqdefault.jpg",
+        "checkedAt": "2026-10-25T20:56:53.845295+00:00"
       },
       {
-        "title": "Mujhe Khonay Ke Baad Bohat Pachtaoge | Main Tera Episode 63 | ARY Digital",
+        "id": "Avk4V_zWFAs",
+        "title": "Warisha Ko Apni Hesiyat Pata Chal Gayi | Main Tera Episode 63  | ARY Digital",
         "episode": 63,
-        "id": "wuk6-vmYmoc",
+        "date": "2026-10-24",
+        "published": "2026-10-24T17:20:48Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Avk4V_zWFAs/hqdefault.jpg",
+        "checkedAt": "2026-10-25T20:56:53.845295+00:00"
+      },
+      {
+        "title": "Shohar Se Narazgi Khatam Kardo | Main Tera Episode 63 | ARY Digital",
+        "episode": 63,
+        "id": "nAYtoRa4eaQ",
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-10-24"
@@ -224,6 +392,50 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/becjUcBHoMI/hqdefault.jpg",
         "checkedAt": "2026-10-16T00:59:10.857630+00:00"
+      }
+    ]
+  },
+  "arydigital-dar-e-nijaat": {
+    "episodes": [
+      {
+        "id": "X6qfF2t9fmQ",
+        "title": "Dar-e-Nijaat Episode 25 | 24 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
+        "episode": 25,
+        "date": "2026-10-24",
+        "published": "2026-10-24T16:00:25Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/X6qfF2t9fmQ/hqdefault.jpg",
+        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+      },
+      {
+        "title": "Dar-e-Nijaat Episode 25 | 24 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
+        "episode": 25,
+        "id": "XkJaGLV4el8",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "id": "ebioxADOBOw",
+        "title": "Dar-e-Nijaat Episode 23 | 17 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
+        "episode": 23,
+        "date": "2026-10-17",
+        "published": "2026-10-17T16:00:39Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/ebioxADOBOw/hqdefault.jpg",
+        "checkedAt": "2026-10-18T15:21:13.629433+00:00"
       }
     ]
   },
@@ -278,9 +490,25 @@
         "checkedAt": "2026-10-15T21:49:22.372994+00:00"
       },
       {
-        "title": "Shadi Ke Liye Larki Pasand Kyun Nahi Ki | Hey Fam Episode 5 | ARY Digital",
+        "id": "ueuIIA0VN5k",
+        "title": "Is Mushkil Waqt Mai Tumhare Baba Tumhare Saath Hain | Hey Fam Episode 5 | ARY Digital",
         "episode": 5,
-        "id": "4X6hcmasB90",
+        "date": "2026-10-24",
+        "published": "2026-10-24T18:40:00Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ueuIIA0VN5k/hqdefault.jpg",
+        "checkedAt": "2026-10-25T20:56:53.845295+00:00"
+      },
+      {
+        "title": "Seerat Aakhir Kab Tak Naraz Rahogi Mujhse | Hey Fam Episode 5 | ARY Digital",
+        "episode": 5,
+        "id": "Ry2t6x_NoyA",
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-10-24"
@@ -290,53 +518,117 @@
   "arydigital-lagan-lagi": {
     "episodes": [
       {
-        "title": "Mere Sath Chalo ❤️😍 | Lagan Lagi Episode 1",
-        "episode": 1,
-        "id": "_hL5O1UHwlc",
+        "title": "Lagan Lagi Episode 2 | Best Moment | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 2,
+        "id": "f_oyHS8UvDs",
         "source": "ARY Digital",
         "kind": "youtube",
-        "date": "2026-10-24"
+        "date": "2026-10-25"
       },
       {
-        "title": "Lagan Lagi Episode 1 | Best Scene | ARY Digital",
-        "episode": 1,
-        "id": "9y1U_JoAtyI",
+        "title": "Lagan Lagi Episode 2 | Best Scene | Hina Chaudhary | ARY Digital",
+        "episode": 2,
+        "id": "vKjlLE4JP8A",
         "source": "ARY Digital",
         "kind": "youtube",
-        "date": "2026-10-24"
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Tumhari Shaadi Kisi Aur Se Nahi Hone Dunga | Lagan Lagi Episode 2",
+        "episode": 2,
+        "id": "424fArzbs4k",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Mubarak Ho, Tumhara Rishta Aaya Hai! 🫨 | Lagan Lagi Episode 2",
+        "episode": 2,
+        "id": "Fi3r8x4PD6E",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-25"
       }
     ]
   },
   "harpalgeo-uswa": {
     "episodes": [
       {
+        "title": "Uswah Episode 33 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 25th October 2026",
+        "episode": 33,
+        "id": "CnE1PAh7aGA",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Uswah Episode 32 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 32,
+        "id": "o-0X3tKgx-U",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Uswah Episode 32 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 32,
+        "id": "-eLTXyco_TU",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Uswah Episode 32 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 32,
+        "id": "SKt4ZKiBWm0",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Uswah Episode 32 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 32,
+        "id": "1AQVVbtlvcI",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Uswah Episode 32 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 32,
+        "id": "LlS4z1tgTdE",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Uswah Episode 32 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 32,
+        "id": "fZgG-ot2aB0",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Uswah Episode 32 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 32,
+        "id": "J9uw5xnKQvA",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Uswah Episode 32 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 32,
+        "id": "JBerBSZgEHo",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
         "title": "Uswah Episode 32 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 24th October 2026",
         "episode": 32,
         "id": "iZIdealp0j4",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Uswah Episode 31 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 31,
-        "id": "c6zeLCaSE8I",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Uswah Episode 31 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 31,
-        "id": "jhNkiXYG8kg",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Uswah Episode 31 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 31,
-        "id": "V2YudWqBNHQ",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-24"
@@ -538,41 +830,97 @@
   "harpalgeo-nashtar": {
     "episodes": [
       {
+        "title": "Nashtar Episode 24 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
+        "episode": 24,
+        "id": "N9D72GXB_2Q",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Recap Nashtar Episode 23 - 25th October 2026 - Har Pal Geo",
+        "episode": 23,
+        "id": "CzXq404gsWY",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Nashtar Episode 23 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 23,
+        "id": "vqmhs-nEnJQ",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Nashtar Episode 23 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 23,
+        "id": "aK2hdovdjr0",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Nashtar Episode 23 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 23,
+        "id": "xftDJDUWYaQ",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Nashtar Episode 23 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 23,
+        "id": "5HB2-k1BKNc",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Nashtar Episode 23 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 23,
+        "id": "qQH0rbn6NC0",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Nashtar Episode 23 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 23,
+        "id": "a3tdHNO2FLM",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Nashtar Episode 23 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 23,
+        "id": "I2QXzvOvvAE",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Nashtar Episode 23 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 23,
+        "id": "RslIB1561c8",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Nashtar Episode 23 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
+        "episode": 23,
+        "id": "RGY13TU3m9g",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
         "title": "Recap Nashtar Episode 22 - 24th October 2026 - Har Pal Geo",
         "episode": 22,
         "id": "zqZVZKCCiNg",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Nashtar Episode 22 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
-        "episode": 22,
-        "id": "VTcihQoBz_Y",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Nashtar Episode 22 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
-        "episode": 22,
-        "id": "Y5emdP1716I",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Nashtar Episode 22 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
-        "episode": 22,
-        "id": "NP6Eu8nWnxM",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Nashtar Episode 22 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
-        "episode": 22,
-        "id": "lFAki0bmvts",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-24"
@@ -598,57 +946,81 @@
   "harpalgeo-bano": {
     "episodes": [
       {
+        "title": "Bano Episode 12 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 12,
+        "id": "aDKH2lDwjY0",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Bano Episode 12 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 12,
+        "id": "w491p3xhf0A",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Bano Episode 12 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 12,
+        "id": "9t1qcGUPlAw",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Bano Episode 12 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 12,
+        "id": "Gzm4W1MKACE",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Bano Episode 12 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 12,
+        "id": "flmA8gsxMUU",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Bano Episode 12 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 12,
+        "id": "Z8ILq8Bkc9I",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Bano Episode 12 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 12,
+        "id": "QQuHzIAaD5s",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Bano Episode 12 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 12,
+        "id": "LpgBO5Q2Oj4",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Bano Episode 12 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 24th October 2026 | HAR PAL GEO",
+        "episode": 12,
+        "id": "DMlPnlj4AC8",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      },
+      {
         "title": "Bano Episode 11 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
         "episode": 11,
         "id": "JGOZ3LlNRx8",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Bano Episode 11 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 11,
-        "id": "vKJpOUPTZrc",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Bano Episode 11 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 11,
-        "id": "vIZxSQ1uIyQ",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Bano Episode 11 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 11,
-        "id": "BWL_fRI5eqk",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Bano Episode 11 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 11,
-        "id": "qCC_TT3A3o8",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Bano Episode 11 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 11,
-        "id": "LC-34HjJjlA",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Bano Episode 11 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 11,
-        "id": "3nEUjKuKqpo",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-24"
@@ -763,6 +1135,18 @@
       }
     ]
   },
+  "arydigital-bulbulay": {
+    "episodes": [
+      {
+        "title": "Bulbulay Season 2 Episode 379 | 24 October 2026 | ARY Digital",
+        "episode": 379,
+        "id": "oSDXI0CmCyQ",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-24"
+      }
+    ]
+  },
   "geonews-naya-pakistan": {
     "episodes": [
       {
@@ -772,26 +1156,6 @@
         "source": "Geo News",
         "kind": "youtube",
         "date": "2026-10-24"
-      }
-    ]
-  },
-  "arydigital-rutba": {
-    "episodes": [
-      {
-        "id": "QpzPYN2DuEg",
-        "title": "Rutba EP 2 | 12 Oct 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ENG SUB",
-        "episode": 2,
-        "date": "2026-10-12",
-        "published": "2026-10-12T16:00:08Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/QpzPYN2DuEg/hqdefault.jpg",
-        "checkedAt": "2026-10-16T00:59:10.857630+00:00"
       }
     ]
   },
@@ -928,26 +1292,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Kc6JezV_1oY/hqdefault.jpg",
         "checkedAt": "2026-10-12T17:29:47.310917+00:00"
-      }
-    ]
-  },
-  "hum-aangan": {
-    "episodes": [
-      {
-        "id": "K1SHRLAXBuE",
-        "title": "Aangan - Episode 04 - Highlight [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
-        "episode": 4,
-        "date": "2026-10-11",
-        "published": "2026-10-11T13:00:33Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/K1SHRLAXBuE/hqdefault.jpg",
-        "checkedAt": "2026-10-16T07:05:15.775682+00:00"
       }
     ]
   },
@@ -33755,26 +34099,6 @@
       }
     ]
   },
-  "hum-zehar-e-mohabbat": {
-    "episodes": [
-      {
-        "id": "Alxhc4uy47Q",
-        "title": "Zehar-e-Mohabbat - Episode 16 - [Eng Sub] 11th Oct 2026 - [ Zoha Tauqeer & Omer Shahzad ] HUM TV",
-        "episode": 16,
-        "date": "2026-10-11",
-        "published": "2026-10-11T17:00:37Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Alxhc4uy47Q/hqdefault.jpg",
-        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
-      }
-    ]
-  },
   "hum-hadd": {
     "episodes": [
       {
@@ -33812,42 +34136,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GYARaiI6JCo/hqdefault.jpg",
         "checkedAt": "2026-10-22T21:49:46.823165+00:00"
-      }
-    ]
-  },
-  "arydigital-dar-e-nijaat": {
-    "episodes": [
-      {
-        "id": "X6qfF2t9fmQ",
-        "title": "Dar-e-Nijaat Episode 25 | 24 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
-        "episode": 25,
-        "date": "2026-10-24",
-        "published": "2026-10-24T16:00:25Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/X6qfF2t9fmQ/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
-      },
-      {
-        "id": "ebioxADOBOw",
-        "title": "Dar-e-Nijaat Episode 23 | 17 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
-        "episode": 23,
-        "date": "2026-10-17",
-        "published": "2026-10-17T16:00:39Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/ebioxADOBOw/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:21:13.629433+00:00"
       }
     ]
   },

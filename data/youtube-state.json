@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-25",
-  "dailySearches": 24,
+  "dailySearches": 32,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -33073,6 +33073,22 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/AGEGDHZ2bBc/hqdefault.jpg",
         "checkedAt": "2026-10-15T21:49:22.372994+00:00"
+      },
+      {
+        "id": "ueuIIA0VN5k",
+        "title": "Is Mushkil Waqt Mai Tumhare Baba Tumhare Saath Hain | Hey Fam Episode 5 | ARY Digital",
+        "episode": 5,
+        "date": "2026-10-24",
+        "published": "2026-10-24T18:40:00Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ueuIIA0VN5k/hqdefault.jpg",
+        "checkedAt": "2026-10-25T20:56:53.845295+00:00"
       }
     ],
     "arydigital-izzat": [
@@ -33125,6 +33141,38 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/I5gDYGVf4l0/hqdefault.jpg",
         "checkedAt": "2026-10-21T22:11:59.697806+00:00"
+      },
+      {
+        "id": "K8pm_QfrBA0",
+        "title": "Warisha Ki Zindagi Ki Sabse Bari Ghalati | Main Tera Episode 63 | ARY Digital",
+        "episode": 63,
+        "date": "2026-10-24",
+        "published": "2026-10-24T17:40:32Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/K8pm_QfrBA0/hqdefault.jpg",
+        "checkedAt": "2026-10-25T20:56:53.845295+00:00"
+      },
+      {
+        "id": "Avk4V_zWFAs",
+        "title": "Warisha Ko Apni Hesiyat Pata Chal Gayi | Main Tera Episode 63  | ARY Digital",
+        "episode": 63,
+        "date": "2026-10-24",
+        "published": "2026-10-24T17:20:48Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Avk4V_zWFAs/hqdefault.jpg",
+        "checkedAt": "2026-10-25T20:56:53.845295+00:00"
       },
       {
         "id": "OErakyu1-A4",
@@ -33466,6 +33514,6 @@
       }
     ]
   },
-  "cursor": 1,
+  "cursor": 5,
   "apiValidated": true
 }
