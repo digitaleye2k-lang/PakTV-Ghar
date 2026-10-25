@@ -442,6 +442,21 @@ function balancedRecent(items,limit=8){
   }
   return chosen;
 }
+function retroGamePromo(){
+ return `<section class="rw-game-promo" aria-labelledby="rwGameTitle">
+ <a class="rw-game-promo-art" href="https://retroworld.eu.cc/" target="_blank" rel="noopener noreferrer" aria-label="Play Beat Up Mafia at Retro World (opens in a new tab)">
+   <img src="./assets/promos/beat-up-mafia-thumb.jpg" width="160" height="160" loading="lazy" decoding="async" alt="Retro World Beat Up Mafia pixel-art game poster featuring vehicles and city action">
+   <span class="rw-game-promo-screen" aria-hidden="true"></span>
+ </a>
+ <div class="rw-game-promo-content">
+   <span class="rw-game-promo-kicker"><span class="rw-game-promo-dot" aria-hidden="true"></span> FROM OUR SISTER SITE · RETRO WORLD</span>
+   <h2 id="rwGameTitle">🎮 Beat Up <strong>Mafia</strong></h2>
+   <p>Take a break from TV and dive into classic top-down arcade action. Drive through the city, explore on land and water, and take to the skies.</p>
+   <span class="rw-game-promo-tags" aria-label="Game highlights"><span>🚗 Vehicles</span><span>🚁 Helicopters</span><span>🚤 Boats</span><span>🕹️ Retro action</span></span>
+ </div>
+ <a class="rw-game-promo-play" href="https://retroworld.eu.cc/" target="_blank" rel="noopener noreferrer" aria-label="Play Beat Up Mafia at Retro World (opens in a new tab)">▶ PLAY NOW <small>retroworld.eu.cc ↗</small></a>
+ </section>`;
+}
 function renderHome(){
   const fresh=balancedRecent([...state.archiveVideos,...state.feed],12);
   const recent=new Map([...state.archiveVideos,...state.feed].map(v=>[v.id,v]));
@@ -464,6 +479,7 @@ function renderHome(){
     '<a class="quick-tile community-home-tile" href="./kids.html"><span class="quick-emoji">🌈</span><span class="quick-name">Kids Corner</span></a>'+
     '<a class="quick-tile community-home-tile" href="./gupshup.html"><span class="quick-emoji">☕</span><span class="quick-name">GUPSHUP</span></a>'+
     '</div>'+
+    retroGamePromo()+
     '<div id="homeBriefing" class="home-briefing" aria-label="Latest news, Pakistan weather and world markets"></div>'+
 
 
