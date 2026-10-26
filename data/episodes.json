@@ -2,12 +2,20 @@
   "hum-khushi": {
     "episodes": [
       {
+        "id": "xWes3sjnCTQ",
         "title": "Khushi - Episode 43 - [ENG SUB] 25th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
         "episode": 43,
-        "id": "xWes3sjnCTQ",
+        "date": "2026-10-25",
+        "published": "2026-10-25T15:00:15Z",
         "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
         "kind": "youtube",
-        "date": "2026-10-25"
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/xWes3sjnCTQ/hqdefault.jpg",
+        "checkedAt": "2026-10-26T13:14:49.600449+00:00"
       },
       {
         "title": "Khushi - Episode 42 Highlights - 25th Oct 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
@@ -354,22 +362,6 @@
         "date": "2026-10-24"
       },
       {
-        "title": "Uswah Episode 32 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 32,
-        "id": "J9uw5xnKQvA",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Uswah Episode 32 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 32,
-        "id": "JBerBSZgEHo",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
         "id": "iZIdealp0j4",
         "title": "Uswah Episode 32 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 24th October 2026",
         "episode": 32,
@@ -665,14 +657,6 @@
         "title": "Nashtar Episode 23 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
         "episode": 23,
         "id": "a3tdHNO2FLM",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Nashtar Episode 23 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
-        "episode": 23,
-        "id": "I2QXzvOvvAE",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-24"
