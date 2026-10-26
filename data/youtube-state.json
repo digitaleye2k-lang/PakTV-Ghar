@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-26",
-  "dailySearches": 8,
+  "dailySearches": 16,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -89,22 +89,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OgVDeLaWZwU/hqdefault.jpg",
         "checkedAt": "2026-10-25T23:20:05.142413+00:00"
-      },
-      {
-        "id": "-OSZ6BfKy8c",
-        "title": "Kaisa Yeh Ishq Episode 60 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Zoha Tauqeer - Hashaam Khan | HAR PAL GEO",
-        "episode": 60,
-        "date": "2026-10-11",
-        "published": "2026-10-11T12:00:09Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/-OSZ6BfKy8c/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:20:21.512502+00:00"
       }
     ],
     "harpalgeo-mohabbat": [
@@ -171,22 +155,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/WmDiRQ0IuXI/hqdefault.jpg",
         "checkedAt": "2026-10-22T01:02:25.930340+00:00"
-      },
-      {
-        "id": "Kc6JezV_1oY",
-        "title": "Mohabbat Episode 05 [Eng Sub] Feroze Khan - Nawal Saeed | 12th October 2026 - HAR PAL GEO",
-        "episode": 5,
-        "date": "2026-10-12",
-        "published": "2026-10-12T16:00:28Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": false,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Kc6JezV_1oY/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
       }
     ],
     "harpalgeo-nashtar": [
@@ -205,22 +173,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/N9D72GXB_2Q/hqdefault.jpg",
         "checkedAt": "2026-10-26T04:56:47.916284+00:00"
-      },
-      {
-        "id": "ZsWUGhmQ0bU",
-        "title": "Nashtar Episode 18 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
-        "episode": 18,
-        "date": "2026-10-11",
-        "published": "2026-10-11T16:00:27Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ZsWUGhmQ0bU/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
       }
     ],
     "harpalgeo-uswa": [
@@ -399,70 +351,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/38dkS4-Dazw/hqdefault.jpg",
         "checkedAt": "2026-10-16T03:51:58.850494+00:00"
-      },
-      {
-        "id": "7mpQfSZvLZE",
-        "title": "Uswah Episode 20 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 12th October 2026",
-        "episode": 20,
-        "date": "2026-10-12",
-        "published": "2026-10-12T15:00:13Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": false,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/7mpQfSZvLZE/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
-      },
-      {
-        "id": "WLwsbzPb4hI",
-        "title": "Uswah Episode 19 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 11th October 2026",
-        "episode": 19,
-        "date": "2026-10-11",
-        "published": "2026-10-11T15:00:32Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/WLwsbzPb4hI/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
-      },
-      {
-        "id": "2iuXpAXNhVg",
-        "title": "Uswah Episode 18 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 10th October 2026",
-        "episode": 18,
-        "date": "2026-10-10",
-        "published": "2026-10-10T15:00:35Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/2iuXpAXNhVg/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
-      },
-      {
-        "id": "gdBUOTcp3KQ",
-        "title": "Uswah Episode 17 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 9th October 2026",
-        "episode": 17,
-        "date": "2026-10-09",
-        "published": "2026-10-09T15:00:35Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/gdBUOTcp3KQ/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:29:47.310917+00:00"
       }
     ],
     "hum-aangan": [
@@ -481,58 +369,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/K1SHRLAXBuE/hqdefault.jpg",
         "checkedAt": "2026-10-16T07:05:15.775682+00:00"
-      }
-    ],
-    "hum-bombay-tailors": [
-      {
-        "id": "nDzoy9No8WE",
-        "title": "Bombay Tailors - Episode 27 [Eng Sub] 12th Oct 2026 [ Anika Zulfikar & Ali Ansari ] - HUM TV",
-        "episode": 27,
-        "date": "2026-10-12",
-        "published": "2026-10-12T17:00:36Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": false,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/nDzoy9No8WE/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      }
-    ],
-    "hum-hurmat": [
-      {
-        "id": "uY8hogzkLB8",
-        "title": "Hurmat - Episode 03 - [Eng Sub] 12th Oct 2026 - [ Dananeer Mobeen & Shahveer Jafry ] - HUM TV",
-        "episode": 3,
-        "date": "2026-10-12",
-        "published": "2026-10-12T16:00:28Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": false,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/uY8hogzkLB8/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      },
-      {
-        "id": "bNfLroyIbUY",
-        "title": "Hurmat - Episode 02 - Flashback | ft. Dananeer Mobeen & Shahveer Jafry - HUM TV",
-        "episode": 2,
-        "date": "2026-10-12",
-        "published": "2026-10-12T14:45:13Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/bNfLroyIbUY/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
       }
     ],
     "hum-khushi": [
@@ -583,54 +419,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/AWHP5v_r5NI/hqdefault.jpg",
         "checkedAt": "2026-10-16T09:51:10.658370+00:00"
-      },
-      {
-        "id": "cHKT6woUT0Y",
-        "title": "Khushi - Episode 30 - [Eng Sub] 12th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 30,
-        "date": "2026-10-12",
-        "published": "2026-10-12T15:00:05Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": false,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/cHKT6woUT0Y/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      },
-      {
-        "id": "4qgcZlaUMX4",
-        "title": "Khushi - Episode 29 Highlight - 12th Oct 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
-        "episode": 29,
-        "date": "2026-10-12",
-        "published": "2026-10-12T12:00:34Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/4qgcZlaUMX4/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
-      },
-      {
-        "id": "-7COdwR1U9Y",
-        "title": "Khushi - Episode 29 - [Eng Sub] 11th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 29,
-        "date": "2026-10-11",
-        "published": "2026-10-11T15:00:20Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/-7COdwR1U9Y/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:30:35.039122+00:00"
       }
     ],
     "arydigital-bas-tera-saath-ho": [
@@ -648,7 +436,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xExSgmC8ia4/hqdefault.jpg",
-        "checkedAt": "2026-10-22T09:54:37.350268+00:00"
+        "checkedAt": "2026-10-26T20:35:04.066736+00:00"
       },
       {
         "id": "IER1YNf9NIM",
@@ -680,7 +468,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/Mg5t1PzPYFs/hqdefault.jpg",
-        "checkedAt": "2026-10-22T09:54:37.350268+00:00"
+        "checkedAt": "2026-10-26T20:35:04.066736+00:00"
       },
       {
         "id": "UB9QULJuQaQ",
@@ -712,7 +500,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GscKavABvSU/hqdefault.jpg",
-        "checkedAt": "2026-10-22T09:54:37.350268+00:00"
+        "checkedAt": "2026-10-26T20:35:04.066736+00:00"
       }
     ],
     "arydigital-kafeel": [
@@ -981,22 +769,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dIe4nDHGm-g/hqdefault.jpg",
         "checkedAt": "2026-10-22T19:00:32.878598+00:00"
-      },
-      {
-        "id": "TmWFxqx2aJo",
-        "title": "Shaidai Last Episode 30 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Feroze Khan - Sahar Hashmi | Har Pal Geo",
-        "episode": 30,
-        "date": "2026-07-30",
-        "published": "2026-07-30T19:30:25Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/TmWFxqx2aJo/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:35:25.662573+00:00"
       }
     ],
     "hum-aye-dil-aazma-nahi": [
@@ -1066,22 +838,6 @@
       }
     ],
     "hum-deewar": [
-      {
-        "id": "wQPiKAmU7N8",
-        "title": "Deewar Episode 84 Highlight - Sunita Marshall & Ali Abbas ] HUM TV",
-        "episode": 84,
-        "date": "2026-09-13",
-        "published": "2026-09-13T12:00:12Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/wQPiKAmU7N8/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:37:35.029938+00:00"
-      },
       {
         "id": "nzE6TeRnstM",
         "title": "Deewar - Last Episode 84 [Eng Sub] - 12th Sep 2026 [ Sunita Marshall & Ali Abbas ] HUM TV",
@@ -1231,22 +987,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nw17xXuRiKM/hqdefault.jpg",
         "checkedAt": "2026-10-23T01:07:06.447268+00:00"
-      },
-      {
-        "id": "mKVCCKqFKJA",
-        "title": "Musafat - 2nd Last Episode 53 [Eng Sub] 10th June 2026 [ Mohsin Abbas Haider, Alishba Khan ] HUM TV",
-        "episode": 53,
-        "date": "2026-06-10",
-        "published": "2026-06-10T17:00:03Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/mKVCCKqFKJA/hqdefault.jpg",
-        "checkedAt": "2026-10-12T17:38:33.613400+00:00"
       }
     ],
     "hum-sirf-shabana": [
@@ -33640,8 +33380,58 @@
         "thumbnail": "https://i.ytimg.com/vi/7MI7S4KsaXE/hqdefault.jpg",
         "checkedAt": "2026-10-22T15:52:25.125960+00:00"
       }
+    ],
+    "arydigital-lagan-lagi": [
+      {
+        "id": "K4EnMsNvtjQ",
+        "title": "Lagan Lagi Episode 3 | 26 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 3,
+        "date": "2026-10-26",
+        "published": "2026-10-26T17:00:08Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/K4EnMsNvtjQ/hqdefault.jpg",
+        "checkedAt": "2026-10-26T20:35:04.066736+00:00"
+      },
+      {
+        "id": "tJe5Cuncg8Q",
+        "title": "Lagan Lagi Episode 2 | 23 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 2,
+        "date": "2026-10-23",
+        "published": "2026-10-23T17:00:24Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/tJe5Cuncg8Q/hqdefault.jpg",
+        "checkedAt": "2026-10-26T20:35:04.066736+00:00"
+      },
+      {
+        "id": "zptfzGBbndw",
+        "title": "Lagan Lagi Episode 1 | 22 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 1,
+        "date": "2026-10-22",
+        "published": "2026-10-22T17:03:38Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/zptfzGBbndw/hqdefault.jpg",
+        "checkedAt": "2026-10-26T20:35:04.066736+00:00"
+      }
     ]
   },
-  "cursor": 17,
+  "cursor": 21,
   "apiValidated": true
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T18:15:13.113866+05:00",
+  "generatedAt": "2026-10-27T01:35:43.185314+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -19,11 +19,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 9,
+        "number": 10,
         "time": "20:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-26"
+        "date": "2026-10-27"
       }
     },
     "harpalgeo-nashtar": {
@@ -42,13 +42,6 @@
         "availableGB": false,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 24,
-        "time": "01:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-26"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -68,11 +61,11 @@
     },
     "harpalgeo-uswa": {
       "tvToday": {
-        "number": 34,
+        "number": 35,
         "time": "19:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-26"
+        "date": "2026-10-27"
       },
       "lastAttempt": "2026-10-22T03:12:40.218128+05:00",
       "latestUpload": {
@@ -104,13 +97,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 24,
-        "time": "11:30",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-26"
       }
     },
     "hum-aangan": {
@@ -132,11 +118,11 @@
       "poster": "https://harpalgeo.tv/assets/uploads/programs/641_9919269_programs.jpg",
       "posterSource": "Official broadcaster",
       "tvToday": {
-        "number": 14,
+        "number": 15,
         "time": "21:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-26"
+        "date": "2026-10-27"
       },
       "latestUpload": {
         "number": 13,
@@ -357,12 +343,12 @@
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1791124391063_c79ece2290.webp&w=1920&q=75",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 2,
-        "id": "f_oyHS8UvDs",
-        "title": "Lagan Lagi Episode 2 | Best Moment | Hina Chaudhary | Saad Qureshi | ARY Digital",
-        "date": "2026-10-25",
+        "number": 3,
+        "id": "K4EnMsNvtjQ",
+        "title": "Lagan Lagi Episode 3 | 26 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "date": "2026-10-26",
         "source": "Official YouTube upload",
-        "availableGB": true,
+        "availableGB": false,
         "availablePK": true,
         "embeddable": true
       }
@@ -419,9 +405,9 @@
       "lastAttempt": "2026-10-22T03:12:40.218671+05:00",
       "latestUpload": {
         "number": 84,
-        "id": "wQPiKAmU7N8",
-        "title": "Deewar Episode 84 Highlight - Sunita Marshall & Ali Abbas ] HUM TV",
-        "date": "2026-09-13",
+        "id": "nzE6TeRnstM",
+        "title": "Deewar - Last Episode 84 [Eng Sub] - 12th Sep 2026 [ Sunita Marshall & Ali Abbas ] HUM TV",
+        "date": "2026-09-12",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
