@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-25",
-  "dailySearches": 40,
+  "dailySearches": 48,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -191,6 +191,22 @@
     ],
     "harpalgeo-nashtar": [
       {
+        "id": "N9D72GXB_2Q",
+        "title": "Nashtar Episode 24 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
+        "episode": 24,
+        "date": "2026-10-25",
+        "published": "2026-10-25T16:00:37Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/N9D72GXB_2Q/hqdefault.jpg",
+        "checkedAt": "2026-10-26T04:56:47.916284+00:00"
+      },
+      {
         "id": "ZsWUGhmQ0bU",
         "title": "Nashtar Episode 18 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
         "episode": 18,
@@ -208,6 +224,54 @@
       }
     ],
     "harpalgeo-uswa": [
+      {
+        "id": "CnE1PAh7aGA",
+        "title": "Uswah Episode 33 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 25th October 2026",
+        "episode": 33,
+        "date": "2026-10-25",
+        "published": "2026-10-25T15:00:05Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/CnE1PAh7aGA/hqdefault.jpg",
+        "checkedAt": "2026-10-26T04:56:47.916284+00:00"
+      },
+      {
+        "id": "iZIdealp0j4",
+        "title": "Uswah Episode 32 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 24th October 2026",
+        "episode": 32,
+        "date": "2026-10-24",
+        "published": "2026-10-24T15:00:15Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/iZIdealp0j4/hqdefault.jpg",
+        "checkedAt": "2026-10-26T04:56:47.916284+00:00"
+      },
+      {
+        "id": "mE-n6co5NUE",
+        "title": "Uswah Episode 31 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 23rd October 2026",
+        "episode": 31,
+        "date": "2026-10-23",
+        "published": "2026-10-23T15:00:07Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/mE-n6co5NUE/hqdefault.jpg",
+        "checkedAt": "2026-10-26T04:56:47.916284+00:00"
+      },
       {
         "id": "RNEWNORMGwI",
         "title": "Uswah Episode 29 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 21st October 2026",
@@ -33562,6 +33626,6 @@
       }
     ]
   },
-  "cursor": 9,
+  "cursor": 13,
   "apiValidated": true
 }
