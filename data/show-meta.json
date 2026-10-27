@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T05:33:31.474404+05:00",
+  "generatedAt": "2026-10-27T14:08:56.153308+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -35,11 +35,11 @@
       "latestPublisherSource": "https://harpalgeo.tv/program/Nashtar",
       "latestUpload": {
         "number": 24,
-        "id": "N9D72GXB_2Q",
-        "title": "Nashtar Episode 24 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
-        "date": "2026-10-25",
+        "id": "XhQKH7GAPQo",
+        "title": "Nashtar Episode 24 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "date": "2026-10-26",
         "source": "Official YouTube upload",
-        "availableGB": false,
+        "availableGB": true,
         "availablePK": true,
         "embeddable": true
       },
@@ -76,12 +76,12 @@
       },
       "lastAttempt": "2026-10-22T03:12:40.218128+05:00",
       "latestUpload": {
-        "number": 33,
-        "id": "CnE1PAh7aGA",
-        "title": "Uswah Episode 33 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 25th October 2026",
-        "date": "2026-10-25",
+        "number": 34,
+        "id": "Xi17Mj2TOLY",
+        "title": "Uswah Episode 34 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "date": "2026-10-27",
         "source": "Official YouTube upload",
-        "availableGB": false,
+        "availableGB": true,
         "availablePK": true,
         "embeddable": true
       },
@@ -139,10 +139,10 @@
         "date": "2026-10-27"
       },
       "latestUpload": {
-        "number": 13,
-        "id": "Ft8N6fW0NDw",
-        "title": "Bano Episode 13 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 25th October 2026 | HAR PAL GEO",
-        "date": "2026-10-25",
+        "number": 14,
+        "id": "QXoWys_Ykcw",
+        "title": "Bano Episode 14 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "date": "2026-10-27",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -203,10 +203,10 @@
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
       "latestPublisherSource": "https://arydigital.tv/drama/hey-fam/",
       "latestUpload": {
-        "number": 12,
-        "id": "qylU1oI1G_Q",
-        "title": "Hey Fam | EP 12 | 22 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
-        "date": "2026-10-22",
+        "number": 10,
+        "id": "fL5lA6STcb8",
+        "title": "Hey Fam | EP  10 | 15 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ENG SUB | ARY Digital",
+        "date": "2026-10-15",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": false,
@@ -235,13 +235,13 @@
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
       "latestPublisherSource": "https://arydigital.tv/drama/izzat/",
       "latestUpload": {
-        "number": 36,
-        "id": "0c5lfnA8mLU",
-        "title": "Izzat Episode 36 | 25 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "date": "2026-10-25",
+        "number": 37,
+        "id": "0H4Y4GqAzps",
+        "title": "Izzat Episode 37 | 26 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "date": "2026-10-26",
         "source": "Official YouTube upload",
         "availableGB": false,
-        "availablePK": false,
+        "availablePK": true,
         "embeddable": true
       }
     },
@@ -268,12 +268,12 @@
       "latestPublisherSource": "https://arydigital.tv/drama/main-tera/",
       "latestUpload": {
         "number": 64,
-        "id": "x79N-j8ONB8",
-        "title": "Main Tera Episode 64 | Unforgettable Scene | ARY Digital",
-        "date": "2026-10-22",
+        "id": "I5gDYGVf4l0",
+        "title": "Main Tera 2nd Last Episode 64 | 20 October 2026 | Ghana Ali | Yusra Irfan | Arez Ahmed | ARY Digital",
+        "date": "2026-10-20",
         "source": "Official YouTube upload",
         "availableGB": true,
-        "availablePK": true,
+        "availablePK": false,
         "embeddable": true
       }
     },
@@ -362,7 +362,7 @@
         "title": "Lagan Lagi Episode 3 | 26 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
         "date": "2026-10-26",
         "source": "Official YouTube upload",
-        "availableGB": false,
+        "availableGB": true,
         "availablePK": true,
         "embeddable": true
       }
