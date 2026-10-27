@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-27",
-  "dailySearches": 16,
+  "dailySearches": 24,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -884,7 +884,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nzE6TeRnstM/hqdefault.jpg",
-        "checkedAt": "2026-10-22T19:00:32.878598+00:00"
+        "checkedAt": "2026-10-27T22:22:28.501155+00:00"
       },
       {
         "id": "bCe2W5uakAY",
@@ -900,7 +900,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/bCe2W5uakAY/hqdefault.jpg",
-        "checkedAt": "2026-10-22T19:00:32.878598+00:00"
+        "checkedAt": "2026-10-27T22:22:28.501155+00:00"
       },
       {
         "id": "ym_DGbtvNNQ",
@@ -916,7 +916,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ym_DGbtvNNQ/hqdefault.jpg",
-        "checkedAt": "2026-10-22T19:00:32.878598+00:00"
+        "checkedAt": "2026-10-27T22:22:28.501155+00:00"
       }
     ],
     "hum-ek-jhooti-kahani": [
@@ -934,7 +934,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dhJj0oDY58w/hqdefault.jpg",
-        "checkedAt": "2026-10-22T21:49:46.823165+00:00"
+        "checkedAt": "2026-10-27T22:22:28.501155+00:00"
       }
     ],
     "hum-leader": [
@@ -952,7 +952,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/EQ-baUqmNaA/hqdefault.jpg",
-        "checkedAt": "2026-10-22T21:49:46.823165+00:00"
+        "checkedAt": "2026-10-27T22:22:28.501155+00:00"
       },
       {
         "id": "-FXbu933_Bg",
@@ -968,7 +968,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-FXbu933_Bg/hqdefault.jpg",
-        "checkedAt": "2026-10-22T21:49:46.823165+00:00"
+        "checkedAt": "2026-10-27T22:22:28.501155+00:00"
       },
       {
         "id": "zrbd1u81X2E",
@@ -3177,22 +3177,6 @@
         "checkedAt": "2026-10-17T06:59:35.884360+00:00"
       },
       {
-        "id": "3nmCe67uz74",
-        "title": "Balaa Episode 38 | Bilal Abbas | Ushna Shah | ARY Digital",
-        "episode": 38,
-        "date": "2024-03-26",
-        "published": "2024-03-26T07:30:00Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/3nmCe67uz74/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
-      },
-      {
         "id": "TEA7THLYJss",
         "title": "Balaa Episode 37 | Bilal Abbas | Ushna Shah | ARY Digital",
         "episode": 37,
@@ -3239,22 +3223,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_J-IGj_vuzQ/hqdefault.jpg",
         "checkedAt": "2026-10-23T03:52:51.928458+00:00"
-      },
-      {
-        "id": "rvwdeQ3PqbE",
-        "title": "Balaa Episode 35 | Bilal Abbas | Ushna Shah | ARY Digital",
-        "episode": 35,
-        "date": "2024-03-25",
-        "published": "2024-03-25T06:30:15Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/rvwdeQ3PqbE/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
       },
       {
         "id": "G_3Kqg9oSkU",
@@ -3801,22 +3769,6 @@
         "checkedAt": "2026-10-23T03:52:51.928458+00:00"
       },
       {
-        "id": "rB85zTTdjR8",
-        "title": "Balaa Episode 3 | Bilal Abbas | Ushna Shah | ARY Digital",
-        "episode": 3,
-        "date": "2024-03-08",
-        "published": "2024-03-08T08:00:35Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/rB85zTTdjR8/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
-      },
-      {
         "id": "JOLoYdbtGvc",
         "title": "Balaa Episode 3 & 4 | CC | Bilal Abbas | Ushna Shah | ARY Digital",
         "episode": 3,
@@ -4315,22 +4267,6 @@
         "checkedAt": "2026-10-23T03:52:51.928458+00:00"
       },
       {
-        "id": "IZTkQMZr5Rs",
-        "title": "Mubarak Ho Beti Hui Hai - Episode - 06 - 19th April 2017 | ARY Digital Drama",
-        "episode": 6,
-        "date": "2017-05-17",
-        "published": "2017-05-17T16:08:03Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/IZTkQMZr5Rs/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
-      },
-      {
         "id": "yHD0U8vc2Yw",
         "title": "Betiyaan Episode 5 - 13th October 2022 (English Subtitles) - ARY Digital Drama",
         "episode": 5,
@@ -4813,38 +4749,6 @@
         "checkedAt": "2026-10-23T07:05:57.769095+00:00"
       },
       {
-        "id": "IyjkgnLY3Xk",
-        "title": "Bismil Episode 11 | Naumaan Ijaz | Hareem Farooq | 25 Sep 2024  (English Subtitles) | ARY Digital",
-        "episode": 11,
-        "date": "2024-09-25",
-        "published": "2024-09-25T16:00:16Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/IyjkgnLY3Xk/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
-      },
-      {
-        "id": "pMva1Z-eQvo",
-        "title": "Bismil Episode 10 | Naumaan Ijaz | Hareem Farooq | 19 Sep 2024 (English Subtitles) | ARY Digital",
-        "episode": 10,
-        "date": "2024-09-19",
-        "published": "2024-09-19T16:00:53Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/pMva1Z-eQvo/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
-      },
-      {
         "id": "rJHsuQ1Mxik",
         "title": "Bismil Episode 9 | Naumaan Ijaz | Hareem Farooq | 18 Sep 2024 (English Subtitles) ARY Digital",
         "episode": 9,
@@ -5037,22 +4941,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_Q3nf2ySFrU/hqdefault.jpg",
         "checkedAt": "2026-10-23T07:05:57.769095+00:00"
-      },
-      {
-        "id": "phPLULai1tA",
-        "title": "Burns Road Kay Romeo Juliet | EP 28 (Eng Sub) | Iqra Aziz | Hamza Sohail | 28 May 2024 | ARY Digital",
-        "episode": 28,
-        "date": "2024-05-28",
-        "published": "2024-05-28T16:00:44Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/phPLULai1tA/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:40:28.335670+00:00"
       },
       {
         "id": "9ZVt4ASxYIA",
@@ -5923,22 +5811,6 @@
         "checkedAt": "2026-10-23T09:52:44.597208+00:00"
       },
       {
-        "id": "F5YynfX9PjU",
-        "title": "Do Bol Episode 27 | Affan Waheed | Hira Salman | English Subtitle | ARY Digital",
-        "episode": 27,
-        "date": "2019-05-01",
-        "published": "2019-05-01T17:00:01Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/F5YynfX9PjU/hqdefault.jpg",
-        "checkedAt": "2026-10-13T18:46:37.200616+00:00"
-      },
-      {
         "id": "xqyJuzcvgg4",
         "title": "Do Bol Episode 26 | Affan Waheed | Hira Salman | English Subtitle | ARY Digital",
         "episode": 26,
@@ -6113,22 +5985,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mnxhJ1udfAs/hqdefault.jpg",
         "checkedAt": "2026-10-23T09:52:44.597208+00:00"
-      },
-      {
-        "id": "5LKp39SGcao",
-        "title": "Do Bol Episode 15 | Affan Waheed | Hira Salman | English Subtitle | ARY Digital",
-        "episode": 15,
-        "date": "2019-04-16",
-        "published": "2019-04-16T17:00:01Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/5LKp39SGcao/hqdefault.jpg",
-        "checkedAt": "2026-10-13T18:46:37.200616+00:00"
       },
       {
         "id": "Ug3-9mYles0",
@@ -6419,22 +6275,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/icfavoF7o-A/hqdefault.jpg",
         "checkedAt": "2026-10-23T09:52:44.597208+00:00"
-      },
-      {
-        "id": "A4MDl1TRxJo",
-        "title": "Dunk Episode 25 [Subtitle Eng] - 19th June 2021 - ARY Digital Drama",
-        "episode": 25,
-        "date": "2021-06-19",
-        "published": "2021-06-19T16:55:19Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/A4MDl1TRxJo/hqdefault.jpg",
-        "checkedAt": "2026-10-13T18:46:37.200616+00:00"
       },
       {
         "id": "_TzjfiqLEfA",
@@ -7241,22 +7081,6 @@
         "checkedAt": "2026-10-23T09:52:44.597208+00:00"
       },
       {
-        "id": "yc35h8SBV18",
-        "title": "Ishq Hai Episode 24 | Eng Sub | Danish Taimoor | Minal Khan | ARY Digital Drama",
-        "episode": 24,
-        "date": "2021-08-17",
-        "published": "2021-08-17T17:33:22Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/yc35h8SBV18/hqdefault.jpg",
-        "checkedAt": "2026-10-13T21:47:40.300975+00:00"
-      },
-      {
         "id": "z4qBd2g3tJQ",
         "title": "Ishq Hai Episode 22 | Eng Sub | Danish Taimoor | Minal Khan | ARY Digital Drama",
         "episode": 22,
@@ -7691,22 +7515,6 @@
         "checkedAt": "2026-10-23T13:02:09.141365+00:00"
       },
       {
-        "id": "By3cbJQAt5E",
-        "title": "Jaan e Jahan Episode 35 {Eng Sub} Hamza Ali Abbasi | Ayeza Khan | 3 May 2024 | ARY Digital",
-        "episode": 35,
-        "date": "2024-05-03",
-        "published": "2024-05-03T16:05:00Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/By3cbJQAt5E/hqdefault.jpg",
-        "checkedAt": "2026-10-13T21:47:40.300975+00:00"
-      },
-      {
         "id": "a9lgAbNzBDI",
         "title": "Jaan e Jahan Episode 34 (Eng Sub) | Hamza Ali Abbasi | Ayeza Khan | 27 April 2024 | ARY Digital",
         "episode": 34,
@@ -7755,22 +7563,6 @@
         "checkedAt": "2026-10-23T13:02:09.141365+00:00"
       },
       {
-        "id": "dtQdQ-iSn7k",
-        "title": "Jaan e Jahan Episode 30 (Eng Sub) | Hamza Ali Abbasi | Ayeza Khan | 13 April 2024 | ARY Digital",
-        "episode": 30,
-        "date": "2024-04-13",
-        "published": "2024-04-13T16:07:53Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/dtQdQ-iSn7k/hqdefault.jpg",
-        "checkedAt": "2026-10-13T21:47:40.300975+00:00"
-      },
-      {
         "id": "mu8cRcZI_10",
         "title": "Jaan e Jahan Episode 29 (Eng Sub) | Hamza Ali Abbasi | Ayeza Khan | 12 April 2024 | ARY Digital",
         "episode": 29,
@@ -7785,22 +7577,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mu8cRcZI_10/hqdefault.jpg",
         "checkedAt": "2026-10-23T13:02:09.141365+00:00"
-      },
-      {
-        "id": "kgNk4_xCsR4",
-        "title": "Jaan e Jahan Episode 27 (Eng Sub) | Hamza Ali Abbasi | Ayeza Khan | 26 March 2024 | ARY Digital",
-        "episode": 27,
-        "date": "2024-03-26",
-        "published": "2024-03-26T18:18:30Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/kgNk4_xCsR4/hqdefault.jpg",
-        "checkedAt": "2026-10-13T21:47:40.300975+00:00"
       },
       {
         "id": "V98DAtBNYUo",
@@ -8091,22 +7867,6 @@
         "checkedAt": "2026-10-23T13:02:09.141365+00:00"
       },
       {
-        "id": "7WFKc4ihNeM",
-        "title": "Jaan e Jahan Episode 04 {Eng Sub} Hamza Ali Abbasi | Ayeza Khan | 30 Dec 2023 | ARY Digital",
-        "episode": 4,
-        "date": "2023-12-30",
-        "published": "2023-12-30T16:00:04Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/7WFKc4ihNeM/hqdefault.jpg",
-        "checkedAt": "2026-10-13T21:47:40.300975+00:00"
-      },
-      {
         "id": "agktzm-WTIg",
         "title": "Jaan e Jahan Episode 02 {Eng Sub} Hamza Ali Abbasi | Ayeza Khan | 23 Dec 2023 | ARY Digital",
         "episode": 2,
@@ -8203,22 +7963,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2th0MaNPDdQ/hqdefault.jpg",
         "checkedAt": "2026-10-23T13:02:09.141365+00:00"
-      },
-      {
-        "id": "YaUnbP7_zA8",
-        "title": "Jalan Episode 24 | Minal Khan | Fahad Sheikh | ARY Digital Drama",
-        "episode": 24,
-        "date": "2020-11-24",
-        "published": "2020-11-24T16:04:14Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/YaUnbP7_zA8/hqdefault.jpg",
-        "checkedAt": "2026-10-13T21:47:40.300975+00:00"
       },
       {
         "id": "T5UZhHlJYZ8",
@@ -8443,22 +8187,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/JDOrbtpkF5E/hqdefault.jpg",
         "checkedAt": "2026-10-23T13:02:09.141365+00:00"
-      },
-      {
-        "id": "UfVyxUZzsK8",
-        "title": "Jalan Episode 08 | Presented by Ariel (English Subtitles) | ARY Digital Drama",
-        "episode": 8,
-        "date": "2020-08-05",
-        "published": "2020-08-05T15:48:26Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/UfVyxUZzsK8/hqdefault.jpg",
-        "checkedAt": "2026-10-13T21:47:40.300975+00:00"
       },
       {
         "id": "bWLnDzUgDis",
@@ -33148,7 +32876,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kbJ0_aO-2w0/hqdefault.jpg",
-        "checkedAt": "2026-10-22T21:49:46.823165+00:00"
+        "checkedAt": "2026-10-27T22:22:28.501155+00:00"
       }
     ],
     "hum-muamma": [
@@ -33272,6 +33000,6 @@
       }
     ]
   },
-  "cursor": 33,
+  "cursor": 37,
   "apiValidated": true
 }
