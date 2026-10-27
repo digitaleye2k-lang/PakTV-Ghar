@@ -1,132 +1,174 @@
 {
-  "generatedAt": "2026-10-26T20:35:43.271203Z",
+  "generatedAt": "2026-10-27T00:33:31.585669Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-26T20:35:43.271203Z",
+      "updatedAt": "2026-10-27T00:33:31.585669Z",
       "source": "Google News RSS",
       "items": [
-        {
-          "title": "Pakistan’s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
-          "source": "Atlantic Council",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVHJjUHgwUW42aGxUdXFQd1lFRGNGeEFsU2JJbjQ0NC02YkpGaWVOWGpobGRSekdiSzBtNHJFbVVSUV85VklyXzB2ZlgzZlUzTDFaNklwUXdKVTJUa0Q4ci1ZbEtIODBLbDFzX1prYW03azVnRGtDUlI0NHhJZHBZM2o2NU1hcFo0Z3ZFMTdfM01JMWpteHNqTGxBZDBRaVc0ZHRHd3hXUVZweTk5dE83dXhKbUxTRGttLXQzSGxhc3JoSkxjRnVyRUF1ckh2dk1CU0tPRzNRdm12YlB5NWtweThhYnUxajl0bEVwaHNfSXQ5R2JZT0E?oc=5",
-          "published": "2026-10-26T20:27:32Z"
-        },
-        {
-          "title": "Pakistan reopens Iran border crossing after week-long closure — traders, customs agent - Arab News PK",
-          "source": "Arab News PK",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON3p0TGFsM29qeW1NenUyYVFFeXhLbElQdHVINVE1cUxjbmlpX3Nyb0FNaG9VQjRMM2E3Y2VNa0RySVkyWE1temZ3UmJuWUxHMzFhejZDam5xVGpfVGZCajNuMnVqS3lESVFxSi14anRDTlNEWG5rX1Z5X0JpU241Mm1jVGlTY2twRU5NcDdNUk15MjR5bGhTWHVGS2JmNU0tTDB4a2xjMEU3Y1UyS01oMHNic2QtNzVHdzA4YXQ5Rm41Zw?oc=5",
-          "published": "2026-10-26T19:59:45Z"
-        },
-        {
-          "title": "Pakistan declares readiness to defend Saudi Arabia with 'full force' as regional tensions mount - The News Pakistan",
-          "source": "The News Pakistan",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWkJIcFRWTk9RejJldWZfYXB5dXZpaDNIZFZPN1czMUJycC1EZVZMN1VPTGx5NHdXcmRnZnhOUmo5b0gyWkdGZ1k0RmxhMEVtbzVibWxTcDFSUkdEMWE2czRpNGwxeVNWSUQ4SGpyajQ0LW9qX0diQTFSR2hLZXJZY3lDalk1SHU0RllXNGc5NnNDTTRZblJMYXN0OVlraFc2TWVlSXBUOENHN1lBRm01eGxyLTJvMmZvaHFqZzFEWE5oaVotVlBSVkZodWxvbDlp?oc=5",
-          "published": "2026-10-26T19:56:00Z"
-        },
         {
           "title": "Saudi Arabia, Turkey and Pakistan send envoys to Iran in push to end war - The Washington Post",
           "source": "The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPejFkczNnNTlDQi1sY3d3VkFxUjVSb1lJWEFYVGV1dDUydnFKRmxwTzctQnNzRzkzUjd0c05YMXZiak8xX2ZYSnhWQjZ5QWRrbEFabS16VzJVS2U3aWhpbm9nU0E3YndHRVYxX09tcTRIMF9YZU5ZbXRNRHBQTExJNWZ4ZnhWQndPNk9mYVVyOGR4Nzc4Mlkzdjl6WUJSa0NEM3E5LXdlZ1NpZEFIVktCYXB3VQ?oc=5",
-          "published": "2026-10-26T19:55:37Z"
+          "published": "2026-10-27T00:25:37Z"
         },
         {
-          "title": "Iran, Türkiye, Saudi Arabia, Pakistan call for regional-led security | Daily Sabah - Daily Sabah",
-          "source": "Daily Sabah",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNkc2U0pHZElQVFl6NndleEJXdGNxdkZ4cWdnb3lra19ndzdibmExUndnT1JYZmJmTFlLcGpWYmNiMFpndnEwSEhjUE5wdXBQdURZOF9OeEdHNEttQmltNFRfUmp3MFhQVEFXbkZBekJBWjlWclFGRGFxd3QxWlBDcktfemhOT2o4UVRTd1E1UFlPNG5QeFZ2SjZjSU0wNldvWjFOaDRLWVk2TlnSAbABQVVfeXFMT0RTWFlrZDRpX2lvbnhTcG9taFZya3RZMnhFZEpGRWdfU0EwcmI1RXVzSDNYTnBhT0FtNkRTOEpsbUVNSEFvTU9nY0hGZFllb0lUbXh5Zkh2a0hMUGJlcDRMd1NlR2hHQW5TaktQdVZ1cXBVSXdBbG1zOG02ZHN3U3NsV190bmFOcWlNRFduMDVLdUM3cXQwZDgzVU4weVZONnNBaUJwcjl3QThONUEzMHc?oc=5",
-          "published": "2026-10-26T19:52:42Z"
+          "title": "Violent Crackdown in Northwest Pakistan Aims to Neutralize Party of Imran Khan - Drop Site News",
+          "source": "Drop Site News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPekxTM1BuNmRDTnYtSjRwUldnY1M3Y3dhdWMyUW51Z0dfeXAxMjB6MlNOYm1NVmpvNkxuLVNjdVMyVll5V3dMQkVXUGRYbnMzQVc2N2hFdXdWQ1VhYjFZNUdvWl81OE9XMmZzcUZneGM3MldVbjhHTlFHdXJ3TFk5LWJIU3drc3RuX3ZfZw?oc=5",
+          "published": "2026-10-27T00:20:22Z"
         },
         {
-          "title": "Japan rebuilt itself; why can't Pakistan? - The Express Tribune",
-          "source": "The Express Tribune",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS2NOUGdlUnh4Rk5faEZJNk9DQk9hdjlaQVRhdDJ0NUZuWlk0QmNPQTl2cG5KS2JwX2s5ZjhIQjdtQWVSaDF0cnhSMHFCNi1wd1hJbFBuWnFyR1N2QlFBVVRzZ1FQZHNETk9ucEkwajZCYkwtRUk3aWZwWnFEUnZxeNIBiAFBVV95cUxNSkxMck85OXhOUVl6OWRSUG8wVVlmQWl4R2JFVFRsc1pZMnVRZDNaRkMwNUlhSUdmcVdwYzFnODNGd1d2SDZQUkNpNkZUVHIxWjlYaU9YVkk2NjZCcnFMS24wTjhGZ25MMFo4Zmlsc2Q1SC1ZN2VYd2dMcGk4YmdLeEphdk9ERlZ0?oc=5",
-          "published": "2026-10-26T19:37:36Z"
-        },
-        {
-          "title": "Iran, Pakistan, Saudi Arabia, Türkiye agree to continue talks amid fears of wider war - Arab News PK",
+          "title": "Pakistan defends Afghan strikes as self-defense, rejects Taliban’s civilian casualty allegations - Arab News PK",
           "source": "Arab News PK",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcXhiRzA4Nk5pVjlwc1BvQ2ttMHZsQzhfNGtQT0V2dXdBd18za2RxaXhpT1ZfYVkzRndBbU8xMHdESnFHM1ZGR3lvRzNqZ3JpTFgya1NmaFdKUGJZcjdwSnF3REVsY3FBcUlRcjJJZG80ZHpRME9qYjJHWEtqeDJMbC13dXFnM0ZBY3JCUW0xZ2wtbkNXSGFfanFOOGtvcF9OOU9xcS1PS1c4VUVjUm1rb0hGcXRzeHRSZUtNOXpuLVB4Z2ExN25z?oc=5",
-          "published": "2026-10-26T19:29:07Z"
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVEJYX0JZMFFFNHU5MlB1Zkg5Uy1uQkp1b3JfTHdUUXRwY0VpbHVoZElvOElMZENjb3J1RHBod1lBTExHRDAyZnFidWJmUGlZdFBSTDF1Q3ZtRmkzVy1ic2xvb3B5OE1SRXQ4OEN6d2ZOU2NUQnFEWEhkckFUWVppX0EyNEczdjBZVTlLUTh1UnhUVUVhMUdVYV9MbnNlSTE3T0JjSHdxTGdNMGdSQ2d6VWZWMmZoWVdtQTM5X3NsT2w5c2VKWXhLNGhwRHFPeFZZ?oc=5",
+          "published": "2026-10-27T00:08:37Z"
         },
         {
-          "title": "Iran says Mecca pact states agree to boost cooperation - Al Jazeera",
-          "source": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbjZqVnhxNmJJMDNWWEZkYjAtSWVxbVBKZENjMDZqd1JfcGpWdUhWdGJ1S2tHM0lDcEp0clVQVUV3Nl9mcjZqVGJ4UWdENU1CSGZmMEdVMml2T0UwOU9VTmZlamhxNDlOa1VENzl0Z2xITmNnbjNMTC1uNndyS0hNb3hoUUtPUzgwU0lhUTk4Zk45YjZWZnFwY295RXBzbEJPTHR5ZTJ6ZGJ2RHM1WmkxU1czc2VlWjlESzU00gHAAUFVX3lxTE04TzhkRlV1Ym5FMms4ZmVYY05fOWxfeExwb181SW1QTzh1UlVfei1nZS1FZzNIcURMMFd1Z1cxSDZxY01MV2Z0S0tCYkNQUEFmNHg5bEpCMnE1cWlTd1BtVC01cHZHUDVsOVIxVWZaMnBpaTNMMm44UGpHVW55U013RmxtY3FtTGpOREJ5UFVpWUtWb2htZzRGYWRSVFR6R3F4NVkyYWRUaTFHd0x5dHNjZFQ3WHI0U1NIRUtxMXFvVA?oc=5",
-          "published": "2026-10-26T19:22:02Z"
+          "title": "Pakistan's Children Deserve More Than Promises- From Collapsing Classrooms to Preventable Disease - Pressenza - International Press Agency",
+          "source": "Pressenza - International Press Agency",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3lsTnpvQUx2T3lBakExYXBwbVg5cGhDZllLUjRYU196MERodk5DOVBKU2hGQVRlbUpmRU95MElYcmVDY2lWTlZrdHFMcUpldjNFSFJYZGtuODUyX3JCM1F5RGduVWFTMVg2Y2dQb0wwUWF0VUtGUFZrRC0xa01TNmZvY2NQYmRnWHVyUko1Z1pvNTZyNXl1QTMwcFUwWFZZR0huOGhRQXQweFZsc0Y0TjlzSGJjMmx3RGtmMmY1NnluUG4tOWR3enBn?oc=5",
+          "published": "2026-10-26T23:56:31Z"
         },
         {
-          "title": "Gold Prices Rise After Five-Day Decline as Pakistan Stock Market Rallies - Tapmad",
-          "source": "Tapmad",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZHRqTXpEVUs3SlcxdFU0bFE2QkNqM2hQQklEWEZKbXc4MWZicVJ1ZnNLME9KNkZ3Y0hkZVZhN3F4TVdpeHUySnBKeC1kYTROTHEwQkQxZTZmNDlyTHRTQmhSYmVUMDlGYVhlTU8wTDlYNEF4WGlNRWlTTFNXTm1UQVhxd0NILXZBazBlYWxYTGhEd2RJcFkzVnlCQnVGS1pUeVNLd19UYjVLNmNJRWxV?oc=5",
-          "published": "2026-10-26T19:19:10Z"
+          "title": "Kashmir dispute: PM says Pakistan’s position remains clear, consistent - Business Recorder",
+          "source": "Business Recorder",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcUNzUXcyV254ZnFYSDVWdVpMbFdXOERsNjFuR3ZFOElXZHBBVkdoTG5KZUFEQW5ZWDF2SGRYUF91LVplc1JVTVRRaGRjVlJQeFNLSzA2Z05sUjIwYW0wbnRzaVFPRHBtWGZGdjZ3dnJEMU8zNU1OSDNsNWJ3eENzTktvblVxOHhkMUJsN2VVcXRSaF9YZVVWZjhWb3E0MkdLUFp4VWlNaThZSTDSAVZBVV95cUxNRFk5eFYtZHd3Wm9zV21MbnhKWjR3ZTBvVjNaZGJIWWJlaGt5dkMwRWQxVDk2M1RtWEpTRWZVY2x3b1FYNGdsb3ZvUGd3WjdOZnZpRmMtQQ?oc=5",
+          "published": "2026-10-26T23:30:25Z"
+        },
+        {
+          "title": "Civilian casualties: FO rejects baseless Afghan Taliban allegations - Business Recorder",
+          "source": "Business Recorder",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMEw2bkNTeGZCRG5uS1liYVd0Vnd3LUUza1lkN3QwdmV0cVpTcEVEaXZDRWs5N2RtRnliRXZqSFZfUzRnWkZaOU0wWTVDM1o3NXQ4Znl1OUJaWGxJTmFOWmQ5dVZrNnllMVF4Z2M2RkxXLU1GdF9WMEVLeE5ya05pbG9NNWFCVU1GOENqQjZFbWZ1TW15VHdDbWE2QlIwWGp0ci1SRldTd1d3QdIBVkFVX3lxTE85cmp0Z1hGNGdCNE54ZkJUWHl5eEFFRV8xZmtyZFNnWjVYRnlHaFgxc0hVUGJXdm5JZDFyZXVLcnVKMVN0alFjNWE4UmQ2NW9sTzBkcTZ3?oc=5",
+          "published": "2026-10-26T23:30:24Z"
+        },
+        {
+          "title": "Gohar accuses govt of ‘exploiting’ security situation in KP - Business Recorder",
+          "source": "Business Recorder",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWVNSTkhtUkxjeDNKYUlvY3BKU1NEX0pfd1NYU01Wd05YTmJVY3lIdGV1UEQwX3dyS3JuSFZyWldhMkE0cmN4Y1ZDMExKVUFOS3N3WlpJaGZrbnZpSkVaNXBZNVB0UGhlWFVGU2tDVkUzMXNLbjdGTW1XU2JadTBYalFuam9OUlJXSjBWcGFPczZfajAydy1xNjhUR1lUQdIBVkFVX3lxTE9pWHNHYVpBc2FYeUViMGtaUHZJNERSRXB2NHNPZGRSblV4UFAzY0FyRHpWQU4tLXZTdFplQmFWRGFiblRrM3JaekdpRXgwd1lRY1hDTTNn?oc=5",
+          "published": "2026-10-26T23:30:24Z"
+        },
+        {
+          "title": "The Weather - Business Recorder",
+          "source": "Business Recorder",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zSnN6enpBZmlkekRDeWFRRHNnaVZneGRQUkliVmpzQnRmNkZNSmcxRXBoSERBaFNINWxTMENMRFJiSW16eWxieG95VF9KZk9ZUXoxTEhXTl90SzRjZWd3WtIBVkFVX3lxTE4tbGE2bFhMajFxWk9tUzhVV3VtdXhiVndFYUtPS0wwb2FEYWlWMWZ2dEJBWEFsdk9wekpNa0tuMzBHN3FGaEFoWEExS2I5MVVIYjhKR1pR?oc=5",
+          "published": "2026-10-26T23:30:24Z"
+        },
+        {
+          "title": "NA session: Govt assailed over high LPG, fertiliser prices - Business Recorder",
+          "source": "Business Recorder",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeE5DMnVjNjRSU3FaOF9oLUV5MEVpaXpBMDcwMm00S0t2R1o4NEZjZTBFRnBNeC1uUnR6T1hEYTdTR214U3lxSGtSei0tMTZnMnVCY1VkOUcxTm1NclE2M1A2bE81SzhMdnRoYmNsRzZSYThCZGlaYzRPbGpscENwbWNKakFmQy1PQXR0eTdLX1Q3YUpQbkJDUGJhTDLSAVZBVV95cUxON1E3VDVrRUJIQUJYNjVfdkxSUXRsX2pRSU4ySnNiSHgtcVFFVG9sWWtza0FEU0dpeVlucldFU0poTHZqM09iUlR0bXVqTi1JYWsyaVBfZw?oc=5",
+          "published": "2026-10-26T23:30:24Z"
         }
       ]
     },
     "world": {
-      "updatedAt": "2026-10-26T20:35:43.271203Z",
+      "updatedAt": "2026-10-27T00:33:31.585669Z",
       "source": "Google News RSS",
       "items": [
         {
-          "title": "Man charged with mailing threatening letters with white substance to members of Congress - NBC News",
-          "source": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHFZT0gyOTdGejhfWUFRNllTU2xFdFJVekhJRnEyR2kzQUpZa0Vta2FSNENhZlppcmMxdURpcG1wX1VwNjVabjk1LTEwcXFEdVhyUk1LazNzRU54anZHNlVObnJKVHNxbTJkMjJ1eUNYOFYyR1dESmRZZF80YzhnRk9PcFFlWHJISjVXWmctc0l2UUFBMW83Z2xiYlhfMmszMWY1TU1YRkxUQ2E2QU1MejJsdFR2RExvb1VCcWtRRmNIVHZncUE?oc=5",
-          "published": "2026-10-26T19:58:00Z"
+          "title": "Cowboys vs. Eagles score, live updates: Saquon Barkley returns as Eagles, without Jalen Hurts, try to snap 4-game skid in NFC East showdown - Yahoo Sports",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOc1BPQnYwR0ZoNDNxeEdqMURPZjkyWS12c0I1Uy1xdHByQ090MXN6V196cmREM1NnOGtsbXdXVFh4N1l1S3lwTUVrOGdrNXVGQlN5eno4MktsQ1BESmR6UG1ZeGlWNlNXZzBpVlVULVFOOVVjVXNqcUlXcGVXdVVoUXBFZDdNLVpmdnN1T0dVUHo3OVhMbmh2b3BNOVBQMDZPQTJtWVA1WnRndmVOZ3c0ZVM3emJ1bF9NaVFEbldvdFBSeGpSOUZhc0lDSjRja2ttTUhlMks4Yll4QUE1eEdOQUo1cmF6dXg4?oc=5",
+          "published": "2026-10-27T00:18:47Z"
         },
         {
-          "title": "Anthropic IPO live updates: AI lab expects to spend at least $542B on data centers in coming years - CNBC",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZWZMZ2Q4QkpJSThNQ2c1Q18xeTRFZThMTC1VLWFrRFduLU1CblkydnRpaFUzSTRNaFl6VGRDS1J3TlBKWVo0Q1kwMnhVYmdNejg4Zk1pT3lUUVNCdmtmT0pJa3pJR1FrckFHTHRSTDVVaVFsMnlWZXVWMjFmb2l4eUlhRQ?oc=5",
-          "published": "2026-10-26T19:28:00Z"
+          "title": "Las Vegas police say man accused of making terroristic threats on plane - Las Vegas Review-Journal",
+          "source": "Las Vegas Review-Journal",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRjJ3RXB4V1hSOGhqbzR3ZXhzX2hCa1lzZ1RlRkxtWmpUOGNmUjFiTjAwcFpCTVRqM242dFVvR3Vtb0tENFdFNkwyYWt1Zk1tSXIycHNCX0w0UVdOMUdnRnI1S2RRX3p3alZqbjdsUUpaWWg4MWFfTDdiSVBxc0dSWFE0aDEwYkRNZmc2eTYzbVhzQ1otZzBxeUc1TUk3NEZwaXRQYTBqRTU3OVd6c2F6eHRBZE9Id2hIWU1pbQ?oc=5",
+          "published": "2026-10-27T00:02:22Z"
         },
         {
-          "title": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaFIxVXVVYl90WFZodTB6bHpqOWN3aktZSHNDYTlaM3I5S1FoeU14U1NRVE1mVTJtSDV3ZHk1cHRiWDh6elBNamVIeE5tN2VvRDEyWXBPT1dyNW5KSXFyaE5PVEFOS1NyQW1CNkVVblN6SW1PeVg3aHQxY3B6WmhHU3cxM0gtdTNRLTY1NWo0R284RzQtSmVtTnRxVnR6MTVkNWVsU3djY1d2SURPNmo0N05CUFJZekpIUklNTmRxazZHVTNrbEFN?oc=5",
-          "published": "2026-10-26T19:18:06Z"
+          "title": "15-year-old arrested in connection with mass shooting near Florida A&M University, police say - WESH",
+          "source": "WESH",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSVFDbVVVUWJZQnpnVHFpME5veXVaeW9SMExsSE1JTTNVZjJFTlY2eE40VU1DNzlub1Q4bE9SdzBEcklUS0g3MDhxVDJWWkVKVHVoWHBydGJtU1RMczZVRTRkYWRjU3psVHNtSTNTSUFjQjNEZzRxMExFaURZMUZHMWZMZXhISGxKWG80?oc=5",
+          "published": "2026-10-26T23:55:00Z"
         },
         {
-          "title": "Catholic leaders distance themselves from Trump after Oval Office prayer video - Politico",
-          "source": "Politico",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeHY2NDdibFRIWlZsTlRFMy1Wdk1TMjNfNG5kUUNzRXR4SFhETkQ2RUEwSFI3WDh2NE9fUlpZTWdWSmRkaFQ2ZWZWUzZXQkJVdGNZbjc5UzM3cG41SG5vNzQyOFRpSU5EdHhlZjJCQ3FYdG9vM1lGenk4Q2hheFRwV3JhRnU0c0p5Tnktdjh5SG9FLUktWXQydDIyeXpGU2hubDdrdXplb083Sm9TMGlScl83VUFtTFRraXJsMXZVNGFOM2NTNUFB?oc=5",
-          "published": "2026-10-26T19:18:00Z"
-        },
-        {
-          "title": "Chrishell Stause and G Flip split after 4 years together - Yahoo",
-          "source": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd29vOEsxTDgxY1ZwekdLNnVGM3hBc1dUYWRfOHZsSlRnVTQ0WE9ZUkNtTWlsQnJtOWt2MEdnVzRJcW8tUm5lUXB0NHJiQnBVX0txTVVDSFFWb3Atak5FOTlxTGxDSV95YXFNc2UySWZWckRMbnhhU3FvNUQzSndUTTNSbzluMEg4QlBQV1dDRlgtTy10ZTJmaWJUM0Z1T2Zw?oc=5",
-          "published": "2026-10-26T19:16:31Z"
-        },
-        {
-          "title": "Dollar General overcharged shoppers, FTC and states allege in lawsuit - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTURwVDZtLUFyMFhzVm04T1ZOamQ2aHhCRUpZUXNyRUQ5NmZ5QmNDTEF3ZEJCRmkyT1BvQUtUUk1fTHVhdnplYU1oNWZqM0RsZ2VqODdGQ0xyRXhkbXFERENzaVdZd0JvbjA5VTh1MDhxa2NUbC1VN2Q1QjN0dnNGZ1FFTDVyOFdzd1FQUFZYZEloeUtPcGI1Mw?oc=5",
-          "published": "2026-10-26T18:51:57Z"
-        },
-        {
-          "title": "Dream, Valkyries to play Game 6, WNBA Finals at State Farm as Thursday matinee - ESPN",
+          "title": "Harry Kane wins 2026 Ballon d'Or ahead of Kylian Mbappé, Lamine Yamal; first Englishman in 25 years - ESPN",
           "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaW1QenFMMENlcXVjSVJ5bF9teEY1VUhHdGVzVWdTa0xtMm5PemRMSDNURmpNaE43M3NHdmtkNWZReGUwYVVqRVJMZVRiZm1PdU96ZnRzQW10WEd6Uk5KZ2tRemlpRXhjZFdNTXR0M0o2VDVianhoWE5aeFd4V0ZiTlN5U3FMU0dOdDk0RnVCbjdGS1VCbUR3?oc=5",
-          "published": "2026-10-26T18:47:00Z"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUjhuNHBDX2JzbzMyLVVVbE1ERF9kM3V1UW1Gb2tBR1lScVV3V1NqbnRWS1ZKX1lEOHlRWjI3dW80NUpxNlJXb1daRUQtNktTbHFNaE8tMGdPdGFZeUQ2djZyMXhsR2hkUHM3OFhYamQ5X3lqNmExQ19jX21XRTJmVlpJdE1kVEtINUVZWTAwMTZ1QU5CYzhwWmhQU0RTVWl3eUhz?oc=5",
+          "published": "2026-10-26T23:19:18Z"
         },
         {
-          "title": "Judge says DOJ illegally fired the daughter of former FBI director Comey - NPR",
-          "source": "NPR",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbjRoMzctbTZaSWU1NlhlcHB3T2xxY2otclc3MHpZSUlRcHFnSGRyNi0tekR1WTdtT2dwOVI1Z0NiWi1oY1NFRG5lQVY1LWhoUDd0X21rc1ZXU25ObmFKZmJxb0drQXhYbmtQOFhoUzl4ZUI2TnlTRTJ1Vm43N1ZUTjJDbHJRSXc?oc=5",
-          "published": "2026-10-26T18:38:01Z"
+          "title": "Appeals court rejects DOJ’s bid to quickly force California to set aside ballots - Politico",
+          "source": "Politico",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObXJDTmpfcF9FMjktX3dRZExfRXp1ZDA4WEMtOE9paE10R0F3TG56Y05qYzREQ21XWFRBWE42QUlULWtwU0FkVFdwcU1VNVZUNXU3dlNCa1haVXR1TGdxM2lpaEVhdVBEUk1OQ0s2cTBsQWZSZF9GX09YanhuRl9tSHdubFd4M25MRU9OZ1RIakx5ZG8tWEZubkhB?oc=5",
+          "published": "2026-10-26T23:04:00Z"
         },
         {
-          "title": "Brazil election: Lula wins fourth term in dramatic comeback over Bolsonaro - BBC",
-          "source": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PTWFndXl5TmJOWGdaTFI3eXMzczNmMXNVMGxabnAtX0MyNDFuaUotR3RUR004aDN5S09fZVFQUDVHT1NuMl91WkZ0cV9sWVB2MEVmOHJiczVQWU0?oc=5",
-          "published": "2026-10-26T18:26:19Z"
+          "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect' - CNBC",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYllMbFRuTjU1YW5QWWRQd3JFZ0VkRk52dTl6RG04VEFZZC1HalMxaE9Iem01ZlN4MW5udlBWdUtvVU93U1BETlFVamk5SlNCam1XVVRzWExBemxDSC1yM0pDSHlkR1ZHNlpSNG02OTZCcVlEMGZiUXVBUkRWaWRQYVhkLUNrUmwwZEZ0YXZ6a29pemJHZGNaU2hpVUbSAaIBQVVfeXFMTmt4Q1hTcjFXT0kwZGNHeVE2bU9GaFUxeTVKTmx5bjhmMGFOOTI2R1N1ellVLWQtYzFSZWJBVzU3WDVILWRMR05LSEFnVFNTd1lLNGJyc3k5VjBLWUI1T3lfMmtXcFBENEJQZ3ZVTktfTjJpRFRYS0ktb0tOZkxCSzlPWmM4TXlPTC1zemFtZmpzUUNQQ1RuaEg1MGtKUEgzaU93?oc=5",
+          "published": "2026-10-26T22:50:07Z"
+        },
+        {
+          "title": "WNBA championship may be decided on a Thursday morning because an NBA game took priority - NBC News",
+          "source": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdlZrMkVqaHV3dEJHTS1paUhZOWxzSV8zeGg0MTlOU3JSVTFEQ01RX214cXNCMFBuX2R2S0ZwYW1hV2VtSWNzZnZGOURpQlkya0VLZWRwb2lBSUo5YUg4VTVGb2dia19MR3ltaXFGa2diRVJ0VnV2WlJJYmdCYWNlekVfNjNpdUltZWNiYkI5NlVIT1RzUmdYdXQydTRkZUlSN0xZMGo0NW82bXlWZUNPbDlnakdxRVU?oc=5",
+          "published": "2026-10-26T22:39:38Z"
+        },
+        {
+          "title": "iPhone Duo owners report cracks in Apple’s first foldable handset - The Guardian",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1U1LU1WWXhLcWhiNFNVUzhsdEllUWhkVTlXSXFfVnN2QkVFMVhVTFhYbXRqNGhxcEVkbkU4Y0tFSWNPU0lBdi1PbDM3ZHA4b3ZrRDVrdGFSNDEtcVB4MEZISmt3QURIeG9IQzdvVXhtLVZhcGhOZkEyS0pvLVlWUU0xUXFiaUp1ME9pdnFQZjYzeE9iS0lpa1pkMkV5MC13VFl4c2l0NA?oc=5",
+          "published": "2026-10-26T22:07:00Z"
+        },
+        {
+          "title": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say - The New York Times",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMERWcXFaZ1BsZ3FLanZOZHo1QVowcEtkb0VZTkE1dkF6cmktY3pwUVBYZ2FRTkVOaWpwMTZqbDZmNU15clM1MENCVU5OWWF6YlBYU1JUUUZiQ005VWhZZkxtczA1S1hDc0FFME9heGxMUFhUalJpUHV0X3Z6QjRoUXJyNHg3WERCVDVMa2hKTS0?oc=5",
+          "published": "2026-10-26T21:44:15Z"
         }
       ]
     }
   },
   "newsUrdu": {
     "pakistan": {
-      "updatedAt": "2026-10-26T20:35:43.271203Z",
+      "updatedAt": "2026-10-27T00:33:31.585669Z",
       "source": "Google News RSS",
       "items": [
+        {
+          "title": "The Road Less Travelled By - The Nation (Pakistan )",
+          "source": "The Nation (Pakistan )",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqR19HalF4NzNTamFvZUpvQ3dFU21ORDk0N19HVXJBNUdYWm50OGxGdzlUZlNHZVpjcFBlQ0gxZi1aa0RQSGduei1nQ2pXOV9MWUQxSC1WQU13VWJoYnBRcjY3ZDJiYmRN?oc=5",
+          "published": "2026-10-27T00:18:00Z"
+        },
+        {
+          "title": "Pakistan defends Afghan strikes as self-defense, rejects Taliban’s civilian casualty allegations - Arab News PK",
+          "source": "Arab News PK",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVEJYX0JZMFFFNHU5MlB1Zkg5Uy1uQkp1b3JfTHdUUXRwY0VpbHVoZElvOElMZENjb3J1RHBod1lBTExHRDAyZnFidWJmUGlZdFBSTDF1Q3ZtRmkzVy1ic2xvb3B5OE1SRXQ4OEN6d2ZOU2NUQnFEWEhkckFUWVppX0EyNEczdjBZVTlLUTh1UnhUVUVhMUdVYV9MbnNlSTE3T0JjSHdxTGdNMGdSQ2d6VWZWMmZoWVdtQTM5X3NsT2w5c2VKWXhLNGhwRHFPeFZZ?oc=5",
+          "published": "2026-10-27T00:08:37Z"
+        },
+        {
+          "title": "PAK vs ENG, 4th Match, Pakistan ODI Tri-Series, 2026 - Live Stream - Cricbuzz",
+          "source": "Cricbuzz",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNG9KVDFuWWpkRUowdmhhX2dOTFJoc3ZtMy13Y1pENkdKRFlkckhuUmhvZkNzTmxXbFNNa2dxaFkwVGxiUjgzd3FxdzB1aHN0YjVaSVAyUEpIdTNTZ0trM0hEclJZendRUi1kQ2xsVC1neUxUNHJmYkZFZVc4TWk3cVBXcFN6NzlGZmVfd1JCZUlhcTZTSnprUWFtRkFDMGVVbnpJ?oc=5",
+          "published": "2026-10-26T22:44:37Z"
+        },
+        {
+          "title": "Thousands of trucks stuck as partial Iran-Pakistan trade resumes - Arab News PK",
+          "source": "Arab News PK",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjlFU1hHcjhvaVNoYVNaZHdEdS1rdUdvR3kxSWNxY2U4aWViYm10ZVlraXZHNlpwal92Vkl5VnhTS01yRW1GYXIwcnVrQWpONjVWN0U0dzZMbG5PQmVBZDNtRHhWc1d3QkdNZEM5b2ZyMEtHNTcyLWdMT2pheTFIZXhiRXlXWFExUmxUV3hldGc5OVdhcG9YMklJSXQ1WEdpWm0ydA?oc=5",
+          "published": "2026-10-26T22:41:21Z"
+        },
+        {
+          "title": "Harry Brook reconnects with Lahore Qalandars during Pakistan tour - The Nation (Pakistan )",
+          "source": "The Nation (Pakistan )",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOXZLNklHQVhSNV9jTjREX2cyMENfN0tBRW5GUUJvbUxSQ0NXSmk2T0tnQ0tSMUFld1NvYkV0QWdtR2k5dHlnTFphUzc1YkZueENWOFQwV05PX3pIMUpoLXVSWE1ReXM3cXUtZGJzVDhqX1J0TWxzcmx6YnpRd1JyTnJXSUUwcGlxOC1OVHFBOC1SakNmcWc?oc=5",
+          "published": "2026-10-26T20:48:00Z"
+        },
+        {
+          "title": "Unbeaten Pakistan face resurgent Sri Lanka in crucial Tri-series clash - The Nation (Pakistan )",
+          "source": "The Nation (Pakistan )",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNHVrVGN6RjN3LUg4MFlHTDlOVmt5UV9VVnd6YXAtQ0hDYmY5c3hsT3JqblNRajZJYmJoSXp5Y0xrMmszRFZjRTFzd3E1TUJrVWs0aTBhU093RW5nM3J6TF9oYjZRNjZ6R2dxWUxaS19zdDFvdGhVSDR2bldVNkZ5OU4wVGJkU1lCc091aDFtR2REd1o0M1g1ZFRpNUxaVkFkOC1qelpUQzg?oc=5",
+          "published": "2026-10-26T20:45:00Z"
+        },
+        {
+          "title": "Commerce minister pushes for Turkish, Qatari investment at WIF 2026 in Doha - The Nation (Pakistan )",
+          "source": "The Nation (Pakistan )",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYVNYYWt1UVNVZkI5VU1TTU9JWURiSUNEU2VVS3lKZ1NQZFpnZTE5VDlJN0I5S2JEaDY1RktrWFhNWDdsRlRtSUZsczdHY3N1bGpCQ2pZQUhXRnlHbkticVZ5VWlLN0JrNGtXNWdmVTJDR1JDWkU1dWV5eUlnb2JMbEJTTGctN1RFTlhLYVRZSHA2RlJJdVF5MzFLMFYxdWNhSFJhbg?oc=5",
+          "published": "2026-10-26T20:25:00Z"
+        },
         {
           "title": "Pakistan reopens Iran border crossing after week-long closure — traders, customs agent - Arab News PK",
           "source": "Arab News PK",
@@ -134,98 +176,56 @@
           "published": "2026-10-26T19:59:45Z"
         },
         {
-          "title": "PAK vs ENG, 4th Match, Pakistan ODI Tri-Series, 2026 - Live Stream - Cricbuzz",
-          "source": "Cricbuzz",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNG9KVDFuWWpkRUowdmhhX2dOTFJoc3ZtMy13Y1pENkdKRFlkckhuUmhvZkNzTmxXbFNNa2dxaFkwVGxiUjgzd3FxdzB1aHN0YjVaSVAyUEpIdTNTZ0trM0hEclJZendRUi1kQ2xsVC1neUxUNHJmYkZFZVc4TWk3cVBXcFN6NzlGZmVfd1JCZUlhcTZTSnprUWFtRkFDMGVVbnpJ?oc=5",
-          "published": "2026-10-26T19:43:19Z"
-        },
-        {
-          "title": "Iran, Pakistan, Saudi Arabia, Türkiye agree to continue talks amid fears of wider war - Arab News PK",
-          "source": "Arab News PK",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcXhiRzA4Nk5pVjlwc1BvQ2ttMHZsQzhfNGtQT0V2dXdBd18za2RxaXhpT1ZfYVkzRndBbU8xMHdESnFHM1ZGR3lvRzNqZ3JpTFgya1NmaFdKUGJZcjdwSnF3REVsY3FBcUlRcjJJZG80ZHpRME9qYjJHWEtqeDJMbC13dXFnM0ZBY3JCUW0xZ2wtbkNXSGFfanFOOGtvcF9OOU9xcS1PS1c4VUVjUm1rb0hGcXRzeHRSZUtNOXpuLVB4Z2ExN25z?oc=5",
-          "published": "2026-10-26T19:29:07Z"
-        },
-        {
-          "title": "Pakistan-China Friendship gets Powerful Voice with Information Corridor - Pakistan Observer",
-          "source": "Pakistan Observer",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNjhqV1Z1by1PRUpIR0hkTjBkOUU2UjU0WHF6V2RUOU5pcHM5bEZORUdULVV2dmhwZjgwMG9yd2x0d25aWU1xRHUxTmNtRFdUUXhoY0hOTnJwSDE1RjZMTC1TMmNZVWZ2SkFrcS0tYkcyLWM4ODRHdlIyWVh0U2gtd0pRcFpQS3doVEttZV9VOU8tQlR5YXhuNHpYd3E?oc=5",
-          "published": "2026-10-26T18:45:21Z"
-        },
-        {
-          "title": "Pakistan defends Afghan strikes as self-defense, rejects Taliban’s civilian casualty allegations - Arab News PK",
-          "source": "Arab News PK",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVEJYX0JZMFFFNHU5MlB1Zkg5Uy1uQkp1b3JfTHdUUXRwY0VpbHVoZElvOElMZENjb3J1RHBod1lBTExHRDAyZnFidWJmUGlZdFBSTDF1Q3ZtRmkzVy1ic2xvb3B5OE1SRXQ4OEN6d2ZOU2NUQnFEWEhkckFUWVppX0EyNEczdjBZVTlLUTh1UnhUVUVhMUdVYV9MbnNlSTE3T0JjSHdxTGdNMGdSQ2d6VWZWMmZoWVdtQTM5X3NsT2w5c2VKWXhLNGhwRHFPeFZZ?oc=5",
-          "published": "2026-10-26T18:29:50Z"
-        },
-        {
-          "title": "Shadab Khan’s Stunning Century Powers Pakistan to One-Wicket Victory Over England - Tapmad",
-          "source": "Tapmad",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU09VNTV3ckZMRWxndVJHSi1tOUctazlTVWk1djN4RWlGLTM2SE1EcXRDbmZTLXRodmtTRVRvQkR3Mm5pU25qZ0ZDMXJjbWdyNHB3TDZvNUlwZld5RG9uRGZQbC1kQnRqQldwV0JHVktkT0ljMVVITE9yZjQ4bmJ3S0xjbWFpYldEWlE3VWpBRzV2amFWNlhyc1dmbUVIbEtPYWVvdkFTNFRoem96Y0ZLZ0dHeGowdVRKbnBZ?oc=5",
-          "published": "2026-10-26T18:20:00Z"
-        },
-        {
-          "title": "Pakistan raises interest rate to 12 percent as Middle East war fuels inflation - Arab News PK",
-          "source": "Arab News PK",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaHQtNzRnOU1NZWxzRnA2cVB1X1Bpb3dYaUl3a2FFeVprUm5hYVBlN2QwNzZfWFBPZnpRZ2lSSVdJa21EQWxzUTB6blVVcWRyeXJpZ3BmakZobDQwSXY2NW53QzdkcEdxY29CQWtXaXVJV2FNd3JtZElDa21LazQ3LU5QekcxZkRlYnZISmpZazJwLWJFZzE2Tm1RSzNsVG9DLUlNcmxBOHNjU3FPTzFNM2tNV2dEQVM2NzFJ?oc=5",
-          "published": "2026-10-26T18:08:06Z"
-        },
-        {
-          "title": "Pakistan, Iran, Turkiye and Saudi Arabia agree to continue talks for regional peace - Dunya News",
-          "source": "Dunya News",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcmdjSTVXd0FTYXBkcWM5UDF5RnYwa3VoSGdBRjVmc3ltM1lnTm9OZVVyMFRzZF9veGNrbE83cjFuZ3JaaGh4OUpadFNyUEc4T01xYXRxdjhVUEsyOVIxczVSZS1sWmdFNXU1VWl1X2stTGFPOGhWRFJOSVJBeHJ5RHZEZk1rTEN3NXRQam5ITjBVWkRUNnVDX0dOV3BWMWlNeTByd0hXQ09sWDN10gFWQVVfeXFMUDQzS29wTDZPd0JZNW5QcGp0M3BoTUFfaGxlY3VpZHZqcWFxa3p5RDFRTEJXeGlJWmxjR3YtWkRPcm84bmc4d19vb3EtbVVtN0V2YVJqYmc?oc=5",
-          "published": "2026-10-26T18:08:03Z"
-        },
-        {
-          "title": "Why did Pakistan shut down border trade with Iran? - The Business Standard",
-          "source": "The Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMGdnZk9XSEtjYjlOWGxWN2ZMZFRtVVYzLTNLRHZOWE5idG5BcE1BNDNfMnBQN1NFZE5zSl9hMno3NDd1ODBrQlN3VEVmb09KbC1GUndlSk9RVEZ1cUVubVk3UmVvclMydmJaZ0VBZWljcHotbEVGbHJORGwzWjVGOTN1U2l4d0JVdUdLek9JblZldUJs?oc=5",
-          "published": "2026-10-26T17:20:00Z"
+          "title": "Aurangzeb reaffirms Pakistan’s interest in strengthening economic ties with Ethiopia - The Nation (Pakistan )",
+          "source": "The Nation (Pakistan )",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGRKX1cwSjgtamp1MnJCaGJwMWEzNHc3b2xrbVVVbm4zaDlsdjdSek9ZblRKVFRISGNpWktuQzZ1ZFozdVZpOUs1UEJydGxaZEk4RFJRdjc1N19HTVgzRWpnOU9jM19MaDBhQ0M3SzE3UVJDZU4wdzdleVJQX3BWNFhodDRucFoxdGVZTUxiMDdNZXgzMndHS3o3OWY1RXY1LWZOV181eTRzalA0UzZyajVaNXY?oc=5",
+          "published": "2026-10-26T19:42:00Z"
         }
       ]
     },
     "world": {}
   },
   "weather": {
-    "updatedAt": "2026-10-26T20:35:43.271203Z",
+    "updatedAt": "2026-10-27T00:33:31.585669Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
       {
         "city": "Karachi",
-        "temperatureC": 25,
-        "humidity": 49,
-        "windMs": 3.7,
+        "temperatureC": 24,
+        "humidity": 38,
+        "windMs": 2.8,
         "symbol": "clearsky_night",
-        "forecastTime": "2026-10-26T21:00:00Z"
+        "forecastTime": "2026-10-27T01:00:00Z"
       },
       {
         "city": "Lahore",
-        "temperatureC": 18,
-        "humidity": 79,
-        "windMs": 1.5,
-        "symbol": "clearsky_night",
-        "forecastTime": "2026-10-26T21:00:00Z"
+        "temperatureC": 17,
+        "humidity": 82,
+        "windMs": 1.4,
+        "symbol": "clearsky_day",
+        "forecastTime": "2026-10-27T01:00:00Z"
       },
       {
         "city": "Islamabad",
         "temperatureC": 19,
-        "humidity": 44,
-        "windMs": 2.2,
-        "symbol": "clearsky_night",
-        "forecastTime": "2026-10-26T21:00:00Z"
+        "humidity": 49,
+        "windMs": 1.6,
+        "symbol": "clearsky_day",
+        "forecastTime": "2026-10-27T01:00:00Z"
       },
       {
         "city": "Peshawar",
-        "temperatureC": 15,
-        "humidity": 82,
-        "windMs": 2.1,
-        "symbol": "clearsky_night",
-        "forecastTime": "2026-10-26T21:00:00Z"
+        "temperatureC": 14,
+        "humidity": 80,
+        "windMs": 1.9,
+        "symbol": "partlycloudy_day",
+        "forecastTime": "2026-10-27T01:00:00Z"
       }
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-26T20:35:43.271203Z",
+    "updatedAt": "2026-10-27T00:33:31.585669Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
@@ -234,7 +234,7 @@
         "region": "US",
         "value": 7676.77,
         "changePercent": 0.7,
-        "marketTime": "2026-10-26T20:20:01Z",
+        "marketTime": "2026-10-26T20:43:43Z",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/%5EGSPC/"
       },
@@ -243,7 +243,7 @@
         "symbol": "^FTSE",
         "region": "UK",
         "value": 10767.33,
-        "changePercent": 0.72,
+        "changePercent": 0.39,
         "marketTime": "2026-10-26T16:35:29Z",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/%5EFTSE/"
@@ -251,7 +251,7 @@
     ]
   },
   "sports": {
-    "updatedAt": "2026-10-26T20:35:44.794979Z",
+    "updatedAt": "2026-10-27T00:33:33.134410Z",
     "source": "ESPN cricket snapshot",
     "url": "https://www.espncricinfo.com/live-cricket-score",
     "matches": [

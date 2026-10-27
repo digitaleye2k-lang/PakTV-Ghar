@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-26",
-  "dailySearches": 16,
+  "dailySearches": 24,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -518,7 +518,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iSsowAULHBM/hqdefault.jpg",
-        "checkedAt": "2026-10-22T13:05:46.386479+00:00"
+        "checkedAt": "2026-10-27T00:32:45.167263+00:00"
       }
     ],
     "arydigital-mirza-ki-heer": [
@@ -536,7 +536,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/JVflRbjyA3U/hqdefault.jpg",
-        "checkedAt": "2026-10-22T13:05:46.386479+00:00"
+        "checkedAt": "2026-10-27T00:32:45.167263+00:00"
       },
       {
         "id": "XrppTAxAkcY",
@@ -33432,6 +33432,6 @@
       }
     ]
   },
-  "cursor": 21,
+  "cursor": 25,
   "apiValidated": true
 }
