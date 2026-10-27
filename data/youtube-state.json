@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-27",
-  "dailySearches": 8,
+  "dailySearches": 16,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -670,7 +670,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vbSfVB_VkrM/hqdefault.jpg",
-        "checkedAt": "2026-10-22T15:52:25.125960+00:00"
+        "checkedAt": "2026-10-27T15:25:11.922979+00:00"
       },
       {
         "id": "X9wTUew8Ze4",
@@ -686,7 +686,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/X9wTUew8Ze4/hqdefault.jpg",
-        "checkedAt": "2026-10-22T15:52:25.125960+00:00"
+        "checkedAt": "2026-10-27T15:25:11.922979+00:00"
+      },
+      {
+        "id": "2dfBiKAwmcI",
+        "title": "Pehli Barish Episode 41 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Aijaz Aslam - Saboor Ali || Har Pal Geo",
+        "episode": 41,
+        "date": "2026-08-09",
+        "published": "2026-08-09T22:30:21Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/2dfBiKAwmcI/hqdefault.jpg",
+        "checkedAt": "2026-10-27T15:25:11.922979+00:00"
       },
       {
         "id": "S_G2VUog-_M",
@@ -702,7 +718,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/S_G2VUog-_M/hqdefault.jpg",
-        "checkedAt": "2026-10-22T15:52:25.125960+00:00"
+        "checkedAt": "2026-10-27T15:25:11.922979+00:00"
       },
       {
         "id": "SEbNv6c5si0",
@@ -718,7 +734,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SEbNv6c5si0/hqdefault.jpg",
-        "checkedAt": "2026-10-22T15:52:25.125960+00:00"
+        "checkedAt": "2026-10-27T15:25:11.922979+00:00"
       }
     ],
     "harpalgeo-shaidai": [
@@ -736,7 +752,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kT5HHJDY8NA/hqdefault.jpg",
-        "checkedAt": "2026-10-22T19:00:32.878598+00:00"
+        "checkedAt": "2026-10-27T15:25:11.922979+00:00"
       },
       {
         "id": "s9iFJ19ZdAY",
@@ -752,7 +768,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/s9iFJ19ZdAY/hqdefault.jpg",
-        "checkedAt": "2026-10-22T19:00:32.878598+00:00"
+        "checkedAt": "2026-10-27T15:25:11.922979+00:00"
       },
       {
         "id": "dIe4nDHGm-g",
@@ -768,7 +784,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dIe4nDHGm-g/hqdefault.jpg",
-        "checkedAt": "2026-10-22T19:00:32.878598+00:00"
+        "checkedAt": "2026-10-27T15:25:11.922979+00:00"
+      },
+      {
+        "id": "TmWFxqx2aJo",
+        "title": "Shaidai Last Episode 30 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Feroze Khan - Sahar Hashmi | Har Pal Geo",
+        "episode": 30,
+        "date": "2026-07-30",
+        "published": "2026-07-30T19:30:25Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/TmWFxqx2aJo/hqdefault.jpg",
+        "checkedAt": "2026-10-27T15:25:11.922979+00:00"
       }
     ],
     "hum-aye-dil-aazma-nahi": [
@@ -786,7 +818,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/LDu-XHAWJM4/hqdefault.jpg",
-        "checkedAt": "2026-10-22T19:00:32.878598+00:00"
+        "checkedAt": "2026-10-27T15:25:11.922979+00:00"
       },
       {
         "id": "Gud4kMK5WrM",
@@ -802,7 +834,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Gud4kMK5WrM/hqdefault.jpg",
-        "checkedAt": "2026-10-22T19:00:32.878598+00:00"
+        "checkedAt": "2026-10-27T15:25:11.922979+00:00"
       },
       {
         "id": "GLVCe0bFBXw",
@@ -818,7 +850,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GLVCe0bFBXw/hqdefault.jpg",
-        "checkedAt": "2026-10-22T19:00:32.878598+00:00"
+        "checkedAt": "2026-10-27T15:25:11.922979+00:00"
       },
       {
         "id": "kNBnHth7BT8",
@@ -1121,22 +1153,6 @@
         "checkedAt": "2026-10-17T03:49:41.164961+00:00"
       },
       {
-        "id": "8FGefmw2VtM",
-        "title": "Angna Episode 55 - 26th May 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 55,
-        "date": "2022-05-26",
-        "published": "2022-05-26T15:06:47Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/8FGefmw2VtM/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
-      },
-      {
         "id": "2k23VBBSOLk",
         "title": "Angna Episode 52 - 23rd May 2022 (English Subtitles) ARY Digital Drama",
         "episode": 52,
@@ -1183,22 +1199,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PMe7H0VyUy4/hqdefault.jpg",
         "checkedAt": "2026-10-23T01:07:06.447268+00:00"
-      },
-      {
-        "id": "hXHsKYuV7Xk",
-        "title": "Angna Episode 49 | 20th May 2022 (English Subtitles) ARY Digital Drama",
-        "episode": 49,
-        "date": "2022-05-20",
-        "published": "2022-05-20T15:04:28Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/hXHsKYuV7Xk/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
       },
       {
         "id": "UVDNBvHmQaA",
@@ -1393,22 +1393,6 @@
         "checkedAt": "2026-10-23T01:07:06.447268+00:00"
       },
       {
-        "id": "7yIcfmxCmm8",
-        "title": "Angna Episode 29 - 7th April 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 29,
-        "date": "2022-04-07",
-        "published": "2022-04-07T19:08:32Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/7yIcfmxCmm8/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
-      },
-      {
         "id": "CNwyyJI7A7s",
         "title": "Angna Episode 26 - 1st April 2022 (English Subtitles) - ARY Digital Drama",
         "episode": 26,
@@ -1583,22 +1567,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/77HSL_fq-ZM/hqdefault.jpg",
         "checkedAt": "2026-10-23T01:07:06.447268+00:00"
-      },
-      {
-        "id": "XGRfFLRbb3U",
-        "title": "Angna Episode 12 (English Subtitles) ARY Digital Drama",
-        "episode": 12,
-        "date": "2022-03-18",
-        "published": "2022-03-18T15:06:04Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/XGRfFLRbb3U/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
       },
       {
         "id": "gtJmxWGwxME",
@@ -2533,22 +2501,6 @@
         "checkedAt": "2026-10-23T03:52:51.928458+00:00"
       },
       {
-        "id": "pNnB3PIxmno",
-        "title": "Baby Baji Episode 15 | 6th June 2023 (English Subtitles) | ARY Digital Drama",
-        "episode": 15,
-        "date": "2023-06-06",
-        "published": "2023-06-06T15:00:29Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/pNnB3PIxmno/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
-      },
-      {
         "id": "PrzZA40k928",
         "title": "Baby Baji Episode 13 | 4th June 2023 (English Subtitles) ARY Digital Drama",
         "episode": 13,
@@ -2823,22 +2775,6 @@
         "checkedAt": "2026-10-23T03:52:51.928458+00:00"
       },
       {
-        "id": "1hdX_VZFyyg",
-        "title": "Baby Baji Ki Bahuwain Episode 62 | 23 November 2024 (Eng Sub) ARY Digital",
-        "episode": 62,
-        "date": "2024-11-23",
-        "published": "2024-11-23T15:00:03Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/1hdX_VZFyyg/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
-      },
-      {
         "id": "-XK1Ti91U0U",
         "title": "Baby Baji Ki Bahuwain Episode 61 | Digitally Presented by Sensodyne | 22 November 2024 (Eng Sub) ARY",
         "episode": 61,
@@ -2901,38 +2837,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TaSR5ORL84Q/hqdefault.jpg",
         "checkedAt": "2026-10-23T03:52:51.928458+00:00"
-      },
-      {
-        "id": "Tmw2rh3ihpI",
-        "title": "Baby Baji Ki Bahuwain Episode 53 | Digitally Presented by Sensodyne | 14 November 2024 (Eng Sub)ARY",
-        "episode": 53,
-        "date": "2024-11-14",
-        "published": "2024-11-14T15:00:28Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Tmw2rh3ihpI/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
-      },
-      {
-        "id": "yE-bfAzpvIc",
-        "title": "Baby Baji Ki Bahuwain Episode 38| Digitally Presented by Sensodyne | 30 Oct 2024 (English Subtitles)",
-        "episode": 38,
-        "date": "2024-10-30",
-        "published": "2024-10-30T15:01:20Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/yE-bfAzpvIc/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
       },
       {
         "id": "SNKGJH_Pths",
@@ -3047,22 +2951,6 @@
         "checkedAt": "2026-10-23T03:52:51.928458+00:00"
       },
       {
-        "id": "uAY7rSZXsSs",
-        "title": "Baby Baji Ki Bahuwain Episode 25 | 17 October 2024 (English Subtitles) ARY Digital",
-        "episode": 25,
-        "date": "2024-10-17",
-        "published": "2024-10-17T15:10:54Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/uAY7rSZXsSs/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
-      },
-      {
         "id": "ewdmnhqD4Dk",
         "title": "Baby Baji Ki Bahuwain Episode 23 | 15 October 2024 (English Subtitles) ARY Digital",
         "episode": 23,
@@ -3095,22 +2983,6 @@
         "checkedAt": "2026-10-23T03:52:51.928458+00:00"
       },
       {
-        "id": "KzxB12C3JLM",
-        "title": "Baby Baji Ki Bahuwain Episode 15 | 7 October 2024 (English Subtitles) ARY Digital",
-        "episode": 15,
-        "date": "2024-10-07",
-        "published": "2024-10-07T15:00:21Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/KzxB12C3JLM/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
-      },
-      {
         "id": "iZ5kSm-KUL8",
         "title": "Baby Baji Ki Bahuwain Episode 14 | 6 October 2024 (English Subtitles) | ARY Digital",
         "episode": 14,
@@ -3125,38 +2997,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iZ5kSm-KUL8/hqdefault.jpg",
         "checkedAt": "2026-10-23T03:52:51.928458+00:00"
-      },
-      {
-        "id": "kVe_Al48XA4",
-        "title": "Baby Baji Ki Bahuwain Episode 13 | 5 October 2024 (English Subtitles) ARY Digital",
-        "episode": 13,
-        "date": "2024-10-05",
-        "published": "2024-10-05T15:00:49Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/kVe_Al48XA4/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
-      },
-      {
-        "id": "p-jq2Qz9xk4",
-        "title": "Baby Baji Ki Bahuwain Episode 10 | 2 October 2024 (English Subtitles) | ARY Digital",
-        "episode": 10,
-        "date": "2024-10-02",
-        "published": "2024-10-02T15:00:53Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/p-jq2Qz9xk4/hqdefault.jpg",
-        "checkedAt": "2026-10-13T15:19:53.221732+00:00"
       },
       {
         "id": "oUM1A2JmJYk",
@@ -33432,6 +33272,6 @@
       }
     ]
   },
-  "cursor": 29,
+  "cursor": 33,
   "apiValidated": true
 }
