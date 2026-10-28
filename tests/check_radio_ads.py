@@ -1,4 +1,4 @@
-"""Pakistan live-radio and opt-in Adsterra safeguards."""
+"""Pakistan live-radio and optional AdSense-only advertising safeguards."""
 from pathlib import Path
 import subprocess
 import json
@@ -38,31 +38,29 @@ for id in ("radioAudio","radioStop","radioStations","radioSearch","radioPlayerSt
 assert 'src="./radio.js"' in music and 'Pakistan Live Radio' in music
 
 consent=(root/"cookie-consent.js").read_text(encoding="utf-8")
-assert 'paktvAutoAds' in consent and 'paktvExtraAds' in consent
-assert 'kids|waggle-play|waggle-workshop' in consent
-assert 'standaloneAdSlots();' in consent
-assert 'if(!GPC&&saved?.ads){loadDisplayAds();installSideAd();}' in consent
-assert 'saved?.googleAds&&document.body?.dataset?.paktvBannerOnly!=="yes"' in consent
-assert 'saved?.extra&&document.body?.dataset?.paktvExtraAds!=="no"' in consent
-assert 'paktvBannerOnly' in consent
-assert 'ad-banner.html' in consent
-assert 'profitableratecpmnetwork.com' in consent
-assert 'highrevenueformat.com' in (root/"ad-banner.html").read_text(encoding="utf-8")
+assert 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js' in consent
+assert 'ca-pub-7935805760564580' in consent
+assert 'VERSION=3' in consent
+assert 'globalPrivacyControl' in consent
+assert 'loadGoogleAds()' in consent
+assert 'standaloneAdSlots' not in consent
+assert not (root/"ad-banner.html").exists()
+assert not (root/"ad-side.html").exists()
+assert 'profitableratecpmnetwork' not in consent and 'highrevenueformat' not in consent
 for name in ("index.html","today.html","movies.html","news.html","comedy.html","dramas.html",
              "sports.html","archive.html","my-paktv.html","search.html","show.html",
              "talk.html","vloggers.html"):
     page=(root/name).read_text(encoding="utf-8")
-    assert 'cookie-consent.js' in page and 'paktvBannerSection' in page,name
+    assert 'cookie-consent.js?v=adsense3' in page and 'paktvBannerSection' not in page,name
 for name in ("music.html","gupshup.html","community.html","privacy.html","disclaimer.html"):
     page=(root/name).read_text(encoding="utf-8")
     for marker in ('data-paktv-auto-ads="yes"','cookie-consent.js','ads-standalone.css',
                    'cookie-consent.css','data-privacy-settings'):
         assert marker in page, name+": missing "+marker
-    assert '<script src="https://www.highrevenueformat.com/' not in page
-    assert '<script src="https://pl31793698.profitableratecpmnetwork.com/' not in page
+    assert 'cookie-consent.js?v=adsense3' in page
 for name in ("community.html","gupshup.html"):
     page=(root/name).read_text(encoding="utf-8")
-    assert 'data-paktv-banner-only="yes"' in page, name+" must prevent page-level advertiser scripts"
+    assert 'cookie-consent.js?v=adsense3' in page, name+" must include AdSense-only consent"
 for name in ("kids.html","waggle-play.html","waggle-workshop.html"):
     page=(root/name).read_text(encoding="utf-8")
     assert 'data-paktv-auto-ads' not in page and 'cookie-consent.js' not in page,name
@@ -70,4 +68,4 @@ for name in ("kids.html","waggle-play.html","waggle-workshop.html"):
 assert 'python3 radio_fetch.py' in (root/".github/workflows/publish.yml").read_text(encoding="utf-8")
 stations=json.loads((root/"data/radio.json").read_text(encoding="utf-8"))
 assert any(s["name"].startswith("Radio Pakistan") for s in stations["stations"])
-print("Pakistan radio dial, offline-safe source filtering and non-kids opt-in advertising checks passed.")
+print("Pakistan radio, AdSense-only consent and no-kids-advertising checks passed.")
