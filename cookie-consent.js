@@ -5,7 +5,7 @@
 (() => {
   "use strict";
   const KEY="pgh_consent_v1";
-  const VERSION=3; // Reset previously saved Adsterra consent and request fresh Google-only choice.
+  const VERSION=3; // Reset previously saved old-network consent and request fresh Google-only choice.
   const AGE=180*24*60*60*1000;
   const CLIENT="ca-pub-7935805760564580";
   const GPC=navigator.globalPrivacyControl===true;
