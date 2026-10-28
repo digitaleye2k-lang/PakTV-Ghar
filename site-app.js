@@ -146,6 +146,7 @@ const NAV = [
  {id:'talk',icon:'🎙️',en:'Talk Shows',ur:'ٹاک شوز'},
  {id:'vloggers',icon:'📹',en:'YouTubers',ur:'یوٹیوبرز'},
  {id:'archive',icon:'🗓️',en:'Video Archive',ur:'پرانے ویڈیوز'},
+ {id:'dashboard',icon:'🏡',en:'My PakTV Ghar',ur:'میرا پاک ٹی وی گھر'},
  {id:'favourites',icon:'♡',en:'Favourites',ur:'پسندیدہ'},
  {id:'zaika',icon:'🍛',en:'Desi Zaika · Food',ur:'دیسی ذائقہ',href:'./desi-zaika.html'},
  {id:'yaadein',icon:'📼',en:'Yaadein · Nostalgia',ur:'یادیں',href:'./yaadein.html'},
@@ -157,7 +158,7 @@ const el=id=>document.getElementById(id);
 const escapeHTML=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safeGet=(key,fallback)=>{try{const x=JSON.parse(localStorage.getItem(key));return x??fallback}catch{return fallback}};
 const safeSet=(key,x)=>{try{localStorage.setItem(key,JSON.stringify(x))}catch{}};
-const state={page:'home',query:'',language:safeGet('pgh_lang','en'),favoriteVideos:safeGet('pgh_video_favs',[]),savedVideoData:safeGet('pgh_video_data',{}),favoriteChannels:safeGet('pgh_channel_favs',[]),favoriteShows:safeGet('pgh_show_favs',[]),libraryFilter:'featured',networkFilter:'all',visibleShows:30,schedule:null,scheduleLoading:true,showMeta:{},showMetaLoaded:false,episodeList:[],episodeLoading:false,episodeLoadedFor:'',episodePage:0,history:safeGet('pgh_history',[]),currentVideo:null,backend:false,apiMode:'',feed:[],archiveVideos:[],archiveLoaded:false,archiveError:false,archivePeriod:'all',archiveCategory:'all',archiveChannel:'all',archiveGenre:'all',creatorGenre:'all',movieSearch:'',archiveDate:'',archiveQuery:'',archiveLimit:30,visibleVideos:24,feedTried:false,feedLoading:false,searchResults:[],searchLoading:false,searchMode:'',searchMessage:'',searchRequest:0,ytPlayer:null,ytLoaded:false,searchTimer:null,toastTimer:null};
+const state={page:'home',query:'',language:safeGet('pgh_lang','en'),favoriteVideos:safeGet('pgh_video_favs',[]),savedVideoData:safeGet('pgh_video_data',{}),favoriteChannels:safeGet('pgh_channel_favs',[]),favoriteShows:safeGet('pgh_show_favs',[]),libraryFilter:'featured',networkFilter:'all',visibleShows:30,schedule:null,scheduleLoading:true,showMeta:{},showMetaLoaded:false,episodeList:[],episodeLoading:false,episodeLoadedFor:'',episodePage:0,history:safeGet('pgh_history',[]),historyData:safeGet('pgh_history_data',{}),watchProgress:safeGet('pgh_watch_progress',{}),dashboardPrefs:safeGet('pgh_dashboard_topics',[]),resumeVideoId:null,currentVideo:null,backend:false,apiMode:'',feed:[],archiveVideos:[],archiveLoaded:false,archiveError:false,archivePeriod:'all',archiveCategory:'all',archiveChannel:'all',archiveGenre:'all',creatorGenre:'all',movieSearch:'',archiveDate:'',archiveQuery:'',archiveLimit:30,visibleVideos:24,feedTried:false,feedLoading:false,searchResults:[],searchLoading:false,searchMode:'',searchMessage:'',searchRequest:0,ytPlayer:null,ytLoaded:false,searchTimer:null,toastTimer:null};
 const videoURL=id=>`https://www.youtube.com/watch?v=${encodeURIComponent(id)}`;
 const channelURL=c=>`https://www.youtube.com/@${encodeURIComponent(c.handle)}`;
 const thumb=id=>`https://i.ytimg.com/vi/${encodeURIComponent(id)}/hqdefault.jpg`;
@@ -167,7 +168,7 @@ function uniqueVideos(arr){const seen=new Set();return arr.filter(v=>{if(!/^[\w-
 const PAGE_FILES={home:'./index.html',today:'./today.html',dramas:'./dramas.html',
  movies:'./movies.html',comedy:'./comedy.html',news:'./news.html',sports:'./sports.html',
  talk:'./talk.html',vloggers:'./vloggers.html',archive:'./archive.html',
- favourites:'./favourites.html',search:'./search.html'};
+ favourites:'./favourites.html',dashboard:'./my-paktv.html',search:'./search.html'};
 function routeURL(page){return PAGE_FILES[page]||'./index.html'}
 function locationPage(){
  const filename=location.pathname.split('/').pop().toLowerCase();
@@ -478,6 +479,7 @@ function renderHome(){
       '<button type="button" class="quick-tile" data-nav="'+id+'"><span class="quick-emoji">'+icon+'</span><span class="quick-name">'+label+'</span></button>').join('')+
     '<a class="quick-tile community-home-tile" href="./kids.html"><span class="quick-emoji">🌈</span><span class="quick-name">Kids Corner</span></a>'+
     '<a class="quick-tile community-home-tile" href="./gupshup.html"><span class="quick-emoji">☕</span><span class="quick-name">GUPSHUP</span></a>'+
+    '<a class="quick-tile community-home-tile" href="./my-paktv.html"><span class="quick-emoji">🏡</span><span class="quick-name">My PakTV Ghar</span></a>'+
     '</div>'+
     retroGamePromo()+
     '<div id="homeBriefing" class="home-briefing" aria-label="Latest news, Pakistan weather and world markets"></div>'+
@@ -764,6 +766,76 @@ function renderArchive(){
     renderInfo();
 }
 
+
+const DASH_TOPICS=[
+ {id:'dramas',icon:'🎬',label:'Dramas'},
+ {id:'movies',icon:'🎞️',label:'Movies'},
+ {id:'music',icon:'🎵',label:'Music'},
+ {id:'sports',icon:'🏏',label:'Cricket & Sports'},
+ {id:'news',icon:'📡',label:'News'},
+ {id:'comedy',icon:'😄',label:'Comedy'},
+ {id:'talk',icon:'🎙️',label:'Talk Shows'},
+ {id:'vloggers',icon:'📹',label:'YouTubers'}
+];
+function dashboardTime(n){const s=Math.max(0,Math.floor(Number(n)||0));return s>=3600?`${Math.floor(s/3600)}:${String(Math.floor(s/60)%60).padStart(2,'0')}:${String(s%60).padStart(2,'0')}`:`${Math.floor(s/60)}:${String(s%60).padStart(2,'0')}`}
+function dashboardVideo(id){
+ const v=pickVideo(id);if(v)return v;
+ const old=state.historyData?.[id];
+ return old&&old.id===id&&/^[A-Za-z0-9_-]{11}$/.test(id)?old:null;
+}
+function dashboardPicks(){
+ const prefs=Array.isArray(state.dashboardPrefs)?state.dashboardPrefs:[];
+ const favCh=new Set(state.favoriteChannels);
+ const watched=new Set(state.history), saved=new Set(state.favoriteVideos);
+ const liked=LIBRARY.filter(s=>state.favoriteShows.includes(s.id)).map(s=>s.name.toLowerCase());
+ const rows=uniqueVideos([...state.feed,...state.archiveVideos,...SEED_VIDEOS])
+   .filter(v=>!watched.has(v.id)&&!saved.has(v.id)).map((v,i)=>{
+   const cat=String(v.category||'').toLowerCase(),name=String(v.title||'').toLowerCase();
+   let score=favCh.has(v.channelId)?12:0;
+   if(prefs.includes(cat))score+=5;
+   if(prefs.includes('music')&&(cat==='music'||/music/i.test(v.genre||'')))score+=5;
+   if(prefs.includes('sports')&&/cricket/i.test(name))score+=4;
+   if(liked.some(title=>title.length>5&&name.includes(title)))score+=9;
+   return {v,i,score};
+ });
+ const tailored=prefs.length>0||favCh.size>0||liked.length>0;
+ return {videos:(tailored?rows.filter(r=>r.score>0).sort((a,b)=>b.score-a.score||a.i-b.i):rows).slice(0,8).map(r=>r.v),tailored};
+}
+function renderMyDashboard(){
+ const prefs=Array.isArray(state.dashboardPrefs)?state.dashboardPrefs:[];
+ const shows=LIBRARY.filter(s=>state.favoriteShows.includes(s.id)).slice(0,6);
+ const channels=CHANNELS.filter(c=>state.favoriteChannels.includes(c.id)).slice(0,4);
+ const saved=uniqueVideos([...Object.values(state.savedVideoData||{}),...state.archiveVideos,...state.feed,...SEED_VIDEOS])
+   .filter(v=>state.favoriteVideos.includes(v.id)).slice(0,6);
+ const history=(Array.isArray(state.history)?state.history:[]).map(dashboardVideo).filter(Boolean).slice(0,8);
+ const picks=dashboardPicks();
+ const count=state.favoriteShows.length+state.favoriteChannels.length+state.favoriteVideos.length;
+ const progress=state.watchProgress&&typeof state.watchProgress==='object'?state.watchProgress:{};
+ return `<div class="pgh-dash">
+ <section class="pgh-dash-hero"><div><span class="eyebrow">YOUR OWN ENTERTAINMENT SPACE</span><h1>🏡 My PakTV Ghar <small lang="ur">میرا پاک ٹی وی گھر</small></h1>
+ <p>Khush aamdeed! Your favourite Pakistani programmes, recently opened videos and fresh picks for the things you enjoy.</p>
+ <span class="pgh-dash-privacy">🔒 Private on this device · No account required</span></div>
+ <div class="pgh-dash-numbers"><div><strong>${count}</strong><span>Favourites</span></div><div><strong>${state.history.length}</strong><span>Recently opened</span></div><div><strong>${prefs.length}</strong><span>Interests</span></div></div></section>
+ <section class="pgh-dash-section"><div class="pgh-dash-header"><div><span class="eyebrow">MAKE IT YOURS</span><h2>What do you love watching?</h2><p>Select topics to guide recommendations from the latest indexed videos.</p></div>${prefs.length?'<button type="button" class="pgh-dash-simple" data-dash-reset>Reset topics</button>':''}</div>
+ <div class="pgh-dash-topics" role="group" aria-label="Favourite topics">${DASH_TOPICS.map(t=>`<button type="button" data-dash-topic="${t.id}" aria-pressed="${prefs.includes(t.id)}"><span>${t.icon}</span>${t.label}</button>`).join('')}</div></section>
+ <section class="pgh-dash-section"><div class="pgh-dash-header"><div><span class="eyebrow">PICK UP WHERE YOU LEFT OFF</span><h2>Recently opened</h2><p>Replay your recent choices, or resume at a saved point when YouTube permits it.</p></div>${state.history.length?'<button type="button" data-dash-clear class="pgh-dash-simple">Clear history</button>':''}</div>
+ ${history.length?`<div class="pgh-dash-recent">${history.map(v=>{
+  const p=progress[v.id],valid=p&&Number.isFinite(p.seconds)&&Number.isFinite(p.duration)&&p.seconds>15&&p.duration>60&&p.seconds<p.duration-20;
+  const percent=valid?Math.round(p.seconds/p.duration*100):0;
+  return `<article class="pgh-dash-recent-item"><img src="${thumb(v.id)}" alt="" loading="lazy"><div><span>${escapeHTML(v.channel||'YouTube')}</span><h3>${escapeHTML(v.title)}</h3>${valid?`<div class="pgh-dash-progress" role="progressbar" aria-label="Playback progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="${percent}"><i style="width:${percent}%"></i></div><small>Saved at ${dashboardTime(p.seconds)} of ${dashboardTime(p.duration)}</small>`:''}<button type="button" ${valid?'data-dash-resume':'data-video'}="${escapeHTML(v.id)}">${valid?'▶ Resume video':'▶ Watch again'}</button></div></article>`;
+ }).join('')}</div>`:`<div class="pgh-dash-empty">📺 No videos opened here yet. Start watching and they will appear in this space. <a href="./dramas.html">Explore dramas →</a></div>`}</section>
+ <section class="pgh-dash-section"><div class="pgh-dash-header"><div><span class="eyebrow">YOUR COLLECTION</span><h2>Saved favourites</h2><p>The programmes, videos and channels you've saved with a heart.</p></div><a href="./favourites.html">See all favourites →</a></div>
+ ${shows.length?`<h3 class="pgh-dash-subtitle">❤️ Saved programmes</h3><div class="series-grid">${shows.map(seriesCard).join('')}</div>`:''}
+ ${saved.length?`<h3 class="pgh-dash-subtitle">🎞️ Saved videos</h3><div class="media-grid">${saved.map(videoCard).join('')}</div>`:''}
+ ${channels.length?`<h3 class="pgh-dash-subtitle">📡 Pinned channels</h3><div class="channel-grid">${channels.map(channelCard).join('')}</div>`:''}
+ ${!shows.length&&!channels.length&&!saved.length?`<div class="pgh-dash-empty">💛 Nothing saved yet. Tap the heart on any programme, video or channel to keep it close. <a href="./favourites.html">See favourites →</a></div>`:''}</section>
+ <section class="pgh-dash-section"><div class="pgh-dash-header"><div><span class="eyebrow">FRESH FROM ORIGINAL PUBLISHERS</span><h2>${picks.tailored?'Picked for you':'Discover something new'}</h2><p>${picks.tailored?'Based on your topics and favourites, from the recently indexed YouTube feed.':'Choose your interests to personalise this section.'}</p></div></div>
+ ${picks.videos.length?`<div class="media-grid">${picks.videos.map(videoCard).join('')}</div>`:`<div class="pgh-dash-empty">There are no matching fresh videos in the current index. <a href="./archive.html">Browse the archive →</a></div>`}</section>
+ <section class="pgh-dash-extras"><h2>Explore more of your PakTV Ghar</h2><nav aria-label="Discover more"><a href="./music.html#originals">🎵 PKG Originals</a><a href="./gupshup.html">☕ GUPSHUP</a><a href="./desi-zaika.html">🍛 Desi Zaika</a><a href="./yaadein.html">📼 Yaadein</a><a href="./kids.html">🌈 Kids</a></nav></section>
+ <p class="pgh-dash-notice">Privacy: This dashboard uses storage in your browser, not an online account. It does not sync across devices. Clearing browser data removes your saved choices. Playback positions depend on information available from the YouTube player.</p>
+ </div>`;
+}
+
 function renderFavourites(){const ch=CHANNELS.filter(c=>state.favoriteChannels.includes(c.id));const starred=LIBRARY.filter(s=>state.favoriteShows.includes(s.id));const videos=uniqueVideos([...state.archiveVideos,...SEED_VIDEOS,...state.feed,...state.searchResults,...Object.values(state.savedVideoData)]).filter(v=>state.favoriteVideos.includes(v.id));return `<div class="page-title"><span class="eyebrow">JUST FOR YOU</span><h1>♡ My Favourites</h1><p>Saved on this device. Your favourite channels are always just one tap away.</p></div>${sectionBanner('favourites')}${!ch.length&&!state.favoriteVideos.length&&!starred.length?`<div class="empty-state" style="margin-top:24px"><div class="empty-emoji">💛</div><h3>No favourites yet</h3><p>Tap the heart on any video or channel to make it easy to find next time.</p><button class="btn-primary" data-nav="home" type="button">Discover videos</button></div>`:''}${starred.length?`${sectionHead('Saved programmes','Pick a series and choose an episode.')}<div class="series-grid">${starred.map(seriesCard).join('')}</div>`:''}${ch.length?`${sectionHead('Saved channels','Your easy-access channel list.')}<div class="channel-grid">${ch.map(channelCard).join('')}</div>`:''}${state.favoriteVideos.length?`${sectionHead('Saved videos','Videos you wanted to watch again.')} ${videos.length?`<div class="media-grid">${videos.map(videoCard).join('')}</div>`:`<div class="notice-box">Some saved videos are from a past search. Search for them again to reload their details.</div>`}`:''}`}
 function searchYouTube(q){return `https://www.youtube.com/results?search_query=${encodeURIComponent(q+' Pakistani official')}`}
 function renderSearch(){const q=state.query.trim();const lower=q.toLocaleLowerCase();const videos=uniqueVideos([...state.searchResults,...state.archiveVideos,...state.feed,...SEED_VIDEOS]).filter(v=>!lower||`${v.title} ${v.channel} ${v.description||''}`.toLocaleLowerCase().includes(lower));const channels=CHANNELS.filter(c=>!lower||`${c.name} ${c.description}`.toLocaleLowerCase().includes(lower));const catalogue=LIBRARY.filter(s=>!lower||`${s.name} ${s.network} ${(s.aliases||[]).join(' ')}`.toLocaleLowerCase().includes(lower));const shows=SHOWS.filter(s=>!lower||`${s.name} ${s.channel} ${s.description}`.toLocaleLowerCase().includes(lower));const any=videos.length+channels.length+shows.length+catalogue.length;return `<div class="page-title"><span class="eyebrow">FIND WHAT YOU LOVE</span><h1>Search ${q?`for “<span class="search-term">${escapeHTML(q)}</span>”`:'Pakistani TV'}</h1><p>Look for full drama episodes, talk shows, news, and Pakistani creators — English or Urdu.</p></div>${sectionBanner('search')}
@@ -818,7 +890,7 @@ function setupMovieHeadlines(){
     movieHeadlineTimer=setInterval(()=>show(active+1),7200);
 }
 
-function paint(){renderNav();el('mainContent').innerHTML=state.page==='home'?renderHome():state.page==='today'?renderToday():state.page==='show'?renderShowPage():state.page==='movies'?renderMovies():state.page==='archive'?renderArchive():state.page==='favourites'?renderFavourites():state.page==='search'?renderSearch():renderCategory(state.page);updateSpotlightTimer();setupMovieHeadlines();setupSectionHeadlines();document.dispatchEvent(new Event('paktv:paint'));if(state.page==='search'){el('searchInput').value=state.query}document.documentElement.lang=state.language==='ur'?'ur':'en';const s=el('searchInput');s.placeholder=state.language==='ur'?'ڈرامے، خبریں، ٹاک شوز، یوٹیوبرز تلاش کریں...':'Search dramas, movies, videos & more...'}
+function paint(){renderNav();el('mainContent').innerHTML=state.page==='home'?renderHome():state.page==='today'?renderToday():state.page==='show'?renderShowPage():state.page==='movies'?renderMovies():state.page==='archive'?renderArchive():state.page==='favourites'?renderFavourites():state.page==='dashboard'?renderMyDashboard():state.page==='search'?renderSearch():renderCategory(state.page);updateSpotlightTimer();setupMovieHeadlines();setupSectionHeadlines();document.dispatchEvent(new Event('paktv:paint'));if(state.page==='search'){el('searchInput').value=state.query}document.documentElement.lang=state.language==='ur'?'ur':'en';const s=el('searchInput');s.placeholder=state.language==='ur'?'ڈرامے، خبریں، ٹاک شوز، یوٹیوبرز تلاش کریں...':'Search dramas, movies, videos & more...'}
 function toast(message){el('toast').textContent=message;el('toast').classList.add('show');clearTimeout(state.toastTimer);state.toastTimer=setTimeout(()=>el('toast').classList.remove('show'),2200)}
 function favVideo(id){const set=new Set(state.favoriteVideos);const v=pickVideo(id);if(set.has(id)){set.delete(id);delete state.savedVideoData[id]}else{set.add(id);if(v)state.savedVideoData[id]=v}state.favoriteVideos=[...set];safeSet('pgh_video_favs',state.favoriteVideos);safeSet('pgh_video_data',state.savedVideoData);toast(set.has(id)?'Video saved to favourites ♥':'Video removed from favourites');if(state.currentVideo?.id===id)el('playerFav').textContent=set.has(id)?'♥ Saved':'♡ Save';paint()}
 function favChannel(id){const set=new Set(state.favoriteChannels);set.has(id)?set.delete(id):set.add(id);state.favoriteChannels=[...set];safeSet('pgh_channel_favs',state.favoriteChannels);toast(set.has(id)?'Channel added to favourites ♥':'Channel unpinned');paint()}
@@ -877,7 +949,7 @@ async function loadArchive(){
     state.archiveError=false;
     state.archiveLoaded=true;
     if(state.page==='show'&&LIBRARY.find(s=>s.id===showId())?.type!=='drama')loadEpisodes(0);
-    else if(['archive','home','movies','news','sports','talk','comedy','vloggers','favourites','search','show'].includes(state.page))paint();
+    else if(['archive','home','movies','news','sports','talk','comedy','vloggers','favourites','dashboard','search','show'].includes(state.page))paint();
   }catch{
     state.archiveLoaded=true;
     state.archiveError=true;
@@ -1098,7 +1170,7 @@ async function loadShowMetadata(){
   if(!data||typeof data.shows!=='object'||Array.isArray(data.shows))return;
   state.showMeta=data.shows;
   state.showMetaLoaded=true;
-  if(['home','dramas','comedy','show','favourites','search'].includes(state.page))paint();
+  if(['home','dramas','comedy','show','favourites','dashboard','search'].includes(state.page))paint();
  }catch{/* The programme directory still works without metadata. */}
 }
 
@@ -1174,6 +1246,19 @@ document.addEventListener('input',e=>{
   const count=document.querySelector('.movie-count');
   if(count)count.textContent=all.length+' matching full-length '+(all.length===1?'video':'videos')+'.';
 });
+
+document.addEventListener('click',e=>{
+ const t=e.target.closest('[data-dash-topic]');
+ if(t){const id=t.dataset.dashTopic;if(!DASH_TOPICS.some(x=>x.id===id))return;const selected=new Set(Array.isArray(state.dashboardPrefs)?state.dashboardPrefs:[]);selected.has(id)?selected.delete(id):selected.add(id);state.dashboardPrefs=[...selected];safeSet('pgh_dashboard_topics',state.dashboardPrefs);paint();return}
+ if(e.target.closest('[data-dash-reset]')){state.dashboardPrefs=[];safeSet('pgh_dashboard_topics',[]);paint();return}
+ if(e.target.closest('[data-dash-clear]')){
+  if(!window.confirm('Clear recently opened videos and saved playback positions on this device?'))return;
+  state.history=[];state.historyData={};state.watchProgress={};safeSet('pgh_history',[]);safeSet('pgh_history_data',{});safeSet('pgh_watch_progress',{});paint();return;
+ }
+ const r=e.target.closest('[data-dash-resume]');
+ if(r){const video=dashboardVideo(r.dataset.dashResume);if(video)watchVideo(video,true)}
+});
+
 state.page=locationPage();bindEvents();initSpotlightEvents();paint();refreshFeeds();loadArchive();loadSchedule();loadShowMetadata();loadDiscovery();if(state.page==='show')loadEpisodes(0);setInterval(()=>{refreshFeeds();loadArchive();loadSchedule();loadShowMetadata();loadDiscovery()},15*60*1000);
 })();
 
