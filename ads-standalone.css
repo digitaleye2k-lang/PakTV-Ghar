@@ -1,10 +1,4 @@
-/* Opt-in Adsterra placements on adult-oriented standalone pages only. */
-.ad-placement[hidden]{display:none!important}
-.ad-placement{display:flex;flex-direction:column;gap:12px;align-items:center;max-width:1220px;width:calc(100% - 32px);margin:20px auto;border-radius:17px;border:1px solid #568a6f;background:linear-gradient(115deg,#1c3d35,#152e2e);padding:18px 14px;color:#d5f0dd;min-width:0}
-.ad-label{display:block;color:#b2d9c4;text-transform:uppercase;letter-spacing:.12em;font-size:10px;font-weight:800}
-.ad-banner-scroll{width:100%;max-width:100%;overflow-x:auto;overflow-y:hidden;display:flex;justify-content:safe center}
-.ad-banner-fixed{width:728px;min-width:728px;min-height:100px;flex:none}
-.ad-native-slot{width:100%;max-width:980px;min-height:80px}
-.ad-load-note{font-size:11px;color:#bcd3c8}
+/* Shared privacy-settings button on standalone PakTV Ghar pages.
+   AdSense Auto ads handles the advertising positions; no legacy slots remain. */
 [data-privacy-settings].cookie-settings-footer{font:inherit;font-weight:800;border:1px solid #80b097;border-radius:9px;background:#1b5141;color:#ffe2ad;padding:8px 12px;cursor:pointer}
-@media(max-width:680px){.ad-placement{width:calc(100% - 24px);padding:12px;margin:15px auto}.ad-banner-scroll{justify-content:flex-start}}
+[data-privacy-settings].cookie-settings-footer:hover{background:#246e52}
