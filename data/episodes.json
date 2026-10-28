@@ -1,13 +1,201 @@
 {
+  "hum-khushi": {
+    "episodes": [
+      {
+        "title": "Khushi - Episode 46 - [Eng Sub] 28th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 46,
+        "id": "KFWag8aMzsQ",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "id": "xWes3sjnCTQ",
+        "title": "Khushi - Episode 43 - [ENG SUB] 25th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 43,
+        "date": "2026-10-25",
+        "published": "2026-10-25T15:00:15Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/xWes3sjnCTQ/hqdefault.jpg",
+        "checkedAt": "2026-10-26T13:14:49.600449+00:00"
+      },
+      {
+        "id": "L2jN_CghoOM",
+        "title": "Khushi - Episode 39 - [Eng Sub] 21st Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 39,
+        "date": "2026-10-21",
+        "published": "2026-10-21T15:00:03Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/L2jN_CghoOM/hqdefault.jpg",
+        "checkedAt": "2026-10-22T07:08:51.571087+00:00"
+      },
+      {
+        "id": "AWHP5v_r5NI",
+        "title": "Khushi - Episode 33 - [ENG SUB] 15th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 33,
+        "date": "2026-10-15",
+        "published": "2026-10-15T15:00:23Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/AWHP5v_r5NI/hqdefault.jpg",
+        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
+      }
+    ]
+  },
+  "hum-gulbahar": {
+    "episodes": [
+      {
+        "title": "Gulbahar - Episode 13 - [Eng Sub] 28th Oct 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
+        "episode": 13,
+        "id": "cCofU7dnjQY",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Gulbahar - Flashback - Episode 12 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
+        "episode": 12,
+        "id": "iDjKPrsEKWY",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "id": "-SSVup_u-y4",
+        "title": "Gulbahar - Episode 11 - [Eng Sub] 21st Oct 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
+        "episode": 11,
+        "date": "2026-10-21",
+        "published": "2026-10-21T16:00:03Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/-SSVup_u-y4/hqdefault.jpg",
+        "checkedAt": "2026-10-22T03:53:46.745995+00:00"
+      },
+      {
+        "id": "lCFiom01bBo",
+        "title": "Gulbahar - Episode 10 - [Eng Sub] 15th Oct 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
+        "episode": 10,
+        "date": "2026-10-15",
+        "published": "2026-10-15T16:00:04Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/lCFiom01bBo/hqdefault.jpg",
+        "checkedAt": "2026-10-16T07:05:15.775682+00:00"
+      }
+    ]
+  },
+  "hum-tark-e-tamanna": {
+    "episodes": [
+      {
+        "title": "Tark-e-Tamanna - Episode 15 - 28th Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "episode": 15,
+        "id": "18-K-8Qx2bU",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "id": "OLB9Cy49X2g",
+        "title": "Tark-e-Tamanna - Episode 12 - [Eng Sub] 21st Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "episode": 12,
+        "date": "2026-10-21",
+        "published": "2026-10-21T17:00:16Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/OLB9Cy49X2g/hqdefault.jpg",
+        "checkedAt": "2026-10-22T07:08:51.571087+00:00"
+      },
+      {
+        "id": "nQGADWyKgdg",
+        "title": "Tark-e-Tamanna - Episode 10 - [Eng Sub] 15th Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "episode": 10,
+        "date": "2026-10-15",
+        "published": "2026-10-15T17:00:22Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/nQGADWyKgdg/hqdefault.jpg",
+        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
+      }
+    ]
+  },
   "arydigital-izzat": {
     "episodes": [
       {
-        "title": "Izzat Episode 36 | Unmissable Scene | ARY Digital",
-        "episode": 36,
-        "id": "Yq9aIz0YhYw",
+        "title": "Izzat Episode 39 | 28 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 39,
+        "id": "jExEZMsDnpY",
         "source": "ARY Digital",
         "kind": "youtube",
-        "date": "2026-10-27"
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Izzat Episode 39 | 28 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 39,
+        "id": "hbmOyvT7jvY",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Izzat Episode 37 | Unforgettable Scene | ARY Digital",
+        "episode": 37,
+        "id": "fOPXioI50sc",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Mujhe Thappar Kyun Mara? 😭 | Izzat Episode 37",
+        "episode": 37,
+        "id": "RJxiWS8P_3A",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Izzat Episode 37 | Best Scene | ARY Digital",
+        "episode": 37,
+        "id": "h7hsVFEYwfA",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-28"
       },
       {
         "id": "Thu_M83L190",
@@ -71,8 +259,124 @@
       }
     ]
   },
+  "arydigital-hey-fam": {
+    "episodes": [
+      {
+        "title": "Hey Fam | EP 13 | 28 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
+        "episode": 13,
+        "id": "RmyuRJT9KxM",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Hey Fam | EP 13 | 28 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
+        "episode": 13,
+        "id": "PIt99iEfzsk",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "id": "fL5lA6STcb8",
+        "title": "Hey Fam | EP  10 | 15 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ENG SUB | ARY Digital",
+        "episode": 10,
+        "date": "2026-10-15",
+        "published": "2026-10-15T16:00:12Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/fL5lA6STcb8/hqdefault.jpg",
+        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
+      },
+      {
+        "id": "8N6zIC3KIY8",
+        "title": "Hey Fam Episode 7 | Emotional Moments | Dua Zahra | ARY Digital",
+        "episode": 7,
+        "date": "2026-10-15",
+        "published": "2026-10-15T11:00:17Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/8N6zIC3KIY8/hqdefault.jpg",
+        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
+      },
+      {
+        "id": "AGEGDHZ2bBc",
+        "title": "Sirf Dosti Nahi Shadi Karni Hai Mujhe | Hey Fam Episode 7 | ARY Digital",
+        "episode": 7,
+        "date": "2026-10-15",
+        "published": "2026-10-15T09:44:40Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/AGEGDHZ2bBc/hqdefault.jpg",
+        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
+      },
+      {
+        "id": "ueuIIA0VN5k",
+        "title": "Is Mushkil Waqt Mai Tumhare Baba Tumhare Saath Hain | Hey Fam Episode 5 | ARY Digital",
+        "episode": 5,
+        "date": "2026-10-24",
+        "published": "2026-10-24T18:40:00Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ueuIIA0VN5k/hqdefault.jpg",
+        "checkedAt": "2026-10-25T20:56:53.845295+00:00"
+      }
+    ]
+  },
   "arydigital-lagan-lagi": {
     "episodes": [
+      {
+        "title": "Lagan Lagi Episode 5 | 28 Oct 206 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 5,
+        "id": "htgungjj2BA",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Lagan Lagi Episode 4 | 27 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 4,
+        "id": "7oJzEda7bsI",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "Lagan Lagi Episode 3 | Best Moment | ARY Digital",
+        "episode": 3,
+        "id": "1NVc4iMep48",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Lagan Lagi Episode 3 | Best Scene | ARY Digital",
+        "episode": 3,
+        "id": "fx2BQvBYfII",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
       {
         "id": "K4EnMsNvtjQ",
         "title": "Lagan Lagi Episode 3 | 26 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
@@ -90,6 +394,14 @@
         "checkedAt": "2026-10-26T20:35:04.066736+00:00"
       },
       {
+        "title": "Lagan Lagi Episode 2 | Best Scene | ARY Digital",
+        "episode": 2,
+        "id": "O5At_-dD6g8",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
         "id": "tJe5Cuncg8Q",
         "title": "Lagan Lagi Episode 2 | 23 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
         "episode": 2,
@@ -104,22 +416,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/tJe5Cuncg8Q/hqdefault.jpg",
         "checkedAt": "2026-10-26T20:35:04.066736+00:00"
-      },
-      {
-        "title": "Dil Ke Faislon Per Kisi Ka Koi Ikhtiyaar Nahi | lagan Lagi Episode 1 | ARY Digital",
-        "episode": 1,
-        "id": "eJdzTjlxFp4",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-27"
-      },
-      {
-        "title": "lagan Lagi Episode 1 | Haris Waheed | Hina Chaudhary | Best Scene | ARY Digital",
-        "episode": 1,
-        "id": "gvt9ma3BqFk",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-27"
       },
       {
         "id": "zptfzGBbndw",
@@ -142,60 +438,92 @@
   "harpalgeo-mohabbat": {
     "episodes": [
       {
+        "title": "Mohabbat Episode 10 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
+        "episode": 10,
+        "id": "Uq0GGCE-Nh0",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Mohabbat Episode 10 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
+        "episode": 10,
+        "id": "fGqwGvZy2gE",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Mohabbat Episode 10 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
+        "episode": 10,
+        "id": "kRmuYC-9UoU",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Mohabbat Episode 10 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
+        "episode": 10,
+        "id": "HtLkX-5xNjM",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Mohabbat Episode 10 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
+        "episode": 10,
+        "id": "jA6_1tm9ifc",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "Mohabbat Episode 10 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
+        "episode": 10,
+        "id": "hpv1VwXg9sQ",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "Mohabbat Episode 10 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
+        "episode": 10,
+        "id": "xnWDh9pwKTg",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "Mohabbat Episode 10 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
+        "episode": 10,
+        "id": "sH1SsDYN2OE",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "Mohabbat Episode 10 [Eng Sub] Feroze Khan - Nawal Saeed | 27th October 2026 - HAR PAL GEO",
+        "episode": 10,
+        "id": "O6QUsYrGFNM",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "Recap Mohabbat Episode 09 - 27th October 2026 - Har Pal Geo",
+        "episode": 9,
+        "id": "_G874OaQScY",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-27"
+      },
+      {
         "title": "Mohabbat Episode 09 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
         "episode": 9,
         "id": "GJjIE3zjZuQ",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-27"
-      },
-      {
-        "title": "Mohabbat Episode 09 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
-        "episode": 9,
-        "id": "OhWpyYWP3pI",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-27"
-      },
-      {
-        "title": "Mohabbat Episode 09 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
-        "episode": 9,
-        "id": "B_4HfTDNtm8",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-27"
-      },
-      {
-        "title": "Mohabbat Episode 09 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
-        "episode": 9,
-        "id": "jcdMz1kAfBA",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-26"
-      },
-      {
-        "title": "Mohabbat Episode 09 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
-        "episode": 9,
-        "id": "Y_JNdr62etQ",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-26"
-      },
-      {
-        "title": "Mohabbat Episode 09 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
-        "episode": 9,
-        "id": "CCBEnBXDWUQ",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-26"
-      },
-      {
-        "title": "Mohabbat Episode 09 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
-        "episode": 9,
-        "id": "xsCEkoLL250",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-26"
       },
       {
         "id": "W6qgMZOczfU",
@@ -266,68 +594,100 @@
   "harpalgeo-uswa": {
     "episodes": [
       {
-        "title": "Uswah Episode 34 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 34,
-        "id": "Xi17Mj2TOLY",
+        "title": "Uswah Episode 36 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 36,
+        "id": "8fam0A5FCAs",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Uswah Episode 36 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 36,
+        "id": "7iFU8JZ43wE",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Uswah Episode 36 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 28th October 2026",
+        "episode": 36,
+        "id": "s5dWuK6FySU",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Uswah Episode 35 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 35,
+        "id": "bWcCtqNai3Y",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Uswah Episode 35 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 35,
+        "id": "esySVGNodxw",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Uswah Episode 35 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 35,
+        "id": "XOcMka4Lb-k",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Uswah Episode 35 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 35,
+        "id": "weW2NOjWdpY",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Uswah Episode 35  | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 35,
+        "id": "CSvf3xuOeio",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-27"
       },
       {
-        "title": "Uswah Episode 34 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 34,
-        "id": "PM4PlVejgHw",
+        "title": "Uswah Episode 35 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 35,
+        "id": "OUO2rft62fQ",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-27"
       },
       {
-        "title": "Uswah Episode 34 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 34,
-        "id": "YN1LZEGkoc8",
+        "title": "Uswah Episode 35 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 35,
+        "id": "YHN7NLADqGo",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-27"
       },
       {
-        "title": "Uswah Episode 34 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 34,
-        "id": "o3oUENu1yoA",
+        "title": "Uswah Episode 35 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 35,
+        "id": "liHkAsv1B1E",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-27"
       },
       {
-        "title": "Uswah Episode 34 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 34,
-        "id": "Ez4Sl99wmo0",
+        "title": "Uswah Episode 35 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 27th October 2026",
+        "episode": 35,
+        "id": "4bgABoFcScw",
         "source": "Har Pal Geo",
         "kind": "youtube",
-        "date": "2026-10-26"
-      },
-      {
-        "title": "Uswah Episode 34 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 34,
-        "id": "vf0GY-30mPo",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-26"
-      },
-      {
-        "title": "Uswah Episode 34 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 34,
-        "id": "fYH9iXDJIbU",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-26"
-      },
-      {
-        "title": "Uswah Episode 34 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 34,
-        "id": "x2y5hmCbXas",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-26"
+        "date": "2026-10-27"
       },
       {
         "id": "CnE1PAh7aGA",
@@ -507,36 +867,192 @@
       }
     ]
   },
+  "harpalgeo-khafa": {
+    "episodes": [
+      {
+        "title": "Khafa Episode 25 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 25,
+        "id": "02OQAI3p3e8",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Khafa Episode 25 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 25,
+        "id": "ehDNCu9qxOY",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Khafa Episode 25 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 28th Oct 2026 | HAR PAL GEO",
+        "episode": 25,
+        "id": "7dyz7BTS5y4",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Recap Khafa Episode 24 - 28th October 2026 - Har Pal Geo",
+        "episode": 24,
+        "id": "BPeLi0tDUz8",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "id": "_mgVD-alezg",
+        "title": "Khafa Episode 24 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 24,
+        "date": "2026-10-23",
+        "published": "2026-10-23T10:00:25Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/_mgVD-alezg/hqdefault.jpg",
+        "checkedAt": "2026-10-25T23:20:05.142413+00:00"
+      },
+      {
+        "id": "aD6aT1uLd-U",
+        "title": "Khafa Episode 23 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 21st Oct 2026 | HAR PAL GEO",
+        "episode": 23,
+        "date": "2026-10-21",
+        "published": "2026-10-21T16:00:20Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/aD6aT1uLd-U/hqdefault.jpg",
+        "checkedAt": "2026-10-22T01:02:25.930340+00:00"
+      },
+      {
+        "id": "2hMkdgRZ2uk",
+        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 22,
+        "date": "2026-10-15",
+        "published": "2026-10-15T19:30:38Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/2hMkdgRZ2uk/hqdefault.jpg",
+        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
+      },
+      {
+        "id": "pWw8tWkPReA",
+        "title": "Khafa Episode 22 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 15th Oct 2026 | HAR PAL GEO",
+        "episode": 22,
+        "date": "2026-10-15",
+        "published": "2026-10-15T16:00:36Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/pWw8tWkPReA/hqdefault.jpg",
+        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
+      }
+    ]
+  },
   "harpalgeo-bano": {
     "episodes": [
       {
-        "title": "Bano Episode 14 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 14,
-        "id": "QXoWys_Ykcw",
+        "title": "Bano Episode 16 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 28th October 2026 | HAR PAL GEO",
+        "episode": 16,
+        "id": "EIaqw35nUZk",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Bano Episode 15 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 15,
+        "id": "DdDZidKI7vw",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Bano Episode 15 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 15,
+        "id": "nTaUPqOS9AM",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Bano Episode 15 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 15,
+        "id": "9hp-VmC6f70",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Bano Episode 15 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 15,
+        "id": "qUvpEcS-h0A",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Bano Episode 15 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 15,
+        "id": "exnvVfal9ak",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Bano Episode 15 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 15,
+        "id": "h_8Z2ajPhUI",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Bano Episode 15 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 15,
+        "id": "qrVACbnZyJ8",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Bano Episode 15 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 15,
+        "id": "d3kAM1P3IIQ",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Bano Episode 15 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 27th October 2026 | HAR PAL GEO",
+        "episode": 15,
+        "id": "qmUSWiPJaaE",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-27"
       },
       {
-        "title": "Bano Episode 14 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "title": "Bano Episode 14 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
         "episode": 14,
-        "id": "HGhLRivUg5I",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-27"
-      },
-      {
-        "title": "Bano Episode 14 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 14,
-        "id": "3aqx_en4K3A",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-27"
-      },
-      {
-        "title": "Bano Episode 14 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 14,
-        "id": "asKPhvllaMQ",
+        "id": "7b_0gOypWxM",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-27"
@@ -675,6 +1191,18 @@
       }
     ]
   },
+  "arydigital-bulbulay": {
+    "episodes": [
+      {
+        "title": "Hayee Khujli! 😣🤣 | Momo | Khoobsurat | Non Stop Comedy | Bulbulay",
+        "episode": null,
+        "id": "MGSR8azm5gU",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-28"
+      }
+    ]
+  },
   "geonews-capital-talk": {
     "episodes": [
       {
@@ -716,22 +1244,6 @@
         "source": "Geo News",
         "kind": "youtube",
         "date": "2026-10-28"
-      },
-      {
-        "title": "Bangladesh’s Role in the Mecca Agreement: A New Regional Possibility? | Hamid Mir",
-        "episode": null,
-        "id": "5ntNoNUZlMw",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-26"
-      },
-      {
-        "title": "Tensions at the Top in Israel! | Netanyahu and Military Leadership Differ | Hamid Mir",
-        "episode": null,
-        "id": "GLfqS9O1pAY",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-26"
       }
     ]
   },
@@ -784,74 +1296,38 @@
         "source": "Geo News",
         "kind": "youtube",
         "date": "2026-10-28"
-      },
+      }
+    ]
+  },
+  "arynews-the-reporters": {
+    "episodes": [
       {
-        "title": "Trump-Netanyahu Deal? | Major Questions Ahead of Israel’s Election | Shahzeb Khanzada Vlog",
+        "title": "Dialogue or Deadlock? Why Have Talks Between Govt & Opposition Not Started? | The Reporters",
         "episode": null,
-        "id": "WvNiubafoIg",
-        "source": "Geo News",
+        "id": "JvYO6GZp6bk",
+        "source": "ARY News",
         "kind": "youtube",
-        "date": "2026-10-26"
-      },
-      {
-        "title": "Trump-Netanyahu Deal? | Major Questions Ahead of Israel’s Election | Shahzeb Khanzada Vlog",
-        "episode": null,
-        "id": "fZrkx08-9Z8",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-26"
-      },
-      {
-        "title": "Netanyahu vs Israeli Army Chief: Major Disagreement Over Iran Attack? | Shahzeb Khanzada Vlog",
-        "episode": null,
-        "id": "qD_Bj8ah9bs",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-26"
-      },
-      {
-        "title": "Netanyahu vs Israeli Army Chief: Major Disagreement Over Iran Attack? | Shahzeb Khanzada Vlog",
-        "episode": null,
-        "id": "WSJM6r8XOfs",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-26"
-      },
-      {
-        "title": "What Was Discussed in Tehran? | Key Questions About the Four-Nation Meeting | Shahzeb Khanzada Vlog",
-        "episode": null,
-        "id": "00k-rQV-lY4",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-26"
-      },
-      {
-        "title": "What Was Discussed in Tehran? | Key Questions About the Four-Nation Meeting | Shahzeb Khanzada Vlog",
-        "episode": null,
-        "id": "f9y97H9MZNI",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-26"
-      },
-      {
-        "title": "Pakistan’s Economy: State Bank Governor Shares Major Reserves Forecast | Shahzeb Khanzada",
-        "episode": null,
-        "id": "yUPMDMAHxds",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-26"
+        "date": "2026-10-28"
       }
     ]
   },
   "arynews-11th-hour": {
     "episodes": [
       {
-        "title": "11th Hour || Waseem Badami || 26th Oct 2026 - ARY News",
+        "title": "11th Hour || Waseem Badami || 28th Oct 2026 - ARY News",
         "episode": null,
-        "id": "jMT3JVxuPiM",
+        "id": "z2t8TwoYPng",
         "source": "ARY News",
         "kind": "youtube",
-        "date": "2026-10-26"
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Why Didn’t PTI Leaders Reveal Plans A, B and C? Mushaal Yousafzai Speaks Out | 11th Hour",
+        "episode": null,
+        "id": "qV_X3EZ9EPg",
+        "source": "ARY News",
+        "kind": "youtube",
+        "date": "2026-10-28"
       }
     ]
   },
@@ -928,58 +1404,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/K1SHRLAXBuE/hqdefault.jpg",
         "checkedAt": "2026-10-16T07:05:15.775682+00:00"
-      }
-    ]
-  },
-  "hum-khushi": {
-    "episodes": [
-      {
-        "id": "xWes3sjnCTQ",
-        "title": "Khushi - Episode 43 - [ENG SUB] 25th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 43,
-        "date": "2026-10-25",
-        "published": "2026-10-25T15:00:15Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/xWes3sjnCTQ/hqdefault.jpg",
-        "checkedAt": "2026-10-26T13:14:49.600449+00:00"
-      },
-      {
-        "id": "L2jN_CghoOM",
-        "title": "Khushi - Episode 39 - [Eng Sub] 21st Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 39,
-        "date": "2026-10-21",
-        "published": "2026-10-21T15:00:03Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/L2jN_CghoOM/hqdefault.jpg",
-        "checkedAt": "2026-10-22T07:08:51.571087+00:00"
-      },
-      {
-        "id": "AWHP5v_r5NI",
-        "title": "Khushi - Episode 33 - [ENG SUB] 15th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 33,
-        "date": "2026-10-15",
-        "published": "2026-10-15T15:00:23Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/AWHP5v_r5NI/hqdefault.jpg",
-        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
       }
     ]
   },
@@ -7915,7 +8339,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/RzLvtO4U_Kg/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "Sv98AXUOS-Q",
@@ -7931,7 +8355,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Sv98AXUOS-Q/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
+      },
+      {
+        "id": "8f_kXgPhW9k",
+        "title": "Ishq Hai Episode 35 | Eng Sub | Danish Taimoor | Minal Khan | ARY Digital Drama",
+        "episode": 35,
+        "date": "2021-09-08",
+        "published": "2021-09-08T16:30:10Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/8f_kXgPhW9k/hqdefault.jpg",
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "uiid_1SPt6Q",
@@ -7963,7 +8403,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/HY05mhNjCrg/hqdefault.jpg",
-        "checkedAt": "2026-10-17T12:54:21.036513+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "9YU2tUrqSz8",
@@ -8011,7 +8451,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/jK-jRHWjM7M/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "-thzmBlYOy8",
@@ -8027,7 +8467,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-thzmBlYOy8/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "z4qBd2g3tJQ",
@@ -8043,7 +8483,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/z4qBd2g3tJQ/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "IXsgqvlJ2u0",
@@ -8059,7 +8499,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/IXsgqvlJ2u0/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "Bx2mt3N7aC8",
@@ -8075,7 +8515,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Bx2mt3N7aC8/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "TySpjfSnc_0",
@@ -8091,7 +8531,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TySpjfSnc_0/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "jAyJWHlwEs4",
@@ -8107,7 +8547,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/jAyJWHlwEs4/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "0_xa70pHJmM",
@@ -8123,7 +8563,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0_xa70pHJmM/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "4BHe8Q5oB88",
@@ -8139,7 +8579,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4BHe8Q5oB88/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "XCkH6JkuEh4",
@@ -8155,7 +8595,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XCkH6JkuEh4/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "nyv5yzTehlI",
@@ -8171,7 +8611,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nyv5yzTehlI/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "vTdXgt3xmfY",
@@ -8187,7 +8627,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vTdXgt3xmfY/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "UIGHvKKa__c",
@@ -8203,7 +8643,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UIGHvKKa__c/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "YoSHcKs2IFg",
@@ -8219,7 +8659,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/YoSHcKs2IFg/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "WLBWnLdjJl0",
@@ -8235,7 +8675,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/WLBWnLdjJl0/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "VWvFkAHBLVM",
@@ -8251,7 +8691,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/VWvFkAHBLVM/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "eGbI6gGpWPg",
@@ -8267,7 +8707,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/eGbI6gGpWPg/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "lFMJE8qC1Js",
@@ -8283,7 +8723,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lFMJE8qC1Js/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
+      },
+      {
+        "id": "IciV2TOCqo8",
+        "title": "Ishq Hai Episode 6 | Eng Sub | Danish Taimoor | Minal Khan | ARY Digital Drama",
+        "episode": 6,
+        "date": "2021-06-29",
+        "published": "2021-06-29T16:58:09Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/IciV2TOCqo8/hqdefault.jpg",
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "nQ9dQjAPbG4",
@@ -8299,7 +8755,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nQ9dQjAPbG4/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "xZsih0bLLmo",
@@ -8315,7 +8771,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xZsih0bLLmo/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "Do8n5C3k4BU",
@@ -8331,7 +8787,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Do8n5C3k4BU/hqdefault.jpg",
-        "checkedAt": "2026-10-17T12:54:21.036513+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "JZ9w-pPwK_A",
@@ -8347,7 +8803,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/JZ9w-pPwK_A/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "gja8CXTybzw",
@@ -8363,7 +8819,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/gja8CXTybzw/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "BZNksfmzz_A",
@@ -8379,7 +8835,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/BZNksfmzz_A/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       }
     ]
   },
@@ -8399,7 +8855,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/s0vpKgphi6w/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
+      },
+      {
+        "id": "rUEseZtI3bs",
+        "title": "Jaan e Jahan 2nd Last Episode 40  {Eng Sub}| Hamza Ali Abbasi | Ayeza Khan |18 May 2024 |ARY Digital",
+        "episode": 40,
+        "date": "2024-05-18",
+        "published": "2024-05-18T16:00:06Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/rUEseZtI3bs/hqdefault.jpg",
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "47jyx0i7igg",
@@ -8415,7 +8887,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/47jyx0i7igg/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "GYtay4hwtt0",
@@ -8431,7 +8903,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GYtay4hwtt0/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "vmWz5_NHkhc",
@@ -8447,7 +8919,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vmWz5_NHkhc/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "Rh4YY7ZWcl4",
@@ -8463,7 +8935,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Rh4YY7ZWcl4/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "a9lgAbNzBDI",
@@ -8495,7 +8967,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Ptz13emeo5Y/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "wSwdJDcQsRM",
@@ -8511,7 +8983,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wSwdJDcQsRM/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "mu8cRcZI_10",
@@ -8527,7 +8999,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mu8cRcZI_10/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
+      },
+      {
+        "id": "kgNk4_xCsR4",
+        "title": "Jaan e Jahan Episode 27 (Eng Sub) | Hamza Ali Abbasi | Ayeza Khan | 26 March 2024 | ARY Digital",
+        "episode": 27,
+        "date": "2024-03-26",
+        "published": "2024-03-26T18:18:30Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/kgNk4_xCsR4/hqdefault.jpg",
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "V98DAtBNYUo",
@@ -8543,7 +9031,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/V98DAtBNYUo/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "bWajYImpoMw",
@@ -8559,7 +9047,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/bWajYImpoMw/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "jnWYAS5v5a0",
@@ -8575,7 +9063,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/jnWYAS5v5a0/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "DB7t4avS4Vw",
@@ -8591,7 +9079,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DB7t4avS4Vw/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "7Iy3LO6NTpQ",
@@ -8623,7 +9111,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9r4fmrbFyL4/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "lCEjDOpfdPg",
@@ -8639,7 +9127,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lCEjDOpfdPg/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "pMET2WBU2-A",
@@ -8655,7 +9143,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pMET2WBU2-A/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "-YiP2vFUki8",
@@ -8671,7 +9159,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-YiP2vFUki8/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "RiFhAGMtANo",
@@ -8687,7 +9175,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/RiFhAGMtANo/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "Alf0xBTulb0",
@@ -8703,7 +9191,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Alf0xBTulb0/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "XUThKVE_I4Y",
@@ -8735,7 +9223,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/tep4JVxOyKk/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "Fq0RQJJokF4",
@@ -8767,7 +9255,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/LjxHlmeKTPc/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "kjdRmho84cI",
@@ -8783,7 +9271,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kjdRmho84cI/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "uVbhBdmLP-8",
@@ -8799,7 +9287,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/uVbhBdmLP-8/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "w2tmmuaCD-8",
@@ -8815,7 +9303,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/w2tmmuaCD-8/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
+      },
+      {
+        "id": "q1rWoFIi_xI",
+        "title": "Jaan e Jahan Episode 03 {Eng Sub} Hamza Ali Abbasi | Ayeza Khan | 29 Dec 2023 | ARY Digital",
+        "episode": 3,
+        "date": "2023-12-29",
+        "published": "2023-12-29T16:00:08Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/q1rWoFIi_xI/hqdefault.jpg",
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "agktzm-WTIg",
@@ -8831,7 +9335,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/agktzm-WTIg/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "w14APWbqbcM",
@@ -8847,7 +9351,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/w14APWbqbcM/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       }
     ]
   },
@@ -8867,7 +9371,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Bu0sQ93Kc48/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "v3PUkqGFI-M",
@@ -8883,7 +9387,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/v3PUkqGFI-M/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "OtHd8uDQb-k",
@@ -8899,7 +9403,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OtHd8uDQb-k/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
+      },
+      {
+        "id": "1wROpBTsobk",
+        "title": "Jalan Episode 26 [Subtitle Eng] - 1st December 2020 -  ARY Digital Drama",
+        "episode": 26,
+        "date": "2020-12-01",
+        "published": "2020-12-01T16:09:14Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/1wROpBTsobk/hqdefault.jpg",
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "2th0MaNPDdQ",
@@ -8915,7 +9435,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2th0MaNPDdQ/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
+      },
+      {
+        "id": "XVCpGrp9yRQ",
+        "title": "Jalan Episode 23 [Subtitle Eng] 18th November 2020 | ARY Digital Drama",
+        "episode": 23,
+        "date": "2020-11-18",
+        "published": "2020-11-18T16:10:28Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/XVCpGrp9yRQ/hqdefault.jpg",
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "T5UZhHlJYZ8",
@@ -8931,7 +9467,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/T5UZhHlJYZ8/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "lhZBNTrryXY",
@@ -8947,7 +9483,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lhZBNTrryXY/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "PO2lEZW0Ft4",
@@ -8963,7 +9499,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PO2lEZW0Ft4/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "ZtlPyd7w01s",
@@ -8995,7 +9531,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/y6fcCuz9Lgw/hqdefault.jpg",
-        "checkedAt": "2026-10-17T15:44:42.369007+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "cRRqXxXLutU",
@@ -9011,7 +9547,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cRRqXxXLutU/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "hpHn7mvadmc",
@@ -9027,7 +9563,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/hpHn7mvadmc/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "8Jd5mkYtBXQ",
@@ -9043,7 +9579,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8Jd5mkYtBXQ/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "soWQaXiC3MI",
@@ -9059,7 +9595,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/soWQaXiC3MI/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "VBiSeFTjwmY",
@@ -9075,7 +9611,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/VBiSeFTjwmY/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "zefTuQoI_W0",
@@ -9091,7 +9627,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zefTuQoI_W0/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "YicW-lNlem0",
@@ -9107,7 +9643,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/YicW-lNlem0/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "zkoGnWpFjHo",
@@ -9123,7 +9659,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zkoGnWpFjHo/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "JDOrbtpkF5E",
@@ -9139,7 +9675,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/JDOrbtpkF5E/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
+      },
+      {
+        "id": "EQ9VWq9Zr-Y",
+        "title": "Jalan Episode 7 - Presented by Ariel [Subtitle Eng] - 29th July 2020 - ARY Digital",
+        "episode": 7,
+        "date": "2020-07-29",
+        "published": "2020-07-29T16:00:38Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/EQ9VWq9Zr-Y/hqdefault.jpg",
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "bWLnDzUgDis",
@@ -9171,7 +9723,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9RnlU60Clvo/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "1E61U_hNlMQ",
@@ -9187,7 +9739,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/1E61U_hNlMQ/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "aF40tK46-lA",
@@ -9203,7 +9755,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/aF40tK46-lA/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "-gsx6TE94BU",
@@ -9219,7 +9771,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-gsx6TE94BU/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "zW-sE08pZuE",
@@ -9235,7 +9787,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zW-sE08pZuE/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       }
     ]
   },
@@ -9255,7 +9807,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/EiNlWJfXKlU/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "-TVTW9AQvFY",
@@ -9271,7 +9823,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/-TVTW9AQvFY/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "4o79dvaA5Nk",
@@ -9287,7 +9839,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/4o79dvaA5Nk/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "MH2-06CZZDc",
@@ -9335,7 +9887,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/_88D6l5OSDE/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "rUKxY6_eujE",
@@ -9351,7 +9903,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/rUKxY6_eujE/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "Lo3cR2NnKpc",
@@ -9367,7 +9919,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/Lo3cR2NnKpc/hqdefault.jpg",
-        "checkedAt": "2026-10-17T15:44:42.369007+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "Tk1n_9mAkj4",
@@ -9383,7 +9935,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/Tk1n_9mAkj4/hqdefault.jpg",
-        "checkedAt": "2026-10-17T15:44:42.369007+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "inqJ47uKqUk",
@@ -9415,7 +9967,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/KoIF6nNh51Y/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "T6j2bi-Za9E",
@@ -9431,7 +9983,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/T6j2bi-Za9E/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "3HjQ0orl7So",
@@ -9447,7 +9999,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/3HjQ0orl7So/hqdefault.jpg",
-        "checkedAt": "2026-10-17T15:44:42.369007+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "hPF8twsmzsg",
@@ -9463,7 +10015,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/hPF8twsmzsg/hqdefault.jpg",
-        "checkedAt": "2026-10-17T15:44:42.369007+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "cXslaKL0Ltc",
@@ -9495,7 +10047,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/C6eSmWvSFxM/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "ASYV7uX1nV8",
@@ -9511,7 +10063,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/ASYV7uX1nV8/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "kJbSj113Zs8",
@@ -9527,7 +10079,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/kJbSj113Zs8/hqdefault.jpg",
-        "checkedAt": "2026-10-17T15:44:42.369007+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "Rv5mGPt5Fdc",
@@ -9543,7 +10095,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/Rv5mGPt5Fdc/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "qeqRKbF4Cwk",
@@ -9559,7 +10111,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/qeqRKbF4Cwk/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "UADPQ5uHC30",
@@ -9607,7 +10159,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/Ntq96WdJl4w/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "xmSkEX-SaiU",
@@ -9623,7 +10175,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/xmSkEX-SaiU/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "yM9MHWkrXdw",
@@ -9639,7 +10191,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/yM9MHWkrXdw/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "av9BiY6pb7M",
@@ -9655,7 +10207,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/av9BiY6pb7M/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "f1FobBUfz1s",
@@ -9687,7 +10239,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/SfV-PMI3UTg/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
         "id": "MyLZnzEcnG8",
@@ -9703,7 +10255,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/MyLZnzEcnG8/hqdefault.jpg",
-        "checkedAt": "2026-10-23T13:02:09.141365+00:00"
+        "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       }
     ]
   },
@@ -32951,74 +33503,6 @@
       }
     ]
   },
-  "arydigital-hey-fam": {
-    "episodes": [
-      {
-        "id": "fL5lA6STcb8",
-        "title": "Hey Fam | EP  10 | 15 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ENG SUB | ARY Digital",
-        "episode": 10,
-        "date": "2026-10-15",
-        "published": "2026-10-15T16:00:12Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/fL5lA6STcb8/hqdefault.jpg",
-        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
-      },
-      {
-        "id": "8N6zIC3KIY8",
-        "title": "Hey Fam Episode 7 | Emotional Moments | Dua Zahra | ARY Digital",
-        "episode": 7,
-        "date": "2026-10-15",
-        "published": "2026-10-15T11:00:17Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/8N6zIC3KIY8/hqdefault.jpg",
-        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
-      },
-      {
-        "id": "AGEGDHZ2bBc",
-        "title": "Sirf Dosti Nahi Shadi Karni Hai Mujhe | Hey Fam Episode 7 | ARY Digital",
-        "episode": 7,
-        "date": "2026-10-15",
-        "published": "2026-10-15T09:44:40Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/AGEGDHZ2bBc/hqdefault.jpg",
-        "checkedAt": "2026-10-15T21:49:22.372994+00:00"
-      },
-      {
-        "id": "ueuIIA0VN5k",
-        "title": "Is Mushkil Waqt Mai Tumhare Baba Tumhare Saath Hain | Hey Fam Episode 5 | ARY Digital",
-        "episode": 5,
-        "date": "2026-10-24",
-        "published": "2026-10-24T18:40:00Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ueuIIA0VN5k/hqdefault.jpg",
-        "checkedAt": "2026-10-25T20:56:53.845295+00:00"
-      }
-    ]
-  },
   "arydigital-main-tera": {
     "episodes": [
       {
@@ -33100,146 +33584,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/becjUcBHoMI/hqdefault.jpg",
         "checkedAt": "2026-10-16T00:59:10.857630+00:00"
-      }
-    ]
-  },
-  "harpalgeo-khafa": {
-    "episodes": [
-      {
-        "id": "_mgVD-alezg",
-        "title": "Khafa Episode 24 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
-        "episode": 24,
-        "date": "2026-10-23",
-        "published": "2026-10-23T10:00:25Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/_mgVD-alezg/hqdefault.jpg",
-        "checkedAt": "2026-10-25T23:20:05.142413+00:00"
-      },
-      {
-        "id": "aD6aT1uLd-U",
-        "title": "Khafa Episode 23 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 21st Oct 2026 | HAR PAL GEO",
-        "episode": 23,
-        "date": "2026-10-21",
-        "published": "2026-10-21T16:00:20Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/aD6aT1uLd-U/hqdefault.jpg",
-        "checkedAt": "2026-10-22T01:02:25.930340+00:00"
-      },
-      {
-        "id": "2hMkdgRZ2uk",
-        "title": "Khafa Episode 22 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
-        "episode": 22,
-        "date": "2026-10-15",
-        "published": "2026-10-15T19:30:38Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/2hMkdgRZ2uk/hqdefault.jpg",
-        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
-      },
-      {
-        "id": "pWw8tWkPReA",
-        "title": "Khafa Episode 22 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 15th Oct 2026 | HAR PAL GEO",
-        "episode": 22,
-        "date": "2026-10-15",
-        "published": "2026-10-15T16:00:36Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/pWw8tWkPReA/hqdefault.jpg",
-        "checkedAt": "2026-10-16T03:51:58.850494+00:00"
-      }
-    ]
-  },
-  "hum-gulbahar": {
-    "episodes": [
-      {
-        "id": "-SSVup_u-y4",
-        "title": "Gulbahar - Episode 11 - [Eng Sub] 21st Oct 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
-        "episode": 11,
-        "date": "2026-10-21",
-        "published": "2026-10-21T16:00:03Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/-SSVup_u-y4/hqdefault.jpg",
-        "checkedAt": "2026-10-22T03:53:46.745995+00:00"
-      },
-      {
-        "id": "lCFiom01bBo",
-        "title": "Gulbahar - Episode 10 - [Eng Sub] 15th Oct 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
-        "episode": 10,
-        "date": "2026-10-15",
-        "published": "2026-10-15T16:00:04Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/lCFiom01bBo/hqdefault.jpg",
-        "checkedAt": "2026-10-16T07:05:15.775682+00:00"
-      }
-    ]
-  },
-  "hum-tark-e-tamanna": {
-    "episodes": [
-      {
-        "id": "OLB9Cy49X2g",
-        "title": "Tark-e-Tamanna - Episode 12 - [Eng Sub] 21st Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
-        "episode": 12,
-        "date": "2026-10-21",
-        "published": "2026-10-21T17:00:16Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/OLB9Cy49X2g/hqdefault.jpg",
-        "checkedAt": "2026-10-22T07:08:51.571087+00:00"
-      },
-      {
-        "id": "nQGADWyKgdg",
-        "title": "Tark-e-Tamanna - Episode 10 - [Eng Sub] 15th Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
-        "episode": 10,
-        "date": "2026-10-15",
-        "published": "2026-10-15T17:00:22Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/nQGADWyKgdg/hqdefault.jpg",
-        "checkedAt": "2026-10-16T09:51:10.658370+00:00"
       }
     ]
   },
