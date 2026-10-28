@@ -148,6 +148,7 @@ const NAV = [
  {id:'archive',icon:'🗓️',en:'Video Archive',ur:'پرانے ویڈیوز'},
  {id:'dashboard',icon:'🏡',en:'My PakTV Ghar',ur:'میرا پاک ٹی وی گھر'},
  {id:'zaika',icon:'🍛',en:'Desi Zaika · Food',ur:'دیسی ذائقہ',href:'./desi-zaika.html'},
+ {id:'apna',icon:'🇵🇰',en:'Apna Pakistan · Culture',ur:'اپنا پاکستان',href:'./apna-pakistan.html'},
  {id:'yaadein',icon:'📼',en:'Yaadein · Nostalgia',ur:'یادیں',href:'./yaadein.html'},
  {id:'gupshup',icon:'☕',en:'GUPSHUP',ur:'گپ شپ',href:'./gupshup.html'},
  {id:'contact',icon:'✉️',en:'Contact Us',ur:'رابطہ',href:'./community.html#contact'}
@@ -479,8 +480,13 @@ function renderHome(){
     '<a class="quick-tile community-home-tile" href="./kids.html"><span class="quick-emoji">🌈</span><span class="quick-name">Kids Corner</span></a>'+
     '<a class="quick-tile community-home-tile" href="./gupshup.html"><span class="quick-emoji">☕</span><span class="quick-name">GUPSHUP</span></a>'+
     '<a class="quick-tile community-home-tile" href="./my-paktv.html"><span class="quick-emoji">🏡</span><span class="quick-name">My PakTV Ghar</span></a>'+
+    '<a class="quick-tile community-home-tile" href="./apna-pakistan.html"><span class="quick-emoji">🇵🇰</span><span class="quick-name">Apna Pakistan</span></a>'+
     '</div>'+
     retroGamePromo()+
+    '<section class="apna-home-promo" aria-label="Apna Pakistan culture and festivals">'+
+      '<div class="apna-home-promo-deco" aria-hidden="true"><span>🇵🇰</span><b>RANG · RIWAYAT</b></div>'+
+      '<div class="apna-home-promo-copy"><span class="apna-home-kicker">CELEBRATE YOUR ROOTS</span><h2>Apna Pakistan <small lang="ur">اپنا پاکستان</small></h2><p>Festival memories, regional traditions, music, food and a little Pakistan culture quiz — all in one colourful corner.</p><a href="./apna-pakistan.html">Discover Apna Pakistan ↗</a></div>'+
+     '</section>'+
     '<div id="homeBriefing" class="home-briefing" aria-label="Latest news, Pakistan weather and world markets"></div>'+
 
 
@@ -830,7 +836,7 @@ function renderMyDashboard(){
  }).join('')}</div>`:`<div class="pgh-dash-empty">📺 No videos opened here yet. Start watching and they will appear in this space. <a href="./dramas.html">Explore dramas →</a></div>`}</section>
  <section class="pgh-dash-section"><div class="pgh-dash-header"><div><span class="eyebrow">FRESH FROM ORIGINAL PUBLISHERS</span><h2>${picks.tailored?'Picked for you':'Discover something new'}</h2><p>${picks.tailored?'Based on your topics and favourites, from the recently indexed YouTube feed.':'Choose your interests to personalise this section.'}</p></div></div>
  ${picks.videos.length?`<div class="media-grid">${picks.videos.map(videoCard).join('')}</div>`:`<div class="pgh-dash-empty">There are no matching fresh videos in the current index. <a href="./archive.html">Browse the archive →</a></div>`}</section>
- <section class="pgh-dash-extras"><h2>Explore more of your PakTV Ghar</h2><nav aria-label="Discover more"><a href="./music.html#originals">🎵 PKG Originals</a><a href="./gupshup.html">☕ GUPSHUP</a><a href="./desi-zaika.html">🍛 Desi Zaika</a><a href="./yaadein.html">📼 Yaadein</a><a href="./kids.html">🌈 Kids</a></nav></section>
+ <section class="pgh-dash-extras"><h2>Explore more of your PakTV Ghar</h2><nav aria-label="Discover more"><a href="./music.html#originals">🎵 PKG Originals</a><a href="./gupshup.html">☕ GUPSHUP</a><a href="./desi-zaika.html">🍛 Desi Zaika</a><a href="./yaadein.html">📼 Yaadein</a><a href="./apna-pakistan.html">🇵🇰 Apna Pakistan</a><a href="./kids.html">🌈 Kids</a></nav></section>
  <p class="pgh-dash-notice">Privacy: This dashboard uses storage in your browser, not an online account. It does not sync across devices. Clearing browser data removes your saved choices. Playback positions depend on information available from the YouTube player.</p>
  </div>`;
 }
