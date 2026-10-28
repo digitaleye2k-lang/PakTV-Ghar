@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-28T22:41:23.595051+00:00",
+  "generatedAt": "2026-10-28T22:43:14.721154+00:00",
   "dateTimezone": "UTC",
-  "cursor": 68,
-  "musicCursor": 0,
+  "cursor": 74,
+  "musicCursor": 6,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -155,35 +155,35 @@
       "uploadsId": "UUJEGvNxXunjqrcd2Xg9ntMQ",
       "handle": "KunFoods",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-27T22:22:32.309185+00:00"
+      "lastFetchedAt": "2026-10-28T22:43:14.721154+00:00"
     },
     "kitchenamna": {
       "youtubeId": "UCQ2P7C8UGoVM6AhqsVx-M0Q",
       "uploadsId": "UUQ2P7C8UGoVM6AhqsVx-M0Q",
       "handle": "KitchenWithAmna",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-27T22:22:32.309185+00:00"
+      "lastFetchedAt": "2026-10-28T22:43:14.721154+00:00"
     },
     "geoclassics": {
       "youtubeId": "UCLUfX9--VscMEKnIE6thhbg",
       "uploadsId": "UULUfX9--VscMEKnIE6thhbg",
       "handle": "GeoNewsClassics",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-27T22:22:32.309185+00:00"
+      "lastFetchedAt": "2026-10-28T22:43:14.721154+00:00"
     },
     "wildlens": {
       "youtubeId": "UCf1XIplYiqNv9baGsFHwPPQ",
       "uploadsId": "UUf1XIplYiqNv9baGsFHwPPQ",
       "handle": "WildLensByAbrar",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-27T22:22:32.309185+00:00"
+      "lastFetchedAt": "2026-10-28T22:43:14.721154+00:00"
     },
     "ruby": {
       "youtubeId": "UCMhx-uS3O-G_6_lTrYmDKLw",
       "uploadsId": "UUMhx-uS3O-G_6_lTrYmDKLw",
       "handle": "RubyKaKitchen",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-27T22:22:32.309185+00:00"
+      "lastFetchedAt": "2026-10-28T22:43:14.721154+00:00"
     },
     "ijazfood": {
       "youtubeId": "UCc1BSASBDsE_XYOTxD9SNmA",
@@ -372,28 +372,28 @@
       "uploadsId": "UUM1VesJtJ9vTXcMLLr_FfdQ",
       "handle": "cokestudio",
       "checkedAt": "2026-10-18T19:46:24.753696+00:00",
-      "lastFetchedAt": "2026-10-28T21:30:43.824118+00:00"
+      "lastFetchedAt": "2026-10-28T22:43:14.721154+00:00"
     },
     "emipakistan": {
       "youtubeId": "UC52h_LCatoUs6ycLjT9V8bQ",
       "uploadsId": "UU52h_LCatoUs6ycLjT9V8bQ",
       "handle": "EMIPakistanOfficial",
       "checkedAt": "2026-10-18T20:11:10.576823+00:00",
-      "lastFetchedAt": "2026-10-28T21:30:43.824118+00:00"
+      "lastFetchedAt": "2026-10-28T22:43:14.721154+00:00"
     },
     "talhaanjum": {
       "youtubeId": "UCaHBioELm9IzGYhg70Z1BKg",
       "uploadsId": "UUaHBioELm9IzGYhg70Z1BKg",
       "handle": "talhaanjum",
       "checkedAt": "2026-10-18T19:46:24.753696+00:00",
-      "lastFetchedAt": "2026-10-28T21:30:43.824118+00:00"
+      "lastFetchedAt": "2026-10-28T22:43:14.721154+00:00"
     },
     "youngstunners": {
       "youtubeId": "UCaHpJ-SkCR604NNBnjM9thQ",
       "uploadsId": "UUaHpJ-SkCR604NNBnjM9thQ",
       "handle": "YoungStunners",
       "checkedAt": "2026-10-18T19:46:24.753696+00:00",
-      "lastFetchedAt": "2026-10-28T21:30:43.824118+00:00"
+      "lastFetchedAt": "2026-10-28T22:43:14.721154+00:00"
     },
     "jaubi": {
       "youtubeId": "UC6s1zz1-t7rPf-4scKVYD8g",
@@ -2978,6 +2978,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "pEbd4uPW6sE",
+      "title": "Was Shahid Afridi Offered PCB Chairmanship? | Geo Classic",
+      "channel": "Geo Classics",
+      "channelId": "geoclassics",
+      "youtubeChannelId": "UCLUfX9--VscMEKnIE6thhbg",
+      "category": "comedy",
+      "genre": "Comedy & satire",
+      "date": "2026-10-28",
+      "published": "2026-10-28T17:30:32Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 274,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/pEbd4uPW6sE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "JDuLBuCxwrs",
       "title": "Tumharay Andar Ki Sharam Mar Chuki Hai | Humayoun Ashraf | Sumaiyya Bukhsh | Madaar | Green TV",
       "channel": "Green Entertainment",
@@ -4865,6 +4883,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/qtaRYO3fxtE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "yCH-nxgCjtw",
+      "title": "Pakistan Cricket Team Under Scrutiny! Shahid Afridi’s Candid Take | Geo Classic",
+      "channel": "Geo Classics",
+      "channelId": "geoclassics",
+      "youtubeChannelId": "UCLUfX9--VscMEKnIE6thhbg",
+      "category": "comedy",
+      "genre": "Comedy & satire",
+      "date": "2026-10-28",
+      "published": "2026-10-28T15:30:31Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 237,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/yCH-nxgCjtw/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -9239,6 +9275,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/RIGNfl7OScw/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "c8LoBEuHdkI",
+      "title": "Meri New Masaledar Karhai Recipe - RKK",
+      "channel": "Ruby Ka Kitchen",
+      "channelId": "ruby",
+      "youtubeChannelId": "UCMhx-uS3O-G_6_lTrYmDKLw",
+      "category": "vloggers",
+      "genre": "Food & recipes",
+      "date": "2026-10-28",
+      "published": "2026-10-28T10:15:24Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 543,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/c8LoBEuHdkI/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -66806,132 +66860,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "t3QDxrXdMes",
-      "title": "How Can We Create a Positive and Safe Learning Environment? | Rising Pakisran | PTV Home",
-      "channel": "PTV Home",
-      "channelId": "ptvhome",
-      "youtubeChannelId": "UCMfwlaPLGMn44BKvHv15yzA",
-      "category": "dramas",
-      "genre": "Classic & family dramas",
-      "date": "2026-10-05",
-      "published": "2026-10-05T11:24:29Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 116,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/t3QDxrXdMes/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "9-fJ1RYy0Vk",
-      "title": "Shayari ka muqabla! - Hasna Mana Hai",
-      "channel": "Hasna Mana Hai",
-      "channelId": "geohasna",
-      "youtubeChannelId": "UC6HQ4d3xq9EgSeJgMhc-4AQ",
-      "category": "comedy",
-      "genre": "Comedy & satire",
-      "date": "2026-10-05",
-      "published": "2026-10-05T09:15:15Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 676,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/9-fJ1RYy0Vk/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "Inb2wa_yaPI",
-      "title": "Dawat Ke Liye Kuch Khaas - RKK",
-      "channel": "Ruby Ka Kitchen",
-      "channelId": "ruby",
-      "youtubeChannelId": "UCMhx-uS3O-G_6_lTrYmDKLw",
-      "category": "vloggers",
-      "genre": "Food & recipes",
-      "date": "2026-10-05",
-      "published": "2026-10-05T09:15:14Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 702,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/Inb2wa_yaPI/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "75qHnhpCQIw",
-      "title": "Lawyer Barrister Salman Safdar of Imran Khan & Bushra Bibi avoids hearing by Dogar Court, media talk",
-      "channel": "Matiullah Jan MJtv",
-      "channelId": "matiullah",
-      "youtubeChannelId": "UC-hJ0cobUiWlBFTHgLwt8sQ",
-      "category": "vloggers",
-      "genre": "News & commentary",
-      "date": "2026-10-05",
-      "published": "2026-10-05T09:02:59Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 986,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/75qHnhpCQIw/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "btqvO77RCS0",
-      "title": "Pakoron Ke Saath Pasandida Chatni Na Mili To Do Groups Mein Jhagra! | Hasb-e-Haal",
-      "channel": "Hasb-e-Haal Official",
-      "channelId": "hasbehaal",
-      "youtubeChannelId": "UCyiJNpF7RgpPhyeKc4wnQkg",
-      "category": "comedy",
-      "genre": "Comedy & satire",
-      "date": "2026-10-05",
-      "published": "2026-10-05T09:00:05Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 522,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/btqvO77RCS0/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "aKO6nLkBMuI",
-      "title": "PTI reveals new facts about talks and what exactly the PTI team suggested which was rejected by govt",
-      "channel": "Matiullah Jan MJtv",
-      "channelId": "matiullah",
-      "youtubeChannelId": "UC-hJ0cobUiWlBFTHgLwt8sQ",
-      "category": "vloggers",
-      "genre": "News & commentary",
-      "date": "2026-10-05",
-      "published": "2026-10-05T08:40:00Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 725,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/aKO6nLkBMuI/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "vg-yWZUf7Xc",
-      "title": "Rising Pakistan | 5th October 2026 | PTV Home |",
-      "channel": "PTV Home",
-      "channelId": "ptvhome",
-      "youtubeChannelId": "UCMfwlaPLGMn44BKvHv15yzA",
-      "category": "dramas",
-      "genre": "Classic & family dramas",
-      "date": "2026-10-05",
-      "published": "2026-10-05T07:55:01Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 5068,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/vg-yWZUf7Xc/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "kjp6_5dJOBU",
       "title": "Coke Studio Nu.WAV Session ft Asim Azhar",
       "channel": "Coke Studio Pakistan",
@@ -79460,6 +79388,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "VQZTTkm89Bo",
+      "title": "Karachi Lingo - Official Audio - Talha Anjum | Talhah Yunus",
+      "channel": "Young Stunners",
+      "channelId": "youngstunners",
+      "youtubeChannelId": "UCaHpJ-SkCR604NNBnjM9thQ",
+      "category": "music",
+      "genre": "Hip-Hop & Rap",
+      "date": "2017-09-02",
+      "published": "2017-09-02T18:42:58Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 282,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/VQZTTkm89Bo/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "XZV8sKjyv60",
       "title": "Parchan Shal | Salam Zindagi | Natasha Baig & Faisal Qureshi",
       "channel": "Natasha Baig",
@@ -79475,6 +79421,60 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/XZV8sKjyv60/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "n8R-W9Lsrzk",
+      "title": "NOHookUps - Young Stunners - Official Audio",
+      "channel": "Young Stunners",
+      "channelId": "youngstunners",
+      "youtubeChannelId": "UCaHpJ-SkCR604NNBnjM9thQ",
+      "category": "music",
+      "genre": "Hip-Hop & Rap",
+      "date": "2017-07-22",
+      "published": "2017-07-22T21:06:59Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 261,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/n8R-W9Lsrzk/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "pVw8fK3CQl0",
+      "title": "I Don't Know - Young Stunners - Official Audio",
+      "channel": "Young Stunners",
+      "channelId": "youngstunners",
+      "youtubeChannelId": "UCaHpJ-SkCR604NNBnjM9thQ",
+      "category": "music",
+      "genre": "Hip-Hop & Rap",
+      "date": "2017-07-22",
+      "published": "2017-07-22T17:48:02Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 241,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/pVw8fK3CQl0/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "h2E2wiz3sug",
+      "title": "Real Talk - Young Stunners - Official Music Video",
+      "channel": "Young Stunners",
+      "channelId": "youngstunners",
+      "youtubeChannelId": "UCaHpJ-SkCR604NNBnjM9thQ",
+      "category": "music",
+      "genre": "Hip-Hop & Rap",
+      "date": "2017-07-22",
+      "published": "2017-07-22T17:37:12Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 229,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/h2E2wiz3sug/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -79640,6 +79640,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Arooj Aftab: channel unavailable; Zamad Baig: channel unavailable; Hassan & Roshaan: channel unavailable; Kashmir The Band: channel unavailable; Asad Toor: channel unavailable",
+  "lastError": "NESCAFÉ Basement: channel unavailable; Sajjad Ali: channel unavailable; Siddique Jaan: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
