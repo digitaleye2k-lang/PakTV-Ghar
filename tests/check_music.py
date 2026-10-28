@@ -45,6 +45,7 @@ for playlist in ("Golden Hour","Qawwali After Dark","The Desi Drive",
     assert playlist in dj
 assert "youtube-nocookie.com/embed/" in dj
 assert "fetch(" in dj and "data/archive.json" in dj
+assert "data/music-catalog.json" in dj and "from music_catalog import build_music_catalog" in refresh
 assert "createElement(\"iframe\")" in dj
 assert "music-hero" in style and ".music-grid" in style
 for page in ("kids.html","gupshup.html","waggle-workshop.html"):
