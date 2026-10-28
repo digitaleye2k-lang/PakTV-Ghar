@@ -108,7 +108,7 @@
 .topbar .header-action svg{width:19px;height:19px;flex:none;color:#e9e9f1}
 .topbar .header-action:hover{transform:translateY(-1px);border-color:#ff84929d;background:#ff667521}
 .topbar .header-action:focus-visible{outline:3px solid #ffa1b3;outline-offset:2px}
-.topbar .header-favourites svg{color:#ffa7b0}
+.topbar .header-dashboard svg{color:#ffa7b0}
 .topbar .header-privacy svg{color:#c4c9e0}
 .topbar .header-language{
   border-color:#ff748354;
@@ -121,7 +121,7 @@
   .topbar{column-gap:16px;padding-inline:clamp(17px,2vw,28px)}
   .topbar-actions{gap:7px}
   .topbar .header-action{padding-inline:11px}
-  .topbar .header-favourites .header-action-label,
+  .topbar .header-dashboard .header-action-label,
   .topbar .header-privacy .header-action-label{display:none}
 }
 @media(max-width:930px){
