@@ -28,8 +28,6 @@
 .privacy-dialog-actions .privacy-btn{flex:1}
 .privacy-gpc-note{border-left:3px solid #76ded1;padding-left:10px;color:#fff!important}
 .privacy-modal-open{overflow:hidden}
-.privacy-ad-frame{background:transparent}
-.privacy-extra-ad{width:1px;height:1px;position:absolute;left:-9999px;top:0;overflow:hidden}
 .cookie-settings-footer{background:transparent;border:0;padding:2px 0;color:#ffbe78;text-decoration:underline;font:inherit;font-weight:700;cursor:pointer}
 .cookie-settings-footer:focus-visible{outline:2px solid #76ded1;outline-offset:3px}
 @media(max-width:760px){
