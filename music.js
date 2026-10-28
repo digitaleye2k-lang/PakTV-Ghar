@@ -38,7 +38,7 @@ const sets=[
  {title:"Jazz on the Rooftop",emoji:"🎷",desc:"A mellow detour into jazz, fusion and creative sounds.",genre:["jazz","rock"],limit:20},
  {title:"DJ's Folk & Fusion",emoji:"🪕",desc:"Regional melodies, Sufi fusion and rhythmic traditions.",genre:["folk","sufi","jazz"],limit:20}
 ];
-const state={tracks:[],genre:"all",search:"",visible:20,queue:[],index:-1,shuffle:false,loading:true};
+const state={tracks:[],genre:"all",search:"",visible:32,queue:[],index:-1,shuffle:false,loading:true};
 let ytReady=null,ytPlayer=null;
 const text=(tag,cl,value)=>{const node=document.createElement(tag);if(cl)node.className=cl;if(value!==undefined)node.textContent=String(value);return node;};
 const clipPattern=/\b(?:shorts?|teaser|trailer|promo|reaction|podcast|interview|behind the scenes|behind-the-scenes|making of|bts|vlog|behind the mic)\b/i;
@@ -107,7 +107,7 @@ function drawGenres(){
  const host=$("genreFilters");host.replaceChildren();
  for(const g of genres){const b=text("button","",g.label);b.type="button";
  b.setAttribute("aria-pressed",String(state.genre===g.id));
- b.addEventListener("click",()=>{state.genre=g.id;state.visible=20;drawGenres();drawTracks();});
+ b.addEventListener("click",()=>{state.genre=g.id;state.visible=32;drawGenres();drawTracks();});
  host.append(b);}
 }
 function drawTracks(){
@@ -183,20 +183,35 @@ function nextSong(step){
  }else playAt(state.index+step);
 }
 async function load(){
- const paths=["./data/archive.json","./data/videos.json","./data/music-starters.json"];
- const responses=await Promise.allSettled(paths.map(async path=>{
-   const res=await fetch(path,{cache:"no-store"});
-   if(!res.ok)throw Error("Music feed unavailable");
-   return await res.json();
- }));
+ // Prefer the dedicated music catalogue: the rolling TV feed has no room for older songs.
  const entries=[];
- for(const r of responses)if(r.status==="fulfilled"&&Array.isArray(r.value?.videos))entries.push(...r.value.videos);
+ try{
+   const response=await fetch("./data/music-catalog.json",{cache:"no-store"});
+   if(!response.ok)throw Error("Music catalogue unavailable");
+   const payload=await response.json();
+   if(!Array.isArray(payload?.videos))throw Error("Music catalogue invalid");
+   entries.push(...payload.videos);
+ }catch{
+   const paths=["./data/archive.json","./data/videos.json","./data/music-starters.json"];
+   const responses=await Promise.allSettled(paths.map(async path=>{
+     const res=await fetch(path,{cache:"no-store"});
+     if(!res.ok)throw Error("Music feed unavailable");
+     return await res.json();
+   }));
+   for(const r of responses)if(r.status==="fulfilled"&&Array.isArray(r.value?.videos))entries.push(...r.value.videos);
+ }
+ if(!entries.length){
+   try{
+     const response=await fetch("./data/music-starters.json",{cache:"no-store"});
+     if(response.ok){const payload=await response.json();if(Array.isArray(payload?.videos))entries.push(...payload.videos)}
+   }catch{}
+ }
  state.tracks=uniq(entries.filter(safe).map(normalize)).sort(compare);
  state.loading=false;drawTracks();drawSets();
  document.dispatchEvent(new CustomEvent("paktv:music-catalog-ready",{detail:{tracks:state.tracks}}));
 }
-$("musicSearch").addEventListener("input",e=>{state.search=e.target.value;state.visible=20;drawTracks();});
-$("showMoreMusic").addEventListener("click",()=>{state.visible+=20;drawTracks();});
+$("musicSearch").addEventListener("input",e=>{state.search=e.target.value;state.visible=32;drawTracks();});
+$("showMoreMusic").addEventListener("click",()=>{state.visible+=32;drawTracks();});
 $("playerPrevious").addEventListener("click",()=>nextSong(-1));
 $("playerNext").addEventListener("click",()=>nextSong(1));
 $("playerShuffle").addEventListener("click",()=>{
