@@ -48,7 +48,7 @@ header_match = re.search(r'<header class="topbar"[^>]*>([\s\S]*?)</header>', pag
 if not header_match:
     raise SystemExit('Top search and settings header missing')
 header = header_match.group(1)
-for control in ('id="searchInput"', 'id="topFavourites"', 'id="languageButton"',
+for control in ('id="searchInput"', 'id="topDashboard"', 'id="languageButton"',
                 'data-privacy-settings', 'class="topbar-actions"'):
     if control not in header:
         raise SystemExit('Missing header control: ' + control)
@@ -84,3 +84,8 @@ for slug in ('today','dramas','movies','comedy','news','sports','talk',
 assert 'function routeURL(page)' in app and 'location.pathname' in app
 assert 'function openSeries(id)' in app and './show.html?id=' in app
 assert 'schedule-artwork' in app
+
+# My PakTV Ghar replaces standalone Favourites navigation but preserves saves.
+assert " {id:'dashboard',icon:'🏡'" in app
+assert " {id:'favourites',icon:'♡'" not in app
+assert 'id="myFavourites"' in app and "navTo('dashboard')" in app
