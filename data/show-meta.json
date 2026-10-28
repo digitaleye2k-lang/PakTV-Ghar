@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T03:22:49.865111+05:00",
+  "generatedAt": "2026-10-28T10:52:58.280865+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,6 +17,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 10,
+        "time": "01:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-28"
       }
     },
     "harpalgeo-nashtar": {
@@ -35,6 +42,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 24,
+        "time": "04:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-28"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T22:22:54.840990Z",
+  "updatedAt": "2026-10-28T05:53:05.004985Z",
   "source": "Radio Browser community directory",
   "sourceUrl": "https://www.radio-browser.info/",
   "stations": [
@@ -246,17 +246,6 @@
       "source": "Radio Browser (community directory)"
     },
     {
-      "id": "f4cfa2fb-afba-41f1-9066-6457aba81226",
-      "name": "#radio quran",
-      "city": "Pakistan",
-      "genre": "classical",
-      "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
-      "homepage": "https://www.radio-browser.info/",
-      "codec": "MP3",
-      "bitrate": 0,
-      "source": "Radio Browser (community directory)"
-    },
-    {
       "id": "658d9779-0334-4d8a-87bf-6872db0973e6",
       "name": "Fm.94.4",
       "city": "Pakistan",
@@ -265,6 +254,17 @@
       "homepage": "https://www.radio-browser.info/",
       "codec": "MP3",
       "bitrate": 128,
+      "source": "Radio Browser (community directory)"
+    },
+    {
+      "id": "33cab88d-c3d9-42f9-abaa-fd8c320fde8f",
+      "name": "City FM 89 Islamabad",
+      "city": "Islamabad",
+      "genre": "city fm 89 islamabad",
+      "stream": "https://radio.cityfm89.com/stream",
+      "homepage": "https://cityfm89.com/",
+      "codec": "AAC",
+      "bitrate": 96,
       "source": "Radio Browser (community directory)"
     },
     {
