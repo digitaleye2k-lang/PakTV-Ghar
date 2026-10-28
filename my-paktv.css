@@ -1,0 +1,39 @@
+
+/* My PakTV Ghar — personal dashboard */
+.pgh-dash{display:flex;flex-direction:column;gap:27px;padding-bottom:36px}
+.pgh-dash-hero{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(270px,.85fr);gap:28px;align-items:center;padding:30px;border:1px solid #506c72;border-radius:24px;background:radial-gradient(ellipse at 93% 15%,#715f8c55,transparent 47%),linear-gradient(125deg,#163b3f,#16293f 65%,#222941);box-shadow:0 18px 46px #040d1980}
+.pgh-dash-hero h1{font-size:clamp(27px,3.5vw,44px);line-height:1.15;margin:9px 0 11px;color:#fff5d9;font-weight:900}
+.pgh-dash-hero h1 small{display:block;margin-top:9px;font-size:.47em;font-weight:650;color:#bde9d6}
+.pgh-dash-hero p{color:#d4e5e4;line-height:1.7;max-width:690px}
+.pgh-dash-privacy{display:inline-flex;padding:8px 13px;border-radius:14px;border:1px solid #75ada76a;background:#1e4b4a6a;color:#bbf1d7;font-size:12px;font-weight:750}
+.pgh-dash-numbers{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.pgh-dash-numbers>div{min-width:0;padding:18px 10px;text-align:center;border:1px solid #92d6bf33;background:#0a192c88;border-radius:16px}
+.pgh-dash-numbers strong{display:block;font-size:clamp(23px,3vw,36px);color:#ffd99d}
+.pgh-dash-numbers span{color:#d5dfda;font-size:11px;line-height:1.4;display:block;margin-top:3px}
+.pgh-dash-section{border:1px solid #324763;border-radius:20px;background:linear-gradient(145deg,#121e32,#131b2a);padding:24px;min-width:0}
+.pgh-dash-header{display:flex;align-items:flex-start;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-bottom:21px}
+.pgh-dash-header h2,.pgh-dash-extras h2{font-size:clamp(21px,2.6vw,29px);margin:6px 0 4px;font-weight:850;color:#ffe8ba}
+.pgh-dash-header p{margin:4px 0;color:#bfcee0;line-height:1.5;font-size:14px}
+.pgh-dash-header>a,.pgh-dash-simple{font-size:12px;border:1px solid #748ca5;border-radius:12px;background:#20344d;padding:9px 12px;color:#e4f5e8;text-decoration:none;cursor:pointer;white-space:nowrap}
+.pgh-dash-header>a:hover,.pgh-dash-simple:hover{background:#335579}
+.pgh-dash-topics{display:flex;gap:9px;flex-wrap:wrap}
+.pgh-dash-topics button{border:1px solid #567a85;background:#1c3244;border-radius:30px;color:#e1edf0;padding:11px 17px;font-size:13px;font-weight:750;cursor:pointer}
+.pgh-dash-topics button span{padding-right:5px}
+.pgh-dash-topics button[aria-pressed=true]{border-color:#d6b773;background:#916f35;color:#fff7dc;box-shadow:0 0 16px #e2c78a22}
+.pgh-dash-topics button:hover{border-color:#f1d59d}
+.pgh-dash-empty{background:#1b2d3f;border:1px dashed #67849a;border-radius:15px;padding:26px;color:#d2dce4;line-height:1.7}
+.pgh-dash-empty a{display:inline-block;margin-left:5px;color:#ffe6a7;font-weight:800;text-decoration:underline}
+.pgh-dash-recent{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,310px),1fr));gap:12px}
+.pgh-dash-recent-item{display:grid;grid-template-columns:104px minmax(0,1fr);gap:11px;border:1px solid #3c5f75;border-radius:14px;padding:11px;background:#192b41;min-width:0}
+.pgh-dash-recent-item>img{width:104px;height:90px;object-fit:cover;border-radius:10px;background:#0f172b}
+.pgh-dash-recent-item>div{min-width:0}.pgh-dash-recent-item>div>span{font-size:10px;color:#a9cabb;font-weight:850}.pgh-dash-recent-item h3{font-size:13px;line-height:1.35;margin:3px 0 9px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.pgh-dash-recent-item button{border:1px solid #b6bd93;border-radius:12px;background:#355a53;padding:7px 11px;color:#f6eacf;font-size:12px;font-weight:800;cursor:pointer;margin-top:5px}
+.pgh-dash-recent-item button:hover{background:#45756c}.pgh-dash-recent-item small{display:block;font-size:10px;color:#a9c0c7}
+.pgh-dash-progress{height:5px;width:100%;border-radius:7px;background:#344b62;overflow:hidden;margin:9px 0 5px}.pgh-dash-progress i{display:block;height:100%;background:#efb66b;border-radius:7px}
+.pgh-dash-subtitle{font-size:17px;color:#ecdbb5;margin:23px 0 12px}.pgh-dash-subtitle:first-of-type{margin-top:0}
+.pgh-dash-extras{padding:24px;border-radius:20px;background:linear-gradient(120deg,#283c32,#273247);border:1px solid #58796e}
+.pgh-dash-extras nav{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px}.pgh-dash-extras a{padding:11px 15px;border:1px solid #84a0a2;border-radius:13px;background:#122a33;color:#e5eedc;font-weight:750;font-size:13px}
+.pgh-dash-extras a:hover{border-color:#ffe2ad}.pgh-dash-notice{font-size:12px;color:#aab8c8;line-height:1.65;padding:0 5px}
+@media(max-width:960px){.pgh-dash-hero{grid-template-columns:1fr}.pgh-dash-numbers>div{padding:14px 9px}}
+@media(max-width:590px){.pgh-dash{gap:15px}.pgh-dash-hero,.pgh-dash-section,.pgh-dash-extras{padding:15px;border-radius:16px}.pgh-dash-hero h1{font-size:27px}.pgh-dash-header{margin-bottom:14px}.pgh-dash-topics{gap:7px}.pgh-dash-topics button{padding:9px 12px}.pgh-dash-recent-item{grid-template-columns:87px minmax(0,1fr)}.pgh-dash-recent-item>img{width:87px;height:80px}.pgh-dash-header p{font-size:12px}}
+@media(prefers-reduced-motion:reduce){.pgh-dash *{scroll-behavior:auto}}
