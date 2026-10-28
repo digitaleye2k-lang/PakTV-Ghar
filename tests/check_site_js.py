@@ -8,7 +8,7 @@ catalog = Path('site-catalog.js').read_text(encoding='utf-8')
 app = Path('site-app.js').read_text(encoding='utf-8')
 scripts = [catalog, app]
 for name in ('site-catalog.js', 'site-app.js'):
-    if ('src="./'+name+'"') not in page:
+    if ('src="./'+name) not in page:
         raise SystemExit('Shared script missing from homepage: '+name)
 page += '\n' + catalog + '\n' + app
 for i, js in enumerate(scripts):
@@ -52,7 +52,7 @@ for control in ('id="searchInput"', 'id="topDashboard"', 'id="languageButton"',
                 'data-privacy-settings', 'class="topbar-actions"'):
     if control not in header:
         raise SystemExit('Missing header control: ' + control)
-for control in ('id="searchInput"', 'id="topFavourites"', 'id="languageButton"'):
+for control in ('id="searchInput"', 'id="topDashboard"', 'id="languageButton"'):
     if page.count(control) != 1:
         raise SystemExit('Duplicated header control: ' + control)
 if header.index('id="searchInput"') > header.index('class="topbar-actions"'):
@@ -75,7 +75,7 @@ print('Website JavaScript: parsed', len(scripts), 'blocks; cinema, movies and co
 
 # All major categories have their own browser URL, reusing shared site scripts.
 for slug in ('today','dramas','movies','comedy','news','sports','talk',
-             'vloggers','archive','favourites','search','show'):
+             'vloggers','archive','my-paktv','search','show'):
     item = Path(slug+'.html')
     assert item.is_file(), 'Missing standalone page '+slug
     body=item.read_text(encoding='utf-8')
@@ -89,3 +89,5 @@ assert 'schedule-artwork' in app
 assert " {id:'dashboard',icon:'🏡'" in app
 assert " {id:'favourites',icon:'♡'" not in app
 assert 'id="myFavourites"' in app and "navTo('dashboard')" in app
+
+assert 'my-paktv.html#myFavourites' in Path('favourites.html').read_text(encoding='utf-8')
