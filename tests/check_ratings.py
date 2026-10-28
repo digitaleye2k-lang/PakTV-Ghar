@@ -38,7 +38,7 @@ for part in ("library-tools .chips","library-tools .chip.active",
 assert ".pgh-rating-stars" in styles and ".pgh-featured-rating" in styles
 for page in ("index.html","today.html","dramas.html","comedy.html","movies.html",
              "sports.html","news.html","talk.html","vloggers.html",
-             "archive.html","favourites.html","search.html","show.html"):
+             "archive.html","my-paktv.html","search.html","show.html"):
     html = (root / page).read_text(encoding="utf-8")
     assert 'href="./ratings.css"' in html, "Ratings CSS missing from " + page
     assert 'src="./ratings.js"' in html, "Ratings JS missing from " + page
