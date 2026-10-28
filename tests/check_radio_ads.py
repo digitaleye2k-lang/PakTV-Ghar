@@ -49,7 +49,7 @@ assert 'ad-banner.html' in consent
 assert 'profitableratecpmnetwork.com' in consent
 assert 'highrevenueformat.com' in (root/"ad-banner.html").read_text(encoding="utf-8")
 for name in ("index.html","today.html","movies.html","news.html","comedy.html","dramas.html",
-             "sports.html","archive.html","favourites.html","search.html","show.html",
+             "sports.html","archive.html","my-paktv.html","search.html","show.html",
              "talk.html","vloggers.html"):
     page=(root/name).read_text(encoding="utf-8")
     assert 'cookie-consent.js' in page and 'paktvBannerSection' in page,name
