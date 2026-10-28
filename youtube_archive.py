@@ -16,6 +16,8 @@ import re
 PER_RUN = 12
 PAGES_PER_CHANNEL = 3
 PER_CHANNEL_LIMIT = 220
+MUSIC_PER_CHANNEL_LIMIT = 360  # Deeper back catalogue for verified music publishers
+MUSIC_PAGES_PER_CHANNEL = 8  # Up to 400 uploads per artist instead of 150
 ARCHIVE_RETENTION_DAYS = 365
 MAX_ARCHIVE_VIDEOS = 4400
 MOVIE_ARCHIVE_RETENTION_DAYS = 3650
@@ -158,14 +160,35 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
                     1 if source['id'] in
                    ('cokestudio','talhaanjum','jaubi','emipakistan') else 2)[:max_channels]
                 if max_channels >= 4 else [])
+    # Reserve half the scheduled slots for music uploads and rotate those
+    # sources separately. Normal broadcasters still get the remaining slots.
+    music_sources = [s for s in CHANNELS if s['category'] == 'music']
+    music_cursor = int(previous.get('musicCursor', 0)) % max(1, len(music_sources))
+    if max_channels >= 4 and music_sources:
+        priority = priority[:min(2, max_channels // 4)]
+        chosen = {s['id'] for s in priority}
+        music_slots = min(6, max_channels // 2)
+        music_pick = []
+        for step in range(len(music_sources)):
+            candidate = music_sources[(music_cursor + step) % len(music_sources)]
+            if candidate['id'] not in chosen:
+                music_pick.append(candidate)
+                chosen.add(candidate['id'])
+                if len(music_pick) >= music_slots:
+                    break
+        music_cursor = (music_cursor + music_slots) % len(music_sources)
+    else:
+        music_pick = []
+        chosen = {s['id'] for s in priority}
     regular = []
     advance = 0
-    while len(priority) + len(regular) < min(max_channels,len(CHANNELS)) and advance < len(CHANNELS):
+    while len(priority) + len(music_pick) + len(regular) < min(max_channels,len(CHANNELS)) and advance < len(CHANNELS):
         source = CHANNELS[(start+advance) % len(CHANNELS)]
         advance += 1
-        if source['id'] not in {item['id'] for item in priority}:
+        if source['id'] not in chosen:
             regular.append(source)
-    sources = priority + regular
+            chosen.add(source['id'])
+    sources = priority + music_pick + regular
     for source in sources:
         sid = source['id']
         record = cache.get(sid, {})
@@ -197,7 +220,8 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
             entry = dict(source, youtubeId=youtube_id)
             candidates = set()
             page_token = ''
-            for _ in range(PAGES_PER_CHANNEL):
+            page_limit = MUSIC_PAGES_PER_CHANNEL if source['category'] == 'music' else PAGES_PER_CHANNEL
+            for _ in range(page_limit):
                 args={'part':'contentDetails','playlistId':uploads,'maxResults':50}
                 if page_token:args['pageToken']=page_token
                 page = youtube_json('playlistItems', args, key, transport)
@@ -233,7 +257,7 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
     # News and short-form programming outnumber music uploads. Reserve
     # enough slots for genuine older music before filling the rest by date,
     # otherwise classic songs and jazz would disappear from the music page.
-    music_reserve = min(700, MAX_ARCHIVE_VIDEOS // 5)
+    music_reserve = min(1300, MAX_ARCHIVE_VIDEOS // 3)
     music_first = [v for v in ordered if v.get('category') == 'music'][:music_reserve]
     reserved_ids = {v['id'] for v in music_first}
     ordered = music_first + [v for v in ordered if v.get('category') != 'music'] + [
@@ -244,7 +268,7 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
     seen_ids = set()
     for v in ordered:
         sid=v.get('channelId')
-        if v['id'] in seen_ids or by_channel.get(sid,0)>=PER_CHANNEL_LIMIT:continue
+        if v['id'] in seen_ids or by_channel.get(sid,0)>=(MUSIC_PER_CHANNEL_LIMIT if v.get('category') == 'music' else PER_CHANNEL_LIMIT):continue
         if len(videos)>=MAX_ARCHIVE_VIDEOS:break
         by_channel[sid]=by_channel.get(sid,0)+1
         seen_ids.add(v['id'])
@@ -252,7 +276,7 @@ def update_archive(key, previous=None, now=None, transport=None, max_channels=PE
     videos.sort(key=lambda x:(x.get('published',''),x['id']),reverse=True)
     result = {
         'generatedAt':now.isoformat(),'dateTimezone':'UTC',
-        'cursor':(start+advance) % len(CHANNELS), 'channels':cache,
+        'cursor':(start+advance) % len(CHANNELS), 'musicCursor':music_cursor, 'channels':cache,
         'videos':videos, 'lastError':'; '.join(errors[:7]),
         'notes':'Videos are links to original publishers, not stored here. Country availability can change.',
     }
