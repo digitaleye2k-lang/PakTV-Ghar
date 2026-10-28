@@ -346,6 +346,10 @@ def main():
      readold('movie-discovery-state.json',{}))
  write('movie-discovery-state.json',movie_state)
  write('archive.json',archive)
+ from music_catalog import build_music_catalog
+ music_catalog = build_music_catalog(archive, readold('videos.json',{}), readold('music-starters.json',{}))
+ write('music-catalog.json',music_catalog)
+ print('Music catalogue:',len(music_catalog['videos']),'verified songs across',len(music_catalog['publishers']),'publishers')
  print('Film discovery:',movie_stats['checked'],'publisher candidates,',
        movie_stats['added'],'new verified full films')
  print('Archive:',archive_stats['checked'],'channels refreshed,',
