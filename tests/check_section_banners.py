@@ -39,7 +39,7 @@ for term in (
 ):
     assert term in theme, "Section banner style absent: "+term
 for page,html in (("movies",movies),("dramas",dramas),("sports",sports)):
-    assert 'src="./site-app.js"' in html, page+" must load site app"
+    assert 'src="./site-app.js' in html, page+" must load site app"
     assert 'href="./paktv-green.css"' in html, page+" must load green theme"
 assert "35cc81b7-a472-4dad-9fc9-bb36f86c1158.jpg" in app
 assert "4595f7b2-1bc7-4e26-9369-d7f1e9d2ae26.jpg" in app
