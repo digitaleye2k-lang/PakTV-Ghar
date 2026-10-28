@@ -1,89 +1,63 @@
-const assert = require("node:assert/strict");
-const fs = require("node:fs");
-const vm = require("node:vm");
-const code = fs.readFileSync("cookie-consent.js", "utf8");
-const html = fs.readFileSync("index.html", "utf8");
-const banner = fs.readFileSync("ad-banner.html", "utf8");
-assert(!/<script[^>]+src=["']https:\/\/(?:pl3179369|www\.highrevenueformat)/i.test(html),
-       "Do not include vendor script tags directly on the site before consent");
-assert(banner.includes("496d9513280ec1abea29f69a25c35fa8"));
-assert(banner.includes("highrevenueformat.com"));
-assert(html.includes('name="google-adsense-account" content="ca-pub-7935805760564580"'));
-assert(!html.includes('<script async src="https://pagead2.googlesyndication.com'),"Google script must remain consent-gated");
-
-function run(choice, globalPrivacyControl=false) {
-  const nodes = {}, all = [];
-  function element(tag="div",id="") {
-    const node = {
-      tag,id,hidden:true,children:[],style:{},attributes:{},listeners:{},
-      appendChild(child){this.children.push(child);return child},
-      append(...children){this.children.push(...children)},
-      replaceChildren(...children){this.children=children},
-      setAttribute(key,value){this.attributes[key]=value},
-      addEventListener(type,callback){this.listeners[type]=callback},
-      querySelector(){return null}, focus(){},
-    };
-    all.push(node);
-    return node;
-  }
-  for(const id of ["paktvCookieBanner","privacyBackdrop","privacyDialog",
-    "privacyAdsCheck","privacyExtraCheck","privacyGoogleCheck","privacyGPC","privacyReject",
-    "privacyAccept","privacyCustomize","privacyModalReject","privacySave",
-    "privacyClose","paktvBannerSection","paktvNativeSection",
-    "paktvBannerSlot","paktvNativeSlot"]) nodes[id]=element("div",id);
-  const document = {
-    readyState:"complete",activeElement:null,body:element("body"),head:element("head"),
-    querySelector:()=>null,
-    addEventListener(){},
-    createElement:tag=>element(tag),
-    getElementById:id=>nodes[id],
-    querySelectorAll:()=>[]
-  };
-  const localStorage = {
-    getItem:()=>choice===null?null:JSON.stringify({
-      version:2,date:new Date().toISOString(),ads:choice.ads,extra:choice.extra,googleAds:choice.googleAds}),
-    setItem(){}
-  };
-  const timers=[];
-  const window = { location:{reload(){}},setTimeout:(fn,delay)=>{timers.push({fn,delay});return timers.length} };
-  const sessionStorage = {getItem:()=>null,setItem(){} };
-  class MutationObserver { observe(){} disconnect(){} }
-
-  vm.runInNewContext(code, {document,localStorage,sessionStorage,MutationObserver,navigator:{globalPrivacyControl},window},
-    {timeout:3000,filename:"cookie-consent.js"});
-  return {
-    adScripts:all.filter(el=>el.tag==="script").map(el=>el.src).filter(Boolean),
-    bannerFrames:all.filter(el=>el.tag==="iframe").map(el=>el.src).filter(Boolean),
-    banner:!nodes.paktvBannerSection.hidden,
-    native:!nodes.paktvNativeSection.hidden,
-    consent:!nodes.paktvCookieBanner.hidden,
-    timers,
-    target:all.some(el=>el.id==="container-f2f16d24ca9a3049cd4688257eb5b256")
-  };
+const assert=require("node:assert/strict");
+const fs=require("node:fs");
+const vm=require("node:vm");
+const consent=fs.readFileSync("cookie-consent.js","utf8");
+const home=fs.readFileSync("index.html","utf8");
+assert(home.includes('name="google-adsense-account" content="ca-pub-7935805760564580"'));
+assert(!fs.existsSync("ad-banner.html")&&!fs.existsSync("ad-side.html"),"Former Adsterra iframe documents must be removed");
+assert(!/profitableratecpmnetwork|highrevenueformat|adsterra/i.test(consent),"Old ad network is not allowed in consent script");
+assert(!/paktvBannerSection|paktvNativeSection|sponsored-link/i.test(home),"Former ad slots must be gone");
+assert(!home.includes('<script async src="https://pagead2.googlesyndication.com'),"AdSense must be consent-gated");
+function run(saved=null,gpc=false,page="/index.html"){
+ const all=[],nodes={},writes=[];
+ function element(tag="div",id=""){
+  const node={tag,id,hidden:true,checked:false,disabled:false,children:[],style:{},listeners:{},
+    classList:{add(){},remove(){}},
+    setAttribute(key,val){this[key]=val},
+    appendChild(child){this.children.push(child);return child},
+    append(...children){this.children.push(...children)},
+    replaceChildren(...children){this.children=children},
+    addEventListener(type,fn){this.listeners[type]=fn},
+    querySelectorAll(){return []},querySelector(){return null},focus(){}};
+  all.push(node);return node;
+ }
+ for(const id of ["paktvCookieBanner","privacyBackdrop","privacyDialog","privacyGoogleCheck",
+  "privacyGPC","privacyReject","privacyAccept","privacyCustomize",
+  "privacyModalReject","privacySave","privacyClose"])nodes[id]=element("div",id);
+ const document={readyState:"complete",activeElement:null,body:element("body"),head:element("head"),
+   querySelector:()=>null,querySelectorAll:()=>[],createElement:t=>element(t),getElementById:id=>nodes[id],addEventListener(){}};
+ const storage={getItem:()=>saved?JSON.stringify({...saved,date:new Date().toISOString()}):null,
+   setItem:(k,v)=>writes.push({key:k,value:JSON.parse(v)})};
+ let reloads=0;
+ const window={location:{pathname:page,reload(){reloads++}}};
+ vm.runInNewContext(consent,{document,window,localStorage:storage,navigator:{globalPrivacyControl:gpc}},
+  {timeout:3000,filename:"cookie-consent.js"});
+ return {nodes,all,writes,reloads:()=>reloads,scripts:all.filter(n=>n.tag==="script").map(n=>n.src).filter(Boolean)};
 }
-let first=run(null);
-assert.equal(first.adScripts.length,0);
-assert.equal(first.bannerFrames.length,0);
-assert(first.consent);
-let refused=run({ads:false,extra:false});
-assert.equal(refused.adScripts.length,0);
-assert.equal(refused.bannerFrames.length,0);
-assert(!refused.native);
-let display=run({ads:true,extra:false});
-assert.equal(display.adScripts.length,1);
-assert(display.adScripts[0].includes("pl31906516.profitableratecpmnetwork.com"));
-assert.deepEqual(display.bannerFrames,["./ad-banner.html"]);
-assert(display.native&&display.banner&&display.target);
-let googleOnly=run({ads:false,extra:false,googleAds:true});
-assert.equal(googleOnly.adScripts.length,1);
-assert(googleOnly.adScripts[0].includes("pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7935805760564580"));
-assert.equal(googleOnly.bannerFrames.length,0);
-assert(!googleOnly.native);
-let all=run({ads:true,extra:true});
-assert.equal(all.adScripts.length,1, "Social Bar is delayed, and redirect scripts must not load");
-assert.equal(all.timers.length,1);
-assert(all.timers[0].delay > 0 && all.timers[0].delay <= 20*60*1000);
-let gpc=run({ads:true,extra:true,googleAds:true},true);
-assert.equal(gpc.adScripts.length,0);
-assert.equal(gpc.bannerFrames.length,0);
-console.log("Consent ad loader: six scenarios passed, including opt-in Google AdSense");
+const first=run();
+assert.equal(first.scripts.length,0);
+assert.equal(first.nodes.paktvCookieBanner.hidden,false);
+const rejected=run({version:3,googleAds:false});
+assert.equal(rejected.scripts.length,0);
+assert.equal(rejected.nodes.paktvCookieBanner.hidden,true);
+const accepted=run({version:3,googleAds:true});
+assert.equal(accepted.scripts.length,1);
+assert.equal(accepted.scripts[0],"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7935805760564580");
+assert.equal(accepted.nodes.paktvCookieBanner.hidden,true);
+const old=run({version:2,ads:true,extra:true,googleAds:true});
+assert.equal(old.scripts.length,0,"Old consent must not authorize a new ad provider setup");
+assert.equal(old.nodes.paktvCookieBanner.hidden,false);
+const gpc=run({version:3,googleAds:true},true);
+assert.equal(gpc.scripts.length,0);
+const kids=run({version:3,googleAds:true},false,"/kids.html");
+assert.equal(kids.scripts.length,0);
+const clicking=run();
+clicking.nodes.privacyAccept.listeners.click();
+assert.equal(clicking.writes[0].value.googleAds,true);
+assert.equal(clicking.writes[0].value.version,3);
+assert.equal(clicking.reloads(),1);
+const withdrawing=run({version:3,googleAds:true});
+withdrawing.nodes.privacyReject.listeners.click();
+assert.equal(withdrawing.writes[0].value.googleAds,false);
+assert.equal(withdrawing.reloads(),1);
+console.log("Google AdSense consent loader: eight scenarios passed; no Adsterra scripts or slots");
