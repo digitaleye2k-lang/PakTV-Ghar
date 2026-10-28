@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-28T21:31:26.156464+00:00",
+  "generatedAt": "2026-10-28T22:29:00.222769+00:00",
   "source": "verified_publisher_uploads_and_official_starters",
-  "count": 689,
+  "count": 686,
   "publishers": {
     "cokestudio": 124,
     "emipakistan": 253,
@@ -9,8 +9,8 @@
     "natashabaig": 69,
     "abdulhannan": 38,
     "hasanraheem": 65,
-    "bayaan": 29,
-    "youngstunners": 41,
+    "bayaan": 30,
+    "youngstunners": 37,
     "jaubi": 1,
     "sajjadali": 1
   },
@@ -8176,6 +8176,18 @@
       "durationSeconds": 221
     },
     {
+      "id": "gzO8c_QNawg",
+      "title": "Bayaan - Din Dhalay (Official Video)",
+      "channel": "Bayaan",
+      "channelId": "bayaan",
+      "category": "music",
+      "genre": "Indie & Alternative",
+      "published": "2018-01-06T11:32:08Z",
+      "date": "2018-01-06",
+      "embeddable": true,
+      "durationSeconds": 346
+    },
+    {
       "id": "ltTqwVSUnmQ",
       "title": "ROOH - (REMIX) - Official Audio",
       "channel": "Young Stunners",
@@ -8198,54 +8210,6 @@
       "date": "2017-11-16",
       "embeddable": true,
       "durationSeconds": 288
-    },
-    {
-      "id": "VQZTTkm89Bo",
-      "title": "Karachi Lingo - Official Audio - Talha Anjum | Talhah Yunus",
-      "channel": "Young Stunners",
-      "channelId": "youngstunners",
-      "category": "music",
-      "genre": "Hip-Hop & Rap",
-      "published": "2017-09-02T18:42:58Z",
-      "date": "2017-09-02",
-      "embeddable": true,
-      "durationSeconds": 282
-    },
-    {
-      "id": "n8R-W9Lsrzk",
-      "title": "NOHookUps - Young Stunners - Official Audio",
-      "channel": "Young Stunners",
-      "channelId": "youngstunners",
-      "category": "music",
-      "genre": "Hip-Hop & Rap",
-      "published": "2017-07-22T21:06:59Z",
-      "date": "2017-07-22",
-      "embeddable": true,
-      "durationSeconds": 261
-    },
-    {
-      "id": "pVw8fK3CQl0",
-      "title": "I Don't Know - Young Stunners - Official Audio",
-      "channel": "Young Stunners",
-      "channelId": "youngstunners",
-      "category": "music",
-      "genre": "Hip-Hop & Rap",
-      "published": "2017-07-22T17:48:02Z",
-      "date": "2017-07-22",
-      "embeddable": true,
-      "durationSeconds": 241
-    },
-    {
-      "id": "h2E2wiz3sug",
-      "title": "Real Talk - Young Stunners - Official Music Video",
-      "channel": "Young Stunners",
-      "channelId": "youngstunners",
-      "category": "music",
-      "genre": "Hip-Hop & Rap",
-      "published": "2017-07-22T17:37:12Z",
-      "date": "2017-07-22",
-      "embeddable": true,
-      "durationSeconds": 229
     },
     {
       "id": "kw4tT7SCmaY",
