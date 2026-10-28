@@ -34,6 +34,7 @@ jobs:
           python3 tests/check_ratings.py
           python3 tests/check_section_banners.py
           python3 tests/check_music.py
+          python3 tests/check_apna_pakistan.py
           python3 tests/check_radio_ads.py
           python3 -m unittest discover -s tests -p 'test_youtube*.py' -v
           python3 tests/check_site_js.py
