@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T01:21:48.537678+05:00",
+  "generatedAt": "2026-10-29T02:17:33.416190+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,6 +17,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 10,
+        "time": "16:30",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-29"
       }
     },
     "harpalgeo-nashtar": {
@@ -35,6 +42,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 24,
+        "time": "11:30",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-29"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -62,10 +76,10 @@
       },
       "lastAttempt": "2026-10-22T03:12:40.218128+05:00",
       "latestUpload": {
-        "number": 34,
-        "id": "Xi17Mj2TOLY",
-        "title": "Uswah Episode 34 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "date": "2026-10-27",
+        "number": 36,
+        "id": "8fam0A5FCAs",
+        "title": "Uswah Episode 36 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "date": "2026-10-28",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -82,10 +96,10 @@
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
       "latestPublisherSource": "https://harpalgeo.tv/program/Khafa",
       "latestUpload": {
-        "number": 24,
-        "id": "_mgVD-alezg",
-        "title": "Khafa Episode 24 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
-        "date": "2026-10-23",
+        "number": 25,
+        "id": "02OQAI3p3e8",
+        "title": "Khafa Episode 25 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "date": "2026-10-28",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -103,10 +117,10 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Aangan-500.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 7,
-        "id": "7a0Dy7jX-4c",
-        "title": "Aangan - Episode 07 - [Eng Sub]- 23rd Oct 2026 [Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain]",
-        "date": "2026-10-23",
+        "number": 4,
+        "id": "K1SHRLAXBuE",
+        "title": "Aangan - Episode 04 - Highlight [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
+        "date": "2026-10-11",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -125,12 +139,12 @@
         "date": "2026-10-29"
       },
       "latestUpload": {
-        "number": 14,
-        "id": "QXoWys_Ykcw",
-        "title": "Bano Episode 14 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "date": "2026-10-27",
+        "number": 16,
+        "id": "EIaqw35nUZk",
+        "title": "Bano Episode 16 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 28th October 2026 | HAR PAL GEO",
+        "date": "2026-10-28",
         "source": "Official YouTube upload",
-        "availableGB": true,
+        "availableGB": false,
         "availablePK": true,
         "embeddable": true
       }
@@ -171,10 +185,10 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Gulbahar-500.jpg.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 11,
-        "id": "-SSVup_u-y4",
-        "title": "Gulbahar - Episode 11 - [Eng Sub] 21st Oct 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
-        "date": "2026-10-21",
+        "number": 13,
+        "id": "cCofU7dnjQY",
+        "title": "Gulbahar - Episode 13 - [Eng Sub] 28th Oct 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
+        "date": "2026-10-28",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -189,13 +203,13 @@
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
       "latestPublisherSource": "https://arydigital.tv/drama/hey-fam/",
       "latestUpload": {
-        "number": 10,
-        "id": "fL5lA6STcb8",
-        "title": "Hey Fam | EP  10 | 15 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ENG SUB | ARY Digital",
-        "date": "2026-10-15",
+        "number": 13,
+        "id": "RmyuRJT9KxM",
+        "title": "Hey Fam | EP 13 | 28 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
+        "date": "2026-10-28",
         "source": "Official YouTube upload",
-        "availableGB": true,
-        "availablePK": false,
+        "availableGB": false,
+        "availablePK": true,
         "embeddable": true
       }
     },
@@ -221,10 +235,10 @@
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
       "latestPublisherSource": "https://arydigital.tv/drama/izzat/",
       "latestUpload": {
-        "number": 37,
-        "id": "0H4Y4GqAzps",
-        "title": "Izzat Episode 37 | 26 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "date": "2026-10-26",
+        "number": 39,
+        "id": "jExEZMsDnpY",
+        "title": "Izzat Episode 39 | 28 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "date": "2026-10-28",
         "source": "Official YouTube upload",
         "availableGB": false,
         "availablePK": true,
@@ -235,10 +249,10 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Khushi-500.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 44,
-        "id": "vYpGvoR4onc",
-        "title": "Khushi - Episode 44 - [ENG SUB] 26th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "date": "2026-10-26",
+        "number": 46,
+        "id": "KFWag8aMzsQ",
+        "title": "Khushi - Episode 46 - [Eng Sub] 28th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "date": "2026-10-28",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -315,12 +329,12 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/TT-500.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 14,
-        "id": "8fzsPY70av8",
-        "title": "Tark-e-Tamanna - Episode 14 [Eng Sub] - 23rd Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
-        "date": "2026-10-23",
+        "number": 15,
+        "id": "18-K-8Qx2bU",
+        "title": "Tark-e-Tamanna - Episode 15 - 28th Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "date": "2026-10-28",
         "source": "Official YouTube upload",
-        "availableGB": true,
+        "availableGB": false,
         "availablePK": true,
         "embeddable": true
       }
@@ -343,12 +357,12 @@
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1791124391063_c79ece2290.webp&w=1920&q=75",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 3,
-        "id": "K4EnMsNvtjQ",
-        "title": "Lagan Lagi Episode 3 | 26 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
-        "date": "2026-10-26",
+        "number": 5,
+        "id": "htgungjj2BA",
+        "title": "Lagan Lagi Episode 5 | 28 Oct 206 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "date": "2026-10-28",
         "source": "Official YouTube upload",
-        "availableGB": true,
+        "availableGB": false,
         "availablePK": true,
         "embeddable": true
       }
