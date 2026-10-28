@@ -37,3 +37,8 @@
 @media(max-width:960px){.pgh-dash-hero{grid-template-columns:1fr}.pgh-dash-numbers>div{padding:14px 9px}}
 @media(max-width:590px){.pgh-dash{gap:15px}.pgh-dash-hero,.pgh-dash-section,.pgh-dash-extras{padding:15px;border-radius:16px}.pgh-dash-hero h1{font-size:27px}.pgh-dash-header{margin-bottom:14px}.pgh-dash-topics{gap:7px}.pgh-dash-topics button{padding:9px 12px}.pgh-dash-recent-item{grid-template-columns:87px minmax(0,1fr)}.pgh-dash-recent-item>img{width:87px;height:80px}.pgh-dash-header p{font-size:12px}}
 @media(prefers-reduced-motion:reduce){.pgh-dash *{scroll-behavior:auto}}
+
+/* My Favourites integrated into My PakTV Ghar */
+#myFavourites{scroll-margin-top:140px;border-color:#7ba59d;background:linear-gradient(140deg,#193d3c,#172337 65%)}
+.pgh-dash-fav-jump{display:inline-flex;align-items:center;justify-content:center;margin:12px 0 0;padding:9px 15px;border:1px solid #dcbe79;border-radius:12px;background:#244d47;color:#ffe5ac;font-weight:800;font-size:13px;text-decoration:none;max-width:max-content}
+.pgh-dash-fav-jump:hover{background:#35655b}
