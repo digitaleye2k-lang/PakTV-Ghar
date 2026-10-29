@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-29T01:02:26.978959+00:00",
+  "generatedAt": "2026-10-29T10:08:59.196443+00:00",
   "source": "verified_publisher_uploads_and_official_starters",
-  "count": 722,
+  "count": 716,
   "publishers": {
     "cokestudio": 124,
     "emipakistan": 253,
     "talhaanjum": 68,
-    "natashabaig": 98,
+    "natashabaig": 94,
     "abdulhannan": 38,
     "hasanraheem": 66,
     "bayaan": 30,
     "youngstunners": 41,
-    "jaubi": 3,
+    "jaubi": 1,
     "sajjadali": 1
   },
   "videos": [
@@ -8572,54 +8572,6 @@
       "durationSeconds": 157
     },
     {
-      "id": "DZJ1yajZDSs",
-      "title": "Abida Parveen | Zahid ne Mera | Natasha Baig | Tribute | Cover | Live Performance",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-02-23T09:54:53Z",
-      "date": "2017-02-23",
-      "embeddable": true,
-      "durationSeconds": 334
-    },
-    {
-      "id": "xaAUoOhntJY",
-      "title": "Sufi Medley | Natasha Baig",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-02-22T16:59:22Z",
-      "date": "2017-02-22",
-      "embeddable": true,
-      "durationSeconds": 352
-    },
-    {
-      "id": "QP8dFHxb8eU",
-      "title": "Kesaria | Natasha Baig ft. Mai Dhai (New Song 2017)",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-02-22T15:27:12Z",
-      "date": "2017-02-22",
-      "embeddable": true,
-      "durationSeconds": 288
-    },
-    {
-      "id": "VKUAIUZTcPk",
-      "title": "Peera Ho | Cover By Natasha Baig",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-02-22T13:51:42Z",
-      "date": "2017-02-22",
-      "embeddable": true,
-      "durationSeconds": 309
-    },
-    {
       "id": "kw4tT7SCmaY",
       "title": "Afreen Afreen · Rahat Fateh Ali Khan × Momina Mustehsan · Coke Studio Season 9",
       "channel": "Coke Studio Pakistan",
@@ -8629,30 +8581,6 @@
       "published": "2016-08-19T00:00:00Z",
       "date": "2016-08-19",
       "embeddable": true
-    },
-    {
-      "id": "ojpHAF8-IIU",
-      "title": "Raga Shivranjani",
-      "channel": "Jaubi",
-      "channelId": "jaubi",
-      "category": "music",
-      "genre": "Jazz & Fusion",
-      "published": "2016-05-27T07:24:28Z",
-      "date": "2016-05-27",
-      "embeddable": true,
-      "durationSeconds": 368
-    },
-    {
-      "id": "I38WjGEzyBQ",
-      "title": "\"Vicky\" - Jaubi",
-      "channel": "Jaubi",
-      "channelId": "jaubi",
-      "category": "music",
-      "genre": "Jazz & Fusion",
-      "published": "2016-03-17T08:48:43Z",
-      "date": "2016-03-17",
-      "embeddable": true,
-      "durationSeconds": 188
     },
     {
       "id": "a18py61_F_w",
