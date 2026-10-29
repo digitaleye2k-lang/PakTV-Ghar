@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-29T10:08:54.158328+00:00",
+  "generatedAt": "2026-10-29T18:32:04.507609+00:00",
   "dateTimezone": "UTC",
-  "cursor": 9,
-  "musicCursor": 0,
+  "cursor": 15,
+  "musicCursor": 6,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -372,28 +372,28 @@
       "uploadsId": "UUM1VesJtJ9vTXcMLLr_FfdQ",
       "handle": "cokestudio",
       "checkedAt": "2026-10-18T19:46:24.753696+00:00",
-      "lastFetchedAt": "2026-10-29T01:02:10.483966+00:00"
+      "lastFetchedAt": "2026-10-29T18:32:04.507609+00:00"
     },
     "emipakistan": {
       "youtubeId": "UC52h_LCatoUs6ycLjT9V8bQ",
       "uploadsId": "UU52h_LCatoUs6ycLjT9V8bQ",
       "handle": "EMIPakistanOfficial",
       "checkedAt": "2026-10-18T20:11:10.576823+00:00",
-      "lastFetchedAt": "2026-10-29T01:02:10.483966+00:00"
+      "lastFetchedAt": "2026-10-29T18:32:04.507609+00:00"
     },
     "talhaanjum": {
       "youtubeId": "UCaHBioELm9IzGYhg70Z1BKg",
       "uploadsId": "UUaHBioELm9IzGYhg70Z1BKg",
       "handle": "talhaanjum",
       "checkedAt": "2026-10-18T19:46:24.753696+00:00",
-      "lastFetchedAt": "2026-10-29T10:08:54.158328+00:00"
+      "lastFetchedAt": "2026-10-29T18:32:04.507609+00:00"
     },
     "youngstunners": {
       "youtubeId": "UCaHpJ-SkCR604NNBnjM9thQ",
       "uploadsId": "UUaHpJ-SkCR604NNBnjM9thQ",
       "handle": "YoungStunners",
       "checkedAt": "2026-10-18T19:46:24.753696+00:00",
-      "lastFetchedAt": "2026-10-29T10:08:54.158328+00:00"
+      "lastFetchedAt": "2026-10-29T18:32:04.507609+00:00"
     },
     "jaubi": {
       "youtubeId": "UC6s1zz1-t7rPf-4scKVYD8g",
@@ -407,38 +407,56 @@
       "uploadsId": "UU3FnOdo2ooBS4TrEcmwUR_Q",
       "handle": "AtifAslamOfficial",
       "checkedAt": "2026-10-18T19:47:58.539938+00:00",
-      "lastFetchedAt": "2026-10-29T01:02:10.483966+00:00"
+      "lastFetchedAt": "2026-10-29T18:32:04.507609+00:00"
     },
     "bayaan": {
       "youtubeId": "UCqOLlRNuWqswf30c9AJC-Cg",
       "uploadsId": "UUqOLlRNuWqswf30c9AJC-Cg",
       "handle": "BayaanOfficial",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-29T01:02:10.483966+00:00"
+      "lastFetchedAt": "2026-10-29T18:32:04.507609+00:00"
     },
     "abdulhannan": {
       "youtubeId": "UCZ1FCXu6uAhE6YkAsKQDGNg",
       "uploadsId": "UUZ1FCXu6uAhE6YkAsKQDGNg",
       "handle": "abdulhannanmusic",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-29T01:02:10.483966+00:00"
+      "lastFetchedAt": "2026-10-29T18:32:04.507609+00:00"
     },
     "hasanraheem": {
       "youtubeId": "UCaQvtCweOs1RpgFIO3-ezMA",
       "uploadsId": "UUaQvtCweOs1RpgFIO3-ezMA",
       "handle": "hasanraheem",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-29T10:08:54.158328+00:00"
+      "lastFetchedAt": "2026-10-29T18:32:04.507609+00:00"
     },
     "natashabaig": {
       "youtubeId": "UCfoMcYBhl7LM23G6tziMEYw",
       "uploadsId": "UUfoMcYBhl7LM23G6tziMEYw",
       "handle": "NatashaBaigOfficial",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-29T10:08:54.158328+00:00"
+      "lastFetchedAt": "2026-10-29T18:32:04.507609+00:00"
     }
   },
   "videos": [
+    {
+      "id": "NgfEipFNYCM",
+      "title": "Waqt e rukhsat | Natasha Baig ft Surtaal Academy (Live Qawali)",
+      "channel": "Natasha Baig",
+      "channelId": "natashabaig",
+      "youtubeChannelId": "UCfoMcYBhl7LM23G6tziMEYw",
+      "category": "music",
+      "genre": "Covers & Sufi",
+      "date": "2026-10-29",
+      "published": "2026-10-29T11:23:24Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 297,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/NgfEipFNYCM/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
     {
       "id": "4KX9yf2BcDQ",
       "title": "Netanyahu’s Rule Nearing Its End? Who Could Lead Israel Next? | Red Line | Samaa TV",
@@ -66860,24 +66878,6 @@
       "sourceType": "youtube_search_verified_publisher"
     },
     {
-      "id": "F1v5B_9PqoA",
-      "title": "BESHARAM - FULL MOVIE | ZAHID AHMED | SABA QAMAR | ARY FILMS",
-      "channel": "ARY Films",
-      "channelId": "aryfilms",
-      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
-      "category": "movies",
-      "genre": "Pakistani films & TV movies",
-      "date": "2026-09-20",
-      "published": "2026-09-20T15:00:05Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 8658,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/F1v5B_9PqoA/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
-    },
-    {
       "id": "8Ix-ekSoEdY",
       "title": "Rangeen | Coke Studio Nu.WAV | Hasan Raheem x Izzchughtai x Umair",
       "channel": "Coke Studio Pakistan",
@@ -66948,24 +66948,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/FRl5nRdStxk/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "VMhPE9PVeKU",
-      "title": "DIL LAGI - FULL MOVIE | MEHWISH HAYAT | HUMAYUN SAEED | ARY FILMS",
-      "channel": "ARY Films",
-      "channelId": "aryfilms",
-      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
-      "category": "movies",
-      "genre": "Pakistani films & TV movies",
-      "date": "2026-09-06",
-      "published": "2026-09-06T15:00:16Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 8721,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/VMhPE9PVeKU/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "4ZjVJ7xDYHo",
@@ -67056,24 +67038,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/55ORabmXir8/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "XfeZyz2Y2tM",
-      "title": "PARWARISH - FULL MOVIE | SAMAR JAFRI | AINA ASIF | ARY FILMS",
-      "channel": "ARY Films",
-      "channelId": "aryfilms",
-      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
-      "category": "movies",
-      "genre": "Pakistani films & TV movies",
-      "date": "2026-07-19",
-      "published": "2026-07-19T15:00:09Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 8877,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/XfeZyz2Y2tM/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "_vMrPyWJY28",
@@ -67544,24 +67508,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "Ey_7ajUNqYM",
-      "title": "GHUNDA (1993) Full Punjabi Pakistani Movie | Superhit Action Film HD | Official Pakistani Full Movie",
-      "channel": "LollywoodCinema",
-      "channelId": "lollywoodcinema",
-      "youtubeChannelId": "UCMlGWm_woMhMcVYhJu8zsvA",
-      "category": "movies",
-      "genre": "Classic Pakistani Movies",
-      "date": "2026-05-29",
-      "published": "2026-05-29T15:00:26Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 9799,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/Ey_7ajUNqYM/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
-    },
-    {
       "id": "7Q5lGTu-etI",
       "title": "Mere Sapnon Men | Mala Begum | @EMIPakistanOfficial",
       "channel": "EMI Pakistan",
@@ -67940,24 +67886,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "xaeaJwC5cHA",
-      "title": "REHBRA (2026) | Full Movie | Official Release | Pakistani Cinema | BC1O",
-      "channel": "Pakistani Movies by DRM",
-      "channelId": "drmmovies",
-      "youtubeChannelId": "UCDmQsP_LTEWPZ2AXS9eWTrQ",
-      "category": "movies",
-      "genre": "Pakistani films & TV movies",
-      "date": "2026-05-19",
-      "published": "2026-05-19T15:01:30Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 6629,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/xaeaJwC5cHA/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
-    },
-    {
       "id": "td3draIHUgw",
       "title": "Koi Mere Dil Mein | Mala Begum | @EMIPakistanOfficial",
       "channel": "EMI Pakistan",
@@ -68316,24 +68244,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/Ot-0wmYeHNc/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "db-ee9yNMIg",
-      "title": "MERI ZINDAGI HAI TU - FULL MOVIE | HANIA AAMIR | BILAL ABBAS | ARY FILMS",
-      "channel": "ARY Films",
-      "channelId": "aryfilms",
-      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
-      "category": "movies",
-      "genre": "Pakistani films & TV movies",
-      "date": "2026-05-10",
-      "published": "2026-05-10T16:01:03Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 8842,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/db-ee9yNMIg/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "IvZPdew21A4",
@@ -75068,6 +74978,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "dRHQijfLymE",
+      "title": "Phool Mere Gulshan Ka (1974) – Mohammad Ali, Zeba, Waheed Murad, Nisho | Full Pakistani Movie",
+      "channel": "LollywoodCinema",
+      "channelId": "lollywoodcinema",
+      "youtubeChannelId": "UCMlGWm_woMhMcVYhJu8zsvA",
+      "category": "movies",
+      "genre": "Classic Pakistani Movies",
+      "date": "2022-10-06",
+      "published": "2022-10-06T08:00:11Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 7637,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/dRHQijfLymE/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
+    },
+    {
       "id": "dhegiuF1mCw",
       "title": "Coke Studio | A Kind of Magic | Real Magic Journey | Karakoram",
       "channel": "Coke Studio Pakistan",
@@ -79496,6 +79424,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "ManZs01zkhE",
+      "title": "AFSANA ZINDAGI KA (1972) - MOHAMMAD ALI & ZEBA - OFFICIAL FULL PAKISTANI MOVIE",
+      "channel": "MovieboxMovies",
+      "channelId": "movieboxmovies",
+      "youtubeChannelId": "UC8Artr_jqToYkRKjgjhezmw",
+      "category": "movies",
+      "genre": "Classic Pakistani Movies",
+      "date": "2017-08-18",
+      "published": "2017-08-18T08:00:00Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 7594,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/ManZs01zkhE/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
+    },
+    {
       "id": "n8R-W9Lsrzk",
       "title": "NOHookUps - Young Stunners - Official Audio",
       "channel": "Young Stunners",
@@ -79638,8 +79584,62 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/qy-Dfa0PPvQ/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "DZJ1yajZDSs",
+      "title": "Abida Parveen | Zahid ne Mera | Natasha Baig | Tribute | Cover | Live Performance",
+      "channel": "Natasha Baig",
+      "channelId": "natashabaig",
+      "youtubeChannelId": "UCfoMcYBhl7LM23G6tziMEYw",
+      "category": "music",
+      "genre": "Covers & Sufi",
+      "date": "2017-02-23",
+      "published": "2017-02-23T09:54:53Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 334,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/DZJ1yajZDSs/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "xaAUoOhntJY",
+      "title": "Sufi Medley | Natasha Baig",
+      "channel": "Natasha Baig",
+      "channelId": "natashabaig",
+      "youtubeChannelId": "UCfoMcYBhl7LM23G6tziMEYw",
+      "category": "music",
+      "genre": "Covers & Sufi",
+      "date": "2017-02-22",
+      "published": "2017-02-22T16:59:22Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 352,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/xaAUoOhntJY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "QP8dFHxb8eU",
+      "title": "Kesaria | Natasha Baig ft. Mai Dhai (New Song 2017)",
+      "channel": "Natasha Baig",
+      "channelId": "natashabaig",
+      "youtubeChannelId": "UCfoMcYBhl7LM23G6tziMEYw",
+      "category": "music",
+      "genre": "Covers & Sufi",
+      "date": "2017-02-22",
+      "published": "2017-02-22T15:27:12Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 288,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/QP8dFHxb8eU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Arooj Aftab: channel unavailable; Zamad Baig: channel unavailable; Hassan & Roshaan: channel unavailable; Kashmir The Band: channel unavailable; Sajjad Ali: channel unavailable; Mekaal Hasan Band: channel unavailable; Rahat Fateh Ali Khan: channel unavailable",
+  "lastError": "NESCAFÉ Basement: channel unavailable; Sajjad Ali: channel unavailable; Arooj Aftab: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
