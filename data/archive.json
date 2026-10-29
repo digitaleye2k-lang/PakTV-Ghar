@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-28T22:43:14.721154+00:00",
+  "generatedAt": "2026-10-29T01:02:10.483966+00:00",
   "dateTimezone": "UTC",
-  "cursor": 74,
-  "musicCursor": 6,
+  "cursor": 3,
+  "musicCursor": 12,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -190,7 +190,7 @@
       "uploadsId": "UUc1BSASBDsE_XYOTxD9SNmA",
       "handle": "IjazAnsariFoodSecrets",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-27T22:22:32.309185+00:00"
+      "lastFetchedAt": "2026-10-29T01:02:10.483966+00:00"
     },
     "greentv": {
       "youtubeId": "UCF2ltLX1dnPa6-L1paPaMzw",
@@ -372,14 +372,14 @@
       "uploadsId": "UUM1VesJtJ9vTXcMLLr_FfdQ",
       "handle": "cokestudio",
       "checkedAt": "2026-10-18T19:46:24.753696+00:00",
-      "lastFetchedAt": "2026-10-28T22:43:14.721154+00:00"
+      "lastFetchedAt": "2026-10-29T01:02:10.483966+00:00"
     },
     "emipakistan": {
       "youtubeId": "UC52h_LCatoUs6ycLjT9V8bQ",
       "uploadsId": "UU52h_LCatoUs6ycLjT9V8bQ",
       "handle": "EMIPakistanOfficial",
       "checkedAt": "2026-10-18T20:11:10.576823+00:00",
-      "lastFetchedAt": "2026-10-28T22:43:14.721154+00:00"
+      "lastFetchedAt": "2026-10-29T01:02:10.483966+00:00"
     },
     "talhaanjum": {
       "youtubeId": "UCaHBioELm9IzGYhg70Z1BKg",
@@ -400,28 +400,28 @@
       "uploadsId": "UU6s1zz1-t7rPf-4scKVYD8g",
       "handle": "Jaubi",
       "checkedAt": "2026-10-18T20:04:20.517484+00:00",
-      "lastFetchedAt": "2026-10-28T22:28:46.415379+00:00"
+      "lastFetchedAt": "2026-10-29T01:02:10.483966+00:00"
     },
     "atifs": {
       "youtubeId": "UC3FnOdo2ooBS4TrEcmwUR_Q",
       "uploadsId": "UU3FnOdo2ooBS4TrEcmwUR_Q",
       "handle": "AtifAslamOfficial",
       "checkedAt": "2026-10-18T19:47:58.539938+00:00",
-      "lastFetchedAt": "2026-10-28T22:28:46.415379+00:00"
+      "lastFetchedAt": "2026-10-29T01:02:10.483966+00:00"
     },
     "bayaan": {
       "youtubeId": "UCqOLlRNuWqswf30c9AJC-Cg",
       "uploadsId": "UUqOLlRNuWqswf30c9AJC-Cg",
       "handle": "BayaanOfficial",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-28T22:28:46.415379+00:00"
+      "lastFetchedAt": "2026-10-29T01:02:10.483966+00:00"
     },
     "abdulhannan": {
       "youtubeId": "UCZ1FCXu6uAhE6YkAsKQDGNg",
       "uploadsId": "UUZ1FCXu6uAhE6YkAsKQDGNg",
       "handle": "abdulhannanmusic",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-28T22:28:46.415379+00:00"
+      "lastFetchedAt": "2026-10-29T01:02:10.483966+00:00"
     },
     "hasanraheem": {
       "youtubeId": "UCaQvtCweOs1RpgFIO3-ezMA",
@@ -11957,6 +11957,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/bo8P31WQpqY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "Pf6EMWC-Ykw",
+      "title": "Yummy And Tasty Recipe By ijaz Ansari | Quick And Easy Recipe | Green Chilli Recipe |",
+      "channel": "Ijaz Ansari Food Secrets",
+      "channelId": "ijazfood",
+      "youtubeChannelId": "UCc1BSASBDsE_XYOTxD9SNmA",
+      "category": "vloggers",
+      "genre": "Food & recipes",
+      "date": "2026-10-28",
+      "published": "2026-10-28T02:00:33Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 337,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Pf6EMWC-Ykw/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -66770,96 +66788,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "-FBDUYXGrT8",
-      "title": "Degi White Biryani - Commercial Style Degi Recipe",
-      "channel": "Kun Foods",
-      "channelId": "kunfoods",
-      "youtubeChannelId": "UCJEGvNxXunjqrcd2Xg9ntMQ",
-      "category": "vloggers",
-      "genre": "Food & recipes",
-      "date": "2026-10-05",
-      "published": "2026-10-05T14:30:31Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 747,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/-FBDUYXGrT8/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "S0IJ4MeuVOY",
-      "title": "MJtv BREAKING: Capt Safdar Drops Explosive Bombshell on 27th Amendment at Supreme Court!",
-      "channel": "Matiullah Jan MJtv",
-      "channelId": "matiullah",
-      "youtubeChannelId": "UC-hJ0cobUiWlBFTHgLwt8sQ",
-      "category": "vloggers",
-      "genre": "News & commentary",
-      "date": "2026-10-05",
-      "published": "2026-10-05T13:21:04Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 826,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/S0IJ4MeuVOY/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "KJd2TZX92K4",
-      "title": "MJtv BREAKING LIVE: IMRAN KHAN BLOOD PRESSURE EMERGENCY AS LONDON DOCTOR RUSHED, IMAAN MAZARI CASE",
-      "channel": "Matiullah Jan MJtv",
-      "channelId": "matiullah",
-      "youtubeChannelId": "UC-hJ0cobUiWlBFTHgLwt8sQ",
-      "category": "vloggers",
-      "genre": "News & commentary",
-      "date": "2026-10-05",
-      "published": "2026-10-05T12:19:11Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 2958,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/KJd2TZX92K4/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "3f7-G7pnJLQ",
-      "title": "SUPER LONG MARCH BEGINS! Thousands Head to Islamabad | D-Chowk Preparations | Kashmiris Join",
-      "channel": "Sabir Shakir",
-      "channelId": "sabir",
-      "youtubeChannelId": "UCY7eFg5TEMsk_aTqM0pVB4w",
-      "category": "vloggers",
-      "genre": "News & commentary",
-      "date": "2026-10-05",
-      "published": "2026-10-05T11:59:05Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 1460,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/3f7-G7pnJLQ/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "EwJsVnojMQg",
-      "title": "Most Horrific Paranormal Activity… Goosebumps!😲 - Hasna Mana Hai",
-      "channel": "Hasna Mana Hai",
-      "channelId": "geohasna",
-      "youtubeChannelId": "UC6HQ4d3xq9EgSeJgMhc-4AQ",
-      "category": "comedy",
-      "genre": "Comedy & satire",
-      "date": "2026-10-05",
-      "published": "2026-10-05T11:45:18Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 731,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/EwJsVnojMQg/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "kjp6_5dJOBU",
       "title": "Coke Studio Nu.WAV Session ft Asim Azhar",
       "channel": "Coke Studio Pakistan",
@@ -66912,6 +66840,24 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/ljR36OuRULo/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "dLJhDxIDxZc",
+      "title": "MANGA GUJAR (1990) Full Movie | Sultan Rahi | Anjuman | Official Pakistani Movie| Classic Film",
+      "channel": "MovieboxMovies",
+      "channelId": "movieboxmovies",
+      "youtubeChannelId": "UC8Artr_jqToYkRKjgjhezmw",
+      "category": "movies",
+      "genre": "Classic Pakistani Movies",
+      "date": "2026-09-25",
+      "published": "2026-09-25T14:00:20Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 9273,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/dLJhDxIDxZc/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "8Ix-ekSoEdY",
@@ -78236,6 +78182,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "Xk6wEFqP0GE",
+      "title": "WOHTI LAI KE JANI AYE – Shaan & Saima|“Main apni izat aur mohabat leke aya hun”|Full Pakistani Movie",
+      "channel": "MovieboxMovies",
+      "channelId": "movieboxmovies",
+      "youtubeChannelId": "UC8Artr_jqToYkRKjgjhezmw",
+      "category": "movies",
+      "genre": "Classic Pakistani Movies",
+      "date": "2019-12-14",
+      "published": "2019-12-14T09:00:07Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 9506,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Xk6wEFqP0GE/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
+    },
+    {
       "id": "xBxU_OYf2f8",
       "title": "05. Karachi Mera - Talha Anjum ( Prod by Kishore & Jokhay )",
       "channel": "Talha Anjum",
@@ -79638,8 +79602,44 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/VKUAIUZTcPk/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "ojpHAF8-IIU",
+      "title": "Raga Shivranjani",
+      "channel": "Jaubi",
+      "channelId": "jaubi",
+      "youtubeChannelId": "UC6s1zz1-t7rPf-4scKVYD8g",
+      "category": "music",
+      "genre": "Jazz & Fusion",
+      "date": "2016-05-27",
+      "published": "2016-05-27T07:24:28Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 368,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/ojpHAF8-IIU/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "I38WjGEzyBQ",
+      "title": "\"Vicky\" - Jaubi",
+      "channel": "Jaubi",
+      "channelId": "jaubi",
+      "youtubeChannelId": "UC6s1zz1-t7rPf-4scKVYD8g",
+      "category": "music",
+      "genre": "Jazz & Fusion",
+      "date": "2016-03-17",
+      "published": "2016-03-17T08:48:43Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 188,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/I38WjGEzyBQ/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "NESCAFÉ Basement: channel unavailable; Sajjad Ali: channel unavailable; Siddique Jaan: channel unavailable",
+  "lastError": "Mekaal Hasan Band: channel unavailable; Rahat Fateh Ali Khan: channel unavailable; HUM TV Comedy: channel unavailable; Mazaaq Raat: channel unavailable; NESCAFÉ Basement: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
