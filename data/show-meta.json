@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T06:07:32.524808+05:00",
+  "generatedAt": "2026-10-30T15:11:19.662792+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,6 +17,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 10,
+        "time": "04:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-30"
       }
     },
     "harpalgeo-nashtar": {
@@ -97,6 +104,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 26,
+        "time": "01:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-30"
       }
     },
     "hum-aangan": {
@@ -1605,10 +1619,10 @@
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
       "latestPublisherSource": "https://harpalgeo.tv/program/Siyani",
       "latestUpload": {
-        "number": 128,
-        "id": "feOAbqZsMsc",
-        "title": "Siyani Mega Ep 128 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider -Saniya Shamshad - 18th Dec 2022",
-        "date": "2022-12-18",
+        "number": 140,
+        "id": "k1TUjTA4Ve8",
+        "title": "Siyani Episode 140 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider -Saniya Shamshad - 29th Dec 2022",
+        "date": "2022-12-29",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
