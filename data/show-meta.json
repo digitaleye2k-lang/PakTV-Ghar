@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T23:32:27.277850+05:00",
+  "generatedAt": "2026-10-30T06:07:32.524808+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,13 +17,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 10,
-        "time": "16:30",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-29"
       }
     },
     "harpalgeo-nashtar": {
@@ -44,11 +37,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 24,
-        "time": "11:30",
+        "number": 25,
+        "time": "20:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-29"
+        "date": "2026-10-30"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -68,11 +61,11 @@
     },
     "harpalgeo-uswa": {
       "tvToday": {
-        "number": 37,
+        "number": 38,
         "time": "19:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-29"
+        "date": "2026-10-30"
       },
       "lastAttempt": "2026-10-29T03:29:06.365902+05:00",
       "latestUpload": {
@@ -104,13 +97,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 26,
-        "time": "20:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-29"
       }
     },
     "hum-aangan": {
@@ -132,11 +118,11 @@
       "poster": "https://harpalgeo.tv/assets/uploads/programs/641_9919269_programs.jpg",
       "posterSource": "Official broadcaster",
       "tvToday": {
-        "number": 17,
+        "number": 18,
         "time": "21:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-29"
+        "date": "2026-10-30"
       },
       "latestUpload": {
         "number": 16,
@@ -1647,10 +1633,10 @@
     "hum-suno-chanda": {
       "lastAttempt": "2026-10-29T03:29:07.597595+05:00",
       "latestUpload": {
-        "number": 29,
-        "id": "g4xBhnxkeOg",
-        "title": "Suno Chanda Season 2 - 2nd Last Episode 29 - Iqra Aziz - Farhan Saeed - Mashal Khan- HUM TV",
-        "date": "2022-05-01",
+        "number": 26,
+        "id": "xAAS4npEtQc",
+        "title": "Suno Chanda Episode #26  HUM TV Drama 11 June 2018",
+        "date": "2018-06-11",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
