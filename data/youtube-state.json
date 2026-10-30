@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-30",
-  "dailySearches": 8,
+  "dailySearches": 16,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -307,22 +307,6 @@
         "checkedAt": "2026-10-26T20:35:04.066736+00:00"
       },
       {
-        "id": "IER1YNf9NIM",
-        "title": "Ansa Aur Anas Ki Jeet  | Bas Tera Saath Ho Last Episode 45 | ARY Digital",
-        "episode": 45,
-        "date": "2026-10-12",
-        "published": "2026-10-12T11:10:23Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/IER1YNf9NIM/hqdefault.jpg",
-        "checkedAt": "2026-10-16T13:04:00.853727+00:00"
-      },
-      {
         "id": "Mg5t1PzPYFs",
         "title": "Bas Tera Saath Ho Last EP 45 | 5 October 2026 | Farhan Saeed | Sana Javed | ENG SUB | ARY Digital",
         "episode": 45,
@@ -405,22 +389,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/JVflRbjyA3U/hqdefault.jpg",
         "checkedAt": "2026-10-27T00:32:45.167263+00:00"
-      },
-      {
-        "id": "XrppTAxAkcY",
-        "title": "Mirza Ki Heer 2nd Last EP 40 | 9 Sep 2026 | Hina Afridi | Ali Raza | ARY Digital",
-        "episode": 40,
-        "date": "2026-09-09",
-        "published": "2026-09-09T16:00:22Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/XrppTAxAkcY/hqdefault.jpg",
-        "checkedAt": "2026-10-16T15:50:47.616908+00:00"
       }
     ],
     "arydigital-toota-huwa-dil": [
@@ -473,54 +441,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yxYz6Y2Kyyo/hqdefault.jpg",
         "checkedAt": "2026-10-27T09:08:11.167695+00:00"
-      },
-      {
-        "id": "571Eg7LybQ8",
-        "title": "Beti Ka Ghar Konsa Episode 63 [Eng Sub] Humayoun Ashraf - Momal Sheikh - Ali Abbas | 20th Sep 2026",
-        "episode": 63,
-        "date": "2026-09-20",
-        "published": "2026-09-20T15:00:35Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/571Eg7LybQ8/hqdefault.jpg",
-        "checkedAt": "2026-10-16T15:50:47.616908+00:00"
-      },
-      {
-        "id": "Zg4O8Tk2TEM",
-        "title": "Beti Ka Ghar Konsa Episode 62 [Eng Sub] Humayoun Ashraf - Momal Sheikh - Ali Abbas | 19th Sep 2026",
-        "episode": 62,
-        "date": "2026-09-19",
-        "published": "2026-09-19T15:06:00Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Zg4O8Tk2TEM/hqdefault.jpg",
-        "checkedAt": "2026-10-16T15:50:47.616908+00:00"
-      },
-      {
-        "id": "ioKGt-rJ2XY",
-        "title": "Beti Ka Ghar Konsa Episode 61 [Eng Sub] Humayoun Ashraf - Momal Sheikh - Ali Abbas | 18th Sep 2026",
-        "episode": 61,
-        "date": "2026-09-18",
-        "published": "2026-09-18T15:00:25Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ioKGt-rJ2XY/hqdefault.jpg",
-        "checkedAt": "2026-10-16T15:50:47.616908+00:00"
       }
     ],
     "harpalgeo-pehli-barish": [
@@ -21896,7 +21816,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/tv32nY1IIEw/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "AlA-kySfKZw",
@@ -21912,7 +21832,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/AlA-kySfKZw/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "NCR1-DQ_yvE",
@@ -21928,7 +21848,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/NCR1-DQ_yvE/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "27eqQjjywa0",
@@ -21944,7 +21864,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/27eqQjjywa0/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "GPfQTsc0hb0",
@@ -21960,7 +21880,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GPfQTsc0hb0/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "BJ0_5ma39dI",
@@ -21992,7 +21912,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UzwvjvyuyIk/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "Pj5hd4AHstg",
@@ -22008,7 +21928,7 @@
         "availableGB": false,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Pj5hd4AHstg/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "gy1jMwqQH84",
@@ -22024,7 +21944,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/gy1jMwqQH84/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "v9K3mvjZE6k",
@@ -22040,7 +21960,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/v9K3mvjZE6k/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "BTw7UXHH2Wc",
@@ -22056,7 +21976,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/BTw7UXHH2Wc/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "5l43atn_rRg",
@@ -22072,7 +21992,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5l43atn_rRg/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "xMAvA1Fdqjc",
@@ -22104,7 +22024,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/jsDB6M6UHPE/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "6qSdp7XYiMs",
@@ -22120,7 +22040,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6qSdp7XYiMs/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "3x5Zdfw4EqY",
@@ -22136,7 +22056,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3x5Zdfw4EqY/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "1wZD59fgGaE",
@@ -22152,7 +22072,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/1wZD59fgGaE/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "WxkCITTn8qk",
@@ -22168,7 +22088,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/WxkCITTn8qk/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "kOARwCimdSQ",
@@ -22184,7 +22104,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kOARwCimdSQ/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
+      },
+      {
+        "id": "1uOmLdaHcZA",
+        "title": "Tere Aany Se Episode 15 - [Eng Sub] - Ft. Komal Meer - Muneeb Butt - 6th April 2023  - HAR PAL GEO",
+        "episode": 15,
+        "date": "2023-04-06",
+        "published": "2023-04-06T17:00:01Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/1uOmLdaHcZA/hqdefault.jpg",
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "TIhUMC1wHJM",
@@ -22200,7 +22136,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TIhUMC1wHJM/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "B8ISumPCEkw",
@@ -22216,7 +22152,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/B8ISumPCEkw/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "hrcZdWi73ew",
@@ -22232,7 +22168,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/hrcZdWi73ew/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "c-TeErvXb9c",
@@ -22248,7 +22184,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/c-TeErvXb9c/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "2856W7M1zAk",
@@ -22264,7 +22200,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2856W7M1zAk/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "aszNEHONMtY",
@@ -22280,7 +22216,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/aszNEHONMtY/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "MID7FMknEKw",
@@ -22296,7 +22232,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/MID7FMknEKw/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "yoeRnTh-Rbw",
@@ -22312,7 +22248,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yoeRnTh-Rbw/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "EN96QmI-F-M",
@@ -22328,7 +22264,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/EN96QmI-F-M/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "jIvkM8BygSk",
@@ -22344,7 +22280,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/jIvkM8BygSk/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "Z0sssM5rt2M",
@@ -22360,7 +22296,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Z0sssM5rt2M/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "_zov1NjEibg",
@@ -22376,7 +22312,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_zov1NjEibg/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "_2LRf4grMLk",
@@ -22392,7 +22328,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_2LRf4grMLk/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "RUPxO5XD7OA",
@@ -22408,7 +22344,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/RUPxO5XD7OA/hqdefault.jpg",
-        "checkedAt": "2026-10-24T12:58:37.242235+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       }
     ],
     "harpalgeo-tere-bin": [
@@ -22426,7 +22362,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DQRz8reIU8c/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "5L72m71en8k",
@@ -22458,7 +22394,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/y8_EOv0We10/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
+      },
+      {
+        "id": "JX1Uc3fMk68",
+        "title": "Tere Bin Ep 55 - [Eng Sub] - Digitally Presented by Nisa Hair Removal Cream- Yumna Zaidi - Wahaj Ali",
+        "episode": 55,
+        "date": "2023-06-21",
+        "published": "2023-06-21T16:00:08Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/JX1Uc3fMk68/hqdefault.jpg",
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
+      },
+      {
+        "id": "79bb4N9U7iY",
+        "title": "Tere Bin Ep 52 - [Eng Sub] - Digitally Presented by Jhalak Beauty Cream - Yumna Zaidi - Wahaj Ali",
+        "episode": 52,
+        "date": "2023-06-08",
+        "published": "2023-06-08T16:01:20Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/79bb4N9U7iY/hqdefault.jpg",
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "diJ8HdWDUhk",
@@ -22474,7 +22442,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/diJ8HdWDUhk/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
+      },
+      {
+        "id": "1BX8dYmyKqU",
+        "title": "Tere Bin Ep 47 - [Eng Sub] - Digitally Presented by Nisa Hair Removal Cream- Yumna Zaidi - Wahaj Ali",
+        "episode": 47,
+        "date": "2023-05-24",
+        "published": "2023-05-24T16:00:10Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/1BX8dYmyKqU/hqdefault.jpg",
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "I9_C9C8aUfc",
@@ -22490,7 +22474,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/I9_C9C8aUfc/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "g20pMJrClds",
@@ -22506,7 +22490,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/g20pMJrClds/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "h9L2QAbO9P8",
@@ -22522,7 +22506,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/h9L2QAbO9P8/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "yswxzpqE4QE",
@@ -22538,7 +22522,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yswxzpqE4QE/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "ckMUvGh_Bdo",
@@ -22554,7 +22538,7 @@
         "availableGB": false,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ckMUvGh_Bdo/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "xXLSyiRppcs",
@@ -22570,7 +22554,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xXLSyiRppcs/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
+      },
+      {
+        "id": "NZ4nfGH43qM",
+        "title": "Tere Bin Ep 29 - [Eng Sub] - Digitally Presented by Nisa BB Cream - Yumna Zaidi - Wahaj Ali",
+        "episode": 29,
+        "date": "2023-04-05",
+        "published": "2023-04-05T16:00:08Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/NZ4nfGH43qM/hqdefault.jpg",
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
+      },
+      {
+        "id": "Vc-bWGaiBNM",
+        "title": "Tere Bin Ep 26 - [Eng Sub] - Digitally Presented by Jhalak Beauty Cream - Yumna Zaidi - Wahaj Ali",
+        "episode": 26,
+        "date": "2023-03-23",
+        "published": "2023-03-23T16:00:21Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Vc-bWGaiBNM/hqdefault.jpg",
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "nmpRP7CrXZw",
@@ -22586,7 +22602,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nmpRP7CrXZw/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "yPb5ZCcBxms",
@@ -22602,7 +22618,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yPb5ZCcBxms/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "J-txOd_LCQw",
@@ -22618,7 +22634,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/J-txOd_LCQw/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "AOw92IxcsxI",
@@ -22634,7 +22650,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/AOw92IxcsxI/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "YapYNk3ISpU",
@@ -22650,7 +22666,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/YapYNk3ISpU/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "Hco4Ppiu6y8",
@@ -22666,7 +22682,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Hco4Ppiu6y8/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "l56fUioPRBg",
@@ -22682,7 +22698,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/l56fUioPRBg/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "EtuJ1V_QpDA",
@@ -22698,7 +22714,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/EtuJ1V_QpDA/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "_QcYRTPexTU",
@@ -22714,7 +22730,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_QcYRTPexTU/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "Jo9iTnvkiy8",
@@ -22730,7 +22746,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Jo9iTnvkiy8/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "wDOvlUC3i-g",
@@ -22746,7 +22762,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wDOvlUC3i-g/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "YDmxNgXvSW8",
@@ -22762,7 +22778,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/YDmxNgXvSW8/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "ui3ApOB2jfI",
@@ -22778,7 +22794,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ui3ApOB2jfI/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "qJ-OBntrIqc",
@@ -22794,7 +22810,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/qJ-OBntrIqc/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "RilczE2ToBc",
@@ -22810,7 +22826,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/RilczE2ToBc/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "ufdD9nZtgbw",
@@ -22858,7 +22874,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vbtPhGeShQQ/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "zmFygS2oGkw",
@@ -22874,7 +22890,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zmFygS2oGkw/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
+      },
+      {
+        "id": "GzYVAZaJ71M",
+        "title": "Tere Bin Ep 03 - [Eng Sub] - Digitally Presented by Nisa Cosmetics - Yumna Zaidi - Wahaj Ali",
+        "episode": 3,
+        "date": "2023-01-04",
+        "published": "2023-01-04T16:00:21Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/GzYVAZaJ71M/hqdefault.jpg",
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "hmZlUfGtbJo",
@@ -22890,7 +22922,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/hmZlUfGtbJo/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "wykbxHM2Ch4",
@@ -22906,7 +22938,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wykbxHM2Ch4/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       }
     ],
     "harpalgeo-tere-bin-2": [
@@ -22924,7 +22956,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5L72m71en8k/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       }
     ],
     "hum-alif": [
@@ -22942,7 +22974,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pDRBv-wvO-4/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "8d6W5RA0al8",
@@ -22958,7 +22990,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8d6W5RA0al8/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "4ntSDSX1uPU",
@@ -22974,7 +23006,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4ntSDSX1uPU/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
+      },
+      {
+        "id": "vAY15ROnNzc",
+        "title": "Alif Allah Aur Insaan Episode #33 HUM TV Drama",
+        "episode": 33,
+        "date": "2019-08-05",
+        "published": "2019-08-05T08:15:44Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/vAY15ROnNzc/hqdefault.jpg",
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "GIsj3E0DbCM",
@@ -22990,7 +23038,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GIsj3E0DbCM/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
+      },
+      {
+        "id": "A8hCY_ayjbU",
+        "title": "Alif Allah Aur Insaan Episode #29 HUM TV Drama",
+        "episode": 29,
+        "date": "2019-08-04",
+        "published": "2019-08-04T15:00:00Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/A8hCY_ayjbU/hqdefault.jpg",
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
+      },
+      {
+        "id": "5JiQIEc_7eQ",
+        "title": "Alif Allah Aur Insaan Episode #27 HUM TV Drama",
+        "episode": 27,
+        "date": "2019-08-04",
+        "published": "2019-08-04T15:00:02Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/5JiQIEc_7eQ/hqdefault.jpg",
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "z97uy2b2SU0",
@@ -23022,7 +23102,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iin7l6zBTzs/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "rhwnQRkOZYI",
@@ -23038,7 +23118,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rhwnQRkOZYI/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
+      },
+      {
+        "id": "sVS9LoQNdzo",
+        "title": "Alif Allah Aur Insaan Episode #22 HUM TV Drama",
+        "episode": 22,
+        "date": "2019-08-04",
+        "published": "2019-08-04T14:30:01Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/sVS9LoQNdzo/hqdefault.jpg",
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "tXmlldvBMhA",
@@ -23054,7 +23150,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/tXmlldvBMhA/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "WTSJO4szKa0",
@@ -23070,7 +23166,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/WTSJO4szKa0/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "sVNwD1J-mR0",
@@ -23086,7 +23182,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/sVNwD1J-mR0/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "dRuuG9pogoY",
@@ -23102,7 +23198,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dRuuG9pogoY/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "0dR9iQBEEto",
@@ -23118,7 +23214,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0dR9iQBEEto/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "RsbRhTYN5EY",
@@ -23134,7 +23230,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/RsbRhTYN5EY/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "hsVk8hqoaUc",
@@ -23150,7 +23246,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/hsVk8hqoaUc/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "5rTPE3BoiUc",
@@ -23166,7 +23262,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5rTPE3BoiUc/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "UbjnH1yARsE",
@@ -23182,7 +23278,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UbjnH1yARsE/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "hcUb-KOIBEg",
@@ -23198,7 +23294,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/hcUb-KOIBEg/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "4v0LK0LyiHE",
@@ -23214,7 +23310,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4v0LK0LyiHE/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "vUa2tXdw0D0",
@@ -23230,7 +23326,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vUa2tXdw0D0/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "RwKre_Zz_vQ",
@@ -23246,7 +23342,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/RwKre_Zz_vQ/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "gzyVALDCGfQ",
@@ -23262,7 +23358,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/gzyVALDCGfQ/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "7fjzRaH3wfw",
@@ -23278,7 +23374,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7fjzRaH3wfw/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "TkWkEUy7_Co",
@@ -23294,7 +23390,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TkWkEUy7_Co/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "eB7hvVH-rpE",
@@ -23310,7 +23406,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/eB7hvVH-rpE/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "Td-09uci4NM",
@@ -23326,7 +23422,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Td-09uci4NM/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "SdydH3Wskcw",
@@ -23342,7 +23438,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SdydH3Wskcw/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "RV-YXQOvgp4",
@@ -23358,7 +23454,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/RV-YXQOvgp4/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
         "id": "pY5CMhN8Aew",
@@ -23374,7 +23470,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pY5CMhN8Aew/hqdefault.jpg",
-        "checkedAt": "2026-10-24T15:47:44.913455+00:00"
+        "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       }
     ],
     "hum-bin-roye": [
@@ -32610,6 +32706,6 @@
       }
     ]
   },
-  "cursor": 89,
+  "cursor": 93,
   "apiValidated": true
 }
