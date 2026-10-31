@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T19:13:39.213653+00:00",
+  "generatedAt": "2026-10-31T19:14:56.506094+00:00",
   "sources": [
     {
       "id": "homebased",
@@ -12,15 +12,15 @@
       "id": "understand",
       "name": "Understand Al-Quran Official",
       "handle": "understandquran",
-      "language": "English / Urdu",
-      "youtubeChannelId": "UCdqEwn5bGGbFE0u8UqdHmGQ"
+      "youtubeChannelId": "UCdqEwn5bGGbFE0u8UqdHmGQ",
+      "language": "English / Urdu"
     },
     {
       "id": "arabic101",
       "name": "Arabic101",
       "handle": "101Arabic",
-      "language": "English",
-      "youtubeChannelId": "UCGAzeqJUO0CXpuhUWGdc9lw"
+      "youtubeChannelId": "UCGAzeqJUO0CXpuhUWGdc9lw",
+      "language": "English"
     },
     {
       "id": "bayyinah",
@@ -54,9 +54,9 @@
   ],
   "count": 2,
   "errors": [
-    "homebased: ValueError",
-    "understand: ValueError",
-    "arabic101: ValueError",
-    "bayyinah: ValueError"
+    "homebased: API: ValueError, RSS: ValueError",
+    "understand: API: ValueError, RSS: ValueError",
+    "arabic101: API: ValueError, RSS: ValueError",
+    "bayyinah: API: ValueError, RSS: ValueError"
   ]
 }
