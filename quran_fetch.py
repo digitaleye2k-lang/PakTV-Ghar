@@ -1,0 +1,186 @@
+#!/usr/bin/env python3
+"""Refresh Learn Quran's teacher-sourced YouTube learning library.
+
+Only publisher-owned channel feeds and pre-verified starter video IDs are used.
+Runs during existing GitHub Pages refresh; works without a YouTube API key.
+"""
+from datetime import datetime, timezone
+from html import unescape
+from pathlib import Path
+from urllib.request import Request, urlopen
+from urllib.parse import quote
+import json
+import re
+import xml.etree.ElementTree as ET
+
+HERE = Path(__file__).resolve().parent
+OUTPUT = HERE / 'data' / 'quran-videos.json'
+VIDEO_ID = re.compile(r'^[A-Za-z0-9_-]{11}$')
+CHANNEL_ID = re.compile(r'^UC[A-Za-z0-9_-]{22}$')
+HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible; PakTVGhar-LearnQuran/1.0)'}
+SOURCES = [
+    {'id': 'homebased', 'name': 'Home Based Quran Learning',
+     'handle': 'HomeBasedQuranLearning', 'youtubeChannelId': 'UCY_4DVK8EYAnr4kG5nvn2FQ',
+     'language': 'Urdu'},
+    {'id': 'understand', 'name': 'Understand Al-Quran Official',
+     'handle': 'understandquran', 'language': 'English / Urdu'},
+    {'id': 'arabic101', 'name': 'Arabic101',
+     'handle': '101Arabic', 'language': 'English'},
+    {'id': 'bayyinah', 'name': 'Nouman Ali Khan - Official - Bayyinah',
+     'handle': 'bayyinah', 'youtubeChannelId': 'UCRtiU-lpcBSi-ipFKyfIkug',
+     'language': 'English / Urdu'}
+]
+SEEDS = [
+    {'id': '7mNmg91pHQU',
+     'title': 'Noorani Qaida Lesson 1 | Haroof-e-Mufradaat (Arabic Letters)',
+     'channelId': 'homebased', 'channel': 'Home Based Quran Learning',
+     'language': 'Urdu', 'topic': 'basics', 'date': '2024-03-29',
+     'source': 'verified official teaching upload'},
+    {'id': 'Qwza5HdLyEE',
+     'title': 'Do you HAVE TO learn Tajweed to recite the Quran? | Arabic101',
+     'channelId': 'arabic101', 'channel': 'Arabic101',
+     'language': 'English', 'topic': 'tajweed', 'date': '2021-02-26',
+     'source': 'verified teacher upload'},
+]
+LEARNING = re.compile(
+    r'(?i)(qur.?an|quran|tajweed|tajwid|qaida|qaaida|noorani|surah|'
+    r'har[o]+f|makh[a-z]*|arabic|tilawat|hifz|recitat|tafsir|'
+    r'القرآن|قرآن|قاعدہ|تجوید|سورۃ|سورة|الفاتح|پارہ|تلاوت|'
+    r'memoris|memoriz|letter|pronunc|meaning|qira)', re.U)
+UNRELATED = re.compile(
+    r'(?i)(#shorts?\b|\bshorts?\b|\blivestream\b|\blive stream\b|'
+    r'\btrailer\b|\bteaser\b|\bpromo\b|\binterview\b|'
+    r'\bdonat(?:e|ion)\b|\bfundrais\w*\b)', re.U)
+
+def get(url, limit=2_000_000):
+    with urlopen(Request(url, headers=HEADERS), timeout=12) as response:
+        return response.read(limit).decode('utf-8', 'replace')
+
+def channel_id(source, old=None):
+    if CHANNEL_ID.fullmatch(source.get('youtubeChannelId', '')):
+        return source['youtubeChannelId']
+    if old and CHANNEL_ID.fullmatch(old.get('youtubeChannelId', '')):
+        return old['youtubeChannelId']
+    page = get('https://www.youtube.com/@' + quote(source['handle']))
+    for pattern in (
+        r'"externalId":"(UC[A-Za-z0-9_-]{22})"',
+        r'"channelId":"(UC[A-Za-z0-9_-]{22})"',
+        r'https://www\.youtube\.com/channel/(UC[A-Za-z0-9_-]{22})'
+    ):
+        match = re.search(pattern, page)
+        if match:
+            return match.group(1)
+    raise ValueError('Cannot verify publisher channel ID')
+
+def topic(title):
+    text = str(title or '').casefold()
+    if not LEARNING.search(text) or UNRELATED.search(text):
+        return ''
+    if re.search(r'(qaida|qaaida|noorani|alphabet|letters|har[o]+f|'
+                 r'harakat|zabar|zer|pesh|قائدہ|قاعدہ|حروف)', text):
+        return 'basics'
+    if re.search(r'(tajweed|tajwid|makhar|ikhfa|ghunna|madd|qalqal|'
+                 r'shaddah|pronunc|recitation rule|تجوید|غنہ)', text):
+        return 'tajweed'
+    if re.search(r'(tafsir|meaning|understand|explain|translation|'
+                 r'vocab|reflection|تفسیر|ترجمہ)', text):
+        return 'meaning'
+    if re.search(r'(surah|sura|recitat|tilawat|memor|hifz|پارہ|'
+                 r'سورۃ|سورة|تلاوت)', text):
+        return 'recitation'
+    return 'general'
+
+def parse_feed(xml_text, source, verified_id):
+    root = ET.fromstring(xml_text)
+    ns = {'a':'http://www.w3.org/2005/Atom',
+          'yt':'http://www.youtube.com/xml/schemas/2015'}
+    actual = root.findtext('yt:channelId', '', ns)
+    if actual != verified_id:
+        raise ValueError('The YouTube feed did not match the verified publisher channel')
+    results = []
+    for entry in root.findall('a:entry', ns):
+        video_id = entry.findtext('yt:videoId', '', ns)
+        title = unescape(entry.findtext('a:title', '', ns)).strip()
+        published = entry.findtext('a:published', '', ns)
+        group = topic(title)
+        if not VIDEO_ID.fullmatch(video_id or '') or not group:
+            continue
+        if len(title) > 250 or len(title) < 8:
+            continue
+        results.append({
+            'id': video_id, 'title': title,
+            'channelId': source['id'], 'channel': source['name'],
+            'language': source['language'], 'topic': group,
+            'date': published[:10], 'source': 'publisher YouTube RSS'
+        })
+    return results
+
+def validate_record(video, sources):
+    if not isinstance(video, dict):
+        return None
+    source = sources.get(video.get('channelId'))
+    if not source or not VIDEO_ID.fullmatch(str(video.get('id', ''))):
+        return None
+    if video.get('source') != 'verified official teaching upload' and \
+       video.get('source') != 'verified teacher upload' and \
+       not topic(video.get('title', '')):
+        return None
+    title = str(video.get('title', '')).strip()
+    if len(title) < 8 or len(title) > 250:
+        return None
+    return {
+        'id': video['id'], 'title': title,
+        'channelId': source['id'], 'channel': source['name'],
+        'language': source['language'],
+        'topic': topic(title) or str(video.get('topic', 'general')),
+        'date': str(video.get('date') or '')[:10],
+        'source': str(video.get('source') or 'publisher YouTube RSS')[:60]
+    }
+
+def build(previous=None, getter=get):
+    previous = previous if isinstance(previous, dict) else {}
+    old_sources = {s.get('id'): s for s in previous.get('sources', []) if isinstance(s, dict)}
+    sources = []
+    fetched = []
+    errors = []
+    for source in SOURCES:
+        source = dict(source)
+        try:
+            resolved = channel_id(source, old_sources.get(source['id']))
+            source['youtubeChannelId'] = resolved
+            url = 'https://www.youtube.com/feeds/videos.xml?channel_id=' + resolved
+            fetched.extend(parse_feed(getter(url), source, resolved))
+        except Exception as exc:
+            errors.append(source['id'] + ': ' + type(exc).__name__)
+            previous_id = old_sources.get(source['id'], {}).get('youtubeChannelId')
+            if CHANNEL_ID.fullmatch(str(previous_id or '')):
+                source['youtubeChannelId'] = previous_id
+        sources.append(source)
+    known = {s['id']:s for s in sources}
+    entries = {}
+    # Keep old verified videos and seed starter lessons, deduplicated by video ID.
+    # Data is kept even if the RSS feed or YouTube API is temporarily unavailable.
+    for row in SEEDS + previous.get('videos', []) + fetched:
+        checked = validate_record(row, known)
+        if checked:
+            entries[checked['id']] = checked
+    vids = sorted(entries.values(), key=lambda row: (row['date'], row['id']), reverse=True)[:160]
+    return {
+        'generatedAt': datetime.now(timezone.utc).isoformat(),
+        'sources': sources, 'videos': vids, 'count': len(vids),
+        'errors': errors
+    }
+
+def main():
+    try:
+        previous = json.loads(OUTPUT.read_text(encoding='utf-8'))
+    except (OSError, json.JSONDecodeError):
+        previous = {}
+    result = build(previous)
+    OUTPUT.parent.mkdir(exist_ok=True)
+    OUTPUT.write_text(json.dumps(result, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    print('Learn Quran:', result['count'], 'videos from verified teaching sources; '
+          + str(len(result['errors'])) + ' channel fetch issues')
+
+if __name__ == '__main__':
+    main()
