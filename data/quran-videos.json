@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T19:15:51.115457+00:00",
+  "generatedAt": "2026-10-31T19:19:10.674849+00:00",
   "sources": [
     {
       "id": "homebased",
@@ -16,13 +16,6 @@
       "language": "English / Urdu"
     },
     {
-      "id": "arabic101",
-      "name": "Arabic101",
-      "handle": "101Arabic",
-      "youtubeChannelId": "UCGAzeqJUO0CXpuhUWGdc9lw",
-      "language": "English"
-    },
-    {
       "id": "bayyinah",
       "name": "Nouman Ali Khan - Official - Bayyinah",
       "handle": "bayyinah",
@@ -37,7 +30,7 @@
       "channelId": "bayyinah",
       "channel": "Nouman Ali Khan - Official - Bayyinah",
       "language": "English / Urdu",
-      "topic": "recitation",
+      "topic": "meaning",
       "date": "2026-10-29",
       "source": "publisher YouTube Data API"
     },
@@ -57,7 +50,7 @@
       "channelId": "bayyinah",
       "channel": "Nouman Ali Khan - Official - Bayyinah",
       "language": "English / Urdu",
-      "topic": "general",
+      "topic": "meaning",
       "date": "2026-10-07",
       "source": "publisher YouTube Data API"
     },
@@ -97,7 +90,7 @@
       "channelId": "bayyinah",
       "channel": "Nouman Ali Khan - Official - Bayyinah",
       "language": "English / Urdu",
-      "topic": "recitation",
+      "topic": "meaning",
       "date": "2026-09-28",
       "source": "publisher YouTube Data API"
     },
@@ -157,7 +150,7 @@
       "channelId": "bayyinah",
       "channel": "Nouman Ali Khan - Official - Bayyinah",
       "language": "English / Urdu",
-      "topic": "recitation",
+      "topic": "meaning",
       "date": "2026-09-14",
       "source": "publisher YouTube Data API"
     },
@@ -177,7 +170,7 @@
       "channelId": "understand",
       "channel": "Understand Al-Quran Official",
       "language": "English / Urdu",
-      "topic": "recitation",
+      "topic": "meaning",
       "date": "2026-09-05",
       "source": "publisher YouTube Data API"
     },
@@ -207,7 +200,7 @@
       "channelId": "understand",
       "channel": "Understand Al-Quran Official",
       "language": "English / Urdu",
-      "topic": "recitation",
+      "topic": "meaning",
       "date": "2026-09-03",
       "source": "publisher YouTube Data API"
     },
@@ -217,7 +210,7 @@
       "channelId": "understand",
       "channel": "Understand Al-Quran Official",
       "language": "English / Urdu",
-      "topic": "recitation",
+      "topic": "meaning",
       "date": "2026-09-01",
       "source": "publisher YouTube Data API"
     },
@@ -247,7 +240,7 @@
       "channelId": "understand",
       "channel": "Understand Al-Quran Official",
       "language": "English / Urdu",
-      "topic": "recitation",
+      "topic": "meaning",
       "date": "2026-08-30",
       "source": "publisher YouTube Data API"
     },
@@ -257,7 +250,7 @@
       "channelId": "understand",
       "channel": "Understand Al-Quran Official",
       "language": "English / Urdu",
-      "topic": "recitation",
+      "topic": "meaning",
       "date": "2026-08-30",
       "source": "publisher YouTube Data API"
     },
@@ -267,7 +260,7 @@
       "channelId": "understand",
       "channel": "Understand Al-Quran Official",
       "language": "English / Urdu",
-      "topic": "recitation",
+      "topic": "meaning",
       "date": "2026-08-30",
       "source": "publisher YouTube Data API"
     },
@@ -277,7 +270,7 @@
       "channelId": "understand",
       "channel": "Understand Al-Quran Official",
       "language": "English / Urdu",
-      "topic": "recitation",
+      "topic": "meaning",
       "date": "2026-08-29",
       "source": "publisher YouTube Data API"
     },
@@ -287,7 +280,7 @@
       "channelId": "understand",
       "channel": "Understand Al-Quran Official",
       "language": "English / Urdu",
-      "topic": "recitation",
+      "topic": "meaning",
       "date": "2026-08-29",
       "source": "publisher YouTube Data API"
     },
@@ -337,7 +330,7 @@
       "channelId": "understand",
       "channel": "Understand Al-Quran Official",
       "language": "English / Urdu",
-      "topic": "recitation",
+      "topic": "meaning",
       "date": "2026-08-18",
       "source": "publisher YouTube Data API"
     },
@@ -347,7 +340,7 @@
       "channelId": "understand",
       "channel": "Understand Al-Quran Official",
       "language": "English / Urdu",
-      "topic": "recitation",
+      "topic": "meaning",
       "date": "2026-08-18",
       "source": "publisher YouTube Data API"
     },
@@ -377,7 +370,7 @@
       "channelId": "understand",
       "channel": "Understand Al-Quran Official",
       "language": "English / Urdu",
-      "topic": "recitation",
+      "topic": "meaning",
       "date": "2026-08-14",
       "source": "publisher YouTube Data API"
     },
@@ -387,7 +380,7 @@
       "channelId": "understand",
       "channel": "Understand Al-Quran Official",
       "language": "English / Urdu",
-      "topic": "recitation",
+      "topic": "meaning",
       "date": "2026-08-14",
       "source": "publisher YouTube Data API"
     },
@@ -397,7 +390,7 @@
       "channelId": "understand",
       "channel": "Understand Al-Quran Official",
       "language": "English / Urdu",
-      "topic": "recitation",
+      "topic": "meaning",
       "date": "2026-08-14",
       "source": "publisher YouTube Data API"
     },
@@ -427,7 +420,7 @@
       "channelId": "understand",
       "channel": "Understand Al-Quran Official",
       "language": "English / Urdu",
-      "topic": "recitation",
+      "topic": "meaning",
       "date": "2026-08-07",
       "source": "publisher YouTube Data API"
     },
@@ -472,86 +465,6 @@
       "source": "publisher YouTube Data API"
     },
     {
-      "id": "lW7apMkKUdI",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-05-12",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "xLVS98TYKCE",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-05-09",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "mLJyxzhQ02M",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-05-08",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "oC6YKK_wBaI",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-05-07",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "wzq-gssLLtY",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-05-06",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "4-WtrC_1cko",
-      "title": "#trendingshorts Haroof-e-Muqataat || حروفِ مقطعات || لوحِ قرآنی || Lohe Qurani || #youtubeshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "basics",
-      "date": "2025-05-02",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "s0tileGg_Ls",
-      "title": "#trendingshorts Haroof-e-Muqataat || حروفِ مقطعات || لوحِ قرآنی || Lohe Qurani || #youtubeshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "basics",
-      "date": "2025-04-30",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "pk28MrKrv5Q",
-      "title": "Haroof-e-Muqataat || حروفِ مقطعات || لوحِ قرآنی || Lohe Qurani || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "basics",
-      "date": "2025-04-29",
-      "source": "publisher YouTube Data API"
-    },
-    {
       "id": "GpodGJ4StQ8",
       "title": "Most Difficult Word of Quran | قرآن کا مشکل لفظ پڑھنا سیکھیں | Learn Quran with Tajweed |",
       "channelId": "homebased",
@@ -559,16 +472,6 @@
       "language": "Urdu",
       "topic": "tajweed",
       "date": "2025-04-28",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "B0bqE4UkWbM",
-      "title": "Haroof-e-Muqataat || حروفِ مقطعات || لوحِ قرآنی || Lohe Qurani || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "basics",
-      "date": "2025-04-27",
       "source": "publisher YouTube Data API"
     },
     {
@@ -592,16 +495,6 @@
       "source": "publisher YouTube Data API"
     },
     {
-      "id": "fv1JcGkfUJI",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-04-22",
-      "source": "publisher YouTube Data API"
-    },
-    {
       "id": "_iYMLzmcLg4",
       "title": "Most Difficult Word of Quran | قرآن کا مشکل لفظ پڑھنا سیکھیں | Learn Quran with Tajweed |",
       "channelId": "homebased",
@@ -622,16 +515,6 @@
       "source": "publisher YouTube Data API"
     },
     {
-      "id": "MrGZW-cjQP4",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-04-21",
-      "source": "publisher YouTube Data API"
-    },
-    {
       "id": "ihLq4v6OEe0",
       "title": "Most Difficult Word of Quran | قرآن کا مشکل لفظ پڑھنا سیکھیں | Quran Recitation | Surah Yunus |",
       "channelId": "homebased",
@@ -642,113 +525,13 @@
       "source": "publisher YouTube Data API"
     },
     {
-      "id": "AjpS8kqiXm4",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-04-19",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "QmXotwQektg",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-04-18",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "1_JNI8Y8Aqc",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-04-17",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "DgchYw2zvJ4",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-04-16",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "x-FQrIPSAfE",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-04-15",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "EZR_uCSc5ag",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-04-14",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "IhXK1kgu5ak",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-04-13",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "hq1MNaX1nRA",
-      "title": "What is Ghunna? || غنہ کسے کہتے ہیں؟ || #ghunna #youtubeshorts #trendingshorts #tajweed",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "tajweed",
-      "date": "2025-04-12",
-      "source": "publisher YouTube Data API"
-    },
-    {
       "id": "UjMQ9u35KK8",
       "title": "Surah Baqarah with Tajweed | Ayat 134-135 | سورةُالبَقَره | Para 1| Learn Quran | Recitation |",
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2025-04-11",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "71pNayyoriQ",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-04-10",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "6bam-MiIh1k",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-04-09",
       "source": "publisher YouTube Data API"
     },
     {
@@ -757,258 +540,8 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2025-04-09",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "nyfNd7ztJvk",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-04-08",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "idCb9JMdLlY",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-04-07",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "7PPiEAbc1eY",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-04-06",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "n3XnOME6gpo",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-04-05",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "kzIDYHKjeas",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-04-04",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "uAM5QVJS4fs",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-04-03",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "zqM0PAx0W-g",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-04-02",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "rJC9PwU4ALI",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-04-01",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "lhFFcEm7rXc",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-03-31",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "yYX0Oa4GHl4",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-03-30",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "oBHXd3Npq2c",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-03-29",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "j914FbNMEwU",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-03-28",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "6pdNn6ZTGh8",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-03-27",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "qwyrPS4_570",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-03-26",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "ykWkxLylT7w",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-03-25",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "YjsWBik11Pg",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-03-24",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "tw_Km1aXWQw",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-03-23",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "fKW_ymrvpvU",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-03-22",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "-2ZSdCuGJ6Q",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-03-21",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "4QnDsTsb3bw",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-03-20",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "ZHds0Cy9jvk",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-03-19",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "EXXYWHfhyHM",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-03-18",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "WSyabL9YxXk",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-03-17",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "4mLdaWMiBhg",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-03-16",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "pmK5vj4XqA0",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-03-15",
       "source": "publisher YouTube Data API"
     },
     {
@@ -1022,52 +555,12 @@
       "source": "publisher YouTube Data API"
     },
     {
-      "id": "W_ptOzONGSU",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-03-14",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "F-2jwSO9vMI",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-03-13",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "9ioEZK7lMGE",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-03-12",
-      "source": "publisher YouTube Data API"
-    },
-    {
       "id": "ycLMdH_lW68",
       "title": "Surah Baqarah with Tajweed | Ayat 130-131 | سورةُالبَقَره | Para 1| Learn Quran | Recitation |",
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
-      "date": "2025-03-11",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "5QcAn7u2Rgw",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
+      "topic": "recitation",
       "date": "2025-03-11",
       "source": "publisher YouTube Data API"
     },
@@ -1082,32 +575,12 @@
       "source": "publisher YouTube Data API"
     },
     {
-      "id": "mqhSvrk9FRk",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
-      "date": "2025-03-09",
-      "source": "publisher YouTube Data API"
-    },
-    {
       "id": "kiTAubJn6SI",
       "title": "Most Difficult Word of Quran | قرآن کا مشکل لفظ پڑھنا سیکھیں | Quran Recitation | Suratulinaam |",
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
       "topic": "recitation",
-      "date": "2025-03-08",
-      "source": "publisher YouTube Data API"
-    },
-    {
-      "id": "h_u3o3Tv7lU",
-      "title": "Most Difficult word of Quran || قرآن کا مشکل لفظ پڑھنا سیکھیں  || #youtubeshorts #trendingshorts",
-      "channelId": "homebased",
-      "channel": "Home Based Quran Learning",
-      "language": "Urdu",
-      "topic": "general",
       "date": "2025-03-08",
       "source": "publisher YouTube Data API"
     },
@@ -1177,7 +650,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2025-02-13",
       "source": "publisher YouTube Data API"
     },
@@ -1187,7 +660,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2025-02-10",
       "source": "publisher YouTube Data API"
     },
@@ -1197,7 +670,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2025-02-07",
       "source": "publisher YouTube Data API"
     },
@@ -1207,7 +680,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2025-02-05",
       "source": "publisher YouTube Data API"
     },
@@ -1217,7 +690,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2025-02-02",
       "source": "publisher YouTube Data API"
     },
@@ -1227,7 +700,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2025-01-31",
       "source": "publisher YouTube Data API"
     },
@@ -1237,7 +710,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2025-01-25",
       "source": "publisher YouTube Data API"
     },
@@ -1247,7 +720,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2025-01-23",
       "source": "publisher YouTube Data API"
     },
@@ -1257,7 +730,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2025-01-21",
       "source": "publisher YouTube Data API"
     },
@@ -1267,7 +740,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2025-01-17",
       "source": "publisher YouTube Data API"
     },
@@ -1277,7 +750,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2025-01-15",
       "source": "publisher YouTube Data API"
     },
@@ -1287,7 +760,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2025-01-12",
       "source": "publisher YouTube Data API"
     },
@@ -1297,7 +770,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2025-01-10",
       "source": "publisher YouTube Data API"
     },
@@ -1307,7 +780,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2025-01-08",
       "source": "publisher YouTube Data API"
     },
@@ -1317,7 +790,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2025-01-06",
       "source": "publisher YouTube Data API"
     },
@@ -1337,7 +810,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2025-01-02",
       "source": "publisher YouTube Data API"
     },
@@ -1347,7 +820,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2024-12-31",
       "source": "publisher YouTube Data API"
     },
@@ -1357,7 +830,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2024-12-29",
       "source": "publisher YouTube Data API"
     },
@@ -1367,7 +840,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2024-12-28",
       "source": "publisher YouTube Data API"
     },
@@ -1377,7 +850,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2024-12-27",
       "source": "publisher YouTube Data API"
     },
@@ -1387,7 +860,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2024-12-24",
       "source": "publisher YouTube Data API"
     },
@@ -1397,7 +870,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2024-12-22",
       "source": "publisher YouTube Data API"
     },
@@ -1407,7 +880,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2024-12-19",
       "source": "publisher YouTube Data API"
     },
@@ -1417,7 +890,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2024-12-17",
       "source": "publisher YouTube Data API"
     },
@@ -1427,7 +900,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2024-12-13",
       "source": "publisher YouTube Data API"
     },
@@ -1437,7 +910,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2024-12-11",
       "source": "publisher YouTube Data API"
     },
@@ -1447,7 +920,7 @@
       "channelId": "homebased",
       "channel": "Home Based Quran Learning",
       "language": "Urdu",
-      "topic": "tajweed",
+      "topic": "recitation",
       "date": "2024-12-07",
       "source": "publisher YouTube Data API"
     },
@@ -1460,20 +933,8 @@
       "topic": "basics",
       "date": "2024-03-29",
       "source": "verified official teaching upload"
-    },
-    {
-      "id": "Qwza5HdLyEE",
-      "title": "Do you HAVE TO learn Tajweed to recite the Quran? | Arabic101",
-      "channelId": "arabic101",
-      "channel": "Arabic101",
-      "language": "English",
-      "topic": "tajweed",
-      "date": "2021-02-26",
-      "source": "verified teacher upload"
     }
   ],
-  "count": 144,
-  "errors": [
-    "arabic101: API: HTTPError, RSS: ValueError"
-  ]
+  "count": 91,
+  "errors": []
 }
