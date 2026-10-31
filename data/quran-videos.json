@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-10-31T00:00:00Z",
+  "sources": [
+    {
+      "id": "homebased",
+      "name": "Home Based Quran Learning",
+      "language": "Urdu",
+      "handle": "HomeBasedQuranLearning",
+      "youtubeChannelId": "UCY_4DVK8EYAnr4kG5nvn2FQ"
+    },
+    {
+      "id": "understand",
+      "name": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "handle": "understandquran"
+    },
+    {
+      "id": "arabic101",
+      "name": "Arabic101",
+      "language": "English",
+      "handle": "101Arabic"
+    },
+    {
+      "id": "bayyinah",
+      "name": "Nouman Ali Khan - Official - Bayyinah",
+      "language": "English / Urdu",
+      "handle": "bayyinah",
+      "youtubeChannelId": "UCRtiU-lpcBSi-ipFKyfIkug"
+    }
+  ],
+  "videos": [
+    {
+      "id": "7mNmg91pHQU",
+      "title": "Noorani Qaida Lesson 1 | Haroof-e-Mufradaat (Arabic Letters)",
+      "channelId": "homebased",
+      "channel": "Home Based Quran Learning",
+      "language": "Urdu",
+      "topic": "basics",
+      "date": "2024-03-29",
+      "source": "verified official teaching upload"
+    },
+    {
+      "id": "Qwza5HdLyEE",
+      "title": "Do you HAVE TO learn Tajweed to recite the Quran? | Arabic101",
+      "channelId": "arabic101",
+      "channel": "Arabic101",
+      "language": "English",
+      "topic": "tajweed",
+      "date": "2021-02-26",
+      "source": "verified teacher upload"
+    }
+  ]
+}
