@@ -1,0 +1,8 @@
+/* Respectful Learn Quran home discovery card. No autoplay or advertising overlay. */
+.quran-home-promo{display:flex;gap:22px;align-items:center;padding:21px 25px;margin:22px 0 28px;border-radius:20px;border:1px solid #688a82;background:radial-gradient(ellipse at 14% 20%,#82ad9b35,transparent 40%),linear-gradient(115deg,#0e4545,#1f3547);box-shadow:0 14px 30px #0005}
+.quran-home-mark{width:135px;height:135px;flex:0 0 135px;display:grid;place-items:center;background:radial-gradient(circle,#296d61,#0b403a);border:6px double #e2cf9f;border-radius:50%;color:#ffe1aa;font:700 45px/1.4 'Noto Naskh Arabic','Noto Sans Arabic',serif;box-shadow:0 12px 24px #0006}
+.quran-home-info{min-width:0}.quran-home-info .eyebrow{color:#dfcda6}.quran-home-info h2{font-size:clamp(22px,2.8vw,33px);line-height:1.2;color:#fff0d4;margin:6px 0 9px}.quran-home-info h2 small{display:inline-block;color:#bde3ce;font-size:.62em}
+.quran-home-info p{max-width:680px;font-size:13px;line-height:1.7;color:#cfdfd9;margin:0 0 15px}
+.quran-home-info a{display:inline-block;border-radius:30px;padding:10px 16px;background:#f1d09a;color:#1c3c33;text-decoration:none;font-weight:900;font-size:12px}
+.quran-home-info a:hover{background:#ffe7bb}
+@media(max-width:600px){.quran-home-promo{gap:12px;padding:14px}.quran-home-mark{width:83px;height:83px;flex-basis:83px;border-width:4px;font-size:29px}.quran-home-info h2{font-size:21px}.quran-home-info h2 small{display:block;font-size:.7em}.quran-home-info p{font-size:11px}}
