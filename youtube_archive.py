@@ -64,25 +64,30 @@ def video_category(channel, title):
 
 
 def publisher_description(text):
-    """Short safe excerpt from the publisher's metadata, without links or promos.
+    """Preserve a short factual excerpt of a publisher's plot description.
 
-    This is not a transcript. Short excerpts are only used as context for
-    clearly labelled automated watch guides.
+    Ignore promotional calls to action rather than treating ad copy as a
+    story synopsis. Does not examine, transcribe, or review the video itself.
     """
     text = unescape(str(text or '')).replace('\r', '')
+    promos = re.compile(
+        r'(?i)(?:\bsubscribe\b|\bfollow us\b|\bfollow our\b|'
+        r'\bthanks for watching\b|\blove pakistani dramas\b|'
+        r'\bdownload (?:the|our|ary|app)\b|\bary plus app\b|'
+        r'\bclick (?:the|here|on)\b|\bhit the bell\b|'
+        r'\bnotification bell\b|\bwatch (?:more|the latest)\b|'
+        r'\bplease like\b|\blike and share\b|'
+        r'\b(?:facebook|instagram|tiktok|twitter)\b|'
+        r'\b(?:cast|starring|director|producer|credits)\s*:)'
+    )
     lines = []
-    for raw in text.splitlines():
+    for raw in re.split(r'(?<=[.!?؟])\s+|\n+', text):
         line = re.sub(r'https?://\S+|www\.\S+', '', raw).strip()
         line = re.sub(r'(?<!\w)#[\w\u0600-\u06ff]+', '', line).strip(' -|•:*\t')
-        if not line or len(line) < 27:
+        if len(line) < 27 or promos.search(line):
             continue
-        if re.search(r'(?i)^(?:subscribe|follow|like\s+(?:us|our)|click here|watch more|watch now|'
-                     r'download|our (?:social|official)|join us|for business|contact|'
-                     r'(?:cast|starring|director|producer|credits|facebook|instagram|'
-                     r'tiktok|twitter|youtube|hashtags)\s*:)', line):
-            continue
-        if re.search(r'(?i)(?:all rights reserved|copyright ©|follow us on|'
-                     r'please subscribe|notification bell|do not forget to subscribe)', line):
+        if re.search(r'(?i)(?:all rights reserved|copyright ©|'
+                     r'contact for business|do not forget to subscribe)', line):
             continue
         lines.append(re.sub(r'\s+', ' ', line))
         if len(' '.join(lines)) >= 370:
