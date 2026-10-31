@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-31T19:19:43.200110+00:00",
+  "generatedAt": "2026-10-31T19:21:34.883872+00:00",
   "dateTimezone": "UTC",
-  "cursor": 18,
-  "musicCursor": 12,
+  "cursor": 24,
+  "musicCursor": 0,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -302,35 +302,35 @@
       "uploadsId": "UUZMKZS3L9GfhcFkMyBRoVFg",
       "handle": "kidslandofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-31T07:54:30.860145+00:00"
+      "lastFetchedAt": "2026-10-31T19:21:34.883872+00:00"
     },
     "kidsmadani": {
       "youtubeId": "UCsNSt0fxMniSH9XHaNneZfw",
       "uploadsId": "UUsNSt0fxMniSH9XHaNneZfw",
       "handle": "kidsmadanichannel",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-31T07:54:30.860145+00:00"
+      "lastFetchedAt": "2026-10-31T19:21:34.883872+00:00"
     },
     "salamkids": {
       "youtubeId": "UC_4moTH4Pmatx5ogzCLxUtA",
       "uploadsId": "UU_4moTH4Pmatx5ogzCLxUtA",
       "handle": "salamkidstvofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-31T07:54:30.860145+00:00"
+      "lastFetchedAt": "2026-10-31T19:21:34.883872+00:00"
     },
     "urdukidsstudio": {
       "youtubeId": "UCxqHh4UJsNqiwk_aaMI9HBg",
       "uploadsId": "UUxqHh4UJsNqiwk_aaMI9HBg",
       "handle": "urdukidsstudio",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-31T07:54:30.860145+00:00"
+      "lastFetchedAt": "2026-10-31T19:21:34.883872+00:00"
     },
     "shirazi": {
       "youtubeId": "UC8YddK8DXYyry_LWY4NksgA",
       "uploadsId": "UU8YddK8DXYyry_LWY4NksgA",
       "handle": "shirazi786",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-31T07:54:30.860145+00:00"
+      "lastFetchedAt": "2026-10-31T19:21:34.883872+00:00"
     },
     "haimparishay": {
       "youtubeId": "UC6jgnXHUJ4eDjrvHJNtAUYg",
@@ -344,7 +344,7 @@
       "uploadsId": "UUDf7-AujhJJkMF1Cg5iT-Pw",
       "handle": "TheWaggleWorkshop",
       "checkedAt": "2026-10-18T16:55:18.549048+00:00",
-      "lastFetchedAt": "2026-10-31T07:54:30.860145+00:00"
+      "lastFetchedAt": "2026-10-31T19:21:34.883872+00:00"
     },
     "lollywoodcinema": {
       "youtubeId": "UCMlGWm_woMhMcVYhJu8zsvA",
@@ -428,14 +428,14 @@
       "uploadsId": "UUaQvtCweOs1RpgFIO3-ezMA",
       "handle": "hasanraheem",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-31T19:19:43.200110+00:00"
+      "lastFetchedAt": "2026-10-31T19:21:34.883872+00:00"
     },
     "natashabaig": {
       "youtubeId": "UCfoMcYBhl7LM23G6tziMEYw",
       "uploadsId": "UUfoMcYBhl7LM23G6tziMEYw",
       "handle": "NatashaBaigOfficial",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-31T19:19:43.200110+00:00"
+      "lastFetchedAt": "2026-10-31T19:21:34.883872+00:00"
     }
   },
   "videos": [
@@ -8033,6 +8033,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/km_itq0yp8c/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "R7Knpw5eckw",
+      "title": "Noor Wali Kitab Episode 271 | Noor-e-Quran | Kids Madani Channel",
+      "channel": "Kids Madani Channel",
+      "channelId": "kidsmadani",
+      "youtubeChannelId": "UCsNSt0fxMniSH9XHaNneZfw",
+      "category": "kids",
+      "genre": "Learning & values",
+      "date": "2026-10-31",
+      "published": "2026-10-31T10:33:18Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 1374,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/R7Knpw5eckw/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -66590,24 +66608,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "8WQqnZBwK2U",
-      "title": "Nayi Soch | Episode 07",
-      "channel": "PTV Home",
-      "channelId": "ptvhome",
-      "youtubeChannelId": "UCMfwlaPLGMn44BKvHv15yzA",
-      "category": "dramas",
-      "genre": "Classic & family dramas",
-      "date": "2026-10-10",
-      "published": "2026-10-10T15:01:45Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 1323,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/8WQqnZBwK2U/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "-uRX7UTb0aA",
       "title": "Bhooli Bisri Chand Umeedain | Mehdi Hassan | Evergreen Ghazal | EMI Pakistan",
       "channel": "EMI Pakistan",
@@ -79640,6 +79640,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Mekaal Hasan Band: channel unavailable; Rahat Fateh Ali Khan: channel unavailable; Arooj Aftab: channel unavailable; Zamad Baig: channel unavailable; Hassan & Roshaan: channel unavailable; Kashmir The Band: channel unavailable",
+  "lastError": "Arooj Aftab: channel unavailable; Zamad Baig: channel unavailable; Hassan & Roshaan: channel unavailable; Kashmir The Band: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }
