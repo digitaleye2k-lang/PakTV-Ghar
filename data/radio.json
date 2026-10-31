@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T22:28:27.521830Z",
+  "updatedAt": "2026-10-31T05:54:38.914797Z",
   "source": "Radio Browser community directory",
   "sourceUrl": "https://www.radio-browser.info/",
   "stations": [
@@ -147,22 +147,22 @@
       "source": "Radio Browser (community directory)"
     },
     {
-      "id": "99b56c5c-edbe-4e87-b64b-849227848cae",
-      "name": "FM 93 Multan",
-      "city": "Punjab",
+      "id": "828fb723-869a-45bb-80b1-e295d2c7dd15",
+      "name": "FM 101 Karachi",
+      "city": "Sindh",
       "genre": "Pakistani radio",
-      "stream": "https://whmsonic.radio.gov.pk:8032/stream",
+      "stream": "https://whmsonic.radio.gov.pk:8048/stream",
       "homepage": "https://radio.gov.pk/",
       "codec": "MP3",
       "bitrate": 128,
       "source": "Radio Browser (community directory)"
     },
     {
-      "id": "828fb723-869a-45bb-80b1-e295d2c7dd15",
-      "name": "FM 101 Karachi",
-      "city": "Sindh",
+      "id": "99b56c5c-edbe-4e87-b64b-849227848cae",
+      "name": "FM 93 Multan",
+      "city": "Punjab",
       "genre": "Pakistani radio",
-      "stream": "https://whmsonic.radio.gov.pk:8048/stream",
+      "stream": "https://whmsonic.radio.gov.pk:8032/stream",
       "homepage": "https://radio.gov.pk/",
       "codec": "MP3",
       "bitrate": 128,

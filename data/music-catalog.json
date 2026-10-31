@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-30T22:28:17.479328+00:00",
+  "generatedAt": "2026-10-31T05:54:29.853447+00:00",
   "source": "verified_publisher_uploads_and_official_starters",
-  "count": 713,
+  "count": 715,
   "publishers": {
     "cokestudio": 125,
-    "natashabaig": 90,
+    "natashabaig": 93,
     "emipakistan": 253,
     "talhaanjum": 68,
     "abdulhannan": 38,
     "hasanraheem": 66,
     "bayaan": 30,
     "youngstunners": 40,
-    "jaubi": 2,
+    "jaubi": 1,
     "sajjadali": 1
   },
   "videos": [
@@ -8524,6 +8524,42 @@
       "durationSeconds": 241
     },
     {
+      "id": "_lyz5gdtOa4",
+      "title": "Ya Moula | Natasha Baig ft. YBQ - Burushaski Song 2017",
+      "channel": "Natasha Baig",
+      "channelId": "natashabaig",
+      "category": "music",
+      "genre": "Covers & Sufi",
+      "published": "2017-07-11T09:22:06Z",
+      "date": "2017-07-11",
+      "embeddable": true,
+      "durationSeconds": 265
+    },
+    {
+      "id": "HKPO2aghrhU",
+      "title": "Meri Maa | Natasha Baig (Mother's Day Special Song)",
+      "channel": "Natasha Baig",
+      "channelId": "natashabaig",
+      "category": "music",
+      "genre": "Covers & Sufi",
+      "published": "2017-05-07T12:10:26Z",
+      "date": "2017-05-07",
+      "embeddable": true,
+      "durationSeconds": 218
+    },
+    {
+      "id": "rm3Ludiw2jE",
+      "title": "Jhoom Le | Natasha Baig | Armeena Rana Khan | Bilal Ashraf | Ali Rahman | Janaan 2016",
+      "channel": "Natasha Baig",
+      "channelId": "natashabaig",
+      "category": "music",
+      "genre": "Covers & Sufi",
+      "published": "2017-03-31T08:13:19Z",
+      "date": "2017-03-31",
+      "embeddable": true,
+      "durationSeconds": 187
+    },
+    {
       "id": "kw4tT7SCmaY",
       "title": "Afreen Afreen · Rahat Fateh Ali Khan × Momina Mustehsan · Coke Studio Season 9",
       "channel": "Coke Studio Pakistan",
@@ -8533,18 +8569,6 @@
       "published": "2016-08-19T00:00:00Z",
       "date": "2016-08-19",
       "embeddable": true
-    },
-    {
-      "id": "ojpHAF8-IIU",
-      "title": "Raga Shivranjani",
-      "channel": "Jaubi",
-      "channelId": "jaubi",
-      "category": "music",
-      "genre": "Jazz & Fusion",
-      "published": "2016-05-27T07:24:28Z",
-      "date": "2016-05-27",
-      "embeddable": true,
-      "durationSeconds": 368
     },
     {
       "id": "a18py61_F_w",

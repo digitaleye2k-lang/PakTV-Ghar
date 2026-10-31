@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T03:28:22.265363+05:00",
+  "generatedAt": "2026-10-31T10:54:34.100034+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,6 +17,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 10,
+        "time": "16:30",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-31"
       }
     },
     "harpalgeo-nashtar": {
@@ -97,16 +104,23 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 26,
+        "time": "00:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-10-31"
       }
     },
     "hum-aangan": {
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Aangan-500.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 4,
-        "id": "K1SHRLAXBuE",
-        "title": "Aangan - Episode 04 - Highlight [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
-        "date": "2026-10-11",
+        "number": 9,
+        "id": "rc7YotkEBGA",
+        "title": "Aangan - Episode 09 - [ENG SUB] 30th Oct 2026 [Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain]",
+        "date": "2026-10-30",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -235,10 +249,10 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Khushi-500.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 46,
-        "id": "KFWag8aMzsQ",
-        "title": "Khushi - Episode 46 - [Eng Sub] 28th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "date": "2026-10-28",
+        "number": 48,
+        "id": "dReHjLpsE08",
+        "title": "Khushi - Episode 48 - [ENG SUB] 30th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "date": "2026-10-30",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -315,12 +329,12 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/TT-500.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 15,
-        "id": "18-K-8Qx2bU",
-        "title": "Tark-e-Tamanna - Episode 15 - 28th Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
-        "date": "2026-10-28",
+        "number": 17,
+        "id": "ANxuTaGPnXg",
+        "title": "Tark-e-Tamanna - Episode 17 [Eng Sub] - 30th Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "date": "2026-10-30",
         "source": "Official YouTube upload",
-        "availableGB": false,
+        "availableGB": true,
         "availablePK": true,
         "embeddable": true
       }
