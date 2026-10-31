@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T19:03:17.759334+00:00",
+  "generatedAt": "2026-10-31T19:04:08.089104+00:00",
   "dateTimezone": "UTC",
   "cursor": 36,
   "musicCursor": 12,
@@ -246,14 +246,14 @@
       "uploadsId": "UU2PYniNHljOED9xNaMpiMiQ",
       "handle": "ARYFilms",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-31T19:03:17.759334+00:00"
+      "lastFetchedAt": "2026-10-31T19:04:08.089104+00:00"
     },
     "drmmovies": {
       "youtubeId": "UCDmQsP_LTEWPZ2AXS9eWTrQ",
       "uploadsId": "UUDmQsP_LTEWPZ2AXS9eWTrQ",
       "handle": "pakistani_movies",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-31T19:03:17.759334+00:00"
+      "lastFetchedAt": "2026-10-31T19:04:08.089104+00:00"
     },
     "pcb": {
       "youtubeId": "UCiWrjBhlICf_L_RK5y6Vrxw",
@@ -295,7 +295,7 @@
       "uploadsId": "UUs2-8ztgdlRqpbpHvfFFPFQ",
       "handle": "wasayhabib",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-31T19:03:17.759334+00:00"
+      "lastFetchedAt": "2026-10-31T19:04:08.089104+00:00"
     },
     "kidsland": {
       "youtubeId": "UCZMKZS3L9GfhcFkMyBRoVFg",
@@ -351,21 +351,21 @@
       "uploadsId": "UUMlGWm_woMhMcVYhJu8zsvA",
       "handle": "LollywoodCinema",
       "checkedAt": "2026-10-18T17:28:01.603474+00:00",
-      "lastFetchedAt": "2026-10-31T19:03:17.759334+00:00"
+      "lastFetchedAt": "2026-10-31T19:04:08.089104+00:00"
     },
     "movieboxmovies": {
       "youtubeId": "UC8Artr_jqToYkRKjgjhezmw",
       "uploadsId": "UU8Artr_jqToYkRKjgjhezmw",
       "handle": "movieboxmovies",
       "checkedAt": "2026-10-18T17:28:01.603474+00:00",
-      "lastFetchedAt": "2026-10-31T19:03:17.759334+00:00"
+      "lastFetchedAt": "2026-10-31T19:04:08.089104+00:00"
     },
     "lollywoodclassics": {
       "youtubeId": "UCV-z8APBalmSWNrre62xKxg",
       "uploadsId": "UUV-z8APBalmSWNrre62xKxg",
       "handle": "lollywoodclassics",
       "checkedAt": "2026-10-18T17:48:49.190558+00:00",
-      "lastFetchedAt": "2026-10-31T19:03:17.759334+00:00"
+      "lastFetchedAt": "2026-10-31T19:04:08.089104+00:00"
     },
     "cokestudio": {
       "youtubeId": "UCM1VesJtJ9vTXcMLLr_FfdQ",
@@ -400,28 +400,28 @@
       "uploadsId": "UU6s1zz1-t7rPf-4scKVYD8g",
       "handle": "Jaubi",
       "checkedAt": "2026-10-18T20:04:20.517484+00:00",
-      "lastFetchedAt": "2026-10-31T19:03:17.759334+00:00"
+      "lastFetchedAt": "2026-10-31T19:04:08.089104+00:00"
     },
     "atifs": {
       "youtubeId": "UC3FnOdo2ooBS4TrEcmwUR_Q",
       "uploadsId": "UU3FnOdo2ooBS4TrEcmwUR_Q",
       "handle": "AtifAslamOfficial",
       "checkedAt": "2026-10-18T19:47:58.539938+00:00",
-      "lastFetchedAt": "2026-10-31T19:03:17.759334+00:00"
+      "lastFetchedAt": "2026-10-31T19:04:08.089104+00:00"
     },
     "bayaan": {
       "youtubeId": "UCqOLlRNuWqswf30c9AJC-Cg",
       "uploadsId": "UUqOLlRNuWqswf30c9AJC-Cg",
       "handle": "BayaanOfficial",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-31T19:03:17.759334+00:00"
+      "lastFetchedAt": "2026-10-31T19:04:08.089104+00:00"
     },
     "abdulhannan": {
       "youtubeId": "UCZ1FCXu6uAhE6YkAsKQDGNg",
       "uploadsId": "UUZ1FCXu6uAhE6YkAsKQDGNg",
       "handle": "abdulhannanmusic",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-31T19:03:17.759334+00:00"
+      "lastFetchedAt": "2026-10-31T19:04:08.089104+00:00"
     },
     "hasanraheem": {
       "youtubeId": "UCaQvtCweOs1RpgFIO3-ezMA",
@@ -78290,6 +78290,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "Xk6wEFqP0GE",
+      "title": "WOHTI LAI KE JANI AYE – Shaan & Saima|“Main apni izat aur mohabat leke aya hun”|Full Pakistani Movie",
+      "channel": "MovieboxMovies",
+      "channelId": "movieboxmovies",
+      "youtubeChannelId": "UC8Artr_jqToYkRKjgjhezmw",
+      "category": "movies",
+      "genre": "Classic Pakistani Movies",
+      "date": "2019-12-14",
+      "published": "2019-12-14T09:00:07Z",
+      "description": "WOHTI LAI KE JANI AYE – Shaan & Saima A dramatic Punjabi film showcasing honor, love, and family values. Starring Shaan & Saima, this film captures the raw essence of Pakistani cinema. Filled with unforgettable dialogues, emotional drama, and intense storytelling, it remains cherished by audiences who love traditional Punjabi films.",
+      "durationSeconds": 9506,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Xk6wEFqP0GE/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
+    },
+    {
       "id": "xBxU_OYf2f8",
       "title": "05. Karachi Mera - Talha Anjum ( Prod by Kishore & Jokhay )",
       "channel": "Talha Anjum",
@@ -79352,6 +79370,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "XxgnxgcehfE",
+      "title": "YAAR BADSHAH (1971) - SUDHIR, FIRDOUS, RANGEELA, AFZAL KHAN - OFFICIAL FULL MOVIE",
+      "channel": "MovieboxMovies",
+      "channelId": "movieboxmovies",
+      "youtubeChannelId": "UC8Artr_jqToYkRKjgjhezmw",
+      "category": "movies",
+      "genre": "Classic Pakistani Movies",
+      "date": "2017-12-01",
+      "published": "2017-12-01T09:00:02Z",
+      "description": "FULL PAKISTANI MOVIES IN BEST QUALITY AVAILABLE ANY REQUESTS OR QUESTIONS PLEASE EMAIL",
+      "durationSeconds": 8530,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/XxgnxgcehfE/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
+    },
+    {
       "id": "xjBSCLjyX-E",
       "title": "Right Now - Young Stunners | Talhah Yunus | Talha Anjum (Official Audio)",
       "channel": "Young Stunners",
@@ -79478,24 +79514,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "ManZs01zkhE",
-      "title": "AFSANA ZINDAGI KA (1972) - MOHAMMAD ALI & ZEBA - OFFICIAL FULL PAKISTANI MOVIE",
-      "channel": "MovieboxMovies",
-      "channelId": "movieboxmovies",
-      "youtubeChannelId": "UC8Artr_jqToYkRKjgjhezmw",
-      "category": "movies",
-      "genre": "Classic Pakistani Movies",
-      "date": "2017-08-18",
-      "published": "2017-08-18T08:00:00Z",
-      "description": "FULL PAKISTANI MOVIES IN BEST QUALITY AVAILABLE ANY REQUESTS OR QUESTIONS PLEASE EMAIL",
-      "durationSeconds": 7594,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/ManZs01zkhE/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
-    },
-    {
       "id": "n8R-W9Lsrzk",
       "title": "NOHookUps - Young Stunners - Official Audio",
       "channel": "Young Stunners",
@@ -79619,24 +79637,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/ojpHAF8-IIU/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "I38WjGEzyBQ",
-      "title": "\"Vicky\" - Jaubi",
-      "channel": "Jaubi",
-      "channelId": "jaubi",
-      "youtubeChannelId": "UC6s1zz1-t7rPf-4scKVYD8g",
-      "category": "music",
-      "genre": "Jazz & Fusion",
-      "date": "2016-03-17",
-      "published": "2016-03-17T08:48:43Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 188,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/I38WjGEzyBQ/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     }
   ],

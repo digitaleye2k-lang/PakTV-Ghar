@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-31T19:03:29.681613+00:00",
+  "generatedAt": "2026-10-31T19:04:23.115755+00:00",
   "source": "verified_publisher_uploads_and_official_starters",
-  "count": 718,
+  "count": 717,
   "publishers": {
     "cokestudio": 125,
     "natashabaig": 93,
@@ -11,7 +11,7 @@
     "hasanraheem": 66,
     "bayaan": 30,
     "youngstunners": 41,
-    "jaubi": 3,
+    "jaubi": 2,
     "sajjadali": 1
   },
   "videos": [
@@ -8593,18 +8593,6 @@
       "date": "2016-05-27",
       "embeddable": true,
       "durationSeconds": 368
-    },
-    {
-      "id": "I38WjGEzyBQ",
-      "title": "\"Vicky\" - Jaubi",
-      "channel": "Jaubi",
-      "channelId": "jaubi",
-      "category": "music",
-      "genre": "Jazz & Fusion",
-      "published": "2016-03-17T08:48:43Z",
-      "date": "2016-03-17",
-      "embeddable": true,
-      "durationSeconds": 188
     },
     {
       "id": "a18py61_F_w",

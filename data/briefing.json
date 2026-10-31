@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-31T19:03:34.295295Z",
+  "generatedAt": "2026-10-31T19:04:27.529819Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-31T19:03:34.295295Z",
+      "updatedAt": "2026-10-31T19:04:27.529819Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -62,9 +62,15 @@
       ]
     },
     "world": {
-      "updatedAt": "2026-10-31T19:03:34.295295Z",
+      "updatedAt": "2026-10-31T19:04:27.529819Z",
       "source": "Google News RSS",
       "items": [
+        {
+          "title": "Canelo Alvarez-Christian Mbilli live updates, results and analysis - ESPN",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT1QxQ2kxMmNWUUFjRk4tYlVSU3BJbjFZeVRjeVpzUkk4M0o2WDd1VEtMX21ueEN5MWVXTDJMY0tGallpTVFpNnRhN25QZnpHbWFnRmFBQmFVT2xhTGsxLTlzQnkzcmpKa3RWLVhSTURwbGItZjJ3VFM0NG1kV2hobmF2YVlWZjRaQzBOZk4tNUxqR0g1RFE?oc=5",
+          "published": "2026-10-31T19:01:48Z"
+        },
         {
           "title": "Thousands Expected to Protest in France on Halloween: Live Updates - The New York Times",
           "source": "The New York Times",
@@ -72,16 +78,10 @@
           "published": "2026-10-31T18:56:50Z"
         },
         {
-          "title": "Canelo Alvarez-Christian Mbilli live updates, results and analysis - ESPN",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT1QxQ2kxMmNWUUFjRk4tYlVSU3BJbjFZeVRjeVpzUkk4M0o2WDd1VEtMX21ueEN5MWVXTDJMY0tGallpTVFpNnRhN25QZnpHbWFnRmFBQmFVT2xhTGsxLTlzQnkzcmpKa3RWLVhSTURwbGItZjJ3VFM0NG1kV2hobmF2YVlWZjRaQzBOZk4tNUxqR0g1RFE?oc=5",
-          "published": "2026-10-31T18:55:48Z"
-        },
-        {
           "title": "College football live updates, scores: Arizona vs. Texas Tech, Notre Dame vs. Navy and more - Yahoo Sports",
           "source": "Yahoo Sports",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRHFkdGJmblNGRDZ2M3dkLW5oSHBPUGtzLTh3NWlvVDVKUjJLbkRELXRaRngwSVRYXy1LLUxONXhOZW5zUTF5QS1qc1dkZ1lVZlZ2akYzcTJfbDA1MU9JVnZMWmVZT3gzeUljZTNuUFMtekRmM0w5aVp0OVl0WDhmWmhjTXN5ZHptUjU2VFdVZDRrOGRIV0NWTjlsc2Z5NlVuUDdMRWliTE9sNlpiWG8wWVhBbFlDa3BRbWFRTjQyUTZJT2V1c2RxOWJGYkRxZHhRSUFpOUxYUF9kMFpZemZuMXJB?oc=5",
-          "published": "2026-10-31T18:41:25Z"
+          "published": "2026-10-31T18:49:34Z"
         },
         {
           "title": "17 Disney and Universal employees among 281 arrested in Florida sex trafficking sting, sheriff says - CBS News",
@@ -102,10 +102,10 @@
           "published": "2026-10-31T17:30:35Z"
         },
         {
-          "title": "El-Sayed asks Stevens to stay away as Democrats’ attempt at unity blows up - The Washington Post",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVDhJcXQ4S2RFaUVya0s0c01sN3o2aWNKZ2F6UHUxc0RFckdDNThMSDI1UWtQdjlSNGk2ck5MOXZTdTBNYkVRYnN4enRvS2Q2Yk1zVTlSSWtmMXZrdE1kV1dwNjVrS013QmZCUng4cEE2RnVCOW9pMnViVFNId3NyTHdHQUVuWEJNOWg0YXlPWXY2Mm1nb2xIMUgxdTM1NXY2TFFEN1RvRmtVUk9Va29UeA?oc=5",
-          "published": "2026-10-31T17:12:12Z"
+          "title": "Binance says it has covered 90% of losses from $6.3 billion hack so far - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV05QRmVQbjJDUTZkNzRFaTA5VVp5RE9Bd2ctMkxITEVaZnNLZVVzdkx5aHBUUFZYOTJCb19YRFJRM2I1RW5QS0JJUmowaUtsVjlnaTExaWJDM2NsLVJINlJQZ0JHdlUyb05LS0kyRGdRMHlyVWdYRHFJOTNlbFRZc0plbkc2SE1nOHB1SklPVVNUVnhFY3lYdWtR?oc=5",
+          "published": "2026-10-31T17:16:57Z"
         },
         {
           "title": "NASA telescope is on the verge of plunging back to Earth after failed rescue mission - ABC News - Breaking News, Latest News and Videos",
@@ -124,7 +124,7 @@
   },
   "newsUrdu": {
     "pakistan": {
-      "updatedAt": "2026-10-31T19:03:34.295295Z",
+      "updatedAt": "2026-10-31T19:04:27.529819Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -152,6 +152,12 @@
           "published": "2026-10-31T17:25:35Z"
         },
         {
+          "title": "Fakhar Zaman joins Pakistan’s Elite 4,000-Run ODI Club with ‘Magical Century’ - Daily Pakistan",
+          "source": "Daily Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWmtWWTM4WFROZmI1MmZyUlNnbGtSblpzd0NiLWtyR1dyUUVmQlFaeUlDX1g1cW9sMEtYSGY0dnBfaWM4VWJNWVdJblEyOW54MmxpeEJIdW5hQUpRTFZ5ekQwZDFfZmpubmdiNW9IWVNudGRVU0hnOXAtMnNkdGtKbWVEV0JfSmNJejV3dF9IY0M0ZGRFV2pIVkZhNGd1cVdGanlyYjFUSV92STlwdGlQb1RTa3Z3VlFt?oc=5",
+          "published": "2026-10-31T17:00:33Z"
+        },
+        {
           "title": "Happening now: پاکستان کی بیٹھکیں: افواہوں کا اڈا یا اصلاح کا ٹھکانا؟ - X",
           "source": "X",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCaVYySllzb3pUd2ZZWmV3clNoblBEUjhFdVhZYlhQOFVyclA3VlRFWUE2Q3UwdjZ6eFdVV2hLVml1THhmXzZLSFVqb0xQZmJRbnNXcA?oc=5",
@@ -174,19 +180,13 @@
           "source": "Tapmad",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzgtSlQ3ekVOaVVlRlJ5a01qQlQtSVNubVlRR3pZYlRBNGRmNkRsX2RlVjlmMGdxTG9fOUNJeE9zeGVpcmQ0MVVyMVpzWnVySW9yUGczejJGek9QejJ0emxPamlkdzdCdnY2SjZZdVJBVUdodEFwdkgzeDVQNk5IUV9EQWJ4TEZzTVNyVlRZNG0zS1BWUGJleTdNSlBrSmVHZ3RnUW50ZGVBOENLMlpEdFQ0aDA4am8?oc=5",
           "published": "2026-10-31T16:16:41Z"
-        },
-        {
-          "title": "ISPR DG Lt Gen Ahmed Sharif says Pakistan cautiously optimistic on US-Iran mediation - Pakistan Observer",
-          "source": "Pakistan Observer",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcWExaWU2UDh1R24tSS1IZTlwTDJQcmJLbVRoTDhNQVhmWU9KaGVMcVpLQmcwcVRSZ0xsV3BERTh3OC1pZUhjblZxU3ZyQ1luNmNsTmlpWGE4eThNTmRtcU1UQllUeUxnMjNCV21SUDZYVEtpRjI2WXRaWTc3S2pfdXE1Z3RLLXp1S0FfMkJiWDFJekhKcDlMUFZ6Q3A0amJ1X1pMQW5mNFpwRkZIRHc?oc=5",
-          "published": "2026-10-31T15:57:05Z"
         }
       ]
     },
     "world": {}
   },
   "weather": {
-    "updatedAt": "2026-10-31T19:03:34.295295Z",
+    "updatedAt": "2026-10-31T19:04:27.529819Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -225,7 +225,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-31T19:03:34.295295Z",
+    "updatedAt": "2026-10-31T19:04:27.529819Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
@@ -251,7 +251,7 @@
     ]
   },
   "sports": {
-    "updatedAt": "2026-10-31T19:03:35.733119Z",
+    "updatedAt": "2026-10-31T19:04:29.238116Z",
     "source": "ESPN cricket snapshot",
     "url": "https://www.espncricinfo.com/live-cricket-score",
     "matches": [
