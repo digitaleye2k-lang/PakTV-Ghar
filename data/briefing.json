@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-31T07:49:11.071191Z",
+  "generatedAt": "2026-10-31T07:53:02.411471Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-31T07:49:11.071191Z",
+      "updatedAt": "2026-10-31T07:53:02.411471Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -62,9 +62,21 @@
       ]
     },
     "world": {
-      "updatedAt": "2026-10-31T07:49:11.071191Z",
+      "updatedAt": "2026-10-31T07:53:02.411471Z",
       "source": "Google News RSS",
       "items": [
+        {
+          "title": "Midterm Elections Live Updates: After Rally in Florida, Trump Looks to Boost GOP Turnout in Kansas and Iowa - WSJ",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RczlvZzdOcEVBeko0ZS1TRHQ5LThyMjljT255UVJEOW9ZRGdRQzJZclQ5ZjZjazFZVFNtbDhYZUxVMGxCVkhRcDJ6Zkl0QlhnbWdJdjNTYkZKT0VScmNDdk80VjRaNkh5UzZZ?oc=5",
+          "published": "2026-10-31T07:15:55Z"
+        },
+        {
+          "title": "El-Sayed asks Stevens to stay away as Democrats’ attempt at unity blows up - The Washington Post",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVDhJcXQ4S2RFaUVya0s0c01sN3o2aWNKZ2F6UHUxc0RFckdDNThMSDI1UWtQdjlSNGk2ck5MOXZTdTBNYkVRYnN4enRvS2Q2Yk1zVTlSSWtmMXZrdE1kV1dwNjVrS013QmZCUng4cEE2RnVCOW9pMnViVFNId3NyTHdHQUVuWEJNOWg0YXlPWXY2Mm1nb2xIMUgxdTM1NXY2TFFEN1RvRmtVUk9Va29UeA?oc=5",
+          "published": "2026-10-31T06:37:47Z"
+        },
         {
           "title": "Los Angeles Lakers vs. Golden State Warriors Live Score and Stats - October 30, 2026 Gametracker - CBS Sports",
           "source": "CBS Sports",
@@ -106,27 +118,21 @@
           "source": "BBC",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qSlVjRTlfczZDQW4ycWlJdi1UdmxFd1E4WU1TajdEcnBEd2N4WlIxOEgyd1lhS29zODBXd3RDRU9KQTlOMnAwN2VOWU1SZ0lXWlJDV0FJbXVsR0k?oc=5",
           "published": "2026-10-31T03:12:08Z"
-        },
-        {
-          "title": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia - The Guardian",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaENwN21qQkg0bzFXbGU4UXdDSi1pWXJMRjFfWFVoS1REb3BGUWFvMndKb2Y5M1FPbzM4d2M2NmloWVE1UjREOXc0aGFKYS1wa21DVDg1Q0I4NkpYc3NlNzU4elc5cFZmQnFQNi12VlNZMVU4TDFYX1dHREttTlBzb0tNaDhDS1Z0R2d1emw2NGU0QVpmaFJTOFBrZS00bTlwaEtQbjI5bTRUQlJ3aHFud0dxalhYanllYldueDJDZDNNa0YwSUU0QlQxX3A?oc=5",
-          "published": "2026-10-31T02:55:00Z"
-        },
-        {
-          "title": "Ebola death toll in DR Congo passes 5,000 - Al Jazeera",
-          "source": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNXBJTU9WNnBSZnVFT29jdU1MU1RjT1pCTklOMWRHQ1U2V0lVMXlnSHJBUXExMEQ4TURHWHhHdkRoU3BHY0t6dE16MjRCRE10M0RkMGJvMVpZSHdKRWJfYmF5dTFwZEF1LUZzUF9zNGhzX0k0Qmt0SFJ6d2x6Z0lNNFMwYUdBNkQ4NHfSAY8BQVVfeXFMTXhhS3ZPYnI2bE1TY1ZwaUkxOHc2TTNrWkN1RHUwM0FEN2stT1dfUWNXcXBpeTBTT1lUdUtkUTZUY3RJekF1YXBLQlNSbzZYZTJJUG5uV0JsVndyN2MtVmtnSThPYm05QVU4MnFuR3VTNDRvMG1pSDk2Y2F1OHVtMmJvS1hTQ0NCWF81VEY2QlU?oc=5",
-          "published": "2026-10-31T02:54:29Z"
         }
       ]
     }
   },
   "newsUrdu": {
     "pakistan": {
-      "updatedAt": "2026-10-31T07:49:11.071191Z",
+      "updatedAt": "2026-10-31T07:53:02.411471Z",
       "source": "Google News RSS",
       "items": [
+        {
+          "title": "Punjab launches Rs1.99tr economic transformation plan - Profit by Pakistan Today",
+          "source": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTWNGMTdBbHpUOHZSOXZTZ1ItbU5ZVS1zM1ZUZk52ZUxsdFNJSFpYZV8yQWdlcFRoMEdSd1F2MEZJcUxRUk40b19uVDFtVGhWYS1KOWVHbGc2N0JycFRsTkc5Wk5pMXJ3UHhvdHZhdzFnOUZaTGhIQ25nLTJuaENoOVBrSjQ3WnN1LW5COHRLU3hBbFdRU1VXVWFaakZBYWNRUEs4dExGSzNHTGp3VHgtVFRacW5Pcm95VC1NaFM1S3dZMUluUzduS1d6VFNzWTNqTFB3dUp2akMxQQ?oc=5",
+          "published": "2026-10-31T07:51:52Z"
+        },
         {
           "title": "Pakistan Inflation | Weekly Inflation Report | Tomato Prices Rise | Essential Items - Aaj News - Aaj English TV",
           "source": "Aaj English TV",
@@ -174,19 +180,13 @@
           "source": "Daily Ausaf",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNmt3a01rdVBJOW42dUk3b0JSV3d2N0g1MTJxd0xJMXVkcjhwVjNwVmFHX094NGU4bVlnRy1lRnpqV2R2MXdSdFoxSURKU1kwWkI5c2swWFVPWi1ySkxIZnpjekhoM3FlaHd0bUlzd3RMcThLLVZYYVNfVVQtNnJBTGNfR053Zjl6TFNveXpoOUZaQXg2TlBWLW9EZ2NKRUZGSDRKRU9jbzJvVWJaVWtyVXpoVUxZU0RE0gG-AUFVX3lxTE8xQUNVWXlHSlZhU2RWOVliTHJBcGNBQ3g1SzgwbWZXempJZzdVUC1vN0ZxdDdmZHN3WWplYkhFZzFTd09VeFNidExtN2pFUHRsTHNqWnpLVWsxT2VsMUdWb1J4eTRLZHhnSGtFSzhpRlNocnJqRC1zLWpsN1BWbER4MGhvR1otRms3b3RGcTE1S0swTGxZYS0xek81VkhkNGNTTWlZOHl2MWttNzZJRXFWQnY3cmdoR1hHcERsX2c?oc=5",
           "published": "2026-10-31T06:32:53Z"
-        },
-        {
-          "title": "Lahore traffic plan today, October 31, 2026 - Pakistan Connect",
-          "source": "Pakistan Connect",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FdURnSFJ3clpfNnZVNDVEcFdLRERZb3NBZEZ0Yml1SjZiMldyUzJxeU5LWDlmTXRLT3otRHlNd3F3TE14SDBvVVRPVWNYRzN3UGVQZzU0MUp4Ny14SHp1OEk2V0tqUUxN?oc=5",
-          "published": "2026-10-31T06:29:52Z"
         }
       ]
     },
     "world": {}
   },
   "weather": {
-    "updatedAt": "2026-10-31T07:49:11.071191Z",
+    "updatedAt": "2026-10-31T07:53:02.411471Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -225,7 +225,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-31T07:49:11.071191Z",
+    "updatedAt": "2026-10-31T07:53:02.411471Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
@@ -251,7 +251,7 @@
     ]
   },
   "sports": {
-    "updatedAt": "2026-10-31T07:49:13.469368Z",
+    "updatedAt": "2026-10-31T07:53:04.099467Z",
     "source": "ESPN cricket snapshot",
     "url": "https://www.espncricinfo.com/live-cricket-score",
     "matches": [
