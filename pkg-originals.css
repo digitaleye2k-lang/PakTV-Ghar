@@ -7,3 +7,9 @@
 .pkg-originals-host-fallback{display:flex;flex-direction:column;align-items:center;text-align:center;gap:8px;color:#f4daaf;padding:20px}.pkg-originals-host-fallback span{font-size:58px}.pkg-originals-host-fallback strong{font-size:19px}.pkg-originals-host-fallback small{font-size:12px;color:#decba7}
 .pkg-originals-host-label{position:absolute;bottom:8px;left:8px;right:8px;background:#121d21dd;border:1px solid #c5a5768c;border-radius:9px;padding:7px;text-align:center;color:#ffe1a9;font-size:11px;font-weight:900;letter-spacing:.07em}
 @media(max-width:680px){.pkg-originals-deck{grid-template-columns:1fr}.pkg-originals-host{max-width:310px;width:100%;justify-self:center;min-height:180px}.pkg-originals-host video{max-height:240px}}
+
+/* Newly listed recordings are visible but not playable until MP3 upload succeeds. */
+.pkg-original-track.pkg-original-pending{border-style:dashed;border-color:#697a78;background:linear-gradient(145deg,#182e31,#262c34)}
+.pkg-original-track.pkg-original-pending .pkg-original-track-text small{color:#f0cf98}
+.pkg-original-track button:disabled{cursor:not-allowed;color:#cbd2c9;background:#47565a;opacity:.7}
+.pkg-original-track button:disabled:focus-visible{outline:2px solid #f5d5a3}
