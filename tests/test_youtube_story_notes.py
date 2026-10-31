@@ -19,6 +19,17 @@ class YouTubeStoryPreviewTests(unittest.TestCase):
         self.assertNotIn("https://", cleaned)
         self.assertNotIn("#Pakistan", cleaned)
 
+    def test_promotional_preambles_do_not_become_plot_summaries(self):
+        text = ("💚 Love Pakistani dramas? Subscribe to Green Entertainment.\\n"
+                "Thanks for watching Har Pal Geo. Please click here to Subscribe.\\n"
+                "ARY Plus APP: download the latest episodes.\\n"
+                "A daughter challenges a long-held family secret before her wedding.")
+        cleaned = publisher_description(text)
+        self.assertIn("family secret", cleaned)
+        self.assertNotIn("Subscribe", cleaned)
+        self.assertNotIn("ARY Plus", cleaned)
+        self.assertNotIn("Love Pakistani", cleaned)
+
     def test_clean_excerpts_are_length_limited(self):
         cleaned = publisher_description("The family discovers a difficult secret. " * 80)
         self.assertLessEqual(len(cleaned), 400)
