@@ -26,9 +26,6 @@ SOURCES = [
     {'id': 'understand', 'name': 'Understand Al-Quran Official',
      'handle': 'understandquran', 'youtubeChannelId': 'UCdqEwn5bGGbFE0u8UqdHmGQ',
      'language': 'English / Urdu'},
-    {'id': 'arabic101', 'name': 'Arabic101',
-     'handle': '101Arabic', 'youtubeChannelId': 'UCGAzeqJUO0CXpuhUWGdc9lw',
-     'language': 'English'},
     {'id': 'bayyinah', 'name': 'Nouman Ali Khan - Official - Bayyinah',
      'handle': 'bayyinah', 'youtubeChannelId': 'UCRtiU-lpcBSi-ipFKyfIkug',
      'language': 'English / Urdu'}
@@ -39,11 +36,11 @@ SEEDS = [
      'channelId': 'homebased', 'channel': 'Home Based Quran Learning',
      'language': 'Urdu', 'topic': 'basics', 'date': '2024-03-29',
      'source': 'verified official teaching upload'},
-    {'id': 'Qwza5HdLyEE',
-     'title': 'Do you HAVE TO learn Tajweed to recite the Quran? | Arabic101',
-     'channelId': 'arabic101', 'channel': 'Arabic101',
-     'language': 'English', 'topic': 'tajweed', 'date': '2021-02-26',
-     'source': 'verified teacher upload'},
+    {'id': 'p0hiipvTVm0',
+     'title': 'Noorani Qaida Lesson 12 in Urdu / Hindi | Shaddah | Takhti Number 12',
+     'channelId': 'homebased', 'channel': 'Home Based Quran Learning',
+     'language': 'Urdu', 'topic': 'basics', 'date': '2025-02-20',
+     'source': 'verified official teaching upload'},
 ]
 LEARNING = re.compile(
     r'(?i)(qur.?an|quran|tajweed|tajwid|qaida|qaaida|noorani|surah|'
@@ -51,7 +48,7 @@ LEARNING = re.compile(
     r'القرآن|قرآن|قاعدہ|تجوید|سورۃ|سورة|الفاتح|پارہ|تلاوت|'
     r'memoris|memoriz|letter|pronunc|meaning|qira)', re.U)
 UNRELATED = re.compile(
-    r'(?i)(#shorts?\b|\bshorts?\b|\blivestream\b|\blive stream\b|'
+    r'(?i)(#shorts?\b|\bshorts?\b|#?youtubeshorts\b|#?trendingshorts\b|\bshortvideos?\b|\blivestream\b|\blive stream\b|'
     r'\btrailer\b|\bteaser\b|\bpromo\b|\binterview\b|'
     r'\bdonat(?:e|ion)\b|\bfundrais\w*\b)', re.U)
 
@@ -79,9 +76,14 @@ def topic(title):
     text = str(title or '').casefold()
     if not LEARNING.search(text) or UNRELATED.search(text):
         return ''
+    if re.search(r'(surah.{0,15}names? memor|deeper look|quran study|quranic study)', text):
+        return 'meaning'
     if re.search(r'(qaida|qaaida|noorani|alphabet|letters|har[o]+f|'
                  r'harakat|zabar|zer|pesh|قائدہ|قاعدہ|حروف)', text):
         return 'basics'
+    if re.search(r'(surah|sura|recitat|tilawat|پارہ|سورۃ|سورة|تلاوت)',text) and \
+       re.search(r'(ayat|verse|recitat|tilawat|تلاوت)',text):
+        return 'recitation'
     if re.search(r'(tajweed|tajwid|makhar|ikhfa|ghunna|madd|qalqal|'
                  r'shaddah|pronunc|recitation rule|تجوید|غنہ)', text):
         return 'tajweed'
