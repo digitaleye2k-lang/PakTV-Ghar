@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-31",
-  "dailySearches": 24,
+  "dailySearches": 32,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -31572,7 +31572,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5nEvb6b5Mbk/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "YkQE0JUNdOw",
@@ -31588,7 +31588,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/YkQE0JUNdOw/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "ydgrm_GkcV0",
@@ -31604,7 +31604,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ydgrm_GkcV0/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "99Bbeou_qjY",
@@ -31620,7 +31620,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/99Bbeou_qjY/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "cUcAc7BJ8kk",
@@ -31636,7 +31636,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cUcAc7BJ8kk/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "y2XFdg_DecM",
@@ -31652,7 +31652,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/y2XFdg_DecM/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "ijI4zYgnP0o",
@@ -31668,7 +31668,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ijI4zYgnP0o/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "HDUn0tDIkIU",
@@ -31684,7 +31684,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/HDUn0tDIkIU/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "TB67afm9kIQ",
@@ -31700,7 +31700,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TB67afm9kIQ/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "7D33h4Eilnc",
@@ -31716,7 +31716,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7D33h4Eilnc/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "xGyrqCi8EuM",
@@ -31732,7 +31732,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xGyrqCi8EuM/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
+      },
+      {
+        "id": "W06OkpR9Nug",
+        "title": "Udaari Episode 14 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 14,
+        "date": "2026-10-06",
+        "published": "2026-10-06T14:00:03Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/W06OkpR9Nug/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "ACFiGLNsZgU",
@@ -31748,7 +31764,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ACFiGLNsZgU/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
+      },
+      {
+        "id": "wnwh_K-qa8s",
+        "title": "Udaari Episode 11 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 11,
+        "date": "2026-10-03",
+        "published": "2026-10-03T14:00:15Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/wnwh_K-qa8s/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
+      },
+      {
+        "id": "2ZJKWgeYCQc",
+        "title": "Udaari Episode 09 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
+        "episode": 9,
+        "date": "2026-10-01",
+        "published": "2026-10-01T14:00:07Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/2ZJKWgeYCQc/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "Rb4YxCK_Cqs",
@@ -31764,7 +31812,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Rb4YxCK_Cqs/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "thEg4MYecMw",
@@ -31780,7 +31828,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/thEg4MYecMw/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "f2AByMb0SvM",
@@ -31812,7 +31860,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4eF78oT9-3I/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "aw8iyRdRea4",
@@ -31828,7 +31876,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/aw8iyRdRea4/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       }
     ],
     "hum-zindagi-gulzar-hai": [
@@ -31846,7 +31894,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6ldpYcSAxOg/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "zwqhPRe6MMc",
@@ -31862,7 +31910,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zwqhPRe6MMc/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "_lJuaJw7iQk",
@@ -31878,7 +31926,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_lJuaJw7iQk/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "gaAXF5vmP4o",
@@ -31894,7 +31942,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/gaAXF5vmP4o/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "UsPzfquYJdw",
@@ -31910,7 +31958,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UsPzfquYJdw/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "Zet-jmHy4eA",
@@ -31926,7 +31974,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Zet-jmHy4eA/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "1c_AzEbLplU",
@@ -31942,7 +31990,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/1c_AzEbLplU/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "fMj6X4sM5wE",
@@ -31958,7 +32006,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fMj6X4sM5wE/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "K__9X8ibZ_c",
@@ -31974,7 +32022,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/K__9X8ibZ_c/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "5xR5uh8eW0o",
@@ -31990,7 +32038,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5xR5uh8eW0o/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "3csXehNo9hA",
@@ -32006,7 +32054,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3csXehNo9hA/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "_kLg5i_pJ8Y",
@@ -32022,7 +32070,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_kLg5i_pJ8Y/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "ojVnD_Km1JU",
@@ -32038,7 +32086,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ojVnD_Km1JU/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "LfeYzGXBEZA",
@@ -32054,7 +32102,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/LfeYzGXBEZA/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "6P812aieSg0",
@@ -32070,7 +32118,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6P812aieSg0/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "pxaecOWAPJo",
@@ -32086,7 +32134,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pxaecOWAPJo/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "PLXvMHL_Ma8",
@@ -32102,7 +32150,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PLXvMHL_Ma8/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "Or1q_uEVOjQ",
@@ -32118,7 +32166,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Or1q_uEVOjQ/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "RysiDf5GzqU",
@@ -32134,7 +32182,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/RysiDf5GzqU/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "fYa3KT78IAE",
@@ -32150,7 +32198,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fYa3KT78IAE/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "A3wmZnzRGM0",
@@ -32166,7 +32214,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/A3wmZnzRGM0/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "en2A2niAGNU",
@@ -32182,7 +32230,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/en2A2niAGNU/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "QkM-ivU3gmc",
@@ -32198,7 +32246,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QkM-ivU3gmc/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "qxQz63LhBWs",
@@ -32214,7 +32262,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/qxQz63LhBWs/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "dRMcj2K6Bhg",
@@ -32230,7 +32278,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dRMcj2K6Bhg/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       },
       {
         "id": "OrkuogQOKuQ",
@@ -32246,7 +32294,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OrkuogQOKuQ/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+        "checkedAt": "2026-10-31T07:45:18.274230+00:00"
       }
     ],
     "arydigital-hey-fam": [
@@ -32626,6 +32674,6 @@
       }
     ]
   },
-  "cursor": 113,
+  "cursor": 0,
   "apiValidated": true
 }
