@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T17:44:31.075558+05:00",
+  "generatedAt": "2026-11-01T00:03:34.200904+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,13 +17,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 10,
-        "time": "16:30",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-31"
       }
     },
     "harpalgeo-nashtar": {
@@ -42,13 +35,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 26,
-        "time": "20:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-31"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -68,11 +54,11 @@
     },
     "harpalgeo-uswa": {
       "tvToday": {
-        "number": 39,
+        "number": 40,
         "time": "19:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-31"
+        "date": "2026-11-01"
       },
       "lastAttempt": "2026-10-29T03:29:06.365902+05:00",
       "latestUpload": {
@@ -104,13 +90,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 26,
-        "time": "00:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-31"
       }
     },
     "hum-aangan": {
@@ -131,13 +110,6 @@
       "lastAttempt": "2026-10-12T20:10:58.067590+05:00",
       "poster": "https://harpalgeo.tv/assets/uploads/programs/641_9919269_programs.jpg",
       "posterSource": "Official broadcaster",
-      "tvToday": {
-        "number": 19,
-        "time": "21:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-10-31"
-      },
       "latestUpload": {
         "number": 18,
         "id": "dtsZxah_3Bg",
