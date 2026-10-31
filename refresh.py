@@ -87,14 +87,18 @@ def feed(args):
   m=re.search(r'"(?:externalId|channelId)":"(UC[\w-]{22})"',page)
   if not m:return []
   root=ET.fromstring(get('https://www.youtube.com/feeds/videos.xml?'+urlencode({'channel_id':m.group(1)})))
-  ns={'a':'http://www.w3.org/2005/Atom','yt':'http://www.youtube.com/xml/schemas/2015'}
+  ns={'a':'http://www.w3.org/2005/Atom','yt':'http://www.youtube.com/xml/schemas/2015', 'media':'http://search.yahoo.com/mrss/'}
   videos=[]
   for node in root.findall('a:entry',ns):
    vid=node.findtext('yt:videoId','',ns)
    if not re.fullmatch(r'[A-Za-z0-9_-]{11}',vid):continue
    title=unescape(node.findtext('a:title','',ns)); date=node.findtext('a:published','',ns)
    cat='talk' if category=='news' and any(x in title.lower() for x in ('capital talk','off the record','the reporters','kal tak','shahzeb khanzada')) else category
-   videos.append({'id':vid,'title':title,'channel':name,'channelId':cid,'youtubeChannelId':m.group(1),'category':cat,'date':date[:10],'published':date,'description':'Official upload from '+name})
+   description='Official upload from '+name
+   if cat in ('dramas','movies'):
+    from youtube_archive import publisher_description
+    description=publisher_description(node.findtext('media:group/media:description','',ns)) or description
+   videos.append({'id':vid,'title':title,'channel':name,'channelId':cid,'youtubeChannelId':m.group(1),'category':cat,'date':date[:10],'published':date,'description':description})
   return videos
  except Exception as e:
   print('Source unavailable:',cid,type(e).__name__)
