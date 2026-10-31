@@ -27,7 +27,7 @@ jobs:
         run: |
           node --check cookie-consent.js
           node tests/ad-consent.test.js
-          python3 -m py_compile refresh.py show_metadata.py youtube_index.py youtube_archive.py movie_discovery.py channel_sources.py briefing_fetch.py radio_fetch.py
+          python3 -m py_compile refresh.py show_metadata.py youtube_index.py youtube_archive.py movie_discovery.py channel_sources.py briefing_fetch.py radio_fetch.py quran_fetch.py
           node --check home-briefing.js
           python3 tests/check_briefing.py
           python3 tests/check_kids.py
@@ -35,6 +35,8 @@ jobs:
           python3 tests/check_section_banners.py
           python3 tests/check_music.py
           python3 tests/check_apna_pakistan.py
+          python3 tests/check_learn_quran.py
+          python3 -m unittest discover -s tests -p 'test_quran*.py' -v
           python3 tests/check_radio_ads.py
           python3 -m unittest discover -s tests -p 'test_youtube*.py' -v
           node tests/story-insights.test.js
@@ -45,6 +47,8 @@ jobs:
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python3 refresh.py
+      - name: Refresh verified Quran teaching video catalogue
+        run: python3 quran_fetch.py
       - name: Refresh homepage headlines, forecast and markets
         run: python3 briefing_fetch.py
       - name: Refresh Pakistani live radio directory
