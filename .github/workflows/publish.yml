@@ -37,6 +37,7 @@ jobs:
           python3 tests/check_apna_pakistan.py
           python3 tests/check_radio_ads.py
           python3 -m unittest discover -s tests -p 'test_youtube*.py' -v
+          node tests/story-insights.test.js
           python3 tests/check_site_js.py
           python3 tests/check_community.py
           python3 -c "from pathlib import Path; s=Path('index.html').read_text(); assert 'cookie-consent.js' in s and 'privacy.html' in s and '<script src=\"https://pl31793699' not in s"
