@@ -48,6 +48,19 @@ assert "fetch(" in dj and "data/archive.json" in dj
 assert "data/music-catalog.json" in dj and "from music_catalog import build_music_catalog" in refresh
 assert "createElement(\"iframe\")" in dj
 assert "music-hero" in style and ".music-grid" in style
+originals=(root/"pkg-originals.js").read_text(encoding="utf-8")
+originals_style=(root/"pkg-originals.css").read_text(encoding="utf-8")
+for song in ("Sands of Time.mp3","Desert Warrior.mp3","Desert Wants Me Back.mp3"):
+    assert song in originals, "Missing new PKG Original: "+song
+assert originals.count("newFile:true")==3
+assert 'fetch(src(i),{method:"HEAD"' in originals
+assert 'btn.disabled=!ok' in originals
+assert 'VortexDrift' in originals
+assert "pkg-originals.js?v=3" in music
+assert "pkg-originals.css?v=3" in music
+assert "pkg-original-pending" in originals_style
+proc=subprocess.run(["node","--check",str(root/"pkg-originals.js")],capture_output=True,text=True)
+assert proc.returncode==0,proc.stderr[:1400]
 for page in ("kids.html","gupshup.html","waggle-workshop.html"):
     assert "music.html" in (root/page).read_text(encoding="utf-8")
 print("Music page, DJ playlists, verified movie discovery and safe player checks passed.")
