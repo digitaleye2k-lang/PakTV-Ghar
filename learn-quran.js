@@ -94,12 +94,12 @@
     {symbol:'بِ',name:'Bāʼ + kasrah',tip:'Zer: a short i-like vowel.'},
     {symbol:'بُ',name:'Bāʼ + ḍammah',tip:'Pesh: a short u-like vowel.'}
   ];
-  const KNOWN = new Set(['homebased','understand','arabic101','bayyinah']);
+  const KNOWN = new Set(['homebased','understand','bayyinah']);
   const FALLBACK = [
     {id:'7mNmg91pHQU',title:'Noorani Qaida Lesson 1 | Haroof-e-Mufradaat (Arabic Letters)',
      channel:'Home Based Quran Learning',channelId:'homebased',topic:'basics',language:'Urdu',date:'2024-03-29'},
-    {id:'Qwza5HdLyEE',title:'Do you HAVE TO learn Tajweed to recite the Quran? | Arabic101',
-     channel:'Arabic101',channelId:'arabic101',topic:'tajweed',language:'English',date:'2021-02-26'}
+    {id:'p0hiipvTVm0',title:'Noorani Qaida Lesson 12 in Urdu / Hindi | Shaddah | Takhti Number 12',
+     channel:'Home Based Quran Learning',channelId:'homebased',topic:'basics',language:'Urdu',date:'2025-02-20'}
   ];
   const KEY = 'pgh_quran_lessons_v1';
   const $ = id => document.getElementById(id);
@@ -195,6 +195,10 @@
     const host=$('qVideoGrid');host.replaceChildren();
     const list=videos.filter(v=>(videoFilter==='all'||v.topic===videoFilter)
       &&(!videoQuery||(v.title+' '+v.channel+' '+v.language).toLowerCase().includes(videoQuery)));
+    // Put reading foundations first; newer deep-dive talks remain available below.
+    const order={basics:0,tajweed:1,recitation:2,meaning:3,general:4};
+    list.sort((a,b)=>(order[a.topic]??5)-(order[b.topic]??5)||
+      (b.date||'').localeCompare(a.date||''));
     const count=Math.min(list.length,visible);
     list.slice(0,count).forEach(v=>host.append(videoCard(v)));
     $('qVideoMore').hidden=count>=list.length;
