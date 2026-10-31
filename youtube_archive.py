@@ -63,6 +63,34 @@ def video_category(channel, title):
     return channel['category']
 
 
+def publisher_description(text):
+    """Short safe excerpt from the publisher's metadata, without links or promos.
+
+    This is not a transcript. Short excerpts are only used as context for
+    clearly labelled automated watch guides.
+    """
+    text = unescape(str(text or '')).replace('\r', '')
+    lines = []
+    for raw in text.splitlines():
+        line = re.sub(r'https?://\S+|www\.\S+', '', raw).strip()
+        line = re.sub(r'(?<!\w)#[\w\u0600-\u06ff]+', '', line).strip(' -|•:*\t')
+        if not line or len(line) < 27:
+            continue
+        if re.search(r'(?i)^(?:subscribe|follow|like\s+(?:us|our)|click here|watch more|watch now|'
+                     r'download|our (?:social|official)|join us|for business|contact|'
+                     r'(?:cast|starring|director|producer|credits|facebook|instagram|'
+                     r'tiktok|twitter|youtube|hashtags)\s*:)', line):
+            continue
+        if re.search(r'(?i)(?:all rights reserved|copyright ©|follow us on|'
+                     r'please subscribe|notification bell|do not forget to subscribe)', line):
+            continue
+        lines.append(re.sub(r'\s+', ' ', line))
+        if len(' '.join(lines)) >= 370:
+            break
+    result = ' '.join(lines)
+    return result[:400].rsplit(' ', 1)[0].rstrip(' ,.;:-') if len(result) > 400 else result
+
+
 def normalise_video(resource, channel):
     vid = resource.get('id', '')
     snippet = resource.get('snippet') or {}
@@ -109,7 +137,7 @@ def normalise_video(resource, channel):
         'channelId': channel['id'], 'youtubeChannelId': channel['youtubeId'],
         'category': video_category(channel, title), 'genre': channel['genre'],
         'date': published[:10], 'published': published,
-        'description': 'Video from the publisher’s YouTube channel',
+        'description': publisher_description(snippet.get('description', '')) if channel['category'] in ('dramas', 'movies') else 'Video from the publisher’s YouTube channel',
         'durationSeconds': seconds,
         'availableGB': region_viewable(details, 'GB'),
         'availablePK': region_viewable(details, 'PK'),
