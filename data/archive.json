@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T19:05:01.735069+00:00",
+  "generatedAt": "2026-10-31T19:05:52.224727+00:00",
   "dateTimezone": "UTC",
   "cursor": 42,
   "musicCursor": 0,
@@ -9,28 +9,28 @@
       "uploadsId": "UU_vt34wimdCzdkrzVejwX9g",
       "handle": "geonews",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-31T19:05:01.735069+00:00"
+      "lastFetchedAt": "2026-10-31T19:05:52.224727+00:00"
     },
     "ducky": {
       "youtubeId": "UC_c-RTowPbIlzMkIa_O7s6Q",
       "uploadsId": "UU_c-RTowPbIlzMkIa_O7s6Q",
       "handle": "duckybhai",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-31T19:05:01.735069+00:00"
+      "lastFetchedAt": "2026-10-31T19:05:52.224727+00:00"
     },
     "arynews": {
       "youtubeId": "UCMmpLL2ucRHAXbNHiCPyIyg",
       "uploadsId": "UUMmpLL2ucRHAXbNHiCPyIyg",
       "handle": "ArynewsTvofficial",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-31T19:05:01.735069+00:00"
+      "lastFetchedAt": "2026-10-31T19:05:52.224727+00:00"
     },
     "rhs": {
       "youtubeId": "UCgFG7lz7BI5hsNEifevrWSw",
       "uploadsId": "UUgFG7lz7BI5hsNEifevrWSw",
       "handle": "ranahamzasaifrhs",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-31T19:05:01.735069+00:00"
+      "lastFetchedAt": "2026-10-31T19:05:52.224727+00:00"
     },
     "dunya": {
       "youtubeId": "UCG7xCQTxgy93j6r49wl48rw",
@@ -43,7 +43,7 @@
       "uploadsId": "UUQexaAjPn3-1MCE4DmBK3Tg",
       "handle": "villagefoodsecrets",
       "checkedAt": "2026-10-12T17:31:11.783575+00:00",
-      "lastFetchedAt": "2026-10-31T19:05:01.735069+00:00"
+      "lastFetchedAt": "2026-10-31T19:05:52.224727+00:00"
     },
     "geohasna": {
       "youtubeId": "UC6HQ4d3xq9EgSeJgMhc-4AQ",
@@ -246,14 +246,14 @@
       "uploadsId": "UU2PYniNHljOED9xNaMpiMiQ",
       "handle": "ARYFilms",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-31T19:03:17.759334+00:00"
+      "lastFetchedAt": "2026-10-31T19:04:08.089104+00:00"
     },
     "drmmovies": {
       "youtubeId": "UCDmQsP_LTEWPZ2AXS9eWTrQ",
       "uploadsId": "UUDmQsP_LTEWPZ2AXS9eWTrQ",
       "handle": "pakistani_movies",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-10-31T19:03:17.759334+00:00"
+      "lastFetchedAt": "2026-10-31T19:04:08.089104+00:00"
     },
     "pcb": {
       "youtubeId": "UCiWrjBhlICf_L_RK5y6Vrxw",
@@ -295,7 +295,7 @@
       "uploadsId": "UUs2-8ztgdlRqpbpHvfFFPFQ",
       "handle": "wasayhabib",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-10-31T19:03:17.759334+00:00"
+      "lastFetchedAt": "2026-10-31T19:04:08.089104+00:00"
     },
     "kidsland": {
       "youtubeId": "UCZMKZS3L9GfhcFkMyBRoVFg",
@@ -351,21 +351,21 @@
       "uploadsId": "UUMlGWm_woMhMcVYhJu8zsvA",
       "handle": "LollywoodCinema",
       "checkedAt": "2026-10-18T17:28:01.603474+00:00",
-      "lastFetchedAt": "2026-10-31T19:03:17.759334+00:00"
+      "lastFetchedAt": "2026-10-31T19:04:08.089104+00:00"
     },
     "movieboxmovies": {
       "youtubeId": "UC8Artr_jqToYkRKjgjhezmw",
       "uploadsId": "UU8Artr_jqToYkRKjgjhezmw",
       "handle": "movieboxmovies",
       "checkedAt": "2026-10-18T17:28:01.603474+00:00",
-      "lastFetchedAt": "2026-10-31T19:03:17.759334+00:00"
+      "lastFetchedAt": "2026-10-31T19:04:08.089104+00:00"
     },
     "lollywoodclassics": {
       "youtubeId": "UCV-z8APBalmSWNrre62xKxg",
       "uploadsId": "UUV-z8APBalmSWNrre62xKxg",
       "handle": "lollywoodclassics",
       "checkedAt": "2026-10-18T17:48:49.190558+00:00",
-      "lastFetchedAt": "2026-10-31T19:03:17.759334+00:00"
+      "lastFetchedAt": "2026-10-31T19:04:08.089104+00:00"
     },
     "cokestudio": {
       "youtubeId": "UCM1VesJtJ9vTXcMLLr_FfdQ",
@@ -400,42 +400,42 @@
       "uploadsId": "UU6s1zz1-t7rPf-4scKVYD8g",
       "handle": "Jaubi",
       "checkedAt": "2026-10-18T20:04:20.517484+00:00",
-      "lastFetchedAt": "2026-10-31T19:03:17.759334+00:00"
+      "lastFetchedAt": "2026-10-31T19:04:08.089104+00:00"
     },
     "atifs": {
       "youtubeId": "UC3FnOdo2ooBS4TrEcmwUR_Q",
       "uploadsId": "UU3FnOdo2ooBS4TrEcmwUR_Q",
       "handle": "AtifAslamOfficial",
       "checkedAt": "2026-10-18T19:47:58.539938+00:00",
-      "lastFetchedAt": "2026-10-31T19:03:17.759334+00:00"
+      "lastFetchedAt": "2026-10-31T19:04:08.089104+00:00"
     },
     "bayaan": {
       "youtubeId": "UCqOLlRNuWqswf30c9AJC-Cg",
       "uploadsId": "UUqOLlRNuWqswf30c9AJC-Cg",
       "handle": "BayaanOfficial",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-31T19:03:17.759334+00:00"
+      "lastFetchedAt": "2026-10-31T19:04:08.089104+00:00"
     },
     "abdulhannan": {
       "youtubeId": "UCZ1FCXu6uAhE6YkAsKQDGNg",
       "uploadsId": "UUZ1FCXu6uAhE6YkAsKQDGNg",
       "handle": "abdulhannanmusic",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-31T19:03:17.759334+00:00"
+      "lastFetchedAt": "2026-10-31T19:04:08.089104+00:00"
     },
     "hasanraheem": {
       "youtubeId": "UCaQvtCweOs1RpgFIO3-ezMA",
       "uploadsId": "UUaQvtCweOs1RpgFIO3-ezMA",
       "handle": "hasanraheem",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-31T19:05:01.735069+00:00"
+      "lastFetchedAt": "2026-10-31T19:05:52.224727+00:00"
     },
     "natashabaig": {
       "youtubeId": "UCfoMcYBhl7LM23G6tziMEYw",
       "uploadsId": "UUfoMcYBhl7LM23G6tziMEYw",
       "handle": "NatashaBaigOfficial",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-31T19:05:01.735069+00:00"
+      "lastFetchedAt": "2026-10-31T19:05:52.224727+00:00"
     }
   },
   "videos": [
@@ -66644,6 +66644,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "NkUOMXkmWzY",
+      "title": "Maaz Sadaqat’s Rise! Sana Mir on Pakistan’s Consistent Young Talent",
+      "channel": "PTV SPORTS OFFICIAL",
+      "channelId": "ptvsports",
+      "youtubeChannelId": "UCnoH_iEE4tgVznLT97Kb7ig",
+      "category": "sports",
+      "genre": "Sports TV & news",
+      "date": "2026-10-10",
+      "published": "2026-10-10T07:00:32Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 145,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/NkUOMXkmWzY/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
       "id": "-uRX7UTb0aA",
       "title": "Bhooli Bisri Chand Umeedain | Mehdi Hassan | Evergreen Ghazal | EMI Pakistan",
       "channel": "EMI Pakistan",
@@ -79619,24 +79637,6 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/ojpHAF8-IIU/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "I38WjGEzyBQ",
-      "title": "\"Vicky\" - Jaubi",
-      "channel": "Jaubi",
-      "channelId": "jaubi",
-      "youtubeChannelId": "UC6s1zz1-t7rPf-4scKVYD8g",
-      "category": "music",
-      "genre": "Jazz & Fusion",
-      "date": "2016-03-17",
-      "published": "2016-03-17T08:48:43Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 188,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/I38WjGEzyBQ/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     }
   ],
