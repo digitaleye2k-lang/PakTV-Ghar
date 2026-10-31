@@ -1,31 +1,33 @@
 {
-  "generatedAt": "2026-10-31T00:00:00Z",
+  "generatedAt": "2026-10-31T19:10:43.462312+00:00",
   "sources": [
     {
       "id": "homebased",
       "name": "Home Based Quran Learning",
-      "language": "Urdu",
       "handle": "HomeBasedQuranLearning",
-      "youtubeChannelId": "UCY_4DVK8EYAnr4kG5nvn2FQ"
+      "youtubeChannelId": "UCY_4DVK8EYAnr4kG5nvn2FQ",
+      "language": "Urdu"
     },
     {
       "id": "understand",
       "name": "Understand Al-Quran Official",
+      "handle": "understandquran",
       "language": "English / Urdu",
-      "handle": "understandquran"
+      "youtubeChannelId": "UCdqEwn5bGGbFE0u8UqdHmGQ"
     },
     {
       "id": "arabic101",
       "name": "Arabic101",
+      "handle": "101Arabic",
       "language": "English",
-      "handle": "101Arabic"
+      "youtubeChannelId": "UCGAzeqJUO0CXpuhUWGdc9lw"
     },
     {
       "id": "bayyinah",
       "name": "Nouman Ali Khan - Official - Bayyinah",
-      "language": "English / Urdu",
       "handle": "bayyinah",
-      "youtubeChannelId": "UCRtiU-lpcBSi-ipFKyfIkug"
+      "youtubeChannelId": "UCRtiU-lpcBSi-ipFKyfIkug",
+      "language": "English / Urdu"
     }
   ],
   "videos": [
@@ -49,5 +51,12 @@
       "date": "2021-02-26",
       "source": "verified teacher upload"
     }
+  ],
+  "count": 2,
+  "errors": [
+    "homebased: ValueError",
+    "understand: ValueError",
+    "arabic101: ValueError",
+    "bayyinah: ValueError"
   ]
 }
