@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-31T05:54:29.853447+00:00",
+  "generatedAt": "2026-10-31T07:40:54.418520+00:00",
   "source": "verified_publisher_uploads_and_official_starters",
-  "count": 715,
+  "count": 716,
   "publishers": {
     "cokestudio": 125,
     "natashabaig": 93,
@@ -10,7 +10,7 @@
     "abdulhannan": 38,
     "hasanraheem": 66,
     "bayaan": 30,
-    "youngstunners": 40,
+    "youngstunners": 41,
     "jaubi": 1,
     "sajjadali": 1
   },
@@ -8522,6 +8522,18 @@
       "date": "2017-07-22",
       "embeddable": true,
       "durationSeconds": 241
+    },
+    {
+      "id": "h2E2wiz3sug",
+      "title": "Real Talk - Young Stunners - Official Music Video",
+      "channel": "Young Stunners",
+      "channelId": "youngstunners",
+      "category": "music",
+      "genre": "Hip-Hop & Rap",
+      "published": "2017-07-22T17:37:12Z",
+      "date": "2017-07-22",
+      "embeddable": true,
+      "durationSeconds": 229
     },
     {
       "id": "_lyz5gdtOa4",
