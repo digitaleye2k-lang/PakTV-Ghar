@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-31T07:54:45.337815+00:00",
+  "generatedAt": "2026-10-31T12:44:26.522880+00:00",
   "source": "verified_publisher_uploads_and_official_starters",
-  "count": 723,
+  "count": 716,
   "publishers": {
     "cokestudio": 125,
-    "natashabaig": 99,
+    "natashabaig": 93,
     "emipakistan": 253,
     "talhaanjum": 68,
     "abdulhannan": 38,
     "hasanraheem": 66,
     "bayaan": 30,
     "youngstunners": 41,
-    "jaubi": 2,
+    "jaubi": 1,
     "sajjadali": 1
   },
   "videos": [
@@ -8572,78 +8572,6 @@
       "durationSeconds": 187
     },
     {
-      "id": "j0Jc3-dNAcM",
-      "title": "Lambi Judai & Marora | Mai Dhai | Natasha Baig | Pakistani Songs 2017",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-03-27T19:34:50Z",
-      "date": "2017-03-27",
-      "embeddable": true,
-      "durationSeconds": 244
-    },
-    {
-      "id": "qy-Dfa0PPvQ",
-      "title": "Zeb & Haniya | Bibi Sanam Janam | Cover | Natasha Baig",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-03-24T09:38:01Z",
-      "date": "2017-03-24",
-      "embeddable": true,
-      "durationSeconds": 157
-    },
-    {
-      "id": "DZJ1yajZDSs",
-      "title": "Abida Parveen | Zahid ne Mera | Natasha Baig | Tribute | Cover | Live Performance",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-02-23T09:54:53Z",
-      "date": "2017-02-23",
-      "embeddable": true,
-      "durationSeconds": 334
-    },
-    {
-      "id": "xaAUoOhntJY",
-      "title": "Sufi Medley | Natasha Baig",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-02-22T16:59:22Z",
-      "date": "2017-02-22",
-      "embeddable": true,
-      "durationSeconds": 352
-    },
-    {
-      "id": "QP8dFHxb8eU",
-      "title": "Kesaria | Natasha Baig ft. Mai Dhai (New Song 2017)",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-02-22T15:27:12Z",
-      "date": "2017-02-22",
-      "embeddable": true,
-      "durationSeconds": 288
-    },
-    {
-      "id": "VKUAIUZTcPk",
-      "title": "Peera Ho | Cover By Natasha Baig",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-02-22T13:51:42Z",
-      "date": "2017-02-22",
-      "embeddable": true,
-      "durationSeconds": 309
-    },
-    {
       "id": "kw4tT7SCmaY",
       "title": "Afreen Afreen · Rahat Fateh Ali Khan × Momina Mustehsan · Coke Studio Season 9",
       "channel": "Coke Studio Pakistan",
@@ -8653,18 +8581,6 @@
       "published": "2016-08-19T00:00:00Z",
       "date": "2016-08-19",
       "embeddable": true
-    },
-    {
-      "id": "ojpHAF8-IIU",
-      "title": "Raga Shivranjani",
-      "channel": "Jaubi",
-      "channelId": "jaubi",
-      "category": "music",
-      "genre": "Jazz & Fusion",
-      "published": "2016-05-27T07:24:28Z",
-      "date": "2016-05-27",
-      "embeddable": true,
-      "durationSeconds": 368
     },
     {
       "id": "a18py61_F_w",

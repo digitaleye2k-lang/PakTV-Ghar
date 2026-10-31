@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-31",
-  "dailySearches": 72,
+  "dailySearches": 80,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -400,7 +400,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xExSgmC8ia4/hqdefault.jpg",
-        "checkedAt": "2026-10-26T20:35:04.066736+00:00"
+        "checkedAt": "2026-10-31T12:43:55.382413+00:00"
       },
       {
         "id": "Mg5t1PzPYFs",
@@ -448,7 +448,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GscKavABvSU/hqdefault.jpg",
-        "checkedAt": "2026-10-26T20:35:04.066736+00:00"
+        "checkedAt": "2026-10-31T12:43:55.382413+00:00"
       }
     ],
     "arydigital-kafeel": [
@@ -466,7 +466,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iSsowAULHBM/hqdefault.jpg",
-        "checkedAt": "2026-10-27T00:32:45.167263+00:00"
+        "checkedAt": "2026-10-31T12:43:55.382413+00:00"
       }
     ],
     "arydigital-mirza-ki-heer": [
@@ -4891,22 +4891,6 @@
         "checkedAt": "2026-10-23T07:05:57.769095+00:00"
       },
       {
-        "id": "qNMOVHhJPSo",
-        "title": "Burns Road Kay Romeo Juliet | EP 14 (Eng Sub)| Iqra Aziz | Hamza Sohail | 8 April 2024 | ARY Digital",
-        "episode": 14,
-        "date": "2024-04-08",
-        "published": "2024-04-08T18:08:04Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/qNMOVHhJPSo/hqdefault.jpg",
-        "checkedAt": "2026-10-17T09:46:34.605841+00:00"
-      },
-      {
         "id": "iHlHXqcaot0",
         "title": "Burns Road Kay Romeo Juliet | EP 13 (Eng Sub)| Iqra Aziz | Hamza Sohail | 1 April 2024 | ARY Digital",
         "episode": 13,
@@ -4921,22 +4905,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iHlHXqcaot0/hqdefault.jpg",
         "checkedAt": "2026-10-28T20:21:08.019141+00:00"
-      },
-      {
-        "id": "EwVirm0i_PI",
-        "title": "Burns Road Kay Romeo Juliet | EP 12 (Eng Sub)| Iqra Aziz | Hamza Sohail | 25 March 2024 |ARY Digital",
-        "episode": 12,
-        "date": "2024-03-25",
-        "published": "2024-03-25T21:45:43Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/EwVirm0i_PI/hqdefault.jpg",
-        "checkedAt": "2026-10-17T09:46:34.605841+00:00"
       },
       {
         "id": "F0qgKgEgE58",
@@ -5581,22 +5549,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/odqVRUxKkr8/hqdefault.jpg",
         "checkedAt": "2026-10-28T21:16:48.233370+00:00"
-      },
-      {
-        "id": "xqyJuzcvgg4",
-        "title": "Do Bol Episode 26 | Affan Waheed | Hira Salman | English Subtitle | ARY Digital",
-        "episode": 26,
-        "date": "2019-04-30",
-        "published": "2019-04-30T18:00:09Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/xqyJuzcvgg4/hqdefault.jpg",
-        "checkedAt": "2026-10-17T09:46:34.605841+00:00"
       },
       {
         "id": "QSOf8Wr_KIE",
@@ -32978,6 +32930,6 @@
       }
     ]
   },
-  "cursor": 20,
+  "cursor": 24,
   "apiValidated": true
 }
