@@ -20,9 +20,9 @@ class YouTubeStoryPreviewTests(unittest.TestCase):
         self.assertNotIn("#Pakistan", cleaned)
 
     def test_promotional_preambles_do_not_become_plot_summaries(self):
-        text = ("💚 Love Pakistani dramas? Subscribe to Green Entertainment.\\n"
-                "Thanks for watching Har Pal Geo. Please click here to Subscribe.\\n"
-                "ARY Plus APP: download the latest episodes.\\n"
+        text = ("💚 Love Pakistani dramas? Subscribe to Green Entertainment.\n"
+                "Thanks for watching Har Pal Geo. Please click here to Subscribe.\n"
+                "ARY Plus APP: download the latest episodes.\n"
                 "A daughter challenges a long-held family secret before her wedding.")
         cleaned = publisher_description(text)
         self.assertIn("family secret", cleaned)
