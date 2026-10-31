@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-31T07:46:52.664655+00:00",
+  "generatedAt": "2026-10-31T07:48:52.329842+00:00",
   "dateTimezone": "UTC",
-  "cursor": 75,
-  "musicCursor": 12,
+  "cursor": 4,
+  "musicCursor": 0,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -190,7 +190,7 @@
       "uploadsId": "UUc1BSASBDsE_XYOTxD9SNmA",
       "handle": "IjazAnsariFoodSecrets",
       "checkedAt": "2026-10-12T17:34:39.493333+00:00",
-      "lastFetchedAt": "2026-10-29T01:02:10.483966+00:00"
+      "lastFetchedAt": "2026-10-31T07:48:52.329842+00:00"
     },
     "greentv": {
       "youtubeId": "UCF2ltLX1dnPa6-L1paPaMzw",
@@ -372,21 +372,21 @@
       "uploadsId": "UUM1VesJtJ9vTXcMLLr_FfdQ",
       "handle": "cokestudio",
       "checkedAt": "2026-10-18T19:46:24.753696+00:00",
-      "lastFetchedAt": "2026-10-31T07:45:21.758594+00:00"
+      "lastFetchedAt": "2026-10-31T07:48:52.329842+00:00"
     },
     "emipakistan": {
       "youtubeId": "UC52h_LCatoUs6ycLjT9V8bQ",
       "uploadsId": "UU52h_LCatoUs6ycLjT9V8bQ",
       "handle": "EMIPakistanOfficial",
       "checkedAt": "2026-10-18T20:11:10.576823+00:00",
-      "lastFetchedAt": "2026-10-31T07:45:21.758594+00:00"
+      "lastFetchedAt": "2026-10-31T07:48:52.329842+00:00"
     },
     "talhaanjum": {
       "youtubeId": "UCaHBioELm9IzGYhg70Z1BKg",
       "uploadsId": "UUaHBioELm9IzGYhg70Z1BKg",
       "handle": "talhaanjum",
       "checkedAt": "2026-10-18T19:46:24.753696+00:00",
-      "lastFetchedAt": "2026-10-31T07:45:21.758594+00:00"
+      "lastFetchedAt": "2026-10-31T07:48:52.329842+00:00"
     },
     "youngstunners": {
       "youtubeId": "UCaHpJ-SkCR604NNBnjM9thQ",
@@ -428,14 +428,14 @@
       "uploadsId": "UUaQvtCweOs1RpgFIO3-ezMA",
       "handle": "hasanraheem",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-31T07:44:22.394890+00:00"
+      "lastFetchedAt": "2026-10-31T07:48:52.329842+00:00"
     },
     "natashabaig": {
       "youtubeId": "UCfoMcYBhl7LM23G6tziMEYw",
       "uploadsId": "UUfoMcYBhl7LM23G6tziMEYw",
       "handle": "NatashaBaigOfficial",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-31T07:44:22.394890+00:00"
+      "lastFetchedAt": "2026-10-31T07:48:52.329842+00:00"
     }
   },
   "videos": [
@@ -13811,6 +13811,24 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/un0JrsCafFk/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "FXJKsf91_iw",
+      "title": "Kitchen Tips And Tricks By ijaz Ansari | Cough Flu Cold And Painful Throat Remedy At Home |",
+      "channel": "Ijaz Ansari Food Secrets",
+      "channelId": "ijazfood",
+      "youtubeChannelId": "UCc1BSASBDsE_XYOTxD9SNmA",
+      "category": "vloggers",
+      "genre": "Food & recipes",
+      "date": "2026-10-30",
+      "published": "2026-10-30T02:00:07Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 303,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/FXJKsf91_iw/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     },
     {
@@ -66590,24 +66608,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "2Ej5Xn0sCU8",
-      "title": "Bachay Aur Baray Episode 131 | Kids Madani Channel",
-      "channel": "Kids Madani Channel",
-      "channelId": "kidsmadani",
-      "youtubeChannelId": "UCsNSt0fxMniSH9XHaNneZfw",
-      "category": "kids",
-      "genre": "Learning & values",
-      "date": "2026-10-10",
-      "published": "2026-10-10T05:00:30Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 2426,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/2Ej5Xn0sCU8/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "-uRX7UTb0aA",
       "title": "Bhooli Bisri Chand Umeedain | Mehdi Hassan | Evergreen Ghazal | EMI Pakistan",
       "channel": "EMI Pakistan",
@@ -79640,6 +79640,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Mekaal Hasan Band: channel unavailable; Rahat Fateh Ali Khan: channel unavailable; Siddique Jaan: channel unavailable; HUM TV Comedy: channel unavailable",
+  "lastError": "Arooj Aftab: channel unavailable; Zamad Baig: channel unavailable; Hassan & Roshaan: channel unavailable; Kashmir The Band: channel unavailable; Mazaaq Raat: channel unavailable; NESCAFÉ Basement: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }

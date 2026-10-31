@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-31",
-  "dailySearches": 40,
+  "dailySearches": 48,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -54,7 +54,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0Yif1LS-bT4/hqdefault.jpg",
-        "checkedAt": "2026-10-25T23:20:05.142413+00:00"
+        "checkedAt": "2026-10-31T07:48:49.234695+00:00"
       },
       {
         "id": "OgVDeLaWZwU",
@@ -70,7 +70,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OgVDeLaWZwU/hqdefault.jpg",
-        "checkedAt": "2026-10-25T23:20:05.142413+00:00"
+        "checkedAt": "2026-10-31T07:48:49.234695+00:00"
       }
     ],
     "harpalgeo-mohabbat": [
@@ -32417,6 +32417,38 @@
     ],
     "harpalgeo-bano": [
       {
+        "id": "4B2QagkEoEc",
+        "title": "Bano Episode 18 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 30th October 2026 | HAR PAL GEO",
+        "episode": 18,
+        "date": "2026-10-30",
+        "published": "2026-10-30T17:00:38Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/4B2QagkEoEc/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:48:49.234695+00:00"
+      },
+      {
+        "id": "DzBTOZ0YbpE",
+        "title": "Bano Episode 17 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 17,
+        "date": "2026-10-30",
+        "published": "2026-10-30T11:00:31Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/DzBTOZ0YbpE/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:48:49.234695+00:00"
+      },
+      {
         "id": "Ft8N6fW0NDw",
         "title": "Bano Episode 13 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 25th October 2026 | HAR PAL GEO",
         "episode": 13,
@@ -32482,6 +32514,54 @@
       }
     ],
     "harpalgeo-khafa": [
+      {
+        "id": "NI6yEADlI2E",
+        "title": "Khafa Episode 26 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 26,
+        "date": "2026-10-30",
+        "published": "2026-10-30T08:00:17Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/NI6yEADlI2E/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:48:49.234695+00:00"
+      },
+      {
+        "id": "BNZa-ugq95k",
+        "title": "Khafa Episode 26 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 26,
+        "date": "2026-10-29",
+        "published": "2026-10-29T20:30:35Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/BNZa-ugq95k/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:48:49.234695+00:00"
+      },
+      {
+        "id": "bsbjnSpZ3xc",
+        "title": "Khafa Episode 26 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 29th Oct 2026 | HAR PAL GEO",
+        "episode": 26,
+        "date": "2026-10-29",
+        "published": "2026-10-29T16:00:34Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/bsbjnSpZ3xc/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:48:49.234695+00:00"
+      },
       {
         "id": "_mgVD-alezg",
         "title": "Khafa Episode 24 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
@@ -32722,6 +32802,6 @@
       }
     ]
   },
-  "cursor": 4,
+  "cursor": 8,
   "apiValidated": true
 }

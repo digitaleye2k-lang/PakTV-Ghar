@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-31T07:47:07.565424Z",
+  "generatedAt": "2026-10-31T07:49:11.071191Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-31T07:47:07.565424Z",
+      "updatedAt": "2026-10-31T07:49:11.071191Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -62,7 +62,7 @@
       ]
     },
     "world": {
-      "updatedAt": "2026-10-31T07:47:07.565424Z",
+      "updatedAt": "2026-10-31T07:49:11.071191Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -70,12 +70,6 @@
           "source": "CBS Sports",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zNkxqYzV2Q25EZHAxaUZ3b1FWT0RNbEVwenZZaEVkY0FBUDJiN0Y0RXpiM3B5bzdaUENfV0tfcDYzT0dzbHJSVDhZd2gtcnlyQW4wVHp1eUMyai1mbmk1Q0V2cHRpQ2I4WXhfeldIcndSTDNROUJn?oc=5",
           "published": "2026-10-31T06:22:30Z"
-        },
-        {
-          "title": "‘Criminal Minds’ ending after 20 seasons as cast breaks silence over abrupt cancellation - Page Six",
-          "source": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbzI1YjBPbGNOT3BVZGRSd0pYZlhpTUt6bS0wUnNYQWZPcFlHQko3VTdYNlpBaWI1Q0xGV1p6TmVkaGo1dEdyaXdQTjcxLTlLaWh0QTFRWTZfaGRuVGhCX0k2UzNfVXVySG52c2hNUHJYN1JqS2NIUzJDTFBjdGZNajF0MlRQWVRGR1k4QzlsajFDMTUtSVBZSmREWTZJRXdubE1DNG5TazFtQVBhUFUwVHB5VDFwSjg4QkhNdF92VmwzMUU1SkdXZWx0VTFteFJrU3dldjBEY2FXUQ?oc=5",
-          "published": "2026-10-31T06:20:54Z"
         },
         {
           "title": "Court Rejects Latest Trump Effort to Impound California Ballots - The New York Times",
@@ -102,6 +96,12 @@
           "published": "2026-10-31T03:44:49Z"
         },
         {
+          "title": "Mark Carney: Canada has 'learned we are overdependent on the US' - DW.com",
+          "source": "DW.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa3V5emFUa0pSaW1YeWhfTW83SzFibFVxR3ktUVhoRWZZLXZ2MnVjTERTOVFNWThiOV9FR09ZYUZoRmpfYjZyTGNDSFlOZXVacEdpVS1YcmFZTkxlcGFCOFVzdU9GQWpLV1hSVzBkeXZEOS1Sc3ZMMWRNWUVHZXFMcGMwM1d6aGtGTXBzY0ozalZqLTF2YkVjU3JB0gGaAUFVX3lxTFB0aXVKRDNtMDhDWW9KVjRiWFBBeUlxdTd1RWhMSWt2YWUzN0xaNkJuUGlkTGtTYnR2aEZHWFFfUHNKbENOdExVYXRrU0o2OXpER1pUaFZhdGNqMDV5S0hLSUdIb3BoQXM1Z05ZcGFraE5BZjg0RnRiMXhwai1raWd1VjBPdElFZGYzRmlFZk1paEVEREN0eDlhTGc?oc=5",
+          "published": "2026-10-31T03:39:15Z"
+        },
+        {
           "title": "Burnham 'open' to calls for slavery apology but not reparations - BBC",
           "source": "BBC",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qSlVjRTlfczZDQW4ycWlJdi1UdmxFd1E4WU1TajdEcnBEd2N4WlIxOEgyd1lhS29zODBXd3RDRU9KQTlOMnAwN2VOWU1SZ0lXWlJDV0FJbXVsR0k?oc=5",
@@ -124,7 +124,7 @@
   },
   "newsUrdu": {
     "pakistan": {
-      "updatedAt": "2026-10-31T07:47:07.565424Z",
+      "updatedAt": "2026-10-31T07:49:11.071191Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -186,7 +186,7 @@
     "world": {}
   },
   "weather": {
-    "updatedAt": "2026-10-31T07:47:07.565424Z",
+    "updatedAt": "2026-10-31T07:49:11.071191Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -225,7 +225,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-31T07:47:07.565424Z",
+    "updatedAt": "2026-10-31T07:49:11.071191Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
@@ -251,7 +251,7 @@
     ]
   },
   "sports": {
-    "updatedAt": "2026-10-31T07:47:09.238781Z",
+    "updatedAt": "2026-10-31T07:49:13.469368Z",
     "source": "ESPN cricket snapshot",
     "url": "https://www.espncricinfo.com/live-cricket-score",
     "matches": [
