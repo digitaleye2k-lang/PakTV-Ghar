@@ -67,3 +67,28 @@
 .creator-genres{display:flex;gap:8px;flex-wrap:wrap;margin:18px 0 20px}
 @media(max-width:700px){.archive-toolbar{padding:13px}.archive-filters{grid-template-columns:1fr}.archive-field input,.archive-field select{font-size:16px}}
 
+
+
+/* Automatic story previews and transparent, metadata-based watch reviews. */
+.pgh-story-insight{margin:12px 0 0;border:1px solid #617081;border-radius:13px;background:linear-gradient(145deg,#212f45,#1c273b);color:#e7edf6;overflow:hidden;min-width:0;box-shadow:0 3px 12px #0002}
+.pgh-story-insight>summary{list-style:none;display:flex;align-items:center;gap:7px;cursor:pointer;color:#ffdb9b;font-weight:850;font-size:12px;line-height:1.45;padding:12px 13px;user-select:none}
+.pgh-story-insight>summary::-webkit-details-marker{display:none}
+.pgh-story-insight>summary::after{content:"⌄";margin-left:auto;font-size:17px;transition:transform .18s}
+.pgh-story-insight[open]>summary::after{transform:rotate(180deg)}
+.pgh-story-insight>summary:hover{background:#ffffff0b}
+.pgh-story-auto{font-size:9px;letter-spacing:.09em;color:#adf2d2;padding:3px 6px;border-radius:7px;border:1px solid #599883;background:#225345}
+.pgh-story-content{padding:15px;border-top:1px solid #65748e55;display:grid;gap:13px}
+.pgh-story-content>div:not(.pgh-story-source){padding:0 0 10px;border-bottom:1px solid #66778938}
+.pgh-story-content strong{display:block;color:#f8d6a1;font-size:12px;font-weight:900;letter-spacing:.01em}
+.pgh-story-content p{margin:5px 0 0;line-height:1.7;color:#d5deed;font-size:12px;overflow-wrap:anywhere;white-space:normal}
+.pgh-story-source{font-size:10px;line-height:1.6;color:#9bacbf}
+.pgh-story-source a{display:inline-block;color:#fbd79b;text-decoration:underline;text-underline-offset:3px;font-weight:750}
+.pgh-story-insight-player{margin:0 24px 24px;background:linear-gradient(130deg,#213747,#21273c);border-color:#78978f}
+.pgh-story-insight-player>summary{font-size:15px;padding:15px 18px}
+.pgh-story-insight-player .pgh-story-content{grid-template-columns:repeat(2,minmax(0,1fr));gap:19px;padding:18px 20px}
+.pgh-story-insight-player .pgh-story-content>div:not(.pgh-story-source){padding:0;border:0}
+.pgh-story-insight-player .pgh-story-source{grid-column:1/-1;border-top:1px solid #65758e55;padding-top:10px}
+.episode-results>.pgh-story-insight{margin:-3px 8px 8px 80px}
+.episode-results>.pgh-story-insight>summary{font-size:11px;padding:10px 12px}
+@media(max-width:720px){.pgh-story-insight-player{margin:0 13px 16px}.pgh-story-insight-player .pgh-story-content{grid-template-columns:1fr;padding:14px}.pgh-story-insight-player .pgh-story-source{grid-column:auto}.episode-results>.pgh-story-insight{margin:0 2px 9px}.pgh-story-insight>summary{font-size:11px}}
+@media(prefers-reduced-motion:reduce){.pgh-story-insight>summary::after{transition:none}}
