@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-31T07:45:51.262560Z",
+  "generatedAt": "2026-10-31T07:47:07.565424Z",
   "news": {
     "pakistan": {
-      "updatedAt": "2026-10-31T07:45:51.262560Z",
+      "updatedAt": "2026-10-31T07:47:07.565424Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -62,7 +62,7 @@
       ]
     },
     "world": {
-      "updatedAt": "2026-10-31T07:45:51.262560Z",
+      "updatedAt": "2026-10-31T07:47:07.565424Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -96,10 +96,10 @@
           "published": "2026-10-31T04:11:38Z"
         },
         {
-          "title": "Mark Carney: Canada has 'learned we are overdependent on the US' - DW.com",
-          "source": "DW.com",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa3V5emFUa0pSaW1YeWhfTW83SzFibFVxR3ktUVhoRWZZLXZ2MnVjTERTOVFNWThiOV9FR09ZYUZoRmpfYjZyTGNDSFlOZXVacEdpVS1YcmFZTkxlcGFCOFVzdU9GQWpLV1hSVzBkeXZEOS1Sc3ZMMWRNWUVHZXFMcGMwM1d6aGtGTXBzY0ozalZqLTF2YkVjU3JB0gGaAUFVX3lxTFB0aXVKRDNtMDhDWW9KVjRiWFBBeUlxdTd1RWhMSWt2YWUzN0xaNkJuUGlkTGtTYnR2aEZHWFFfUHNKbENOdExVYXRrU0o2OXpER1pUaFZhdGNqMDV5S0hLSUdIb3BoQXM1Z05ZcGFraE5BZjg0RnRiMXhwai1raWd1VjBPdElFZGYzRmlFZk1paEVEREN0eDlhTGc?oc=5",
-          "published": "2026-10-31T03:39:15Z"
+          "title": "US execution survivor Christa Pike says she is now in ‘constant pain’ - Al Jazeera",
+          "source": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlRxTDViY09kV0dWZ0VOd3c4ZE1YcjFybmhCUEJtUHo0UEV6dHFIejBXbGZHTmoyMjBaYndjc05wekFyZXBocm9KRGs5QXVEM0wxa09ERkJsMkVyMkNwQnJEZnJ0U2hkVExuTFFVM3Z0YV9UZnZFLVBmWFdxTjhIZ09pNC1jREpEUTNWYmxZMUhsMHFTN043RkdJZ0g2bEZ4ajJ4SGRWSdIBrAFBVV95cUxPMlVaTlZacTVTR0VIM1JMUnMwOUVBNWVnZ2dxanBkZlNWZ0s4cFRWSF9jbHZtTUctNUkweUZMYkJ3aFNqRG9VLTFKZks3QWxqQkFYSHFNYXlrcjJvRV9UVWIxN29GeWUzMm5tQlNUXzlHeGNuMG1ucktzNHNDRm1DUV9xNzlhMDBhcGkwWmJaUU44ZmxrYXNKSUVKeGV2TGZEeFVpMXowV2Q3WVB2?oc=5",
+          "published": "2026-10-31T03:44:49Z"
         },
         {
           "title": "Burnham 'open' to calls for slavery apology but not reparations - BBC",
@@ -124,7 +124,7 @@
   },
   "newsUrdu": {
     "pakistan": {
-      "updatedAt": "2026-10-31T07:45:51.262560Z",
+      "updatedAt": "2026-10-31T07:47:07.565424Z",
       "source": "Google News RSS",
       "items": [
         {
@@ -186,7 +186,7 @@
     "world": {}
   },
   "weather": {
-    "updatedAt": "2026-10-31T07:45:51.262560Z",
+    "updatedAt": "2026-10-31T07:47:07.565424Z",
     "source": "MET Norway / Yr (CC BY 4.0)",
     "url": "https://www.met.no/en",
     "cities": [
@@ -225,7 +225,7 @@
     ]
   },
   "markets": {
-    "updatedAt": "2026-10-31T07:45:51.262560Z",
+    "updatedAt": "2026-10-31T07:47:07.565424Z",
     "source": "Yahoo Finance (delayed)",
     "quotes": [
       {
@@ -251,7 +251,7 @@
     ]
   },
   "sports": {
-    "updatedAt": "2026-10-31T07:45:52.545996Z",
+    "updatedAt": "2026-10-31T07:47:09.238781Z",
     "source": "ESPN cricket snapshot",
     "url": "https://www.espncricinfo.com/live-cricket-score",
     "matches": [

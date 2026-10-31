@@ -154,12 +154,20 @@
         "date": "2026-10-30"
       },
       {
+        "id": "Ysq02aKxOHU",
         "title": "Izzat Episode 41 | 30 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
         "episode": 41,
-        "id": "Ysq02aKxOHU",
+        "date": "2026-10-30",
+        "published": "2026-10-30T15:00:02Z",
         "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
         "kind": "youtube",
-        "date": "2026-10-30"
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/Ysq02aKxOHU/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:46:49.102465+00:00"
       },
       {
         "title": "Choro Rutba Ka Hath🔥😡 | Izzat Episode 40",
@@ -220,14 +228,6 @@
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-10-31"
-      },
-      {
-        "title": "Rutba Episode 5 | Hiba Bukhari | Best Scene | ARY Digital",
-        "episode": 5,
-        "id": "g_OVQO0E7yk",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-30"
       }
     ]
   },
@@ -242,12 +242,20 @@
         "date": "2026-10-30"
       },
       {
+        "id": "dIssXLq1KLQ",
         "title": "Dar-e-Nijaat Episode 26 | 30 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
         "episode": 26,
-        "id": "dIssXLq1KLQ",
+        "date": "2026-10-30",
+        "published": "2026-10-30T16:00:01Z",
         "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
         "kind": "youtube",
-        "date": "2026-10-30"
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/dIssXLq1KLQ/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:46:49.102465+00:00"
       },
       {
         "id": "X6qfF2t9fmQ",
@@ -285,6 +293,22 @@
   },
   "arydigital-hey-fam": {
     "episodes": [
+      {
+        "id": "ClodGn_RSLo",
+        "title": "Hey Fam | EP 14 | 29 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
+        "episode": 14,
+        "date": "2026-10-29",
+        "published": "2026-10-29T16:00:38Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/ClodGn_RSLo/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:46:49.102465+00:00"
+      },
       {
         "title": "Apni Be Izzati Main Bardasht Nahi Kar Sakti | Hey Fam Episode 12 | Dua Zahra | ARY Digital",
         "episode": 12,
@@ -709,14 +733,6 @@
         "title": "Bano Episode 17 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
         "episode": 17,
         "id": "NGRToQCTM1E",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-30"
-      },
-      {
-        "title": "Bano Episode 17 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 17,
-        "id": "DzBTOZ0YbpE",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-30"

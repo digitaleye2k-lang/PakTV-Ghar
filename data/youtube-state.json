@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-31",
-  "dailySearches": 32,
+  "dailySearches": 40,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -32299,6 +32299,22 @@
     ],
     "arydigital-hey-fam": [
       {
+        "id": "ClodGn_RSLo",
+        "title": "Hey Fam | EP 14 | 29 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
+        "episode": 14,
+        "date": "2026-10-29",
+        "published": "2026-10-29T16:00:38Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/ClodGn_RSLo/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:46:49.102465+00:00"
+      },
+      {
         "id": "ueuIIA0VN5k",
         "title": "Is Mushkil Waqt Mai Tumhare Baba Tumhare Saath Hain | Hey Fam Episode 5 | ARY Digital",
         "episode": 5,
@@ -32316,6 +32332,22 @@
       }
     ],
     "arydigital-izzat": [
+      {
+        "id": "Ysq02aKxOHU",
+        "title": "Izzat Episode 41 | 30 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 41,
+        "date": "2026-10-30",
+        "published": "2026-10-30T15:00:02Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/Ysq02aKxOHU/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:46:49.102465+00:00"
+      },
       {
         "id": "Thu_M83L190",
         "title": "Izzat Episode 32 | 21 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
@@ -32573,6 +32605,22 @@
     ],
     "arydigital-dar-e-nijaat": [
       {
+        "id": "dIssXLq1KLQ",
+        "title": "Dar-e-Nijaat Episode 26 | 30 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
+        "episode": 26,
+        "date": "2026-10-30",
+        "published": "2026-10-30T16:00:01Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/dIssXLq1KLQ/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:46:49.102465+00:00"
+      },
+      {
         "id": "X6qfF2t9fmQ",
         "title": "Dar-e-Nijaat Episode 25 | 24 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
         "episode": 25,
@@ -32674,6 +32722,6 @@
       }
     ]
   },
-  "cursor": 0,
+  "cursor": 4,
   "apiValidated": true
 }
