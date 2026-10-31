@@ -20,6 +20,7 @@ class QuranSourcesTests(unittest.TestCase):
         self.assertEqual(topic('Understanding the Quran word by word'), 'meaning')
         self.assertEqual(topic('Cooking a delicious biryani'), '')
         self.assertEqual(topic('Quran learning #shorts'), '')
+        self.assertEqual(topic('Quran Tajweed #youtubeshorts'), '')
 
     def test_feed_checks_channel_identity_and_filters_unrelated_uploads(self):
         source=SOURCES[0]
@@ -55,7 +56,7 @@ class QuranSourcesTests(unittest.TestCase):
     def test_build_keeps_verified_starters_when_feeds_fail(self,_resolve):
         def fail(_):raise OSError('Network unavailable')
         result=build({},getter=fail)
-        self.assertEqual(len(result['sources']),4)
+        self.assertEqual(len(result['sources']),3)
         self.assertTrue(result['errors'])
         self.assertTrue({x['id'] for x in SEEDS}.issubset({x['id'] for x in result['videos']}))
 
