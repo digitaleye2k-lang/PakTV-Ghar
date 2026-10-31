@@ -10,7 +10,7 @@ home=(p/'index.html').read_text(encoding='utf-8')
 catalogue=json.loads((p/'data/quran-videos.json').read_text(encoding='utf-8'))
 for value in ('id="qLessonList"','id="qLessonDetail"','id="qVideoGrid"','id="qVideoModal"',
               'id="qProgressBar"','quran.com/1','quran.com/112','quran.com/113',
-              'quran.com/114','learn-quran.js?v=1','cookie-consent.js'):
+              'quran.com/114','learn-quran.js?v=2','cookie-consent.js'):
     assert value in page,value
 for value in ('pgh_quran_lessons_v1','quran-videos.json','youtube-nocookie.com',
               'Noorani Qaida','Tajweed','Al-Fatihah','Makharij'):
