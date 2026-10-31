@@ -199,7 +199,12 @@ function autoStoryNotes(video){
   const related=!original&&typeof pickVideo==='function'?pickVideo(v.id):null;
   const alt=String(related?.description||'').trim();
   const candidate=original||(!fallback.test(alt)&&alt.length>=45?alt:'');
-  let description=candidate.replace(/https?:\/\/\S+|www\.\S+/gi,'').replace(/#[\p{L}\p{N}_-]+/gu,'').replace(/\s+/g,' ').trim();
+  // Older saved publisher descriptions can contain ad copy. Never present
+  // subscription, app-download or social prompts as the story synopsis.
+  const publisherPromo=/subscribe|thanks for watching|love pakistani dramas|please click|hit the bell|notification bell|ary plus|download (?:the|our|ary|app)|watch the latest|watch more|follow (?:us|our)|facebook|instagram|tiktok|join our|like and share/i;
+  let description=candidate.split(/(?<=[.!?؟])\s+|[\r\n]+/).map(part=>
+    part.replace(/https?:\/\/\S+|www\.\S+/gi,'').replace(/#[\p{L}\p{N}_-]+/gu,'').replace(/\s+/g,' ').trim()
+  ).filter(part=>part.length>=36&&!publisherPromo.test(part)).slice(0,3).join(' ').trim();
   if(description.length>340)description=description.slice(0,340).replace(/\s+\S*$/,'').trim()+'…';
   const numMatch=title.match(/\b(?:ep(?:isode)?\.?)\s*(?:no\.?\s*)?[#:-]?\s*0*(\d{1,4})\b/i);
   const episode=numMatch?Number(numMatch[1]):null;
