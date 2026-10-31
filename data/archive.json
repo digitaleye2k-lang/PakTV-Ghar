@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-31T07:53:38.242901+00:00",
+  "generatedAt": "2026-10-31T07:54:30.860145+00:00",
   "dateTimezone": "UTC",
-  "cursor": 18,
-  "musicCursor": 12,
+  "cursor": 24,
+  "musicCursor": 0,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -302,35 +302,35 @@
       "uploadsId": "UUZMKZS3L9GfhcFkMyBRoVFg",
       "handle": "kidslandofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-30T01:07:18.225978+00:00"
+      "lastFetchedAt": "2026-10-31T07:54:30.860145+00:00"
     },
     "kidsmadani": {
       "youtubeId": "UCsNSt0fxMniSH9XHaNneZfw",
       "uploadsId": "UUsNSt0fxMniSH9XHaNneZfw",
       "handle": "kidsmadanichannel",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-30T01:07:18.225978+00:00"
+      "lastFetchedAt": "2026-10-31T07:54:30.860145+00:00"
     },
     "salamkids": {
       "youtubeId": "UC_4moTH4Pmatx5ogzCLxUtA",
       "uploadsId": "UU_4moTH4Pmatx5ogzCLxUtA",
       "handle": "salamkidstvofficial",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-30T10:11:01.338042+00:00"
+      "lastFetchedAt": "2026-10-31T07:54:30.860145+00:00"
     },
     "urdukidsstudio": {
       "youtubeId": "UCxqHh4UJsNqiwk_aaMI9HBg",
       "uploadsId": "UUxqHh4UJsNqiwk_aaMI9HBg",
       "handle": "urdukidsstudio",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-30T10:11:01.338042+00:00"
+      "lastFetchedAt": "2026-10-31T07:54:30.860145+00:00"
     },
     "shirazi": {
       "youtubeId": "UC8YddK8DXYyry_LWY4NksgA",
       "uploadsId": "UU8YddK8DXYyry_LWY4NksgA",
       "handle": "shirazi786",
       "checkedAt": "2026-10-18T16:03:45.945024+00:00",
-      "lastFetchedAt": "2026-10-30T10:11:01.338042+00:00"
+      "lastFetchedAt": "2026-10-31T07:54:30.860145+00:00"
     },
     "haimparishay": {
       "youtubeId": "UC6jgnXHUJ4eDjrvHJNtAUYg",
@@ -344,7 +344,7 @@
       "uploadsId": "UUDf7-AujhJJkMF1Cg5iT-Pw",
       "handle": "TheWaggleWorkshop",
       "checkedAt": "2026-10-18T16:55:18.549048+00:00",
-      "lastFetchedAt": "2026-10-30T01:07:18.225978+00:00"
+      "lastFetchedAt": "2026-10-31T07:54:30.860145+00:00"
     },
     "lollywoodcinema": {
       "youtubeId": "UCMlGWm_woMhMcVYhJu8zsvA",
@@ -428,14 +428,14 @@
       "uploadsId": "UUaQvtCweOs1RpgFIO3-ezMA",
       "handle": "hasanraheem",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-31T07:53:38.242901+00:00"
+      "lastFetchedAt": "2026-10-31T07:54:30.860145+00:00"
     },
     "natashabaig": {
       "youtubeId": "UCfoMcYBhl7LM23G6tziMEYw",
       "uploadsId": "UUfoMcYBhl7LM23G6tziMEYw",
       "handle": "NatashaBaigOfficial",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-31T07:53:38.242901+00:00"
+      "lastFetchedAt": "2026-10-31T07:54:30.860145+00:00"
     }
   },
   "videos": [
@@ -9161,7 +9161,7 @@
       "genre": "Classic Pakistani Movies",
       "date": "2026-10-30",
       "published": "2026-10-30T14:00:06Z",
-      "description": "Video from the publisher’s YouTube channel",
+      "description": "Gernail Singh (1987) ek classic Pakistani Punjabi action film hai, jismein legendary Sultan Rahi ke saath Anjuman, Mustafa Qureshi, Chakori, Kaifee aur Nanha jaise popular artists nazar aate hain. Film 1947 ke Partition ke background mein bravery, sacrifice, conflict aur watan se mohabbat ki kahani ko action aur drama ke saath pesh karti hai.Film ka direction Yunus Malik ne kiya tha aur music",
       "durationSeconds": 7567,
       "availableGB": true,
       "availablePK": true,
@@ -66842,6 +66842,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "dLJhDxIDxZc",
+      "title": "MANGA GUJAR (1990) Full Movie | Sultan Rahi | Anjuman | Official Pakistani Movie| Classic Film",
+      "channel": "MovieboxMovies",
+      "channelId": "movieboxmovies",
+      "youtubeChannelId": "UC8Artr_jqToYkRKjgjhezmw",
+      "category": "movies",
+      "genre": "Classic Pakistani Movies",
+      "date": "2026-09-25",
+      "published": "2026-09-25T14:00:20Z",
+      "description": "Makhan Gujjar (1990), a powerful Pakistani Punjabi movie filled with action, drama, emotions, dushmani aur zabardast entertainment. Film mein Sultan Rahi apne damdaar andaaz ke saath powerful action aur memorable performance dete nazar aate hain. Yeh movie Punjabi cinema ke action aur drama ka zabardast combination hai, jisme strong characters, intense situations aur entertaining moments dekhne",
+      "durationSeconds": 9273,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/dLJhDxIDxZc/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
+    },
+    {
       "id": "8Ix-ekSoEdY",
       "title": "Rangeen | Coke Studio Nu.WAV | Hasan Raheem x Izzchughtai x Umair",
       "channel": "Coke Studio Pakistan",
@@ -74942,6 +74960,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "dRHQijfLymE",
+      "title": "Phool Mere Gulshan Ka (1974) – Mohammad Ali, Zeba, Waheed Murad, Nisho | Full Pakistani Movie",
+      "channel": "LollywoodCinema",
+      "channelId": "lollywoodcinema",
+      "youtubeChannelId": "UCMlGWm_woMhMcVYhJu8zsvA",
+      "category": "movies",
+      "genre": "Classic Pakistani Movies",
+      "date": "2022-10-06",
+      "published": "2022-10-06T08:00:11Z",
+      "description": "Movie Description/Synopsis : Phool Mere Gulshan Ka is a classic Pakistani romantic drama from 1974, featuring the legendary stars Mohammad Ali, Zeba, Waheed Murad, and Nisho. This timeless film is celebrated for its emotional storytelling, memorable dialogues, and melodious songs that remain popular even today. The movie revolves around love, family values, and emotional conflicts, portraying the",
+      "durationSeconds": 7637,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/dRHQijfLymE/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
+    },
+    {
       "id": "dhegiuF1mCw",
       "title": "Coke Studio | A Kind of Magic | Real Magic Journey | Karakoram",
       "channel": "Coke Studio Pakistan",
@@ -79352,6 +79388,24 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
+      "id": "ManZs01zkhE",
+      "title": "AFSANA ZINDAGI KA (1972) - MOHAMMAD ALI & ZEBA - OFFICIAL FULL PAKISTANI MOVIE",
+      "channel": "MovieboxMovies",
+      "channelId": "movieboxmovies",
+      "youtubeChannelId": "UC8Artr_jqToYkRKjgjhezmw",
+      "category": "movies",
+      "genre": "Classic Pakistani Movies",
+      "date": "2017-08-18",
+      "published": "2017-08-18T08:00:00Z",
+      "description": "FULL PAKISTANI MOVIES IN BEST QUALITY AVAILABLE ANY REQUESTS OR QUESTIONS PLEASE EMAIL",
+      "durationSeconds": 7594,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/ManZs01zkhE/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
+    },
+    {
       "id": "n8R-W9Lsrzk",
       "title": "NOHookUps - Young Stunners - Official Audio",
       "channel": "Young Stunners",
@@ -79584,62 +79638,8 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/ojpHAF8-IIU/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "I38WjGEzyBQ",
-      "title": "\"Vicky\" - Jaubi",
-      "channel": "Jaubi",
-      "channelId": "jaubi",
-      "youtubeChannelId": "UC6s1zz1-t7rPf-4scKVYD8g",
-      "category": "music",
-      "genre": "Jazz & Fusion",
-      "date": "2016-03-17",
-      "published": "2016-03-17T08:48:43Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 188,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/I38WjGEzyBQ/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "mzASNgboXc8",
-      "title": "Bayaan - Farda (Official Video)",
-      "channel": "Bayaan",
-      "channelId": "bayaan",
-      "youtubeChannelId": "UCqOLlRNuWqswf30c9AJC-Cg",
-      "category": "music",
-      "genre": "Indie & Alternative",
-      "date": "2015-12-06",
-      "published": "2015-12-06T15:35:46Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 271,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/mzASNgboXc8/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "umsrQSA2iOM",
-      "title": "Bayaan - Nahin Milta (Official Video)",
-      "channel": "Bayaan",
-      "channelId": "bayaan",
-      "youtubeChannelId": "UCqOLlRNuWqswf30c9AJC-Cg",
-      "category": "music",
-      "genre": "Indie & Alternative",
-      "date": "2015-05-17",
-      "published": "2015-05-17T08:02:58Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 303,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/umsrQSA2iOM/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "Mekaal Hasan Band: channel unavailable; Rahat Fateh Ali Khan: channel unavailable; Arooj Aftab: channel unavailable; Zamad Baig: channel unavailable; Hassan & Roshaan: channel unavailable; Kashmir The Band: channel unavailable",
+  "lastError": "Arooj Aftab: channel unavailable; Zamad Baig: channel unavailable; Hassan & Roshaan: channel unavailable; Kashmir The Band: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }

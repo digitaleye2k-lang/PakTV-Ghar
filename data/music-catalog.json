@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-31T07:53:42.872963+00:00",
+  "generatedAt": "2026-10-31T07:54:45.337815+00:00",
   "source": "verified_publisher_uploads_and_official_starters",
-  "count": 726,
+  "count": 723,
   "publishers": {
     "cokestudio": 125,
     "natashabaig": 99,
@@ -9,9 +9,9 @@
     "talhaanjum": 68,
     "abdulhannan": 38,
     "hasanraheem": 66,
-    "bayaan": 32,
+    "bayaan": 30,
     "youngstunners": 41,
-    "jaubi": 3,
+    "jaubi": 2,
     "sajjadali": 1
   },
   "videos": [
@@ -8667,30 +8667,6 @@
       "durationSeconds": 368
     },
     {
-      "id": "I38WjGEzyBQ",
-      "title": "\"Vicky\" - Jaubi",
-      "channel": "Jaubi",
-      "channelId": "jaubi",
-      "category": "music",
-      "genre": "Jazz & Fusion",
-      "published": "2016-03-17T08:48:43Z",
-      "date": "2016-03-17",
-      "embeddable": true,
-      "durationSeconds": 188
-    },
-    {
-      "id": "mzASNgboXc8",
-      "title": "Bayaan - Farda (Official Video)",
-      "channel": "Bayaan",
-      "channelId": "bayaan",
-      "category": "music",
-      "genre": "Indie & Alternative",
-      "published": "2015-12-06T15:35:46Z",
-      "date": "2015-12-06",
-      "embeddable": true,
-      "durationSeconds": 271
-    },
-    {
       "id": "a18py61_F_w",
       "title": "Tajdar-e-Haram · Atif Aslam · Coke Studio Season 8",
       "channel": "Coke Studio Pakistan",
@@ -8700,18 +8676,6 @@
       "published": "2015-08-15T00:00:00Z",
       "date": "2015-08-15",
       "embeddable": true
-    },
-    {
-      "id": "umsrQSA2iOM",
-      "title": "Bayaan - Nahin Milta (Official Video)",
-      "channel": "Bayaan",
-      "channelId": "bayaan",
-      "category": "music",
-      "genre": "Indie & Alternative",
-      "published": "2015-05-17T08:02:58Z",
-      "date": "2015-05-17",
-      "embeddable": true,
-      "durationSeconds": 303
     },
     {
       "id": "FkLFz2RzRhQ",

@@ -102,12 +102,20 @@
   "hum-tark-e-tamanna": {
     "episodes": [
       {
+        "id": "ANxuTaGPnXg",
         "title": "Tark-e-Tamanna - Episode 17 [Eng Sub] - 30th Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
         "episode": 17,
-        "id": "ANxuTaGPnXg",
+        "date": "2026-10-30",
+        "published": "2026-10-30T17:00:11Z",
         "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
         "kind": "youtube",
-        "date": "2026-10-30"
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ANxuTaGPnXg/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:54:27.409378+00:00"
       },
       {
         "title": "Tark-e-Tamanna - Episode 16 Highlights | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
@@ -346,12 +354,20 @@
   "arydigital-lagan-lagi": {
     "episodes": [
       {
+        "id": "bML_jtAagkU",
         "title": "Lagan Lagi Episode 7 | 30 Oct 206 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
         "episode": 7,
-        "id": "bML_jtAagkU",
+        "date": "2026-10-30",
+        "published": "2026-10-30T17:00:20Z",
         "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
         "kind": "youtube",
-        "date": "2026-10-30"
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/bML_jtAagkU/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:54:27.409378+00:00"
       },
       {
         "title": "Lagan Lagi Episode 7 | 30 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
@@ -362,8 +378,56 @@
         "date": "2026-10-30"
       },
       {
+        "id": "CT4JkKXAaaE",
+        "title": "Lagan Lagi Episode 6 | 29 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 6,
+        "date": "2026-10-29",
+        "published": "2026-10-29T17:00:13Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/CT4JkKXAaaE/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:54:27.409378+00:00"
+      },
+      {
+        "id": "htgungjj2BA",
+        "title": "Lagan Lagi Episode 5 | 28 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 5,
+        "date": "2026-10-28",
+        "published": "2026-10-28T17:00:40Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/htgungjj2BA/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:54:27.409378+00:00"
+      },
+      {
+        "id": "7oJzEda7bsI",
+        "title": "Lagan Lagi Episode 4 | 27 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB",
+        "episode": 4,
+        "date": "2026-10-27",
+        "published": "2026-10-27T17:00:10Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/7oJzEda7bsI/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:54:27.409378+00:00"
+      },
+      {
         "id": "K4EnMsNvtjQ",
-        "title": "Lagan Lagi Episode 3 | 26 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "title": "Lagan Lagi Ep 3 | 26 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB | ARY Digital",
         "episode": 3,
         "date": "2026-10-26",
         "published": "2026-10-26T17:00:08Z",
@@ -372,10 +436,10 @@
         "sourceType": "youtube_api",
         "kind": "youtube",
         "embeddable": true,
-        "availableGB": false,
+        "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/K4EnMsNvtjQ/hqdefault.jpg",
-        "checkedAt": "2026-10-26T20:35:04.066736+00:00"
+        "checkedAt": "2026-10-31T07:54:27.409378+00:00"
       },
       {
         "id": "tJe5Cuncg8Q",
@@ -391,7 +455,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/tJe5Cuncg8Q/hqdefault.jpg",
-        "checkedAt": "2026-10-26T20:35:04.066736+00:00"
+        "checkedAt": "2026-10-31T07:54:27.409378+00:00"
       },
       {
         "id": "zptfzGBbndw",
@@ -407,7 +471,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zptfzGBbndw/hqdefault.jpg",
-        "checkedAt": "2026-10-26T20:35:04.066736+00:00"
+        "checkedAt": "2026-10-31T07:54:27.409378+00:00"
       }
     ]
   },
