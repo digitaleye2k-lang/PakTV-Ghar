@@ -48,6 +48,8 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python3 refresh.py
       - name: Refresh verified Quran teaching video catalogue
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python3 quran_fetch.py
       - name: Refresh homepage headlines, forecast and markets
         run: python3 briefing_fetch.py
