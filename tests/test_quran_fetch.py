@@ -1,7 +1,7 @@
 """Offline checks for the vetted Quran-learning RSS collector."""
 import unittest
 from unittest.mock import patch
-from quran_fetch import SOURCES, SEEDS, build, topic, parse_feed, validate_record
+from quran_fetch import SOURCES, SEEDS, build, topic, parse_feed, validate_record, parse_api_items
 
 CHANNEL='UCY_4DVK8EYAnr4kG5nvn2FQ'
 XML='''<?xml version="1.0" encoding="UTF-8"?>
@@ -37,6 +37,19 @@ class QuranSourcesTests(unittest.TestCase):
         self.assertIsNone(validate_record({
             'id':'not_a_valid_id','channelId':'homebased',
             'title':'Noorani Qaida Lesson 1'},approved))
+
+    def test_api_only_includes_exact_official_channel_ownership(self):
+        source=SOURCES[0]
+        valid={'snippet':{'channelId':CHANNEL,'videoOwnerChannelId':CHANNEL,
+               'title':'Learn Quran Noorani Qaida Lesson 2'},
+               'contentDetails':{'videoId':'7mNmg91pHQU','videoPublishedAt':'2026-10-31T10:00:00Z'}}
+        impersonation={'snippet':{'channelId':CHANNEL,
+                      'videoOwnerChannelId':'UC'+'x'*22,
+                      'title':'Noorani Qaida Lesson 2'},
+                      'contentDetails':{'videoId':'Qwza5HdLyEE'}}
+        result=parse_api_items([valid,impersonation],source,CHANNEL)
+        self.assertEqual(len(result),1)
+        self.assertEqual(result[0]['topic'],'basics')
 
     @patch('quran_fetch.channel_id',side_effect=lambda source,old=None: source.get('youtubeChannelId') or CHANNEL)
     def test_build_keeps_verified_starters_when_feeds_fail(self,_resolve):
