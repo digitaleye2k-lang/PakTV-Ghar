@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-31T07:52:45.895904+00:00",
+  "generatedAt": "2026-10-31T07:53:38.242901+00:00",
   "dateTimezone": "UTC",
-  "cursor": 12,
-  "musicCursor": 6,
+  "cursor": 18,
+  "musicCursor": 12,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -400,42 +400,42 @@
       "uploadsId": "UU6s1zz1-t7rPf-4scKVYD8g",
       "handle": "Jaubi",
       "checkedAt": "2026-10-18T20:04:20.517484+00:00",
-      "lastFetchedAt": "2026-10-31T07:52:45.895904+00:00"
+      "lastFetchedAt": "2026-10-31T07:53:38.242901+00:00"
     },
     "atifs": {
       "youtubeId": "UC3FnOdo2ooBS4TrEcmwUR_Q",
       "uploadsId": "UU3FnOdo2ooBS4TrEcmwUR_Q",
       "handle": "AtifAslamOfficial",
       "checkedAt": "2026-10-18T19:47:58.539938+00:00",
-      "lastFetchedAt": "2026-10-31T07:52:45.895904+00:00"
+      "lastFetchedAt": "2026-10-31T07:53:38.242901+00:00"
     },
     "bayaan": {
       "youtubeId": "UCqOLlRNuWqswf30c9AJC-Cg",
       "uploadsId": "UUqOLlRNuWqswf30c9AJC-Cg",
       "handle": "BayaanOfficial",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-31T07:52:45.895904+00:00"
+      "lastFetchedAt": "2026-10-31T07:53:38.242901+00:00"
     },
     "abdulhannan": {
       "youtubeId": "UCZ1FCXu6uAhE6YkAsKQDGNg",
       "uploadsId": "UUZ1FCXu6uAhE6YkAsKQDGNg",
       "handle": "abdulhannanmusic",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-31T07:52:45.895904+00:00"
+      "lastFetchedAt": "2026-10-31T07:53:38.242901+00:00"
     },
     "hasanraheem": {
       "youtubeId": "UCaQvtCweOs1RpgFIO3-ezMA",
       "uploadsId": "UUaQvtCweOs1RpgFIO3-ezMA",
       "handle": "hasanraheem",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-31T07:48:52.329842+00:00"
+      "lastFetchedAt": "2026-10-31T07:53:38.242901+00:00"
     },
     "natashabaig": {
       "youtubeId": "UCfoMcYBhl7LM23G6tziMEYw",
       "uploadsId": "UUfoMcYBhl7LM23G6tziMEYw",
       "handle": "NatashaBaigOfficial",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-10-31T07:48:52.329842+00:00"
+      "lastFetchedAt": "2026-10-31T07:53:38.242901+00:00"
     }
   },
   "videos": [
@@ -79640,6 +79640,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "NESCAFÉ Basement: channel unavailable; Sajjad Ali: channel unavailable; Mekaal Hasan Band: channel unavailable; Rahat Fateh Ali Khan: channel unavailable",
+  "lastError": "Mekaal Hasan Band: channel unavailable; Rahat Fateh Ali Khan: channel unavailable; Arooj Aftab: channel unavailable; Zamad Baig: channel unavailable; Hassan & Roshaan: channel unavailable; Kashmir The Band: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }

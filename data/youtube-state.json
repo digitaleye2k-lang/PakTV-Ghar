@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-10-31",
-  "dailySearches": 56,
+  "dailySearches": 64,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -336,6 +336,22 @@
       }
     ],
     "hum-khushi": [
+      {
+        "id": "dReHjLpsE08",
+        "title": "Khushi - Episode 48 - [ENG SUB] 30th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 48,
+        "date": "2026-10-30",
+        "published": "2026-10-30T15:00:35Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/dReHjLpsE08/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:53:35.110882+00:00"
+      },
       {
         "id": "xWes3sjnCTQ",
         "title": "Khushi - Episode 43 - [ENG SUB] 25th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
@@ -32882,6 +32898,6 @@
       }
     ]
   },
-  "cursor": 12,
+  "cursor": 16,
   "apiValidated": true
 }
