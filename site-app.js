@@ -188,7 +188,50 @@ function navMarkup(item,mobile=false){const active=state.page===item.id;const la
 function renderNav(){el('sideNav').innerHTML=NAV.map(n=>navMarkup(n)).join('');el('mobileNav').innerHTML=NAV.map(n=>navMarkup(n,true)).join('')}
 function sectionHead(title,sub='',all='',label='See all →'){return `<div class="section-head"><div><h2>${escapeHTML(title)}</h2>${sub?`<p class="subtitle">${escapeHTML(sub)}</p>`:''}</div>${all?`<button class="text-link" type="button" data-nav="${all}">${escapeHTML(label)}</button>`:''}</div>`}
 function rateAnchor(kind,item){return '<div class="pgh-rating" data-rating-kind="'+escapeHTML(kind)+'" data-rating-item="'+escapeHTML(item)+'" aria-label="Community five-star rating"><span class="pgh-rating-wait">☆ Rate this title</span></div>'}
-function videoCard(v){const saved=state.favoriteVideos.includes(v.id);return `<article class="video-card"><div class="video-thumb"><a href="${videoURL(v.id)}" data-video="${escapeHTML(v.id)}" aria-label="Watch ${escapeHTML(v.title)} here"><img src="${thumb(v.id)}" alt="" loading="lazy" onerror="this.style.opacity='.15'"><span class="thumb-play" aria-hidden="true">▶</span><span class="source-tag">${escapeHTML(v.channel)}</span></a></div><div class="video-body"><h3>${escapeHTML(v.title)}</h3><div class="video-meta"><span>${escapeHTML(v.date||'Watch now')}</span><button type="button" data-video-fav="${escapeHTML(v.id)}" class="${saved?'saved':''}" title="${saved?'Remove favourite':'Add favourite'}" aria-label="${saved?'Remove from':'Add to'} favourites">${saved?'♥':'♡'}</button></div>${v.category==='movies'?rateAnchor('movie',v.id):''}</div></article>`}
+function autoStoryNotes(video){
+  const v=video||{};
+  const movie=v.category==='movies';
+  const title=String(v.title||'Untitled video').replace(/\s+/g,' ').trim().slice(0,240);
+  const channel=String(v.channel||'the official publisher').trim().slice(0,90);
+  const raw=String(v.description||'').trim();
+  const fallback=/^(?:video from the publisher|official upload from|verified broadcaster-channel upload|found on the official channel|watching from the original youtube channel)/i;
+  const original=(!fallback.test(raw)&&raw.length>=45)?raw:'';
+  const related=!original&&typeof pickVideo==='function'?pickVideo(v.id):null;
+  const alt=String(related?.description||'').trim();
+  const candidate=original||(!fallback.test(alt)&&alt.length>=45?alt:'');
+  let description=candidate.replace(/https?:\/\/\S+|www\.\S+/gi,'').replace(/#[\p{L}\p{N}_-]+/gu,'').replace(/\s+/g,' ').trim();
+  if(description.length>340)description=description.slice(0,340).replace(/\s+\S*$/,'').trim()+'…';
+  const numMatch=title.match(/\b(?:ep(?:isode)?\.?)\s*(?:no\.?\s*)?[#:-]?\s*0*(\d{1,4})\b/i);
+  const episode=numMatch?Number(numMatch[1]):null;
+  const mins=Number(v.durationSeconds)>0?Math.max(1,Math.round(v.durationSeconds/60)):null;
+  const time=mins?`${Math.floor(mins/60)?`${Math.floor(mins/60)}h `:''}${mins%60}m`:'unconfirmed runtime';
+  const isClip=/\b(?:highlights?|best scenes?|teaser|promo|shorts?|clips?)\b/i.test(title)||(mins!==null&&mins<15);
+  const label=title.replace(/\s*#[\p{L}\p{N}_-]+/gu,'').replace(/\s*(?:\||｜)\s*(?:HUM TV|ARY DIGITAL|HAR PAL GEO).*$/i,'').trim().slice(0,148);
+  const kind=movie?'movie':episode?`episode ${episode}`:isClip?'drama clip':'drama upload';
+  let summary;
+  if(description){
+    summary=`Based on the official publisher's description: ${description}`;
+  }else{
+    summary=`${channel} lists “${label}” as a ${kind}. The indexed upload does not currently include a verified story synopsis, so specific plot events and the ending cannot be responsibly summarised.`;
+  }
+  let review;
+  if(movie){
+    review=mins&&mins>=60?`This is a movie-length upload (${time}) suitable for a full film session. The title and publisher information help you decide what to open, but they do not establish whether the acting, direction or ending are good.`:`This is listed as a film by ${channel}. Check its official running time and description before choosing it for movie night; the indexed metadata cannot support a critical rating.`;
+  }else if(isClip){
+    review=`This appears to be a shorter scene or highlight${mins?' ('+time+')':''}. It can give a quick taste of the programme, but it should not be mistaken for a complete episode or a full story review.`;
+  }else if(episode){
+    review=`This looks like episode ${episode}${mins?' ('+time+')':''} from the original broadcaster. Watching episodes in order is the best way to follow the developing story; performances and plot quality cannot be judged reliably from a listing alone.`;
+  }else{
+    review=`An official drama upload${mins?' ('+time+')':''} from ${channel}. Use the video title and description to decide whether this is a full episode, scene or compilation; this watch guide is not an independent critical review.`;
+  }
+  return {summary,review,origin:description?'Official YouTube description, title and runtime':'Official YouTube title, channel and available runtime'};
+}
+function storyInsightMarkup(v,player=false){
+  const kind=v.category==='movies'?'Film':'Episode';
+  const notes=autoStoryNotes(v);
+  return `<details class="pgh-story-insight${player?' pgh-story-insight-player':''}"${player?' open':''}><summary><span>✨</span> ${kind} summary &amp; review <span class="pgh-story-auto">AUTO</span></summary><div class="pgh-story-content"><div><strong>📖 Story summary</strong><p>${escapeHTML(notes.summary)}</p></div><div><strong>⭐ What to expect · watch review</strong><p>${escapeHTML(notes.review)}</p></div><div class="pgh-story-source">Automatically generated from ${escapeHTML(notes.origin.toLowerCase())}. Not a transcript-based recap, independently watched review or viewer rating. <a href="${videoURL(v.id)}" target="_blank" rel="noopener noreferrer">Check the original listing ↗</a></div></div></details>`;
+}
+function videoCard(v){const saved=state.favoriteVideos.includes(v.id);return `<article class="video-card"><div class="video-thumb"><a href="${videoURL(v.id)}" data-video="${escapeHTML(v.id)}" aria-label="Watch ${escapeHTML(v.title)} here"><img src="${thumb(v.id)}" alt="" loading="lazy" onerror="this.style.opacity='.15'"><span class="thumb-play" aria-hidden="true">▶</span><span class="source-tag">${escapeHTML(v.channel)}</span></a></div><div class="video-body"><h3>${escapeHTML(v.title)}</h3><div class="video-meta"><span>${escapeHTML(v.date||'Watch now')}</span><button type="button" data-video-fav="${escapeHTML(v.id)}" class="${saved?'saved':''}" title="${saved?'Remove favourite':'Add favourite'}" aria-label="${saved?'Remove from':'Add to'} favourites">${saved?'♥':'♡'}</button></div>${v.category==='movies'?rateAnchor('movie',v.id):''}${(v.category==='dramas'||v.category==='movies')?storyInsightMarkup(v):''}</div></article>`}
 function channelCard(c){const fav=state.favoriteChannels.includes(c.id);return `<article class="channel-card"><div class="channel-top"><div class="channel-avatar" style="--avatar-bg:linear-gradient(135deg,${c.colors[0]},${c.colors[1]})">${escapeHTML(c.initials)}</div><div><h3>${escapeHTML(c.name)}</h3><span>Official YouTube source</span></div></div><p class="channel-desc">${escapeHTML(c.description)}</p><div class="channel-actions"><button class="small-button accent" type="button" data-channel="${c.id}">▶ Videos</button><a class="small-button" href="${channelURL(c)}" target="_blank" rel="noopener noreferrer" aria-label="Open ${escapeHTML(c.name)} on YouTube">↗ YouTube</a><button type="button" class="small-button pin ${fav?'saved':''}" data-channel-fav="${c.id}" title="${fav?'Unpin channel':'Pin favourite channel'}" aria-label="${fav?'Unpin':'Pin'} ${escapeHTML(c.name)}">${fav?'♥':'♡'}</button></div></article>`}
 function showCard(show){const channel=fromChannel(show.channelId);return `<article class="channel-card"><div class="channel-top"><div class="channel-avatar" style="--avatar-bg:linear-gradient(135deg,#ae7a67,#595491)">${show.icon}</div><div><h3>${escapeHTML(show.name)}</h3><span>${escapeHTML(show.channel)}</span></div></div><p class="channel-desc">${escapeHTML(show.description)}</p><div class="channel-actions"><button class="small-button accent" data-show="${show.id}" type="button">⌕ Find episodes</button>${channel?`<a class="small-button" href="${channelURL(channel)}" target="_blank" rel="noopener noreferrer">↗ Channel</a>`:''}</div></article>`}
 // Featured drama carousel uses artwork already indexed from official TV sources.
@@ -957,7 +1000,7 @@ function setDramaPlayerAmbience(v){
   document.head.append(css);
  }
 }
-function watchVideo(v,resume=false){setDramaPlayerAmbience(v);state.currentVideo=v;state.resumeVideoId=resume?v.id:null;state.history=[v.id,...state.history.filter(x=>x!==v.id)].slice(0,25);safeSet('pgh_history',state.history);state.historyData={...(state.historyData||{}),[v.id]:{id:v.id,title:v.title,channel:v.channel,channelId:v.channelId,category:v.category,date:v.date,description:v.description}};state.historyData=Object.fromEntries(state.history.map(id=>[id,state.historyData[id]]).filter(pair=>pair[1]));safeSet('pgh_history_data',state.historyData);el('playerTitle').textContent=v.title;el('playerSource').textContent=v.channel;el('playerSubtitle').textContent=v.description||'Watching from the original YouTube channel';el('openYouTube').href=videoURL(v.id);el('playerFav').textContent=state.favoriteVideos.includes(v.id)?'♥ Saved':'♡ Save';el('playbackNotice').hidden=true;el('playerOverlay').hidden=false;document.body.style.overflow='hidden';const box=el('videoBox');box.innerHTML='';const frame=document.createElement('iframe');frame.id='youtubeFrame';frame.src=`https://www.youtube-nocookie.com/embed/${encodeURIComponent(v.id)}?autoplay=1&rel=0&enablejsapi=1&origin=${encodeURIComponent(window.location.origin||'')}`;frame.title=v.title;frame.allow='autoplay; encrypted-media; picture-in-picture; fullscreen';frame.allowFullscreen=true;frame.referrerPolicy='strict-origin-when-cross-origin';box.appendChild(frame);loadPlayerApi();if(window.YT?.Player)installIframePlayer(v.id);el('closePlayer').focus()}
+function watchVideo(v,resume=false){setDramaPlayerAmbience(v);state.currentVideo=v;state.resumeVideoId=resume?v.id:null;state.history=[v.id,...state.history.filter(x=>x!==v.id)].slice(0,25);safeSet('pgh_history',state.history);state.historyData={...(state.historyData||{}),[v.id]:{id:v.id,title:v.title,channel:v.channel,channelId:v.channelId,category:v.category,date:v.date,description:v.description}};state.historyData=Object.fromEntries(state.history.map(id=>[id,state.historyData[id]]).filter(pair=>pair[1]));safeSet('pgh_history_data',state.historyData);el('playerTitle').textContent=v.title;el('playerSource').textContent=v.channel;el('playerSubtitle').textContent=v.description||'Watching from the original YouTube channel';el('openYouTube').href=videoURL(v.id);el('playerFav').textContent=state.favoriteVideos.includes(v.id)?'♥ Saved':'♡ Save';el('playbackNotice').hidden=true;el('playerOverlay').hidden=false;document.body.style.overflow='hidden';const box=el('videoBox');box.innerHTML='';const frame=document.createElement('iframe');frame.id='youtubeFrame';frame.src=`https://www.youtube-nocookie.com/embed/${encodeURIComponent(v.id)}?autoplay=1&rel=0&enablejsapi=1&origin=${encodeURIComponent(window.location.origin||'')}`;frame.title=v.title;frame.allow='autoplay; encrypted-media; picture-in-picture; fullscreen';frame.allowFullscreen=true;frame.referrerPolicy='strict-origin-when-cross-origin';box.appendChild(frame);loadPlayerApi();if(window.YT?.Player)installIframePlayer(v.id);const previousInsight=el('playerOverlay').querySelector('.pgh-story-insight-player');if(previousInsight)previousInsight.remove();if(v.category==='dramas'||v.category==='movies'){const temp=document.createElement('div');temp.innerHTML=storyInsightMarkup(v,true);const details=el('playerOverlay').querySelector('.player-details');if(details&&temp.firstElementChild)details.insertAdjacentElement('afterend',temp.firstElementChild)}el('closePlayer').focus()}
 function closeVideo(){saveWatchPosition();state.resumeVideoId=null;if(state.ytPlayer){try{state.ytPlayer.destroy()}catch{}state.ytPlayer=null}el('videoBox').innerHTML='';el('playerOverlay').hidden=true;document.body.style.overflow='';state.currentVideo=null}
 function openChannelVideos(c){state.archiveChannel=c.id;state.archiveCategory='all';state.archivePeriod='all';state.archiveQuery='';state.archiveLimit=30;navTo('archive')}
 function searchShow(show){state.query=show.name;el('searchInput').value=show.name;navTo('search');doSearch(show.query,show.channelId,true)}
@@ -1159,7 +1202,7 @@ function renderShowPage(){
       '<span>'+escapeHTML(e.title)+'</span>'+
       (e.id?'<button class="small-button accent" type="button" data-episode="'+i+'">▶ Play</button>':
         '<a class="small-button accent" href="'+escapeHTML(e.url||'#')+'" target="_blank" rel="noopener noreferrer">↗ Official site</a>')+
-    '</div>').join('')+'</div>':'';
+    '</div>'+((show.type==='drama'&&e.id)?storyInsightMarkup({...(pickVideo(e.id)||{}),id:e.id,title:e.title,channel:e.source||network,category:'dramas',date:e.date}):'')).join('')+'</div>':'';
   return header+
     '<section class="pgh-featured-rating" aria-label="Rate this programme"><h2>⭐ Viewer ratings</h2>'+
     rateAnchor('show',show.id)+'</section>'+
