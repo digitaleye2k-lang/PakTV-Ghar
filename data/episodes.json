@@ -1,18 +1,102 @@
 {
+  "hum-khushi": {
+    "episodes": [
+      {
+        "title": "Khushi - Episode 49 [Eng Sub] - 31st Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 49,
+        "id": "ToMdpQ7yrtI",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Khushi - Episode 48 Highlights - 30th Oct 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
+        "episode": 48,
+        "id": "R9pyOUMOthY",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-31"
+      },
+      {
+        "id": "dReHjLpsE08",
+        "title": "Khushi - Episode 48 - [ENG SUB] 30th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 48,
+        "date": "2026-10-30",
+        "published": "2026-10-30T15:00:35Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/dReHjLpsE08/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:53:35.110882+00:00"
+      },
+      {
+        "id": "xWes3sjnCTQ",
+        "title": "Khushi - Episode 43 - [ENG SUB] 25th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 43,
+        "date": "2026-10-25",
+        "published": "2026-10-25T15:00:15Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/xWes3sjnCTQ/hqdefault.jpg",
+        "checkedAt": "2026-10-26T13:14:49.600449+00:00"
+      },
+      {
+        "id": "L2jN_CghoOM",
+        "title": "Khushi - Episode 39 - [Eng Sub] 21st Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 39,
+        "date": "2026-10-21",
+        "published": "2026-10-21T15:00:03Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/L2jN_CghoOM/hqdefault.jpg",
+        "checkedAt": "2026-10-22T07:08:51.571087+00:00"
+      }
+    ]
+  },
   "hum-aangan": {
     "episodes": [
       {
-        "title": "Aangan - Episode 09 - [ENG SUB] 30th Oct 2026 [Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain]",
-        "episode": 9,
-        "id": "rc7YotkEBGA",
+        "title": "Aangan - Episode 10 - [ENG SUB] 31st Oct 2026 [Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain]",
+        "episode": 10,
+        "id": "g6yRDFUaTcM",
         "source": "HUM TV",
         "kind": "youtube",
-        "date": "2026-10-30"
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Aangan - Episode 09 - Flashback [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
+        "episode": 9,
+        "id": "ztTR8AfGvBM",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-31"
       }
     ]
   },
   "hum-tark-e-tamanna": {
     "episodes": [
+      {
+        "title": "Tark-e-Tamanna - Episode 17 Highlights | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "episode": 17,
+        "id": "N8RjZeFUSJk",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-31"
+      },
       {
         "id": "ANxuTaGPnXg",
         "title": "Tark-e-Tamanna - Episode 17 [Eng Sub] - 30th Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
@@ -47,8 +131,44 @@
       }
     ]
   },
+  "hum-zehar-e-mohabbat": {
+    "episodes": [
+      {
+        "title": "Zehar-e-Mohabbat - Episode 21 [Eng Sub] - 31st Oct 2026 - [ Zoha Tauqeer & Omer Shahzad ] HUM TV",
+        "episode": 21,
+        "id": "GObuxjzWofU",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-10-31"
+      }
+    ]
+  },
   "arydigital-izzat": {
     "episodes": [
+      {
+        "title": "Exclusive Chat with Merub Ali & Atabik Mohsin | BUZZ - EP 79 | IZZAT | 31 October 2026 l",
+        "episode": 79,
+        "id": "o8JeYnT5UtU",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Izzat Episode 42 | 31 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 42,
+        "id": "L_8Yxdt89VQ",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Izzat Episode 42 | 31 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 42,
+        "id": "oj8EdxcQWqg",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-31"
+      },
       {
         "title": "#Izzat Upcoming Episode 42 | #MerubAli | #AtabikMohsin | #HashamKhan | #shorts",
         "episode": 42,
@@ -72,6 +192,14 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/Ysq02aKxOHU/hqdefault.jpg",
         "checkedAt": "2026-10-31T07:46:49.102465+00:00"
+      },
+      {
+        "title": "Izzat Episode 40 | Best Moment | ARY Digital",
+        "episode": 40,
+        "id": "Wdo9BY2oRns",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-31"
       },
       {
         "title": "Choro Rutba Ka Hath🔥😡 | Izzat Episode 40",
@@ -98,6 +226,14 @@
         "date": "2026-10-31"
       },
       {
+        "title": "Izzat Episode 38 | Best Scene | ARY Digital",
+        "episode": 38,
+        "id": "JGCLHRfDZQM",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-31"
+      },
+      {
         "id": "Thu_M83L190",
         "title": "Izzat Episode 32 | 21 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
         "episode": 32,
@@ -112,6 +248,14 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/Thu_M83L190/hqdefault.jpg",
         "checkedAt": "2026-10-21T22:11:59.697806+00:00"
+      },
+      {
+        "title": "Tareef Nahi Be Izzati Kar Raha Tha Woh Shakhs Meri | Hey Fam Episode 12 | ARY Digital",
+        "episode": 12,
+        "id": "7zoRiMxVU84",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-31"
       }
     ]
   },
@@ -124,6 +268,166 @@
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-10-31"
+      },
+      {
+        "title": "Shatranj Main Tou Malka Hi Badshah Hoti Hai | Rutba Episode 5 | ARY Digital",
+        "episode": 5,
+        "id": "ohC5Ow9M9YY",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Tohfa Samajh Kar Qubool Kar Lein | Rutba Episode 5 | Hiba Bukhari | Mehwish Hayat | ARY Digital",
+        "episode": 5,
+        "id": "aeqeNAR9Ob8",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Rutba Episode 5 | Talha Chahour | Hiba Bukhari | Best Scene | ARY Digital",
+        "episode": 5,
+        "id": "R-8HRebse8A",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Rutba Episode 5 Couple Moments❤️‍🔥  | ARY Digital Drama",
+        "episode": 5,
+        "id": "QOmdxeB396w",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-31"
+      }
+    ]
+  },
+  "arydigital-dar-e-nijaat": {
+    "episodes": [
+      {
+        "title": "Dar-e-Nijaat Episode 27 | 31 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ARY Digital",
+        "episode": 27,
+        "id": "R0Y_07bNWN8",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Dar-e-Nijaat Episode 27 | 31 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
+        "episode": 27,
+        "id": "8pt_ru3Y-K8",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-31"
+      },
+      {
+        "id": "dIssXLq1KLQ",
+        "title": "Dar-e-Nijaat Episode 26 | 30 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
+        "episode": 26,
+        "date": "2026-10-30",
+        "published": "2026-10-30T16:00:01Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/dIssXLq1KLQ/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:46:49.102465+00:00"
+      },
+      {
+        "id": "X6qfF2t9fmQ",
+        "title": "Dar-e-Nijaat Episode 25 | 24 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
+        "episode": 25,
+        "date": "2026-10-24",
+        "published": "2026-10-24T16:00:25Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/X6qfF2t9fmQ/hqdefault.jpg",
+        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
+      },
+      {
+        "id": "ebioxADOBOw",
+        "title": "Dar-e-Nijaat Episode 23 | 17 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
+        "episode": 23,
+        "date": "2026-10-17",
+        "published": "2026-10-17T16:00:39Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/ebioxADOBOw/hqdefault.jpg",
+        "checkedAt": "2026-10-18T15:21:13.629433+00:00"
+      }
+    ]
+  },
+  "arydigital-hey-fam": {
+    "episodes": [
+      {
+        "id": "ClodGn_RSLo",
+        "title": "Hey Fam | EP 14 | 29 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
+        "episode": 14,
+        "date": "2026-10-29",
+        "published": "2026-10-29T16:00:38Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/ClodGn_RSLo/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:46:49.102465+00:00"
+      },
+      {
+        "title": "Tareef Nahi Be Izzati Kar Raha Tha Woh Shakhs Meri | Hey Fam Episode 12 | ARY Digital",
+        "episode": 12,
+        "id": "7zoRiMxVU84",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Meri Insult Sirf Tumhari Wajah Se Hui Hai | Hey Fam Episode 12 | Dua Zahra | ARY Digital",
+        "episode": 12,
+        "id": "ol4j1wKxtSw",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Hey Fam Episode 12 Best Moments | Dua Zahra | ARY Digital",
+        "episode": 12,
+        "id": "Qj_42P1YoYM",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-31"
+      },
+      {
+        "id": "ueuIIA0VN5k",
+        "title": "Is Mushkil Waqt Mai Tumhare Baba Tumhare Saath Hain | Hey Fam Episode 5 | ARY Digital",
+        "episode": 5,
+        "date": "2026-10-24",
+        "published": "2026-10-24T18:40:00Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ueuIIA0VN5k/hqdefault.jpg",
+        "checkedAt": "2026-10-25T20:56:53.845295+00:00"
       }
     ]
   },
@@ -146,12 +450,36 @@
         "checkedAt": "2026-10-31T07:54:27.409378+00:00"
       },
       {
-        "title": "Lagan Lagi Episode 7 | 30 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
-        "episode": 7,
-        "id": "jr_WmSFfWlQ",
+        "title": "Lagan Lagi Episode 6 | Memorable Scene | ARY Digital",
+        "episode": 6,
+        "id": "Afwf3ltE7r8",
         "source": "ARY Digital",
         "kind": "youtube",
-        "date": "2026-10-30"
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Lagan Lagi Episode 6 | Best Moment | ARY Digital",
+        "episode": 6,
+        "id": "uCf_6KglPLI",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Lagan Lagi Episode 6 | All Time Best Scene | ARY Digital",
+        "episode": 6,
+        "id": "2YB9cd7icgo",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Gift Mein Ring?💍😍 | Lagan Lagi Episode 6",
+        "episode": 6,
+        "id": "IybceEdvwTE",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-31"
       },
       {
         "id": "CT4JkKXAaaE",
@@ -168,6 +496,14 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/CT4JkKXAaaE/hqdefault.jpg",
         "checkedAt": "2026-10-31T07:54:27.409378+00:00"
+      },
+      {
+        "title": "Zunaira Se Jealousy Kyun Hoti Hai Aapko | Lagan Lagi Episode 5 | ARY Digital",
+        "episode": 5,
+        "id": "6PQOe1ZzY8Q",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-31"
       },
       {
         "id": "htgungjj2BA",
@@ -702,6 +1038,14 @@
   "arydigital-bulbulay": {
     "episodes": [
       {
+        "title": "Bulbulay Season 2 Episode 380 | 31 October 2026 | ARY Digital",
+        "episode": 380,
+        "id": "kqi3fOSXlL8",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-10-31"
+      },
+      {
         "title": "Khoobsurat Ke Saath Badtameezi! 😱 | Momo | Non Stop Comedy | Bulbulay",
         "episode": null,
         "id": "IWU_q-DZlqs",
@@ -807,18 +1151,6 @@
       }
     ]
   },
-  "geonews-naya-pakistan": {
-    "episodes": [
-      {
-        "title": "Pakistan Politics, Israel-Iran Tensions and Crypto Risks | Crypto Industry Alarm | Naya Pakistan",
-        "episode": null,
-        "id": "WAjX9rjZECc",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-10-30"
-      }
-    ]
-  },
   "harpalgeo-kaisa-yeh-ishq": {
     "episodes": [
       {
@@ -920,58 +1252,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/WmDiRQ0IuXI/hqdefault.jpg",
         "checkedAt": "2026-10-22T01:02:25.930340+00:00"
-      }
-    ]
-  },
-  "hum-khushi": {
-    "episodes": [
-      {
-        "id": "dReHjLpsE08",
-        "title": "Khushi - Episode 48 - [ENG SUB] 30th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 48,
-        "date": "2026-10-30",
-        "published": "2026-10-30T15:00:35Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/dReHjLpsE08/hqdefault.jpg",
-        "checkedAt": "2026-10-31T07:53:35.110882+00:00"
-      },
-      {
-        "id": "xWes3sjnCTQ",
-        "title": "Khushi - Episode 43 - [ENG SUB] 25th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 43,
-        "date": "2026-10-25",
-        "published": "2026-10-25T15:00:15Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/xWes3sjnCTQ/hqdefault.jpg",
-        "checkedAt": "2026-10-26T13:14:49.600449+00:00"
-      },
-      {
-        "id": "L2jN_CghoOM",
-        "title": "Khushi - Episode 39 - [Eng Sub] 21st Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 39,
-        "date": "2026-10-21",
-        "published": "2026-10-21T15:00:03Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/L2jN_CghoOM/hqdefault.jpg",
-        "checkedAt": "2026-10-22T07:08:51.571087+00:00"
       }
     ]
   },
@@ -32927,42 +33207,6 @@
       }
     ]
   },
-  "arydigital-hey-fam": {
-    "episodes": [
-      {
-        "id": "ClodGn_RSLo",
-        "title": "Hey Fam | EP 14 | 29 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
-        "episode": 14,
-        "date": "2026-10-29",
-        "published": "2026-10-29T16:00:38Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/ClodGn_RSLo/hqdefault.jpg",
-        "checkedAt": "2026-10-31T07:46:49.102465+00:00"
-      },
-      {
-        "id": "ueuIIA0VN5k",
-        "title": "Is Mushkil Waqt Mai Tumhare Baba Tumhare Saath Hain | Hey Fam Episode 5 | ARY Digital",
-        "episode": 5,
-        "date": "2026-10-24",
-        "published": "2026-10-24T18:40:00Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ueuIIA0VN5k/hqdefault.jpg",
-        "checkedAt": "2026-10-25T20:56:53.845295+00:00"
-      }
-    ]
-  },
   "arydigital-main-tera": {
     "episodes": [
       {
@@ -33172,58 +33416,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/f4p4uLc4u-k/hqdefault.jpg",
         "checkedAt": "2026-10-28T05:52:42.988305+00:00"
-      }
-    ]
-  },
-  "arydigital-dar-e-nijaat": {
-    "episodes": [
-      {
-        "id": "dIssXLq1KLQ",
-        "title": "Dar-e-Nijaat Episode 26 | 30 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
-        "episode": 26,
-        "date": "2026-10-30",
-        "published": "2026-10-30T16:00:01Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/dIssXLq1KLQ/hqdefault.jpg",
-        "checkedAt": "2026-10-31T07:46:49.102465+00:00"
-      },
-      {
-        "id": "X6qfF2t9fmQ",
-        "title": "Dar-e-Nijaat Episode 25 | 24 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
-        "episode": 25,
-        "date": "2026-10-24",
-        "published": "2026-10-24T16:00:25Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/X6qfF2t9fmQ/hqdefault.jpg",
-        "checkedAt": "2026-10-25T16:31:25.687956+00:00"
-      },
-      {
-        "id": "ebioxADOBOw",
-        "title": "Dar-e-Nijaat Episode 23 | 17 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
-        "episode": 23,
-        "date": "2026-10-17",
-        "published": "2026-10-17T16:00:39Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/ebioxADOBOw/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:21:13.629433+00:00"
       }
     ]
   },
