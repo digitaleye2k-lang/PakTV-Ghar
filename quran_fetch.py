@@ -8,7 +8,8 @@ from datetime import datetime, timezone
 from html import unescape
 from pathlib import Path
 from urllib.request import Request, urlopen
-from urllib.parse import quote
+from urllib.parse import quote, urlencode
+import os
 import json
 import re
 import xml.etree.ElementTree as ET
@@ -23,9 +24,11 @@ SOURCES = [
      'handle': 'HomeBasedQuranLearning', 'youtubeChannelId': 'UCY_4DVK8EYAnr4kG5nvn2FQ',
      'language': 'Urdu'},
     {'id': 'understand', 'name': 'Understand Al-Quran Official',
-     'handle': 'understandquran', 'language': 'English / Urdu'},
+     'handle': 'understandquran', 'youtubeChannelId': 'UCdqEwn5bGGbFE0u8UqdHmGQ',
+     'language': 'English / Urdu'},
     {'id': 'arabic101', 'name': 'Arabic101',
-     'handle': '101Arabic', 'language': 'English'},
+     'handle': '101Arabic', 'youtubeChannelId': 'UCGAzeqJUO0CXpuhUWGdc9lw',
+     'language': 'English'},
     {'id': 'bayyinah', 'name': 'Nouman Ali Khan - Official - Bayyinah',
      'handle': 'bayyinah', 'youtubeChannelId': 'UCRtiU-lpcBSi-ipFKyfIkug',
      'language': 'English / Urdu'}
@@ -115,6 +118,61 @@ def parse_feed(xml_text, source, verified_id):
         })
     return results
 
+def google_api(endpoint, params, api_key, getter=get):
+    data = dict(params)
+    data['key'] = api_key
+    url = 'https://www.googleapis.com/youtube/v3/' + endpoint + '?' + urlencode(data)
+    return json.loads(getter(url))
+
+def parse_api_items(items, source, verified_id):
+    """Use only videos whose playlist metadata matches the exact approved owner."""
+    rows = []
+    for item in items:
+        snippet = item.get('snippet') or {}
+        details = item.get('contentDetails') or {}
+        video_id = details.get('videoId') or (snippet.get('resourceId') or {}).get('videoId')
+        owner = snippet.get('videoOwnerChannelId') or snippet.get('channelId')
+        title = unescape(str(snippet.get('title') or '')).strip()
+        published = details.get('videoPublishedAt') or snippet.get('publishedAt') or ''
+        group = topic(title)
+        if owner != verified_id or not VIDEO_ID.fullmatch(str(video_id or '')) or not group:
+            continue
+        if len(title) > 250 or len(title) < 8:
+            continue
+        if title.casefold() in ('private video', 'deleted video'):
+            continue
+        rows.append({
+            'id': video_id, 'title': title,
+            'channelId': source['id'], 'channel': source['name'],
+            'language': source['language'], 'topic': group,
+            'date': published[:10], 'source': 'publisher YouTube Data API'
+        })
+    return rows
+
+def fetch_api(source, verified_id, api_key, getter=get):
+    channels = google_api('channels',
+        {'part':'contentDetails','id':verified_id,'maxResults':1},api_key,getter)
+    items = channels.get('items') or []
+    if not items or items[0].get('id') != verified_id:
+        raise ValueError('YouTube API did not confirm the expected channel')
+    uploads = ((items[0].get('contentDetails') or {})
+               .get('relatedPlaylists') or {}).get('uploads')
+    if not uploads:
+        raise ValueError('YouTube channel has no public uploads playlist')
+    results = []
+    page_token = None
+    for _ in range(2):
+        params={'part':'snippet,contentDetails','playlistId':uploads,'maxResults':50}
+        if page_token:
+            params['pageToken']=page_token
+        payload=google_api('playlistItems',params,api_key,getter)
+        results.extend(parse_api_items(payload.get('items') or [],source,verified_id))
+        page_token=payload.get('nextPageToken')
+        if not page_token:
+            break
+    return results
+
+
 def validate_record(video, sources):
     if not isinstance(video, dict):
         return None
@@ -137,7 +195,9 @@ def validate_record(video, sources):
         'source': str(video.get('source') or 'publisher YouTube RSS')[:60]
     }
 
-def build(previous=None, getter=get):
+def build(previous=None, getter=get, api_key=None):
+    if api_key is None:
+        api_key = os.getenv('YOUTUBE_API_KEY', '').strip()
     previous = previous if isinstance(previous, dict) else {}
     old_sources = {s.get('id'): s for s in previous.get('sources', []) if isinstance(s, dict)}
     sources = []
@@ -148,10 +208,21 @@ def build(previous=None, getter=get):
         try:
             resolved = channel_id(source, old_sources.get(source['id']))
             source['youtubeChannelId'] = resolved
-            url = 'https://www.youtube.com/feeds/videos.xml?channel_id=' + resolved
-            fetched.extend(parse_feed(getter(url), source, resolved))
+            # When the existing site API key is configured, index up to 100
+            # publisher uploads; public RSS is retained as a no-key fallback.
+            try:
+                if not api_key:
+                    raise ValueError('No YouTube API key configured')
+                fetched.extend(fetch_api(source, resolved, api_key, getter))
+            except Exception as api_error:
+                url = 'https://www.youtube.com/feeds/videos.xml?channel_id=' + resolved
+                try:
+                    fetched.extend(parse_feed(getter(url), source, resolved))
+                except Exception as rss_error:
+                    raise ValueError('API: ' + type(api_error).__name__ +
+                                     ', RSS: ' + type(rss_error).__name__) from rss_error
         except Exception as exc:
-            errors.append(source['id'] + ': ' + type(exc).__name__)
+            errors.append(source['id'] + ': ' + str(exc)[:110])
             previous_id = old_sources.get(source['id'], {}).get('youtubeChannelId')
             if CHANNEL_ID.fullmatch(str(previous_id or '')):
                 source['youtubeChannelId'] = previous_id
@@ -164,7 +235,7 @@ def build(previous=None, getter=get):
         checked = validate_record(row, known)
         if checked:
             entries[checked['id']] = checked
-    vids = sorted(entries.values(), key=lambda row: (row['date'], row['id']), reverse=True)[:160]
+    vids = sorted(entries.values(), key=lambda row: (row['date'], row['id']), reverse=True)[:220]
     return {
         'generatedAt': datetime.now(timezone.utc).isoformat(),
         'sources': sources, 'videos': vids, 'count': len(vids),
