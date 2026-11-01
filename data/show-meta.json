@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T21:06:40.857818+05:00",
+  "generatedAt": "2026-11-02T03:09:53.434439+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -19,11 +19,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 10,
-        "time": "00:00",
+        "number": 11,
+        "time": "20:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-01"
+        "date": "2026-11-02"
       }
     },
     "harpalgeo-nashtar": {
@@ -42,13 +42,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 26,
-        "time": "01:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-01"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -68,11 +61,11 @@
     },
     "harpalgeo-uswa": {
       "tvToday": {
-        "number": 40,
+        "number": 41,
         "time": "19:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-01"
+        "date": "2026-11-02"
       },
       "lastAttempt": "2026-10-29T03:29:06.365902+05:00",
       "latestUpload": {
@@ -104,13 +97,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 26,
-        "time": "04:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-01"
       }
     },
     "hum-aangan": {
@@ -142,11 +128,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 19,
-        "time": "02:00",
+        "number": 20,
+        "time": "21:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-01"
+        "date": "2026-11-02"
       }
     },
     "hum-bombay-tailors": {
