@@ -1,6 +1,6 @@
 {
-  "quotaDay": "2026-10-31",
-  "dailySearches": 80,
+  "quotaDay": "2026-11-01",
+  "dailySearches": 8,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -484,7 +484,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/JVflRbjyA3U/hqdefault.jpg",
-        "checkedAt": "2026-10-27T00:32:45.167263+00:00"
+        "checkedAt": "2026-11-01T16:06:10.522511+00:00"
+      },
+      {
+        "id": "XrppTAxAkcY",
+        "title": "Mirza Ki Heer 2nd Last EP 40 | 9 Sep 2026 | Hina Afridi | Ali Raza | ARY Digital",
+        "episode": 40,
+        "date": "2026-09-09",
+        "published": "2026-09-09T16:00:22Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/XrppTAxAkcY/hqdefault.jpg",
+        "checkedAt": "2026-11-01T16:06:10.522511+00:00"
       }
     ],
     "arydigital-toota-huwa-dil": [
@@ -502,7 +518,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/EeBtW9QO-ek/hqdefault.jpg",
-        "checkedAt": "2026-10-27T09:08:11.167695+00:00"
+        "checkedAt": "2026-11-01T16:06:10.522511+00:00"
       }
     ],
     "harpalgeo-beti-ka-ghar-konsa": [
@@ -520,7 +536,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_kbFqp2nfmM/hqdefault.jpg",
-        "checkedAt": "2026-10-27T09:08:11.167695+00:00"
+        "checkedAt": "2026-11-01T16:06:10.522511+00:00"
       },
       {
         "id": "yxYz6Y2Kyyo",
@@ -536,7 +552,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yxYz6Y2Kyyo/hqdefault.jpg",
-        "checkedAt": "2026-10-27T09:08:11.167695+00:00"
+        "checkedAt": "2026-11-01T16:06:10.522511+00:00"
       }
     ],
     "harpalgeo-pehli-barish": [
@@ -16345,22 +16361,6 @@
         "checkedAt": "2026-10-29T10:08:50.579071+00:00"
       },
       {
-        "id": "bqvwjLWsOfk",
-        "title": "Khaali Haath - Episode 23 | Har Pal Geo",
-        "episode": 23,
-        "date": "2017-07-24",
-        "published": "2017-07-24T16:00:06Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/bqvwjLWsOfk/hqdefault.jpg",
-        "checkedAt": "2026-10-18T06:58:38.852943+00:00"
-      },
-      {
         "id": "QH6eeEnXFpY",
         "title": "Khaali Haath - Episode 22 | Har Pal Geo",
         "episode": 22,
@@ -16393,22 +16393,6 @@
         "checkedAt": "2026-10-29T10:08:50.579071+00:00"
       },
       {
-        "id": "Pw8eywDqc4g",
-        "title": "Khaali Haath - Episode 19 | Har Pal Geo",
-        "episode": 19,
-        "date": "2017-06-12",
-        "published": "2017-06-12T18:00:02Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Pw8eywDqc4g/hqdefault.jpg",
-        "checkedAt": "2026-10-18T06:58:38.852943+00:00"
-      },
-      {
         "id": "D5dMvgErrxQ",
         "title": "Khaali Haath - Episode 18 | Har Pal Geo",
         "episode": 18,
@@ -16423,22 +16407,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/D5dMvgErrxQ/hqdefault.jpg",
         "checkedAt": "2026-10-29T10:08:50.579071+00:00"
-      },
-      {
-        "id": "ho8w6BOCoas",
-        "title": "Khaali Haath - Episode 17 | Kiran Haq | Shahzad Sheikh | Aimen",
-        "episode": 17,
-        "date": "2020-04-11",
-        "published": "2020-04-11T12:45:00Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ho8w6BOCoas/hqdefault.jpg",
-        "checkedAt": "2026-10-18T06:58:38.852943+00:00"
       },
       {
         "id": "mhbTmf6uTJc",
@@ -16537,22 +16505,6 @@
         "checkedAt": "2026-10-29T10:08:50.579071+00:00"
       },
       {
-        "id": "Pz9X7KWSyno",
-        "title": "Khaali Haath - Episode 13 | Kiran Haq | Shahzad Sheikh | Aimen",
-        "episode": 13,
-        "date": "2020-04-07",
-        "published": "2020-04-07T11:20:36Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Pz9X7KWSyno/hqdefault.jpg",
-        "checkedAt": "2026-10-18T06:58:38.852943+00:00"
-      },
-      {
         "id": "97-jUzgpJ74",
         "title": "KHAALI HAATH - Episode 13 | Har Pal Geo",
         "episode": 13,
@@ -16585,22 +16537,6 @@
         "checkedAt": "2026-10-29T10:08:50.579071+00:00"
       },
       {
-        "id": "93eBHjXJUuo",
-        "title": "Khaali Haath - Episode 11 | Kiran Haq | Shahzad Sheikh | Aimen",
-        "episode": 11,
-        "date": "2020-04-05",
-        "published": "2020-04-05T13:37:17Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/93eBHjXJUuo/hqdefault.jpg",
-        "checkedAt": "2026-10-18T06:58:38.852943+00:00"
-      },
-      {
         "id": "KarTfWzoSZs",
         "title": "KHAALI HAATH - Episode 11 | Har Pal Geo",
         "episode": 11,
@@ -16631,22 +16567,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mYF8-WIFsxM/hqdefault.jpg",
         "checkedAt": "2026-10-29T10:08:50.579071+00:00"
-      },
-      {
-        "id": "I5ZNG83CnTg",
-        "title": "Khaali Haath - Episode 9 | Kiran Haq | Shahzad Sheikh | Aimen",
-        "episode": 9,
-        "date": "2020-04-05",
-        "published": "2020-04-05T11:45:00Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/I5ZNG83CnTg/hqdefault.jpg",
-        "checkedAt": "2026-10-18T06:58:38.852943+00:00"
       },
       {
         "id": "DBw-Pm7Ie6k",
@@ -16713,22 +16633,6 @@
         "checkedAt": "2026-10-29T10:08:50.579071+00:00"
       },
       {
-        "id": "gGlT1WcY6DU",
-        "title": "KHAALI HAATH - Episode 5 | Har Pal Geo",
-        "episode": 5,
-        "date": "2017-03-11",
-        "published": "2017-03-11T13:14:44Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/gGlT1WcY6DU/hqdefault.jpg",
-        "checkedAt": "2026-10-18T06:58:38.852943+00:00"
-      },
-      {
         "id": "WEcKWbOvILE",
         "title": "KHAALI HAATH - Episode 4 | Har Pal Geo",
         "episode": 4,
@@ -16775,22 +16679,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/MI-kRZizSog/hqdefault.jpg",
         "checkedAt": "2026-10-29T10:08:50.579071+00:00"
-      },
-      {
-        "id": "Sg6MGLdMGUg",
-        "title": "Khaali Haath - Episode 1 | Kiran Haq | Shahzad Sheikh | Aimen",
-        "episode": 1,
-        "date": "2020-04-04",
-        "published": "2020-04-04T11:59:33Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Sg6MGLdMGUg/hqdefault.jpg",
-        "checkedAt": "2026-10-18T06:58:38.852943+00:00"
       },
       {
         "id": "bGXXdjS2XOI",
@@ -16923,22 +16811,6 @@
         "checkedAt": "2026-10-29T10:08:50.579071+00:00"
       },
       {
-        "id": "G7PVVW3tNio",
-        "title": "Khaani - Episode 23 - Feroze Khan - Sana Javed - [HD] - Har Pal Geo",
-        "episode": 23,
-        "date": "2022-01-23",
-        "published": "2022-01-23T09:30:07Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/G7PVVW3tNio/hqdefault.jpg",
-        "checkedAt": "2026-10-18T06:58:38.852943+00:00"
-      },
-      {
         "id": "rpgSJh6BBIQ",
         "title": "Khaani - Episode 22 - Feroze Khan - Sana Javed - [HD] - Har Pal Geo",
         "episode": 22,
@@ -16955,22 +16827,6 @@
         "checkedAt": "2026-10-29T10:08:50.579071+00:00"
       },
       {
-        "id": "SUdjqURSRwE",
-        "title": "Khaani - Episode 21 - Feroze Khan - Sana Javed - [HD] - Har Pal Geo",
-        "episode": 21,
-        "date": "2022-01-23",
-        "published": "2022-01-23T08:30:08Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/SUdjqURSRwE/hqdefault.jpg",
-        "checkedAt": "2026-10-18T06:58:38.852943+00:00"
-      },
-      {
         "id": "Ll9vjCcAz3w",
         "title": "Khaani - Episode 20 - Feroze Khan - Sana Javed - [HD] - Har Pal Geo",
         "episode": 20,
@@ -16985,22 +16841,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Ll9vjCcAz3w/hqdefault.jpg",
         "checkedAt": "2026-10-29T10:08:50.579071+00:00"
-      },
-      {
-        "id": "o4SWpojXOfg",
-        "title": "Khaani - Episode 19 - Feroze Khan - Sana Javed - [HD] - Har Pal Geo",
-        "episode": 19,
-        "date": "2022-01-23",
-        "published": "2022-01-23T07:30:17Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/o4SWpojXOfg/hqdefault.jpg",
-        "checkedAt": "2026-10-18T06:58:38.852943+00:00"
       },
       {
         "id": "Gywh47dL7Kk",
@@ -17563,22 +17403,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/N6ddV0FtHZQ/hqdefault.jpg",
         "checkedAt": "2026-10-29T18:32:00.459197+00:00"
-      },
-      {
-        "id": "lJ67gcI5U-A",
-        "title": "Mann Mast Malang Episode 18 - [Eng Sub] - Digitally Presented by Diamond Paints - 30th March 2025",
-        "episode": 18,
-        "date": "2025-03-30",
-        "published": "2025-03-30T16:00:54Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/lJ67gcI5U-A/hqdefault.jpg",
-        "checkedAt": "2026-10-18T06:58:38.852943+00:00"
       },
       {
         "id": "Zd9Zs_u8xPM",
@@ -18369,22 +18193,6 @@
     ],
     "harpalgeo-mohabbat-tumse-nafrat-hai": [
       {
-        "id": "fLNsys-qTLc",
-        "title": "Mohabbat Tum Se Nafrat Hai - Last Episode 29 | Har Pal Geo",
-        "episode": 29,
-        "date": "2019-12-25",
-        "published": "2019-12-25T15:00:08Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/fLNsys-qTLc/hqdefault.jpg",
-        "checkedAt": "2026-10-18T09:46:48.675273+00:00"
-      },
-      {
         "id": "XWQTlEv_rBM",
         "title": "Mohabbat Tum Se Nafrat Hai - Last Episode 29 | Har Pal Geo",
         "episode": 29,
@@ -18981,22 +18789,6 @@
         "checkedAt": "2026-10-30T01:07:13.838677+00:00"
       },
       {
-        "id": "so6xz9qzNaI",
-        "title": "Qalandar Episode 50 - [Eng Sub] - Muneeb Butt - Komal Meer - Ali Abbas - 31st Mar 2023 - HAR PAL GEO",
-        "episode": 50,
-        "date": "2023-03-31",
-        "published": "2023-03-31T16:00:41Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/so6xz9qzNaI/hqdefault.jpg",
-        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
-      },
-      {
         "id": "DST3RgjL7Xw",
         "title": "Qalandar Episode 49 - [Eng Sub] - Muneeb Butt - Komal Meer - Ali Abbas - 26th Mar 2023 - HAR PAL GEO",
         "episode": 49,
@@ -19301,38 +19093,6 @@
         "checkedAt": "2026-10-30T01:07:13.838677+00:00"
       },
       {
-        "id": "LIEq2aIeCZY",
-        "title": "Qalandar Episode 29 - [Eng Sub] - Muneeb Butt - Komal Meer - Ali Abbas - 20th Jan 2023 - HAR PAL GEO",
-        "episode": 29,
-        "date": "2023-01-20",
-        "published": "2023-01-20T16:00:10Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/LIEq2aIeCZY/hqdefault.jpg",
-        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
-      },
-      {
-        "id": "BvZFo-UBZhw",
-        "title": "Qalandar Episode 27 - [Eng Sub] - Muneeb Butt - Komal Meer - Ali Abbas - 13th Jan 2023 - HAR PAL GEO",
-        "episode": 27,
-        "date": "2023-01-13",
-        "published": "2023-01-13T16:00:06Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/BvZFo-UBZhw/hqdefault.jpg",
-        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
-      },
-      {
         "id": "N2_F-xgZOTA",
         "title": "Qalandar Episode 26 - [Eng Sub] - Muneeb Butt - Komal Meer - Ali Abbas - 7th Jan 2023 - HAR PAL GEO",
         "episode": 26,
@@ -19347,54 +19107,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/N2_F-xgZOTA/hqdefault.jpg",
         "checkedAt": "2026-10-30T01:07:13.838677+00:00"
-      },
-      {
-        "id": "cBzYf7PdZcQ",
-        "title": "Qalandar Episode 25 - [Eng Sub]- Muneeb Butt - Komal Meer - Ali Abbas - 6th Jan 2023 - HAR PAL GEO",
-        "episode": 25,
-        "date": "2023-01-06",
-        "published": "2023-01-06T16:00:13Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/cBzYf7PdZcQ/hqdefault.jpg",
-        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
-      },
-      {
-        "id": "d9jarFMOsWc",
-        "title": "Qalandar Episode 23 - [Eng Sub]- Muneeb Butt - Komal Meer - Ali Abbas - 30th Dec 2022 - HAR PAL GEO",
-        "episode": 23,
-        "date": "2022-12-30",
-        "published": "2022-12-30T16:00:20Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/d9jarFMOsWc/hqdefault.jpg",
-        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
-      },
-      {
-        "id": "-GyBa7s0_kE",
-        "title": "Qalandar Episode 22 - [Eng Sub]- Muneeb Butt - Komal Meer - Ali Abbas - 24th Dec 2022 - HAR PAL GEO",
-        "episode": 22,
-        "date": "2022-12-24",
-        "published": "2022-12-24T16:00:00Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/-GyBa7s0_kE/hqdefault.jpg",
-        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "8Ki9kt1dz4U",
@@ -19413,22 +19125,6 @@
         "checkedAt": "2026-10-30T01:07:13.838677+00:00"
       },
       {
-        "id": "rjt8VAeVsO0",
-        "title": "Qalandar Episode 20 - [Eng Sub]- Muneeb Butt - Komal Meer - Ali Abbas - 17th Dec 2022 - HAR PAL GEO",
-        "episode": 20,
-        "date": "2022-12-17",
-        "published": "2022-12-17T16:00:20Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/rjt8VAeVsO0/hqdefault.jpg",
-        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
-      },
-      {
         "id": "mfP7A0fo_68",
         "title": "Qalandar Episode 15 - [Eng Sub]- Muneeb Butt - Komal Meer - Ali Abbas - 2nd Dec 2022 - HAR PAL GEO",
         "episode": 15,
@@ -19443,22 +19139,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mfP7A0fo_68/hqdefault.jpg",
         "checkedAt": "2026-10-30T01:07:13.838677+00:00"
-      },
-      {
-        "id": "sfczCqY-1V4",
-        "title": "Qalandar Episode 14 - [Eng Sub]- Muneeb Butt - Komal Meer - Ali Abbas - 26th Nov 2022 - HAR PAL GEO",
-        "episode": 14,
-        "date": "2022-11-26",
-        "published": "2022-11-26T16:00:26Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/sfczCqY-1V4/hqdefault.jpg",
-        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "oAbceCK1eP8",
@@ -19477,22 +19157,6 @@
         "checkedAt": "2026-10-30T01:07:13.838677+00:00"
       },
       {
-        "id": "-hbqBXKVDgo",
-        "title": "Qalandar Episode 12 - [Eng Sub]- Muneeb Butt - Komal Meer - Ali Abbas - 19th Nov 2022 - HAR PAL GEO",
-        "episode": 12,
-        "date": "2022-11-19",
-        "published": "2022-11-19T16:00:00Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/-hbqBXKVDgo/hqdefault.jpg",
-        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
-      },
-      {
         "id": "Up_zh9e6oPk",
         "title": "Qalandar Episode 11 - [Eng Sub]- Muneeb Butt - Komal Meer - Ali Abbas - 18th Nov 2022 - HAR PAL GEO",
         "episode": 11,
@@ -19509,54 +19173,6 @@
         "checkedAt": "2026-10-30T01:07:13.838677+00:00"
       },
       {
-        "id": "6t6HCkoNGoE",
-        "title": "Qalandar Episode 10 - [Eng Sub]- Muneeb Butt - Komal Meer - Ali Abbas - 12th Nov 2022 - HAR PAL GEO",
-        "episode": 10,
-        "date": "2022-11-12",
-        "published": "2022-11-12T16:00:04Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/6t6HCkoNGoE/hqdefault.jpg",
-        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
-      },
-      {
-        "id": "r5msZ2VnQkg",
-        "title": "Qalandar Episode 09 - [Eng Sub]- Muneeb Butt - Komal Meer - Ali Abbas - 11th Nov 2022 - HAR PAL GEO",
-        "episode": 9,
-        "date": "2022-11-11",
-        "published": "2022-11-11T16:00:27Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/r5msZ2VnQkg/hqdefault.jpg",
-        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
-      },
-      {
-        "id": "OulBSiQ7Gl8",
-        "title": "Qalandar Episode 08 - [Eng Sub]- Muneeb Butt - Komal Meer - Ali Abbas - 5th Nov 2022 - HAR PAL GEO",
-        "episode": 8,
-        "date": "2022-11-05",
-        "published": "2022-11-05T16:00:14Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/OulBSiQ7Gl8/hqdefault.jpg",
-        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
-      },
-      {
         "id": "nFAREKpwU1w",
         "title": "Qalandar Episode 07 - [Eng Sub]- Muneeb Butt - Komal Meer - Ali Abbas - 4th Nov 2022 - HAR PAL GEO",
         "episode": 7,
@@ -19571,22 +19187,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nFAREKpwU1w/hqdefault.jpg",
         "checkedAt": "2026-10-24T09:48:54.702184+00:00"
-      },
-      {
-        "id": "JQJKAIpoNeM",
-        "title": "Qalandar Episode 06 - [Eng Sub]- Muneeb Butt - Komal Meer - Ali Abbas - 29th Oct 2022 - HAR PAL GEO",
-        "episode": 6,
-        "date": "2022-10-29",
-        "published": "2022-10-29T16:00:18Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/JQJKAIpoNeM/hqdefault.jpg",
-        "checkedAt": "2026-10-18T12:54:07.127502+00:00"
       },
       {
         "id": "ioXF8y2qr20",
@@ -19685,22 +19285,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ycMgOj5KqjU/hqdefault.jpg",
         "checkedAt": "2026-10-30T10:10:56.352896+00:00"
-      },
-      {
-        "id": "zHtFWlaoJzo",
-        "title": "Sirf Tum 2nd Last Mega Episode 46 (Part 01) - [Eng Sub] - Anmol Baloch - Hamza Sohail - Mohsin Abbas",
-        "episode": 46,
-        "date": "2023-08-27",
-        "published": "2023-08-27T16:02:51Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/zHtFWlaoJzo/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
       },
       {
         "id": "RH8AzSvZFj8",
@@ -19957,22 +19541,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/bDn1HxqUhaI/hqdefault.jpg",
         "checkedAt": "2026-10-30T10:10:56.352896+00:00"
-      },
-      {
-        "id": "KJvHf1AP-Zo",
-        "title": "Sirf Tum Episode 17 - [Eng Sub] - Anmol Baloch - Hamza Sohail - Mohsin Abbas Haider - 3rd Aug 2023",
-        "episode": 17,
-        "date": "2023-08-03",
-        "published": "2023-08-03T17:00:11Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/KJvHf1AP-Zo/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
       },
       {
         "id": "Wzf_0Bhwims",
@@ -20375,38 +19943,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/MeXUWB-QPYc/hqdefault.jpg",
         "checkedAt": "2026-10-24T12:58:37.242235+00:00"
-      },
-      {
-        "id": "Z1P8GbzoOwY",
-        "title": "Siyani Episode 91 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider - Saniya Shamshad - 16th Nov 2022",
-        "episode": 91,
-        "date": "2022-11-16",
-        "published": "2022-11-16T17:00:33Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Z1P8GbzoOwY/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
-      },
-      {
-        "id": "mRXLl5L1oys",
-        "title": "Siyani Episode 89 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider - Saniya Shamshad - 14th Nov 2022",
-        "episode": 89,
-        "date": "2022-11-14",
-        "published": "2022-11-14T17:00:23Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/mRXLl5L1oys/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
       },
       {
         "id": "T0fK2RnHtYM",
@@ -21129,22 +20665,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5l43atn_rRg/hqdefault.jpg",
         "checkedAt": "2026-10-30T18:10:13.070709+00:00"
-      },
-      {
-        "id": "xMAvA1Fdqjc",
-        "title": "Tere Aany Se Episode 22 - [Eng Sub] - Ft. Komal Meer - Muneeb Butt - 13th April 2023  - HAR PAL GEO",
-        "episode": 22,
-        "date": "2023-04-13",
-        "published": "2023-04-13T17:00:26Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/xMAvA1Fdqjc/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
       },
       {
         "id": "jsDB6M6UHPE",
@@ -21965,22 +21485,6 @@
         "checkedAt": "2026-10-30T18:10:13.070709+00:00"
       },
       {
-        "id": "ufdD9nZtgbw",
-        "title": "Tere Bin Ep 07 - [Eng Sub] - Digitally Presented by Nisa Hair Removal Cream- Yumna Zaidi - Wahaj Ali",
-        "episode": 7,
-        "date": "2023-01-18",
-        "published": "2023-01-18T16:00:21Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ufdD9nZtgbw/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:55:29.319389+00:00"
-      },
-      {
         "id": "-HiIVL0EOS4",
         "title": "Tere Bin Ep 06 - [Eng Sub] - Digitally Presented by Jhalak Beauty Cream - Yumna Zaidi - Wahaj Ali",
         "episode": 6,
@@ -22207,22 +21711,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5JiQIEc_7eQ/hqdefault.jpg",
         "checkedAt": "2026-10-30T18:10:13.070709+00:00"
-      },
-      {
-        "id": "z97uy2b2SU0",
-        "title": "Alif Allah Aur Insaan Episode #26 HUM TV Drama",
-        "episode": 26,
-        "date": "2019-08-04",
-        "published": "2019-08-04T15:00:08Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/z97uy2b2SU0/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
       },
       {
         "id": "iin7l6zBTzs",
@@ -22707,22 +22195,6 @@
         "checkedAt": "2026-10-30T22:27:58.700145+00:00"
       },
       {
-        "id": "RqXSNZXQoJU",
-        "title": "Bin Roye - Episode 13 - Mahira Khan - Humayun Saeed - Armeena Rana Khan - HUM TV",
-        "episode": 13,
-        "date": "2022-03-26",
-        "published": "2022-03-26T13:00:10Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/RqXSNZXQoJU/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
-      },
-      {
         "id": "vO201gKf9bA",
         "title": "Bin Roye Episode 13  HUM TV Drama",
         "episode": 13,
@@ -22739,22 +22211,6 @@
         "checkedAt": "2026-10-30T22:27:58.700145+00:00"
       },
       {
-        "id": "BPkSUt7Mk00",
-        "title": "Bin Roye - Episode 12 - Mahira Khan - Humayun Saeed - Armeena Rana Khan - HUM TV",
-        "episode": 12,
-        "date": "2022-03-25",
-        "published": "2022-03-25T13:00:10Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/BPkSUt7Mk00/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
-      },
-      {
         "id": "gCD6O_TbRSc",
         "title": "Bin Roye Episode 12  HUM TV Drama",
         "episode": 12,
@@ -22769,22 +22225,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/gCD6O_TbRSc/hqdefault.jpg",
         "checkedAt": "2026-10-30T22:27:58.700145+00:00"
-      },
-      {
-        "id": "6pIE6t8idjA",
-        "title": "Bin Roye - Episode 11 - Mahira Khan - Humayun Saeed - Armeena Rana Khan - HUM TV",
-        "episode": 11,
-        "date": "2022-03-24",
-        "published": "2022-03-24T13:00:02Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/6pIE6t8idjA/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
       },
       {
         "id": "ugdtDrGeKd4",
@@ -22947,22 +22387,6 @@
         "checkedAt": "2026-10-30T22:27:58.700145+00:00"
       },
       {
-        "id": "xk1lnankI0k",
-        "title": "Bin Roye - Episode 04 - Mahira Khan - Humayun Saeed - Armeena Rana Khan - HUM TV",
-        "episode": 4,
-        "date": "2022-03-17",
-        "published": "2022-03-17T14:00:22Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/xk1lnankI0k/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
-      },
-      {
         "id": "fILeULGm4rk",
         "title": "Bin Roye Episode 4  HUM TV Drama",
         "episode": 4,
@@ -23045,22 +22469,6 @@
     ],
     "hum-chupke-chupke": [
       {
-        "id": "lD8gzMNt8bQ",
-        "title": "Chupke Chupke Episode 25 | Digitally Presented by Mezan & Powered by Master Paints | HUM TV | Drama",
-        "episode": 25,
-        "date": "2021-05-08",
-        "published": "2021-05-08T17:00:15Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/lD8gzMNt8bQ/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
-      },
-      {
         "id": "OrjAOpvunHs",
         "title": "Chupke Chupke Episode 24 | Digitally Presented by Mezan & Powered by Master Paints | HUM TV | Drama",
         "episode": 24,
@@ -23123,22 +22531,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/hst_60j_vzU/hqdefault.jpg",
         "checkedAt": "2026-10-30T22:27:58.700145+00:00"
-      },
-      {
-        "id": "sLZDxD7pDiI",
-        "title": "Chupke Chupke - Episode 20 - Osman Khalid Butt - Ayeza Khan - Arsalan Naseer - HUM TV",
-        "episode": 20,
-        "date": "2022-04-22",
-        "published": "2022-04-22T19:00:14Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/sLZDxD7pDiI/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:56:34.203528+00:00"
       },
       {
         "id": "kmRQF0oeoVI",
@@ -24169,22 +23561,6 @@
         "checkedAt": "2026-10-30T22:27:58.700145+00:00"
       },
       {
-        "id": "57j605955UQ",
-        "title": "Ehd e Wafa Episode 13 | English Sub | Digitally Presented by Master Paints HUM TV Drama 15 Dec 2019",
-        "episode": 13,
-        "date": "2019-12-15",
-        "published": "2019-12-15T16:22:07Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/57j605955UQ/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
-      },
-      {
         "id": "XYmtOcS4s7Y",
         "title": "Ehd e Wafa Episode 12 | English Sub | Digitally Presented by Master Paints HUM TV Drama 8 Dec 2019",
         "episode": 12,
@@ -24891,22 +24267,6 @@
         "checkedAt": "2026-10-31T05:54:13.363137+00:00"
       },
       {
-        "id": "5xJ0-Yn3ONE",
-        "title": "Fairy Tale 2 EP 04 PART 02 [CC] - 26 Aug - Presented By BrookeBond Supreme, Glow & Lovely, & Sunsilk",
-        "episode": 4,
-        "date": "2023-08-26",
-        "published": "2023-08-26T17:00:02Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/5xJ0-Yn3ONE/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
-      },
-      {
         "id": "33vDcNl0MYI",
         "title": "Fairy Tale EP 04 - 26 Mar 23 - Presented By Sunsilk, Powered By Glow & Lovely, Associated By Walls",
         "episode": 4,
@@ -25083,22 +24443,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/aZzYKLYGMpA/hqdefault.jpg",
         "checkedAt": "2026-10-31T05:54:13.363137+00:00"
-      },
-      {
-        "id": "VkRNghtLg2M",
-        "title": "Fairy Tale 2 - 2nd Last Ep 14 - PART 02 [CC] 18 NOV - Sponsored By BrookeBond Supreme, Glow & Lovely",
-        "episode": 14,
-        "date": "2023-11-18",
-        "published": "2023-11-18T17:00:21Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/VkRNghtLg2M/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
       },
       {
         "id": "_wOxKvPibi0",
@@ -25403,22 +24747,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4fCqqoQAtdY/hqdefault.jpg",
         "checkedAt": "2026-10-31T05:54:13.363137+00:00"
-      },
-      {
-        "id": "5xJ0-Yn3ONE",
-        "title": "Fairy Tale 2 EP 04 PART 02 [CC] - 26 Aug - Presented By BrookeBond Supreme, Glow & Lovely, & Sunsilk",
-        "episode": 4,
-        "date": "2023-08-26",
-        "published": "2023-08-26T17:00:02Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/5xJ0-Yn3ONE/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:58:09.071815+00:00"
       },
       {
         "id": "wkYFVainKWg",
@@ -26659,22 +25987,6 @@
         "checkedAt": "2026-10-31T07:40:20.405301+00:00"
       },
       {
-        "id": "PSghT6SYi7Q",
-        "title": "Ishq Murshid - Episode 09 [𝐂𝐂] - 3rd Dec 23 - Sponsored By Khurshid Fans, Master Paints & Mothercare",
-        "episode": 9,
-        "date": "2023-12-03",
-        "published": "2023-12-03T16:00:15Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/PSghT6SYi7Q/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:59:05.023356+00:00"
-      },
-      {
         "id": "QclJxMtqjuo",
         "title": "Ishq Murshid - Episode 08 [𝐂𝐂] - 26 Nov 23 - Sponsored By Khurshid Fans, Master Paints & Mothercare",
         "episode": 8,
@@ -26737,22 +26049,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/IsA2TZdFwSo/hqdefault.jpg",
         "checkedAt": "2026-10-31T07:40:20.405301+00:00"
-      },
-      {
-        "id": "jc4S0D3qF9E",
-        "title": "Ishq Murshid - Episode 03 [𝐂𝐂] 22 Oct - Powered By Master Paints [ Bilal Abbas & Durefishan ] HUM TV",
-        "episode": 3,
-        "date": "2023-10-22",
-        "published": "2023-10-22T16:00:36Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/jc4S0D3qF9E/hqdefault.jpg",
-        "checkedAt": "2026-10-18T14:59:05.023356+00:00"
       },
       {
         "id": "7zr3TUe6J1U",
@@ -27559,22 +26855,6 @@
         "checkedAt": "2026-10-31T07:40:20.405301+00:00"
       },
       {
-        "id": "oWJksiG7h1U",
-        "title": "Mann Mayal Episode 13 HUM TV Drama",
-        "episode": 13,
-        "date": "2020-01-26",
-        "published": "2020-01-26T19:39:10Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/oWJksiG7h1U/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:05:41.234007+00:00"
-      },
-      {
         "id": "gkTcmmZPYcM",
         "title": "Mann Mayal Episode 12 HUM TV Drama",
         "episode": 12,
@@ -27653,22 +26933,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Zq7N4HfWPis/hqdefault.jpg",
         "checkedAt": "2026-10-31T07:40:20.405301+00:00"
-      },
-      {
-        "id": "sJYA93GGapw",
-        "title": "Mann Mayal Episode 7 HUM TV Drama",
-        "episode": 7,
-        "date": "2020-01-26",
-        "published": "2020-01-26T19:39:10Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/sJYA93GGapw/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:05:41.234007+00:00"
       },
       {
         "id": "32c0wgarx6o",
@@ -28151,38 +27415,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/tEvsCHQ82VE/hqdefault.jpg",
         "checkedAt": "2026-10-31T07:41:48.754557+00:00"
-      },
-      {
-        "id": "C6KDwuBPUBQ",
-        "title": "Meem Se Mohabbat - Episode 08 [CC] 9th Jan 2025 - Spons By foodpanda, Master Paints, Skin White",
-        "episode": 8,
-        "date": "2025-01-09",
-        "published": "2025-01-09T16:00:10Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/C6KDwuBPUBQ/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:05:41.234007+00:00"
-      },
-      {
-        "id": "hQpoFrX7UNE",
-        "title": "Meem Se Mohabbat - Episode 07 [CC] 8th Jan 2025 - Spons By foodpanda, Master Paints, Skin White",
-        "episode": 7,
-        "date": "2025-01-08",
-        "published": "2025-01-08T16:00:43Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/hQpoFrX7UNE/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:05:41.234007+00:00"
       },
       {
         "id": "zdUPHX7WvXA",
@@ -28831,54 +28063,6 @@
         "checkedAt": "2026-10-31T07:41:48.754557+00:00"
       },
       {
-        "id": "xrNBCbKLrnI",
-        "title": "Pyar Ke Sadqay | Episode 29 |  Yumna Zaidi | Bilal Abbas | Shra Asghar | Yashma Gill | HUM TV Drama",
-        "episode": 29,
-        "date": "2021-09-30",
-        "published": "2021-09-30T18:15:02Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/xrNBCbKLrnI/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:18:25.319350+00:00"
-      },
-      {
-        "id": "AWfEvaDq27U",
-        "title": "Pyar Ke Sadqay | Episode 29 | Digitally Presented By Mezan | HUM TV | Drama | 6 August 2020",
-        "episode": 29,
-        "date": "2020-08-06",
-        "published": "2020-08-06T16:00:04Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/AWfEvaDq27U/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:18:25.319350+00:00"
-      },
-      {
-        "id": "Ptwm-f6VhOs",
-        "title": "Pyar Ke Sadqay | Episode 28 |  Yumna Zaidi | Bilal Abbas | Shra Asghar | Yashma Gill | HUM TV Drama",
-        "episode": 28,
-        "date": "2021-09-28",
-        "published": "2021-09-28T18:45:01Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Ptwm-f6VhOs/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:18:25.319350+00:00"
-      },
-      {
         "id": "CRdiVcMKsJw",
         "title": "Pyar Ke Sadqay | Episode 28 | Digitally Presented By Mezan | HUM TV | Drama | 30 July 2020",
         "episode": 28,
@@ -28895,22 +28079,6 @@
         "checkedAt": "2026-10-31T07:41:48.754557+00:00"
       },
       {
-        "id": "MlwdYNG16JI",
-        "title": "Pyar Ke Sadqay | Episode 27 |  Yumna Zaidi | Bilal Abbas | Shra Asghar | Yashma Gill | HUM TV Drama",
-        "episode": 27,
-        "date": "2021-09-28",
-        "published": "2021-09-28T17:45:03Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/MlwdYNG16JI/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:18:25.319350+00:00"
-      },
-      {
         "id": "Rc-q6ZyvRJ8",
         "title": "Pyar Ke Sadqay | Episode 27 | Eng Sub | Digitally Presented By Mezan | HUM TV | Drama | 23 July 2020",
         "episode": 27,
@@ -28925,22 +28093,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Rc-q6ZyvRJ8/hqdefault.jpg",
         "checkedAt": "2026-10-31T07:41:48.754557+00:00"
-      },
-      {
-        "id": "dBT212DqEmA",
-        "title": "Pyar Ke Sadqay | Episode 26 | Eng Subs | Digitally Presented By Mezan | HUM TV | Drama | 16 July",
-        "episode": 26,
-        "date": "2020-07-16",
-        "published": "2020-07-16T16:00:12Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/dBT212DqEmA/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:18:25.319350+00:00"
       },
       {
         "id": "1-D0ydjd2hQ",
@@ -28973,22 +28125,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/heuDCHuOGes/hqdefault.jpg",
         "checkedAt": "2026-10-31T07:41:48.754557+00:00"
-      },
-      {
-        "id": "K4fpi6IblLA",
-        "title": "Pyar Ke Sadqay | Episode 21 |  Yumna Zaidi | Bilal Abbas | Shra Asghar | Yashma Gill | HUM TV Drama",
-        "episode": 21,
-        "date": "2021-09-24",
-        "published": "2021-09-24T18:45:01Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/K4fpi6IblLA/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:18:25.319350+00:00"
       },
       {
         "id": "Wy59DboOYoc",
@@ -29039,22 +28175,6 @@
         "checkedAt": "2026-10-31T07:41:48.754557+00:00"
       },
       {
-        "id": "3-lUI2z9kK4",
-        "title": "Pyar Ke Sadqay | Episode 19  |  Yumna Zaidi | Bilal Abbas | Shra Asghar | Yashma Gill | HUM TV Drama",
-        "episode": 19,
-        "date": "2024-01-20",
-        "published": "2024-01-20T17:00:03Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/3-lUI2z9kK4/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:18:25.319350+00:00"
-      },
-      {
         "id": "jtMYAHbfbtM",
         "title": "Pyar Ke Sadqay | Episode 19 | Digitally Presented By Mezan | HUM TV | Drama | 28 May 2020",
         "episode": 19,
@@ -29069,22 +28189,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/jtMYAHbfbtM/hqdefault.jpg",
         "checkedAt": "2026-10-31T07:41:48.754557+00:00"
-      },
-      {
-        "id": "QIiU-kvOPz0",
-        "title": "Pyar Ke Sadqay | Episode 18 |  Yumna Zaidi | Bilal Abbas | Shra Asghar | Yashma Gill | HUM TV Drama",
-        "episode": 18,
-        "date": "2021-09-23",
-        "published": "2021-09-23T19:15:00Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/QIiU-kvOPz0/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:18:25.319350+00:00"
       },
       {
         "id": "p8IxlVo_LLM",
@@ -29199,22 +28303,6 @@
         "checkedAt": "2026-10-31T07:41:48.754557+00:00"
       },
       {
-        "id": "ST6yC4-4vKg",
-        "title": "Pyar Ke Sadqay Episode 14 | English Subtitles | HUM TV Drama 23 April 2020",
-        "episode": 14,
-        "date": "2020-04-23",
-        "published": "2020-04-23T15:45:00Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ST6yC4-4vKg/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:18:25.319350+00:00"
-      },
-      {
         "id": "brhsAouK58A",
         "title": "Pyar Ke Sadqay | Episode 13 |  Yumna Zaidi | Bilal Abbas | Shra Asghar | Yashma Gill | HUM TV Drama",
         "episode": 13,
@@ -29261,22 +28349,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kF5lanRLcik/hqdefault.jpg",
         "checkedAt": "2026-10-31T07:41:48.754557+00:00"
-      },
-      {
-        "id": "VLk9MXdLd98",
-        "title": "Pyar Ke Sadqay | Episode 11 |  Yumna Zaidi | Bilal Abbas | Shra Asghar | Yashma Gill | HUM TV Drama",
-        "episode": 11,
-        "date": "2021-09-21",
-        "published": "2021-09-21T18:00:08Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/VLk9MXdLd98/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:18:25.319350+00:00"
       },
       {
         "id": "gXXz6AdVhbU",
@@ -29439,38 +28511,6 @@
         "checkedAt": "2026-10-25T11:42:17.432383+00:00"
       },
       {
-        "id": "SbCxooGtNyc",
-        "title": "Pyar Ke Sadqay | Episode 6 |  Yumna Zaidi | Bilal Abbas | Shra Asghar | Yashma Gill | HUM TV Drama",
-        "episode": 6,
-        "date": "2021-09-19",
-        "published": "2021-09-19T19:00:07Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/SbCxooGtNyc/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:18:25.319350+00:00"
-      },
-      {
-        "id": "pGRQwrCC6qE",
-        "title": "Pyar Ke Sadqay Episode 6 HUM TV Drama 27 February 2020",
-        "episode": 6,
-        "date": "2020-02-27",
-        "published": "2020-02-27T16:11:35Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/pGRQwrCC6qE/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:18:25.319350+00:00"
-      },
-      {
         "id": "KJTq5C-TH_4",
         "title": "Pyar Ke Sadqay | Episode 5 |  Yumna Zaidi | Bilal Abbas | Shra Asghar | Yashma Gill | HUM TV Drama",
         "episode": 5,
@@ -29517,22 +28557,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GgsctuGjg8A/hqdefault.jpg",
         "checkedAt": "2026-10-31T07:41:48.754557+00:00"
-      },
-      {
-        "id": "g3iltjwYMr8",
-        "title": "Pyar Ke Sadqay | Episode 2 |  Yumna Zaidi | Bilal Abbas | Shra Asghar | Yashma Gill | HUM TV Drama",
-        "episode": 2,
-        "date": "2023-12-09",
-        "published": "2023-12-09T16:00:23Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/g3iltjwYMr8/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:18:25.319350+00:00"
       },
       {
         "id": "YrDFUh2-TnA",
@@ -30661,22 +29685,6 @@
         "checkedAt": "2026-10-31T07:44:16.224807+00:00"
       },
       {
-        "id": "afT3wJIY1CQ",
-        "title": "Suno Chanda Episode #19 HUM TV Drama 4 June 2018",
-        "episode": 19,
-        "date": "2018-06-04",
-        "published": "2018-06-04T18:34:11Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/afT3wJIY1CQ/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:20:17.843195+00:00"
-      },
-      {
         "id": "2ZtyMBLF8rM",
         "title": "Suno Chanda Episode #18 HUM TV Drama 3 June 2018",
         "episode": 18,
@@ -30805,22 +29813,6 @@
         "checkedAt": "2026-10-25T15:10:45.867408+00:00"
       },
       {
-        "id": "XtxaTpmEuQU",
-        "title": "Suno Chanda Episode #13 HUM TV Drama 29 May 2018",
-        "episode": 13,
-        "date": "2018-05-29",
-        "published": "2018-05-29T18:09:36Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/XtxaTpmEuQU/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:20:17.843195+00:00"
-      },
-      {
         "id": "Jr2tB1F3NBE",
         "title": "Suno Chanda Season 2 - Episode 12 - Iqra Aziz - Farhan Saeed - Mashal Khan- HUM TV",
         "episode": 12,
@@ -30835,22 +29827,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Jr2tB1F3NBE/hqdefault.jpg",
         "checkedAt": "2026-10-31T07:44:16.224807+00:00"
-      },
-      {
-        "id": "1apFC2-Dwb4",
-        "title": "Suno Chanda Episode #12 HUM TV Drama 28 May 2018",
-        "episode": 12,
-        "date": "2018-05-28",
-        "published": "2018-05-28T19:58:29Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/1apFC2-Dwb4/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:20:17.843195+00:00"
       },
       {
         "id": "wgCTA204v5E",
@@ -30947,22 +29923,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cUKZJ4PPxOM/hqdefault.jpg",
         "checkedAt": "2026-10-31T07:44:16.224807+00:00"
-      },
-      {
-        "id": "HLkbJRcFmL4",
-        "title": "Suno Chanda Episode #6  HUM TV Drama 22 May 2018",
-        "episode": 6,
-        "date": "2018-05-22",
-        "published": "2018-05-22T17:55:09Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/HLkbJRcFmL4/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:20:17.843195+00:00"
       },
       {
         "id": "4cN4PC23uzk",
@@ -32283,22 +31243,6 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/X6qfF2t9fmQ/hqdefault.jpg",
         "checkedAt": "2026-10-25T16:31:25.687956+00:00"
-      },
-      {
-        "id": "ebioxADOBOw",
-        "title": "Dar-e-Nijaat Episode 23 | 17 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
-        "episode": 23,
-        "date": "2026-10-17",
-        "published": "2026-10-17T16:00:39Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/ebioxADOBOw/hqdefault.jpg",
-        "checkedAt": "2026-10-18T15:21:13.629433+00:00"
       }
     ],
     "harpalgeo-humrahi": [
@@ -32316,7 +31260,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7MI7S4KsaXE/hqdefault.jpg",
-        "checkedAt": "2026-10-27T09:08:11.167695+00:00"
+        "checkedAt": "2026-11-01T16:06:10.522511+00:00"
+      },
+      {
+        "id": "NCXN9Y4tObg",
+        "title": "Humrahi 2nd Last Episode 40 [Eng Sub] Presented by Happilac Paints & Sunsilk | 14th August 2026",
+        "episode": 40,
+        "date": "2026-08-14",
+        "published": "2026-08-14T16:00:11Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/NCXN9Y4tObg/hqdefault.jpg",
+        "checkedAt": "2026-11-01T16:06:10.522511+00:00"
       }
     ],
     "arydigital-lagan-lagi": [
@@ -32434,6 +31394,6 @@
       }
     ]
   },
-  "cursor": 24,
+  "cursor": 28,
   "apiValidated": true
 }
