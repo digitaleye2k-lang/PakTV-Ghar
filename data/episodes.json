@@ -148,14 +148,6 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/Thu_M83L190/hqdefault.jpg",
         "checkedAt": "2026-10-21T22:11:59.697806+00:00"
-      },
-      {
-        "title": "Tareef Nahi Be Izzati Kar Raha Tha Woh Shakhs Meri | Hey Fam Episode 12 | ARY Digital",
-        "episode": 12,
-        "id": "7zoRiMxVU84",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-31"
       }
     ]
   },
@@ -208,50 +200,6 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/X6qfF2t9fmQ/hqdefault.jpg",
         "checkedAt": "2026-10-25T16:31:25.687956+00:00"
-      }
-    ]
-  },
-  "arydigital-hey-fam": {
-    "episodes": [
-      {
-        "id": "ClodGn_RSLo",
-        "title": "Hey Fam | EP 14 | 29 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
-        "episode": 14,
-        "date": "2026-10-29",
-        "published": "2026-10-29T16:00:38Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/ClodGn_RSLo/hqdefault.jpg",
-        "checkedAt": "2026-10-31T07:46:49.102465+00:00"
-      },
-      {
-        "title": "Tareef Nahi Be Izzati Kar Raha Tha Woh Shakhs Meri | Hey Fam Episode 12 | ARY Digital",
-        "episode": 12,
-        "id": "7zoRiMxVU84",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-31"
-      },
-      {
-        "id": "ueuIIA0VN5k",
-        "title": "Is Mushkil Waqt Mai Tumhare Baba Tumhare Saath Hain | Hey Fam Episode 5 | ARY Digital",
-        "episode": 5,
-        "date": "2026-10-24",
-        "published": "2026-10-24T18:40:00Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ueuIIA0VN5k/hqdefault.jpg",
-        "checkedAt": "2026-10-25T20:56:53.845295+00:00"
       }
     ]
   },
@@ -1311,7 +1259,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/EQ-baUqmNaA/hqdefault.jpg",
-        "checkedAt": "2026-10-27T22:22:28.501155+00:00"
+        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
       },
       {
         "id": "-FXbu933_Bg",
@@ -1327,7 +1275,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-FXbu933_Bg/hqdefault.jpg",
-        "checkedAt": "2026-10-27T22:22:28.501155+00:00"
+        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
       }
     ]
   },
@@ -1347,7 +1295,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wqiKk2kIMA0/hqdefault.jpg",
-        "checkedAt": "2026-10-28T05:52:42.988305+00:00"
+        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
       },
       {
         "id": "nw17xXuRiKM",
@@ -1363,7 +1311,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nw17xXuRiKM/hqdefault.jpg",
-        "checkedAt": "2026-10-28T05:52:42.988305+00:00"
+        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
       }
     ]
   },
@@ -1383,7 +1331,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/T-rg8ZWoMeI/hqdefault.jpg",
-        "checkedAt": "2026-10-28T05:52:42.988305+00:00"
+        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
       },
       {
         "id": "mbujMW8PDK8",
@@ -1399,7 +1347,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mbujMW8PDK8/hqdefault.jpg",
-        "checkedAt": "2026-10-28T05:52:42.988305+00:00"
+        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
       }
     ]
   },
@@ -31415,6 +31363,42 @@
       }
     ]
   },
+  "arydigital-hey-fam": {
+    "episodes": [
+      {
+        "id": "ClodGn_RSLo",
+        "title": "Hey Fam | EP 14 | 29 Oct 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
+        "episode": 14,
+        "date": "2026-10-29",
+        "published": "2026-10-29T16:00:38Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/ClodGn_RSLo/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:46:49.102465+00:00"
+      },
+      {
+        "id": "ueuIIA0VN5k",
+        "title": "Is Mushkil Waqt Mai Tumhare Baba Tumhare Saath Hain | Hey Fam Episode 5 | ARY Digital",
+        "episode": 5,
+        "date": "2026-10-24",
+        "published": "2026-10-24T18:40:00Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ueuIIA0VN5k/hqdefault.jpg",
+        "checkedAt": "2026-10-25T20:56:53.845295+00:00"
+      }
+    ]
+  },
   "arydigital-main-tera": {
     "episodes": [
       {
@@ -31643,7 +31627,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GYARaiI6JCo/hqdefault.jpg",
-        "checkedAt": "2026-10-28T05:52:42.988305+00:00"
+        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
       },
       {
         "id": "f4p4uLc4u-k",
@@ -31659,7 +31643,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/f4p4uLc4u-k/hqdefault.jpg",
-        "checkedAt": "2026-10-28T05:52:42.988305+00:00"
+        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
       }
     ]
   },

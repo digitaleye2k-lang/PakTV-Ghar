@@ -1,6 +1,6 @@
 {
-  "quotaDay": "2026-11-01",
-  "dailySearches": 24,
+  "quotaDay": "2026-11-02",
+  "dailySearches": 8,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -836,7 +836,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/EQ-baUqmNaA/hqdefault.jpg",
-        "checkedAt": "2026-10-27T22:22:28.501155+00:00"
+        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
       },
       {
         "id": "-FXbu933_Bg",
@@ -852,7 +852,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-FXbu933_Bg/hqdefault.jpg",
-        "checkedAt": "2026-10-27T22:22:28.501155+00:00"
+        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
       }
     ],
     "hum-musafat": [
@@ -870,7 +870,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wqiKk2kIMA0/hqdefault.jpg",
-        "checkedAt": "2026-10-28T05:52:42.988305+00:00"
+        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
       },
       {
         "id": "nw17xXuRiKM",
@@ -886,7 +886,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nw17xXuRiKM/hqdefault.jpg",
-        "checkedAt": "2026-10-28T05:52:42.988305+00:00"
+        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
       }
     ],
     "hum-sirf-shabana": [
@@ -904,7 +904,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/T-rg8ZWoMeI/hqdefault.jpg",
-        "checkedAt": "2026-10-28T05:52:42.988305+00:00"
+        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
       },
       {
         "id": "mbujMW8PDK8",
@@ -920,7 +920,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mbujMW8PDK8/hqdefault.jpg",
-        "checkedAt": "2026-10-28T05:52:42.988305+00:00"
+        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
       }
     ],
     "arydigital-angna": [
@@ -31192,7 +31192,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GYARaiI6JCo/hqdefault.jpg",
-        "checkedAt": "2026-10-28T05:52:42.988305+00:00"
+        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
       },
       {
         "id": "f4p4uLc4u-k",
@@ -31208,7 +31208,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/f4p4uLc4u-k/hqdefault.jpg",
-        "checkedAt": "2026-10-28T05:52:42.988305+00:00"
+        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
       }
     ],
     "arydigital-dar-e-nijaat": [
@@ -31394,6 +31394,6 @@
       }
     ]
   },
-  "cursor": 36,
+  "cursor": 40,
   "apiValidated": true
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T06:21:09.396900+00:00",
+  "generatedAt": "2026-11-02T19:34:35.094850+00:00",
   "sources": [
     {
       "id": "homebased",
@@ -24,6 +24,16 @@
     }
   ],
   "videos": [
+    {
+      "id": "8wJN3GecQY0",
+      "title": "Allah defeated them using their own hearts | Deeper Look: Surah Al-Hashr | Nouman Ali Khan",
+      "channelId": "bayyinah",
+      "channel": "Nouman Ali Khan - Official - Bayyinah",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-02",
+      "source": "publisher YouTube Data API"
+    },
     {
       "id": "JgVttm3xUUo",
       "title": "Your Tasbih Is Connected to the Whole Universe | Deeper Look: Surah Al-Hashr | Nouman Ali Khan",
@@ -935,6 +945,6 @@
       "source": "verified official teaching upload"
     }
   ],
-  "count": 91,
+  "count": 92,
   "errors": []
 }
