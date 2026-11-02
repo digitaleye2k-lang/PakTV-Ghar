@@ -10,14 +10,6 @@
         "date": "2026-10-31"
       },
       {
-        "title": "Khushi - Episode 48 Highlights - 30th Oct 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
-        "episode": 48,
-        "id": "R9pyOUMOthY",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-10-31"
-      },
-      {
         "id": "dReHjLpsE08",
         "title": "Khushi - Episode 48 - [ENG SUB] 30th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
         "episode": 48,
@@ -84,50 +76,6 @@
         "source": "HUM TV",
         "kind": "youtube",
         "date": "2026-10-31"
-      }
-    ]
-  },
-  "hum-tark-e-tamanna": {
-    "episodes": [
-      {
-        "title": "Tark-e-Tamanna - Episode 17 Highlights | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
-        "episode": 17,
-        "id": "N8RjZeFUSJk",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-10-31"
-      },
-      {
-        "id": "ANxuTaGPnXg",
-        "title": "Tark-e-Tamanna - Episode 17 [Eng Sub] - 30th Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
-        "episode": 17,
-        "date": "2026-10-30",
-        "published": "2026-10-30T17:00:11Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ANxuTaGPnXg/hqdefault.jpg",
-        "checkedAt": "2026-10-31T07:54:27.409378+00:00"
-      },
-      {
-        "id": "OLB9Cy49X2g",
-        "title": "Tark-e-Tamanna - Episode 12 - [Eng Sub] 21st Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
-        "episode": 12,
-        "date": "2026-10-21",
-        "published": "2026-10-21T17:00:16Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/OLB9Cy49X2g/hqdefault.jpg",
-        "checkedAt": "2026-10-22T07:08:51.571087+00:00"
       }
     ]
   },
@@ -211,26 +159,6 @@
       }
     ]
   },
-  "arydigital-rutba": {
-    "episodes": [
-      {
-        "title": "Shatranj Main Tou Malka Hi Badshah Hoti Hai | Rutba Episode 5 | ARY Digital",
-        "episode": 5,
-        "id": "ohC5Ow9M9YY",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-31"
-      },
-      {
-        "title": "Tohfa Samajh Kar Qubool Kar Lein | Rutba Episode 5 | Hiba Bukhari | Mehwish Hayat | ARY Digital",
-        "episode": 5,
-        "id": "aeqeNAR9Ob8",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-31"
-      }
-    ]
-  },
   "arydigital-dar-e-nijaat": {
     "episodes": [
       {
@@ -305,14 +233,6 @@
         "title": "Tareef Nahi Be Izzati Kar Raha Tha Woh Shakhs Meri | Hey Fam Episode 12 | ARY Digital",
         "episode": 12,
         "id": "7zoRiMxVU84",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-10-31"
-      },
-      {
-        "title": "Meri Insult Sirf Tumhari Wajah Se Hui Hai | Hey Fam Episode 12 | Dua Zahra | ARY Digital",
-        "episode": 12,
-        "id": "ol4j1wKxtSw",
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-10-31"
@@ -677,22 +597,6 @@
         "title": "Bano Episode 18 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
         "episode": 18,
         "id": "uOlaGvoCfcw",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-31"
-      },
-      {
-        "title": "Bano Episode 18 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 18,
-        "id": "1TtpbyksFDU",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-10-31"
-      },
-      {
-        "title": "Bano Episode 18 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 18,
-        "id": "qkczfZIGhU8",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-10-31"
@@ -1283,7 +1187,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/LDu-XHAWJM4/hqdefault.jpg",
-        "checkedAt": "2026-10-27T15:25:11.922979+00:00"
+        "checkedAt": "2026-11-02T06:20:49.082883+00:00"
       },
       {
         "id": "Gud4kMK5WrM",
@@ -1299,7 +1203,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Gud4kMK5WrM/hqdefault.jpg",
-        "checkedAt": "2026-10-27T15:25:11.922979+00:00"
+        "checkedAt": "2026-11-02T06:20:49.082883+00:00"
       },
       {
         "id": "GLVCe0bFBXw",
@@ -1315,7 +1219,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GLVCe0bFBXw/hqdefault.jpg",
-        "checkedAt": "2026-10-27T15:25:11.922979+00:00"
+        "checkedAt": "2026-11-02T06:20:49.082883+00:00"
       }
     ]
   },
@@ -1335,7 +1239,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nzE6TeRnstM/hqdefault.jpg",
-        "checkedAt": "2026-10-27T22:22:28.501155+00:00"
+        "checkedAt": "2026-11-02T06:20:49.082883+00:00"
       },
       {
         "id": "bCe2W5uakAY",
@@ -1351,7 +1255,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/bCe2W5uakAY/hqdefault.jpg",
-        "checkedAt": "2026-10-27T22:22:28.501155+00:00"
+        "checkedAt": "2026-11-02T06:20:49.082883+00:00"
       },
       {
         "id": "ym_DGbtvNNQ",
@@ -1367,7 +1271,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ym_DGbtvNNQ/hqdefault.jpg",
-        "checkedAt": "2026-10-27T22:22:28.501155+00:00"
+        "checkedAt": "2026-11-02T06:20:49.082883+00:00"
       }
     ]
   },
@@ -1387,7 +1291,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dhJj0oDY58w/hqdefault.jpg",
-        "checkedAt": "2026-10-27T22:22:28.501155+00:00"
+        "checkedAt": "2026-11-02T06:20:49.082883+00:00"
       }
     ]
   },
@@ -31667,6 +31571,42 @@
       }
     ]
   },
+  "hum-tark-e-tamanna": {
+    "episodes": [
+      {
+        "id": "ANxuTaGPnXg",
+        "title": "Tark-e-Tamanna - Episode 17 [Eng Sub] - 30th Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "episode": 17,
+        "date": "2026-10-30",
+        "published": "2026-10-30T17:00:11Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ANxuTaGPnXg/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:54:27.409378+00:00"
+      },
+      {
+        "id": "OLB9Cy49X2g",
+        "title": "Tark-e-Tamanna - Episode 12 - [Eng Sub] 21st Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "episode": 12,
+        "date": "2026-10-21",
+        "published": "2026-10-21T17:00:16Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/OLB9Cy49X2g/hqdefault.jpg",
+        "checkedAt": "2026-10-22T07:08:51.571087+00:00"
+      }
+    ]
+  },
   "hum-hadd": {
     "episodes": [
       {
@@ -31683,7 +31623,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kbJ0_aO-2w0/hqdefault.jpg",
-        "checkedAt": "2026-10-27T22:22:28.501155+00:00"
+        "checkedAt": "2026-11-02T06:20:49.082883+00:00"
       }
     ]
   },

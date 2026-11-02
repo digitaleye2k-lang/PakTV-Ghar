@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-01T22:09:48.494008+00:00",
+  "generatedAt": "2026-11-02T06:21:01.058066+00:00",
   "source": "verified_publisher_uploads_and_official_starters",
-  "count": 714,
+  "count": 712,
   "publishers": {
     "cokestudio": 125,
-    "natashabaig": 91,
+    "natashabaig": 90,
     "emipakistan": 253,
     "talhaanjum": 68,
     "abdulhannan": 38,
     "hasanraheem": 66,
     "bayaan": 30,
-    "youngstunners": 41,
+    "youngstunners": 40,
     "jaubi": 1,
     "sajjadali": 1
   },
@@ -8522,30 +8522,6 @@
       "date": "2017-07-22",
       "embeddable": true,
       "durationSeconds": 241
-    },
-    {
-      "id": "h2E2wiz3sug",
-      "title": "Real Talk - Young Stunners - Official Music Video",
-      "channel": "Young Stunners",
-      "channelId": "youngstunners",
-      "category": "music",
-      "genre": "Hip-Hop & Rap",
-      "published": "2017-07-22T17:37:12Z",
-      "date": "2017-07-22",
-      "embeddable": true,
-      "durationSeconds": 229
-    },
-    {
-      "id": "_lyz5gdtOa4",
-      "title": "Ya Moula | Natasha Baig ft. YBQ - Burushaski Song 2017",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-07-11T09:22:06Z",
-      "date": "2017-07-11",
-      "embeddable": true,
-      "durationSeconds": 265
     },
     {
       "id": "kw4tT7SCmaY",

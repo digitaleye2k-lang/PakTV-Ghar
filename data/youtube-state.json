@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-11-01",
-  "dailySearches": 16,
+  "dailySearches": 24,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -718,7 +718,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/LDu-XHAWJM4/hqdefault.jpg",
-        "checkedAt": "2026-10-27T15:25:11.922979+00:00"
+        "checkedAt": "2026-11-02T06:20:49.082883+00:00"
       },
       {
         "id": "Gud4kMK5WrM",
@@ -734,7 +734,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Gud4kMK5WrM/hqdefault.jpg",
-        "checkedAt": "2026-10-27T15:25:11.922979+00:00"
+        "checkedAt": "2026-11-02T06:20:49.082883+00:00"
       },
       {
         "id": "GLVCe0bFBXw",
@@ -750,7 +750,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GLVCe0bFBXw/hqdefault.jpg",
-        "checkedAt": "2026-10-27T15:25:11.922979+00:00"
+        "checkedAt": "2026-11-02T06:20:49.082883+00:00"
       }
     ],
     "hum-deewar": [
@@ -768,7 +768,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nzE6TeRnstM/hqdefault.jpg",
-        "checkedAt": "2026-10-27T22:22:28.501155+00:00"
+        "checkedAt": "2026-11-02T06:20:49.082883+00:00"
       },
       {
         "id": "bCe2W5uakAY",
@@ -784,7 +784,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/bCe2W5uakAY/hqdefault.jpg",
-        "checkedAt": "2026-10-27T22:22:28.501155+00:00"
+        "checkedAt": "2026-11-02T06:20:49.082883+00:00"
       },
       {
         "id": "ym_DGbtvNNQ",
@@ -800,7 +800,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ym_DGbtvNNQ/hqdefault.jpg",
-        "checkedAt": "2026-10-27T22:22:28.501155+00:00"
+        "checkedAt": "2026-11-02T06:20:49.082883+00:00"
       }
     ],
     "hum-ek-jhooti-kahani": [
@@ -818,7 +818,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dhJj0oDY58w/hqdefault.jpg",
-        "checkedAt": "2026-10-27T22:22:28.501155+00:00"
+        "checkedAt": "2026-11-02T06:20:49.082883+00:00"
       }
     ],
     "hum-leader": [
@@ -31174,7 +31174,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kbJ0_aO-2w0/hqdefault.jpg",
-        "checkedAt": "2026-10-27T22:22:28.501155+00:00"
+        "checkedAt": "2026-11-02T06:20:49.082883+00:00"
       }
     ],
     "hum-muamma": [
@@ -31394,6 +31394,6 @@
       }
     ]
   },
-  "cursor": 32,
+  "cursor": 36,
   "apiValidated": true
 }
