@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-11-04",
-  "dailySearches": 16,
+  "dailySearches": 24,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -71,72 +71,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OgVDeLaWZwU/hqdefault.jpg",
         "checkedAt": "2026-10-31T07:48:49.234695+00:00"
-      }
-    ],
-    "harpalgeo-mohabbat": [
-      {
-        "id": "W6qgMZOczfU",
-        "title": "Mohabbat Episode 08 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
-        "episode": 8,
-        "date": "2026-10-21",
-        "published": "2026-10-21T10:00:13Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/W6qgMZOczfU/hqdefault.jpg",
-        "checkedAt": "2026-10-22T01:02:25.930340+00:00"
-      },
-      {
-        "id": "FgluuZuNOOo",
-        "title": "Mohabbat Episode 08 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
-        "episode": 8,
-        "date": "2026-10-21",
-        "published": "2026-10-21T09:00:06Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/FgluuZuNOOo/hqdefault.jpg",
-        "checkedAt": "2026-10-22T01:02:25.930340+00:00"
-      },
-      {
-        "id": "0lPLgwHN_4c",
-        "title": "Mohabbat Episode 08 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
-        "episode": 8,
-        "date": "2026-10-20",
-        "published": "2026-10-20T22:30:24Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/0lPLgwHN_4c/hqdefault.jpg",
-        "checkedAt": "2026-10-22T01:02:25.930340+00:00"
-      },
-      {
-        "id": "WmDiRQ0IuXI",
-        "title": "Mohabbat Episode 08 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
-        "episode": 8,
-        "date": "2026-10-20",
-        "published": "2026-10-20T21:30:02Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/WmDiRQ0IuXI/hqdefault.jpg",
-        "checkedAt": "2026-10-22T01:02:25.930340+00:00"
       }
     ],
     "harpalgeo-nashtar": [
@@ -12166,7 +12100,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GL4XTAuUaos/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "p6xEjc0PqpA",
@@ -12182,7 +12116,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/p6xEjc0PqpA/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+      },
+      {
+        "id": "H-mH85tEJUU",
+        "title": "Sukoon Episode 44 | Digitally Presented by Royal (Eng Sub) | 14 March 2024 | ARY Digital",
+        "episode": 44,
+        "date": "2024-03-14",
+        "published": "2024-03-14T17:59:06Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/H-mH85tEJUU/hqdefault.jpg",
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+      },
+      {
+        "id": "TOpOxDM8JBI",
+        "title": "Sukoon Episode 43 | Digitally Presented by Royal (English Subtitles) | 13 March 2024 | ARY Digital",
+        "episode": 43,
+        "date": "2024-03-13",
+        "published": "2024-03-13T18:20:00Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/TOpOxDM8JBI/hqdefault.jpg",
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "7EzkrzsEmX4",
@@ -12198,7 +12164,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7EzkrzsEmX4/hqdefault.jpg",
-        "checkedAt": "2026-10-23T18:59:15.801918+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "IjpMoO7pKqA",
@@ -12214,7 +12180,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/IjpMoO7pKqA/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "V4sEBER6wQ8",
@@ -12230,7 +12196,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/V4sEBER6wQ8/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "5WsrexPPDqk",
@@ -12262,7 +12228,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/32kzlAawVj8/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "L1-ZkMb7VdE",
@@ -12278,7 +12244,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/L1-ZkMb7VdE/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "VgEp6VUfXDs",
@@ -12294,7 +12260,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/VgEp6VUfXDs/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "t0y6_rS2ntE",
@@ -12310,7 +12276,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/t0y6_rS2ntE/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "mmW4BZdaW6g",
@@ -12326,7 +12292,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mmW4BZdaW6g/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "iFM2cLtUPbY",
@@ -12342,7 +12308,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iFM2cLtUPbY/hqdefault.jpg",
-        "checkedAt": "2026-10-23T18:59:15.801918+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "mxDR3dLZzbQ",
@@ -12374,7 +12340,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XcrZbj8ggYE/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+      },
+      {
+        "id": "c1F2aFoG8XQ",
+        "title": "Sukoon Episode 29 | Digitally Presented by Royal , Sensodyn & FreeStyle Libre (Eng Sub)| 24 Jan 2024",
+        "episode": 29,
+        "date": "2024-01-24",
+        "published": "2024-01-24T16:00:32Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/c1F2aFoG8XQ/hqdefault.jpg",
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "77akzWs9FSo",
@@ -12406,7 +12388,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iYIY0_9rP2k/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "OohhsNv-cyk",
@@ -12422,7 +12404,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OohhsNv-cyk/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "RNYpFYPst98",
@@ -12438,7 +12420,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/RNYpFYPst98/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "GtPq7hkfKJc",
@@ -12470,7 +12452,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/J3uzMb8aUP8/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "_hjgxEqDVpo",
@@ -12502,7 +12484,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/I6OQXSTf3sE/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "f5iLF7eHaS0",
@@ -12518,7 +12500,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/f5iLF7eHaS0/hqdefault.jpg",
-        "checkedAt": "2026-10-23T18:59:15.801918+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "5dBIIgSUA7M",
@@ -12534,7 +12516,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5dBIIgSUA7M/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "dwgDKnet0XQ",
@@ -12566,7 +12548,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/H9uS2sOUxbQ/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "RHN6pzfquLs",
@@ -12582,7 +12564,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/RHN6pzfquLs/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "OCUz_nTD_io",
@@ -12598,7 +12580,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OCUz_nTD_io/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "QIUeIQPFQWo",
@@ -12614,7 +12596,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QIUeIQPFQWo/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "diO0oIEPI64",
@@ -12630,7 +12612,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/diO0oIEPI64/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "KufnqkD_CA4",
@@ -12694,7 +12676,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yvGExJn0MmU/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "_N64Vz2WvSw",
@@ -12710,7 +12692,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_N64Vz2WvSw/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "X0fG-B7V8Xk",
@@ -12726,7 +12708,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/X0fG-B7V8Xk/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+      },
+      {
+        "id": "K7NVqovgxCM",
+        "title": "Sukoon Episode 3 - 20 Oct 2023 (Eng Sub) | Sana Javed | Ahsan Khan | Khaqan Shahnawaz | ARY Digital",
+        "episode": 3,
+        "date": "2023-10-20",
+        "published": "2023-10-20T16:00:24Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/K7NVqovgxCM/hqdefault.jpg",
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "K5oI7trwdOw",
@@ -12742,7 +12740,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/K5oI7trwdOw/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "GcfwlqTEUsA",
@@ -12758,7 +12756,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GcfwlqTEUsA/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:41:19.691673+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       }
     ],
     "harpalgeo-dil-e-momin": [
@@ -12776,7 +12774,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lnfmCizXhfs/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:43:10.733098+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "TMw7DOIczPM",
@@ -12792,7 +12790,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TMw7DOIczPM/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:43:10.733098+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "fX2nsJm_gH4",
@@ -12808,7 +12806,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fX2nsJm_gH4/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:43:10.733098+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "SYibmKVGNtI",
@@ -12824,7 +12822,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SYibmKVGNtI/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:43:10.733098+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "yl02Vqse560",
@@ -12840,7 +12838,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yl02Vqse560/hqdefault.jpg",
-        "checkedAt": "2026-10-23T21:49:29.055399+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+      },
+      {
+        "id": "2D2fXy76hJk",
+        "title": "Dil-e-Momin - Episode 43 - [Eng Sub] - 9th April 2022 - Har Pal Geo",
+        "episode": 43,
+        "date": "2022-04-09",
+        "published": "2022-04-09T16:00:02Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/2D2fXy76hJk/hqdefault.jpg",
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "Q6qPeEyd1VM",
@@ -12856,7 +12870,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Q6qPeEyd1VM/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:43:10.733098+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "ctAtG-BXJko",
@@ -12888,7 +12902,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DDJRBcllZFU/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:43:10.733098+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "pG2WF8UpzHA",
@@ -12920,7 +12934,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0TcoLMO4Omk/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:43:10.733098+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "8lLE1h1Tc-s",
@@ -12936,7 +12950,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8lLE1h1Tc-s/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:43:10.733098+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "VHXcbRDyVtE",
@@ -12984,7 +12998,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QLthZvRABV8/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:43:10.733098+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "sXFlfsFOzeY",
@@ -13017,6 +13031,70 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5Zs_k5h3TEA/hqdefault.jpg",
         "checkedAt": "2026-10-23T21:49:29.055399+00:00"
+      },
+      {
+        "id": "kdMatcJyTYc",
+        "title": "Dil-e-Momin - Episode 21 - [Eng Sub] - Digitally Presented by Nisa Lovely BB Cream - 22nd January 22",
+        "episode": 21,
+        "date": "2022-01-22",
+        "published": "2022-01-22T16:00:23Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/kdMatcJyTYc/hqdefault.jpg",
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+      },
+      {
+        "id": "riXqJpK3fvU",
+        "title": "Dil-e-Momin - Episode 19 - [Eng Sub] - Digitally Presented by Nisa Lovely BB Cream - 15th January 22",
+        "episode": 19,
+        "date": "2022-01-15",
+        "published": "2022-01-15T16:00:20Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/riXqJpK3fvU/hqdefault.jpg",
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+      },
+      {
+        "id": "9v-JFDDzCQc",
+        "title": "Dil-e-Momin - Episode 18 - [Eng Sub] - Digitally Presented by Ujooba Beauty Cream - 14th January 22",
+        "episode": 18,
+        "date": "2022-01-14",
+        "published": "2022-01-14T16:00:04Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/9v-JFDDzCQc/hqdefault.jpg",
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+      },
+      {
+        "id": "XDSW1_dHciE",
+        "title": "Dil-e-Momin - Episode 17 - [Eng Sub] - Digitally Presented by Nisa Lovely BB Cream - 8th January 22",
+        "episode": 17,
+        "date": "2022-01-08",
+        "published": "2022-01-08T16:00:13Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/XDSW1_dHciE/hqdefault.jpg",
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "MJZa1mmYmDk",
@@ -13064,7 +13142,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/d6kbsX6cf7U/hqdefault.jpg",
-        "checkedAt": "2026-10-23T21:49:29.055399+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "Bzen0RhsgoM",
@@ -13080,7 +13158,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Bzen0RhsgoM/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:43:10.733098+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+      },
+      {
+        "id": "bfAUKRDTnjA",
+        "title": "Dil-e-Momin - Episode 12 - [Eng Sub]  Digitally Presented by Nisa Lovely BB Cream - 18th December 21",
+        "episode": 12,
+        "date": "2021-12-18",
+        "published": "2021-12-18T16:00:31Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/bfAUKRDTnjA/hqdefault.jpg",
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "6DD5_4cl1kM",
@@ -13096,7 +13190,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6DD5_4cl1kM/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:43:10.733098+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "k8ggP9UljL8",
@@ -13112,7 +13206,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/k8ggP9UljL8/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:43:10.733098+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "snK_KgrJTN8",
@@ -13128,7 +13222,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/snK_KgrJTN8/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:43:10.733098+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "yN_x0SwKZNY",
@@ -13144,7 +13238,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yN_x0SwKZNY/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:43:10.733098+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "pTwVZnSZSVo",
@@ -13160,7 +13254,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pTwVZnSZSVo/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:43:10.733098+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "KuZ0wEjrQLo",
@@ -13176,7 +13270,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/KuZ0wEjrQLo/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:43:10.733098+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "3QwYRN9QZdk",
@@ -13192,7 +13286,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3QwYRN9QZdk/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:43:10.733098+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "YEa6HM2XW68",
@@ -13208,7 +13302,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/YEa6HM2XW68/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:43:10.733098+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "-03gsbObeeg",
@@ -13224,7 +13318,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-03gsbObeeg/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:43:10.733098+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "rrUIrKTXudQ",
@@ -13240,7 +13334,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rrUIrKTXudQ/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:43:10.733098+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
         "id": "erJ9iWnQTd4",
@@ -13256,7 +13350,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/erJ9iWnQTd4/hqdefault.jpg",
-        "checkedAt": "2026-10-28T22:43:10.733098+00:00"
+        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       }
     ],
     "harpalgeo-farq": [
@@ -31195,41 +31289,9 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/Ysq02aKxOHU/hqdefault.jpg",
         "checkedAt": "2026-10-31T07:46:49.102465+00:00"
-      },
-      {
-        "id": "Thu_M83L190",
-        "title": "Izzat Episode 32 | 21 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 32,
-        "date": "2026-10-21",
-        "published": "2026-10-21T15:00:14Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/Thu_M83L190/hqdefault.jpg",
-        "checkedAt": "2026-10-21T22:11:59.697806+00:00"
       }
     ],
     "arydigital-main-tera": [
-      {
-        "id": "I5gDYGVf4l0",
-        "title": "Main Tera 2nd Last Episode 64 | 20 October 2026 | Ghana Ali | Yusra Irfan | Arez Ahmed | ARY Digital",
-        "episode": 64,
-        "date": "2026-10-20",
-        "published": "2026-10-20T17:00:26Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/I5gDYGVf4l0/hqdefault.jpg",
-        "checkedAt": "2026-10-21T22:11:59.697806+00:00"
-      },
       {
         "id": "K8pm_QfrBA0",
         "title": "Warisha Ki Zindagi Ki Sabse Bari Ghalati | Main Tera Episode 63 | ARY Digital",
@@ -31327,38 +31389,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DMlPnlj4AC8/hqdefault.jpg",
         "checkedAt": "2026-10-25T23:20:05.142413+00:00"
-      },
-      {
-        "id": "3GsRhhcO-e8",
-        "title": "Bano Episode 09 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 21st October 2026 | HAR PAL GEO",
-        "episode": 9,
-        "date": "2026-10-21",
-        "published": "2026-10-21T17:00:18Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/3GsRhhcO-e8/hqdefault.jpg",
-        "checkedAt": "2026-10-21T22:11:59.697806+00:00"
-      },
-      {
-        "id": "9BDUO9_eCSs",
-        "title": "Bano Episode 08 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 8,
-        "date": "2026-10-21",
-        "published": "2026-10-21T07:30:28Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/9BDUO9_eCSs/hqdefault.jpg",
-        "checkedAt": "2026-10-21T22:11:59.697806+00:00"
       }
     ],
     "harpalgeo-khafa": [
@@ -31425,22 +31455,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_mgVD-alezg/hqdefault.jpg",
         "checkedAt": "2026-10-25T23:20:05.142413+00:00"
-      },
-      {
-        "id": "aD6aT1uLd-U",
-        "title": "Khafa Episode 23 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 21st Oct 2026 | HAR PAL GEO",
-        "episode": 23,
-        "date": "2026-10-21",
-        "published": "2026-10-21T16:00:20Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/aD6aT1uLd-U/hqdefault.jpg",
-        "checkedAt": "2026-10-22T01:02:25.930340+00:00"
       }
     ],
     "hum-gulbahar": [
@@ -31730,6 +31744,6 @@
       }
     ]
   },
-  "cursor": 64,
+  "cursor": 68,
   "apiValidated": true
 }

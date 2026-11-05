@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-04T19:52:03.120425+00:00",
+  "generatedAt": "2026-11-05T01:30:11.685942+00:00",
   "source": "verified_publisher_uploads_and_official_starters",
-  "count": 714,
+  "count": 712,
   "publishers": {
     "cokestudio": 125,
-    "natashabaig": 95,
+    "natashabaig": 90,
     "emipakistan": 253,
     "talhaanjum": 68,
     "abdulhannan": 38,
     "hasanraheem": 66,
     "bayaan": 30,
-    "youngstunners": 37,
+    "youngstunners": 40,
     "jaubi": 1,
     "sajjadali": 1
   },
@@ -8476,6 +8476,18 @@
       "durationSeconds": 207
     },
     {
+      "id": "VQZTTkm89Bo",
+      "title": "Karachi Lingo - Official Audio - Talha Anjum | Talhah Yunus",
+      "channel": "Young Stunners",
+      "channelId": "youngstunners",
+      "category": "music",
+      "genre": "Hip-Hop & Rap",
+      "published": "2017-09-02T18:42:58Z",
+      "date": "2017-09-02",
+      "embeddable": true,
+      "durationSeconds": 282
+    },
+    {
       "id": "XZV8sKjyv60",
       "title": "Parchan Shal | Salam Zindagi | Natasha Baig & Faisal Qureshi",
       "channel": "Natasha Baig",
@@ -8488,64 +8500,28 @@
       "durationSeconds": 255
     },
     {
-      "id": "_lyz5gdtOa4",
-      "title": "Ya Moula | Natasha Baig ft. YBQ - Burushaski Song 2017",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
+      "id": "n8R-W9Lsrzk",
+      "title": "NOHookUps - Young Stunners - Official Audio",
+      "channel": "Young Stunners",
+      "channelId": "youngstunners",
       "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-07-11T09:22:06Z",
-      "date": "2017-07-11",
+      "genre": "Hip-Hop & Rap",
+      "published": "2017-07-22T21:06:59Z",
+      "date": "2017-07-22",
       "embeddable": true,
-      "durationSeconds": 265
+      "durationSeconds": 261
     },
     {
-      "id": "HKPO2aghrhU",
-      "title": "Meri Maa | Natasha Baig (Mother's Day Special Song)",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
+      "id": "pVw8fK3CQl0",
+      "title": "I Don't Know - Young Stunners - Official Audio",
+      "channel": "Young Stunners",
+      "channelId": "youngstunners",
       "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-05-07T12:10:26Z",
-      "date": "2017-05-07",
+      "genre": "Hip-Hop & Rap",
+      "published": "2017-07-22T17:48:02Z",
+      "date": "2017-07-22",
       "embeddable": true,
-      "durationSeconds": 218
-    },
-    {
-      "id": "rm3Ludiw2jE",
-      "title": "Jhoom Le | Natasha Baig | Armeena Rana Khan | Bilal Ashraf | Ali Rahman | Janaan 2016",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-03-31T08:13:19Z",
-      "date": "2017-03-31",
-      "embeddable": true,
-      "durationSeconds": 187
-    },
-    {
-      "id": "j0Jc3-dNAcM",
-      "title": "Lambi Judai & Marora | Mai Dhai | Natasha Baig | Pakistani Songs 2017",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-03-27T19:34:50Z",
-      "date": "2017-03-27",
-      "embeddable": true,
-      "durationSeconds": 244
-    },
-    {
-      "id": "qy-Dfa0PPvQ",
-      "title": "Zeb & Haniya | Bibi Sanam Janam | Cover | Natasha Baig",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-03-24T09:38:01Z",
-      "date": "2017-03-24",
-      "embeddable": true,
-      "durationSeconds": 157
+      "durationSeconds": 241
     },
     {
       "id": "kw4tT7SCmaY",
