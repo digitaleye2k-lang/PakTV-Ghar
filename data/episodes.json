@@ -1,48 +1,4 @@
 {
-  "hum-khushi": {
-    "episodes": [
-      {
-        "title": "Khushi - Episode 53 - [ENG SUB] 4th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 53,
-        "id": "tE17n7QbV04",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-11-04"
-      },
-      {
-        "id": "dReHjLpsE08",
-        "title": "Khushi - Episode 48 - [ENG SUB] 30th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 48,
-        "date": "2026-10-30",
-        "published": "2026-10-30T15:00:35Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/dReHjLpsE08/hqdefault.jpg",
-        "checkedAt": "2026-10-31T07:53:35.110882+00:00"
-      },
-      {
-        "id": "xWes3sjnCTQ",
-        "title": "Khushi - Episode 43 - [ENG SUB] 25th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 43,
-        "date": "2026-10-25",
-        "published": "2026-10-25T15:00:15Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/xWes3sjnCTQ/hqdefault.jpg",
-        "checkedAt": "2026-10-26T13:14:49.600449+00:00"
-      }
-    ]
-  },
   "hum-gulbahar": {
     "episodes": [
       {
@@ -91,50 +47,6 @@
       }
     ]
   },
-  "arydigital-izzat": {
-    "episodes": [
-      {
-        "title": "Izzat Episode 46 | 4 November 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 46,
-        "id": "Od9TPdnsqGk",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-04"
-      },
-      {
-        "title": "Izzat Episode 46 | 4 November 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 46,
-        "id": "3iiDxr0IkMs",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-04"
-      },
-      {
-        "title": "Izzat Episode 44 | Unforgettable Moment | ARY Digital",
-        "episode": 44,
-        "id": "4N3rKar8PYM",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-04"
-      },
-      {
-        "id": "Ysq02aKxOHU",
-        "title": "Izzat Episode 41 | 30 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 41,
-        "date": "2026-10-30",
-        "published": "2026-10-30T15:00:02Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/Ysq02aKxOHU/hqdefault.jpg",
-        "checkedAt": "2026-10-31T07:46:49.102465+00:00"
-      }
-    ]
-  },
   "arydigital-hey-fam": {
     "episodes": [
       {
@@ -149,14 +61,6 @@
         "title": "Hey Fam | EP 15 | 4 NOV 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ENG SUB | ARY Digital",
         "episode": 15,
         "id": "pm95bRJI92g",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-04"
-      },
-      {
-        "title": "Hey Fam EP 14 Best Scene | Dua Zahra | Zarrar Khan | ARY Digital",
-        "episode": 14,
-        "id": "ddNEfb3W9hg",
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-11-04"
@@ -389,14 +293,6 @@
         "title": "Uswah Episode 43 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
         "episode": 43,
         "id": "pYPdYNQEF7I",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-04"
-      },
-      {
-        "title": "Uswah Episode 43 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 4th November 2026",
-        "episode": 43,
-        "id": "W1GoviOymlU",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-11-04"
@@ -714,30 +610,6 @@
         "date": "2026-11-04"
       },
       {
-        "title": "Bano Episode 21 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 21,
-        "id": "ZoQCGD4xIdA",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-04"
-      },
-      {
-        "title": "Bano Episode 21 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 21,
-        "id": "zUdth54TOj0",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-04"
-      },
-      {
-        "title": "Bano Episode 21 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 21,
-        "id": "wA1H1HIBP24",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-04"
-      },
-      {
         "id": "4B2QagkEoEc",
         "title": "Bano Episode 18 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 30th October 2026 | HAR PAL GEO",
         "episode": 18,
@@ -984,6 +856,42 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/N9D72GXB_2Q/hqdefault.jpg",
         "checkedAt": "2026-10-26T04:56:47.916284+00:00"
+      }
+    ]
+  },
+  "hum-khushi": {
+    "episodes": [
+      {
+        "id": "dReHjLpsE08",
+        "title": "Khushi - Episode 48 - [ENG SUB] 30th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 48,
+        "date": "2026-10-30",
+        "published": "2026-10-30T15:00:35Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/dReHjLpsE08/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:53:35.110882+00:00"
+      },
+      {
+        "id": "xWes3sjnCTQ",
+        "title": "Khushi - Episode 43 - [ENG SUB] 25th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 43,
+        "date": "2026-10-25",
+        "published": "2026-10-25T15:00:15Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/xWes3sjnCTQ/hqdefault.jpg",
+        "checkedAt": "2026-10-26T13:14:49.600449+00:00"
       }
     ]
   },
@@ -2958,22 +2866,6 @@
         "checkedAt": "2026-11-03T02:56:50.234779+00:00"
       },
       {
-        "id": "XEjs5E3F8eI",
-        "title": "Baby Baji Ki Bahuwain Episode 58 | Digitally Presented by Sensodyne | 19 November 2024 (Eng Sub) ARY",
-        "episode": 58,
-        "date": "2024-11-19",
-        "published": "2024-11-19T15:00:41Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/XEjs5E3F8eI/hqdefault.jpg",
-        "checkedAt": "2026-10-23T03:52:51.928458+00:00"
-      },
-      {
         "id": "pY-7r_6KS-U",
         "title": "Baby Baji Ki Bahuwain Episode 55 | Digitally Presented by Sensodyne | 16 November 2024 | ARY Digital",
         "episode": 55,
@@ -3036,22 +2928,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yE-bfAzpvIc/hqdefault.jpg",
         "checkedAt": "2026-11-03T02:56:50.234779+00:00"
-      },
-      {
-        "id": "SNKGJH_Pths",
-        "title": "Baby Baji Ki Bahuwain Episode 36 | Digitally Presented by Sensodyne (Eng Sub) 28 October 2024 | ARY",
-        "episode": 36,
-        "date": "2024-10-28",
-        "published": "2024-10-28T15:00:36Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/SNKGJH_Pths/hqdefault.jpg",
-        "checkedAt": "2026-10-23T03:52:51.928458+00:00"
       },
       {
         "id": "r1O8zP8DAtM",
@@ -3148,22 +3024,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UgArgZ437QI/hqdefault.jpg",
         "checkedAt": "2026-11-03T02:56:50.234779+00:00"
-      },
-      {
-        "id": "Nuqa9VoaG1I",
-        "title": "Baby Baji Ki Bahuwain Episode 26 | 18 October 2024 (English Subtitles) ARY Digital",
-        "episode": 26,
-        "date": "2024-10-18",
-        "published": "2024-10-18T15:00:28Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Nuqa9VoaG1I/hqdefault.jpg",
-        "checkedAt": "2026-10-23T03:52:51.928458+00:00"
       },
       {
         "id": "ewdmnhqD4Dk",
@@ -3442,22 +3302,6 @@
         "checkedAt": "2026-11-03T10:59:51.420102+00:00"
       },
       {
-        "id": "_J-IGj_vuzQ",
-        "title": "Balaa Episode 36 | CC | Bilal Abbas | Ushna Shah | ARY Digital",
-        "episode": 36,
-        "date": "2019-01-01",
-        "published": "2019-01-01T05:00:01Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/_J-IGj_vuzQ/hqdefault.jpg",
-        "checkedAt": "2026-10-23T03:52:51.928458+00:00"
-      },
-      {
         "id": "rvwdeQ3PqbE",
         "title": "Balaa Episode 35 | Bilal Abbas | Ushna Shah | ARY Digital",
         "episode": 35,
@@ -3472,22 +3316,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rvwdeQ3PqbE/hqdefault.jpg",
         "checkedAt": "2026-10-28T13:08:04.326550+00:00"
-      },
-      {
-        "id": "G_3Kqg9oSkU",
-        "title": "Balaa Episode 35 | CC | Bilal Abbas | Ushna Shah | ARY Digital",
-        "episode": 35,
-        "date": "2018-12-31",
-        "published": "2018-12-31T17:00:01Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/G_3Kqg9oSkU/hqdefault.jpg",
-        "checkedAt": "2026-10-23T03:52:51.928458+00:00"
       },
       {
         "id": "vM48zKOndYg",
@@ -3522,22 +3350,6 @@
         "checkedAt": "2026-11-03T10:59:51.420102+00:00"
       },
       {
-        "id": "j6JdhbbTvlA",
-        "title": "Balaa Episode 33 | CC | Bilal Abbas | Ushna Shah | ARY Digital",
-        "episode": 33,
-        "date": "2018-12-24",
-        "published": "2018-12-24T16:51:54Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/j6JdhbbTvlA/hqdefault.jpg",
-        "checkedAt": "2026-10-23T03:52:51.928458+00:00"
-      },
-      {
         "id": "IYa0nJZCQhc",
         "title": "Balaa Episode 32 | Bilal Abbas | Ushna Shah | ARY Digital",
         "episode": 32,
@@ -3570,22 +3382,6 @@
         "checkedAt": "2026-11-03T10:59:51.420102+00:00"
       },
       {
-        "id": "7K-wrokEb_c",
-        "title": "Balaa Episode 31 | CC | Bilal Abbas | Ushna Shah | ARY Digital",
-        "episode": 31,
-        "date": "2018-12-17",
-        "published": "2018-12-17T17:27:13Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/7K-wrokEb_c/hqdefault.jpg",
-        "checkedAt": "2026-10-23T03:52:51.928458+00:00"
-      },
-      {
         "id": "tGwWa1Sx17o",
         "title": "Balaa Episode 30 | Bilal Abbas | Ushna Shah | ARY Digital",
         "episode": 30,
@@ -3600,22 +3396,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/tGwWa1Sx17o/hqdefault.jpg",
         "checkedAt": "2026-11-03T10:59:51.420102+00:00"
-      },
-      {
-        "id": "uFJTQnR7KpY",
-        "title": "Balaa Episode 30 | CC | Bilal Abbas | Ushna Shah | ARY Digital",
-        "episode": 30,
-        "date": "2018-12-11",
-        "published": "2018-12-11T05:00:02Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/uFJTQnR7KpY/hqdefault.jpg",
-        "checkedAt": "2026-10-23T03:52:51.928458+00:00"
       },
       {
         "id": "bupUxQOjyCg",
@@ -3728,22 +3508,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/P4j8GtpDFyA/hqdefault.jpg",
         "checkedAt": "2026-10-28T13:08:04.326550+00:00"
-      },
-      {
-        "id": "kZnPsmCRUiE",
-        "title": "Balaa Episode 20 | Bilal Abbas | Ushna Shah | ARY Digital",
-        "episode": 20,
-        "date": "2024-03-17",
-        "published": "2024-03-17T07:00:18Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/kZnPsmCRUiE/hqdefault.jpg",
-        "checkedAt": "2026-10-23T03:52:51.928458+00:00"
       },
       {
         "id": "figSPtCSyOU",
@@ -3890,22 +3654,6 @@
         "checkedAt": "2026-11-03T10:59:51.420102+00:00"
       },
       {
-        "id": "uEvxmUFxrKo",
-        "title": "Balaa Episode 11 & 12 | CC | Bilal Abbas | Ushna Shah | ARY Digital",
-        "episode": 11,
-        "date": "2018-10-08",
-        "published": "2018-10-08T16:47:43Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/uEvxmUFxrKo/hqdefault.jpg",
-        "checkedAt": "2026-10-23T03:52:51.928458+00:00"
-      },
-      {
         "id": "5Wmv0ymnmg8",
         "title": "Balaa Episode 10 | Bilal Abbas | Ushna Shah | ARY Digital",
         "episode": 10,
@@ -4018,38 +3766,6 @@
         "checkedAt": "2026-10-28T13:08:04.326550+00:00"
       },
       {
-        "id": "JOLoYdbtGvc",
-        "title": "Balaa Episode 3 & 4 | CC | Bilal Abbas | Ushna Shah | ARY Digital",
-        "episode": 3,
-        "date": "2018-09-10",
-        "published": "2018-09-10T16:51:24Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/JOLoYdbtGvc/hqdefault.jpg",
-        "checkedAt": "2026-10-23T03:52:51.928458+00:00"
-      },
-      {
-        "id": "Pg_EGY5vQMQ",
-        "title": "Balaa Episode 2 | Bilal Abbas | Ushna Shah | ARY Digital",
-        "episode": 2,
-        "date": "2024-03-07",
-        "published": "2024-03-07T09:00:27Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Pg_EGY5vQMQ/hqdefault.jpg",
-        "checkedAt": "2026-10-23T03:52:51.928458+00:00"
-      },
-      {
         "id": "2_DpCDkQu9Y",
         "title": "Balaa Episode 1 | Bilal Abbas | Ushna Shah | ARY Digital",
         "episode": 1,
@@ -4064,43 +3780,11 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2_DpCDkQu9Y/hqdefault.jpg",
         "checkedAt": "2026-11-03T10:59:51.420102+00:00"
-      },
-      {
-        "id": "63RYaEVTphE",
-        "title": "Balaa Episode 1 & 2 | CC | Bilal Abbas | Ushna Shah | ARY Digital",
-        "episode": 1,
-        "date": "2018-09-03",
-        "published": "2018-09-03T16:46:59Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/63RYaEVTphE/hqdefault.jpg",
-        "checkedAt": "2026-10-23T03:52:51.928458+00:00"
       }
     ]
   },
   "arydigital-beti": {
     "episodes": [
-      {
-        "id": "D07jvyghgN8",
-        "title": "Betiyaan Episode 68 - 15th December 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 68,
-        "date": "2022-12-15",
-        "published": "2022-12-15T15:01:07Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/D07jvyghgN8/hqdefault.jpg",
-        "checkedAt": "2026-10-23T03:52:51.928458+00:00"
-      },
       {
         "id": "xciqZd5WFMU",
         "title": "Betiyaan Episode 66 - 13th December 2022 (English Subtitles) - ARY Digital Drama",
@@ -4132,22 +3816,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/b9w901GwqKY/hqdefault.jpg",
         "checkedAt": "2026-10-28T20:21:08.019141+00:00"
-      },
-      {
-        "id": "z82EsBTd1U0",
-        "title": "Betiyaan Episode 54 - 1st December  2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 54,
-        "date": "2022-12-01",
-        "published": "2022-12-01T15:02:15Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/z82EsBTd1U0/hqdefault.jpg",
-        "checkedAt": "2026-10-23T03:52:51.928458+00:00"
       },
       {
         "id": "ClGreBmsRYI",
@@ -4212,38 +3880,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/EVp0s9eL13w/hqdefault.jpg",
         "checkedAt": "2026-10-28T20:21:08.019141+00:00"
-      },
-      {
-        "id": "MD2GRcOvpG8",
-        "title": "Betiyaan Episode 34 - 11th November 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 34,
-        "date": "2022-11-11",
-        "published": "2022-11-11T15:01:45Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/MD2GRcOvpG8/hqdefault.jpg",
-        "checkedAt": "2026-10-23T03:52:51.928458+00:00"
-      },
-      {
-        "id": "uPPJjq419ns",
-        "title": "Betiyaan Episode 29 - 6th November 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 29,
-        "date": "2022-11-06",
-        "published": "2022-11-06T15:00:48Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/uPPJjq419ns/hqdefault.jpg",
-        "checkedAt": "2026-10-23T03:52:51.928458+00:00"
       },
       {
         "id": "efhYTGsxJP0",
@@ -4502,22 +4138,6 @@
         "checkedAt": "2026-11-03T10:59:51.420102+00:00"
       },
       {
-        "id": "IG8TOeq1LH4",
-        "title": "Betiyaan Episode 8 - 16th October 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 8,
-        "date": "2022-10-16",
-        "published": "2022-10-16T15:00:22Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/IG8TOeq1LH4/hqdefault.jpg",
-        "checkedAt": "2026-10-23T03:52:51.928458+00:00"
-      },
-      {
         "id": "Lbpb3L47qxs",
         "title": "Beti Episode 08 - ARY Digital Drama",
         "episode": 8,
@@ -4566,22 +4186,6 @@
         "checkedAt": "2026-11-03T10:59:51.420102+00:00"
       },
       {
-        "id": "yHD0U8vc2Yw",
-        "title": "Betiyaan Episode 5 - 13th October 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 5,
-        "date": "2022-10-13",
-        "published": "2022-10-13T15:04:10Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/yHD0U8vc2Yw/hqdefault.jpg",
-        "checkedAt": "2026-10-23T03:52:51.928458+00:00"
-      },
-      {
         "id": "T_SOFQaTwP4",
         "title": "Beti Episode 5 - ARY Digital Drama",
         "episode": 5,
@@ -4596,22 +4200,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/T_SOFQaTwP4/hqdefault.jpg",
         "checkedAt": "2026-11-03T10:59:51.420102+00:00"
-      },
-      {
-        "id": "SpwGwecpuYU",
-        "title": "Betiyaan Episode 4 - 12th October 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 4,
-        "date": "2022-10-12",
-        "published": "2022-10-12T15:01:27Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/SpwGwecpuYU/hqdefault.jpg",
-        "checkedAt": "2026-10-23T03:52:51.928458+00:00"
       },
       {
         "id": "zK0Lf_U3NMk",
@@ -4644,22 +4232,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/urgLfSzBPi4/hqdefault.jpg",
         "checkedAt": "2026-11-03T10:59:51.420102+00:00"
-      },
-      {
-        "id": "1_eTtjQi4B8",
-        "title": "Betiyaan Episode 2 - 10th October 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 2,
-        "date": "2022-10-10",
-        "published": "2022-10-10T15:04:44Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/1_eTtjQi4B8/hqdefault.jpg",
-        "checkedAt": "2026-10-23T03:52:51.928458+00:00"
       },
       {
         "id": "lUuQJA4km8I",
@@ -4808,22 +4380,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/BJrZ7jrTPCs/hqdefault.jpg",
         "checkedAt": "2026-11-03T10:59:51.420102+00:00"
-      },
-      {
-        "id": "PvJnIez4vKw",
-        "title": "Bismil Episode 28 | Digitally Presented by Sensodyne & Vince Care | 21 Nov 2024 | Eng Subtitles",
-        "episode": 28,
-        "date": "2024-11-21",
-        "published": "2024-11-21T16:00:30Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/PvJnIez4vKw/hqdefault.jpg",
-        "checkedAt": "2026-10-23T07:05:57.769095+00:00"
       },
       {
         "id": "rZP6W80Z8MU",
@@ -6518,22 +6074,6 @@
         "checkedAt": "2026-11-03T19:34:36.236906+00:00"
       },
       {
-        "id": "GKV7Vg3Uvdg",
-        "title": "Do Bol Episode 4 | Affan Waheed | Hira Salman | English Subtitle | ARY Digital",
-        "episode": 4,
-        "date": "2019-03-12",
-        "published": "2019-03-12T18:00:00Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/GKV7Vg3Uvdg/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
-      },
-      {
         "id": "XUiGwAsyrL0",
         "title": "Do Bol Episode 3 | Affan Waheed | Hira Salman | English Subtitle | ARY Digital",
         "episode": 3,
@@ -6776,22 +6316,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/MsUjFSK-xLA/hqdefault.jpg",
         "checkedAt": "2026-11-03T19:34:36.236906+00:00"
-      },
-      {
-        "id": "g3B4e-fRYcY",
-        "title": "Dunk Episode 13 [Subtitle Eng] - 17th March 2021 - ARY Digital Drama",
-        "episode": 13,
-        "date": "2021-03-17",
-        "published": "2021-03-17T15:50:39Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/g3B4e-fRYcY/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
       },
       {
         "id": "yesFLIlLIdQ",
@@ -7410,22 +6934,6 @@
         "checkedAt": "2026-10-28T21:30:39.997306+00:00"
       },
       {
-        "id": "uiid_1SPt6Q",
-        "title": "Ishq Hai Episode 34 | Eng Sub | Danish Taimoor | Minal Khan | ARY Digital Drama",
-        "episode": 34,
-        "date": "2021-09-07",
-        "published": "2021-09-07T17:08:39Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/uiid_1SPt6Q/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
-      },
-      {
         "id": "HY05mhNjCrg",
         "title": "Ishq Hai Episode 33 | Eng Sub | Danish Taimoor | Minal Khan | ARY Digital Drama",
         "episode": 33,
@@ -7440,22 +6948,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/HY05mhNjCrg/hqdefault.jpg",
         "checkedAt": "2026-10-28T21:30:39.997306+00:00"
-      },
-      {
-        "id": "9YU2tUrqSz8",
-        "title": "Ishq Hai Episode 32 | Eng Sub | Danish Taimoor | Minal Khan | ARY Digital Drama",
-        "episode": 32,
-        "date": "2021-09-01",
-        "published": "2021-09-01T17:01:20Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/9YU2tUrqSz8/hqdefault.jpg",
-        "checkedAt": "2026-10-23T09:52:44.597208+00:00"
       },
       {
         "id": "jK-jRHWjM7M",
@@ -19479,7 +18971,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XWQTlEv_rBM/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       },
       {
         "id": "rWN7TQ9vD1U",
@@ -19495,7 +18987,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rWN7TQ9vD1U/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       },
       {
         "id": "yI_8w4JQmqU",
@@ -19511,7 +19003,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yI_8w4JQmqU/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       },
       {
         "id": "Hwxl0rOUOgY",
@@ -19527,7 +19019,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Hwxl0rOUOgY/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       },
       {
         "id": "CG-CwQFEVHE",
@@ -19543,7 +19035,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/CG-CwQFEVHE/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       },
       {
         "id": "TL_HcH8f6dU",
@@ -19559,7 +19051,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TL_HcH8f6dU/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       },
       {
         "id": "JvpZ8IodtWw",
@@ -19575,7 +19067,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/JvpZ8IodtWw/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       },
       {
         "id": "2Ovl-iOGutQ",
@@ -19591,7 +19083,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2Ovl-iOGutQ/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       },
       {
         "id": "kp23nJLPwrQ",
@@ -19607,7 +19099,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kp23nJLPwrQ/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       },
       {
         "id": "KuJMhV4E0cc",
@@ -19655,7 +19147,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cz0GKrA0rhc/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       },
       {
         "id": "oABBfT6PNGQ",
@@ -19671,7 +19163,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/oABBfT6PNGQ/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       },
       {
         "id": "7-QqpCPmQ7Q",
@@ -19687,7 +19179,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7-QqpCPmQ7Q/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       },
       {
         "id": "9jHpkD3qlkI",
@@ -19703,7 +19195,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9jHpkD3qlkI/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       },
       {
         "id": "NkdhdIa3wsg",
@@ -19719,7 +19211,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/NkdhdIa3wsg/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       },
       {
         "id": "a84XJO7w-rw",
@@ -19735,7 +19227,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/a84XJO7w-rw/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       },
       {
         "id": "ccunR46zIHg",
@@ -19751,7 +19243,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ccunR46zIHg/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       },
       {
         "id": "OFROMOc3Urs",
@@ -19767,7 +19259,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OFROMOc3Urs/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       },
       {
         "id": "FEnfS1EaPQo",
@@ -19783,7 +19275,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/FEnfS1EaPQo/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       },
       {
         "id": "7TJBR7YpH0Y",
@@ -19799,7 +19291,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7TJBR7YpH0Y/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       },
       {
         "id": "6zrTBxpFhGk",
@@ -19815,7 +19307,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6zrTBxpFhGk/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       },
       {
         "id": "BqF-Q9Jpb84",
@@ -19831,7 +19323,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/BqF-Q9Jpb84/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       },
       {
         "id": "T4DYBziNgdQ",
@@ -19847,7 +19339,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/T4DYBziNgdQ/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       }
     ]
   },
@@ -19867,7 +19359,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/eqTjzTPa2wc/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       },
       {
         "id": "41RW6tmyE14",
@@ -19915,7 +19407,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Y-9UnRuhGaM/hqdefault.jpg",
-        "checkedAt": "2026-10-30T01:07:13.838677+00:00"
+        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
       }
     ]
   },
@@ -32136,6 +31628,26 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OrkuogQOKuQ/hqdefault.jpg",
         "checkedAt": "2026-10-31T07:45:18.274230+00:00"
+      }
+    ]
+  },
+  "arydigital-izzat": {
+    "episodes": [
+      {
+        "id": "Ysq02aKxOHU",
+        "title": "Izzat Episode 41 | 30 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 41,
+        "date": "2026-10-30",
+        "published": "2026-10-30T15:00:02Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/Ysq02aKxOHU/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:46:49.102465+00:00"
       }
     ]
   },
