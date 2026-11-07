@@ -1,20 +1,32 @@
 {
-  "generatedAt": "2026-11-07T17:46:22.314223+00:00",
+  "generatedAt": "2026-11-07T21:57:57.365666+00:00",
   "source": "verified_publisher_uploads_and_official_starters",
-  "count": 716,
+  "count": 712,
   "publishers": {
+    "cokestudio": 126,
     "emipakistan": 254,
-    "cokestudio": 125,
-    "natashabaig": 92,
+    "natashabaig": 90,
     "talhaanjum": 68,
     "abdulhannan": 38,
     "hasanraheem": 66,
     "bayaan": 30,
-    "youngstunners": 41,
+    "youngstunners": 38,
     "jaubi": 1,
     "sajjadali": 1
   },
   "videos": [
+    {
+      "id": "2OGc4VWQZ0Q",
+      "title": "Maheya | Live Acoustic Jam | Asim Azhar x AARYAN",
+      "channel": "Coke Studio Pakistan",
+      "channelId": "cokestudio",
+      "category": "music",
+      "genre": "Sufi & Fusion",
+      "published": "2026-11-07T12:00:07Z",
+      "date": "2026-11-07",
+      "embeddable": true,
+      "durationSeconds": 201
+    },
     {
       "id": "xcWh29AEOws",
       "title": "Jane Man Itna Batado | Runa Laila | 90s Classic Romantic Song | EMI Pakistan",
@@ -8510,66 +8522,6 @@
       "date": "2017-08-29",
       "embeddable": true,
       "durationSeconds": 255
-    },
-    {
-      "id": "n8R-W9Lsrzk",
-      "title": "NOHookUps - Young Stunners - Official Audio",
-      "channel": "Young Stunners",
-      "channelId": "youngstunners",
-      "category": "music",
-      "genre": "Hip-Hop & Rap",
-      "published": "2017-07-22T21:06:59Z",
-      "date": "2017-07-22",
-      "embeddable": true,
-      "durationSeconds": 261
-    },
-    {
-      "id": "pVw8fK3CQl0",
-      "title": "I Don't Know - Young Stunners - Official Audio",
-      "channel": "Young Stunners",
-      "channelId": "youngstunners",
-      "category": "music",
-      "genre": "Hip-Hop & Rap",
-      "published": "2017-07-22T17:48:02Z",
-      "date": "2017-07-22",
-      "embeddable": true,
-      "durationSeconds": 241
-    },
-    {
-      "id": "h2E2wiz3sug",
-      "title": "Real Talk - Young Stunners - Official Music Video",
-      "channel": "Young Stunners",
-      "channelId": "youngstunners",
-      "category": "music",
-      "genre": "Hip-Hop & Rap",
-      "published": "2017-07-22T17:37:12Z",
-      "date": "2017-07-22",
-      "embeddable": true,
-      "durationSeconds": 229
-    },
-    {
-      "id": "_lyz5gdtOa4",
-      "title": "Ya Moula | Natasha Baig ft. YBQ - Burushaski Song 2017",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-07-11T09:22:06Z",
-      "date": "2017-07-11",
-      "embeddable": true,
-      "durationSeconds": 265
-    },
-    {
-      "id": "HKPO2aghrhU",
-      "title": "Meri Maa | Natasha Baig (Mother's Day Special Song)",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-05-07T12:10:26Z",
-      "date": "2017-05-07",
-      "embeddable": true,
-      "durationSeconds": 218
     },
     {
       "id": "kw4tT7SCmaY",
