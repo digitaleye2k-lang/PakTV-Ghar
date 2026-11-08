@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T02:58:01.960827+05:00",
+  "generatedAt": "2026-11-08T11:15:02.520246+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,6 +17,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 12,
+        "time": "00:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-11-08"
       }
     },
     "harpalgeo-nashtar": {
@@ -90,6 +97,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 28,
+        "time": "04:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-11-08"
       }
     },
     "hum-aangan": {
@@ -1095,10 +1109,10 @@
     "hum-ishq-murshid": {
       "lastAttempt": "2026-11-05T06:30:15.856483+05:00",
       "latestUpload": {
-        "number": 31,
-        "id": "3dCQ4g1DwB0",
-        "title": "Ishq Murshid - Mega Last Ep 31 [Part 02] [𝐂𝐂] - 05 May 24, Khurshid Fans, Master Paints & Mothercare",
-        "date": "2024-05-05",
+        "number": 29,
+        "id": "7dbbMX6JOCc",
+        "title": "Ishq Murshid - Episode 29 [𝐂𝐂] - 21 Apr 24 - Sponsored By Khurshid Fans, Master Paints & Mothercare",
+        "date": "2024-04-21",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
