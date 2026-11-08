@@ -1,20 +1,32 @@
 {
-  "generatedAt": "2026-11-08T13:38:52.259696+00:00",
+  "generatedAt": "2026-11-08T19:45:11.021545+00:00",
   "source": "verified_publisher_uploads_and_official_starters",
-  "count": 715,
+  "count": 713,
   "publishers": {
-    "cokestudio": 126,
+    "cokestudio": 127,
     "emipakistan": 254,
-    "natashabaig": 94,
+    "natashabaig": 90,
     "talhaanjum": 68,
     "abdulhannan": 38,
     "hasanraheem": 66,
     "bayaan": 30,
-    "youngstunners": 37,
+    "youngstunners": 38,
     "jaubi": 1,
     "sajjadali": 1
   },
   "videos": [
+    {
+      "id": "45J7ZurxBnw",
+      "title": "Coke Studio Nu.WAV Session ft Afusic x Abdullah Kasumbi",
+      "channel": "Coke Studio Pakistan",
+      "channelId": "cokestudio",
+      "category": "music",
+      "genre": "Sufi & Fusion",
+      "published": "2026-11-08T12:31:45Z",
+      "date": "2026-11-08",
+      "embeddable": true,
+      "durationSeconds": 1058
+    },
     {
       "id": "2OGc4VWQZ0Q",
       "title": "Maheya | Live Acoustic Jam | Asim Azhar x AARYAN",
@@ -8500,6 +8512,18 @@
       "durationSeconds": 207
     },
     {
+      "id": "VQZTTkm89Bo",
+      "title": "Karachi Lingo - Official Audio - Talha Anjum | Talhah Yunus",
+      "channel": "Young Stunners",
+      "channelId": "youngstunners",
+      "category": "music",
+      "genre": "Hip-Hop & Rap",
+      "published": "2017-09-02T18:42:58Z",
+      "date": "2017-09-02",
+      "embeddable": true,
+      "durationSeconds": 282
+    },
+    {
       "id": "XZV8sKjyv60",
       "title": "Parchan Shal | Salam Zindagi | Natasha Baig & Faisal Qureshi",
       "channel": "Natasha Baig",
@@ -8510,54 +8534,6 @@
       "date": "2017-08-29",
       "embeddable": true,
       "durationSeconds": 255
-    },
-    {
-      "id": "_lyz5gdtOa4",
-      "title": "Ya Moula | Natasha Baig ft. YBQ - Burushaski Song 2017",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-07-11T09:22:06Z",
-      "date": "2017-07-11",
-      "embeddable": true,
-      "durationSeconds": 265
-    },
-    {
-      "id": "HKPO2aghrhU",
-      "title": "Meri Maa | Natasha Baig (Mother's Day Special Song)",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-05-07T12:10:26Z",
-      "date": "2017-05-07",
-      "embeddable": true,
-      "durationSeconds": 218
-    },
-    {
-      "id": "rm3Ludiw2jE",
-      "title": "Jhoom Le | Natasha Baig | Armeena Rana Khan | Bilal Ashraf | Ali Rahman | Janaan 2016",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-03-31T08:13:19Z",
-      "date": "2017-03-31",
-      "embeddable": true,
-      "durationSeconds": 187
-    },
-    {
-      "id": "j0Jc3-dNAcM",
-      "title": "Lambi Judai & Marora | Mai Dhai | Natasha Baig | Pakistani Songs 2017",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-03-27T19:34:50Z",
-      "date": "2017-03-27",
-      "embeddable": true,
-      "durationSeconds": 244
     },
     {
       "id": "kw4tT7SCmaY",
