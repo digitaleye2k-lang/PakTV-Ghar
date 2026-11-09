@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T00:45:15.780787+05:00",
+  "generatedAt": "2026-11-09T05:59:14.766744+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -34,14 +34,21 @@
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
       "latestPublisherSource": "https://harpalgeo.tv/program/Nashtar",
       "latestUpload": {
-        "number": 26,
-        "id": "YgQIrATOeI0",
-        "title": "Nashtar Episode 26 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
-        "date": "2026-10-31",
+        "number": 29,
+        "id": "UfV-HRa99Og",
+        "title": "Nashtar Episode 29 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "date": "2026-11-08",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 29,
+        "time": "01:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-11-09"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -62,10 +69,10 @@
     "harpalgeo-uswa": {
       "lastAttempt": "2026-11-05T06:30:15.640645+05:00",
       "latestUpload": {
-        "number": 43,
-        "id": "xVBb_8qLPdM",
-        "title": "Uswah Episode 43 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "date": "2026-11-05",
+        "number": 47,
+        "id": "34pQr7VwZzc",
+        "title": "Uswah Episode 47 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "date": "2026-11-08",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -97,6 +104,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 27,
+        "time": "11:30",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-11-09"
       }
     },
     "hum-aangan": {
@@ -118,10 +132,10 @@
       "poster": "https://harpalgeo.tv/assets/uploads/programs/641_9919269_programs.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 22,
-        "id": "mFCVLNDtFws",
-        "title": "Bano Episode 22 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "date": "2026-11-05",
+        "number": 26,
+        "id": "fHMZtnVT5Gg",
+        "title": "Bano Episode 26 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 8th November 2026 | HAR PAL GEO",
+        "date": "2026-11-08",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,

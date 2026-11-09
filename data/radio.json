@@ -1,19 +1,8 @@
 {
-  "updatedAt": "2026-11-08T19:45:24.721531Z",
+  "updatedAt": "2026-11-09T00:59:21.921722Z",
   "source": "Radio Browser community directory",
   "sourceUrl": "https://www.radio-browser.info/",
   "stations": [
-    {
-      "id": "babb87d8-14f7-4d42-b813-390ac01fb3c9",
-      "name": "Samaa FM 107.4",
-      "city": "Pakistan",
-      "genre": "news,talk",
-      "stream": "https://samaakhi107-itelservices.radioca.st/stream",
-      "homepage": "https://www.samaafm.com/",
-      "codec": "MP3",
-      "bitrate": 96,
-      "source": "Radio Browser (community directory)"
-    },
     {
       "id": "7a1339a6-c0ef-41b1-9d5b-9fa469ef3463",
       "name": "Radio Pakistan Multan MW",
@@ -44,28 +33,6 @@
       "stream": "https://whmsonic.radio.gov.pk:7004/stream?type=http&nocache=12",
       "homepage": "https://radio.gov.pk/",
       "codec": "MP3",
-      "bitrate": 96,
-      "source": "Radio Browser (community directory)"
-    },
-    {
-      "id": "e366ead6-6019-4a01-824d-6f4bea17f9a0",
-      "name": "FM 101 Islamabad",
-      "city": "Pakistan",
-      "genre": "Pakistani radio",
-      "stream": "https://whmsonic.radio.gov.pk:7008/stream",
-      "homepage": "https://radio.gov.pk/",
-      "codec": "MP3",
-      "bitrate": 128,
-      "source": "Radio Browser (community directory)"
-    },
-    {
-      "id": "1c4c4c77-a792-4075-846d-dff13cfc0980",
-      "name": "City FM 89",
-      "city": "Pakistan",
-      "genre": "Pakistani radio",
-      "stream": "https://radio.cityfm89.com/stream",
-      "homepage": "https://cityfm89.com/",
-      "codec": "AAC",
       "bitrate": 96,
       "source": "Radio Browser (community directory)"
     },
@@ -246,25 +213,58 @@
       "source": "Radio Browser (community directory)"
     },
     {
-      "id": "658d9779-0334-4d8a-87bf-6872db0973e6",
-      "name": "Fm.94.4",
-      "city": "Pakistan",
-      "genre": "classical",
-      "stream": "https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12",
-      "homepage": "https://www.radio-browser.info/",
+      "id": "d41946b4-342a-4b9a-b0e5-f86f017980ea",
+      "name": "FM 101 Mithi",
+      "city": "Sindh",
+      "genre": "Pakistani radio",
+      "stream": "https://whmsonic.radio.gov.pk:8052/stream",
+      "homepage": "https://radio.gov.pk/",
       "codec": "MP3",
       "bitrate": 128,
       "source": "Radio Browser (community directory)"
     },
     {
-      "id": "33cab88d-c3d9-42f9-abaa-fd8c320fde8f",
-      "name": "City FM 89 Islamabad",
-      "city": "Islamabad",
-      "genre": "city fm 89 islamabad",
-      "stream": "https://radio.cityfm89.com/stream",
-      "homepage": "https://cityfm89.com/",
-      "codec": "AAC",
+      "id": "cab938da-32c3-485b-81ef-a56701cf33e1",
+      "name": "Radio Pakistan Lahore",
+      "city": "Pakistan",
+      "genre": "🌀",
+      "stream": "https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9",
+      "homepage": "https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9",
+      "codec": "MP3",
+      "bitrate": 128,
+      "source": "Radio Browser (community directory)"
+    },
+    {
+      "id": "abb391a9-3226-4822-b0ee-243a80b27227",
+      "name": "FM 93 Chitral",
+      "city": "Khyber Pakhtunkhwa",
+      "genre": "Pakistani radio",
+      "stream": "https://whmsonic.radio.gov.pk:8066/relay",
+      "homepage": "https://radio.gov.pk/",
+      "codec": "MP3",
       "bitrate": 96,
+      "source": "Radio Browser (community directory)"
+    },
+    {
+      "id": "47f7bdd9-85b4-4638-9a31-9214a98f3412",
+      "name": "101peshawar",
+      "city": "Pakistan",
+      "genre": "Pakistani radio",
+      "stream": "https://whmsonic.radio.gov.pk:8070/relay?type=http&nocache=9",
+      "homepage": "https://whmsonic.radio.gov.pk:8070/relay?type=http&nocache=9",
+      "codec": "MP3",
+      "bitrate": 96,
+      "source": "Radio Browser (community directory)"
+    },
+    {
+      "id": "dedfe164-38f0-4cce-a1f8-a241f3051bd3",
+      "name": "BAHAWAL PUR MW STATION",
+      "city": "Pakistan",
+      "genre": "Pakistani radio",
+      "stream": "https://whmsonic.radio.gov.pk:8088/stream?type=http&nocache=4",
+      "homepage": "https://www.radio.gov.pk/live-streaming",
+      "codec": "MP3",
+      "bitrate": 128,
       "source": "Radio Browser (community directory)"
     },
     {
