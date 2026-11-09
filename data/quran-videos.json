@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T00:59:17.412914+00:00",
+  "generatedAt": "2026-11-09T11:45:52.499331+00:00",
   "sources": [
     {
       "id": "homebased",
@@ -24,6 +24,36 @@
     }
   ],
   "videos": [
+    {
+      "id": "n_3s5Osz78Y",
+      "title": "𝐄𝐩-𝟎8 | सीरतुन नबी ﷺ उँगलियों पर | छठा साल (मक्की दौर) | Hindi | ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-09",
+      "source": "publisher YouTube Data API"
+    },
+    {
+      "id": "RwCrjo92ITU",
+      "title": "𝐄𝐩-𝟎7 | सीरतुन नबी ﷺ उँगलियों पर | छठा साल (मक्की दौर) | Hindi | ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-09",
+      "source": "publisher YouTube Data API"
+    },
+    {
+      "id": "8dBxiYGMeOo",
+      "title": "𝐄𝐩-𝟎8 | सीरतुन नबी ﷺ उँगलियों पर | सातवां, आठवां और नवां साल (मक्की दौर) | Hindi ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-09",
+      "source": "publisher YouTube Data API"
+    },
     {
       "id": "q0yfP5jVSUk",
       "title": "𝐄𝐩-𝟎3 | सीरतुन नबी ﷺ उँगलियों पर | नुबुव्वत से पहले की ज़िन्दगी | Hindi | ‪@understandquran‬",
@@ -985,6 +1015,6 @@
       "source": "verified official teaching upload"
     }
   ],
-  "count": 96,
+  "count": 99,
   "errors": []
 }

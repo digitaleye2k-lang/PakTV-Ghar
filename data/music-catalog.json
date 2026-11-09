@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-09T00:59:10.691300+00:00",
+  "generatedAt": "2026-11-09T11:45:44.331624+00:00",
   "source": "verified_publisher_uploads_and_official_starters",
-  "count": 713,
+  "count": 715,
   "publishers": {
     "cokestudio": 127,
     "emipakistan": 254,
-    "natashabaig": 90,
+    "natashabaig": 92,
     "talhaanjum": 68,
     "abdulhannan": 38,
     "hasanraheem": 66,
@@ -8534,6 +8534,30 @@
       "date": "2017-08-29",
       "embeddable": true,
       "durationSeconds": 255
+    },
+    {
+      "id": "_lyz5gdtOa4",
+      "title": "Ya Moula | Natasha Baig ft. YBQ - Burushaski Song 2017",
+      "channel": "Natasha Baig",
+      "channelId": "natashabaig",
+      "category": "music",
+      "genre": "Covers & Sufi",
+      "published": "2017-07-11T09:22:06Z",
+      "date": "2017-07-11",
+      "embeddable": true,
+      "durationSeconds": 265
+    },
+    {
+      "id": "HKPO2aghrhU",
+      "title": "Meri Maa | Natasha Baig (Mother's Day Special Song)",
+      "channel": "Natasha Baig",
+      "channelId": "natashabaig",
+      "category": "music",
+      "genre": "Covers & Sufi",
+      "published": "2017-05-07T12:10:26Z",
+      "date": "2017-05-07",
+      "embeddable": true,
+      "durationSeconds": 218
     },
     {
       "id": "kw4tT7SCmaY",
