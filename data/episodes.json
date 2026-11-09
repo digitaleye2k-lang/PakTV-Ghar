@@ -32,22 +32,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dReHjLpsE08/hqdefault.jpg",
         "checkedAt": "2026-10-31T07:53:35.110882+00:00"
-      },
-      {
-        "id": "xWes3sjnCTQ",
-        "title": "Khushi - Episode 43 - [ENG SUB] 25th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 43,
-        "date": "2026-10-25",
-        "published": "2026-10-25T15:00:15Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/xWes3sjnCTQ/hqdefault.jpg",
-        "checkedAt": "2026-10-26T13:14:49.600449+00:00"
       }
     ]
   },
@@ -106,14 +90,6 @@
   "arydigital-izzat": {
     "episodes": [
       {
-        "title": "Exclusive Chat with Saleem Sheikh | BUZZ - EP 80 | IZZAT | 7 Nov 2026",
-        "episode": 80,
-        "id": "csb-Xo0cHgg",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-07"
-      },
-      {
         "title": "Izzat Episode 50 | 5 November 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
         "episode": 50,
         "id": "odeaeYxYugg",
@@ -144,14 +120,6 @@
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-11-08"
-      },
-      {
-        "title": "Izzat Episode 49 | BEST SCENE | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 49,
-        "id": "UshaeCTVXrY",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-07"
       },
       {
         "title": "Izzat Episode 48 | Unforgettable Moment | ARY Digital",
@@ -244,14 +212,6 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/wKGx32p8Bfg/hqdefault.jpg",
         "checkedAt": "2026-11-09T00:58:35.933821+00:00"
-      },
-      {
-        "title": "Dar-e-Nijaat Episode 29 | 7 November 2026 | Sheheryar Munawar | Dur-e-Fishan | ARY Digital",
-        "episode": 29,
-        "id": "Uu0oJ23UmtY",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-07"
       },
       {
         "id": "dIssXLq1KLQ",
@@ -458,6 +418,22 @@
   "harpalgeo-uswa": {
     "episodes": [
       {
+        "id": "QXXJ7tme94Q",
+        "title": "Uswah Episode 48 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 9th November 2026",
+        "episode": 48,
+        "date": "2026-11-09",
+        "published": "2026-11-09T15:00:20Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/QXXJ7tme94Q/hqdefault.jpg",
+        "checkedAt": "2026-11-09T22:28:51.373387+00:00"
+      },
+      {
         "title": "Uswah Episode 47 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
         "episode": 47,
         "id": "34pQr7VwZzc",
@@ -490,12 +466,20 @@
         "date": "2026-11-08"
       },
       {
+        "id": "w8WMftQAkC0",
         "title": "Uswah Episode 47 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 8th November 2026",
         "episode": 47,
-        "id": "w8WMftQAkC0",
+        "date": "2026-11-08",
+        "published": "2026-11-08T15:00:06Z",
         "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
         "kind": "youtube",
-        "date": "2026-11-08"
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/w8WMftQAkC0/hqdefault.jpg",
+        "checkedAt": "2026-11-09T22:28:51.373387+00:00"
       },
       {
         "title": "Uswah Episode 46 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
@@ -538,28 +522,20 @@
         "date": "2026-11-07"
       },
       {
-        "title": "Uswah Episode 46 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "id": "k7l0lQvnejk",
+        "title": "Uswah Episode 46 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 7th November 2026",
         "episode": 46,
-        "id": "oKhof2VU8lA",
+        "date": "2026-11-07",
+        "published": "2026-11-07T15:00:22Z",
         "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
         "kind": "youtube",
-        "date": "2026-11-07"
-      },
-      {
-        "title": "Uswah Episode 46 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 46,
-        "id": "ctyqXV-up5U",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-07"
-      },
-      {
-        "title": "Uswah Episode 46 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 46,
-        "id": "OxoxbAnI5J0",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-07"
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/k7l0lQvnejk/hqdefault.jpg",
+        "checkedAt": "2026-11-09T22:28:51.373387+00:00"
       },
       {
         "id": "N7AebpXAtvE",
@@ -662,12 +638,20 @@
         "date": "2026-11-08"
       },
       {
+        "id": "XqVFy-Ifb4s",
         "title": "Nashtar Episode 29 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
         "episode": 29,
-        "id": "XqVFy-Ifb4s",
+        "date": "2026-11-08",
+        "published": "2026-11-08T16:00:23Z",
         "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
         "kind": "youtube",
-        "date": "2026-11-08"
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/XqVFy-Ifb4s/hqdefault.jpg",
+        "checkedAt": "2026-11-09T22:28:51.373387+00:00"
       },
       {
         "title": "Recap Nashtar Episode 28 - 8th November 2026 - Har Pal Geo",
@@ -708,46 +692,6 @@
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-11-08"
-      },
-      {
-        "title": "Nashtar Episode 28 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
-        "episode": 28,
-        "id": "uZtpi51nt9M",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-07"
-      },
-      {
-        "title": "Nashtar Episode 28 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
-        "episode": 28,
-        "id": "ntmwm8AOEo8",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-07"
-      },
-      {
-        "title": "Nashtar Episode 28 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
-        "episode": 28,
-        "id": "sZPkbl8KlhI",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-07"
-      },
-      {
-        "title": "Nashtar Episode 28 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
-        "episode": 28,
-        "id": "xbcLyvBd_ho",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-07"
-      },
-      {
-        "title": "Nashtar Episode 28 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
-        "episode": 28,
-        "id": "X6xz_nfY_L0",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-07"
       },
       {
         "id": "y6vNzw3z864",
@@ -850,14 +794,6 @@
         "date": "2026-11-08"
       },
       {
-        "title": "Bano Episode 25 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 7th November 2026 | HAR PAL GEO",
-        "episode": 25,
-        "id": "6uTtY_XKWFo",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-07"
-      },
-      {
         "id": "4B2QagkEoEc",
         "title": "Bano Episode 18 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 30th October 2026 | HAR PAL GEO",
         "episode": 18,
@@ -888,18 +824,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DzBTOZ0YbpE/hqdefault.jpg",
         "checkedAt": "2026-10-31T07:48:49.234695+00:00"
-      }
-    ]
-  },
-  "geonews-naya-pakistan": {
-    "episodes": [
-      {
-        "title": "Front Against Maulana | Why Is PML-N Maintaining Mysterious Silence? | Shahzad Iqbal | Naya Pakistan",
-        "episode": null,
-        "id": "CpgnjYlg8RY",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-11-07"
       }
     ]
   },
@@ -956,22 +880,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xExSgmC8ia4/hqdefault.jpg",
         "checkedAt": "2026-10-31T12:43:55.382413+00:00"
-      },
-      {
-        "id": "Mg5t1PzPYFs",
-        "title": "Bas Tera Saath Ho Last EP 45 | 5 October 2026 | Farhan Saeed | Sana Javed | ENG SUB | ARY Digital",
-        "episode": 45,
-        "date": "2026-10-05",
-        "published": "2026-10-05T16:00:22Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/Mg5t1PzPYFs/hqdefault.jpg",
-        "checkedAt": "2026-10-26T20:35:04.066736+00:00"
       },
       {
         "id": "GscKavABvSU",
@@ -30880,6 +30788,26 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/NCXN9Y4tObg/hqdefault.jpg",
         "checkedAt": "2026-11-01T16:06:10.522511+00:00"
+      }
+    ]
+  },
+  "harpalgeo-mohabbat": {
+    "episodes": [
+      {
+        "id": "OM9zgC2_J8I",
+        "title": "Mohabbat Episode 13 [Eng Sub] Feroze Khan - Nawal Saeed | 9th November 2026 - HAR PAL GEO",
+        "episode": 13,
+        "date": "2026-11-09",
+        "published": "2026-11-09T16:00:23Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/OM9zgC2_J8I/hqdefault.jpg",
+        "checkedAt": "2026-11-09T22:28:51.373387+00:00"
       }
     ]
   }

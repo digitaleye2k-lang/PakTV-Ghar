@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-11-09",
-  "dailySearches": 8,
+  "dailySearches": 16,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -75,6 +75,22 @@
     ],
     "harpalgeo-nashtar": [
       {
+        "id": "XqVFy-Ifb4s",
+        "title": "Nashtar Episode 29 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
+        "episode": 29,
+        "date": "2026-11-08",
+        "published": "2026-11-08T16:00:23Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/XqVFy-Ifb4s/hqdefault.jpg",
+        "checkedAt": "2026-11-09T22:28:51.373387+00:00"
+      },
+      {
         "id": "y6vNzw3z864",
         "title": "Nashtar Episode 25 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
         "episode": 25,
@@ -92,6 +108,54 @@
       }
     ],
     "harpalgeo-uswa": [
+      {
+        "id": "QXXJ7tme94Q",
+        "title": "Uswah Episode 48 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 9th November 2026",
+        "episode": 48,
+        "date": "2026-11-09",
+        "published": "2026-11-09T15:00:20Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/QXXJ7tme94Q/hqdefault.jpg",
+        "checkedAt": "2026-11-09T22:28:51.373387+00:00"
+      },
+      {
+        "id": "w8WMftQAkC0",
+        "title": "Uswah Episode 47 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 8th November 2026",
+        "episode": 47,
+        "date": "2026-11-08",
+        "published": "2026-11-08T15:00:06Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/w8WMftQAkC0/hqdefault.jpg",
+        "checkedAt": "2026-11-09T22:28:51.373387+00:00"
+      },
+      {
+        "id": "k7l0lQvnejk",
+        "title": "Uswah Episode 46 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 7th November 2026",
+        "episode": 46,
+        "date": "2026-11-07",
+        "published": "2026-11-07T15:00:22Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/k7l0lQvnejk/hqdefault.jpg",
+        "checkedAt": "2026-11-09T22:28:51.373387+00:00"
+      },
       {
         "id": "N7AebpXAtvE",
         "title": "Uswah Episode 38 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 30th October 2026",
@@ -173,22 +237,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dReHjLpsE08/hqdefault.jpg",
         "checkedAt": "2026-10-31T07:53:35.110882+00:00"
-      },
-      {
-        "id": "xWes3sjnCTQ",
-        "title": "Khushi - Episode 43 - [ENG SUB] 25th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 43,
-        "date": "2026-10-25",
-        "published": "2026-10-25T15:00:15Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/xWes3sjnCTQ/hqdefault.jpg",
-        "checkedAt": "2026-10-26T13:14:49.600449+00:00"
       }
     ],
     "arydigital-bas-tera-saath-ho": [
@@ -207,22 +255,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xExSgmC8ia4/hqdefault.jpg",
         "checkedAt": "2026-10-31T12:43:55.382413+00:00"
-      },
-      {
-        "id": "Mg5t1PzPYFs",
-        "title": "Bas Tera Saath Ho Last EP 45 | 5 October 2026 | Farhan Saeed | Sana Javed | ENG SUB | ARY Digital",
-        "episode": 45,
-        "date": "2026-10-05",
-        "published": "2026-10-05T16:00:22Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/Mg5t1PzPYFs/hqdefault.jpg",
-        "checkedAt": "2026-10-26T20:35:04.066736+00:00"
       },
       {
         "id": "GscKavABvSU",
@@ -30202,8 +30234,26 @@
         "thumbnail": "https://i.ytimg.com/vi/zptfzGBbndw/hqdefault.jpg",
         "checkedAt": "2026-10-31T07:54:27.409378+00:00"
       }
+    ],
+    "harpalgeo-mohabbat": [
+      {
+        "id": "OM9zgC2_J8I",
+        "title": "Mohabbat Episode 13 [Eng Sub] Feroze Khan - Nawal Saeed | 9th November 2026 - HAR PAL GEO",
+        "episode": 13,
+        "date": "2026-11-09",
+        "published": "2026-11-09T16:00:23Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/OM9zgC2_J8I/hqdefault.jpg",
+        "checkedAt": "2026-11-09T22:28:51.373387+00:00"
+      }
     ]
   },
-  "cursor": 7,
+  "cursor": 11,
   "apiValidated": true
 }

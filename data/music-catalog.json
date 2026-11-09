@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-09T11:45:44.331624+00:00",
+  "generatedAt": "2026-11-09T22:29:13.587925+00:00",
   "source": "verified_publisher_uploads_and_official_starters",
-  "count": 715,
+  "count": 714,
   "publishers": {
     "cokestudio": 127,
     "emipakistan": 254,
-    "natashabaig": 92,
+    "natashabaig": 90,
     "talhaanjum": 68,
     "abdulhannan": 38,
     "hasanraheem": 66,
     "bayaan": 30,
-    "youngstunners": 38,
+    "youngstunners": 39,
     "jaubi": 1,
     "sajjadali": 1
   },
@@ -8536,28 +8536,16 @@
       "durationSeconds": 255
     },
     {
-      "id": "_lyz5gdtOa4",
-      "title": "Ya Moula | Natasha Baig ft. YBQ - Burushaski Song 2017",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
+      "id": "n8R-W9Lsrzk",
+      "title": "NOHookUps - Young Stunners - Official Audio",
+      "channel": "Young Stunners",
+      "channelId": "youngstunners",
       "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-07-11T09:22:06Z",
-      "date": "2017-07-11",
+      "genre": "Hip-Hop & Rap",
+      "published": "2017-07-22T21:06:59Z",
+      "date": "2017-07-22",
       "embeddable": true,
-      "durationSeconds": 265
-    },
-    {
-      "id": "HKPO2aghrhU",
-      "title": "Meri Maa | Natasha Baig (Mother's Day Special Song)",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-05-07T12:10:26Z",
-      "date": "2017-05-07",
-      "embeddable": true,
-      "durationSeconds": 218
+      "durationSeconds": 261
     },
     {
       "id": "kw4tT7SCmaY",

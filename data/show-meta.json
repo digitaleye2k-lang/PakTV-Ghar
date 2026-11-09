@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T16:45:48.715584+05:00",
+  "generatedAt": "2026-11-10T03:29:17.841119+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -19,11 +19,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 13,
+        "number": 14,
         "time": "20:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-09"
+        "date": "2026-11-10"
       }
     },
     "harpalgeo-nashtar": {
@@ -42,13 +42,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 29,
-        "time": "01:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-09"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -69,10 +62,10 @@
     "harpalgeo-uswa": {
       "lastAttempt": "2026-11-05T06:30:15.640645+05:00",
       "latestUpload": {
-        "number": 47,
-        "id": "34pQr7VwZzc",
-        "title": "Uswah Episode 47 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "date": "2026-11-08",
+        "number": 48,
+        "id": "QXXJ7tme94Q",
+        "title": "Uswah Episode 48 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 9th November 2026",
+        "date": "2026-11-09",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -81,11 +74,11 @@
       "poster": "https://i.ytimg.com/vi/7mpQfSZvLZE/hqdefault.jpg",
       "posterSource": "Official YouTube thumbnail",
       "tvToday": {
-        "number": 47,
+        "number": 48,
         "time": "03:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-09"
+        "date": "2026-11-10"
       }
     },
     "harpalgeo-khafa": {
@@ -106,11 +99,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 27,
-        "time": "11:30",
+        "number": 28,
+        "time": "00:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-09"
+        "date": "2026-11-10"
       }
     },
     "hum-aangan": {
@@ -142,11 +135,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 27,
+        "number": 28,
         "time": "21:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-09"
+        "date": "2026-11-10"
       }
     },
     "hum-bombay-tailors": {

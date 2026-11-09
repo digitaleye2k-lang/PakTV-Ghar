@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T11:45:52.499331+00:00",
+  "generatedAt": "2026-11-09T22:29:20.292249+00:00",
   "sources": [
     {
       "id": "homebased",
@@ -35,8 +35,38 @@
       "source": "publisher YouTube Data API"
     },
     {
+      "id": "iaSrnOJswb4",
+      "title": "The Prophet ﷺ Gained Power and Stayed Poor | Deeper Look: Surah Al-Hashr | Nouman Ali Khan",
+      "channelId": "bayyinah",
+      "channel": "Nouman Ali Khan - Official - Bayyinah",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-09",
+      "source": "publisher YouTube Data API"
+    },
+    {
+      "id": "dtj3U7idYXk",
+      "title": "𝐄𝐩-10 | सीरतुन नबी ﷺ उँगलियों पर | ग्यारहवां साल (मक्की दौर) | Hindi | ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-09",
+      "source": "publisher YouTube Data API"
+    },
+    {
       "id": "RwCrjo92ITU",
       "title": "𝐄𝐩-𝟎7 | सीरतुन नबी ﷺ उँगलियों पर | छठा साल (मक्की दौर) | Hindi | ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-09",
+      "source": "publisher YouTube Data API"
+    },
+    {
+      "id": "B9mLgkvZfNo",
+      "title": "𝐄𝐩-𝟎9 | सीरतुन नबी ﷺ उँगलियों पर | दसवां साल (मक्की दौर) | Hindi | ‪@understandquran‬",
       "channelId": "understand",
       "channel": "Understand Al-Quran Official",
       "language": "English / Urdu",
@@ -1015,6 +1045,6 @@
       "source": "verified official teaching upload"
     }
   ],
-  "count": 99,
+  "count": 102,
   "errors": []
 }
