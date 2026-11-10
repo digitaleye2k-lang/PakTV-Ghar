@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T07:28:12.962210+00:00",
+  "generatedAt": "2026-11-10T17:07:58.745689+00:00",
   "sources": [
     {
       "id": "homebased",
@@ -24,6 +24,46 @@
     }
   ],
   "videos": [
+    {
+      "id": "lk6Dyt1UcKk",
+      "title": "Al-Asma Al-Husna Ungliyaon par | Surah Hashr ki 3 Ayaat | 20 Beautiful Names of Allah | Roman Urdu",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "recitation",
+      "date": "2026-11-10",
+      "source": "publisher YouTube Data API"
+    },
+    {
+      "id": "emy14aqnNSY",
+      "title": "Al-Asma Al-Husna on Fingertips | through 3 Verses of Surah Hashr |20 Beautiful Names of Allah | Urdu",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "recitation",
+      "date": "2026-11-10",
+      "source": "publisher YouTube Data API"
+    },
+    {
+      "id": "M2eA6Sslvyg",
+      "title": "Al-Asma Al-Husna on Fingertips | Meaning, Dua, Ism Azam, Sifaat | 20 Beautiful Names of Allah | Urdu",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-10",
+      "source": "publisher YouTube Data API"
+    },
+    {
+      "id": "Kajq7pB3e5o",
+      "title": "Al-Asma Al-Husna on Fingertips | through Surah Al-Fatiha | 68 Beautiful Names of Allah | Urdu",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "recitation",
+      "date": "2026-11-10",
+      "source": "publisher YouTube Data API"
+    },
     {
       "id": "E6khFAo8dnY",
       "title": "Al-Asma Al-Husna Ungliyaon par | Surah Al-Fatiha key zariye | 68 Names of Allah | Roman Urdu",
@@ -1055,6 +1095,6 @@
       "source": "verified official teaching upload"
     }
   ],
-  "count": 103,
+  "count": 107,
   "errors": []
 }

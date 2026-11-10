@@ -2,6 +2,38 @@
   "hum-khushi": {
     "episodes": [
       {
+        "id": "JXhP2wgDR3k",
+        "title": "Khushi - Episode 59 - [ENG SUB] 10th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 59,
+        "date": "2026-11-10",
+        "published": "2026-11-10T15:00:05Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/JXhP2wgDR3k/hqdefault.jpg",
+        "checkedAt": "2026-11-10T17:07:10.769636+00:00"
+      },
+      {
+        "id": "d3mWoR2cgHc",
+        "title": "Khushi - Episode 58 - [ENG SUB] 9th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 58,
+        "date": "2026-11-09",
+        "published": "2026-11-09T15:00:36Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/d3mWoR2cgHc/hqdefault.jpg",
+        "checkedAt": "2026-11-10T17:07:10.769636+00:00"
+      },
+      {
         "title": "Khushi - Episode 57 - [ENG SUB] 8th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
         "episode": 57,
         "id": "4iqSe0xXhDQ",
@@ -70,12 +102,20 @@
   "hum-zehar-e-mohabbat": {
     "episodes": [
       {
+        "id": "h6IYi5zhDC4",
         "title": "Zehar-e-Mohabbat - Episode 24 - [Eng Sub] 8th Nov 2026 - [ Zoha Tauqeer & Omer Shahzad ] HUM TV",
         "episode": 24,
-        "id": "h6IYi5zhDC4",
+        "date": "2026-11-08",
+        "published": "2026-11-08T17:00:27Z",
         "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
         "kind": "youtube",
-        "date": "2026-11-08"
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/h6IYi5zhDC4/hqdefault.jpg",
+        "checkedAt": "2026-11-10T17:07:10.769636+00:00"
       },
       {
         "title": "Zehar-e-Mohabbat - Episode 23 Highlights - Nov 2026 - [ Zoha Tauqeer & Omer Shahzad ] HUM TV",
@@ -84,6 +124,26 @@
         "source": "HUM TV",
         "kind": "youtube",
         "date": "2026-11-08"
+      }
+    ]
+  },
+  "hum-bombay-tailors": {
+    "episodes": [
+      {
+        "id": "6xPzMoQ32Ys",
+        "title": "Bombay Tailors - Last Episode 35 - 9th Nov 2026 [ Anika Zulfikar & Ali Ansari ] - HUM TV",
+        "episode": 35,
+        "date": "2026-11-09",
+        "published": "2026-11-09T17:00:07Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/6xPzMoQ32Ys/hqdefault.jpg",
+        "checkedAt": "2026-11-10T07:27:53.301435+00:00"
       }
     ]
   },
@@ -141,14 +201,6 @@
         "title": "Aisi Kya Dekh Rahi Ho 😍 | Izzat Episode 48",
         "episode": 48,
         "id": "KpsWyktAhIQ",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
-        "title": "Izzat Episode 48 | Unmissable Scene | ARY Digital",
-        "episode": 48,
-        "id": "SsjETcBSXj0",
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-11-08"
@@ -229,14 +281,6 @@
         "title": "Lagan Lagi Episode 12 | Best Moment | ARY Digital",
         "episode": 12,
         "id": "sXy0AKLh_fQ",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
-        "title": "Lagan Lagi Episode 12 | Best Scene | ARY Digital",
-        "episode": 12,
-        "id": "fGrVIF5CA9I",
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-11-08"
@@ -486,14 +530,6 @@
         "checkedAt": "2026-11-09T22:28:51.373387+00:00"
       },
       {
-        "title": "Uswah Episode 46 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 46,
-        "id": "7_wC4qj9uBw",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
         "id": "k7l0lQvnejk",
         "title": "Uswah Episode 46 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 7th November 2026",
         "episode": 46,
@@ -658,14 +694,6 @@
         "date": "2026-11-08"
       },
       {
-        "title": "Nashtar Episode 28 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
-        "episode": 28,
-        "id": "yIVIBEyFozI",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
         "id": "y6vNzw3z864",
         "title": "Nashtar Episode 25 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
         "episode": 25,
@@ -729,22 +757,6 @@
         "title": "Bano Episode 25 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
         "episode": 25,
         "id": "yMLTQnZjQZo",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
-        "title": "Bano Episode 25 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 25,
-        "id": "kwzYMp2kX6M",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
-        "title": "Bano Episode 25 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 25,
-        "id": "8uZWeN11oF0",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-11-08"
@@ -1054,38 +1066,6 @@
   "harpalgeo-shaidai": {
     "episodes": [
       {
-        "id": "kT5HHJDY8NA",
-        "title": "Shaidai Last Episode 30 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Feroze Khan - Sahar Hashmi | Har Pal Geo",
-        "episode": 30,
-        "date": "2026-07-31",
-        "published": "2026-07-31T10:00:02Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/kT5HHJDY8NA/hqdefault.jpg",
-        "checkedAt": "2026-10-27T15:25:11.922979+00:00"
-      },
-      {
-        "id": "s9iFJ19ZdAY",
-        "title": "Shaidai Last Episode 30 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Feroze Khan - Sahar Hashmi | Har Pal Geo",
-        "episode": 30,
-        "date": "2026-07-31",
-        "published": "2026-07-31T07:00:11Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/s9iFJ19ZdAY/hqdefault.jpg",
-        "checkedAt": "2026-10-27T15:25:11.922979+00:00"
-      },
-      {
         "id": "dIe4nDHGm-g",
         "title": "Shaidai Last Episode 30 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Feroze Khan - Sahar Hashmi | Har Pal Geo",
         "episode": 30,
@@ -1100,22 +1080,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dIe4nDHGm-g/hqdefault.jpg",
         "checkedAt": "2026-11-01T22:09:14.002700+00:00"
-      },
-      {
-        "id": "TmWFxqx2aJo",
-        "title": "Shaidai Last Episode 30 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Feroze Khan - Sahar Hashmi | Har Pal Geo",
-        "episode": 30,
-        "date": "2026-07-30",
-        "published": "2026-07-30T19:30:25Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/TmWFxqx2aJo/hqdefault.jpg",
-        "checkedAt": "2026-10-27T15:25:11.922979+00:00"
       }
     ]
   },
@@ -30638,6 +30602,22 @@
   "hum-tark-e-tamanna": {
     "episodes": [
       {
+        "id": "XQoQrNn0k3o",
+        "title": "Tark-e-Tamanna - Episode 21 - [Eng Sub] 10 Nov 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "episode": 21,
+        "date": "2026-11-10",
+        "published": "2026-11-10T17:00:46Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/XQoQrNn0k3o/hqdefault.jpg",
+        "checkedAt": "2026-11-10T17:07:10.769636+00:00"
+      },
+      {
         "id": "ANxuTaGPnXg",
         "title": "Tark-e-Tamanna - Episode 17 [Eng Sub] - 30th Oct 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
         "episode": 17,
@@ -30744,26 +30724,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/NCXN9Y4tObg/hqdefault.jpg",
         "checkedAt": "2026-11-01T16:06:10.522511+00:00"
-      }
-    ]
-  },
-  "hum-bombay-tailors": {
-    "episodes": [
-      {
-        "id": "6xPzMoQ32Ys",
-        "title": "Bombay Tailors - Last Episode 35 - 9th Nov 2026 [ Anika Zulfikar & Ali Ansari ] - HUM TV",
-        "episode": 35,
-        "date": "2026-11-09",
-        "published": "2026-11-09T17:00:07Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/6xPzMoQ32Ys/hqdefault.jpg",
-        "checkedAt": "2026-11-10T07:27:53.301435+00:00"
       }
     ]
   }
