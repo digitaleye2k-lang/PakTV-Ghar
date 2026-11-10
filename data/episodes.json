@@ -154,22 +154,6 @@
         "date": "2026-11-08"
       },
       {
-        "title": "Mujhe Khula Chahiye 💔 | Izzat Episode 48",
-        "episode": 48,
-        "id": "f9k5P3d_Ilc",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
-        "title": "Izzat Episode 48 | Best Scene | ARY Digital",
-        "episode": 48,
-        "id": "RBH35uPzAvU",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
         "id": "Ysq02aKxOHU",
         "title": "Izzat Episode 41 | 30 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
         "episode": 41,
@@ -415,6 +399,26 @@
       }
     ]
   },
+  "harpalgeo-mohabbat": {
+    "episodes": [
+      {
+        "id": "OM9zgC2_J8I",
+        "title": "Mohabbat Episode 13 [Eng Sub] Feroze Khan - Nawal Saeed | 9th November 2026 - HAR PAL GEO",
+        "episode": 13,
+        "date": "2026-11-09",
+        "published": "2026-11-09T16:00:23Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/OM9zgC2_J8I/hqdefault.jpg",
+        "checkedAt": "2026-11-09T22:28:51.373387+00:00"
+      }
+    ]
+  },
   "harpalgeo-uswa": {
     "episodes": [
       {
@@ -488,38 +492,6 @@
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-11-08"
-      },
-      {
-        "title": "Uswah Episode 46 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 46,
-        "id": "wqCr_ZyNkQM",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
-        "title": "Uswah Episode 46 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 46,
-        "id": "yJkySaiNZGo",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
-        "title": "Uswah Episode 46 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 46,
-        "id": "VgI_vQpctOI",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
-        "title": "Uswah Episode 46 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
-        "episode": 46,
-        "id": "u1WRLYelbzo",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-07"
       },
       {
         "id": "k7l0lQvnejk",
@@ -773,22 +745,6 @@
         "title": "Bano Episode 25 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
         "episode": 25,
         "id": "8uZWeN11oF0",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
-        "title": "Bano Episode 25 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 25,
-        "id": "gtMzqiaooOU",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
-        "title": "Bano Episode 25 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 25,
-        "id": "7arnGd-SzWM",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-11-08"
@@ -30791,23 +30747,23 @@
       }
     ]
   },
-  "harpalgeo-mohabbat": {
+  "hum-bombay-tailors": {
     "episodes": [
       {
-        "id": "OM9zgC2_J8I",
-        "title": "Mohabbat Episode 13 [Eng Sub] Feroze Khan - Nawal Saeed | 9th November 2026 - HAR PAL GEO",
-        "episode": 13,
+        "id": "6xPzMoQ32Ys",
+        "title": "Bombay Tailors - Last Episode 35 - 9th Nov 2026 [ Anika Zulfikar & Ali Ansari ] - HUM TV",
+        "episode": 35,
         "date": "2026-11-09",
-        "published": "2026-11-09T16:00:23Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
+        "published": "2026-11-09T17:00:07Z",
+        "source": "HUM TV",
+        "channelId": "hum",
         "sourceType": "youtube_api",
         "kind": "youtube",
         "embeddable": true,
         "availableGB": true,
         "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/OM9zgC2_J8I/hqdefault.jpg",
-        "checkedAt": "2026-11-09T22:28:51.373387+00:00"
+        "thumbnail": "https://i.ytimg.com/vi/6xPzMoQ32Ys/hqdefault.jpg",
+        "checkedAt": "2026-11-10T07:27:53.301435+00:00"
       }
     ]
   }

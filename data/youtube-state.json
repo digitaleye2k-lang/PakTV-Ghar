@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-11-09",
-  "dailySearches": 16,
+  "dailySearches": 24,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -30252,8 +30252,26 @@
         "thumbnail": "https://i.ytimg.com/vi/OM9zgC2_J8I/hqdefault.jpg",
         "checkedAt": "2026-11-09T22:28:51.373387+00:00"
       }
+    ],
+    "hum-bombay-tailors": [
+      {
+        "id": "6xPzMoQ32Ys",
+        "title": "Bombay Tailors - Last Episode 35 - 9th Nov 2026 [ Anika Zulfikar & Ali Ansari ] - HUM TV",
+        "episode": 35,
+        "date": "2026-11-09",
+        "published": "2026-11-09T17:00:07Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/6xPzMoQ32Ys/hqdefault.jpg",
+        "checkedAt": "2026-11-10T07:27:53.301435+00:00"
+      }
     ]
   },
-  "cursor": 11,
+  "cursor": 15,
   "apiValidated": true
 }

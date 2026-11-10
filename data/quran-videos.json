@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T22:29:20.292249+00:00",
+  "generatedAt": "2026-11-10T07:28:12.962210+00:00",
   "sources": [
     {
       "id": "homebased",
@@ -24,6 +24,16 @@
     }
   ],
   "videos": [
+    {
+      "id": "E6khFAo8dnY",
+      "title": "Al-Asma Al-Husna Ungliyaon par | Surah Al-Fatiha key zariye | 68 Names of Allah | Roman Urdu",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "recitation",
+      "date": "2026-11-10",
+      "source": "publisher YouTube Data API"
+    },
     {
       "id": "n_3s5Osz78Y",
       "title": "𝐄𝐩-𝟎8 | सीरतुन नबी ﷺ उँगलियों पर | छठा साल (मक्की दौर) | Hindi | ‪@understandquran‬",
@@ -1045,6 +1055,6 @@
       "source": "verified official teaching upload"
     }
   ],
-  "count": 102,
+  "count": 103,
   "errors": []
 }
