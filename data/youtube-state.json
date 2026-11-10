@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-11-10",
-  "dailySearches": 8,
+  "dailySearches": 16,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -286,7 +286,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xExSgmC8ia4/hqdefault.jpg",
-        "checkedAt": "2026-10-31T12:43:55.382413+00:00"
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
+        "id": "Mg5t1PzPYFs",
+        "title": "Bas Tera Saath Ho Last EP 45 | 5 October 2026 | Farhan Saeed | Sana Javed | ENG SUB | ARY Digital",
+        "episode": 45,
+        "date": "2026-10-05",
+        "published": "2026-10-05T16:00:22Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/Mg5t1PzPYFs/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
       },
       {
         "id": "GscKavABvSU",
@@ -302,7 +318,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GscKavABvSU/hqdefault.jpg",
-        "checkedAt": "2026-10-31T12:43:55.382413+00:00"
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
+        "id": "8P_NmUEWha4",
+        "title": "Ansa Ki Nazar Apne Mujrim Per | Bas Tera Saath Ho Episode 43 | ARY Digital",
+        "episode": 43,
+        "date": "2026-10-05",
+        "published": "2026-10-05T12:30:33Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/8P_NmUEWha4/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
       }
     ],
     "arydigital-kafeel": [
@@ -320,7 +352,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iSsowAULHBM/hqdefault.jpg",
-        "checkedAt": "2026-10-31T12:43:55.382413+00:00"
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
       }
     ],
     "arydigital-mirza-ki-heer": [
@@ -30123,8 +30155,104 @@
     ],
     "arydigital-lagan-lagi": [
       {
+        "id": "cTYJjHGFprQ",
+        "title": "Lagan Lagi Episode 14 | 10 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 14,
+        "date": "2026-11-10",
+        "published": "2026-11-10T17:05:39Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/cTYJjHGFprQ/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
+        "id": "VIrzTs9T_wY",
+        "title": "Lagan Lagi Episode 13 | 9 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 13,
+        "date": "2026-11-09",
+        "published": "2026-11-09T17:00:03Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/VIrzTs9T_wY/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
+        "id": "PNvaazSxJHw",
+        "title": "Lagan Lagi Episode 12 | 6 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB |",
+        "episode": 12,
+        "date": "2026-11-06",
+        "published": "2026-11-06T17:00:03Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/PNvaazSxJHw/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
+        "id": "KcxWCeH1Ekg",
+        "title": "Lagan Lagi Ep 11 | 5 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB | ARY Digital",
+        "episode": 11,
+        "date": "2026-11-05",
+        "published": "2026-11-05T17:00:31Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/KcxWCeH1Ekg/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
+        "id": "iJc8EHsx8uU",
+        "title": "Lagan Lagi Ep 9 | 3 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB | ARY Digital",
+        "episode": 9,
+        "date": "2026-11-03",
+        "published": "2026-11-03T17:00:05Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/iJc8EHsx8uU/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
+        "id": "_hhs0vxW2so",
+        "title": "Lagan Lagi Ep 8 | 2 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB | ARY Digital",
+        "episode": 8,
+        "date": "2026-11-02",
+        "published": "2026-11-02T17:00:15Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/_hhs0vxW2so/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
         "id": "bML_jtAagkU",
-        "title": "Lagan Lagi Episode 7 | 30 Oct 206 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "title": "Lagan Lagi Episode 7 | 30 Oct 206 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB",
         "episode": 7,
         "date": "2026-10-30",
         "published": "2026-10-30T17:00:20Z",
@@ -30136,7 +30264,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/bML_jtAagkU/hqdefault.jpg",
-        "checkedAt": "2026-10-31T07:54:27.409378+00:00"
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
       },
       {
         "id": "CT4JkKXAaaE",
@@ -30184,7 +30312,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7oJzEda7bsI/hqdefault.jpg",
-        "checkedAt": "2026-10-31T07:54:27.409378+00:00"
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
       },
       {
         "id": "K4EnMsNvtjQ",
@@ -30220,7 +30348,7 @@
       },
       {
         "id": "zptfzGBbndw",
-        "title": "Lagan Lagi Episode 1 | 22 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "title": "Lagan Lagi Ep 1 | 22 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB | ARY Digital",
         "episode": 1,
         "date": "2026-10-22",
         "published": "2026-10-22T17:03:38Z",
@@ -30232,7 +30360,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zptfzGBbndw/hqdefault.jpg",
-        "checkedAt": "2026-10-31T07:54:27.409378+00:00"
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
       }
     ],
     "harpalgeo-mohabbat": [
@@ -30290,6 +30418,6 @@
       }
     ]
   },
-  "cursor": 19,
+  "cursor": 23,
   "apiValidated": true
 }
