@@ -2,14 +2,14 @@
   "date": "2026-11-11",
   "weekday": "Wednesday",
   "timezone": "Asia/Karachi",
-  "generatedAt": "2026-11-11T11:39:42.741770+05:00",
+  "generatedAt": "2026-11-11T22:15:04.755898+05:00",
   "items": [
     {
       "name": "Mohabbat",
       "showId": "harpalgeo-mohabbat",
       "channel": "Har Pal Geo",
       "time": "00:00",
-      "episode": 13,
+      "episode": 12,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
@@ -19,7 +19,7 @@
       "showId": "harpalgeo-mohabbat",
       "channel": "Har Pal Geo",
       "time": "01:00",
-      "episode": 14,
+      "episode": 13,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
@@ -29,17 +29,17 @@
       "showId": "harpalgeo-bano",
       "channel": "Har Pal Geo",
       "time": "02:00",
-      "episode": 28,
+      "episode": 27,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
     },
     {
-      "name": "Uswa",
-      "showId": "harpalgeo-uswa",
+      "name": "Uswah",
+      "showId": null,
       "channel": "Har Pal Geo",
       "time": "03:00",
-      "episode": 49,
+      "episode": 48,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
@@ -69,7 +69,7 @@
       "showId": "harpalgeo-mohabbat",
       "channel": "Har Pal Geo",
       "time": "06:00",
-      "episode": 14,
+      "episode": 13,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
@@ -79,17 +79,17 @@
       "showId": "harpalgeo-bano",
       "channel": "Har Pal Geo",
       "time": "07:00",
-      "episode": 28,
+      "episode": 27,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
     },
     {
-      "name": "Uswa",
-      "showId": "harpalgeo-uswa",
+      "name": "Uswah",
+      "showId": null,
       "channel": "Har Pal Geo",
       "time": "08:00",
-      "episode": 49,
+      "episode": 48,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
@@ -135,11 +135,11 @@
       "sourceLabel": "Official broadcaster"
     },
     {
-      "name": "Uswa",
-      "showId": "harpalgeo-uswa",
+      "name": "Uswah",
+      "showId": null,
       "channel": "Har Pal Geo",
       "time": "12:30",
-      "episode": 49,
+      "episode": 48,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
@@ -149,7 +149,7 @@
       "showId": "harpalgeo-mohabbat",
       "channel": "Har Pal Geo",
       "time": "13:30",
-      "episode": 14,
+      "episode": 13,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
@@ -159,7 +159,7 @@
       "showId": "harpalgeo-bano",
       "channel": "Har Pal Geo",
       "time": "14:30",
-      "episode": 27,
+      "episode": 26,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
@@ -169,7 +169,7 @@
       "showId": "harpalgeo-bano",
       "channel": "Har Pal Geo",
       "time": "15:00",
-      "episode": 28,
+      "episode": 27,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
@@ -205,11 +205,11 @@
       "sourceLabel": "Official broadcaster"
     },
     {
-      "name": "Uswa",
-      "showId": "harpalgeo-uswa",
+      "name": "Uswah",
+      "showId": null,
       "channel": "Har Pal Geo",
       "time": "18:30",
-      "episode": 49,
+      "episode": 48,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
@@ -239,7 +239,7 @@
       "showId": null,
       "channel": "Har Pal Geo",
       "time": "19:00",
-      "episode": 50,
+      "episode": 49,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
@@ -299,7 +299,7 @@
       "showId": "harpalgeo-bano",
       "channel": "Har Pal Geo",
       "time": "21:00",
-      "episode": 29,
+      "episode": 28,
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
