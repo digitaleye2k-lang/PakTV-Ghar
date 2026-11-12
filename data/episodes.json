@@ -34,22 +34,6 @@
         "checkedAt": "2026-11-10T17:07:10.769636+00:00"
       },
       {
-        "title": "Khushi - Episode 57 - [ENG SUB] 8th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 57,
-        "id": "4iqSe0xXhDQ",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
-        "title": "Khushi - Episode 54 Highlights - Nov 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
-        "episode": 54,
-        "id": "kXe9XGpO94g",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
         "id": "dReHjLpsE08",
         "title": "Khushi - Episode 48 - [ENG SUB] 30th Oct 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
         "episode": 48,
@@ -64,38 +48,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dReHjLpsE08/hqdefault.jpg",
         "checkedAt": "2026-10-31T07:53:35.110882+00:00"
-      }
-    ]
-  },
-  "hum-aangan": {
-    "episodes": [
-      {
-        "title": "Aangan - Episode 12 - Highlights [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
-        "episode": 12,
-        "id": "3YqJqQDaYrU",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      }
-    ]
-  },
-  "hum-mohabbat-mukhtasir": {
-    "episodes": [
-      {
-        "title": "Mohabbat Mukhtasir - Episode 07 - [Eng Sub] 8th Nov 2026 - [ Usama Khan & Madiha Imam ] HUM TV",
-        "episode": 7,
-        "id": "IguzhhrTp4U",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
-        "title": "Mohabbat Mukhtasir - Flashback Episode 06 - Nov 2026 - [ Usama Khan & Madiha Imam ] HUM TV",
-        "episode": 6,
-        "id": "a9-L0EIe2xQ",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-11-08"
       }
     ]
   },
@@ -152,14 +104,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/h6IYi5zhDC4/hqdefault.jpg",
         "checkedAt": "2026-11-10T17:07:10.769636+00:00"
-      },
-      {
-        "title": "Zehar-e-Mohabbat - Episode 23 Highlights - Nov 2026 - [ Zoha Tauqeer & Omer Shahzad ] HUM TV",
-        "episode": 23,
-        "id": "pmR8J55-Wmo",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-11-08"
       }
     ]
   },
@@ -180,66 +124,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6xPzMoQ32Ys/hqdefault.jpg",
         "checkedAt": "2026-11-10T07:27:53.301435+00:00"
-      }
-    ]
-  },
-  "arydigital-izzat": {
-    "episodes": [
-      {
-        "title": "Izzat Episode 50 | 5 November 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 50,
-        "id": "odeaeYxYugg",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
-        "id": "q1oeYejthww",
-        "title": "Izzat Episode 50 | 5 November 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 50,
-        "date": "2026-11-08",
-        "published": "2026-11-08T15:00:05Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/q1oeYejthww/hqdefault.jpg",
-        "checkedAt": "2026-11-09T00:58:35.933821+00:00"
-      },
-      {
-        "title": "Izzat Episode 49 | BEST MOMENT | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 49,
-        "id": "8IPZ11MfLFs",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
-        "title": "Izzat Episode 48 | Unforgettable Moment | ARY Digital",
-        "episode": 48,
-        "id": "A-DcxD4LqyM",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
-        "id": "Ysq02aKxOHU",
-        "title": "Izzat Episode 41 | 30 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 41,
-        "date": "2026-10-30",
-        "published": "2026-10-30T15:00:02Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/Ysq02aKxOHU/hqdefault.jpg",
-        "checkedAt": "2026-10-31T07:46:49.102465+00:00"
       }
     ]
   },
@@ -532,14 +416,6 @@
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-11-08"
-      },
-      {
-        "title": "Bike Ka Secret Box! 🏍️| Jeeto Pakistan | Fahad Mustafa | ARY Digital",
-        "episode": null,
-        "id": "0T3Ja9YfgFI",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-08"
       }
     ]
   },
@@ -762,14 +638,6 @@
         "checkedAt": "2026-11-09T22:28:51.373387+00:00"
       },
       {
-        "title": "Recap Nashtar Episode 28 - 8th November 2026 - Har Pal Geo",
-        "episode": 28,
-        "id": "vLnVmRUs-hg",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
         "id": "y6vNzw3z864",
         "title": "Nashtar Episode 25 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
         "episode": 25,
@@ -804,38 +672,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fHMZtnVT5Gg/hqdefault.jpg",
         "checkedAt": "2026-11-09T11:45:19.425535+00:00"
-      },
-      {
-        "title": "Bano Episode 25 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 25,
-        "id": "KFjbpYPDFz4",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
-        "title": "Bano Episode 25 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 25,
-        "id": "E8gjOt_iMeQ",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
-        "title": "Bano Episode 25 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 25,
-        "id": "o-V4NiCXS_U",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
-        "title": "Bano Episode 25 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 25,
-        "id": "yMLTQnZjQZo",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-08"
       },
       {
         "id": "4B2QagkEoEc",
@@ -1347,7 +1183,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/EQ-baUqmNaA/hqdefault.jpg",
-        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
+        "checkedAt": "2026-11-12T11:27:36.092025+00:00"
       },
       {
         "id": "-FXbu933_Bg",
@@ -1363,7 +1199,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-FXbu933_Bg/hqdefault.jpg",
-        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
+        "checkedAt": "2026-11-12T11:27:36.092025+00:00"
       }
     ]
   },
@@ -1383,7 +1219,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wqiKk2kIMA0/hqdefault.jpg",
-        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
+        "checkedAt": "2026-11-12T11:27:36.092025+00:00"
       },
       {
         "id": "nw17xXuRiKM",
@@ -1399,7 +1235,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nw17xXuRiKM/hqdefault.jpg",
-        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
+        "checkedAt": "2026-11-12T11:27:36.092025+00:00"
       }
     ]
   },
@@ -12038,38 +11874,6 @@
         "checkedAt": "2026-11-05T11:07:14.291186+00:00"
       },
       {
-        "id": "jk9khAwnUkM",
-        "title": "Fitoor - Ep 36 [Eng Sub] - Digitally Presented by Happilac Paints - 22nd July 2021 - HAR PAL GEO",
-        "episode": 36,
-        "date": "2021-07-22",
-        "published": "2021-07-22T16:30:04Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/jk9khAwnUkM/hqdefault.jpg",
-        "checkedAt": "2026-10-29T01:02:05.967615+00:00"
-      },
-      {
-        "id": "-3mxqwgk8aA",
-        "title": "Fitoor - Ep 32 [Eng Sub] - Digitally Presented by Happilac Paints - 8th July 2021 - HAR PAL GEO",
-        "episode": 32,
-        "date": "2021-07-08",
-        "published": "2021-07-08T16:00:10Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/-3mxqwgk8aA/hqdefault.jpg",
-        "checkedAt": "2026-10-29T01:02:05.967615+00:00"
-      },
-      {
         "id": "Is6QSlKF55s",
         "title": "Fitoor - Ep 30 [Eng Sub] - Digitally Presented by Happilac Paints - 1st July 2021 - HAR PAL GEO",
         "episode": 30,
@@ -12100,22 +11904,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Sw8Q0gV_608/hqdefault.jpg",
         "checkedAt": "2026-11-05T11:07:14.291186+00:00"
-      },
-      {
-        "id": "z9-BAcgw7Xw",
-        "title": "Fitoor - Ep 22 [Eng Sub] - Digitally Presented by Happilac Paints - 20th May 2021 - HAR PAL GEO",
-        "episode": 22,
-        "date": "2021-05-20",
-        "published": "2021-05-20T16:00:34Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/z9-BAcgw7Xw/hqdefault.jpg",
-        "checkedAt": "2026-10-29T01:02:05.967615+00:00"
       },
       {
         "id": "hSzHBFJzCf8",
@@ -12554,22 +12342,6 @@
         "checkedAt": "2026-11-05T11:07:14.291186+00:00"
       },
       {
-        "id": "7qLbthnhEaM",
-        "title": "Heer Da Hero Ep 22 - [Eng Sub]- Digitally Presented by Qarshi Jam-e-Shirin - Imran Ashraf, Amar Khan",
-        "episode": 22,
-        "date": "2023-04-13",
-        "published": "2023-04-13T15:00:06Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/7qLbthnhEaM/hqdefault.jpg",
-        "checkedAt": "2026-10-29T01:02:05.967615+00:00"
-      },
-      {
         "id": "Qa-EZS53Ft0",
         "title": "Heer Da Hero Ep 21 - [Eng Sub]- Digitally Presented by Qarshi Jam-e-Shirin - Imran Ashraf, Amar Khan",
         "episode": 21,
@@ -12632,22 +12404,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7qkS772oesg/hqdefault.jpg",
         "checkedAt": "2026-11-05T11:07:14.291186+00:00"
-      },
-      {
-        "id": "NNC_0C_ccDk",
-        "title": "Heer Da Hero Ep 17 - [Eng Sub]- Digitally Presented by Qarshi Jam-e-Shirin - Imran Ashraf, Amar Khan",
-        "episode": 17,
-        "date": "2023-04-08",
-        "published": "2023-04-08T15:00:12Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/NNC_0C_ccDk/hqdefault.jpg",
-        "checkedAt": "2026-10-29T01:02:05.967615+00:00"
       },
       {
         "id": "a4axwXQgw3s",
@@ -12926,54 +12682,6 @@
         "checkedAt": "2026-11-05T11:07:14.291186+00:00"
       },
       {
-        "id": "Js_vwWmdh24",
-        "title": "Jaan Nisar Ep 63 - [Eng Sub] - Digitally Presented by Happilac Paints - 19th Oct 2024 - Har Pal Geo",
-        "episode": 63,
-        "date": "2024-10-19",
-        "published": "2024-10-19T16:00:06Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Js_vwWmdh24/hqdefault.jpg",
-        "checkedAt": "2026-10-29T01:02:05.967615+00:00"
-      },
-      {
-        "id": "t7hvVMo1hOg",
-        "title": "Jaan Nisar Ep 62 - [Eng Sub] - Digitally Presented by Happilac Paints - 18th Oct 2024 - Har Pal Geo",
-        "episode": 62,
-        "date": "2024-10-18",
-        "published": "2024-10-18T16:00:07Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/t7hvVMo1hOg/hqdefault.jpg",
-        "checkedAt": "2026-10-29T01:02:05.967615+00:00"
-      },
-      {
-        "id": "cYCd2gDJObY",
-        "title": "Jaan Nisar Ep 61 - [Eng Sub] - Digitally Presented by Happilac Paints - 12th Oct 2024 - Har Pal Geo",
-        "episode": 61,
-        "date": "2024-10-12",
-        "published": "2024-10-12T16:00:06Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/cYCd2gDJObY/hqdefault.jpg",
-        "checkedAt": "2026-10-29T01:02:05.967615+00:00"
-      },
-      {
         "id": "hYZ1K9fqxZw",
         "title": "Jaan Nisar Ep 49 - [Eng Sub] - Digitally Presented by Happilac Paints - 31st Aug 2024 - Har Pal Geo",
         "episode": 49,
@@ -12988,70 +12696,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/hYZ1K9fqxZw/hqdefault.jpg",
         "checkedAt": "2026-11-05T11:07:14.291186+00:00"
-      },
-      {
-        "id": "XhPnVzm4hcU",
-        "title": "Jaan Nisar Ep 48 - [Eng Sub] - Digitally Presented by Happilac Paints - 30th Aug 2024 - Har Pal Geo",
-        "episode": 48,
-        "date": "2024-08-30",
-        "published": "2024-08-30T16:00:07Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/XhPnVzm4hcU/hqdefault.jpg",
-        "checkedAt": "2026-10-29T01:02:05.967615+00:00"
-      },
-      {
-        "id": "2ibCVi4-JTc",
-        "title": "Jaan Nisar Ep 47 - [Eng Sub] - Digitally Presented by Happilac Paints - 24th Aug 2024 - Har Pal Geo",
-        "episode": 47,
-        "date": "2024-08-24",
-        "published": "2024-08-24T16:00:07Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/2ibCVi4-JTc/hqdefault.jpg",
-        "checkedAt": "2026-10-29T01:02:05.967615+00:00"
-      },
-      {
-        "id": "L8V6eNo1SOQ",
-        "title": "Jaan Nisar Ep 44 - [Eng Sub] - Digitally Presented by Happilac Paints - 16th Aug 2024 - Har Pal Geo",
-        "episode": 44,
-        "date": "2024-08-16",
-        "published": "2024-08-16T16:00:32Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/L8V6eNo1SOQ/hqdefault.jpg",
-        "checkedAt": "2026-10-29T01:02:05.967615+00:00"
-      },
-      {
-        "id": "k-CGAMR6Fow",
-        "title": "Jaan Nisar Ep 43 - [Eng Sub] - Digitally Presented by Happilac Paints - 10th Aug 2024 - Har Pal Geo",
-        "episode": 43,
-        "date": "2024-08-10",
-        "published": "2024-08-10T16:00:06Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/k-CGAMR6Fow/hqdefault.jpg",
-        "checkedAt": "2026-10-29T01:02:05.967615+00:00"
       },
       {
         "id": "ZIwp1hLeFQ4",
@@ -13100,22 +12744,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/F4Tl1NIqScU/hqdefault.jpg",
         "checkedAt": "2026-11-05T11:07:14.291186+00:00"
-      },
-      {
-        "id": "Kx_mrcVrWes",
-        "title": "Jaan Nisar Ep 36 - [Eng Sub] - Digitally Presented by Happilac Paints - 26th July 2024 - Har Pal Geo",
-        "episode": 36,
-        "date": "2024-07-26",
-        "published": "2024-07-26T16:00:06Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Kx_mrcVrWes/hqdefault.jpg",
-        "checkedAt": "2026-10-29T01:02:05.967615+00:00"
       },
       {
         "id": "EHf0B0F0JgI",
@@ -13182,22 +12810,6 @@
         "checkedAt": "2026-11-05T11:07:14.291186+00:00"
       },
       {
-        "id": "tX2VI72s02E",
-        "title": "Jaan Nisar Ep 31 - [Eng Sub] - Digitally Presented by Happilac Paints - 13th July 2024 - Har Pal Geo",
-        "episode": 31,
-        "date": "2024-07-13",
-        "published": "2024-07-13T16:00:07Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/tX2VI72s02E/hqdefault.jpg",
-        "checkedAt": "2026-10-29T01:02:05.967615+00:00"
-      },
-      {
         "id": "MnhKHB3yYoA",
         "title": "Jaan Nisar Ep 30 - [Eng Sub] - Digitally Presented by Happilac Paints - 12th July 2024 - Har Pal Geo",
         "episode": 30,
@@ -13244,22 +12856,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/VR_-7uwu1gc/hqdefault.jpg",
         "checkedAt": "2026-11-05T11:07:14.291186+00:00"
-      },
-      {
-        "id": "by0dO7sP8dk",
-        "title": "Jaan Nisar Ep 25 - [Eng Sub] - Digitally Presented by Happilac Paints - 29th June 2024 - Har Pal Geo",
-        "episode": 25,
-        "date": "2024-06-29",
-        "published": "2024-06-29T16:00:06Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/by0dO7sP8dk/hqdefault.jpg",
-        "checkedAt": "2026-10-29T01:02:05.967615+00:00"
       },
       {
         "id": "hu4flosH37I",
@@ -13372,38 +12968,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/H4CSfdlaSoE/hqdefault.jpg",
         "checkedAt": "2026-11-05T11:07:14.291186+00:00"
-      },
-      {
-        "id": "ZhNaMJ5Iecs",
-        "title": "Jaan Nisar Ep 13 - [Eng Sub] - Digitally Presented by Happilac Paints - 7th June 2024 - Har Pal Geo",
-        "episode": 13,
-        "date": "2024-06-07",
-        "published": "2024-06-07T16:00:07Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ZhNaMJ5Iecs/hqdefault.jpg",
-        "checkedAt": "2026-10-29T01:02:05.967615+00:00"
-      },
-      {
-        "id": "i5fGAU-Uiqk",
-        "title": "Jaan Nisar Ep 12 - [Eng Sub] - Digitally Presented by Happilac Paints - 2nd June 2024 - Har Pal Geo",
-        "episode": 12,
-        "date": "2024-06-02",
-        "published": "2024-06-02T16:00:07Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/i5fGAU-Uiqk/hqdefault.jpg",
-        "checkedAt": "2026-10-29T01:02:05.967615+00:00"
       },
       {
         "id": "co7zSpcwOHI",
@@ -13584,22 +13148,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xPh1mkgymCc/hqdefault.jpg",
         "checkedAt": "2026-11-05T20:03:59.484014+00:00"
-      },
-      {
-        "id": "ovwGv47i0Zs",
-        "title": "Jhoom 2nd Last Episode 15 | Haroon Kadwani - Zara Noor Abbas - Sidra Niazi | Har Pal Geo",
-        "episode": 15,
-        "date": "2026-05-30",
-        "published": "2026-05-30T17:00:16Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ovwGv47i0Zs/hqdefault.jpg",
-        "checkedAt": "2026-10-29T10:08:50.579071+00:00"
       },
       {
         "id": "xjrkWM2dkQU",
@@ -13990,22 +13538,6 @@
   "harpalgeo-kaffara": {
     "episodes": [
       {
-        "id": "JnvhRXXHqFE",
-        "title": "Kaffara Last Episode 90 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Ali Ansari - Laiba Khan - Zoya Nasir - Har Pal Geo",
-        "episode": 90,
-        "date": "2024-10-18",
-        "published": "2024-10-18T02:00:09Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/JnvhRXXHqFE/hqdefault.jpg",
-        "checkedAt": "2026-10-29T10:08:50.579071+00:00"
-      },
-      {
         "id": "WeZ-RIUlIxQ",
         "title": "Kaffara Last Episode 90 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 17th October 2024",
         "episode": 90,
@@ -14054,38 +13586,6 @@
         "checkedAt": "2026-11-05T20:03:59.484014+00:00"
       },
       {
-        "id": "MkwhUlpLoG4",
-        "title": "Kaffara Episode 85 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 13th October 2024",
-        "episode": 85,
-        "date": "2024-10-13",
-        "published": "2024-10-13T16:00:20Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/MkwhUlpLoG4/hqdefault.jpg",
-        "checkedAt": "2026-10-29T10:08:50.579071+00:00"
-      },
-      {
-        "id": "wXon3TXopSs",
-        "title": "Kaffara Episode 84 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 12th October 2024",
-        "episode": 84,
-        "date": "2024-10-12",
-        "published": "2024-10-12T17:00:46Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/wXon3TXopSs/hqdefault.jpg",
-        "checkedAt": "2026-10-29T10:08:50.579071+00:00"
-      },
-      {
         "id": "fmNvvQDhBEg",
         "title": "Kaffara Episode 72 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 2nd October 2024",
         "episode": 72,
@@ -14100,70 +13600,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fmNvvQDhBEg/hqdefault.jpg",
         "checkedAt": "2026-11-05T20:03:59.484014+00:00"
-      },
-      {
-        "id": "ko0kg6GL3_k",
-        "title": "Kaffara Episode 69 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 30th September 2024",
-        "episode": 69,
-        "date": "2024-09-30",
-        "published": "2024-09-30T17:00:40Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ko0kg6GL3_k/hqdefault.jpg",
-        "checkedAt": "2026-10-29T10:08:50.579071+00:00"
-      },
-      {
-        "id": "l2Rxfy8rmqI",
-        "title": "Kaffara Episode 66 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 27th September 2024",
-        "episode": 66,
-        "date": "2024-09-27",
-        "published": "2024-09-27T17:01:01Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/l2Rxfy8rmqI/hqdefault.jpg",
-        "checkedAt": "2026-10-29T10:08:50.579071+00:00"
-      },
-      {
-        "id": "DRKRI5kv8eU",
-        "title": "Kaffara Episode 59 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 22nd September 2024",
-        "episode": 59,
-        "date": "2024-09-22",
-        "published": "2024-09-22T17:00:15Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/DRKRI5kv8eU/hqdefault.jpg",
-        "checkedAt": "2026-10-29T10:08:50.579071+00:00"
-      },
-      {
-        "id": "HqiJB-DkOa4",
-        "title": "Kaffara Episode 57 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 20th September 2024",
-        "episode": 57,
-        "date": "2024-09-20",
-        "published": "2024-09-20T17:00:12Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/HqiJB-DkOa4/hqdefault.jpg",
-        "checkedAt": "2026-10-29T10:08:50.579071+00:00"
       },
       {
         "id": "74eBtzIAqPI",
@@ -14244,22 +13680,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yWYFZqU1MyY/hqdefault.jpg",
         "checkedAt": "2026-11-05T20:03:59.484014+00:00"
-      },
-      {
-        "id": "yHprzPETRAM",
-        "title": "Kaffara Episode 43 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 8th September 2024",
-        "episode": 43,
-        "date": "2024-09-08",
-        "published": "2024-09-08T17:00:46Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/yHprzPETRAM/hqdefault.jpg",
-        "checkedAt": "2026-10-29T10:08:50.579071+00:00"
       },
       {
         "id": "C7tSv5I5amE",
@@ -14600,22 +14020,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Bejy4xwuLeE/hqdefault.jpg",
         "checkedAt": "2026-11-05T20:03:59.484014+00:00"
-      },
-      {
-        "id": "QH6eeEnXFpY",
-        "title": "Khaali Haath - Episode 22 | Har Pal Geo",
-        "episode": 22,
-        "date": "2017-07-17",
-        "published": "2017-07-17T16:00:03Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/QH6eeEnXFpY/hqdefault.jpg",
-        "checkedAt": "2026-10-29T10:08:50.579071+00:00"
       },
       {
         "id": "0WPf1It2ODg",
@@ -14990,22 +14394,6 @@
   "harpalgeo-khaani": {
     "episodes": [
       {
-        "id": "2G1kRFXBU8s",
-        "title": "Khaani - Episode 30 - Feroze Khan - Sana Javed - [HD] - Har Pal Geo",
-        "episode": 30,
-        "date": "2022-01-23",
-        "published": "2022-01-23T13:00:01Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/2G1kRFXBU8s/hqdefault.jpg",
-        "checkedAt": "2026-10-29T10:08:50.579071+00:00"
-      },
-      {
         "id": "vdMnDUNnJ9w",
         "title": "Khaani - Episode 29 - Feroze Khan - Sana Javed - [HD] - Har Pal Geo",
         "episode": 29,
@@ -15228,22 +14616,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vTMYP2Hnfaw/hqdefault.jpg",
         "checkedAt": "2026-11-06T01:36:32.802891+00:00"
-      },
-      {
-        "id": "ssreu3V947Y",
-        "title": "Khaani - Episode 14 - Feroze Khan - Sana Javed - [HD] - Har Pal Geo",
-        "episode": 14,
-        "date": "2022-01-23",
-        "published": "2022-01-23T05:00:31Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ssreu3V947Y/hqdefault.jpg",
-        "checkedAt": "2026-10-29T10:08:50.579071+00:00"
       },
       {
         "id": "v615LUZe8Uc",
@@ -29039,6 +28411,42 @@
       }
     ]
   },
+  "arydigital-izzat": {
+    "episodes": [
+      {
+        "id": "q1oeYejthww",
+        "title": "Izzat Episode 50 | 5 November 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 50,
+        "date": "2026-11-08",
+        "published": "2026-11-08T15:00:05Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/q1oeYejthww/hqdefault.jpg",
+        "checkedAt": "2026-11-09T00:58:35.933821+00:00"
+      },
+      {
+        "id": "Ysq02aKxOHU",
+        "title": "Izzat Episode 41 | 30 Oct 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 41,
+        "date": "2026-10-30",
+        "published": "2026-10-30T15:00:02Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/Ysq02aKxOHU/hqdefault.jpg",
+        "checkedAt": "2026-10-31T07:46:49.102465+00:00"
+      }
+    ]
+  },
   "harpalgeo-khafa": {
     "episodes": [
       {
@@ -29127,7 +28535,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GYARaiI6JCo/hqdefault.jpg",
-        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
+        "checkedAt": "2026-11-12T11:27:36.092025+00:00"
       },
       {
         "id": "f4p4uLc4u-k",
@@ -29143,7 +28551,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/f4p4uLc4u-k/hqdefault.jpg",
-        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
+        "checkedAt": "2026-11-12T11:27:36.092025+00:00"
       }
     ]
   },

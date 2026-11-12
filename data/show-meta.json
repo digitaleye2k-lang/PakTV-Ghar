@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T05:49:51.707398+05:00",
+  "generatedAt": "2026-11-12T16:28:07.566199+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,6 +17,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 13,
+        "time": "16:30",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-11-12"
       }
     },
     "harpalgeo-nashtar": {
@@ -45,7 +52,7 @@
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
-      "lastAttempt": "2026-11-05T06:30:15.639896+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.215493+05:00",
       "latestUpload": {
         "number": 62,
         "id": "0Yif1LS-bT4",
@@ -60,7 +67,7 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-uswa": {
-      "lastAttempt": "2026-11-05T06:30:15.640645+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.216210+05:00",
       "latestUpload": {
         "number": 48,
         "id": "QXXJ7tme94Q",
@@ -126,6 +133,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 29,
+        "time": "21:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-11-12"
       }
     },
     "hum-bombay-tailors": {
@@ -289,7 +303,7 @@
       }
     },
     "arydigital-tamasha-season-5": {
-      "lastAttempt": "2026-11-05T06:30:15.640198+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.215827+05:00",
       "fetchWarning": "HTTPError",
       "latestUpload": {
         "number": 76,
@@ -347,7 +361,7 @@
       }
     },
     "hum-aye-dil-aazma-nahi": {
-      "lastAttempt": "2026-11-05T06:30:15.641438+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.216526+05:00",
       "latestUpload": {
         "number": 36,
         "id": "LDu-XHAWJM4",
@@ -380,7 +394,7 @@
       }
     },
     "harpalgeo-beti-ka-ghar-konsa": {
-      "lastAttempt": "2026-11-05T06:30:15.641856+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.216986+05:00",
       "latestUpload": {
         "number": 65,
         "id": "_kbFqp2nfmM",
@@ -395,7 +409,7 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "hum-deewar": {
-      "lastAttempt": "2026-11-05T06:30:15.642454+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.217523+05:00",
       "latestUpload": {
         "number": 84,
         "id": "nzE6TeRnstM",
@@ -418,7 +432,7 @@
       "latestPublisherSource": "https://arydigital.tv/drama/dr-bahu/"
     },
     "hum-ek-jhooti-kahani": {
-      "lastAttempt": "2026-11-05T06:30:15.642702+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.217822+05:00",
       "latestUpload": {
         "number": 28,
         "id": "dhJj0oDY58w",
@@ -433,7 +447,7 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "hum-hadd": {
-      "lastAttempt": "2026-11-05T06:30:15.642730+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.217852+05:00",
       "latestUpload": {
         "number": 84,
         "id": "kbJ0_aO-2w0",
@@ -481,7 +495,7 @@
       }
     },
     "hum-leader": {
-      "lastAttempt": "2026-11-05T06:30:15.643074+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.218045+05:00",
       "latestUpload": {
         "number": 28,
         "id": "EQ-baUqmNaA",
@@ -519,7 +533,7 @@
       }
     },
     "hum-muamma": {
-      "lastAttempt": "2026-11-05T06:30:15.643096+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.218098+05:00",
       "latestUpload": {
         "number": 35,
         "id": "GYARaiI6JCo",
@@ -542,7 +556,7 @@
       "latestPublisherSource": "https://harpalgeo.tv/program/Muhafiz"
     },
     "hum-musafat": {
-      "lastAttempt": "2026-11-05T06:30:15.643269+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.218554+05:00",
       "latestUpload": {
         "number": 54,
         "id": "wqiKk2kIMA0",
@@ -557,7 +571,7 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-pehli-barish": {
-      "lastAttempt": "2026-11-05T06:30:15.643286+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.218577+05:00",
       "latestUpload": {
         "number": 41,
         "id": "vbSfVB_VkrM",
@@ -590,7 +604,7 @@
       }
     },
     "hum-sirf-shabana": {
-      "lastAttempt": "2026-11-05T06:30:15.643618+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.218745+05:00",
       "latestUpload": {
         "number": 31,
         "id": "T-rg8ZWoMeI",
@@ -659,40 +673,40 @@
       }
     },
     "geonews-dolly-darling": {
-      "lastAttempt": "2026-11-05T06:30:15.643641+05:00"
+      "lastAttempt": "2026-11-12T16:28:06.218990+05:00"
     },
     "dunya-g-sarkar": {
-      "lastAttempt": "2026-11-05T06:30:15.643908+05:00"
+      "lastAttempt": "2026-11-12T16:28:06.219020+05:00"
     },
     "dunya-hasb-e-haal": {
-      "lastAttempt": "2026-11-05T06:30:15.643931+05:00"
+      "lastAttempt": "2026-11-12T16:28:06.219882+05:00"
     },
     "geonews-hasna-mana-hai": {
-      "lastAttempt": "2026-11-05T06:30:15.643942+05:00"
+      "lastAttempt": "2026-11-12T16:28:06.219910+05:00"
     },
     "dunya-joke-dar-joke": {
-      "lastAttempt": "2026-11-05T06:30:15.644577+05:00"
+      "lastAttempt": "2026-11-12T16:28:06.219970+05:00"
     },
     "expressnews-khabardar": {
-      "lastAttempt": "2026-11-05T06:30:15.644601+05:00"
+      "lastAttempt": "2026-11-12T16:28:06.221104+05:00"
     },
     "geonews-khabarnaak": {
-      "lastAttempt": "2026-11-05T06:30:15.644613+05:00"
+      "lastAttempt": "2026-11-12T16:28:06.221126+05:00"
     },
     "dunya-mazaaq-raat-muzakraat": {
-      "lastAttempt": "2026-11-05T06:30:15.644624+05:00"
+      "lastAttempt": "2026-11-12T16:28:06.221152+05:00"
     },
     "dunya-siyasi-theatre": {
-      "lastAttempt": "2026-11-05T06:30:15.644652+05:00"
+      "lastAttempt": "2026-11-12T16:28:06.221179+05:00"
     },
     "dunya-zaban-daraz": {
-      "lastAttempt": "2026-11-05T06:30:15.644663+05:00"
+      "lastAttempt": "2026-11-12T16:28:06.221191+05:00"
     },
     "harpalgeo-aik-thi-rania": {
-      "lastAttempt": "2026-11-05T06:30:15.644673+05:00"
+      "lastAttempt": "2026-11-12T16:28:06.221201+05:00"
     },
     "hum-alif": {
-      "lastAttempt": "2026-11-05T06:30:15.644803+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.221562+05:00",
       "latestUpload": {
         "number": 42,
         "id": "pDRBv-wvO-4",
@@ -707,7 +721,7 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "arydigital-angna": {
-      "lastAttempt": "2026-11-05T06:30:15.644845+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.221599+05:00",
       "fetchWarning": "HTTPError",
       "latestUpload": {
         "number": 66,
@@ -786,7 +800,7 @@
       }
     },
     "arydigital-beti": {
-      "lastAttempt": "2026-11-05T06:30:15.645048+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.221793+05:00",
       "fetchWarning": "HTTPError",
       "latestUpload": {
         "number": 24,
@@ -802,7 +816,7 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "hum-bin-roye": {
-      "lastAttempt": "2026-11-05T06:30:15.645424+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.221991+05:00",
       "latestUpload": {
         "number": 16,
         "id": "TurBvNv76Q4",
@@ -847,7 +861,7 @@
       }
     },
     "arydigital-chand-tara": {
-      "lastAttempt": "2026-11-05T06:30:15.645456+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.222028+05:00",
       "fetchWarning": "HTTPError"
     },
     "arydigital-cheekh": {
@@ -866,7 +880,7 @@
       }
     },
     "hum-chupke-chupke": {
-      "lastAttempt": "2026-11-05T06:30:15.645699+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.222407+05:00",
       "latestUpload": {
         "number": 25,
         "id": "lD8gzMNt8bQ",
@@ -881,7 +895,7 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-dewangi": {
-      "lastAttempt": "2026-11-05T06:30:15.645729+05:00"
+      "lastAttempt": "2026-11-12T16:28:06.222444+05:00"
     },
     "harpalgeo-dil-e-momin": {
       "lastAttempt": "2026-10-12T20:10:59.966258+05:00",
@@ -902,7 +916,7 @@
       }
     },
     "hum-diyar-e-dil": {
-      "lastAttempt": "2026-11-05T06:30:15.855610+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.391421+05:00",
       "latestUpload": {
         "number": 32,
         "id": "MECejw5F6wU",
@@ -947,7 +961,7 @@
       }
     },
     "hum-ehd-e-wafa": {
-      "lastAttempt": "2026-11-05T06:30:15.855651+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.391457+05:00",
       "latestUpload": {
         "number": 24,
         "id": "r9GHXVoxRVs",
@@ -962,7 +976,7 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "hum-fairy-tale": {
-      "lastAttempt": "2026-11-05T06:30:15.855667+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.391472+05:00",
       "latestUpload": {
         "number": 30,
         "id": "7Q8HIxnOuOs",
@@ -977,7 +991,7 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "hum-fairy-tale-2": {
-      "lastAttempt": "2026-11-05T06:30:15.855678+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.391485+05:00",
       "latestUpload": {
         "number": 30,
         "id": "7Q8HIxnOuOs",
@@ -1043,7 +1057,7 @@
       }
     },
     "harpalgeo-heer-da-hero": {
-      "lastAttempt": "2026-11-05T06:30:15.855693+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.391498+05:00",
       "latestUpload": {
         "number": 30,
         "id": "fG2WXTfjl7M",
@@ -1058,7 +1072,7 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "hum-hum-tum": {
-      "lastAttempt": "2026-11-05T06:30:15.856429+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.415042+05:00",
       "latestUpload": {
         "number": 29,
         "id": "dFTgm8Pre0c",
@@ -1073,7 +1087,7 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "hum-humsafar": {
-      "lastAttempt": "2026-11-05T06:30:15.856462+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.415136+05:00",
       "latestUpload": {
         "number": 22,
         "id": "VQAE_Qz6G48",
@@ -1103,7 +1117,7 @@
       }
     },
     "hum-ishq-murshid": {
-      "lastAttempt": "2026-11-05T06:30:15.856483+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.415155+05:00",
       "latestUpload": {
         "number": 29,
         "id": "7dbbMX6JOCc",
@@ -1118,7 +1132,7 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-jaan-nisar": {
-      "lastAttempt": "2026-11-05T06:30:15.856501+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.415172+05:00",
       "latestUpload": {
         "number": 65,
         "id": "gYVborPPkS4",
@@ -1133,7 +1147,7 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-jaan-se-pyara-juni": {
-      "lastAttempt": "2026-11-05T06:30:15.990119+05:00"
+      "lastAttempt": "2026-11-12T16:28:06.419971+05:00"
     },
     "arydigital-jaan-e-jahan": {
       "lastAttempt": "2026-10-12T20:13:27.715764+05:00",
@@ -1151,7 +1165,7 @@
       }
     },
     "hum-jafaa": {
-      "lastAttempt": "2026-11-05T06:30:16.057753+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.437246+05:00",
       "latestUpload": {
         "number": 32,
         "id": "UlzboTWVVkk",
@@ -1181,7 +1195,7 @@
       }
     },
     "arydigital-jeeto-pakistan": {
-      "lastAttempt": "2026-11-05T06:30:16.057788+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.437282+05:00",
       "fetchWarning": "HTTPError"
     },
     "harpalgeo-jhoom": {
@@ -1226,9 +1240,9 @@
       "latestPublisherSource": "https://harpalgeo.tv/program/Kaffara",
       "latestUpload": {
         "number": 90,
-        "id": "JnvhRXXHqFE",
-        "title": "Kaffara Last Episode 90 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Ali Ansari - Laiba Khan - Zoya Nasir - Har Pal Geo",
-        "date": "2024-10-18",
+        "id": "WeZ-RIUlIxQ",
+        "title": "Kaffara Last Episode 90 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 17th October 2024",
+        "date": "2024-10-17",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -1236,11 +1250,11 @@
       }
     },
     "arydigital-kaisi-teri-khudgarzi": {
-      "lastAttempt": "2026-11-05T06:30:16.087487+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.507155+05:00",
       "fetchWarning": "HTTPError"
     },
     "harpalgeo-khaali-haath": {
-      "lastAttempt": "2026-11-05T06:30:16.103669+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.510683+05:00",
       "latestUpload": {
         "number": 25,
         "id": "6AeiH2oGo8M",
@@ -1262,9 +1276,9 @@
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
       "latestPublisherSource": "https://harpalgeo.tv/program/Khaani",
       "latestUpload": {
-        "number": 30,
-        "id": "2G1kRFXBU8s",
-        "title": "Khaani - Episode 30 - Feroze Khan - Sana Javed - [HD] - Har Pal Geo",
+        "number": 29,
+        "id": "vdMnDUNnJ9w",
+        "title": "Khaani - Episode 29 - Feroze Khan - Sana Javed - [HD] - Har Pal Geo",
         "date": "2022-01-23",
         "source": "Official YouTube upload",
         "availableGB": true,
@@ -1273,16 +1287,16 @@
       }
     },
     "dunya-khabaryar": {
-      "lastAttempt": "2026-11-05T06:30:16.245466+05:00"
+      "lastAttempt": "2026-11-12T16:28:06.586665+05:00"
     },
     "dunya-khabarzar": {
-      "lastAttempt": "2026-11-05T06:30:16.245506+05:00"
+      "lastAttempt": "2026-11-12T16:28:06.586703+05:00"
     },
     "harpalgeo-khuda-aur-muhabbat-3": {
-      "lastAttempt": "2026-11-05T06:30:16.245521+05:00"
+      "lastAttempt": "2026-11-12T16:28:06.586718+05:00"
     },
     "hum-kuch-ankahi": {
-      "lastAttempt": "2026-11-05T06:30:16.260292+05:00"
+      "lastAttempt": "2026-11-12T16:28:06.665863+05:00"
     },
     "arydigital-kuch-ankahi": {
       "lastAttempt": "2026-10-12T20:13:27.913486+05:00",
@@ -1300,11 +1314,11 @@
       }
     },
     "arydigital-loose-talk": {
-      "lastAttempt": "2026-11-05T06:30:16.260321+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.665898+05:00",
       "fetchWarning": "HTTPError"
     },
     "harpalgeo-mann-mast-malang": {
-      "lastAttempt": "2026-11-05T06:30:16.282659+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.746596+05:00",
       "latestUpload": {
         "number": 56,
         "id": "_tPCT_22sQk",
@@ -1319,7 +1333,7 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "hum-mann-mayal": {
-      "lastAttempt": "2026-11-05T06:30:16.342105+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.772225+05:00",
       "latestUpload": {
         "number": 32,
         "id": "14wo7UNycVA",
@@ -1334,7 +1348,7 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-mannat-murad": {
-      "lastAttempt": "2026-11-05T06:30:16.342140+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.772262+05:00",
       "latestUpload": {
         "number": 33,
         "id": "OPmT7x3da5w",
@@ -1349,7 +1363,7 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-mast-mohabbat": {
-      "lastAttempt": "2026-11-05T06:30:16.432619+05:00"
+      "lastAttempt": "2026-11-12T16:28:06.790814+05:00"
     },
     "arydigital-mayi-ri": {
       "lastAttempt": "2026-10-12T20:13:28.129706+05:00",
@@ -1367,7 +1381,7 @@
       }
     },
     "hum-meem-se-mohabbat": {
-      "lastAttempt": "2026-11-05T06:30:16.509573+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.796079+05:00",
       "latestUpload": {
         "number": 33,
         "id": "IkyPXN9BtfU",
@@ -1382,7 +1396,7 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-mere-humnasheen": {
-      "lastAttempt": "2026-11-05T06:30:16.509609+05:00"
+      "lastAttempt": "2026-11-12T16:28:06.796104+05:00"
     },
     "arydigital-mere-humsafar": {
       "lastAttempt": "2026-10-12T20:13:28.355389+05:00",
@@ -1400,7 +1414,7 @@
       }
     },
     "harpalgeo-mohabbat-tumse-nafrat-hai": {
-      "lastAttempt": "2026-11-05T06:30:16.621740+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.826592+05:00",
       "latestUpload": {
         "number": 29,
         "id": "XWQTlEv_rBM",
@@ -1415,7 +1429,7 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-mushk": {
-      "lastAttempt": "2026-11-05T06:30:16.650032+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.872294+05:00",
       "latestUpload": {
         "number": 49,
         "id": "eqTjzTPa2wc",
@@ -1430,7 +1444,7 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "hum-nadaan": {
-      "lastAttempt": "2026-11-05T06:30:16.713478+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.922461+05:00",
       "latestUpload": {
         "number": 8,
         "id": "6Ui0psrX1MY",
@@ -1460,7 +1474,7 @@
       }
     },
     "hum-parizaad": {
-      "lastAttempt": "2026-11-05T06:30:16.713515+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.922500+05:00",
       "latestUpload": {
         "number": 27,
         "id": "ItJJFiDNDA8",
@@ -1490,7 +1504,7 @@
       }
     },
     "hum-pyar-ke-sadqay": {
-      "lastAttempt": "2026-11-05T06:30:16.713528+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.922516+05:00",
       "latestUpload": {
         "number": 30,
         "id": "IEvPIitFvZc",
@@ -1523,7 +1537,7 @@
       }
     },
     "arydigital-quddusi-sahab-ki-bewah": {
-      "lastAttempt": "2026-11-05T06:30:16.713542+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.922531+05:00",
       "fetchWarning": "HTTPError"
     },
     "arydigital-qurban": {
@@ -1542,10 +1556,10 @@
       }
     },
     "harpalgeo-radd": {
-      "lastAttempt": "2026-11-05T06:30:16.818016+05:00"
+      "lastAttempt": "2026-11-12T16:28:06.933175+05:00"
     },
     "hum-ranjha-ranjha-kardi": {
-      "lastAttempt": "2026-11-05T06:30:16.856994+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.944554+05:00",
       "latestUpload": {
         "number": 31,
         "id": "f-_RICU3NLs",
@@ -1560,7 +1574,7 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "hum-raqs-e-bismil": {
-      "lastAttempt": "2026-11-05T06:30:16.857022+05:00"
+      "lastAttempt": "2026-11-12T16:28:06.944586+05:00"
     },
     "harpalgeo-ruposh": {
       "lastAttempt": "2026-10-12T20:13:28.894750+05:00",
@@ -1568,7 +1582,7 @@
       "posterSource": "Official broadcaster"
     },
     "hum-sang-e-mah": {
-      "lastAttempt": "2026-11-05T06:30:16.857036+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.944601+05:00",
       "latestUpload": {
         "number": 26,
         "id": "Wn4mya9fU0U",
@@ -1583,10 +1597,10 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "dunya-seeti-41": {
-      "lastAttempt": "2026-11-05T06:30:16.857049+05:00"
+      "lastAttempt": "2026-11-12T16:28:06.944612+05:00"
     },
     "harpalgeo-sirf-tum": {
-      "lastAttempt": "2026-11-05T06:30:16.857061+05:00",
+      "lastAttempt": "2026-11-12T16:28:06.944624+05:00",
       "latestUpload": {
         "number": 48,
         "id": "6bLBGa00gaQ",
@@ -1634,7 +1648,7 @@
       }
     },
     "hum-suno-chanda": {
-      "lastAttempt": "2026-11-05T06:30:16.862401+05:00",
+      "lastAttempt": "2026-11-12T16:28:07.035153+05:00",
       "latestUpload": {
         "number": 27,
         "id": "i0BIKuZaBn0",
@@ -1649,10 +1663,10 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "hum-suno-chanda-2": {
-      "lastAttempt": "2026-11-05T06:30:16.862425+05:00"
+      "lastAttempt": "2026-11-12T16:28:07.035197+05:00"
     },
     "harpalgeo-tere-aany-se": {
-      "lastAttempt": "2026-11-05T06:30:16.862440+05:00",
+      "lastAttempt": "2026-11-12T16:28:07.035215+05:00",
       "latestUpload": {
         "number": 37,
         "id": "tv32nY1IIEw",
@@ -1667,7 +1681,7 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-tere-bin": {
-      "lastAttempt": "2026-11-05T06:30:16.864930+05:00",
+      "lastAttempt": "2026-11-12T16:28:07.039508+05:00",
       "latestUpload": {
         "number": 58,
         "id": "DQRz8reIU8c",
@@ -1682,7 +1696,7 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-tere-bin-2": {
-      "lastAttempt": "2026-11-05T06:30:16.976954+05:00",
+      "lastAttempt": "2026-11-12T16:28:07.072569+05:00",
       "latestUpload": {
         "number": 57,
         "id": "5L72m71en8k",
@@ -1697,10 +1711,10 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "geonews-the-shareef-show-mubarak-ho": {
-      "lastAttempt": "2026-11-05T06:30:17.009522+05:00"
+      "lastAttempt": "2026-11-12T16:28:07.078620+05:00"
     },
     "hum-udaari": {
-      "lastAttempt": "2026-11-05T06:30:17.009558+05:00",
+      "lastAttempt": "2026-11-12T16:28:07.078646+05:00",
       "latestUpload": {
         "number": 25,
         "id": "5nEvb6b5Mbk",
