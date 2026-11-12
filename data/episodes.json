@@ -400,22 +400,6 @@
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-11-08"
-      },
-      {
-        "title": "Little Champs! 🏆| Jeeto Pakistan | Fahad Mustafa | ARY Digital",
-        "episode": null,
-        "id": "sqq9ZsbxFm4",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-08"
-      },
-      {
-        "title": "1 Lakh Ki Baazi! 💸| Jeeto Pakistan | Fahad Mustafa | ARY Digital",
-        "episode": null,
-        "id": "h2mm6ocuucs",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-08"
       }
     ]
   },
@@ -1255,7 +1239,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/T-rg8ZWoMeI/hqdefault.jpg",
-        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "mbujMW8PDK8",
@@ -1271,7 +1255,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mbujMW8PDK8/hqdefault.jpg",
-        "checkedAt": "2026-11-02T19:34:11.506866+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       }
     ]
   },
@@ -1291,7 +1275,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/YrDVNI5w4dk/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "TVNHFf3ELBQ",
@@ -1310,6 +1294,38 @@
         "checkedAt": "2026-11-03T02:56:50.234779+00:00"
       },
       {
+        "id": "vMmVoA41_nk",
+        "title": "Angna Episode 62 - 2nd June 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 62,
+        "date": "2022-06-02",
+        "published": "2022-06-02T15:05:11Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/vMmVoA41_nk/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
+        "id": "6H_fha8BlHM",
+        "title": "Angna Episode 59 - 30th May 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 59,
+        "date": "2022-05-30",
+        "published": "2022-05-30T15:02:32Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/6H_fha8BlHM/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
         "id": "MaZ63L1je4Y",
         "title": "Angna Episode 58 - 29th May 2022 (English Subtitles) - ARY Digital Drama",
         "episode": 58,
@@ -1326,6 +1342,54 @@
         "checkedAt": "2026-11-03T02:56:50.234779+00:00"
       },
       {
+        "id": "3UMgzjID78Y",
+        "title": "Angna Episode 57 - 28th May 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 57,
+        "date": "2022-05-28",
+        "published": "2022-05-28T15:06:36Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/3UMgzjID78Y/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
+        "id": "8FGefmw2VtM",
+        "title": "Angna Episode 55 - 26th May 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 55,
+        "date": "2022-05-26",
+        "published": "2022-05-26T15:06:47Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/8FGefmw2VtM/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
+        "id": "vvqtDH2yCr4",
+        "title": "Angna Episode 53 (English Subtitles) ARY Digital Drama",
+        "episode": 53,
+        "date": "2022-05-24",
+        "published": "2022-05-24T15:00:48Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/vvqtDH2yCr4/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
         "id": "PMe7H0VyUy4",
         "title": "Angna Episode 50 | 21st May 2022 (English Subtitles) | ARY Digital Drama",
         "episode": 50,
@@ -1339,7 +1403,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PMe7H0VyUy4/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
+        "id": "hXHsKYuV7Xk",
+        "title": "Angna Episode 49 | 20th May 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 49,
+        "date": "2022-05-20",
+        "published": "2022-05-20T15:04:28Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/hXHsKYuV7Xk/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
+        "id": "UVDNBvHmQaA",
+        "title": "Angna Episode 47 | 18th May 2022 (English Subtitles) | ARY Digital Drama",
+        "episode": 47,
+        "date": "2022-05-18",
+        "published": "2022-05-18T15:08:01Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/UVDNBvHmQaA/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "ZeNXOc9YtNc",
@@ -1355,7 +1451,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ZeNXOc9YtNc/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
+        "id": "qFLvfZObeds",
+        "title": "Angna Episode 45 - 16th May 2022 (English Subtitles) | ARY Digital Drama",
+        "episode": 45,
+        "date": "2022-05-16",
+        "published": "2022-05-16T15:03:06Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/qFLvfZObeds/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "yhBhfHdG6mc",
@@ -1371,7 +1483,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yhBhfHdG6mc/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
+        "id": "s2F6nErYkcM",
+        "title": "Angna Episode 43 - 14th May 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 43,
+        "date": "2022-05-14",
+        "published": "2022-05-14T15:01:40Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/s2F6nErYkcM/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "PHREzd42Mrg",
@@ -1403,7 +1531,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nX2fSb6gZGQ/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "sKbS-o7d1cA",
@@ -1419,7 +1547,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/sKbS-o7d1cA/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
+        "id": "g054ifYUBmc",
+        "title": "Angna Episode 34 - 27th April 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 34,
+        "date": "2022-04-27",
+        "published": "2022-04-27T18:06:38Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/g054ifYUBmc/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "XHEC_ozg3zY",
@@ -1435,7 +1579,55 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XHEC_ozg3zY/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
+        "id": "7yIcfmxCmm8",
+        "title": "Angna Episode 29 - 7th April 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 29,
+        "date": "2022-04-07",
+        "published": "2022-04-07T19:08:32Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/7yIcfmxCmm8/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
+        "id": "OFbUyzSYbd4",
+        "title": "Angna Episode 28 - 6th April 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 28,
+        "date": "2022-04-06",
+        "published": "2022-04-06T18:24:46Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/OFbUyzSYbd4/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
+        "id": "W746FGQvNWs",
+        "title": "Angna Episode 27 (English Subtitles) ARY Digital Drama",
+        "episode": 27,
+        "date": "2022-04-02",
+        "published": "2022-04-02T15:00:40Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/W746FGQvNWs/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "CNwyyJI7A7s",
@@ -1470,6 +1662,22 @@
         "checkedAt": "2026-11-03T02:56:50.234779+00:00"
       },
       {
+        "id": "76We-RyIlgI",
+        "title": "Angna Episode 24 - 30th March 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 24,
+        "date": "2022-03-30",
+        "published": "2022-03-30T15:01:11Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/76We-RyIlgI/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
         "id": "Si-MtsC_ZSw",
         "title": "Angna Episode 23 (English Subtitles) ARY Digital Drama",
         "episode": 23,
@@ -1499,7 +1707,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kBb6-kwZKVU/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
+        "id": "7n7qVk1EeHA",
+        "title": "Angna Episode 21 - 27th March 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 21,
+        "date": "2022-03-27",
+        "published": "2022-03-27T15:00:06Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/7n7qVk1EeHA/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
+        "id": "37JiguVqcBI",
+        "title": "Angna Episode 20 - 26th March 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 20,
+        "date": "2022-03-26",
+        "published": "2022-03-26T15:00:01Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/37JiguVqcBI/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "r0T6Bmv7M2Y",
@@ -1516,6 +1756,38 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/r0T6Bmv7M2Y/hqdefault.jpg",
         "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+      },
+      {
+        "id": "dAxNhYobr8c",
+        "title": "Angna Episode 14 - 20th March 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 14,
+        "date": "2022-03-20",
+        "published": "2022-03-20T15:00:03Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/dAxNhYobr8c/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
+        "id": "77HSL_fq-ZM",
+        "title": "Angna Episode 13 - 19th March 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 13,
+        "date": "2022-03-19",
+        "published": "2022-03-19T15:00:08Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/77HSL_fq-ZM/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "yuDxJ3NbWhU",
@@ -1547,7 +1819,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8vhfULKPusc/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "3u-oXR0UiiM",
@@ -1611,7 +1883,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rQ5_yc8p_hY/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "ITXXidXckcc",
@@ -1627,12 +1899,28 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ITXXidXckcc/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       }
     ]
   },
   "arydigital-aulaad": {
     "episodes": [
+      {
+        "id": "7cnfTErGmwQ",
+        "title": "Aulaad 2nd Last Episode 30 | Part 2 | Presented By Brite | 1st June 2021 | ARY Digital Drama",
+        "episode": 30,
+        "date": "2021-06-01",
+        "published": "2021-06-01T17:11:12Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/7cnfTErGmwQ/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
       {
         "id": "T8ttQtDT5dI",
         "title": "Aulaad 2nd Last Episode 30 | Part 1 | Presented By Brite | 1st June 2021 | ARY Digital Drama",
@@ -1647,7 +1935,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/T8ttQtDT5dI/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "zwl7HtXL4uo",
@@ -1663,7 +1951,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zwl7HtXL4uo/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "ll3hVjnHQDw",
@@ -1679,7 +1967,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ll3hVjnHQDw/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "DtG4rF7QWZE",
@@ -1695,7 +1983,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DtG4rF7QWZE/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "CN4TrzAjHrI",
@@ -1727,7 +2015,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lj_O6mf5tN4/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "Ltm5QYV7NkI",
@@ -1743,7 +2031,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Ltm5QYV7NkI/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "7Obu5-GqbDc",
@@ -1759,7 +2047,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7Obu5-GqbDc/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "oPqftXPe9jg",
@@ -1775,7 +2063,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/oPqftXPe9jg/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "XzrjYYOTW5U",
@@ -1791,7 +2079,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XzrjYYOTW5U/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "lmN9K9zQyTQ",
@@ -1807,7 +2095,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lmN9K9zQyTQ/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
+        "id": "npwYUHy17Qs",
+        "title": "Aulaad Episode 19 | Presented by Brite | 12th Apr 2021 | ARY Digital Drama",
+        "episode": 19,
+        "date": "2021-04-12",
+        "published": "2021-04-12T15:51:12Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/npwYUHy17Qs/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "QoWkmOT1ieg",
@@ -1871,7 +2175,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/s4CfZ0dyzDA/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "UUjnfwowAsc",
@@ -1887,7 +2191,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UUjnfwowAsc/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "kcEkZtkTycA",
@@ -1903,7 +2207,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kcEkZtkTycA/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "fidGxRTtu5o",
@@ -1919,7 +2223,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fidGxRTtu5o/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "SuZRTBKVDQo",
@@ -1935,7 +2239,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SuZRTBKVDQo/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "maYoMZ2p4m0",
@@ -1951,7 +2255,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/maYoMZ2p4m0/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "8UdCqwg_Cl8",
@@ -1967,7 +2271,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8UdCqwg_Cl8/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "W4vTGkH_eN8",
@@ -1983,7 +2287,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/W4vTGkH_eN8/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "cIsxePYGd3k",
@@ -1999,7 +2303,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cIsxePYGd3k/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "Eix1QivK6qs",
@@ -2015,7 +2319,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Eix1QivK6qs/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "n1Mmu3TfrvE",
@@ -2031,7 +2335,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/n1Mmu3TfrvE/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "vKF-ffjTnYw",
@@ -2047,12 +2351,28 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vKF-ffjTnYw/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       }
     ]
   },
   "arydigital-baby-baji": {
     "episodes": [
+      {
+        "id": "2Ue5TvRJjrM",
+        "title": "Baby Baji Episode 62 | 27th July 2023 (English Subtitles) | ARY Digital Drama",
+        "episode": 62,
+        "date": "2023-07-27",
+        "published": "2023-07-27T15:00:11Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/2Ue5TvRJjrM/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
       {
         "id": "h95zc_4ykI4",
         "title": "Baby Baji Episode 61 | 26th July 2023 (English Subtitles) ARY Digital Drama",
@@ -2067,7 +2387,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/h95zc_4ykI4/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
+        "id": "sEFwiIloMpI",
+        "title": "Baby Baji Episode 59 | 24th July 2023 (English Subtitles) | ARY Digital Drama",
+        "episode": 59,
+        "date": "2023-07-24",
+        "published": "2023-07-24T15:15:10Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/sEFwiIloMpI/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "2Cf8BcBZXoI",
@@ -2102,6 +2438,22 @@
         "checkedAt": "2026-11-03T02:56:50.234779+00:00"
       },
       {
+        "id": "ihuh07OK1tQ",
+        "title": "Baby Baji Episode 48 | 13th July 2023 (English Subtitles) ARY Digital Drama",
+        "episode": 48,
+        "date": "2023-07-13",
+        "published": "2023-07-13T15:15:06Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ihuh07OK1tQ/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
         "id": "I-ybNiLh53U",
         "title": "Baby Baji Episode 40 | 5th July 2023 (English Subtitles) ARY Digital Drama",
         "episode": 40,
@@ -2115,7 +2467,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/I-ybNiLh53U/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "qcJ0HxIYIto",
@@ -2131,7 +2483,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/qcJ0HxIYIto/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
+        "id": "MPUxzTqTeLI",
+        "title": "Baby Baji Episode 36 | 27th June 2023 (English Subtitles) | ARY Digital Drama",
+        "episode": 36,
+        "date": "2023-06-27",
+        "published": "2023-06-27T15:00:10Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/MPUxzTqTeLI/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
+        "id": "ZgqsPqOHDG4",
+        "title": "Baby Baji Episode 34 | 25th June 2023 (English Subtitles) | ARY Digital Drama",
+        "episode": 34,
+        "date": "2023-06-25",
+        "published": "2023-06-25T15:00:09Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ZgqsPqOHDG4/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "duaUSLSNQ-U",
@@ -2147,7 +2531,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/duaUSLSNQ-U/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
+        "id": "bV0vgpsHquI",
+        "title": "Baby Baji Episode 31 | 22nd June 2023 (English Subtitles) ARY Digital Drama",
+        "episode": 31,
+        "date": "2023-06-22",
+        "published": "2023-06-22T15:00:08Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/bV0vgpsHquI/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "R5_umhtCv3Y",
@@ -2179,7 +2579,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9aZeVxwLv50/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
+        "id": "0Ab4HwFHBwU",
+        "title": "Baby Baji Episode 28 | 19th June 2023 (English Subtitles) ARY Digital Drama",
+        "episode": 28,
+        "date": "2023-06-19",
+        "published": "2023-06-19T15:00:06Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/0Ab4HwFHBwU/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "G3Ug0iUNlKI",
@@ -2195,7 +2611,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/G3Ug0iUNlKI/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
+        "id": "AcOJwPygJZw",
+        "title": "Baby Baji Episode 26 | 17th June 2023 (English Subtitles) ARY Digital Drama",
+        "episode": 26,
+        "date": "2023-06-17",
+        "published": "2023-06-17T15:00:20Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/AcOJwPygJZw/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "XThh14Ir0BE",
@@ -2214,6 +2646,22 @@
         "checkedAt": "2026-11-03T02:56:50.234779+00:00"
       },
       {
+        "id": "fDf7DpcqQCE",
+        "title": "Baby Baji Episode 24 | 15th June 2023 (English Subtitles) | ARY Digital Drama",
+        "episode": 24,
+        "date": "2023-06-15",
+        "published": "2023-06-15T15:00:44Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/fDf7DpcqQCE/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
         "id": "XC7DEZNWRUE",
         "title": "Baby Baji Episode 22 | 13th June 2023 (English Subtitles) | ARY Digital Drama",
         "episode": 22,
@@ -2227,7 +2675,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XC7DEZNWRUE/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "EPFPvqX5qZk",
@@ -2259,7 +2707,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/BTvexXta7Tw/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
+        "id": "G2-WzSIr3ec",
+        "title": "Baby Baji Episode 19 | 10th June 2023 (English Subtitles) | ARY Digital Drama",
+        "episode": 19,
+        "date": "2023-06-10",
+        "published": "2023-06-10T15:00:27Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/G2-WzSIr3ec/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
+        "id": "e_DPk0v0Ris",
+        "title": "Baby Baji Episode 18 | 9th June 2023 (English Subtitles) | ARY Digital Drama",
+        "episode": 18,
+        "date": "2023-06-09",
+        "published": "2023-06-09T15:00:46Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/e_DPk0v0Ris/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "qmsNqlHwdbA",
@@ -2278,6 +2758,22 @@
         "checkedAt": "2026-11-03T02:56:50.234779+00:00"
       },
       {
+        "id": "Kp_LLT53_cs",
+        "title": "Baby Baji Episode 16 | 7th June 2023 (English Subtitles) ARY Digital Drama",
+        "episode": 16,
+        "date": "2023-06-07",
+        "published": "2023-06-07T15:01:16Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Kp_LLT53_cs/hqdefault.jpg",
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+      },
+      {
         "id": "PrzZA40k928",
         "title": "Baby Baji Episode 13 | 4th June 2023 (English Subtitles) ARY Digital Drama",
         "episode": 13,
@@ -2291,7 +2787,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PrzZA40k928/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "MfY9QcTrstE",
@@ -2307,7 +2803,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/MfY9QcTrstE/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "3d12fXYa6sE",
@@ -2323,7 +2819,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3d12fXYa6sE/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "aXOgP8Ueg3U",
@@ -2371,7 +2867,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9AegH_e6uB4/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "gQ6ZBX4ul0E",
@@ -2387,7 +2883,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/gQ6ZBX4ul0E/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "tOr1CFoqI0g",
@@ -2403,7 +2899,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/tOr1CFoqI0g/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "11ofIvVTEKM",
@@ -2419,7 +2915,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/11ofIvVTEKM/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "kuDgI-z4wGQ",
@@ -2435,7 +2931,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kuDgI-z4wGQ/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "gqmNJa-_RJ4",
@@ -2451,7 +2947,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/gqmNJa-_RJ4/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "r1znB29I7P0",
@@ -2467,7 +2963,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/r1znB29I7P0/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "GU_dlkOQnHI",
@@ -2483,7 +2979,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GU_dlkOQnHI/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "a4CD0Bz-g_I",
@@ -2499,7 +2995,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/a4CD0Bz-g_I/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "ZSiGLmXyQUE",
@@ -2515,7 +3011,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ZSiGLmXyQUE/hqdefault.jpg",
-        "checkedAt": "2026-11-03T02:56:50.234779+00:00"
+        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       }
     ]
   },
@@ -14958,38 +15454,6 @@
         "checkedAt": "2026-11-06T01:36:32.802891+00:00"
       },
       {
-        "id": "4L6w_tuDxIU",
-        "title": "Mann Mast Malang Ep 37 [Eng Sub] Presented by Diamond Paints & Ujooba Beauty Cream - 17th May 2025",
-        "episode": 37,
-        "date": "2025-05-17",
-        "published": "2025-05-17T16:00:11Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/4L6w_tuDxIU/hqdefault.jpg",
-        "checkedAt": "2026-10-29T18:32:00.459197+00:00"
-      },
-      {
-        "id": "MAihwfjeGl8",
-        "title": "Mann Mast Malang Ep 34 [Eng Sub] Presented by Diamond Paints & Ujooba Beauty Cream - 10th May 2025",
-        "episode": 34,
-        "date": "2025-05-10",
-        "published": "2025-05-10T16:00:26Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/MAihwfjeGl8/hqdefault.jpg",
-        "checkedAt": "2026-10-29T18:32:00.459197+00:00"
-      },
-      {
         "id": "4jAVsLxjulY",
         "title": "Mann Mast Malang Ep 32 [Eng Sub] Presented by Diamond Paints - 4th May 2025 - Har Pal Geo",
         "episode": 32,
@@ -15036,38 +15500,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pWG8Dx0hMe8/hqdefault.jpg",
         "checkedAt": "2026-11-06T01:36:32.802891+00:00"
-      },
-      {
-        "id": "zNBingJMXPk",
-        "title": "Mann Mast Malang Ep27 [Eng Sub] Presented by Diamond Paints - Ujooba Beauty Cream & Nestle Lactogrow",
-        "episode": 27,
-        "date": "2025-04-25",
-        "published": "2025-04-25T16:01:46Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/zNBingJMXPk/hqdefault.jpg",
-        "checkedAt": "2026-10-29T18:32:00.459197+00:00"
-      },
-      {
-        "id": "C6EX0ZZjqzA",
-        "title": "Mann Mast Malang Ep26 [Eng Sub] Presented by Diamond Paints - Ujooba Beauty Cream & Nestle Lactogrow",
-        "episode": 26,
-        "date": "2025-04-19",
-        "published": "2025-04-19T16:00:07Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/C6EX0ZZjqzA/hqdefault.jpg",
-        "checkedAt": "2026-10-29T18:32:00.459197+00:00"
       },
       {
         "id": "Rx2jBse1to0",
@@ -15148,22 +15580,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Zd9Zs_u8xPM/hqdefault.jpg",
         "checkedAt": "2026-11-06T01:36:32.802891+00:00"
-      },
-      {
-        "id": "DckbOD8V418",
-        "title": "Mann Mast Malang Episode 15 - [Eng Sub] - Digitally Presented by Diamond Paints - 23rd March 2025",
-        "episode": 15,
-        "date": "2025-03-23",
-        "published": "2025-03-23T16:00:18Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/DckbOD8V418/hqdefault.jpg",
-        "checkedAt": "2026-10-29T18:32:00.459197+00:00"
       },
       {
         "id": "lHErur3sZic",
@@ -15490,22 +15906,6 @@
         "checkedAt": "2026-11-06T01:36:32.802891+00:00"
       },
       {
-        "id": "HK9_spnTr_M",
-        "title": "Mannat Murad Episode 26 - [Eng Sub] - Digitally Presented by PEL - 25th December 2023 - Iqra Aziz",
-        "episode": 26,
-        "date": "2023-12-25",
-        "published": "2023-12-25T16:00:09Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/HK9_spnTr_M/hqdefault.jpg",
-        "checkedAt": "2026-10-29T18:32:00.459197+00:00"
-      },
-      {
         "id": "j7BtQyeEsPE",
         "title": "Mannat Murad Episode 25 - [Eng Sub] - Digitally Presented by Jhalak Beauty Cream - 19th Dec 2023",
         "episode": 25,
@@ -15696,22 +16096,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/F0FgNyqjit8/hqdefault.jpg",
         "checkedAt": "2026-11-06T01:36:32.802891+00:00"
-      },
-      {
-        "id": "ZGIIZgqVF5c",
-        "title": "Mannat Murad Episode 12 - [Eng Sub] - Digitally Presented by PEL - 6th November 2023 - Iqra Aziz",
-        "episode": 12,
-        "date": "2023-11-06",
-        "published": "2023-11-06T16:00:22Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ZGIIZgqVF5c/hqdefault.jpg",
-        "checkedAt": "2026-10-29T18:32:00.459197+00:00"
       },
       {
         "id": "r8dHwGbg1Cg",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T11:28:10.509237+00:00",
+  "generatedAt": "2026-11-12T20:04:08.279471+00:00",
   "sources": [
     {
       "id": "homebased",
@@ -24,6 +24,16 @@
     }
   ],
   "videos": [
+    {
+      "id": "cXc9LCvTIAo",
+      "title": "Why Knowing 200 Quran Words Is Not Enough | Nouman Ali Khan",
+      "channelId": "bayyinah",
+      "channel": "Nouman Ali Khan - Official - Bayyinah",
+      "language": "English / Urdu",
+      "topic": "general",
+      "date": "2026-11-12",
+      "source": "publisher YouTube Data API"
+    },
     {
       "id": "lk6Dyt1UcKk",
       "title": "Al-Asma Al-Husna Ungliyaon par | Surah Hashr ki 3 Ayaat | 20 Beautiful Names of Allah | Roman Urdu",
@@ -1095,6 +1105,6 @@
       "source": "verified official teaching upload"
     }
   ],
-  "count": 107,
+  "count": 108,
   "errors": []
 }
