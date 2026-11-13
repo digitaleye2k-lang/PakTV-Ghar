@@ -1,6 +1,6 @@
 {
-  "quotaDay": "2026-11-12",
-  "dailySearches": 24,
+  "quotaDay": "2026-11-13",
+  "dailySearches": 8,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -4515,7 +4515,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wOQUy1mxrdc/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "IeLRnbE6qGQ",
@@ -4531,7 +4531,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/IeLRnbE6qGQ/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
+      },
+      {
+        "id": "Z24fY8z79Ak",
+        "title": "Burns Road Kay Romeo Juliet | EP 31 (Eng Sub) Iqra Aziz | Hamza Sohail | 10 June 2024 | ARY Digital",
+        "episode": 31,
+        "date": "2024-06-10",
+        "published": "2024-06-10T16:27:52Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Z24fY8z79Ak/hqdefault.jpg",
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "KytFX1epk-U",
@@ -4547,7 +4563,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/KytFX1epk-U/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "_Q3nf2ySFrU",
@@ -4563,7 +4579,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_Q3nf2ySFrU/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
+      },
+      {
+        "id": "phPLULai1tA",
+        "title": "Burns Road Kay Romeo Juliet | EP 28 (Eng Sub) | Iqra Aziz | Hamza Sohail | 28 May 2024 | ARY Digital",
+        "episode": 28,
+        "date": "2024-05-28",
+        "published": "2024-05-28T16:00:44Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/phPLULai1tA/hqdefault.jpg",
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "9ZVt4ASxYIA",
@@ -4579,7 +4611,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9ZVt4ASxYIA/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "EGZzVbYwUjA",
@@ -4595,7 +4627,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/EGZzVbYwUjA/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "DKUs9uFdM9o",
@@ -4611,7 +4643,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DKUs9uFdM9o/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
+      },
+      {
+        "id": "5pvgvtyntLY",
+        "title": "Burns Road Kay Romeo Juliet | EP 23 (Eng Sub) | Iqra Aziz | Hamza Sohail | 13 May 2024 | ARY Digital",
+        "episode": 23,
+        "date": "2024-05-13",
+        "published": "2024-05-13T15:58:10Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/5pvgvtyntLY/hqdefault.jpg",
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "On3piyhZJWo",
@@ -4627,7 +4675,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/On3piyhZJWo/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "smG7P1NxyS0",
@@ -4659,7 +4707,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7UtzZSBeBdA/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "gty3khrXtfo",
@@ -4707,7 +4755,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/LB1jhGHgN_M/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "ZtagdGaGbTI",
@@ -4755,7 +4803,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iHlHXqcaot0/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "EwVirm0i_PI",
@@ -4787,7 +4835,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SVpDueMLzLM/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "nQJKQKQUt6g",
@@ -4803,7 +4851,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nQJKQKQUt6g/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
+      },
+      {
+        "id": "Ir5DovObJ8k",
+        "title": "Burns Road Kay Romeo Juliet | EP 8 (Eng Sub) | Iqra Aziz | Hamza Sohail | 4 March 2024  ARY Digital",
+        "episode": 8,
+        "date": "2024-03-04",
+        "published": "2024-03-04T16:04:32Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Ir5DovObJ8k/hqdefault.jpg",
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "hI8lgKxpVNQ",
@@ -4819,7 +4883,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/hI8lgKxpVNQ/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "Ir6DQZDBuw0",
@@ -4835,7 +4899,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Ir6DQZDBuw0/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "VHgdcoRpjxY",
@@ -4851,7 +4915,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/VHgdcoRpjxY/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "LlYAlAH3g3E",
@@ -4867,7 +4931,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/LlYAlAH3g3E/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "u4vlnY_Z4Ng",
@@ -4883,7 +4947,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/u4vlnY_Z4Ng/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "rkzo00t3-Ls",
@@ -4899,7 +4963,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rkzo00t3-Ls/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "XnLuBZuvoRQ",
@@ -4915,10 +4979,42 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XnLuBZuvoRQ/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       }
     ],
     "arydigital-cheekh": [
+      {
+        "id": "X3BWyyHFaVo",
+        "title": "Cheekh Episode 28 | 27th July 2019 (English Subtitle) | ARY Digital Drama",
+        "episode": 28,
+        "date": "2019-07-27",
+        "published": "2019-07-27T16:01:13Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/X3BWyyHFaVo/hqdefault.jpg",
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
+      },
+      {
+        "id": "pHCAqniAe1A",
+        "title": "Cheekh Episode 27 | Saba Qamar | Bilal Abbas | ARY Digital",
+        "episode": 27,
+        "date": "2019-07-20",
+        "published": "2019-07-20T15:59:05Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/pHCAqniAe1A/hqdefault.jpg",
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
+      },
       {
         "id": "UHFE9l2ShrQ",
         "title": "Cheekh Episode 26 | Saba Qamar | Bilal Abbas | ARY Digital",
@@ -4933,7 +5029,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UHFE9l2ShrQ/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "qUYSZh9QiYM",
@@ -4949,7 +5045,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/qUYSZh9QiYM/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "7AKHDCCeGyQ",
@@ -4965,7 +5061,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7AKHDCCeGyQ/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "XRLdpIh4nIU",
@@ -4981,7 +5077,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XRLdpIh4nIU/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "vq4Hy2-vpTk",
@@ -4997,7 +5093,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vq4Hy2-vpTk/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
+      },
+      {
+        "id": "2dEScKx1qUk",
+        "title": "Cheekh Episode 21 | 25th May 2019 | ARY Digital [Subtitle Eng]",
+        "episode": 21,
+        "date": "2019-05-25",
+        "published": "2019-05-25T18:21:18Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/2dEScKx1qUk/hqdefault.jpg",
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "t8B3Fgttb8g",
@@ -5013,7 +5125,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/t8B3Fgttb8g/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "_FfIcdN0xnI",
@@ -5029,7 +5141,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_FfIcdN0xnI/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "mC6E_5Hy-OM",
@@ -5045,7 +5157,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mC6E_5Hy-OM/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "DLjpVHVSGQ0",
@@ -5077,7 +5189,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/BnJ7Pql1F3g/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "jjumoqC7IiM",
@@ -5096,6 +5208,22 @@
         "checkedAt": "2026-11-03T19:34:36.236906+00:00"
       },
       {
+        "id": "KVJxgO5KZQo",
+        "title": "Cheekh Episode 14 | 6th April 2019 | ARY Digital [Subtitle Eng]",
+        "episode": 14,
+        "date": "2019-04-06",
+        "published": "2019-04-06T15:50:10Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/KVJxgO5KZQo/hqdefault.jpg",
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
+      },
+      {
         "id": "H834e1Esyns",
         "title": "Cheekh Episode 13 | Saba Qamar | Bilal Abbas | ARY Digital Drama",
         "episode": 13,
@@ -5109,7 +5237,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/H834e1Esyns/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "ShhunaBUN7o",
@@ -5125,7 +5253,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ShhunaBUN7o/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "Zn04on4Wmew",
@@ -5141,7 +5269,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Zn04on4Wmew/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "316XLxZumb0",
@@ -5157,7 +5285,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/316XLxZumb0/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "fu0p4Aj0wpE",
@@ -5173,7 +5301,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fu0p4Aj0wpE/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "n-4M9lxXnHI",
@@ -5189,7 +5317,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/n-4M9lxXnHI/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "04cRqs0iom0",
@@ -5221,7 +5349,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cKbwsm-kFV0/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "54unvUp4Fp8",
@@ -5237,7 +5365,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/54unvUp4Fp8/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "lLx-9xLqmTk",
@@ -5253,7 +5381,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lLx-9xLqmTk/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "YmzGksbiPL8",
@@ -5269,7 +5397,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/YmzGksbiPL8/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "8x76tRGYMaY",
@@ -5285,7 +5413,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8x76tRGYMaY/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "wleg4Az3p80",
@@ -5301,7 +5429,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wleg4Az3p80/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       }
     ],
     "arydigital-do-bol": [
@@ -5319,7 +5447,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/odqVRUxKkr8/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "F5YynfX9PjU",
@@ -5335,7 +5463,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/F5YynfX9PjU/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
+      },
+      {
+        "id": "xqyJuzcvgg4",
+        "title": "Do Bol Episode 26 | Affan Waheed | Hira Salman | English Subtitle | ARY Digital",
+        "episode": 26,
+        "date": "2019-04-30",
+        "published": "2019-04-30T18:00:09Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/xqyJuzcvgg4/hqdefault.jpg",
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "QSOf8Wr_KIE",
@@ -5351,7 +5495,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QSOf8Wr_KIE/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "ZoFlrSjAAIU",
@@ -5367,7 +5511,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ZoFlrSjAAIU/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "UMYmHLHb3kA",
@@ -5383,7 +5527,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UMYmHLHb3kA/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "sPBSFpqpI08",
@@ -5399,7 +5543,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/sPBSFpqpI08/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "qG2NYdW_He8",
@@ -5415,7 +5559,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/qG2NYdW_He8/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
+      },
+      {
+        "id": "j3DYokYJEOQ",
+        "title": "Do Bol Episode 19 | Affan Waheed | Hira Salman | English Subtitle | ARY Digital",
+        "episode": 19,
+        "date": "2019-04-23",
+        "published": "2019-04-23T17:00:04Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/j3DYokYJEOQ/hqdefault.jpg",
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "Vlk07V8Zf6I",
@@ -5447,7 +5607,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3JOrPxwujD0/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "5LKp39SGcao",
@@ -5479,7 +5639,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Ug3-9mYles0/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "PN_OcjyMcv4",
@@ -5495,7 +5655,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PN_OcjyMcv4/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "yndv65aKsTw",
@@ -5527,7 +5687,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lw15bd4FZqQ/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "UB5jefcb0aI",
@@ -5543,7 +5703,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UB5jefcb0aI/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "8362DhGSURw",
@@ -5559,7 +5719,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8362DhGSURw/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "sfP1XDQgg0w",
@@ -5575,7 +5735,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/sfP1XDQgg0w/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "kKSIap5t7hs",
@@ -5591,7 +5751,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kKSIap5t7hs/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "2EPUIr827Q8",
@@ -5607,7 +5767,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2EPUIr827Q8/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "0t9y0PGO4mg",
@@ -5623,7 +5783,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0t9y0PGO4mg/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
+      },
+      {
+        "id": "GKV7Vg3Uvdg",
+        "title": "Do Bol Episode 4 | Affan Waheed | Hira Salman | English Subtitle | ARY Digital",
+        "episode": 4,
+        "date": "2019-03-12",
+        "published": "2019-03-12T18:00:00Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/GKV7Vg3Uvdg/hqdefault.jpg",
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "XUiGwAsyrL0",
@@ -5639,7 +5815,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XUiGwAsyrL0/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "aK3Rw6f8T2s",
@@ -5655,7 +5831,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/aK3Rw6f8T2s/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
         "id": "u2fX8j_hb4Q",
@@ -5671,7 +5847,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/u2fX8j_hb4Q/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
+        "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       }
     ],
     "arydigital-dunk": [
@@ -17042,22 +17218,6 @@
         "checkedAt": "2026-11-06T19:29:40.487101+00:00"
       },
       {
-        "id": "ycMgOj5KqjU",
-        "title": "Sirf Tum 2nd Last Mega Episode 47 (Part 02) - [Eng Sub] - Anmol Baloch - Hamza Sohail - Mohsin Abbas",
-        "episode": 47,
-        "date": "2023-08-27",
-        "published": "2023-08-27T17:00:39Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ycMgOj5KqjU/hqdefault.jpg",
-        "checkedAt": "2026-10-30T10:10:56.352896+00:00"
-      },
-      {
         "id": "RH8AzSvZFj8",
         "title": "Sirf Tum Episode 43 - [Eng Sub] - Anmol Baloch - Hamza Sohail - Mohsin Abbas Haider - 24th Aug 2023",
         "episode": 43,
@@ -17266,22 +17426,6 @@
         "checkedAt": "2026-11-06T19:29:40.487101+00:00"
       },
       {
-        "id": "GqkVwZnZmmA",
-        "title": "Sirf Tum Mega Episode 19 - [Eng Sub] - Anmol Baloch - Hamza Sohail - Mohsin Abbas - 4th Aug 2023",
-        "episode": 19,
-        "date": "2023-08-04",
-        "published": "2023-08-04T17:00:19Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/GqkVwZnZmmA/hqdefault.jpg",
-        "checkedAt": "2026-10-30T10:10:56.352896+00:00"
-      },
-      {
         "id": "bDn1HxqUhaI",
         "title": "Sirf Tum Mega Episode 18 - [Eng Sub] - Anmol Baloch - Hamza Sohail - Mohsin Abbas - 4th Aug 2023",
         "episode": 18,
@@ -17360,22 +17504,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xCvC972EeA8/hqdefault.jpg",
         "checkedAt": "2026-11-06T19:29:40.487101+00:00"
-      },
-      {
-        "id": "mSG-MB_XEsM",
-        "title": "Sirf Tum Mega Episode 13 - [Eng Sub] - Anmol Baloch - Hamza Sohail - Mohsin Abbas - 30th July 2023",
-        "episode": 13,
-        "date": "2023-07-30",
-        "published": "2023-07-30T17:00:22Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/mSG-MB_XEsM/hqdefault.jpg",
-        "checkedAt": "2026-10-30T10:10:56.352896+00:00"
       },
       {
         "id": "24VyyFSkjMs",
@@ -17572,22 +17700,6 @@
     ],
     "harpalgeo-siyani": [
       {
-        "id": "k1TUjTA4Ve8",
-        "title": "Siyani Episode 140 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider -Saniya Shamshad - 29th Dec 2022",
-        "episode": 140,
-        "date": "2022-12-29",
-        "published": "2022-12-29T17:00:32Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/k1TUjTA4Ve8/hqdefault.jpg",
-        "checkedAt": "2026-10-30T10:10:56.352896+00:00"
-      },
-      {
         "id": "feOAbqZsMsc",
         "title": "Siyani Mega Ep 128 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider -Saniya Shamshad - 18th Dec 2022",
         "episode": 128,
@@ -17602,38 +17714,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/feOAbqZsMsc/hqdefault.jpg",
         "checkedAt": "2026-11-07T00:58:14.251696+00:00"
-      },
-      {
-        "id": "TRs_B8GU5a0",
-        "title": "Siyani Episode 113 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider -Saniya Shamshad - 5th Dec 2022",
-        "episode": 113,
-        "date": "2022-12-05",
-        "published": "2022-12-05T17:00:28Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/TRs_B8GU5a0/hqdefault.jpg",
-        "checkedAt": "2026-10-30T10:10:56.352896+00:00"
-      },
-      {
-        "id": "tiHYfPWoVTs",
-        "title": "Siyani Episode 108 - [Eng Sub]- Anmol Baloch - Mohsin Abbas Haider - Saniya Shamshad - 1st Dec 2022",
-        "episode": 108,
-        "date": "2022-12-01",
-        "published": "2022-12-01T17:00:36Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/tiHYfPWoVTs/hqdefault.jpg",
-        "checkedAt": "2026-10-30T10:10:56.352896+00:00"
       },
       {
         "id": "OEZ1R4_UyLc",
@@ -17716,70 +17796,6 @@
         "checkedAt": "2026-11-07T00:58:14.251696+00:00"
       },
       {
-        "id": "SdIbYDgrAWY",
-        "title": "Siyani Episode 70 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider - Saniya Shamshad - 29th Oct 2022",
-        "episode": 70,
-        "date": "2022-10-29",
-        "published": "2022-10-29T17:00:07Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/SdIbYDgrAWY/hqdefault.jpg",
-        "checkedAt": "2026-10-30T10:10:56.352896+00:00"
-      },
-      {
-        "id": "ml06Y_jHgJA",
-        "title": "Siyani Episode 68 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider - Saniya Shamshad - 27th Oct 2022",
-        "episode": 68,
-        "date": "2022-10-27",
-        "published": "2022-10-27T17:00:28Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ml06Y_jHgJA/hqdefault.jpg",
-        "checkedAt": "2026-10-30T10:10:56.352896+00:00"
-      },
-      {
-        "id": "nJBRdFOU6EI",
-        "title": "Siyani Mega Ep 66 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider - Saniya Shamshad - 25th Oct 2022",
-        "episode": 66,
-        "date": "2022-10-25",
-        "published": "2022-10-25T17:00:08Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/nJBRdFOU6EI/hqdefault.jpg",
-        "checkedAt": "2026-10-30T10:10:56.352896+00:00"
-      },
-      {
-        "id": "OW_YQ6JSLvg",
-        "title": "Siyani Mega Ep 65 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider - Saniya Shamshad - 25th Oct 2022",
-        "episode": 65,
-        "date": "2022-10-25",
-        "published": "2022-10-25T16:01:13Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/OW_YQ6JSLvg/hqdefault.jpg",
-        "checkedAt": "2026-10-30T10:10:56.352896+00:00"
-      },
-      {
         "id": "Xp72A54FHOw",
         "title": "Siyani Episode 60 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider - Saniya Shamshad - 22nd Oct 2022",
         "episode": 60,
@@ -17796,22 +17812,6 @@
         "checkedAt": "2026-11-07T00:58:14.251696+00:00"
       },
       {
-        "id": "Z8CwjYQawUc",
-        "title": "Siyani Mega Ep 51 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider - Saniya Shamshad - 16th Oct 2022",
-        "episode": 51,
-        "date": "2022-10-16",
-        "published": "2022-10-16T16:01:06Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Z8CwjYQawUc/hqdefault.jpg",
-        "checkedAt": "2026-10-30T10:10:56.352896+00:00"
-      },
-      {
         "id": "4n4rSX4SFdI",
         "title": "Siyani Mega Ep 41 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider - Saniya Shamshad - 9th Oct 2022",
         "episode": 41,
@@ -17826,22 +17826,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4n4rSX4SFdI/hqdefault.jpg",
         "checkedAt": "2026-11-07T00:58:14.251696+00:00"
-      },
-      {
-        "id": "QlSrGz8Oog8",
-        "title": "Siyani Mega Ep 40 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider - Saniya Shamshad - 8th Oct 2022",
-        "episode": 40,
-        "date": "2022-10-08",
-        "published": "2022-10-08T17:00:15Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/QlSrGz8Oog8/hqdefault.jpg",
-        "checkedAt": "2026-10-30T10:10:56.352896+00:00"
       },
       {
         "id": "xrlIhC7xkco",
@@ -17892,22 +17876,6 @@
         "checkedAt": "2026-11-07T00:58:14.251696+00:00"
       },
       {
-        "id": "p65-RbmYmJY",
-        "title": "Siyani Episode 32 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider - Saniya Shamshad - 3rd Oct 2022",
-        "episode": 32,
-        "date": "2022-10-03",
-        "published": "2022-10-03T17:00:25Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/p65-RbmYmJY/hqdefault.jpg",
-        "checkedAt": "2026-10-30T10:10:56.352896+00:00"
-      },
-      {
         "id": "1NeZxrrlDiA",
         "title": "Siyani Episode 28 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider - Saniya Shamshad - 30th Sep 2022",
         "episode": 28,
@@ -17938,22 +17906,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4jRKe7MrlIs/hqdefault.jpg",
         "checkedAt": "2026-11-07T00:58:14.251696+00:00"
-      },
-      {
-        "id": "1gFOFlWOy-E",
-        "title": "Siyani Ep 20 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider - Saniya Shamshad - 23rd Sep 2022",
-        "episode": 20,
-        "date": "2022-09-23",
-        "published": "2022-09-23T17:00:01Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/1gFOFlWOy-E/hqdefault.jpg",
-        "checkedAt": "2026-10-30T10:10:56.352896+00:00"
       },
       {
         "id": "Hu4gCxEWw2M",
@@ -18068,54 +18020,6 @@
         "checkedAt": "2026-11-07T00:58:14.251696+00:00"
       },
       {
-        "id": "kslASIjocZM",
-        "title": "Siyani Mega Ep 08 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider - Saniya Shamshad - 11th Sep 2022",
-        "episode": 8,
-        "date": "2022-09-11",
-        "published": "2022-09-11T17:00:24Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/kslASIjocZM/hqdefault.jpg",
-        "checkedAt": "2026-10-30T10:10:56.352896+00:00"
-      },
-      {
-        "id": "WaC2M_nFeAg",
-        "title": "Siyani Mega Ep 07 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider - Saniya Shamshad - 11th Sep 2022",
-        "episode": 7,
-        "date": "2022-09-11",
-        "published": "2022-09-11T16:00:30Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/WaC2M_nFeAg/hqdefault.jpg",
-        "checkedAt": "2026-10-30T10:10:56.352896+00:00"
-      },
-      {
-        "id": "Wnebc1tWhQw",
-        "title": "Siyani Episode 06 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider - Saniya Shamshad - 10th Sep 2022",
-        "episode": 6,
-        "date": "2022-09-10",
-        "published": "2022-09-10T17:00:17Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Wnebc1tWhQw/hqdefault.jpg",
-        "checkedAt": "2026-10-30T10:10:56.352896+00:00"
-      },
-      {
         "id": "q0sHqV1USeU",
         "title": "Siyani Episode 05 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider - Saniya Shamshad - 9th Sep 2022",
         "episode": 5,
@@ -18162,22 +18066,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/oO5OfNv0iNo/hqdefault.jpg",
         "checkedAt": "2026-11-07T00:58:14.251696+00:00"
-      },
-      {
-        "id": "gHqDVQZXzgs",
-        "title": "Siyani Episode 02 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider - Saniya Shamshad - 6th Sep 2022",
-        "episode": 2,
-        "date": "2022-09-06",
-        "published": "2022-09-06T17:00:32Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/gHqDVQZXzgs/hqdefault.jpg",
-        "checkedAt": "2026-10-30T10:10:56.352896+00:00"
       },
       {
         "id": "u5dZjOydoF0",
@@ -29073,6 +28961,6 @@
       }
     ]
   },
-  "cursor": 47,
+  "cursor": 51,
   "apiValidated": true
 }

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-13T01:55:01.956447+00:00",
+  "generatedAt": "2026-11-13T11:11:22.470574+00:00",
   "source": "verified_publisher_uploads_and_official_starters",
-  "count": 716,
+  "count": 717,
   "publishers": {
     "emipakistan": 255,
     "natashabaig": 91,
@@ -11,7 +11,7 @@
     "hasanraheem": 66,
     "bayaan": 30,
     "youngstunners": 39,
-    "jaubi": 1,
+    "jaubi": 2,
     "sajjadali": 1
   },
   "videos": [
@@ -8581,6 +8581,18 @@
       "published": "2016-08-19T00:00:00Z",
       "date": "2016-08-19",
       "embeddable": true
+    },
+    {
+      "id": "ojpHAF8-IIU",
+      "title": "Raga Shivranjani",
+      "channel": "Jaubi",
+      "channelId": "jaubi",
+      "category": "music",
+      "genre": "Jazz & Fusion",
+      "published": "2016-05-27T07:24:28Z",
+      "date": "2016-05-27",
+      "embeddable": true,
+      "durationSeconds": 368
     },
     {
       "id": "a18py61_F_w",

@@ -2,7 +2,7 @@
   "date": "2026-11-13",
   "weekday": "Friday",
   "timezone": "Asia/Karachi",
-  "generatedAt": "2026-11-13T06:55:01.976868+05:00",
+  "generatedAt": "2026-11-13T16:11:22.515572+05:00",
   "items": [
     {
       "name": "Nashtar",
@@ -231,8 +231,8 @@
       "time": "19:00",
       "episode": null,
       "repeat": null,
-      "sourceUrl": "https://hum.tv/",
-      "sourceLabel": "Official broadcaster"
+      "sourceUrl": "https://dramas.pk/?pdhs_date=2026-11-13",
+      "sourceLabel": "Dramas.pk TV guide (backup, not broadcaster)"
     },
     {
       "name": "Uswah",
@@ -245,8 +245,8 @@
       "sourceLabel": "Official broadcaster"
     },
     {
-      "name": "HEY FAM",
-      "showId": "arydigital-hey-fam",
+      "name": "Dar-e-Nijaat",
+      "showId": "arydigital-dar-e-nijaat",
       "channel": "ARY Digital",
       "time": "20:00",
       "episode": null,
@@ -261,8 +261,8 @@
       "time": "20:00",
       "episode": null,
       "repeat": null,
-      "sourceUrl": "https://hum.tv/",
-      "sourceLabel": "Official broadcaster"
+      "sourceUrl": "https://dramas.pk/?pdhs_date=2026-11-13",
+      "sourceLabel": "Dramas.pk TV guide (backup, not broadcaster)"
     },
     {
       "name": "Nashtar",
@@ -291,8 +291,8 @@
       "time": "21:00",
       "episode": null,
       "repeat": null,
-      "sourceUrl": "https://hum.tv/",
-      "sourceLabel": "Official broadcaster"
+      "sourceUrl": "https://dramas.pk/?pdhs_date=2026-11-13",
+      "sourceLabel": "Dramas.pk TV guide (backup, not broadcaster)"
     },
     {
       "name": "Bano",
@@ -308,6 +308,16 @@
       "name": "Tamasha season 5",
       "showId": "arydigital-tamasha-season-5",
       "channel": "ARY Digital",
+      "time": "22:00",
+      "episode": null,
+      "repeat": null,
+      "sourceUrl": "https://dramas.pk/?pdhs_date=2026-11-13",
+      "sourceLabel": "Dramas.pk TV guide (backup, not broadcaster)"
+    },
+    {
+      "name": "Khushi",
+      "showId": "hum-khushi",
+      "channel": "HUM TV",
       "time": "22:00",
       "episode": null,
       "repeat": null,
@@ -336,11 +346,12 @@
     }
   ],
   "sources": {
-    "hum": "official",
+    "hum": "independent guide fallback",
     "arydigital": "independent guide fallback",
     "harpalgeo": "official"
   },
   "errors": [
+    "HUM TV: TimeoutError",
     "ARY Digital: No scheduled entries in retrieved page"
   ],
   "note": "Schedule entries are TV slots, not proof episodes were uploaded. Times and reruns can change."
