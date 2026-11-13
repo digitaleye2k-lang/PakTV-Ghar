@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T16:11:41.995207+05:00",
+  "generatedAt": "2026-11-14T00:50:11.378615+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,13 +17,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 13,
-        "time": "04:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-13"
       }
     },
     "harpalgeo-nashtar": {
@@ -44,11 +37,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 30,
+        "number": 31,
         "time": "20:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-13"
+        "date": "2026-11-14"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -97,13 +90,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 30,
-        "time": "01:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-13"
       }
     },
     "hum-aangan": {
@@ -135,11 +121,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 30,
+        "number": 31,
         "time": "21:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-13"
+        "date": "2026-11-14"
       }
     },
     "hum-bombay-tailors": {
@@ -1668,9 +1654,9 @@
     "harpalgeo-tere-aany-se": {
       "lastAttempt": "2026-11-12T16:28:07.035215+05:00",
       "latestUpload": {
-        "number": 37,
-        "id": "tv32nY1IIEw",
-        "title": "Tere Aany Se Mega 2nd Last Episode 37 - [Eng Sub] - Ft. Komal Meer - Muneeb Butt - 24th April 2023",
+        "number": 36,
+        "id": "AlA-kySfKZw",
+        "title": "Tere Aany Se Mega 2nd Last Episode 36 - [Eng Sub] - Ft. Komal Meer - Muneeb Butt - 24th April 2023",
         "date": "2023-04-24",
         "source": "Official YouTube upload",
         "availableGB": true,
