@@ -1,20 +1,32 @@
 {
-  "generatedAt": "2026-11-12T20:03:45.505041+00:00",
+  "generatedAt": "2026-11-13T01:55:01.956447+00:00",
   "source": "verified_publisher_uploads_and_official_starters",
-  "count": 720,
+  "count": 716,
   "publishers": {
-    "natashabaig": 97,
+    "emipakistan": 255,
+    "natashabaig": 91,
     "cokestudio": 127,
-    "emipakistan": 254,
     "talhaanjum": 68,
     "abdulhannan": 38,
     "hasanraheem": 66,
     "bayaan": 30,
-    "youngstunners": 38,
+    "youngstunners": 39,
     "jaubi": 1,
     "sajjadali": 1
   },
   "videos": [
+    {
+      "id": "Oyq1Ez1EBwc",
+      "title": "Jab Tum Se Hum Mil - Mehdi Hassan & Nahid Akhtar | Golden Era Romantic Song | EMI Pakistan",
+      "channel": "EMI Pakistan",
+      "channelId": "emipakistan",
+      "category": "music",
+      "genre": "Golden Classics",
+      "published": "2026-11-12T15:00:07Z",
+      "date": "2026-11-12",
+      "embeddable": true,
+      "durationSeconds": 315
+    },
     {
       "id": "qMg_nUQSBjk",
       "title": "Shikwa Jawab e Shikwa | Natasha Baig ft Surtaal Academy Kids Band (Iqbal Day Special)",
@@ -8548,76 +8560,16 @@
       "durationSeconds": 255
     },
     {
-      "id": "_lyz5gdtOa4",
-      "title": "Ya Moula | Natasha Baig ft. YBQ - Burushaski Song 2017",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
+      "id": "n8R-W9Lsrzk",
+      "title": "NOHookUps - Young Stunners - Official Audio",
+      "channel": "Young Stunners",
+      "channelId": "youngstunners",
       "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-07-11T09:22:06Z",
-      "date": "2017-07-11",
+      "genre": "Hip-Hop & Rap",
+      "published": "2017-07-22T21:06:59Z",
+      "date": "2017-07-22",
       "embeddable": true,
-      "durationSeconds": 265
-    },
-    {
-      "id": "HKPO2aghrhU",
-      "title": "Meri Maa | Natasha Baig (Mother's Day Special Song)",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-05-07T12:10:26Z",
-      "date": "2017-05-07",
-      "embeddable": true,
-      "durationSeconds": 218
-    },
-    {
-      "id": "rm3Ludiw2jE",
-      "title": "Jhoom Le | Natasha Baig | Armeena Rana Khan | Bilal Ashraf | Ali Rahman | Janaan 2016",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-03-31T08:13:19Z",
-      "date": "2017-03-31",
-      "embeddable": true,
-      "durationSeconds": 187
-    },
-    {
-      "id": "j0Jc3-dNAcM",
-      "title": "Lambi Judai & Marora | Mai Dhai | Natasha Baig | Pakistani Songs 2017",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-03-27T19:34:50Z",
-      "date": "2017-03-27",
-      "embeddable": true,
-      "durationSeconds": 244
-    },
-    {
-      "id": "qy-Dfa0PPvQ",
-      "title": "Zeb & Haniya | Bibi Sanam Janam | Cover | Natasha Baig",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-03-24T09:38:01Z",
-      "date": "2017-03-24",
-      "embeddable": true,
-      "durationSeconds": 157
-    },
-    {
-      "id": "DZJ1yajZDSs",
-      "title": "Abida Parveen | Zahid ne Mera | Natasha Baig | Tribute | Cover | Live Performance",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-02-23T09:54:53Z",
-      "date": "2017-02-23",
-      "embeddable": true,
-      "durationSeconds": 334
+      "durationSeconds": 261
     },
     {
       "id": "kw4tT7SCmaY",

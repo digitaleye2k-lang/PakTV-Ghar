@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T01:04:04.688982+05:00",
+  "generatedAt": "2026-11-13T06:55:17.092903+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,6 +17,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 13,
+        "time": "04:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-11-13"
       }
     },
     "harpalgeo-nashtar": {
@@ -90,6 +97,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 30,
+        "time": "01:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-11-13"
       }
     },
     "hum-aangan": {
@@ -164,10 +178,10 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Gulbahar-500.jpg.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 15,
-        "id": "i13nXVng91k",
-        "title": "Gulbahar - Episode 15 - [ENG SUB] 04 Nov 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
-        "date": "2026-11-04",
+        "number": 18,
+        "id": "V_qBm4xCjJc",
+        "title": "Gulbahar - Episode 18 - [ENG SUB] 12 Nov 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
+        "date": "2026-11-12",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -182,10 +196,10 @@
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
       "latestPublisherSource": "https://arydigital.tv/drama/hey-fam/",
       "latestUpload": {
-        "number": 15,
-        "id": "_vFmg3hayKA",
-        "title": "Hey Fam | EP 15 | 4 NOV 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital Drama",
-        "date": "2026-11-04",
+        "number": 18,
+        "id": "p8mQ3cZH4Eg",
+        "title": "Hey Fam | EP 18 | 12 NOV 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
+        "date": "2026-11-12",
         "source": "Official YouTube upload",
         "availableGB": false,
         "availablePK": true,
@@ -228,12 +242,12 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Khushi-500.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 59,
-        "id": "JXhP2wgDR3k",
-        "title": "Khushi - Episode 59 - [ENG SUB] 10th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "date": "2026-11-10",
+        "number": 61,
+        "id": "gOCmCzqmmw0",
+        "title": "Khushi - Episode 61 - [ENG SUB] 12th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "date": "2026-11-12",
         "source": "Official YouTube upload",
-        "availableGB": false,
+        "availableGB": true,
         "availablePK": true,
         "embeddable": true
       }
@@ -308,12 +322,12 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/TT-500.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 21,
-        "id": "XQoQrNn0k3o",
-        "title": "Tark-e-Tamanna - Episode 21 - [Eng Sub] 10 Nov 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
-        "date": "2026-11-10",
+        "number": 23,
+        "id": "cAYtJesGsiA",
+        "title": "Tark-e-Tamanna - Episode 23 - [Eng Sub] 12 Nov 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "date": "2026-11-12",
         "source": "Official YouTube upload",
-        "availableGB": false,
+        "availableGB": true,
         "availablePK": true,
         "embeddable": true
       }
@@ -336,13 +350,13 @@
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1791124391063_c79ece2290.webp&w=1920&q=75",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 14,
-        "id": "cTYJjHGFprQ",
-        "title": "Lagan Lagi Episode 14 | 10 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
-        "date": "2026-11-10",
+        "number": 16,
+        "id": "UiHwVrIxk24",
+        "title": "Lagan Lagi Episode 16 | 12 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "date": "2026-11-12",
         "source": "Official YouTube upload",
-        "availableGB": true,
-        "availablePK": false,
+        "availableGB": false,
+        "availablePK": true,
         "embeddable": true
       }
     },
@@ -821,10 +835,10 @@
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1763828758001_fa8db033a4.webp&w=1920&q=75",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 30,
-        "id": "9URwGKov8_w",
-        "title": "Bismil Episode 30 | Digitally Presented by Vince Care | 28 Nov 2024 (English Subtitles) ARY Digital",
-        "date": "2024-11-28",
+        "number": 35,
+        "id": "Bcony6DQans",
+        "title": "Bismil Episode 35 | Digitally Presented by Vince Care | 18 Dec 2024 (English Subtitles)| ARY Digital",
+        "date": "2024-12-18",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
