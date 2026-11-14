@@ -1,62 +1,10 @@
 {
-  "hum-khushi": {
-    "episodes": [
-      {
-        "title": "Khushi - Episode 61 - [ENG SUB] 12th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 61,
-        "id": "gOCmCzqmmw0",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-11-12"
-      },
-      {
-        "id": "JXhP2wgDR3k",
-        "title": "Khushi - Episode 59 - [ENG SUB] 10th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 59,
-        "date": "2026-11-10",
-        "published": "2026-11-10T15:00:05Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": false,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/JXhP2wgDR3k/hqdefault.jpg",
-        "checkedAt": "2026-11-10T17:07:10.769636+00:00"
-      },
-      {
-        "id": "d3mWoR2cgHc",
-        "title": "Khushi - Episode 58 - [ENG SUB] 9th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 58,
-        "date": "2026-11-09",
-        "published": "2026-11-09T15:00:36Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/d3mWoR2cgHc/hqdefault.jpg",
-        "checkedAt": "2026-11-10T17:07:10.769636+00:00"
-      }
-    ]
-  },
   "hum-gulbahar": {
     "episodes": [
       {
         "title": "Gulbahar - Episode 18 - [ENG SUB] 12 Nov 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
         "episode": 18,
         "id": "V_qBm4xCjJc",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-11-12"
-      },
-      {
-        "title": "Gulbahar - Flashback - Episode  17 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
-        "episode": 17,
-        "id": "id8gPVWwtOw",
         "source": "HUM TV",
         "kind": "youtube",
         "date": "2026-11-12"
@@ -97,22 +45,6 @@
         "title": "Izzat Episode 54 | 12 November 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
         "episode": 54,
         "id": "hg1OGB0uFkI",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-12"
-      },
-      {
-        "title": "Izzat Episode 54 | 12 November 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 54,
-        "id": "fSs6EDhqHe8",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-12"
-      },
-      {
-        "title": "Izzat Episode 53 | BEST MOMENT | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 53,
-        "id": "XbvoOoIMqLI",
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-11-12"
@@ -389,14 +321,6 @@
         "title": "Uswah Episode 50 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
         "episode": 50,
         "id": "DwOaIwwpgrM",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-12"
-      },
-      {
-        "title": "Uswah Episode 50 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 12th November 2026",
-        "episode": 50,
-        "id": "X2kI6HpeBLE",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-11-12"
@@ -716,6 +640,42 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XqVFy-Ifb4s/hqdefault.jpg",
         "checkedAt": "2026-11-09T22:28:51.373387+00:00"
+      }
+    ]
+  },
+  "hum-khushi": {
+    "episodes": [
+      {
+        "id": "JXhP2wgDR3k",
+        "title": "Khushi - Episode 59 - [ENG SUB] 10th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 59,
+        "date": "2026-11-10",
+        "published": "2026-11-10T15:00:05Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/JXhP2wgDR3k/hqdefault.jpg",
+        "checkedAt": "2026-11-10T17:07:10.769636+00:00"
+      },
+      {
+        "id": "d3mWoR2cgHc",
+        "title": "Khushi - Episode 58 - [ENG SUB] 9th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 58,
+        "date": "2026-11-09",
+        "published": "2026-11-09T15:00:36Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/d3mWoR2cgHc/hqdefault.jpg",
+        "checkedAt": "2026-11-10T17:07:10.769636+00:00"
       }
     ]
   },
@@ -11479,7 +11439,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/S0VszIEH144/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "O-9L1JQRE-4",
@@ -11495,7 +11455,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/O-9L1JQRE-4/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
+      },
+      {
+        "id": "GXHS9_tgk1k",
+        "title": "Qurban Episode 28 | Bilal Abbas | Iqra Aziz | ARY Digital",
+        "episode": 28,
+        "date": "2024-01-21",
+        "published": "2024-01-21T09:00:10Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/GXHS9_tgk1k/hqdefault.jpg",
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "S-pR-tXy-Lo",
@@ -11527,7 +11503,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/spaGgNyZcGs/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
+      },
+      {
+        "id": "5MHSJa6FGFI",
+        "title": "Qurban Episode 27 | Iqra Aziz | Bilal Abbas | ARY Digital | Subtitle Eng",
+        "episode": 27,
+        "date": "2018-03-05",
+        "published": "2018-03-05T16:00:18Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/5MHSJa6FGFI/hqdefault.jpg",
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "5rb4ZCd5DL0",
@@ -11543,7 +11535,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5rb4ZCd5DL0/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "VgYt1qcT_PQ",
@@ -11575,7 +11567,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rJbNYaz-iSg/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "5FVhNAr4Qkg",
@@ -11591,7 +11583,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5FVhNAr4Qkg/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
+      },
+      {
+        "id": "wokoVtH8dC8",
+        "title": "Qurban Episode 24 | Iqra Aziz | Bilal Abbas | ARY Digital | Subtitle Eng",
+        "episode": 24,
+        "date": "2018-02-12",
+        "published": "2018-02-12T15:57:29Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/wokoVtH8dC8/hqdefault.jpg",
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
+      },
+      {
+        "id": "zN4sHJsgGfo",
+        "title": "Qurban Episode 23 | Bilal Abbas | Iqra Aziz | ARY Digital",
+        "episode": 23,
+        "date": "2024-01-18",
+        "published": "2024-01-18T08:00:35Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/zN4sHJsgGfo/hqdefault.jpg",
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "Q6r8s9-poLk",
@@ -11607,7 +11631,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Q6r8s9-poLk/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "VXKHXQRKG84",
@@ -11626,6 +11650,22 @@
         "checkedAt": "2026-11-04T19:51:31.365922+00:00"
       },
       {
+        "id": "b3i4sLOi80M",
+        "title": "Qurban Episode 21 | Bilal Abbas | Iqra Aziz | ARY Digital",
+        "episode": 21,
+        "date": "2024-01-17",
+        "published": "2024-01-17T08:00:30Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/b3i4sLOi80M/hqdefault.jpg",
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
+      },
+      {
         "id": "axK6la4krTE",
         "title": "Qurban Episode 21 & 22 | Iqra Aziz | Bilal Abbas | ARY Digital | Subtitle Eng",
         "episode": 21,
@@ -11639,7 +11679,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/axK6la4krTE/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
+      },
+      {
+        "id": "rhZnk-ErRW8",
+        "title": "Qurban Episode 20 | Bilal Abbas | Iqra Aziz | ARY Digital",
+        "episode": 20,
+        "date": "2024-01-15",
+        "published": "2024-01-15T10:00:30Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/rhZnk-ErRW8/hqdefault.jpg",
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "vZM6a7Zb2i8",
@@ -11655,7 +11711,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vZM6a7Zb2i8/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "qczxFlioU2c",
@@ -11671,7 +11727,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/qczxFlioU2c/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "7oYUZcYe51U",
@@ -11687,7 +11743,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7oYUZcYe51U/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "Yubta4_-N9U",
@@ -11703,7 +11759,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Yubta4_-N9U/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "mJY9B9_yWhs",
@@ -11722,6 +11778,22 @@
         "checkedAt": "2026-11-04T19:51:31.365922+00:00"
       },
       {
+        "id": "jFZQ_ujbsZ0",
+        "title": "Qurban Episode 15 | Bilal Abbas | Iqra Aziz | ARY Digital",
+        "episode": 15,
+        "date": "2024-01-12",
+        "published": "2024-01-12T08:00:32Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/jFZQ_ujbsZ0/hqdefault.jpg",
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
+      },
+      {
         "id": "Qwz9L4WyIj8",
         "title": "Qurban Episode 15 & 16 | Iqra Aziz | Bilal Abbas | ARY Digital | Subtitle Eng",
         "episode": 15,
@@ -11735,7 +11807,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Qwz9L4WyIj8/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "PsHgAl91Glg",
@@ -11751,7 +11823,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PsHgAl91Glg/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "wdfhINZaitg",
@@ -11767,7 +11839,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wdfhINZaitg/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "cv4VVgeTzFk",
@@ -11783,7 +11855,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cv4VVgeTzFk/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "PysG6BkTMwY",
@@ -11799,7 +11871,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PysG6BkTMwY/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "zxvxXGbVObk",
@@ -11815,7 +11887,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zxvxXGbVObk/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "YzDhoAoKulo",
@@ -11831,7 +11903,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/YzDhoAoKulo/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
+      },
+      {
+        "id": "aUibGSo5e3Y",
+        "title": "Qurban Episode 10 | Bilal Abbas | Iqra Aziz | ARY Digital",
+        "episode": 10,
+        "date": "2024-01-09",
+        "published": "2024-01-09T09:00:01Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/aUibGSo5e3Y/hqdefault.jpg",
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "vsanX5tyMs4",
@@ -11895,7 +11983,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/aiWolSvugNk/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "s4VSkxK3Nks",
@@ -11911,7 +11999,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/s4VSkxK3Nks/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "Qf4woxiIgVY",
@@ -11927,7 +12015,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Qf4woxiIgVY/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "JHk448AJYxY",
@@ -11943,7 +12031,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/JHk448AJYxY/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "ygO_BEgG1WQ",
@@ -11959,7 +12047,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ygO_BEgG1WQ/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "MKKfXke1Jkw",
@@ -11975,7 +12063,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/MKKfXke1Jkw/hqdefault.jpg",
-        "checkedAt": "2026-11-04T19:51:31.365922+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       }
     ]
   },
@@ -11995,7 +12083,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GL4XTAuUaos/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "p6xEjc0PqpA",
@@ -12043,7 +12131,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TOpOxDM8JBI/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "7EzkrzsEmX4",
@@ -12059,7 +12147,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7EzkrzsEmX4/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "IjpMoO7pKqA",
@@ -12075,7 +12163,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/IjpMoO7pKqA/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "V4sEBER6wQ8",
@@ -12091,7 +12179,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/V4sEBER6wQ8/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
+      },
+      {
+        "id": "5WsrexPPDqk",
+        "title": "Sukoon Episode 39 | Digitally Presented by Royal (English Subtitles) | 28 Feb 2024 | ARY Digital",
+        "episode": 39,
+        "date": "2024-02-28",
+        "published": "2024-02-28T16:00:04Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/5WsrexPPDqk/hqdefault.jpg",
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "32kzlAawVj8",
@@ -12107,7 +12211,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/32kzlAawVj8/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "L1-ZkMb7VdE",
@@ -12142,6 +12246,22 @@
         "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
+        "id": "WvGURrtYo70",
+        "title": "Sukoon Episode 35 | Digitally Presented by Royal , Sensodyn & FreeStyle Libre (Eng Sub)| 14 Feb 2024",
+        "episode": 35,
+        "date": "2024-02-14",
+        "published": "2024-02-14T16:00:20Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/WvGURrtYo70/hqdefault.jpg",
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
+      },
+      {
         "id": "t0y6_rS2ntE",
         "title": "Sukoon Episode 34 |Digitally Presented by Royal , Sensodyn & FreeStyle Libre (Eng Sub)| 8 Feb 2024",
         "episode": 34,
@@ -12171,7 +12291,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mmW4BZdaW6g/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "iFM2cLtUPbY",
@@ -12187,7 +12307,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iFM2cLtUPbY/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "XcrZbj8ggYE",
@@ -12203,7 +12323,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XcrZbj8ggYE/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "c1F2aFoG8XQ",
@@ -12219,7 +12339,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/c1F2aFoG8XQ/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "iYIY0_9rP2k",
@@ -12235,7 +12355,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iYIY0_9rP2k/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "OohhsNv-cyk",
@@ -12267,7 +12387,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/RNYpFYPst98/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
+      },
+      {
+        "id": "GtPq7hkfKJc",
+        "title": "Sukoon Episode 23 | Digitally Presented by Royal & Sensodyn (Eng Sub) | 3 January 2024 ARY Digital",
+        "episode": 23,
+        "date": "2024-01-03",
+        "published": "2024-01-03T16:00:07Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/GtPq7hkfKJc/hqdefault.jpg",
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "J3uzMb8aUP8",
@@ -12286,6 +12422,22 @@
         "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
+        "id": "_hjgxEqDVpo",
+        "title": "Sukoon Episode 21 | Digitally Presented by Royal & Sensodyn (Eng Sub)| 27 December 2023| ARY Digital",
+        "episode": 21,
+        "date": "2023-12-27",
+        "published": "2023-12-27T16:00:09Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/_hjgxEqDVpo/hqdefault.jpg",
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
+      },
+      {
         "id": "I6OQXSTf3sE",
         "title": "Sukoon Episode 20 |Digitally Presented by Royal & Sensodyn (Eng Sub)| 21 December 2023 | ARY Digital",
         "episode": 20,
@@ -12299,7 +12451,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/I6OQXSTf3sE/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "f5iLF7eHaS0",
@@ -12315,7 +12467,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/f5iLF7eHaS0/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "5dBIIgSUA7M",
@@ -12331,7 +12483,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5dBIIgSUA7M/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
+      },
+      {
+        "id": "dwgDKnet0XQ",
+        "title": "Sukoon Episode 17 | Digitally Presented by Royal & Sensodyne (Eng Sub)| 8 December 2023| ARY Digital",
+        "episode": 17,
+        "date": "2023-12-08",
+        "published": "2023-12-08T16:03:04Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/dwgDKnet0XQ/hqdefault.jpg",
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "H9uS2sOUxbQ",
@@ -12347,7 +12515,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/H9uS2sOUxbQ/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "RHN6pzfquLs",
@@ -12363,7 +12531,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/RHN6pzfquLs/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "OCUz_nTD_io",
@@ -12379,7 +12547,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OCUz_nTD_io/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "QIUeIQPFQWo",
@@ -12395,7 +12563,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QIUeIQPFQWo/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "diO0oIEPI64",
@@ -12414,6 +12582,54 @@
         "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
+        "id": "KufnqkD_CA4",
+        "title": "Sukoon Episode 11 (Eng Sub) | Digitally Presented by Royal | 17 November 2023 | ARY Digital",
+        "episode": 11,
+        "date": "2023-11-17",
+        "published": "2023-11-17T16:00:09Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/KufnqkD_CA4/hqdefault.jpg",
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
+      },
+      {
+        "id": "QQvjk-fNT54",
+        "title": "Sukoon Episode 10 (Eng Sub) | Digitally Presented by Royal | 16 November 2023 | ARY Digital",
+        "episode": 10,
+        "date": "2023-11-16",
+        "published": "2023-11-16T15:59:58Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/QQvjk-fNT54/hqdefault.jpg",
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
+      },
+      {
+        "id": "TU0yzt3rSbc",
+        "title": "Sukoon Episode 8 (Eng Sub) Digitally Presented by Royal | 9 November 2023 | ARY Digital",
+        "episode": 8,
+        "date": "2023-11-09",
+        "published": "2023-11-09T15:59:08Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/TU0yzt3rSbc/hqdefault.jpg",
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
+      },
+      {
         "id": "yvGExJn0MmU",
         "title": "Sukoon Episode 6 (Eng Sub) | Digitally Presented by Royal | 2 November 2023 | ARY Digital",
         "episode": 6,
@@ -12427,7 +12643,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yvGExJn0MmU/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "_N64Vz2WvSw",
@@ -12443,7 +12659,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_N64Vz2WvSw/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "X0fG-B7V8Xk",
@@ -12459,7 +12675,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/X0fG-B7V8Xk/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "K7NVqovgxCM",
@@ -12475,7 +12691,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/K7NVqovgxCM/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "K5oI7trwdOw",
@@ -12491,7 +12707,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/K5oI7trwdOw/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       },
       {
         "id": "GcfwlqTEUsA",
@@ -12507,7 +12723,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GcfwlqTEUsA/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T18:13:57.000894+00:00"
       }
     ]
   },
