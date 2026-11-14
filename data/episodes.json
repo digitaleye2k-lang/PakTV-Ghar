@@ -39,34 +39,6 @@
       }
     ]
   },
-  "arydigital-izzat": {
-    "episodes": [
-      {
-        "title": "Izzat Episode 54 | 12 November 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 54,
-        "id": "hg1OGB0uFkI",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-12"
-      },
-      {
-        "id": "q1oeYejthww",
-        "title": "Izzat Episode 50 | 5 November 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 50,
-        "date": "2026-11-08",
-        "published": "2026-11-08T15:00:05Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/q1oeYejthww/hqdefault.jpg",
-        "checkedAt": "2026-11-09T00:58:35.933821+00:00"
-      }
-    ]
-  },
   "arydigital-hey-fam": {
     "episodes": [
       {
@@ -12743,7 +12715,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lnfmCizXhfs/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "TMw7DOIczPM",
@@ -12775,7 +12747,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fX2nsJm_gH4/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "SYibmKVGNtI",
@@ -12791,7 +12763,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SYibmKVGNtI/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "yl02Vqse560",
@@ -12823,7 +12795,7 @@
         "availableGB": false,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2D2fXy76hJk/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "Q6qPeEyd1VM",
@@ -12842,6 +12814,38 @@
         "checkedAt": "2026-11-05T01:29:48.535769+00:00"
       },
       {
+        "id": "ctAtG-BXJko",
+        "title": "Dil-e-Momin - Episode 41 - [Eng Sub] - 2nd April 2022 - Har Pal Geo",
+        "episode": 41,
+        "date": "2022-04-02",
+        "published": "2022-04-02T16:00:17Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ctAtG-BXJko/hqdefault.jpg",
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
+      },
+      {
+        "id": "0ffGJnm4IIU",
+        "title": "Dil-e-Momin - Episode 40 - [Eng Sub] - Digitally Presented by Ujooba Beauty Cream - 1st April 2022",
+        "episode": 40,
+        "date": "2022-04-01",
+        "published": "2022-04-01T16:45:27Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/0ffGJnm4IIU/hqdefault.jpg",
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
+      },
+      {
         "id": "DDJRBcllZFU",
         "title": "Dil-e-Momin - Episode 39 - [Eng Sub] - 26th March 2022 - Har Pal Geo",
         "episode": 39,
@@ -12855,7 +12859,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DDJRBcllZFU/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "0TcoLMO4Omk",
@@ -12871,7 +12875,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0TcoLMO4Omk/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "8lLE1h1Tc-s",
@@ -12887,7 +12891,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8lLE1h1Tc-s/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
+      },
+      {
+        "id": "VHXcbRDyVtE",
+        "title": "Dil-e-Momin - Episode 35 - [Eng Sub] - 12th March 2022 - Har Pal Geo",
+        "episode": 35,
+        "date": "2022-03-12",
+        "published": "2022-03-12T16:00:25Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/VHXcbRDyVtE/hqdefault.jpg",
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "QLthZvRABV8",
@@ -12903,7 +12923,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QLthZvRABV8/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
+      },
+      {
+        "id": "xyEv_aywdOQ",
+        "title": "Dil-e-Momin - Episode 30 - [Eng Sub] - Digitally Presented by Ujooba Beauty Cream - 25th February 22",
+        "episode": 30,
+        "date": "2022-02-25",
+        "published": "2022-02-25T16:00:24Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/xyEv_aywdOQ/hqdefault.jpg",
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
+      },
+      {
+        "id": "sXFlfsFOzeY",
+        "title": "Dil-e-Momin - Episode 28 - [Eng Sub] - Digitally Presented by Ujooba Beauty Cream - 18th February 22",
+        "episode": 28,
+        "date": "2022-02-18",
+        "published": "2022-02-18T16:00:34Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/sXFlfsFOzeY/hqdefault.jpg",
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "kdMatcJyTYc",
@@ -12920,6 +12972,22 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kdMatcJyTYc/hqdefault.jpg",
         "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+      },
+      {
+        "id": "86Ucc-011p8",
+        "title": "Dil-e-Momin - Episode 20 - [Eng Sub] - Digitally Presented by Ujooba Beauty Cream - 21st January 22",
+        "episode": 20,
+        "date": "2022-01-21",
+        "published": "2022-01-21T16:00:08Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/86Ucc-011p8/hqdefault.jpg",
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "riXqJpK3fvU",
@@ -12983,7 +13051,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/d6kbsX6cf7U/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "Bzen0RhsgoM",
@@ -13031,7 +13099,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6DD5_4cl1kM/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "k8ggP9UljL8",
@@ -13047,7 +13115,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/k8ggP9UljL8/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "snK_KgrJTN8",
@@ -13063,7 +13131,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/snK_KgrJTN8/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "yN_x0SwKZNY",
@@ -13079,7 +13147,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yN_x0SwKZNY/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "pTwVZnSZSVo",
@@ -13095,7 +13163,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pTwVZnSZSVo/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "KuZ0wEjrQLo",
@@ -13111,7 +13179,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/KuZ0wEjrQLo/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "3QwYRN9QZdk",
@@ -13127,7 +13195,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3QwYRN9QZdk/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "YEa6HM2XW68",
@@ -13143,7 +13211,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/YEa6HM2XW68/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "-03gsbObeeg",
@@ -13159,7 +13227,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-03gsbObeeg/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "rrUIrKTXudQ",
@@ -13175,7 +13243,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rrUIrKTXudQ/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "erJ9iWnQTd4",
@@ -13191,7 +13259,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/erJ9iWnQTd4/hqdefault.jpg",
-        "checkedAt": "2026-11-05T01:29:48.535769+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       }
     ]
   },
@@ -13211,7 +13279,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SV8jsvXr7qk/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "_Z9dPWCgK5k",
@@ -13227,7 +13295,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_Z9dPWCgK5k/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "0AQ7A-EDR4o",
@@ -13243,7 +13311,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0AQ7A-EDR4o/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "iEUOgCmsR9w",
@@ -13259,7 +13327,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iEUOgCmsR9w/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
+      },
+      {
+        "id": "Y5PXB2G3xUo",
+        "title": "Farq Episode 44 - [Eng Sub] - Faysal Quraishi - Sehar Khan - Adeel Chaudhry - 28th March 2023",
+        "episode": 44,
+        "date": "2023-03-28",
+        "published": "2023-03-28T16:00:19Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Y5PXB2G3xUo/hqdefault.jpg",
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "nD-bDJxRPrU",
@@ -13342,6 +13426,22 @@
         "checkedAt": "2026-11-05T11:07:14.291186+00:00"
       },
       {
+        "id": "1G7fEanww1Y",
+        "title": "Farq Episode 34 - [Eng Sub] - Faysal Quraishi - Sehar Khan - Adeel Chaudhry - 21st February 2023",
+        "episode": 34,
+        "date": "2023-02-21",
+        "published": "2023-02-21T16:00:02Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/1G7fEanww1Y/hqdefault.jpg",
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
+      },
+      {
         "id": "-fhHxDT_bis",
         "title": "Farq Episode 33 - [Eng Sub] - Faysal Quraishi - Sehar Khan - Adeel Chaudhry - 20th February 2023",
         "episode": 33,
@@ -13371,7 +13471,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9A7bw1c1RMg/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "_Fq_Lxf9J_4",
@@ -13387,7 +13487,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_Fq_Lxf9J_4/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "vqLYhSaB0P8",
@@ -13403,7 +13503,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vqLYhSaB0P8/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "aLwMOWGO51Y",
@@ -13419,7 +13519,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/aLwMOWGO51Y/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
+      },
+      {
+        "id": "Y_RnsLTwaC4",
+        "title": "Farq Episode 27 - [Eng Sub] - Faysal Quraishi - Sehar Khan - Adeel Chaudhry - 30th January 2023",
+        "episode": 27,
+        "date": "2023-01-30",
+        "published": "2023-01-30T16:00:15Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Y_RnsLTwaC4/hqdefault.jpg",
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
+      },
+      {
+        "id": "qeJOdh0l31Q",
+        "title": "Farq Episode 26 - [Eng Sub] - Faysal Quraishi - Sehar Khan - Adeel Chaudhry - 24th January 2023",
+        "episode": 26,
+        "date": "2023-01-24",
+        "published": "2023-01-24T16:00:08Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/qeJOdh0l31Q/hqdefault.jpg",
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "Vg4Q2_wXJl8",
@@ -13435,7 +13567,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Vg4Q2_wXJl8/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "uMSt-lH7J7o",
@@ -13451,7 +13583,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/uMSt-lH7J7o/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "TAQBLEs3H7o",
@@ -13467,7 +13599,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TAQBLEs3H7o/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "a3Nhf5MoFKA",
@@ -13483,7 +13615,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/a3Nhf5MoFKA/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "GdVbXOh5kzY",
@@ -13499,7 +13631,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GdVbXOh5kzY/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "WIukRjsVY2I",
@@ -13515,7 +13647,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/WIukRjsVY2I/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
+      },
+      {
+        "id": "Ay320_fTvdw",
+        "title": "Farq Episode 19 - [Eng Sub] - Faysal Quraishi - Sehar Khan - Adeel Chaudhry - 2nd January 2023",
+        "episode": 19,
+        "date": "2023-01-02",
+        "published": "2023-01-02T16:00:05Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Ay320_fTvdw/hqdefault.jpg",
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "kmF1_0WVnFA",
@@ -13531,7 +13679,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kmF1_0WVnFA/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "MOVmlnMSDwk",
@@ -13547,7 +13695,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/MOVmlnMSDwk/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "5Y_A446qTJc",
@@ -13563,7 +13711,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5Y_A446qTJc/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "cEYfcKz9DV4",
@@ -13579,7 +13727,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cEYfcKz9DV4/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "kCbhXaAhHEA",
@@ -13595,7 +13743,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kCbhXaAhHEA/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "rw4CL0hGmaE",
@@ -13611,7 +13759,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rw4CL0hGmaE/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "8JoUiv7nSoA",
@@ -13627,7 +13775,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8JoUiv7nSoA/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
+      },
+      {
+        "id": "SeOt3BK_DxA",
+        "title": "Farq Episode 08 - [Eng Sub] - Faysal Quraishi - Sehar Khan - Adeel Chaudhry - 22nd November 2022",
+        "episode": 8,
+        "date": "2022-11-22",
+        "published": "2022-11-22T16:00:13Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/SeOt3BK_DxA/hqdefault.jpg",
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "4IhL7UIP0b4",
@@ -13643,7 +13807,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4IhL7UIP0b4/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "lZFC6-wcn0M",
@@ -13659,7 +13823,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lZFC6-wcn0M/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "soxwQCkeHk8",
@@ -13675,7 +13839,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/soxwQCkeHk8/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "gkyqVXv_GIE",
@@ -13691,7 +13855,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/gkyqVXv_GIE/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "Fof0uhSzgIQ",
@@ -13707,7 +13871,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Fof0uhSzgIQ/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       }
     ]
   },
@@ -13727,7 +13891,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4ARMphzZThU/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "ZTNzlpT8zks",
@@ -13743,7 +13907,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ZTNzlpT8zks/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "h2mFRF6i-lE",
@@ -13759,7 +13923,55 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/h2mFRF6i-lE/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
+      },
+      {
+        "id": "VGdQRGGDjZI",
+        "title": "Fitoor - Episode 41 - [Eng Sub] Digitally Presented by Nippon Paint - 11th August 2021 - HAR PAL GEO",
+        "episode": 41,
+        "date": "2021-08-11",
+        "published": "2021-08-11T16:00:12Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/VGdQRGGDjZI/hqdefault.jpg",
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
+      },
+      {
+        "id": "8hRf1oEW0ME",
+        "title": "Fitoor - Episode 40 - [Eng Sub] Digitally Presented by Nippon Paint - 5th August 2021 - HAR PAL GEO",
+        "episode": 40,
+        "date": "2021-08-05",
+        "published": "2021-08-05T16:00:04Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/8hRf1oEW0ME/hqdefault.jpg",
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
+      },
+      {
+        "id": "Cb6yU1nxSuY",
+        "title": "Fitoor - Ep 31 [Eng Sub] - Digitally Presented by Happilac Paints - 7th July 2021 - HAR PAL GEO",
+        "episode": 31,
+        "date": "2021-07-07",
+        "published": "2021-07-07T16:00:05Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Cb6yU1nxSuY/hqdefault.jpg",
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "Is6QSlKF55s",
@@ -13775,7 +13987,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Is6QSlKF55s/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
+      },
+      {
+        "id": "NZTLJY1Mw7Q",
+        "title": "Fitoor - Ep 25 [Eng Sub] - Digitally Presented by Happilac Paints - 10th June 2021 - HAR PAL GEO",
+        "episode": 25,
+        "date": "2021-06-10",
+        "published": "2021-06-10T16:00:21Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/NZTLJY1Mw7Q/hqdefault.jpg",
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "Sw8Q0gV_608",
@@ -13791,7 +14019,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Sw8Q0gV_608/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
+      },
+      {
+        "id": "z9-BAcgw7Xw",
+        "title": "Fitoor - Ep 22 [Eng Sub] - Digitally Presented by Happilac Paints - 20th May 2021 - HAR PAL GEO",
+        "episode": 22,
+        "date": "2021-05-20",
+        "published": "2021-05-20T16:00:34Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/z9-BAcgw7Xw/hqdefault.jpg",
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "hSzHBFJzCf8",
@@ -13807,7 +14051,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/hSzHBFJzCf8/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "LujjTZbHuC4",
@@ -13823,7 +14067,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/LujjTZbHuC4/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "Z-FrtQlpibU",
@@ -13839,7 +14083,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Z-FrtQlpibU/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "72S4SWzkliE",
@@ -13855,7 +14099,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/72S4SWzkliE/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "3yHfv9bb-iA",
@@ -13871,7 +14115,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3yHfv9bb-iA/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "nMxwzYl6BCg",
@@ -13887,7 +14131,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nMxwzYl6BCg/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "F9hmrgfXCJg",
@@ -13903,7 +14147,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/F9hmrgfXCJg/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "UGS4mBBhxc8",
@@ -13919,7 +14163,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UGS4mBBhxc8/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "tAXDQSZgexg",
@@ -13935,7 +14179,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/tAXDQSZgexg/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "pphhtCqELC0",
@@ -13951,7 +14195,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pphhtCqELC0/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "vPC6Ms55j2Q",
@@ -13967,7 +14211,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vPC6Ms55j2Q/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "zXV4t2Q2klc",
@@ -13983,7 +14227,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zXV4t2Q2klc/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "YPVb8ECuqU0",
@@ -14015,7 +14259,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/FI0v3NJr4HA/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "0JL1YGBdXKo",
@@ -14031,7 +14275,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0JL1YGBdXKo/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "uHiWsyKZ30g",
@@ -14047,7 +14291,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/uHiWsyKZ30g/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "97qECJCkfyo",
@@ -14063,7 +14307,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/97qECJCkfyo/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "XNrKY24tNBY",
@@ -14079,7 +14323,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XNrKY24tNBY/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "6ikZa-odhZA",
@@ -14095,7 +14339,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6ikZa-odhZA/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "Est3iNqTwo0",
@@ -14111,7 +14355,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Est3iNqTwo0/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "DUJda3O8R10",
@@ -14127,7 +14371,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DUJda3O8R10/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       }
     ]
   },
@@ -14147,7 +14391,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fG2WXTfjl7M/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "OH_jaMzwRjU",
@@ -14163,7 +14407,7 @@
         "availableGB": false,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OH_jaMzwRjU/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "jWBMXj57BI8",
@@ -14179,7 +14423,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/jWBMXj57BI8/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "jJoBzMdExoI",
@@ -14195,7 +14439,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/jJoBzMdExoI/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "WZVl-9djMxg",
@@ -14211,7 +14455,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/WZVl-9djMxg/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "wVhjz1CSyfY",
@@ -14275,7 +14519,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/EQToua4fjvg/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "7qkS772oesg",
@@ -14291,7 +14535,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7qkS772oesg/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
+      },
+      {
+        "id": "NNC_0C_ccDk",
+        "title": "Heer Da Hero Ep 17 - [Eng Sub]- Digitally Presented by Qarshi Jam-e-Shirin - Imran Ashraf, Amar Khan",
+        "episode": 17,
+        "date": "2023-04-08",
+        "published": "2023-04-08T15:00:12Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/NNC_0C_ccDk/hqdefault.jpg",
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "a4axwXQgw3s",
@@ -14307,7 +14567,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/a4axwXQgw3s/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "41zO-rBgmKw",
@@ -14323,7 +14583,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/41zO-rBgmKw/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "4WxeEfrri4s",
@@ -14339,7 +14599,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4WxeEfrri4s/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "X97m-LPKzZc",
@@ -14355,7 +14615,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/X97m-LPKzZc/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "uIxzxJQhY1c",
@@ -14371,7 +14631,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/uIxzxJQhY1c/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "SlhF8ivR7rk",
@@ -14387,7 +14647,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SlhF8ivR7rk/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "0rs8pEWyzp0",
@@ -14403,7 +14663,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0rs8pEWyzp0/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "brMZzH6-Mao",
@@ -14419,7 +14679,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/brMZzH6-Mao/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "XQeOw7UOou4",
@@ -14435,7 +14695,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XQeOw7UOou4/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "hk7Utvcmdho",
@@ -14451,7 +14711,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/hk7Utvcmdho/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "L2XLeHbrhFI",
@@ -14467,7 +14727,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/L2XLeHbrhFI/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "-5zWaV6lfA0",
@@ -14483,7 +14743,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-5zWaV6lfA0/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "QQdzsy3lr2s",
@@ -14499,7 +14759,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QQdzsy3lr2s/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "4s8UhzrC2Jo",
@@ -14515,7 +14775,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4s8UhzrC2Jo/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "SohJdteR8bo",
@@ -14531,7 +14791,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SohJdteR8bo/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       },
       {
         "id": "ySNB_0qMIn4",
@@ -14547,7 +14807,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ySNB_0qMIn4/hqdefault.jpg",
-        "checkedAt": "2026-11-05T11:07:14.291186+00:00"
+        "checkedAt": "2026-11-14T22:34:04.874353+00:00"
       }
     ]
   },
@@ -28447,6 +28707,26 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OrkuogQOKuQ/hqdefault.jpg",
+        "checkedAt": "2026-11-09T00:58:35.933821+00:00"
+      }
+    ]
+  },
+  "arydigital-izzat": {
+    "episodes": [
+      {
+        "id": "q1oeYejthww",
+        "title": "Izzat Episode 50 | 5 November 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 50,
+        "date": "2026-11-08",
+        "published": "2026-11-08T15:00:05Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/q1oeYejthww/hqdefault.jpg",
         "checkedAt": "2026-11-09T00:58:35.933821+00:00"
       }
     ]
