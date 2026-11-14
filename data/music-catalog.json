@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-13T19:50:02.180032+00:00",
+  "generatedAt": "2026-11-14T01:29:18.248221+00:00",
   "source": "verified_publisher_uploads_and_official_starters",
-  "count": 716,
+  "count": 717,
   "publishers": {
+    "cokestudio": 128,
     "emipakistan": 255,
     "natashabaig": 91,
-    "cokestudio": 127,
     "talhaanjum": 68,
     "abdulhannan": 38,
     "hasanraheem": 66,
@@ -15,6 +15,18 @@
     "sajjadali": 1
   },
   "videos": [
+    {
+      "id": "L1O-Gfahrrw",
+      "title": "Diwanay Dil | Coke Studio Nu.WAV | Young Stunners x Sabaat Batin x Jokhay",
+      "channel": "Coke Studio Pakistan",
+      "channelId": "cokestudio",
+      "category": "music",
+      "genre": "Sufi & Fusion",
+      "published": "2026-11-13T12:00:01Z",
+      "date": "2026-11-13",
+      "embeddable": true,
+      "durationSeconds": 285
+    },
     {
       "id": "Oyq1Ez1EBwc",
       "title": "Jab Tum Se Hum Mil - Mehdi Hassan & Nahid Akhtar | Golden Era Romantic Song | EMI Pakistan",
