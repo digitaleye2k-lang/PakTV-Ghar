@@ -2,7 +2,7 @@
   "date": "2026-11-14",
   "weekday": "Saturday",
   "timezone": "Asia/Karachi",
-  "generatedAt": "2026-11-14T06:29:18.271356+05:00",
+  "generatedAt": "2026-11-14T15:38:07.710535+05:00",
   "items": [
     {
       "name": "Khafa",
@@ -273,16 +273,6 @@
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
-    },
-    {
-      "name": "Lagan Lagi",
-      "showId": "arydigital-lagan-lagi",
-      "channel": "ARY Digital",
-      "time": "21:00",
-      "episode": null,
-      "repeat": null,
-      "sourceUrl": "https://dramas.pk/?pdhs_date=2026-11-14",
-      "sourceLabel": "Dramas.pk TV guide (backup, not broadcaster)"
     },
     {
       "name": "Zehar-e-Mohabbat",
