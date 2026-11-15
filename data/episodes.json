@@ -1,236 +1,4 @@
 {
-  "hum-gulbahar": {
-    "episodes": [
-      {
-        "title": "Gulbahar - Episode 18 - [ENG SUB] 12 Nov 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
-        "episode": 18,
-        "id": "V_qBm4xCjJc",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-11-12"
-      }
-    ]
-  },
-  "hum-tark-e-tamanna": {
-    "episodes": [
-      {
-        "title": "Tark-e-Tamanna - Episode 23 - [Eng Sub] 12 Nov 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
-        "episode": 23,
-        "id": "cAYtJesGsiA",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-11-12"
-      },
-      {
-        "id": "XQoQrNn0k3o",
-        "title": "Tark-e-Tamanna - Episode 21 - [Eng Sub] 10 Nov 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
-        "episode": 21,
-        "date": "2026-11-10",
-        "published": "2026-11-10T17:00:46Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": false,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/XQoQrNn0k3o/hqdefault.jpg",
-        "checkedAt": "2026-11-10T17:07:10.769636+00:00"
-      }
-    ]
-  },
-  "arydigital-hey-fam": {
-    "episodes": [
-      {
-        "title": "Hey Fam | EP 18 | 12 NOV 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
-        "episode": 18,
-        "id": "p8mQ3cZH4Eg",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-12"
-      },
-      {
-        "title": "Hey Fam | EP 18 | 12 NOV 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
-        "episode": 18,
-        "id": "ez1Lh_490Gs",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-12"
-      },
-      {
-        "title": "Hey Fam Episode 17 | BEST SCENE | Zaviyar Ejaz | Duaa Zahra | ARY Digital",
-        "episode": 17,
-        "id": "PSAvAltNEuc",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-12"
-      }
-    ]
-  },
-  "arydigital-lagan-lagi": {
-    "episodes": [
-      {
-        "title": "Lagan Lagi Episode 16 | 12 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
-        "episode": 16,
-        "id": "UiHwVrIxk24",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-12"
-      },
-      {
-        "title": "Lagan Lagi Episode 16 | 12 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
-        "episode": 16,
-        "id": "e6PWhETh-3g",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-12"
-      },
-      {
-        "id": "cTYJjHGFprQ",
-        "title": "Lagan Lagi Episode 14 | 10 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
-        "episode": 14,
-        "date": "2026-11-10",
-        "published": "2026-11-10T17:05:39Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/cTYJjHGFprQ/hqdefault.jpg",
-        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
-      },
-      {
-        "id": "VIrzTs9T_wY",
-        "title": "Lagan Lagi Episode 13 | 9 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
-        "episode": 13,
-        "date": "2026-11-09",
-        "published": "2026-11-09T17:00:03Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/VIrzTs9T_wY/hqdefault.jpg",
-        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
-      },
-      {
-        "id": "PNvaazSxJHw",
-        "title": "Lagan Lagi Episode 12 | 6 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB |",
-        "episode": 12,
-        "date": "2026-11-06",
-        "published": "2026-11-06T17:00:03Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/PNvaazSxJHw/hqdefault.jpg",
-        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
-      },
-      {
-        "id": "KcxWCeH1Ekg",
-        "title": "Lagan Lagi Ep 11 | 5 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB | ARY Digital",
-        "episode": 11,
-        "date": "2026-11-05",
-        "published": "2026-11-05T17:00:31Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/KcxWCeH1Ekg/hqdefault.jpg",
-        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
-      },
-      {
-        "id": "iJc8EHsx8uU",
-        "title": "Lagan Lagi Ep 9 | 3 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB | ARY Digital",
-        "episode": 9,
-        "date": "2026-11-03",
-        "published": "2026-11-03T17:00:05Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/iJc8EHsx8uU/hqdefault.jpg",
-        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
-      },
-      {
-        "id": "_hhs0vxW2so",
-        "title": "Lagan Lagi Ep 8 | 2 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB | ARY Digital",
-        "episode": 8,
-        "date": "2026-11-02",
-        "published": "2026-11-02T17:00:15Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/_hhs0vxW2so/hqdefault.jpg",
-        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
-      },
-      {
-        "id": "bML_jtAagkU",
-        "title": "Lagan Lagi Episode 7 | 30 Oct 206 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB",
-        "episode": 7,
-        "date": "2026-10-30",
-        "published": "2026-10-30T17:00:20Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/bML_jtAagkU/hqdefault.jpg",
-        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
-      },
-      {
-        "id": "7oJzEda7bsI",
-        "title": "Lagan Lagi Episode 4 | 27 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB",
-        "episode": 4,
-        "date": "2026-10-27",
-        "published": "2026-10-27T17:00:10Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/7oJzEda7bsI/hqdefault.jpg",
-        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
-      },
-      {
-        "id": "zptfzGBbndw",
-        "title": "Lagan Lagi Ep 1 | 22 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB | ARY Digital",
-        "episode": 1,
-        "date": "2026-10-22",
-        "published": "2026-10-22T17:03:38Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/zptfzGBbndw/hqdefault.jpg",
-        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
-      }
-    ]
-  },
   "harpalgeo-uswa": {
     "episodes": [
       {
@@ -412,14 +180,6 @@
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-11-12"
-      },
-      {
-        "title": "Khafa Episode 30 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 12th Nov 2026 | HAR PAL GEO",
-        "episode": 30,
-        "id": "_KgZMycZs1s",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-12"
       }
     ]
   },
@@ -466,14 +226,6 @@
         "date": "2026-11-13"
       },
       {
-        "title": "Bano Episode 29 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 12th Nov 2026 | HAR PAL GEO",
-        "episode": 29,
-        "id": "LMtKOtqvmxM",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-12"
-      },
-      {
         "id": "fHMZtnVT5Gg",
         "title": "Bano Episode 26 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 8th November 2026 | HAR PAL GEO",
         "episode": 26,
@@ -491,54 +243,6 @@
       }
     ]
   },
-  "geonews-capital-talk": {
-    "episodes": [
-      {
-        "title": "System Reset Underway? | How Long Will the Major Changes Take? | Hamid Mir",
-        "episode": null,
-        "id": "t0xNlFZ6Qc4",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-11-12"
-      },
-      {
-        "title": "A New Political Direction? | Mohsin Naqvi and Bilawal Share the Same Vision | Hamid Mir",
-        "episode": null,
-        "id": "DhYMYDpctd0",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-11-12"
-      },
-      {
-        "title": "Referendum on New Provinces: Is a Major Constitutional Change Coming? | Hamid Mir",
-        "episode": null,
-        "id": "Ijz5Z0PsGUk",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-11-12"
-      },
-      {
-        "title": "3-Hour Adiala Meeting, 3 Major Releases & Imran Khan's Message | ECP & Govt Under Fire? Capital Talk",
-        "episode": null,
-        "id": "bOsxGlDK_xQ",
-        "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-11-12"
-      }
-    ]
-  },
-  "arynews-off-the-record": {
-    "episodes": [
-      {
-        "title": "Off The Record | Ashfaq Ishaq Satti || 12th Nov 2026 - ARY News",
-        "episode": null,
-        "id": "qzTQit1OL1c",
-        "source": "ARY News",
-        "kind": "youtube",
-        "date": "2026-11-12"
-      }
-    ]
-  },
   "geonews-aaj-shahzeb-khanzada-kay-sath": {
     "episodes": [
       {
@@ -546,18 +250,6 @@
         "episode": null,
         "id": "kzTEzAlt9BU",
         "source": "Geo News",
-        "kind": "youtube",
-        "date": "2026-11-12"
-      }
-    ]
-  },
-  "arynews-the-reporters": {
-    "episodes": [
-      {
-        "title": "Salman Safdar, Latif Khosa Meet Imran Khan | The Reporters | 12th Nov 2026 | ARY News",
-        "episode": null,
-        "id": "fgsfCzlOgfo",
-        "source": "ARY News",
         "kind": "youtube",
         "date": "2026-11-12"
       }
@@ -848,54 +540,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/X9wTUew8Ze4/hqdefault.jpg",
         "checkedAt": "2026-11-11T17:14:46.093271+00:00"
-      },
-      {
-        "id": "2dfBiKAwmcI",
-        "title": "Pehli Barish Episode 41 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Aijaz Aslam - Saboor Ali || Har Pal Geo",
-        "episode": 41,
-        "date": "2026-08-09",
-        "published": "2026-08-09T22:30:21Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/2dfBiKAwmcI/hqdefault.jpg",
-        "checkedAt": "2026-11-01T22:09:14.002700+00:00"
-      },
-      {
-        "id": "S_G2VUog-_M",
-        "title": "Pehli Barish Episode 41 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 03 | Aijaz Aslam - Saboor Ali || Har Pal Geo",
-        "episode": 41,
-        "date": "2026-08-09",
-        "published": "2026-08-09T21:30:23Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/S_G2VUog-_M/hqdefault.jpg",
-        "checkedAt": "2026-11-01T22:09:14.002700+00:00"
-      },
-      {
-        "id": "SEbNv6c5si0",
-        "title": "Pehli Barish Last Episode 41 [Eng Sub] Saboor Ali - Syed Shahroz Sabzwari | 9th Aug 2026",
-        "episode": 41,
-        "date": "2026-08-09",
-        "published": "2026-08-09T15:00:37Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/SEbNv6c5si0/hqdefault.jpg",
-        "checkedAt": "2026-11-01T22:09:14.002700+00:00"
       }
     ]
   },
@@ -17747,7 +17391,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OPmT7x3da5w/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "shc0PC_mn38",
@@ -17763,7 +17407,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/shc0PC_mn38/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "VwgXooADw9o",
@@ -17779,7 +17423,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/VwgXooADw9o/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "BwHz4c8dkHE",
@@ -17795,7 +17439,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/BwHz4c8dkHE/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "jL33r-ohE_4",
@@ -17811,7 +17455,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/jL33r-ohE_4/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "-VEDsBMKdKo",
@@ -17827,7 +17471,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-VEDsBMKdKo/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "j7BtQyeEsPE",
@@ -17843,7 +17487,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/j7BtQyeEsPE/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "Bb1oPO9-O50",
@@ -17859,7 +17503,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Bb1oPO9-O50/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "4IP5WVOsNf0",
@@ -17891,7 +17535,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/P7H3fl1LKGI/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "lopZumgGn8Y",
@@ -17907,7 +17551,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lopZumgGn8Y/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "soIOXqGtmSk",
@@ -17923,7 +17567,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/soIOXqGtmSk/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "0lHW8B-CNxw",
@@ -17939,7 +17583,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0lHW8B-CNxw/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "CtTBzVF-rEA",
@@ -17955,7 +17599,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/CtTBzVF-rEA/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "zFgt_4xxULg",
@@ -17987,7 +17631,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PNSRYjwnz20/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "UDjq_uS2COk",
@@ -18003,7 +17647,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UDjq_uS2COk/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "F0FgNyqjit8",
@@ -18019,7 +17663,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/F0FgNyqjit8/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+      },
+      {
+        "id": "ZGIIZgqVF5c",
+        "title": "Mannat Murad Episode 12 - [Eng Sub] - Digitally Presented by PEL - 6th November 2023 - Iqra Aziz",
+        "episode": 12,
+        "date": "2023-11-06",
+        "published": "2023-11-06T16:00:22Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ZGIIZgqVF5c/hqdefault.jpg",
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "r8dHwGbg1Cg",
@@ -18035,7 +17695,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/r8dHwGbg1Cg/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "B94_TgDmA84",
@@ -18051,7 +17711,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/B94_TgDmA84/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "b9nGsQJYqO8",
@@ -18067,7 +17727,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/b9nGsQJYqO8/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "6kX65ltaIFQ",
@@ -18083,7 +17743,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6kX65ltaIFQ/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "4syfpzJyCqE",
@@ -18099,7 +17759,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4syfpzJyCqE/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "q52NdC7v3BA",
@@ -18115,7 +17775,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/q52NdC7v3BA/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "1l9ZtJRyUE4",
@@ -18131,7 +17791,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/1l9ZtJRyUE4/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "Cmbwrh8zuXM",
@@ -18147,7 +17807,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Cmbwrh8zuXM/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "-4JAWEULnl0",
@@ -18163,7 +17823,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-4JAWEULnl0/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "XZyeW0f94p8",
@@ -18179,7 +17839,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XZyeW0f94p8/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "EK_G34munLg",
@@ -18195,12 +17855,28 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/EK_G34munLg/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       }
     ]
   },
   "harpalgeo-mohabbat-tumse-nafrat-hai": {
     "episodes": [
+      {
+        "id": "fLNsys-qTLc",
+        "title": "Mohabbat Tum Se Nafrat Hai - Last Episode 29 | Har Pal Geo",
+        "episode": 29,
+        "date": "2019-12-25",
+        "published": "2019-12-25T15:00:08Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/fLNsys-qTLc/hqdefault.jpg",
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+      },
       {
         "id": "XWQTlEv_rBM",
         "title": "Mohabbat Tum Se Nafrat Hai - Last Episode 29 | Har Pal Geo",
@@ -18215,7 +17891,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XWQTlEv_rBM/hqdefault.jpg",
-        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "rWN7TQ9vD1U",
@@ -18231,7 +17907,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rWN7TQ9vD1U/hqdefault.jpg",
-        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "yI_8w4JQmqU",
@@ -18247,7 +17923,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yI_8w4JQmqU/hqdefault.jpg",
-        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "Hwxl0rOUOgY",
@@ -18263,7 +17939,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Hwxl0rOUOgY/hqdefault.jpg",
-        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "CG-CwQFEVHE",
@@ -18279,7 +17955,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/CG-CwQFEVHE/hqdefault.jpg",
-        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "TL_HcH8f6dU",
@@ -18295,7 +17971,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TL_HcH8f6dU/hqdefault.jpg",
-        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "JvpZ8IodtWw",
@@ -18311,7 +17987,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/JvpZ8IodtWw/hqdefault.jpg",
-        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "2Ovl-iOGutQ",
@@ -18327,7 +18003,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2Ovl-iOGutQ/hqdefault.jpg",
-        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "kp23nJLPwrQ",
@@ -18343,7 +18019,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kp23nJLPwrQ/hqdefault.jpg",
-        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+      },
+      {
+        "id": "KuJMhV4E0cc",
+        "title": "Mohabbat Tum Se Nafrat Hai - Episode 20 | Har Pal Geo",
+        "episode": 20,
+        "date": "2017-08-18",
+        "published": "2017-08-18T16:00:06Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/KuJMhV4E0cc/hqdefault.jpg",
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+      },
+      {
+        "id": "iMIrUQByhaM",
+        "title": "Mohabbat Tum Se Nafrat Hai - Episode 18 | Har Pal Geo",
+        "episode": 18,
+        "date": "2017-08-04",
+        "published": "2017-08-04T16:00:05Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/iMIrUQByhaM/hqdefault.jpg",
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "cz0GKrA0rhc",
@@ -18359,7 +18067,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cz0GKrA0rhc/hqdefault.jpg",
-        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "oABBfT6PNGQ",
@@ -18375,7 +18083,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/oABBfT6PNGQ/hqdefault.jpg",
-        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "7-QqpCPmQ7Q",
@@ -18391,7 +18099,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7-QqpCPmQ7Q/hqdefault.jpg",
-        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "9jHpkD3qlkI",
@@ -18407,7 +18115,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9jHpkD3qlkI/hqdefault.jpg",
-        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "NkdhdIa3wsg",
@@ -18439,7 +18147,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/a84XJO7w-rw/hqdefault.jpg",
-        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "ccunR46zIHg",
@@ -18455,7 +18163,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ccunR46zIHg/hqdefault.jpg",
-        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "OFROMOc3Urs",
@@ -18471,7 +18179,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OFROMOc3Urs/hqdefault.jpg",
-        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "FEnfS1EaPQo",
@@ -18487,7 +18195,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/FEnfS1EaPQo/hqdefault.jpg",
-        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "7TJBR7YpH0Y",
@@ -18503,7 +18211,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7TJBR7YpH0Y/hqdefault.jpg",
-        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "6zrTBxpFhGk",
@@ -18519,7 +18227,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6zrTBxpFhGk/hqdefault.jpg",
-        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "BqF-Q9Jpb84",
@@ -18535,7 +18243,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/BqF-Q9Jpb84/hqdefault.jpg",
-        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
         "id": "T4DYBziNgdQ",
@@ -18551,7 +18259,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/T4DYBziNgdQ/hqdefault.jpg",
-        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
+        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       }
     ]
   },
@@ -29003,6 +28711,26 @@
       }
     ]
   },
+  "hum-tark-e-tamanna": {
+    "episodes": [
+      {
+        "id": "XQoQrNn0k3o",
+        "title": "Tark-e-Tamanna - Episode 21 - [Eng Sub] 10 Nov 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "episode": 21,
+        "date": "2026-11-10",
+        "published": "2026-11-10T17:00:46Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/XQoQrNn0k3o/hqdefault.jpg",
+        "checkedAt": "2026-11-10T17:07:10.769636+00:00"
+      }
+    ]
+  },
   "hum-hadd": {
     "episodes": [
       {
@@ -29112,6 +28840,154 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/NCXN9Y4tObg/hqdefault.jpg",
         "checkedAt": "2026-11-11T17:14:46.093271+00:00"
+      }
+    ]
+  },
+  "arydigital-lagan-lagi": {
+    "episodes": [
+      {
+        "id": "cTYJjHGFprQ",
+        "title": "Lagan Lagi Episode 14 | 10 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 14,
+        "date": "2026-11-10",
+        "published": "2026-11-10T17:05:39Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/cTYJjHGFprQ/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
+        "id": "VIrzTs9T_wY",
+        "title": "Lagan Lagi Episode 13 | 9 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 13,
+        "date": "2026-11-09",
+        "published": "2026-11-09T17:00:03Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/VIrzTs9T_wY/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
+        "id": "PNvaazSxJHw",
+        "title": "Lagan Lagi Episode 12 | 6 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB |",
+        "episode": 12,
+        "date": "2026-11-06",
+        "published": "2026-11-06T17:00:03Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/PNvaazSxJHw/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
+        "id": "KcxWCeH1Ekg",
+        "title": "Lagan Lagi Ep 11 | 5 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB | ARY Digital",
+        "episode": 11,
+        "date": "2026-11-05",
+        "published": "2026-11-05T17:00:31Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/KcxWCeH1Ekg/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
+        "id": "iJc8EHsx8uU",
+        "title": "Lagan Lagi Ep 9 | 3 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB | ARY Digital",
+        "episode": 9,
+        "date": "2026-11-03",
+        "published": "2026-11-03T17:00:05Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/iJc8EHsx8uU/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
+        "id": "_hhs0vxW2so",
+        "title": "Lagan Lagi Ep 8 | 2 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB | ARY Digital",
+        "episode": 8,
+        "date": "2026-11-02",
+        "published": "2026-11-02T17:00:15Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/_hhs0vxW2so/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
+        "id": "bML_jtAagkU",
+        "title": "Lagan Lagi Episode 7 | 30 Oct 206 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB",
+        "episode": 7,
+        "date": "2026-10-30",
+        "published": "2026-10-30T17:00:20Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/bML_jtAagkU/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
+        "id": "7oJzEda7bsI",
+        "title": "Lagan Lagi Episode 4 | 27 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB",
+        "episode": 4,
+        "date": "2026-10-27",
+        "published": "2026-10-27T17:00:10Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/7oJzEda7bsI/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
+        "id": "zptfzGBbndw",
+        "title": "Lagan Lagi Ep 1 | 22 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB | ARY Digital",
+        "episode": 1,
+        "date": "2026-10-22",
+        "published": "2026-10-22T17:03:38Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/zptfzGBbndw/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
       }
     ]
   },
