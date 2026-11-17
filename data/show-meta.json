@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T00:41:45.007403+05:00",
+  "generatedAt": "2026-11-17T08:59:33.085651+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -42,6 +42,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 32,
+        "time": "16:30",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-11-17"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -90,6 +97,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 30,
+        "time": "00:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-11-17"
       }
     },
     "hum-aangan": {
@@ -150,10 +164,10 @@
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
       "latestPublisherSource": "https://arydigital.tv/drama/dar-e-nijaat/",
       "latestUpload": {
-        "number": 29,
-        "id": "p8vebU9549E",
-        "title": "Mohabbat Mein Koi Occasion Nahi Hota! 💕Dar-e-Nijaat Episode 29 | Sheheryar Munawar | Dur-e-Fishan",
-        "date": "2026-11-08",
+        "number": 31,
+        "id": "pueJDufEmvU",
+        "title": "Dar-e-Nijaat Episode 31 | BEST MOMENT | Sheheryar Munawar | Dur-e-Fishan | ARY Digital",
+        "date": "2026-11-15",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -196,10 +210,10 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/10/Hurmat-5002.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 7,
-        "id": "w6hU2MPkgik",
-        "title": "Hurmat - Episode 07 - [ENG SUB] 26th Oct 2026 - [ Dananeer Mobeen & Shahveer Jafry ] - HUM TV",
-        "date": "2026-10-26",
+        "number": 13,
+        "id": "wWPx6_uskVY",
+        "title": "Hurmat - Episode 13 - [ENG SUB] 16th Nov 2026 - [ Dananeer Mobeen & Shahveer Jafry ] - HUM TV",
+        "date": "2026-11-16",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -228,10 +242,10 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Khushi-500.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 61,
-        "id": "gOCmCzqmmw0",
-        "title": "Khushi - Episode 61 - [ENG SUB] 12th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "date": "2026-11-12",
+        "number": 65,
+        "id": "vv0wQ4vLiRM",
+        "title": "Khushi - Episode 65 - [Eng Sub] 16th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "date": "2026-11-16",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -278,12 +292,12 @@
       "latestPublisherLabel": "Highest episode listed on broadcaster website",
       "latestPublisherSource": "https://arydigital.tv/drama/rutba/",
       "latestUpload": {
-        "number": 40,
-        "id": "WR4DrBP91wk",
-        "title": "Choro Rutba Ka Hath🔥😡 | Izzat Episode 40",
-        "date": "2026-10-31",
+        "number": 12,
+        "id": "RGGyCB--3gA",
+        "title": "Rutba EP 12 | 16 Nov 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ARY Digital",
+        "date": "2026-11-16",
         "source": "Official YouTube upload",
-        "availableGB": true,
+        "availableGB": false,
         "availablePK": true,
         "embeddable": true
       }
@@ -308,10 +322,10 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/TT-500.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 23,
-        "id": "cAYtJesGsiA",
-        "title": "Tark-e-Tamanna - Episode 23 - [Eng Sub] 12 Nov 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
-        "date": "2026-11-12",
+        "number": 25,
+        "id": "gBsU06jK2AE",
+        "title": "Tark-e-Tamanna - Episode 25 - [Eng Sub] 16 Nov 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "date": "2026-11-16",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -336,10 +350,10 @@
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1791124391063_c79ece2290.webp&w=1920&q=75",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 16,
-        "id": "UiHwVrIxk24",
-        "title": "Lagan Lagi Episode 16 | 12 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
-        "date": "2026-11-12",
+        "number": 18,
+        "id": "LKcJf5wHnyM",
+        "title": "Lagan Lagi Episode 18 | 16 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "date": "2026-11-16",
         "source": "Official YouTube upload",
         "availableGB": false,
         "availablePK": true,
@@ -868,10 +882,10 @@
     "hum-chupke-chupke": {
       "lastAttempt": "2026-11-12T16:28:06.222407+05:00",
       "latestUpload": {
-        "number": 25,
-        "id": "lD8gzMNt8bQ",
-        "title": "Chupke Chupke Episode 25 | Digitally Presented by Mezan & Powered by Master Paints | HUM TV | Drama",
-        "date": "2021-05-08",
+        "number": 27,
+        "id": "_hBhDMPPHPk",
+        "title": "Chupke Chupke Episode 27 | Digitally Presented by Mezan & Powered by Master Paints | HUM TV | Drama",
+        "date": "2021-05-10",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,

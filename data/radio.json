@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T19:41:54.667934Z",
+  "updatedAt": "2026-11-17T03:59:45.104039Z",
   "source": "Radio Browser community directory",
   "sourceUrl": "https://www.radio-browser.info/",
   "stations": [
@@ -88,7 +88,7 @@
       "stream": "https://whmsonic.radio.gov.pk:8088/stream",
       "homepage": "https://radio.gov.pk/",
       "codec": "MP3",
-      "bitrate": 160,
+      "bitrate": 128,
       "source": "Radio Browser (community directory)"
     },
     {
