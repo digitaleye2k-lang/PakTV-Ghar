@@ -1,41 +1,473 @@
 {
-  "harpalgeo-khafa": {
+  "hum-khushi": {
     "episodes": [
       {
-        "title": "Khafa Episode 30 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
-        "episode": 30,
-        "id": "qcpmjbjS17g",
-        "source": "Har Pal Geo",
+        "title": "Khushi - Episode 65 - [Eng Sub] 16th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 65,
+        "id": "vv0wQ4vLiRM",
+        "source": "HUM TV",
         "kind": "youtube",
-        "date": "2026-11-13"
-      }
-    ]
-  },
-  "harpalgeo-bano": {
-    "episodes": [
-      {
-        "title": "Bano Episode 29 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 29,
-        "id": "nV8UR0vK-58",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-13"
+        "date": "2026-11-16"
       },
       {
-        "id": "fHMZtnVT5Gg",
-        "title": "Bano Episode 26 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 8th November 2026 | HAR PAL GEO",
-        "episode": 26,
-        "date": "2026-11-08",
-        "published": "2026-11-08T17:00:16Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
+        "title": "Khushi - Episode 64 Highlights - Nov 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
+        "episode": 64,
+        "id": "-1AUEH3WOQg",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-11-16"
+      },
+      {
+        "id": "JXhP2wgDR3k",
+        "title": "Khushi - Episode 59 - [ENG SUB] 10th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 59,
+        "date": "2026-11-10",
+        "published": "2026-11-10T15:00:05Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/JXhP2wgDR3k/hqdefault.jpg",
+        "checkedAt": "2026-11-10T17:07:10.769636+00:00"
+      },
+      {
+        "id": "d3mWoR2cgHc",
+        "title": "Khushi - Episode 58 - [ENG SUB] 9th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 58,
+        "date": "2026-11-09",
+        "published": "2026-11-09T15:00:36Z",
+        "source": "HUM TV",
+        "channelId": "hum",
         "sourceType": "youtube_api",
         "kind": "youtube",
         "embeddable": true,
         "availableGB": true,
         "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/fHMZtnVT5Gg/hqdefault.jpg",
-        "checkedAt": "2026-11-09T11:45:19.425535+00:00"
+        "thumbnail": "https://i.ytimg.com/vi/d3mWoR2cgHc/hqdefault.jpg",
+        "checkedAt": "2026-11-10T17:07:10.769636+00:00"
+      }
+    ]
+  },
+  "hum-hurmat": {
+    "episodes": [
+      {
+        "title": "Hurmat - Episode 13 - [ENG SUB] 16th Nov 2026 - [ Dananeer Mobeen & Shahveer Jafry ] - HUM TV",
+        "episode": 13,
+        "id": "wWPx6_uskVY",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Hurmat - Episode 12 - Flashback | ft. Dananeer Mobeen & Shahveer Jafry - HUM TV",
+        "episode": 12,
+        "id": "-eh7xcqHkYY",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "hum-mohabbat-mukhtasir": {
+    "episodes": [
+      {
+        "title": "Mohabbat Mukhtasir - Highlights Episode 08 - Nov 2026 - [ Usama Khan & Madiha Imam ] HUM TV",
+        "episode": 8,
+        "id": "d3h1OTBFgOw",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "hum-tark-e-tamanna": {
+    "episodes": [
+      {
+        "title": "Tark-e-Tamanna - Episode 25 - [Eng Sub] 16 Nov 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "episode": 25,
+        "id": "gBsU06jK2AE",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-11-16"
+      },
+      {
+        "id": "XQoQrNn0k3o",
+        "title": "Tark-e-Tamanna - Episode 21 - [Eng Sub] 10 Nov 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "episode": 21,
+        "date": "2026-11-10",
+        "published": "2026-11-10T17:00:46Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/XQoQrNn0k3o/hqdefault.jpg",
+        "checkedAt": "2026-11-10T17:07:10.769636+00:00"
+      }
+    ]
+  },
+  "hum-zehar-e-mohabbat": {
+    "episodes": [
+      {
+        "title": "Zehar-e-Mohabbat - Episode 26 Highlights - Nov 2026 - [ Zoha Tauqeer & Omer Shahzad ] HUM TV",
+        "episode": 26,
+        "id": "2LcPp6gObrA",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-11-16"
+      },
+      {
+        "id": "h6IYi5zhDC4",
+        "title": "Zehar-e-Mohabbat - Episode 24 - [Eng Sub] 8th Nov 2026 - [ Zoha Tauqeer & Omer Shahzad ] HUM TV",
+        "episode": 24,
+        "date": "2026-11-08",
+        "published": "2026-11-08T17:00:27Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/h6IYi5zhDC4/hqdefault.jpg",
+        "checkedAt": "2026-11-10T17:07:10.769636+00:00"
+      }
+    ]
+  },
+  "arydigital-izzat": {
+    "episodes": [
+      {
+        "title": "Izzat Last EP 58 | 16 November 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 58,
+        "id": "Cb1cG41D-J4",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Izzat Last EP 58 | 16 November 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 58,
+        "id": "bPFX3Cc3NAA",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Izzat 2nd Last EP 57 | 15 November 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 57,
+        "id": "NP7aNdLb_40",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-15"
+      },
+      {
+        "title": "Izzat 2nd Last EP 57 | 15 November 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 57,
+        "id": "Vsw-r64J3sE",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-15"
+      },
+      {
+        "title": "Izzat Episode 56 | Best Scene | ARY Digital",
+        "episode": 56,
+        "id": "9tCqgbQBH54",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Izzat Episode 56 | Unforgettable Moment | ARY Digital",
+        "episode": 56,
+        "id": "XHaLi0xPHk0",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Main Aaj Bhi Usi Dard Mein Jeeta Hoon | Izzat Episode 56",
+        "episode": 56,
+        "id": "ALpZSJVcjn0",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-16"
+      },
+      {
+        "id": "q1oeYejthww",
+        "title": "Izzat Episode 50 | 5 November 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 50,
+        "date": "2026-11-08",
+        "published": "2026-11-08T15:00:05Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/q1oeYejthww/hqdefault.jpg",
+        "checkedAt": "2026-11-09T00:58:35.933821+00:00"
+      }
+    ]
+  },
+  "arydigital-rutba": {
+    "episodes": [
+      {
+        "title": "Rutba EP 12 | 16 Nov 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ARY Digital",
+        "episode": 12,
+        "id": "RGGyCB--3gA",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Rutba EP 12 | 16 Nov 2026 | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ENG SUB |",
+        "episode": 12,
+        "id": "59LieogK6b8",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Rutba EP 11 | BEST MOMENT | Hiba Bukhari | Talha Chahour | Zahid Ahmed | Mehwish Hayat | ARY Digital",
+        "episode": 11,
+        "id": "zfibH7G-D6s",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-15"
+      }
+    ]
+  },
+  "arydigital-dar-e-nijaat": {
+    "episodes": [
+      {
+        "title": "Dar-e-Nijaat Episode 31 | BEST MOMENT | Sheheryar Munawar | Dur-e-Fishan | ARY Digital",
+        "episode": 31,
+        "id": "pueJDufEmvU",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-15"
+      },
+      {
+        "title": "Dar-e-Nijaat Episode 31 | BEST SCENE | Sheheryar Munawar | Dur-e-Fishan | ARY Digital",
+        "episode": 31,
+        "id": "iIaUbLFeXcQ",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-15"
+      },
+      {
+        "id": "wKGx32p8Bfg",
+        "title": "Dar-e-Nijaat Episode 29 | 7 November 2026 | ENG SUB | Sheheryar Munawar | Dur-e-Fishan | ARY Digital",
+        "episode": 29,
+        "date": "2026-11-07",
+        "published": "2026-11-07T16:00:34Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/wKGx32p8Bfg/hqdefault.jpg",
+        "checkedAt": "2026-11-09T00:58:35.933821+00:00"
+      }
+    ]
+  },
+  "arydigital-lagan-lagi": {
+    "episodes": [
+      {
+        "title": "Lagan Lagi Episode 18 | 16 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 18,
+        "id": "LKcJf5wHnyM",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Lagan Lagi Episode 18 | 16 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 18,
+        "id": "-ecSrktp6W4",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Lagan Lagi Episode 17 | Unforgettable Moment | ARY Digital",
+        "episode": 17,
+        "id": "2VNniQQLn1c",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-16"
+      },
+      {
+        "id": "cTYJjHGFprQ",
+        "title": "Lagan Lagi Episode 14 | 10 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 14,
+        "date": "2026-11-10",
+        "published": "2026-11-10T17:05:39Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/cTYJjHGFprQ/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
+        "id": "VIrzTs9T_wY",
+        "title": "Lagan Lagi Episode 13 | 9 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 13,
+        "date": "2026-11-09",
+        "published": "2026-11-09T17:00:03Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/VIrzTs9T_wY/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
+        "id": "PNvaazSxJHw",
+        "title": "Lagan Lagi Episode 12 | 6 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB |",
+        "episode": 12,
+        "date": "2026-11-06",
+        "published": "2026-11-06T17:00:03Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/PNvaazSxJHw/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
+        "id": "KcxWCeH1Ekg",
+        "title": "Lagan Lagi Ep 11 | 5 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB | ARY Digital",
+        "episode": 11,
+        "date": "2026-11-05",
+        "published": "2026-11-05T17:00:31Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/KcxWCeH1Ekg/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
+        "id": "iJc8EHsx8uU",
+        "title": "Lagan Lagi Ep 9 | 3 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB | ARY Digital",
+        "episode": 9,
+        "date": "2026-11-03",
+        "published": "2026-11-03T17:00:05Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/iJc8EHsx8uU/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
+        "id": "_hhs0vxW2so",
+        "title": "Lagan Lagi Ep 8 | 2 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB | ARY Digital",
+        "episode": 8,
+        "date": "2026-11-02",
+        "published": "2026-11-02T17:00:15Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/_hhs0vxW2so/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
+        "id": "bML_jtAagkU",
+        "title": "Lagan Lagi Episode 7 | 30 Oct 206 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB",
+        "episode": 7,
+        "date": "2026-10-30",
+        "published": "2026-10-30T17:00:20Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/bML_jtAagkU/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
+        "id": "7oJzEda7bsI",
+        "title": "Lagan Lagi Episode 4 | 27 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB",
+        "episode": 4,
+        "date": "2026-10-27",
+        "published": "2026-10-27T17:00:10Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/7oJzEda7bsI/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      },
+      {
+        "id": "zptfzGBbndw",
+        "title": "Lagan Lagi Ep 1 | 22 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB | ARY Digital",
+        "episode": 1,
+        "date": "2026-10-22",
+        "published": "2026-10-22T17:03:38Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/zptfzGBbndw/hqdefault.jpg",
+        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+      }
+    ]
+  },
+  "arydigital-jeeto-pakistan": {
+    "episodes": [
+      {
+        "title": "Baat Banti Hai | Game Segment | 3 Tola | Jeeto Pakistan | Fahad Mustafa |",
+        "episode": null,
+        "id": "AnPU1j3hcgQ",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-15"
+      },
+      {
+        "title": "😂 Sher Sunao, Bike Le Jao! | Jeeto Pakistan | Fahad Mustafa | ARY Digital",
+        "episode": null,
+        "id": "CUtSWhO8BGM",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-15"
       }
     ]
   },
@@ -78,6 +510,18 @@
         "episode": null,
         "id": "lPLWxHvU44E",
         "source": "Geo News",
+        "kind": "youtube",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  "arydigital-bulbulay": {
+    "episodes": [
+      {
+        "title": "Bulbulay Walay Bane Bankers! 💳💸 | Momo | Khoobsurat | Comedy Hangama | Bulbulay",
+        "episode": null,
+        "id": "vkVxBd_Sv6Y",
+        "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-11-16"
       }
@@ -248,42 +692,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/k7l0lQvnejk/hqdefault.jpg",
         "checkedAt": "2026-11-09T22:28:51.373387+00:00"
-      }
-    ]
-  },
-  "hum-khushi": {
-    "episodes": [
-      {
-        "id": "JXhP2wgDR3k",
-        "title": "Khushi - Episode 59 - [ENG SUB] 10th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 59,
-        "date": "2026-11-10",
-        "published": "2026-11-10T15:00:05Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": false,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/JXhP2wgDR3k/hqdefault.jpg",
-        "checkedAt": "2026-11-10T17:07:10.769636+00:00"
-      },
-      {
-        "id": "d3mWoR2cgHc",
-        "title": "Khushi - Episode 58 - [ENG SUB] 9th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 58,
-        "date": "2026-11-09",
-        "published": "2026-11-09T15:00:36Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/d3mWoR2cgHc/hqdefault.jpg",
-        "checkedAt": "2026-11-10T17:07:10.769636+00:00"
       }
     ]
   },
@@ -2870,22 +3278,6 @@
         "checkedAt": "2026-11-13T01:54:38.100353+00:00"
       },
       {
-        "id": "I4eD9OusP4o",
-        "title": "Balaa Episode 31 | Bilal Abbas | Ushna Shah | ARY Digital",
-        "episode": 31,
-        "date": "2024-03-23",
-        "published": "2024-03-23T06:30:05Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/I4eD9OusP4o/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
-      },
-      {
         "id": "tGwWa1Sx17o",
         "title": "Balaa Episode 30 | Bilal Abbas | Ushna Shah | ARY Digital",
         "episode": 30,
@@ -2902,22 +3294,6 @@
         "checkedAt": "2026-11-13T01:54:38.100353+00:00"
       },
       {
-        "id": "bupUxQOjyCg",
-        "title": "Balaa Episode 29 | Bilal Abbas | Ushna Shah | ARY Digital",
-        "episode": 29,
-        "date": "2024-03-22",
-        "published": "2024-03-22T06:30:11Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/bupUxQOjyCg/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
-      },
-      {
         "id": "VnaisgpxeQg",
         "title": "Balaa Episode 28 | Bilal Abbas | Ushna Shah | ARY Digital",
         "episode": 28,
@@ -2932,22 +3308,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/VnaisgpxeQg/hqdefault.jpg",
         "checkedAt": "2026-11-13T01:54:38.100353+00:00"
-      },
-      {
-        "id": "ptrHA2V6mHA",
-        "title": "Balaa Episode 27 | Bilal Abbas | Ushna Shah | ARY Digital",
-        "episode": 27,
-        "date": "2024-03-21",
-        "published": "2024-03-21T06:30:14Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ptrHA2V6mHA/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
       },
       {
         "id": "LuNV1yQhmo4",
@@ -3108,22 +3468,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3LLGnxNKCyk/hqdefault.jpg",
         "checkedAt": "2026-11-13T01:54:38.100353+00:00"
-      },
-      {
-        "id": "L8s_4clI_YY",
-        "title": "Balaa Episode 12 | Bilal Abbas | Ushna Shah | ARY Digital",
-        "episode": 12,
-        "date": "2024-03-13",
-        "published": "2024-03-13T07:00:13Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/L8s_4clI_YY/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
       },
       {
         "id": "vpa0pyMwiHM",
@@ -3434,22 +3778,6 @@
         "checkedAt": "2026-11-13T01:54:38.100353+00:00"
       },
       {
-        "id": "pOMwjrQZLIk",
-        "title": "Beti Episode 14 - 22nd January 2019 - ARY Digital [Subtitle Eng]",
-        "episode": 14,
-        "date": "2019-01-23",
-        "published": "2019-01-23T05:00:03Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/pOMwjrQZLIk/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
-      },
-      {
         "id": "jgXTjqEYQgw",
         "title": "Beti Episode 13 - 22nd January 2019 - ARY Digital [Subtitle Eng]",
         "episode": 13,
@@ -3466,22 +3794,6 @@
         "checkedAt": "2026-11-13T01:54:38.100353+00:00"
       },
       {
-        "id": "q5O68Kcj8vQ",
-        "title": "Beti Episode 12 - 15th January 2019 - ARY Digital [Subtitle Eng]",
-        "episode": 12,
-        "date": "2019-01-16",
-        "published": "2019-01-16T05:00:02Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/q5O68Kcj8vQ/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
-      },
-      {
         "id": "PkiPxsTaT9o",
         "title": "Beti Episode 11 - 15th January 2019 - ARY Digital [Subtitle Eng]",
         "episode": 11,
@@ -3496,22 +3808,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PkiPxsTaT9o/hqdefault.jpg",
         "checkedAt": "2026-11-13T01:54:38.100353+00:00"
-      },
-      {
-        "id": "rvfW-VsYb6U",
-        "title": "Beti Episode 10 - 8th January 2019 - ARY Digital [Subtitle Eng]",
-        "episode": 10,
-        "date": "2019-01-09",
-        "published": "2019-01-09T05:00:03Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/rvfW-VsYb6U/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
       },
       {
         "id": "0ArCjb6SX5U",
@@ -4258,22 +4554,6 @@
         "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
-        "id": "smG7P1NxyS0",
-        "title": "Burns Road Kay Romeo Juliet | EP 21 (Eng Sub) | Iqra Aziz | Hamza Sohail | 6 May 2024 | ARY Digital",
-        "episode": 21,
-        "date": "2024-05-06",
-        "published": "2024-05-06T16:18:32Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/smG7P1NxyS0/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
-      },
-      {
         "id": "7UtzZSBeBdA",
         "title": "Burns Road Kay Romeo Juliet | EP 20 (Eng Sub)| Iqra Aziz | Hamza Sohail | 30 April 2024 |ARY Digital",
         "episode": 20,
@@ -4288,38 +4568,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7UtzZSBeBdA/hqdefault.jpg",
         "checkedAt": "2026-11-13T11:10:51.920217+00:00"
-      },
-      {
-        "id": "gty3khrXtfo",
-        "title": "Burns Road Kay Romeo Juliet | EP 19 (Eng Sub)| Iqra Aziz | Hamza Sohail | 29 April 2024 |ARY Digital",
-        "episode": 19,
-        "date": "2024-04-29",
-        "published": "2024-04-29T16:00:28Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/gty3khrXtfo/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
-      },
-      {
-        "id": "deopu9eJcac",
-        "title": "Burns Road Kay Romeo Juliet | EP 17 (Eng Sub)| Iqra Aziz | Hamza Sohail | 22 April 2024 |ARY Digital",
-        "episode": 17,
-        "date": "2024-04-22",
-        "published": "2024-04-22T15:55:20Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/deopu9eJcac/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
       },
       {
         "id": "LB1jhGHgN_M",
@@ -4338,38 +4586,6 @@
         "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
-        "id": "ZtagdGaGbTI",
-        "title": "Burns Road Kay Romeo Juliet | EP 15 (Eng Sub)| Iqra Aziz | Hamza Sohail | 15 April 2024 |ARY Digital",
-        "episode": 15,
-        "date": "2024-04-15",
-        "published": "2024-04-15T16:06:16Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ZtagdGaGbTI/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
-      },
-      {
-        "id": "qNMOVHhJPSo",
-        "title": "Burns Road Kay Romeo Juliet | EP 14 (Eng Sub)| Iqra Aziz | Hamza Sohail | 8 April 2024 | ARY Digital",
-        "episode": 14,
-        "date": "2024-04-08",
-        "published": "2024-04-08T18:08:04Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/qNMOVHhJPSo/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
-      },
-      {
         "id": "iHlHXqcaot0",
         "title": "Burns Road Kay Romeo Juliet | EP 13 (Eng Sub)| Iqra Aziz | Hamza Sohail | 1 April 2024 | ARY Digital",
         "episode": 13,
@@ -4384,22 +4600,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iHlHXqcaot0/hqdefault.jpg",
         "checkedAt": "2026-11-13T11:10:51.920217+00:00"
-      },
-      {
-        "id": "EwVirm0i_PI",
-        "title": "Burns Road Kay Romeo Juliet | EP 12 (Eng Sub)| Iqra Aziz | Hamza Sohail | 25 March 2024 |ARY Digital",
-        "episode": 12,
-        "date": "2024-03-25",
-        "published": "2024-03-25T21:45:43Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/EwVirm0i_PI/hqdefault.jpg",
-        "checkedAt": "2026-11-03T10:59:51.420102+00:00"
       },
       {
         "id": "SVpDueMLzLM",
@@ -22215,7 +22415,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/MECejw5F6wU/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "uBfE9M-4LDk",
@@ -22231,7 +22431,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/uBfE9M-4LDk/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "H0InZ4EJD30",
@@ -22247,7 +22447,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/H0InZ4EJD30/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "9Wyq9p0Hx1k",
@@ -22263,7 +22463,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9Wyq9p0Hx1k/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "QTNQiSiuYIA",
@@ -22279,7 +22479,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QTNQiSiuYIA/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "w9JJkb-IUY8",
@@ -22295,7 +22495,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/w9JJkb-IUY8/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "1EMGLRsaKpY",
@@ -22311,7 +22511,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/1EMGLRsaKpY/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "ZYBbncpJBnc",
@@ -22327,7 +22527,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ZYBbncpJBnc/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "XikO17FRQZ0",
@@ -22343,7 +22543,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XikO17FRQZ0/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "TUqtA9W8kB4",
@@ -22359,7 +22559,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TUqtA9W8kB4/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "xTvLMseulkg",
@@ -22378,6 +22578,22 @@
         "checkedAt": "2026-11-07T10:24:00.967173+00:00"
       },
       {
+        "id": "zeF0OhQQri8",
+        "title": "Diyar e Dil Episode 21 HUM TV Drama",
+        "episode": 21,
+        "date": "2020-08-20",
+        "published": "2020-08-20T11:00:16Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/zeF0OhQQri8/hqdefault.jpg",
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
+      },
+      {
         "id": "DjVx_HUmHEQ",
         "title": "Diyar e Dil Episode 20 HUM TV Drama",
         "episode": 20,
@@ -22391,7 +22607,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DjVx_HUmHEQ/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
+      },
+      {
+        "id": "Vo7WysNYY1o",
+        "title": "Diyar e Dil Episode 19 HUM TV Drama",
+        "episode": 19,
+        "date": "2020-08-20",
+        "published": "2020-08-20T10:00:07Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Vo7WysNYY1o/hqdefault.jpg",
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "eSehEXJ8MYg",
@@ -22407,7 +22639,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/eSehEXJ8MYg/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "0-Nsk3YVOP0",
@@ -22423,7 +22655,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0-Nsk3YVOP0/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "BfQqgLRSCTA",
@@ -22455,7 +22687,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wK-s_4sk9w8/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
+      },
+      {
+        "id": "l7DmHGrJBto",
+        "title": "Diyar e Dil Episode 14 HUM TV Drama",
+        "episode": 14,
+        "date": "2020-08-20",
+        "published": "2020-08-20T07:30:01Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/l7DmHGrJBto/hqdefault.jpg",
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "dY9-YvC2Fxc",
@@ -22471,7 +22719,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dY9-YvC2Fxc/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "5hnqtyOcmEs",
@@ -22487,7 +22735,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5hnqtyOcmEs/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "2OtT6LfWJYQ",
@@ -22503,7 +22751,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2OtT6LfWJYQ/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "aZmJsYHzwCM",
@@ -22519,7 +22767,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/aZmJsYHzwCM/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "QKtjyih1H4I",
@@ -22535,7 +22783,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QKtjyih1H4I/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "4l_kCATs3ik",
@@ -22551,7 +22799,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4l_kCATs3ik/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "GZ7oxj2adbg",
@@ -22567,7 +22815,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GZ7oxj2adbg/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
+      },
+      {
+        "id": "RufuBwJ4aLI",
+        "title": "Diyar e Dil Episode 6 HUM TV Drama",
+        "episode": 6,
+        "date": "2020-08-16",
+        "published": "2020-08-16T12:00:06Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/RufuBwJ4aLI/hqdefault.jpg",
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "TN5psIZrF6Q",
@@ -22599,7 +22863,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xg0T65ir8SY/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "AtYzx_h4Vcs",
@@ -22615,7 +22879,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/AtYzx_h4Vcs/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "kz2oj9KOYBY",
@@ -22631,7 +22895,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kz2oj9KOYBY/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "wwKOiwllRz8",
@@ -22647,7 +22911,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wwKOiwllRz8/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       }
     ]
   },
@@ -22667,7 +22931,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/r9GHXVoxRVs/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "Jvmgr8R7QGA",
@@ -22683,7 +22947,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Jvmgr8R7QGA/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "va8MDFFeXV8",
@@ -22699,7 +22963,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/va8MDFFeXV8/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "8Q_CFvrm3vI",
@@ -22715,7 +22979,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8Q_CFvrm3vI/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "PdvYRzHgMX0",
@@ -22731,7 +22995,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PdvYRzHgMX0/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "Zn33eoQa2pg",
@@ -22747,7 +23011,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Zn33eoQa2pg/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "Wg_OnBdF2E4",
@@ -22763,7 +23027,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Wg_OnBdF2E4/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "lmcirpqqY48",
@@ -22779,7 +23043,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lmcirpqqY48/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "9-UdZF47GpQ",
@@ -22795,7 +23059,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9-UdZF47GpQ/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "IEdUyyzEmqo",
@@ -22811,7 +23075,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/IEdUyyzEmqo/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "jEkjPhZ7GXo",
@@ -22827,7 +23091,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/jEkjPhZ7GXo/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "XYmtOcS4s7Y",
@@ -22843,7 +23107,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XYmtOcS4s7Y/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
+      },
+      {
+        "id": "6UMoyDT9hkc",
+        "title": "Ehd e Wafa Episode 11 | Long Version",
+        "episode": 11,
+        "date": "2025-09-17",
+        "published": "2025-09-17T12:00:17Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/6UMoyDT9hkc/hqdefault.jpg",
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "mLTcw-is_kU",
@@ -22859,7 +23139,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mLTcw-is_kU/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "lY0uBX08420",
@@ -22875,7 +23155,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lY0uBX08420/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "uDPuHxIRnJk",
@@ -22891,7 +23171,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/uDPuHxIRnJk/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "WxFMaNnCeBs",
@@ -22907,7 +23187,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/WxFMaNnCeBs/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "q2V8OswrBrY",
@@ -22923,7 +23203,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/q2V8OswrBrY/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "bIdMbSV5OZo",
@@ -22939,7 +23219,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/bIdMbSV5OZo/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "FcjQXNf_RO0",
@@ -22955,7 +23235,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/FcjQXNf_RO0/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "YoFF7wkpLTY",
@@ -22971,7 +23251,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/YoFF7wkpLTY/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "itcyZWols_Q",
@@ -22987,7 +23267,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/itcyZWols_Q/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
+      },
+      {
+        "id": "hsoqmRC60ss",
+        "title": "Ehd e Wafa Episode 2 | Long Version",
+        "episode": 2,
+        "date": "2025-09-07",
+        "published": "2025-09-07T12:01:18Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/hsoqmRC60ss/hqdefault.jpg",
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "Oo-LW5HfH7w",
@@ -23003,7 +23299,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Oo-LW5HfH7w/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "TUN-iNJ_lMk",
@@ -23019,7 +23315,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TUN-iNJ_lMk/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "Gaxsb9Uvwt0",
@@ -23035,7 +23331,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Gaxsb9Uvwt0/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       }
     ]
   },
@@ -23055,7 +23351,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7Q8HIxnOuOs/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "F97C921x1-4",
@@ -23071,7 +23367,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/F97C921x1-4/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "cl-FH27OyY0",
@@ -23087,7 +23383,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cl-FH27OyY0/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "LCk-KYWLVt8",
@@ -23103,7 +23399,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/LCk-KYWLVt8/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
+      },
+      {
+        "id": "rvyyF3SCAqw",
+        "title": "Fairy Tale EP 26 - 17th Apr 23 - Presented By Sunsilk, Powered By Glow & Lovely, Associated By Walls",
+        "episode": 26,
+        "date": "2023-04-17",
+        "published": "2023-04-17T15:00:38Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/rvyyF3SCAqw/hqdefault.jpg",
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
+      },
+      {
+        "id": "io9ks6j9Tno",
+        "title": "Fairy Tale EP 25 - 16th Apr 23 - Presented By Sunsilk, Powered By Glow & Lovely, Associated By Walls",
+        "episode": 25,
+        "date": "2023-04-16",
+        "published": "2023-04-16T15:00:28Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/io9ks6j9Tno/hqdefault.jpg",
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "Hz2vnaM99h8",
@@ -23119,7 +23447,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Hz2vnaM99h8/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "SZo_yOTLeI0",
@@ -23135,7 +23463,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SZo_yOTLeI0/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "iKpVms8zrMM",
@@ -23151,7 +23479,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iKpVms8zrMM/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "OcndM-7fMbE",
@@ -23167,7 +23495,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OcndM-7fMbE/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "Srq5lNIpGvo",
@@ -23183,7 +23511,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Srq5lNIpGvo/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "Wgeh29GU-YQ",
@@ -23199,7 +23527,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Wgeh29GU-YQ/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "Xz7tnbbyOWI",
@@ -23215,7 +23543,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Xz7tnbbyOWI/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "aZzYKLYGMpA",
@@ -23247,7 +23575,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/1-5-kcRE_EA/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
+      },
+      {
+        "id": "DgoYiH3SGew",
+        "title": "Fairy Tale EP 11 - 2nd Apr 23 - Presented By Sunsilk, Powered By Glow & Lovely, Associated By Walls",
+        "episode": 11,
+        "date": "2023-04-02",
+        "published": "2023-04-02T15:00:14Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/DgoYiH3SGew/hqdefault.jpg",
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "Xg02NZt3Yfg",
@@ -23263,7 +23607,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Xg02NZt3Yfg/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "A07sX5Xc9QY",
@@ -23295,7 +23639,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UB53hLzGbxw/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "wh0LC6g1zxQ",
@@ -23311,7 +23655,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wh0LC6g1zxQ/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
+      },
+      {
+        "id": "S3nWJ0hGHUk",
+        "title": "Fairy Tale 2 EP 07 - PART 01 [CC] 23 Sep - Presented By BrookeBond Supreme, Glow & Lovely, & Sunsilk",
+        "episode": 7,
+        "date": "2023-09-23",
+        "published": "2023-09-23T16:00:19Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/S3nWJ0hGHUk/hqdefault.jpg",
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "UYmc0lo8A6U",
@@ -23327,7 +23687,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UYmc0lo8A6U/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "ToCKgq6w2kI",
@@ -23343,7 +23703,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ToCKgq6w2kI/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
+      },
+      {
+        "id": "9huWy0XMmqw",
+        "title": "Fairy Tale 2 EP 05 - PART 02 [CC] 9 Sep - Presented By BrookeBond Supreme, Glow & Lovely, & Sunsilk",
+        "episode": 5,
+        "date": "2023-09-09",
+        "published": "2023-09-09T17:00:04Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/9huWy0XMmqw/hqdefault.jpg",
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "5xJ0-Yn3ONE",
@@ -23359,7 +23735,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5xJ0-Yn3ONE/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "wkYFVainKWg",
@@ -23391,7 +23767,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/33vDcNl0MYI/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "66UCsI2Ggbo",
@@ -23407,7 +23783,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/66UCsI2Ggbo/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "nzl1m5OJOnc",
@@ -23423,7 +23799,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nzl1m5OJOnc/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "BsmrGAn2aS0",
@@ -23455,7 +23831,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6F0wI7ybdKc/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "iJBLsWD8xQs",
@@ -23471,7 +23847,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iJBLsWD8xQs/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
+      },
+      {
+        "id": "-Gw8D4QjIlo",
+        "title": "Fairy Tale 2 Mega EP 01 - PART 02 [𝐂𝐂] 05 Aug 23 Powered By Glow & Lovely, Sehar Khan - Hamza Sohail",
+        "episode": 1,
+        "date": "2023-08-05",
+        "published": "2023-08-05T17:00:14Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/-Gw8D4QjIlo/hqdefault.jpg",
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "3YOOTfMxqZs",
@@ -23487,7 +23879,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3YOOTfMxqZs/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "ocOPicDPYSA",
@@ -23503,7 +23895,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ocOPicDPYSA/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       }
     ]
   },
@@ -23539,7 +23931,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/aZzYKLYGMpA/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "_wOxKvPibi0",
@@ -23555,7 +23947,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_wOxKvPibi0/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "aGoM7JQO2As",
@@ -23571,7 +23963,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/aGoM7JQO2As/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "lIju77gtOXw",
@@ -23587,7 +23979,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lIju77gtOXw/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "NQ-raYU0LnY",
@@ -23603,7 +23995,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/NQ-raYU0LnY/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "kDe5Ew458vw",
@@ -23619,7 +24011,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kDe5Ew458vw/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "HN8uR3B88D4",
@@ -23635,7 +24027,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/HN8uR3B88D4/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "4mwUGZ9fM2Y",
@@ -23651,7 +24043,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4mwUGZ9fM2Y/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "k9n6FqVdfXY",
@@ -23667,7 +24059,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/k9n6FqVdfXY/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "lCcOIPBHyAA",
@@ -23683,7 +24075,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lCcOIPBHyAA/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "3C1m3wAKh-U",
@@ -23699,7 +24091,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3C1m3wAKh-U/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "A07sX5Xc9QY",
@@ -23715,7 +24107,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/A07sX5Xc9QY/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "jcHRKwlWXT8",
@@ -23731,7 +24123,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/jcHRKwlWXT8/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "OhGqaZXemok",
@@ -23747,7 +24139,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OhGqaZXemok/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "DaugPHxWNCQ",
@@ -23763,7 +24155,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DaugPHxWNCQ/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "S3nWJ0hGHUk",
@@ -23779,7 +24171,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/S3nWJ0hGHUk/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "QphZFJusBnc",
@@ -23795,7 +24187,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QphZFJusBnc/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "oMJYSabnVuw",
@@ -23811,7 +24203,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/oMJYSabnVuw/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "9huWy0XMmqw",
@@ -23827,7 +24219,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9huWy0XMmqw/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "4fCqqoQAtdY",
@@ -23843,7 +24235,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4fCqqoQAtdY/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
+      },
+      {
+        "id": "5xJ0-Yn3ONE",
+        "title": "Fairy Tale 2 EP 04 PART 02 [CC] - 26 Aug - Presented By BrookeBond Supreme, Glow & Lovely, & Sunsilk",
+        "episode": 4,
+        "date": "2023-08-26",
+        "published": "2023-08-26T17:00:02Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/5xJ0-Yn3ONE/hqdefault.jpg",
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "wkYFVainKWg",
@@ -23859,7 +24267,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wkYFVainKWg/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "R6SKOPaDoFc",
@@ -23891,7 +24299,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/66UCsI2Ggbo/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "BsmrGAn2aS0",
@@ -23907,7 +24315,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/BsmrGAn2aS0/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "6F0wI7ybdKc",
@@ -23923,7 +24331,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6F0wI7ybdKc/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "-Gw8D4QjIlo",
@@ -23939,7 +24347,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-Gw8D4QjIlo/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
         "id": "3YOOTfMxqZs",
@@ -23955,7 +24363,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3YOOTfMxqZs/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       }
     ]
   },
@@ -28939,43 +29347,23 @@
       }
     ]
   },
-  "arydigital-izzat": {
+  "harpalgeo-bano": {
     "episodes": [
       {
-        "id": "q1oeYejthww",
-        "title": "Izzat Episode 50 | 5 November 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 50,
+        "id": "fHMZtnVT5Gg",
+        "title": "Bano Episode 26 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 8th November 2026 | HAR PAL GEO",
+        "episode": 26,
         "date": "2026-11-08",
-        "published": "2026-11-08T15:00:05Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
+        "published": "2026-11-08T17:00:16Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
         "sourceType": "youtube_api",
         "kind": "youtube",
         "embeddable": true,
         "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/q1oeYejthww/hqdefault.jpg",
-        "checkedAt": "2026-11-09T00:58:35.933821+00:00"
-      }
-    ]
-  },
-  "hum-tark-e-tamanna": {
-    "episodes": [
-      {
-        "id": "XQoQrNn0k3o",
-        "title": "Tark-e-Tamanna - Episode 21 - [Eng Sub] 10 Nov 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
-        "episode": 21,
-        "date": "2026-11-10",
-        "published": "2026-11-10T17:00:46Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": false,
         "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/XQoQrNn0k3o/hqdefault.jpg",
-        "checkedAt": "2026-11-10T17:07:10.769636+00:00"
+        "thumbnail": "https://i.ytimg.com/vi/fHMZtnVT5Gg/hqdefault.jpg",
+        "checkedAt": "2026-11-09T11:45:19.425535+00:00"
       }
     ]
   },
@@ -29015,26 +29403,6 @@
       }
     ]
   },
-  "arydigital-dar-e-nijaat": {
-    "episodes": [
-      {
-        "id": "wKGx32p8Bfg",
-        "title": "Dar-e-Nijaat Episode 29 | 7 November 2026 | ENG SUB | Sheheryar Munawar | Dur-e-Fishan | ARY Digital",
-        "episode": 29,
-        "date": "2026-11-07",
-        "published": "2026-11-07T16:00:34Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/wKGx32p8Bfg/hqdefault.jpg",
-        "checkedAt": "2026-11-09T00:58:35.933821+00:00"
-      }
-    ]
-  },
   "harpalgeo-humrahi": {
     "episodes": [
       {
@@ -29068,154 +29436,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/NCXN9Y4tObg/hqdefault.jpg",
         "checkedAt": "2026-11-11T17:14:46.093271+00:00"
-      }
-    ]
-  },
-  "arydigital-lagan-lagi": {
-    "episodes": [
-      {
-        "id": "cTYJjHGFprQ",
-        "title": "Lagan Lagi Episode 14 | 10 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
-        "episode": 14,
-        "date": "2026-11-10",
-        "published": "2026-11-10T17:05:39Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/cTYJjHGFprQ/hqdefault.jpg",
-        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
-      },
-      {
-        "id": "VIrzTs9T_wY",
-        "title": "Lagan Lagi Episode 13 | 9 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
-        "episode": 13,
-        "date": "2026-11-09",
-        "published": "2026-11-09T17:00:03Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/VIrzTs9T_wY/hqdefault.jpg",
-        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
-      },
-      {
-        "id": "PNvaazSxJHw",
-        "title": "Lagan Lagi Episode 12 | 6 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB |",
-        "episode": 12,
-        "date": "2026-11-06",
-        "published": "2026-11-06T17:00:03Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/PNvaazSxJHw/hqdefault.jpg",
-        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
-      },
-      {
-        "id": "KcxWCeH1Ekg",
-        "title": "Lagan Lagi Ep 11 | 5 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB | ARY Digital",
-        "episode": 11,
-        "date": "2026-11-05",
-        "published": "2026-11-05T17:00:31Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/KcxWCeH1Ekg/hqdefault.jpg",
-        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
-      },
-      {
-        "id": "iJc8EHsx8uU",
-        "title": "Lagan Lagi Ep 9 | 3 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB | ARY Digital",
-        "episode": 9,
-        "date": "2026-11-03",
-        "published": "2026-11-03T17:00:05Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/iJc8EHsx8uU/hqdefault.jpg",
-        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
-      },
-      {
-        "id": "_hhs0vxW2so",
-        "title": "Lagan Lagi Ep 8 | 2 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB | ARY Digital",
-        "episode": 8,
-        "date": "2026-11-02",
-        "published": "2026-11-02T17:00:15Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/_hhs0vxW2so/hqdefault.jpg",
-        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
-      },
-      {
-        "id": "bML_jtAagkU",
-        "title": "Lagan Lagi Episode 7 | 30 Oct 206 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB",
-        "episode": 7,
-        "date": "2026-10-30",
-        "published": "2026-10-30T17:00:20Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/bML_jtAagkU/hqdefault.jpg",
-        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
-      },
-      {
-        "id": "7oJzEda7bsI",
-        "title": "Lagan Lagi Episode 4 | 27 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB",
-        "episode": 4,
-        "date": "2026-10-27",
-        "published": "2026-10-27T17:00:10Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/7oJzEda7bsI/hqdefault.jpg",
-        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
-      },
-      {
-        "id": "zptfzGBbndw",
-        "title": "Lagan Lagi Ep 1 | 22 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB | ARY Digital",
-        "episode": 1,
-        "date": "2026-10-22",
-        "published": "2026-10-22T17:03:38Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/zptfzGBbndw/hqdefault.jpg",
-        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
       }
     ]
   },
@@ -29256,26 +29476,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6xPzMoQ32Ys/hqdefault.jpg",
         "checkedAt": "2026-11-10T07:27:53.301435+00:00"
-      }
-    ]
-  },
-  "hum-zehar-e-mohabbat": {
-    "episodes": [
-      {
-        "id": "h6IYi5zhDC4",
-        "title": "Zehar-e-Mohabbat - Episode 24 - [Eng Sub] 8th Nov 2026 - [ Zoha Tauqeer & Omer Shahzad ] HUM TV",
-        "episode": 24,
-        "date": "2026-11-08",
-        "published": "2026-11-08T17:00:27Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/h6IYi5zhDC4/hqdefault.jpg",
-        "checkedAt": "2026-11-10T17:07:10.769636+00:00"
       }
     ]
   },

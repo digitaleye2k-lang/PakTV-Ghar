@@ -2,7 +2,7 @@
   "date": "2026-11-17",
   "weekday": "Tuesday",
   "timezone": "Asia/Karachi",
-  "generatedAt": "2026-11-17T08:59:28.559929+05:00",
+  "generatedAt": "2026-11-17T21:12:06.659241+05:00",
   "items": [
     {
       "name": "Khafa",
@@ -215,8 +215,8 @@
       "sourceLabel": "Official broadcaster"
     },
     {
-      "name": "Izzat",
-      "showId": "arydigital-izzat",
+      "name": "Mera Ghar",
+      "showId": null,
       "channel": "ARY Digital",
       "time": "19:00",
       "episode": null,

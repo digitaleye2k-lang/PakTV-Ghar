@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T03:59:37.604096+00:00",
+  "generatedAt": "2026-11-17T16:12:17.700602+00:00",
   "sources": [
     {
       "id": "homebased",
@@ -24,6 +24,16 @@
     }
   ],
   "videos": [
+    {
+      "id": "DCmSUvhsj74",
+      "title": "The Joy of Quran",
+      "channelId": "bayyinah",
+      "channel": "Nouman Ali Khan - Official - Bayyinah",
+      "language": "English / Urdu",
+      "topic": "general",
+      "date": "2026-11-17",
+      "source": "publisher YouTube Data API"
+    },
     {
       "id": "zl1aKsxVaus",
       "title": "Their Loss Was Their Greatest Honor | Deeper Look: Surah Al-Hashr | Nouman Ali Khan",
@@ -1115,6 +1125,6 @@
       "source": "verified official teaching upload"
     }
   ],
-  "count": 109,
+  "count": 110,
   "errors": []
 }
