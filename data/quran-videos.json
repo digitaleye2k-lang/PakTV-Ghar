@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T11:53:58.550092+00:00",
+  "generatedAt": "2026-11-18T20:39:36.924173+00:00",
   "sources": [
     {
       "id": "homebased",
@@ -25,6 +25,26 @@
   ],
   "videos": [
     {
+      "id": "dXN8kr0FeII",
+      "title": "𝐄𝐩-15 | सीरतुन नबी ﷺ उँगलियों पर | सीरत और क़ुरआन (मक्की दौर) | Hindi | ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-18",
+      "source": "publisher YouTube Data API"
+    },
+    {
+      "id": "cOYr6Qw18EI",
+      "title": "𝐄𝐩-13 | सीरतुन नबी ﷺ उँगलियों पर | इआदा मक्की दौर का | Hindi | ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-18",
+      "source": "publisher YouTube Data API"
+    },
+    {
       "id": "Z-grd9wGtW4",
       "title": "𝐄𝐩-12 | सीरतुन नबी ﷺ उँगलियों पर | तेरहवां साल (मक्की दौर) | Hindi | ‪@understandquran‬",
       "channelId": "understand",
@@ -45,6 +65,16 @@
       "source": "publisher YouTube Data API"
     },
     {
+      "id": "0F4PLAEylGc",
+      "title": "𝐄𝐩-14 | सीरतुन नबी ﷺ उँगलियों पर | मक्की ज़िन्दगी के अस्बाक़ | Hindi | ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-18",
+      "source": "publisher YouTube Data API"
+    },
+    {
       "id": "DCmSUvhsj74",
       "title": "The Joy of Quran",
       "channelId": "bayyinah",
@@ -56,7 +86,7 @@
     },
     {
       "id": "zl1aKsxVaus",
-      "title": "Their Loss Was Their Greatest Honor | Deeper Look: Surah Al-Hashr | Nouman Ali Khan",
+      "title": "When Losing Everything Becomes An Honor | Deeper Look: Surah Al-Hashr | Nouman Ali Khan",
       "channelId": "bayyinah",
       "channel": "Nouman Ali Khan - Official - Bayyinah",
       "language": "English / Urdu",
@@ -1145,6 +1175,6 @@
       "source": "verified official teaching upload"
     }
   ],
-  "count": 112,
+  "count": 115,
   "errors": []
 }
