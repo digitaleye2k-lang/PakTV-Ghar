@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-11-17",
-  "dailySearches": 8,
+  "dailySearches": 16,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -4360,22 +4360,6 @@
         "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
-        "id": "DLjpVHVSGQ0",
-        "title": "Cheekh Episode 17 | 27th April 2019 | ARY Digital [Subtitle Eng]",
-        "episode": 17,
-        "date": "2019-04-27",
-        "published": "2019-04-27T16:14:49Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/DLjpVHVSGQ0/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
-      },
-      {
         "id": "BnJ7Pql1F3g",
         "title": "Cheekh Episode 16 | Saba Qamar | Bilal Abbas | ARY Digital",
         "episode": 16,
@@ -4390,22 +4374,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/BnJ7Pql1F3g/hqdefault.jpg",
         "checkedAt": "2026-11-13T11:10:51.920217+00:00"
-      },
-      {
-        "id": "jjumoqC7IiM",
-        "title": "Cheekh Episode 15 | 13th April 2019 | ARY Digital [Subtitle Eng]",
-        "episode": 15,
-        "date": "2019-04-13",
-        "published": "2019-04-13T16:08:49Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/jjumoqC7IiM/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
       },
       {
         "id": "KVJxgO5KZQo",
@@ -4518,22 +4486,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/n-4M9lxXnHI/hqdefault.jpg",
         "checkedAt": "2026-11-13T11:10:51.920217+00:00"
-      },
-      {
-        "id": "04cRqs0iom0",
-        "title": "Cheekh Episode 7 | Saba Qamar | Bilal Abbas | ARY Digital",
-        "episode": 7,
-        "date": "2019-02-16",
-        "published": "2019-02-16T16:01:48Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/04cRqs0iom0/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
       },
       {
         "id": "cKbwsm-kFV0",
@@ -4778,22 +4730,6 @@
         "checkedAt": "2026-11-13T11:10:51.920217+00:00"
       },
       {
-        "id": "Vlk07V8Zf6I",
-        "title": "Do Bol Episode 18 | Affan Waheed | Hira Salman | English Subtitle | ARY Digital",
-        "episode": 18,
-        "date": "2019-04-18",
-        "published": "2019-04-18T05:00:02Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/Vlk07V8Zf6I/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
-      },
-      {
         "id": "3JOrPxwujD0",
         "title": "Do Bol Episode 17 | Affan Waheed | Hira Salman | English Subtitle | ARY Digital",
         "episode": 17,
@@ -4808,22 +4744,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3JOrPxwujD0/hqdefault.jpg",
         "checkedAt": "2026-11-13T11:10:51.920217+00:00"
-      },
-      {
-        "id": "5LKp39SGcao",
-        "title": "Do Bol Episode 15 | Affan Waheed | Hira Salman | English Subtitle | ARY Digital",
-        "episode": 15,
-        "date": "2019-04-16",
-        "published": "2019-04-16T17:00:01Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/5LKp39SGcao/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
       },
       {
         "id": "Ug3-9mYles0",
@@ -4856,22 +4776,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PN_OcjyMcv4/hqdefault.jpg",
         "checkedAt": "2026-11-13T11:10:51.920217+00:00"
-      },
-      {
-        "id": "yndv65aKsTw",
-        "title": "Do Bol Episode 12 | Affan Waheed | Hira Salman | English Subtitle | ARY Digital",
-        "episode": 12,
-        "date": "2019-04-10",
-        "published": "2019-04-10T05:00:12Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/yndv65aKsTw/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
       },
       {
         "id": "lw15bd4FZqQ",
@@ -5274,22 +5178,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/MsUjFSK-xLA/hqdefault.jpg",
         "checkedAt": "2026-11-13T19:49:46.445863+00:00"
-      },
-      {
-        "id": "yesFLIlLIdQ",
-        "title": "Dunk Episode 12 [Subtitle Eng] - 10th March 2021 - ARY Digital Drama",
-        "episode": 12,
-        "date": "2021-03-10",
-        "published": "2021-03-10T16:01:03Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/yesFLIlLIdQ/hqdefault.jpg",
-        "checkedAt": "2026-11-03T19:34:36.236906+00:00"
       },
       {
         "id": "0O0Ei7aD55E",
@@ -23719,7 +23607,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dFTgm8Pre0c/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "61rUn7zhoCs",
@@ -23735,7 +23623,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/61rUn7zhoCs/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
+      },
+      {
+        "id": "tn4tKw-Xllo",
+        "title": "Hum Tum - Ep 26 - 28 Apr 22 - Presented By Lipton, Powered By Master Paints & Canon Home Appliances",
+        "episode": 26,
+        "date": "2022-04-28",
+        "published": "2022-04-28T17:00:12Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/tn4tKw-Xllo/hqdefault.jpg",
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "P3VHzPSXb0c",
@@ -23751,7 +23655,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/P3VHzPSXb0c/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
+      },
+      {
+        "id": "MZUduuE1JF8",
+        "title": "Hum Tum - Ep 24 - 26 Apr 22 - Presented By Lipton, Powered By Master Paints & Canon Home Appliances",
+        "episode": 24,
+        "date": "2022-04-26",
+        "published": "2022-04-26T17:00:21Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/MZUduuE1JF8/hqdefault.jpg",
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
+      },
+      {
+        "id": "xbwj3IqG5kY",
+        "title": "Hum Tum - Ep 23 - 25 Apr 22 - Presented By Lipton, Powered By Master Paints & Canon Home Appliances",
+        "episode": 23,
+        "date": "2022-04-25",
+        "published": "2022-04-25T17:00:12Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/xbwj3IqG5kY/hqdefault.jpg",
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "6hUjX6DQTVQ",
@@ -23767,7 +23703,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6hUjX6DQTVQ/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "yioW9Hb-hlY",
@@ -23783,7 +23719,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yioW9Hb-hlY/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "G0Lq6PR6mrg",
@@ -23799,7 +23735,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/G0Lq6PR6mrg/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "qVDrKWNE3Fk",
@@ -23815,7 +23751,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/qVDrKWNE3Fk/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "sOgz8aHeMRw",
@@ -23831,7 +23767,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/sOgz8aHeMRw/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "z6IchBIpmlY",
@@ -23863,7 +23799,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-b5b-T7QxSU/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "cRtIaUMyfcs",
@@ -23879,7 +23815,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cRtIaUMyfcs/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "oFDyet0pkT4",
@@ -23895,7 +23831,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/oFDyet0pkT4/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "9EEm_9JHS7U",
@@ -23911,7 +23847,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9EEm_9JHS7U/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "pirrVx8iU-k",
@@ -23927,7 +23863,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pirrVx8iU-k/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "fQ0OR1QybYk",
@@ -23943,7 +23879,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fQ0OR1QybYk/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "7um0oEKz1Dc",
@@ -23959,7 +23895,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7um0oEKz1Dc/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "nbNoTWQogk4",
@@ -23975,7 +23911,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nbNoTWQogk4/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "pWX0j_VAhe0",
@@ -23991,7 +23927,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pWX0j_VAhe0/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "n_TKrB1wruc",
@@ -24023,7 +23959,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0Yo4AH9SB9o/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "nPKejtaYDdQ",
@@ -24039,7 +23975,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nPKejtaYDdQ/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "fyJ5lxsQ0Lc",
@@ -24055,7 +23991,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fyJ5lxsQ0Lc/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "_IzS_HpllHE",
@@ -24071,7 +24007,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_IzS_HpllHE/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "Qqv_onOjq3U",
@@ -24087,7 +24023,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Qqv_onOjq3U/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       }
     ],
     "hum-humsafar": [
@@ -24105,7 +24041,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/VQAE_Qz6G48/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "psqrnDLGgTk",
@@ -24121,7 +24057,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/psqrnDLGgTk/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "BVt1pQvjXmU",
@@ -24137,7 +24073,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/BVt1pQvjXmU/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "wwOndVrTHC0",
@@ -24153,7 +24089,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wwOndVrTHC0/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "JgLBjS7b-rM",
@@ -24169,7 +24105,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/JgLBjS7b-rM/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "K8GmCSzwy9E",
@@ -24185,7 +24121,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/K8GmCSzwy9E/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "BMMkpDEW9rI",
@@ -24201,7 +24137,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/BMMkpDEW9rI/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "2NZqe58ZaNg",
@@ -24217,7 +24153,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2NZqe58ZaNg/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "TV9__UYUHeM",
@@ -24233,7 +24169,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TV9__UYUHeM/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "LFVD1boDAqc",
@@ -24249,7 +24185,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/LFVD1boDAqc/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "cU95WwQ0rKY",
@@ -24265,7 +24201,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cU95WwQ0rKY/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "Zd9KfE9XTXE",
@@ -24281,7 +24217,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Zd9KfE9XTXE/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "2uVnLxBYTIA",
@@ -24297,7 +24233,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2uVnLxBYTIA/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "y9y9OdkujHg",
@@ -24313,7 +24249,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/y9y9OdkujHg/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "iLQv6kD_qFI",
@@ -24329,7 +24265,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iLQv6kD_qFI/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "EjhpQfgaqtg",
@@ -24345,7 +24281,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/EjhpQfgaqtg/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "M4IPEbK5Elw",
@@ -24361,7 +24297,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/M4IPEbK5Elw/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "DpbeXdvKqTM",
@@ -24377,7 +24313,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DpbeXdvKqTM/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "YW_TMyg0LKg",
@@ -24393,7 +24329,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/YW_TMyg0LKg/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "gmUhW3dWpEo",
@@ -24409,7 +24345,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/gmUhW3dWpEo/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "H39iyu0SZJ0",
@@ -24425,7 +24361,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/H39iyu0SZJ0/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "iQYGN1_4p08",
@@ -24441,10 +24377,26 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iQYGN1_4p08/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       }
     ],
     "hum-ishq-murshid": [
+      {
+        "id": "3dCQ4g1DwB0",
+        "title": "Ishq Murshid - Mega Last Ep 31 [Part 02] [𝐂𝐂] - 05 May 24, Khurshid Fans, Master Paints & Mothercare",
+        "episode": 31,
+        "date": "2024-05-05",
+        "published": "2024-05-05T16:00:02Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/3dCQ4g1DwB0/hqdefault.jpg",
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
+      },
       {
         "id": "7dbbMX6JOCc",
         "title": "Ishq Murshid - Episode 29 [𝐂𝐂] - 21 Apr 24 - Sponsored By Khurshid Fans, Master Paints & Mothercare",
@@ -24459,7 +24411,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7dbbMX6JOCc/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "he20NMtKcyY",
@@ -24475,7 +24427,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/he20NMtKcyY/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "fR6NnOHTxmM",
@@ -24491,7 +24443,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fR6NnOHTxmM/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "f9FApyo_hAI",
@@ -24507,7 +24459,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/f9FApyo_hAI/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "-Ef16Y6FT1w",
@@ -24523,7 +24475,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-Ef16Y6FT1w/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "1npDffGddFM",
@@ -24539,7 +24491,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/1npDffGddFM/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
+      },
+      {
+        "id": "cQ_tyT2WjTo",
+        "title": "Ishq Murshid - Episode 23 [𝐂𝐂] - 10 Mar 24 - Sponsored By Khurshid Fans, Master Paints & Mothercare",
+        "episode": 23,
+        "date": "2024-03-10",
+        "published": "2024-03-10T16:00:32Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/cQ_tyT2WjTo/hqdefault.jpg",
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "jgwHFrON9Q4",
@@ -24571,7 +24539,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/bmfA5xhGNJQ/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "pqJQhBoHKRU",
@@ -24587,7 +24555,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pqJQhBoHKRU/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
+      },
+      {
+        "id": "LfbGT4hXDXw",
+        "title": "Ishq Murshid - Episode 19 [𝐂𝐂] - 11 Feb 24 - Sponsored By Khurshid Fans, Master Paints & Mothercare",
+        "episode": 19,
+        "date": "2024-02-11",
+        "published": "2024-02-11T16:00:25Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/LfbGT4hXDXw/hqdefault.jpg",
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "rsvkZot2sx0",
@@ -24603,7 +24587,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rsvkZot2sx0/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "QVWPZZIdEMQ",
@@ -24619,7 +24603,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QVWPZZIdEMQ/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "UG2Qe_4XdGI",
@@ -24635,7 +24619,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UG2Qe_4XdGI/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "5uAznq66Ubw",
@@ -24651,7 +24635,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5uAznq66Ubw/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "4MDI4Nr5V6k",
@@ -24667,7 +24651,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4MDI4Nr5V6k/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
+      },
+      {
+        "id": "HPXJPuZO_U4",
+        "title": "Ishq Murshid - Episode 13 [𝐂𝐂] - 31 Dec 23 - Sponsored By Khurshid Fans, Master Paints & Mothercare",
+        "episode": 13,
+        "date": "2023-12-31",
+        "published": "2023-12-31T16:00:15Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/HPXJPuZO_U4/hqdefault.jpg",
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
+      },
+      {
+        "id": "oEfCgvEXWwg",
+        "title": "Ishq Murshid - Episode 12 [𝐂𝐂] - 24 Dec 23 - Sponsored By Khurshid Fans, Master Paints & Mothercare",
+        "episode": 12,
+        "date": "2023-12-24",
+        "published": "2023-12-24T16:00:27Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/oEfCgvEXWwg/hqdefault.jpg",
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "9WY-hj4Cayc",
@@ -24683,7 +24699,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9WY-hj4Cayc/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "NMvM3hHL3Is",
@@ -24702,6 +24718,22 @@
         "checkedAt": "2026-11-07T21:57:27.948326+00:00"
       },
       {
+        "id": "PSghT6SYi7Q",
+        "title": "Ishq Murshid - Episode 09 [𝐂𝐂] - 3rd Dec 23 - Sponsored By Khurshid Fans, Master Paints & Mothercare",
+        "episode": 9,
+        "date": "2023-12-03",
+        "published": "2023-12-03T16:00:15Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/PSghT6SYi7Q/hqdefault.jpg",
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
+      },
+      {
         "id": "QclJxMtqjuo",
         "title": "Ishq Murshid - Episode 08 [𝐂𝐂] - 26 Nov 23 - Sponsored By Khurshid Fans, Master Paints & Mothercare",
         "episode": 8,
@@ -24715,7 +24747,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QclJxMtqjuo/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "89otfl7t9cw",
@@ -24731,7 +24763,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/89otfl7t9cw/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "QiYgJSTrvY0",
@@ -24747,7 +24779,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QiYgJSTrvY0/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
+      },
+      {
+        "id": "IsA2TZdFwSo",
+        "title": "Ishq Murshid - Episode 05 [𝐂𝐂] 05 Nov - Presented By Khurshid Fans, Powered By Master Paints -HUM TV",
+        "episode": 5,
+        "date": "2023-11-05",
+        "published": "2023-11-05T16:00:18Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/IsA2TZdFwSo/hqdefault.jpg",
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
+      },
+      {
+        "id": "TI7QEvvVQgA",
+        "title": "Ishq Murshid - Episode 04 [𝐂𝐂] 29 Oct - Presented By Khurshid Fans, Powered By Master Paints -HUM TV",
+        "episode": 4,
+        "date": "2023-10-29",
+        "published": "2023-10-29T16:00:19Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/TI7QEvvVQgA/hqdefault.jpg",
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "7zr3TUe6J1U",
@@ -24779,7 +24843,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/j1j91RAoM8Y/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       }
     ],
     "hum-jafaa": [
@@ -24797,7 +24861,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UlzboTWVVkk/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "ckEgPMu3Mkk",
@@ -24813,7 +24877,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ckEgPMu3Mkk/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "6x28MzgP74Q",
@@ -24829,7 +24893,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6x28MzgP74Q/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "15EngHVANwk",
@@ -24845,7 +24909,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/15EngHVANwk/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
+      },
+      {
+        "id": "lZhzvvDCwNI",
+        "title": "Jafaa - Ep 28 [CC] - 29th Nov 2024 - Sponsored By Salai, Masterpaints & Ujooba Beauty Cream - HUM TV",
+        "episode": 28,
+        "date": "2024-11-29",
+        "published": "2024-11-29T16:00:43Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/lZhzvvDCwNI/hqdefault.jpg",
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "KME60KKdeI8",
@@ -24877,7 +24957,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rzlD9_i1pnY/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "ZOpQmw-c2KY",
@@ -24909,7 +24989,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dEd1ysw_GzM/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "nP-GzIYvA54",
@@ -24925,7 +25005,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nP-GzIYvA54/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "IG9q9HlYjic",
@@ -24941,7 +25021,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/IG9q9HlYjic/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "nOhpsRj4M80",
@@ -24957,7 +25037,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nOhpsRj4M80/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "mbbDw6nzKWg",
@@ -24973,7 +25053,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mbbDw6nzKWg/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "B3jJnlITMZk",
@@ -24989,7 +25069,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/B3jJnlITMZk/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "P68GjnVIcC4",
@@ -25005,7 +25085,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/P68GjnVIcC4/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "k_xyqyyl2YA",
@@ -25037,7 +25117,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Jx9syOm--kM/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "nvPHN5MTaiw",
@@ -25053,7 +25133,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nvPHN5MTaiw/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "p4hFNWC8nrQ",
@@ -25069,7 +25149,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/p4hFNWC8nrQ/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "7GV5pvXMklA",
@@ -25085,7 +25165,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7GV5pvXMklA/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "P5N0sakh3ik",
@@ -25101,7 +25181,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/P5N0sakh3ik/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "3I81XRPXU20",
@@ -25117,7 +25197,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3I81XRPXU20/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "m0WKoCM8cWs",
@@ -25133,7 +25213,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/m0WKoCM8cWs/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "bbO_HqMHFfQ",
@@ -25149,7 +25229,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/bbO_HqMHFfQ/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
+      },
+      {
+        "id": "4Z-oau7hSp0",
+        "title": "Jafaa - Ep 08 - [CC] 12th July 2024 - Sponsored By Salai, Masterpaints & Ujooba Beauty Cream, HUM TV",
+        "episode": 8,
+        "date": "2024-07-12",
+        "published": "2024-07-12T16:00:03Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/4Z-oau7hSp0/hqdefault.jpg",
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "Ag-Zh2cXqYM",
@@ -25165,7 +25261,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Ag-Zh2cXqYM/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "pgB6BBHyxys",
@@ -25181,7 +25277,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pgB6BBHyxys/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "3VF1y3oOipE",
@@ -25197,7 +25293,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3VF1y3oOipE/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "t6tha0wBPZA",
@@ -25213,7 +25309,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/t6tha0wBPZA/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "a5Bz2iMALSI",
@@ -25229,7 +25325,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/a5Bz2iMALSI/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "bNJEhp3o25A",
@@ -25245,7 +25341,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/bNJEhp3o25A/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
         "id": "Lc-UwM_yww0",
@@ -25261,7 +25357,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Lc-UwM_yww0/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
+        "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       }
     ],
     "hum-mann-mayal": [
@@ -29033,6 +29129,6 @@
       }
     ]
   },
-  "cursor": 99,
+  "cursor": 103,
   "apiValidated": true
 }
