@@ -1,6 +1,6 @@
 {
-  "quotaDay": "2026-11-17",
-  "dailySearches": 16,
+  "quotaDay": "2026-11-18",
+  "dailySearches": 8,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -6290,22 +6290,6 @@
         "checkedAt": "2026-11-13T19:49:46.445863+00:00"
       },
       {
-        "id": "vmWz5_NHkhc",
-        "title": "Jaan e Jahan Episode 37 | {Eng Sub} Hamza Ali Abbasi | Ayeza Khan | 10 May 2024 | ARY Digital",
-        "episode": 37,
-        "date": "2024-05-10",
-        "published": "2024-05-10T16:00:56Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/vmWz5_NHkhc/hqdefault.jpg",
-        "checkedAt": "2026-11-04T01:27:56.750748+00:00"
-      },
-      {
         "id": "Rh4YY7ZWcl4",
         "title": "Jaan e Jahan Episode 36 {Eng Sub} Hamza Ali Abbasi | Ayeza Khan | 4 May 2024 | ARY Digital",
         "episode": 36,
@@ -6352,22 +6336,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wSwdJDcQsRM/hqdefault.jpg",
         "checkedAt": "2026-11-13T19:49:46.445863+00:00"
-      },
-      {
-        "id": "mu8cRcZI_10",
-        "title": "Jaan e Jahan Episode 29 (Eng Sub) | Hamza Ali Abbasi | Ayeza Khan | 12 April 2024 | ARY Digital",
-        "episode": 29,
-        "date": "2024-04-12",
-        "published": "2024-04-12T16:00:43Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/mu8cRcZI_10/hqdefault.jpg",
-        "checkedAt": "2026-11-04T01:27:56.750748+00:00"
       },
       {
         "id": "I3dvJpMVBfg",
@@ -6562,22 +6530,6 @@
         "checkedAt": "2026-11-13T19:49:46.445863+00:00"
       },
       {
-        "id": "tep4JVxOyKk",
-        "title": "Jaan e Jahan Episode 11 {Eng Sub} Hamza Ali Abbasi | Ayeza Khan | 26 January 2024 | ARY Digital",
-        "episode": 11,
-        "date": "2024-01-26",
-        "published": "2024-01-26T16:00:09Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/tep4JVxOyKk/hqdefault.jpg",
-        "checkedAt": "2026-11-04T01:27:56.750748+00:00"
-      },
-      {
         "id": "zTABrkCGWCI",
         "title": "Jaan e Jahan Episode 10 {Eng Sub} Hamza Ali Abbasi | Ayeza Khan | 20 January 2024 | ARY Digital",
         "episode": 10,
@@ -6722,22 +6674,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Bu0sQ93Kc48/hqdefault.jpg",
         "checkedAt": "2026-11-14T01:28:51.107335+00:00"
-      },
-      {
-        "id": "v3PUkqGFI-M",
-        "title": "Jalan Episode 28 | Minal Khan | Fahad Sheikh | ARY Digital Drama",
-        "episode": 28,
-        "date": "2020-12-08",
-        "published": "2020-12-08T15:56:06Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/v3PUkqGFI-M/hqdefault.jpg",
-        "checkedAt": "2026-11-04T01:27:56.750748+00:00"
       },
       {
         "id": "OtHd8uDQb-k",
@@ -6932,22 +6868,6 @@
         "checkedAt": "2026-11-14T01:28:51.107335+00:00"
       },
       {
-        "id": "soWQaXiC3MI",
-        "title": "Jalan Episode 14 [Subtitle Eng] - 16th September 2020 - ARY Digital Drama",
-        "episode": 14,
-        "date": "2020-09-16",
-        "published": "2020-09-16T16:49:09Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/soWQaXiC3MI/hqdefault.jpg",
-        "checkedAt": "2026-11-04T01:27:56.750748+00:00"
-      },
-      {
         "id": "VBiSeFTjwmY",
         "title": "Jalan Episode 13 [Subtitle Eng] Presented by Ariel - 9th September 2020 - ARY Digital Drama",
         "episode": 13,
@@ -6994,22 +6914,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zkoGnWpFjHo/hqdefault.jpg",
         "checkedAt": "2026-11-14T01:28:51.107335+00:00"
-      },
-      {
-        "id": "JDOrbtpkF5E",
-        "title": "Jalan Episode 9 - Presented by Ariel [Subtitle Eng] - 12th August 2020 - ARY Digital",
-        "episode": 9,
-        "date": "2020-08-12",
-        "published": "2020-08-12T15:47:43Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/JDOrbtpkF5E/hqdefault.jpg",
-        "checkedAt": "2026-11-04T01:27:56.750748+00:00"
       },
       {
         "id": "UfVyxUZzsK8",
@@ -7074,22 +6978,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9RnlU60Clvo/hqdefault.jpg",
         "checkedAt": "2026-11-14T01:28:51.107335+00:00"
-      },
-      {
-        "id": "1E61U_hNlMQ",
-        "title": "Jalan Episode 4 - Presented by Ariel [Subtitle Eng] - 8th July 2020 - ARY Digital",
-        "episode": 4,
-        "date": "2020-07-08",
-        "published": "2020-07-08T15:49:56Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/1E61U_hNlMQ/hqdefault.jpg",
-        "checkedAt": "2026-11-04T01:27:56.750748+00:00"
       },
       {
         "id": "aF40tK46-lA",
@@ -7158,22 +7046,6 @@
         "checkedAt": "2026-11-14T01:28:51.107335+00:00"
       },
       {
-        "id": "-TVTW9AQvFY",
-        "title": "Kabhi Main Kabhi Tum Episode 32 | Fahad Mustafa | Hania Aamir | 28 Oct 2024  (Eng Sub) | ARY Digital",
-        "episode": 32,
-        "date": "2024-10-28",
-        "published": "2024-10-28T16:40:59Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/-TVTW9AQvFY/hqdefault.jpg",
-        "checkedAt": "2026-11-04T11:06:50.579120+00:00"
-      },
-      {
         "id": "4o79dvaA5Nk",
         "title": "Kabhi Main Kabhi Tum Episode 31 | Fahad Mustafa | Hania Aamir | 22 Oct 2024 (Eng Sub) | ARY Digital",
         "episode": 31,
@@ -7206,22 +7078,6 @@
         "checkedAt": "2026-11-14T01:28:51.107335+00:00"
       },
       {
-        "id": "_88D6l5OSDE",
-        "title": "Kabhi Main Kabhi Tum Episode 28 | Fahad Mustafa | Hania Aamir | 14 Oct 2024 (Eng Sub) | ARY Digital",
-        "episode": 28,
-        "date": "2024-10-14",
-        "published": "2024-10-14T16:05:37Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/_88D6l5OSDE/hqdefault.jpg",
-        "checkedAt": "2026-11-04T11:06:50.579120+00:00"
-      },
-      {
         "id": "rUKxY6_eujE",
         "title": "Kabhi Main Kabhi Tum Episode 27 | Fahad Mustafa | Hania Aamir | 8 Oct 2024 (Eng Sub)  | ARY Digital",
         "episode": 27,
@@ -7252,22 +7108,6 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/Lo3cR2NnKpc/hqdefault.jpg",
         "checkedAt": "2026-11-14T01:28:51.107335+00:00"
-      },
-      {
-        "id": "inqJ47uKqUk",
-        "title": "Kabhi Main Kabhi Tum Episode 24 | Fahad Mustafa | Hania Aamir | 30 Sep 2024 (Eng Sub) | ARY Digital",
-        "episode": 24,
-        "date": "2024-09-30",
-        "published": "2024-09-30T16:00:08Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/inqJ47uKqUk/hqdefault.jpg",
-        "checkedAt": "2026-11-04T11:06:50.579120+00:00"
       },
       {
         "id": "KoIF6nNh51Y",
@@ -7380,22 +7220,6 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/Rv5mGPt5Fdc/hqdefault.jpg",
         "checkedAt": "2026-11-14T01:28:51.107335+00:00"
-      },
-      {
-        "id": "1QSHG4Mw36w",
-        "title": "Kabhi Main Kabhi Tum Episode 13 | Fahad Mustafa | Hania Aamir | 19 August 2024 (Eng Sub) ARY Digital",
-        "episode": 13,
-        "date": "2024-08-19",
-        "published": "2024-08-19T16:05:08Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/1QSHG4Mw36w/hqdefault.jpg",
-        "checkedAt": "2026-11-04T11:06:50.579120+00:00"
       },
       {
         "id": "qeqRKbF4Cwk",
@@ -7978,22 +7802,6 @@
     ],
     "arydigital-mayi-ri": [
       {
-        "id": "ijwOHgAmZ7g",
-        "title": "Mayi Ri | Episode 63 | 4 October 2023 (English Subtitles) ARY Digital Drama",
-        "episode": 63,
-        "date": "2023-10-04",
-        "published": "2023-10-04T15:00:10Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ijwOHgAmZ7g/hqdefault.jpg",
-        "checkedAt": "2026-11-04T11:06:50.579120+00:00"
-      },
-      {
         "id": "l81QKXZHAn4",
         "title": "Mayi Ri | Episode 60 | 1st October 2023 (English Subtitles) ARY Digital Drama",
         "episode": 60,
@@ -8072,22 +7880,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/49FQq1CeHN0/hqdefault.jpg",
         "checkedAt": "2026-11-14T10:37:52.191393+00:00"
-      },
-      {
-        "id": "CT7dTRcvxYA",
-        "title": "Mayi Ri | Episode 47 | 17 September 2023 (English Subtitles) | ARY Digital Drama",
-        "episode": 47,
-        "date": "2023-09-17",
-        "published": "2023-09-17T15:00:10Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/CT7dTRcvxYA/hqdefault.jpg",
-        "checkedAt": "2026-11-04T11:06:50.579120+00:00"
       },
       {
         "id": "zajC8OR6r0w",
@@ -25391,7 +25183,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SfsHJefmCug/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "JbX_wLht0d0",
@@ -25407,7 +25199,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/JbX_wLht0d0/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "AA20M2bxvkk",
@@ -25423,7 +25215,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/AA20M2bxvkk/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "-I098qfuRa8",
@@ -25455,7 +25247,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QCXeerK_K20/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "dsSWSYuRGt4",
@@ -25471,7 +25263,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dsSWSYuRGt4/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "R_b1IIoXZTs",
@@ -25487,7 +25279,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/R_b1IIoXZTs/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "Vqa_ZGJRpCk",
@@ -25503,7 +25295,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Vqa_ZGJRpCk/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "mfqEUOXO9po",
@@ -25519,7 +25311,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mfqEUOXO9po/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
+      },
+      {
+        "id": "eOhgGDfnKlk",
+        "title": "Mann Mayal Episode 22 HUM TV Drama",
+        "episode": 22,
+        "date": "2020-01-26",
+        "published": "2020-01-26T19:39:22Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/eOhgGDfnKlk/hqdefault.jpg",
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "BFabcFFgT5Q",
@@ -25535,7 +25343,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/BFabcFFgT5Q/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "7nx7uhlpAXI",
@@ -25554,6 +25362,38 @@
         "checkedAt": "2026-11-08T06:14:43.422711+00:00"
       },
       {
+        "id": "dY6KmJmu0P0",
+        "title": "Mann Mayal Episode 19 HUM TV Drama",
+        "episode": 19,
+        "date": "2020-01-26",
+        "published": "2020-01-26T19:39:20Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/dY6KmJmu0P0/hqdefault.jpg",
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
+      },
+      {
+        "id": "bpaNiY5MGp0",
+        "title": "Mann Mayal Episode 18 HUM TV Drama",
+        "episode": 18,
+        "date": "2020-01-26",
+        "published": "2020-01-26T19:39:24Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/bpaNiY5MGp0/hqdefault.jpg",
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
+      },
+      {
         "id": "aCRNBojBCcI",
         "title": "Mann Mayal Episode 17 HUM TV Drama",
         "episode": 17,
@@ -25567,7 +25407,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/aCRNBojBCcI/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "2XHN79t3Jmc",
@@ -25583,7 +25423,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2XHN79t3Jmc/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "a-zLAS6SkfE",
@@ -25599,7 +25439,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/a-zLAS6SkfE/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "1-FB_eQbaRc",
@@ -25615,7 +25455,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/1-FB_eQbaRc/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
+      },
+      {
+        "id": "oWJksiG7h1U",
+        "title": "Mann Mayal Episode 13 HUM TV Drama",
+        "episode": 13,
+        "date": "2020-01-26",
+        "published": "2020-01-26T19:39:10Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/oWJksiG7h1U/hqdefault.jpg",
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "gkTcmmZPYcM",
@@ -25631,7 +25487,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/gkTcmmZPYcM/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "7Vj_7OnYyDk",
@@ -25647,7 +25503,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7Vj_7OnYyDk/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "QN28MjyD6uU",
@@ -25663,7 +25519,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QN28MjyD6uU/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "agP7-x4WUiI",
@@ -25679,7 +25535,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/agP7-x4WUiI/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
+      },
+      {
+        "id": "Zq7N4HfWPis",
+        "title": "Mann Mayal Episode 8 HUM TV Drama",
+        "episode": 8,
+        "date": "2020-01-26",
+        "published": "2020-01-26T19:38:54Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Zq7N4HfWPis/hqdefault.jpg",
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "sJYA93GGapw",
@@ -25695,7 +25567,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/sJYA93GGapw/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "32c0wgarx6o",
@@ -25711,7 +25583,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/32c0wgarx6o/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "0m1B-qx5NNo",
@@ -25727,7 +25599,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0m1B-qx5NNo/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "3Jq-65rhtB4",
@@ -25743,7 +25615,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3Jq-65rhtB4/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "4fyqmK8mczU",
@@ -25759,7 +25631,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4fyqmK8mczU/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "pz66HnpyMj8",
@@ -25775,7 +25647,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pz66HnpyMj8/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       }
     ],
     "hum-meem-se-mohabbat": [
@@ -25793,7 +25665,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/IkyPXN9BtfU/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "4EGRfANY41c",
@@ -25809,7 +25681,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4EGRfANY41c/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "foRc77c5ooY",
@@ -25825,7 +25697,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/foRc77c5ooY/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "uVR67RYwYYY",
@@ -25841,7 +25713,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/uVR67RYwYYY/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "zvfzTyfLi3s",
@@ -25857,7 +25729,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zvfzTyfLi3s/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "4Q00U2V5Utg",
@@ -25873,7 +25745,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4Q00U2V5Utg/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
+      },
+      {
+        "id": "_bsQCp1LKtw",
+        "title": "Meem Se Mohabbat - Episode 27 [CC] 19th Mar 2025 - Sponsored By foodpanda, Master Paints, Skin White",
+        "episode": 27,
+        "date": "2025-03-19",
+        "published": "2025-03-19T16:00:46Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/_bsQCp1LKtw/hqdefault.jpg",
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "pOQG18g3UgQ",
@@ -25889,7 +25777,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pOQG18g3UgQ/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "Ng-s0E2-6To",
@@ -25905,7 +25793,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Ng-s0E2-6To/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "s4wVyuWnKgk",
@@ -25937,7 +25825,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dlkdxHmuLTI/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "M_1wsYmEoYM",
@@ -25953,7 +25841,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/M_1wsYmEoYM/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "xpY2EsAt1qA",
@@ -25969,7 +25857,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xpY2EsAt1qA/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "sFcXV_gysak",
@@ -25985,7 +25873,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/sFcXV_gysak/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "tl6S7bgfZf4",
@@ -26001,7 +25889,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/tl6S7bgfZf4/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "0KkbdjOVqNs",
@@ -26017,7 +25905,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0KkbdjOVqNs/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "lRZkMzpeWIM",
@@ -26033,7 +25921,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lRZkMzpeWIM/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "6hZxSd8s9To",
@@ -26049,7 +25937,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6hZxSd8s9To/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "oBuWKkocEg4",
@@ -26065,7 +25953,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/oBuWKkocEg4/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "-q6dduF20G4",
@@ -26081,7 +25969,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-q6dduF20G4/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "N-mZ4gtRJyI",
@@ -26097,7 +25985,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/N-mZ4gtRJyI/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "fxOOCsa227o",
@@ -26113,7 +26001,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fxOOCsa227o/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "WmLAcQfaxq8",
@@ -26129,7 +26017,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/WmLAcQfaxq8/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "tEvsCHQ82VE",
@@ -26145,7 +26033,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/tEvsCHQ82VE/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
+      },
+      {
+        "id": "zdUPHX7WvXA",
+        "title": "Meem Se Mohabbat - Episode 06 [CC] 2nd Jan 2025 - Spons By foodpanda, Master Paints, Skin White",
+        "episode": 6,
+        "date": "2025-01-02",
+        "published": "2025-01-02T16:00:59Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/zdUPHX7WvXA/hqdefault.jpg",
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
+      },
+      {
+        "id": "9IljFnwJPDc",
+        "title": "Meem Se Mohabbat - Episode 05 [CC] 1st Jan 2025 - Spons By Food Panda, Master Paints, Skin White",
+        "episode": 5,
+        "date": "2025-01-01",
+        "published": "2025-01-01T16:00:09Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/9IljFnwJPDc/hqdefault.jpg",
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "3Te6rggFl-s",
@@ -26161,7 +26081,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3Te6rggFl-s/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "xznKnvRjtx0",
@@ -26177,7 +26097,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xznKnvRjtx0/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "8WACNiceN3M",
@@ -26193,7 +26113,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8WACNiceN3M/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "8vmGceEQ5jE",
@@ -26209,7 +26129,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8vmGceEQ5jE/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       }
     ],
     "hum-nadaan": [
@@ -26227,7 +26147,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6Ui0psrX1MY/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "2E2m_vZvpwM",
@@ -26243,7 +26163,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2E2m_vZvpwM/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "6KBCXf62VLA",
@@ -26259,7 +26179,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6KBCXf62VLA/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "XFHy1a2zOzo",
@@ -26275,7 +26195,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XFHy1a2zOzo/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "AhTI4ulT96k",
@@ -26291,7 +26211,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/AhTI4ulT96k/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "cEU5ayXRFao",
@@ -26307,7 +26227,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cEU5ayXRFao/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "AM9zP83GqRY",
@@ -26323,7 +26243,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/AM9zP83GqRY/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       },
       {
         "id": "kqbyZCX0XPg",
@@ -26339,7 +26259,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kqbyZCX0XPg/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
+        "checkedAt": "2026-11-18T11:53:24.537329+00:00"
       }
     ],
     "hum-parizaad": [
@@ -29129,6 +29049,6 @@
       }
     ]
   },
-  "cursor": 103,
+  "cursor": 107,
   "apiValidated": true
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T01:00:54.983085+00:00",
+  "generatedAt": "2026-11-18T11:53:58.550092+00:00",
   "sources": [
     {
       "id": "homebased",
@@ -24,6 +24,26 @@
     }
   ],
   "videos": [
+    {
+      "id": "Z-grd9wGtW4",
+      "title": "𝐄𝐩-12 | सीरतुन नबी ﷺ उँगलियों पर | तेरहवां साल (मक्की दौर) | Hindi | ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-18",
+      "source": "publisher YouTube Data API"
+    },
+    {
+      "id": "6E8i7G8s_U0",
+      "title": "𝐄𝐩-11 | सीरतुन नबी ﷺ उँगलियों पर | बारहवां साल (मक्की दौर) | Hindi | ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-18",
+      "source": "publisher YouTube Data API"
+    },
     {
       "id": "DCmSUvhsj74",
       "title": "The Joy of Quran",
@@ -1125,6 +1145,6 @@
       "source": "verified official teaching upload"
     }
   ],
-  "count": 110,
+  "count": 112,
   "errors": []
 }
