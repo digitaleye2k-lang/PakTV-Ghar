@@ -1,6 +1,6 @@
 {
   "quotaDay": "2026-11-19",
-  "dailySearches": 8,
+  "dailySearches": 16,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -13442,22 +13442,6 @@
         "checkedAt": "2026-11-15T06:44:56.254814+00:00"
       },
       {
-        "id": "QqTqH866xgg",
-        "title": "Kaffara Episode 87 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 14th October 2024",
-        "episode": 87,
-        "date": "2024-10-14",
-        "published": "2024-10-14T17:00:19Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/QqTqH866xgg/hqdefault.jpg",
-        "checkedAt": "2026-11-05T20:03:59.484014+00:00"
-      },
-      {
         "id": "mRf7KeKI1Oc",
         "title": "Kaffara Episode 79 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 7th October 2024",
         "episode": 79,
@@ -13522,22 +13506,6 @@
         "checkedAt": "2026-11-15T06:44:56.254814+00:00"
       },
       {
-        "id": "IxjD0LR1Br0",
-        "title": "Kaffara Episode 53 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 18th September 2024",
-        "episode": 53,
-        "date": "2024-09-18",
-        "published": "2024-09-18T16:00:22Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/IxjD0LR1Br0/hqdefault.jpg",
-        "checkedAt": "2026-11-05T20:03:59.484014+00:00"
-      },
-      {
         "id": "8QQ7pGdHv0c",
         "title": "Kaffara Episode 50 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 15th September 2024",
         "episode": 50,
@@ -13568,22 +13536,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4-7FQDSdQ9o/hqdefault.jpg",
         "checkedAt": "2026-11-15T06:44:56.254814+00:00"
-      },
-      {
-        "id": "25fD8YooAJk",
-        "title": "Kaffara Episode 46 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Ali Ansari - Laiba Khan - Zoya Nasir - Har Pal Geo",
-        "episode": 46,
-        "date": "2024-09-12",
-        "published": "2024-09-12T09:20:01Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/25fD8YooAJk/hqdefault.jpg",
-        "checkedAt": "2026-11-05T20:03:59.484014+00:00"
       },
       {
         "id": "yWYFZqU1MyY",
@@ -13634,38 +13586,6 @@
         "checkedAt": "2026-11-15T06:44:56.254814+00:00"
       },
       {
-        "id": "C7tSv5I5amE",
-        "title": "Kaffara Episode 40 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 5th September 2024",
-        "episode": 40,
-        "date": "2024-09-05",
-        "published": "2024-09-05T17:00:18Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/C7tSv5I5amE/hqdefault.jpg",
-        "checkedAt": "2026-11-05T20:03:59.484014+00:00"
-      },
-      {
-        "id": "y-WqldEGUmQ",
-        "title": "Kaffara Episode 26 - [Eng Sub] - Digitally Presented by Nestlé Nangrow - 22nd Aug 2024 - HAR PAL GEO",
-        "episode": 26,
-        "date": "2024-08-22",
-        "published": "2024-08-22T17:00:48Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/y-WqldEGUmQ/hqdefault.jpg",
-        "checkedAt": "2026-11-05T20:03:59.484014+00:00"
-      },
-      {
         "id": "H54oWz5cfGQ",
         "title": "Kaffara Episode 21 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 17th Aug 2024 - HAR PAL GEO",
         "episode": 21,
@@ -13680,22 +13600,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/H54oWz5cfGQ/hqdefault.jpg",
         "checkedAt": "2026-11-15T06:44:56.254814+00:00"
-      },
-      {
-        "id": "vSZLRF7tKew",
-        "title": "Kaffara Episode 18 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 14th Aug 2024 - HAR PAL GEO",
-        "episode": 18,
-        "date": "2024-08-14",
-        "published": "2024-08-14T17:00:43Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/vSZLRF7tKew/hqdefault.jpg",
-        "checkedAt": "2026-11-05T20:03:59.484014+00:00"
       },
       {
         "id": "DimtWhYRV-U",
@@ -13923,22 +13827,6 @@
       }
     ],
     "harpalgeo-khaali-haath": [
-      {
-        "id": "6AeiH2oGo8M",
-        "title": "Khaali Haath - Episode 25 | Kiran Haq | Shahzad Sheikh | Aimen",
-        "episode": 25,
-        "date": "2020-04-12",
-        "published": "2020-04-12T13:30:01Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/6AeiH2oGo8M/hqdefault.jpg",
-        "checkedAt": "2026-11-05T20:03:59.484014+00:00"
-      },
       {
         "id": "gmxZm_2ZnuU",
         "title": "Khaali Haath - Episode 25 | Har Pal Geo",
@@ -14180,38 +14068,6 @@
         "checkedAt": "2026-11-15T16:26:13.363433+00:00"
       },
       {
-        "id": "mYF8-WIFsxM",
-        "title": "KHAALI HAATH - Episode 10 | Har Pal Geo",
-        "episode": 10,
-        "date": "2017-04-10",
-        "published": "2017-04-10T15:59:25Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/mYF8-WIFsxM/hqdefault.jpg",
-        "checkedAt": "2026-11-05T20:03:59.484014+00:00"
-      },
-      {
-        "id": "I5ZNG83CnTg",
-        "title": "Khaali Haath - Episode 9 | Kiran Haq | Shahzad Sheikh | Aimen",
-        "episode": 9,
-        "date": "2020-04-05",
-        "published": "2020-04-05T11:45:00Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/I5ZNG83CnTg/hqdefault.jpg",
-        "checkedAt": "2026-11-05T20:03:59.484014+00:00"
-      },
-      {
         "id": "DBw-Pm7Ie6k",
         "title": "KHAALI HAATH - Episode 9 | Har Pal Geo",
         "episode": 9,
@@ -14228,22 +14084,6 @@
         "checkedAt": "2026-11-15T16:26:13.363433+00:00"
       },
       {
-        "id": "5LkFiyUf6vc",
-        "title": "KHAALI HAATH - Episode 8 | Har Pal Geo",
-        "episode": 8,
-        "date": "2017-03-27",
-        "published": "2017-03-27T16:00:01Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/5LkFiyUf6vc/hqdefault.jpg",
-        "checkedAt": "2026-11-05T20:03:59.484014+00:00"
-      },
-      {
         "id": "VaLeKYBArXw",
         "title": "KHAALI HAATH - Episode 7 | Har Pal Geo",
         "episode": 7,
@@ -14258,22 +14098,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/VaLeKYBArXw/hqdefault.jpg",
         "checkedAt": "2026-11-15T16:26:13.363433+00:00"
-      },
-      {
-        "id": "7PuBGArELG0",
-        "title": "Khaali Haath - Episode 6 | Kiran Haq | Shahzad Sheikh | Aimen",
-        "episode": 6,
-        "date": "2020-04-05",
-        "published": "2020-04-05T09:45:45Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/7PuBGArELG0/hqdefault.jpg",
-        "checkedAt": "2026-11-05T20:03:59.484014+00:00"
       },
       {
         "id": "B1QmX-M_mcA",
@@ -28388,6 +28212,22 @@
     ],
     "arydigital-izzat": [
       {
+        "id": "qCnMYXhclVA",
+        "title": "Ab Main Aapki Dost Nahi Ban Sakti | Izzat Episode 57 | ARY Digital",
+        "episode": 57,
+        "date": "2026-11-19",
+        "published": "2026-11-19T06:57:43Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/qCnMYXhclVA/hqdefault.jpg",
+        "checkedAt": "2026-11-19T20:45:27.642739+00:00"
+      },
+      {
         "id": "q1oeYejthww",
         "title": "Izzat Episode 50 | 5 November 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
         "episode": 50,
@@ -28405,6 +28245,38 @@
       }
     ],
     "harpalgeo-bano": [
+      {
+        "id": "t-1WAqaKETY",
+        "title": "Bano Episode 36 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 19th Nov 2026 | HAR PAL GEO",
+        "episode": 36,
+        "date": "2026-11-19",
+        "published": "2026-11-19T17:00:30Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/t-1WAqaKETY/hqdefault.jpg",
+        "checkedAt": "2026-11-19T20:45:27.642739+00:00"
+      },
+      {
+        "id": "6yDMqBUJwfw",
+        "title": "Bano Episode 35 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 18th Nov 2026 | HAR PAL GEO",
+        "episode": 35,
+        "date": "2026-11-18",
+        "published": "2026-11-18T17:00:20Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/6yDMqBUJwfw/hqdefault.jpg",
+        "checkedAt": "2026-11-19T20:45:27.642739+00:00"
+      },
       {
         "id": "fHMZtnVT5Gg",
         "title": "Bano Episode 26 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 8th November 2026 | HAR PAL GEO",
@@ -29325,6 +29197,6 @@
       }
     ]
   },
-  "cursor": 2,
+  "cursor": 6,
   "apiValidated": true
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T16:51:16.376548+05:00",
+  "generatedAt": "2026-11-20T01:45:42.958086+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,13 +17,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 15,
-        "time": "16:30",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-19"
       }
     },
     "harpalgeo-nashtar": {
@@ -44,11 +37,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 32,
-        "time": "11:30",
+        "number": 33,
+        "time": "20:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-19"
+        "date": "2026-11-20"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -97,13 +90,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 32,
-        "time": "20:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-19"
       }
     },
     "hum-aangan": {
@@ -125,21 +111,21 @@
       "poster": "https://harpalgeo.tv/assets/uploads/programs/641_9919269_programs.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 33,
-        "id": "LkJL3b4MS9Y",
-        "title": "Bano Episode 33 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "date": "2026-11-17",
+        "number": 36,
+        "id": "t-1WAqaKETY",
+        "title": "Bano Episode 36 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 19th Nov 2026 | HAR PAL GEO",
+        "date": "2026-11-19",
         "source": "Official YouTube upload",
-        "availableGB": true,
+        "availableGB": false,
         "availablePK": true,
         "embeddable": true
       },
       "tvToday": {
-        "number": 36,
+        "number": 37,
         "time": "21:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-19"
+        "date": "2026-11-20"
       }
     },
     "hum-bombay-tailors": {
@@ -1257,9 +1243,9 @@
       "lastAttempt": "2026-11-19T16:51:15.668624+05:00",
       "latestUpload": {
         "number": 25,
-        "id": "6AeiH2oGo8M",
-        "title": "Khaali Haath - Episode 25 | Kiran Haq | Shahzad Sheikh | Aimen",
-        "date": "2020-04-12",
+        "id": "gmxZm_2ZnuU",
+        "title": "Khaali Haath - Episode 25 | Har Pal Geo",
+        "date": "2017-08-07",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
@@ -1729,10 +1715,10 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "hum-yaqeen-ka-safar": {
-      "lastAttempt": "2026-11-13T01:04:04.688630+05:00"
+      "lastAttempt": "2026-11-20T01:45:42.957821+05:00"
     },
     "hum-zindagi-gulzar-hai": {
-      "lastAttempt": "2026-11-13T01:04:04.688774+05:00",
+      "lastAttempt": "2026-11-20T01:45:42.957930+05:00",
       "latestUpload": {
         "number": 26,
         "id": "6ldpYcSAxOg",
