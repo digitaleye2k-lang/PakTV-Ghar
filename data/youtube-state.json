@@ -1,6 +1,6 @@
 {
-  "quotaDay": "2026-11-19",
-  "dailySearches": 24,
+  "quotaDay": "2026-11-20",
+  "dailySearches": 8,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -105,6 +105,54 @@
       }
     ],
     "harpalgeo-uswa": [
+      {
+        "id": "k2h_OrMiNIs",
+        "title": "Uswah Episode 57 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 19th November 2026",
+        "episode": 57,
+        "date": "2026-11-19",
+        "published": "2026-11-19T15:00:01Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/k2h_OrMiNIs/hqdefault.jpg",
+        "checkedAt": "2026-11-20T11:51:42.617028+00:00"
+      },
+      {
+        "id": "ZMsOyXB0mzM",
+        "title": "Uswah Episode 56 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 18th November 2026",
+        "episode": 56,
+        "date": "2026-11-18",
+        "published": "2026-11-18T15:00:04Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ZMsOyXB0mzM/hqdefault.jpg",
+        "checkedAt": "2026-11-20T11:51:42.617028+00:00"
+      },
+      {
+        "id": "sfNhOhI3GpY",
+        "title": "Uswah Episode 55 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 17th November 2026",
+        "episode": 55,
+        "date": "2026-11-17",
+        "published": "2026-11-17T15:00:06Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/sfNhOhI3GpY/hqdefault.jpg",
+        "checkedAt": "2026-11-20T11:51:42.617028+00:00"
+      },
       {
         "id": "QXXJ7tme94Q",
         "title": "Uswah Episode 48 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 9th November 2026",
@@ -15948,22 +15996,6 @@
         "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
-        "id": "NkdhdIa3wsg",
-        "title": "Mohabbat Tum Se Nafrat Hai - Episode 9 | Har Pal Geo",
-        "episode": 9,
-        "date": "2017-06-03",
-        "published": "2017-06-03T18:30:23Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/NkdhdIa3wsg/hqdefault.jpg",
-        "checkedAt": "2026-11-06T11:04:19.051985+00:00"
-      },
-      {
         "id": "a84XJO7w-rw",
         "title": "Mohabbat Tum Se Nafrat Hai - Episode 8 | Har Pal Geo",
         "episode": 8,
@@ -29213,8 +29245,26 @@
         "thumbnail": "https://i.ytimg.com/vi/SzSTgiG2Rew/hqdefault.jpg",
         "checkedAt": "2026-11-20T02:23:17.518531+00:00"
       }
+    ],
+    "hum-gulbahar": [
+      {
+        "id": "dGo9gTg1Lpc",
+        "title": "Gulbahar - Episode 20 - [ENG SUB] 19 Nov 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
+        "episode": 20,
+        "date": "2026-11-19",
+        "published": "2026-11-19T16:00:15Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/dGo9gTg1Lpc/hqdefault.jpg",
+        "checkedAt": "2026-11-20T11:51:42.617028+00:00"
+      }
     ]
   },
-  "cursor": 10,
+  "cursor": 14,
   "apiValidated": true
 }
