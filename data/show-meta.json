@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T01:45:42.958086+05:00",
+  "generatedAt": "2026-11-20T07:23:35.045867+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,6 +17,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 15,
+        "time": "04:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-11-20"
       }
     },
     "harpalgeo-nashtar": {
@@ -82,14 +89,21 @@
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
       "latestPublisherSource": "https://harpalgeo.tv/program/Khafa",
       "latestUpload": {
-        "number": 30,
-        "id": "qcpmjbjS17g",
-        "title": "Khafa Episode 30 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
-        "date": "2026-11-13",
+        "number": 32,
+        "id": "TpmW4qQgwh8",
+        "title": "Khafa Episode 32 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "date": "2026-11-19",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 32,
+        "time": "01:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-11-20"
       }
     },
     "hum-aangan": {

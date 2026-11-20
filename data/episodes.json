@@ -27,6 +27,42 @@
       }
     ]
   },
+  "arydigital-izzat": {
+    "episodes": [
+      {
+        "id": "qCnMYXhclVA",
+        "title": "Ab Main Aapki Dost Nahi Ban Sakti | Izzat Episode 57 | ARY Digital",
+        "episode": 57,
+        "date": "2026-11-19",
+        "published": "2026-11-19T06:57:43Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/qCnMYXhclVA/hqdefault.jpg",
+        "checkedAt": "2026-11-19T20:45:27.642739+00:00"
+      },
+      {
+        "id": "q1oeYejthww",
+        "title": "Izzat Episode 50 | 5 November 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 50,
+        "date": "2026-11-08",
+        "published": "2026-11-08T15:00:05Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/q1oeYejthww/hqdefault.jpg",
+        "checkedAt": "2026-11-09T00:58:35.933821+00:00"
+      }
+    ]
+  },
   "arydigital-hey-fam": {
     "episodes": [
       {
@@ -603,7 +639,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0Yif1LS-bT4/hqdefault.jpg",
-        "checkedAt": "2026-11-09T11:45:19.425535+00:00"
+        "checkedAt": "2026-11-20T02:23:17.518531+00:00"
+      },
+      {
+        "id": "OgVDeLaWZwU",
+        "title": "Kaisa Yeh Ishq 2nd Last Episode 61 [Eng Sub] Zoha Tauqeer - Hashaam Khan | 11th October 2026",
+        "episode": 61,
+        "date": "2026-10-11",
+        "published": "2026-10-11T17:00:19Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/OgVDeLaWZwU/hqdefault.jpg",
+        "checkedAt": "2026-11-20T02:23:17.518531+00:00"
+      },
+      {
+        "id": "sMUAfO57eEA",
+        "title": "Kaisa Yeh Ishq Episode 60 [Eng Sub] Zoha Tauqeer - Hashaam Khan | 10th October 2026 | HAR PAL GEO",
+        "episode": 60,
+        "date": "2026-10-10",
+        "published": "2026-10-10T17:16:39Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/sMUAfO57eEA/hqdefault.jpg",
+        "checkedAt": "2026-11-20T02:23:17.518531+00:00"
       }
     ]
   },
@@ -15710,22 +15778,6 @@
         "checkedAt": "2026-11-15T16:26:13.363433+00:00"
       },
       {
-        "id": "uV3AnZltz4k",
-        "title": "Mann Mast Malang Ep 07 [Eng Sub] Presented by Diamond Paints - Ujooba Beauty Cream - 7th March 2025",
-        "episode": 7,
-        "date": "2025-03-07",
-        "published": "2025-03-07T16:01:04Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/uV3AnZltz4k/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
-      },
-      {
         "id": "51RIBf8FvrU",
         "title": "Mann Mast Malang Episode 06 - [Eng Sub] - Digitally Presented by Diamond Paints - 2nd March 2025",
         "episode": 6,
@@ -15954,22 +16006,6 @@
         "checkedAt": "2026-11-15T22:56:06.984736+00:00"
       },
       {
-        "id": "4IP5WVOsNf0",
-        "title": "Mannat Murad Episode 23 - [Eng Sub] - Digitally Presented by Jhalak Beauty Cream - 12th Dec 2023",
-        "episode": 23,
-        "date": "2023-12-12",
-        "published": "2023-12-12T16:00:03Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/4IP5WVOsNf0/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
-      },
-      {
         "id": "P7H3fl1LKGI",
         "title": "Mannat Murad Episode 21 - [Eng Sub] - Digitally Presented by Jhalak Beauty Cream - 5th December 2023",
         "episode": 21,
@@ -16048,22 +16084,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/CtTBzVF-rEA/hqdefault.jpg",
         "checkedAt": "2026-11-15T22:56:06.984736+00:00"
-      },
-      {
-        "id": "zFgt_4xxULg",
-        "title": "Mannat Murad Episode 16 - [Eng Sub] - Digitally Presented by PEL - 20th November 2023 - Iqra Aziz",
-        "episode": 16,
-        "date": "2023-11-20",
-        "published": "2023-11-20T16:00:44Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/zFgt_4xxULg/hqdefault.jpg",
-        "checkedAt": "2026-11-06T01:36:32.802891+00:00"
       },
       {
         "id": "PNSRYjwnz20",
@@ -28867,42 +28887,6 @@
       }
     ]
   },
-  "arydigital-izzat": {
-    "episodes": [
-      {
-        "id": "qCnMYXhclVA",
-        "title": "Ab Main Aapki Dost Nahi Ban Sakti | Izzat Episode 57 | ARY Digital",
-        "episode": 57,
-        "date": "2026-11-19",
-        "published": "2026-11-19T06:57:43Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/qCnMYXhclVA/hqdefault.jpg",
-        "checkedAt": "2026-11-19T20:45:27.642739+00:00"
-      },
-      {
-        "id": "q1oeYejthww",
-        "title": "Izzat Episode 50 | 5 November 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 50,
-        "date": "2026-11-08",
-        "published": "2026-11-08T15:00:05Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/q1oeYejthww/hqdefault.jpg",
-        "checkedAt": "2026-11-09T00:58:35.933821+00:00"
-      }
-    ]
-  },
   "hum-muamma": {
     "episodes": [
       {
@@ -29616,6 +29600,42 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/ksnQXUQHgnE/hqdefault.jpg",
         "checkedAt": "2026-11-18T20:39:16.999769+00:00"
+      }
+    ]
+  },
+  "harpalgeo-khafa": {
+    "episodes": [
+      {
+        "id": "TpmW4qQgwh8",
+        "title": "Khafa Episode 32 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 32,
+        "date": "2026-11-19",
+        "published": "2026-11-19T22:30:19Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/TpmW4qQgwh8/hqdefault.jpg",
+        "checkedAt": "2026-11-20T02:23:17.518531+00:00"
+      },
+      {
+        "id": "SzSTgiG2Rew",
+        "title": "Khafa Episode 32 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 19th Nov 2026 | HAR PAL GEO",
+        "episode": 32,
+        "date": "2026-11-19",
+        "published": "2026-11-19T16:00:16Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/SzSTgiG2Rew/hqdefault.jpg",
+        "checkedAt": "2026-11-20T02:23:17.518531+00:00"
       }
     ]
   }
