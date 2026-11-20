@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T16:52:16.498944+05:00",
+  "generatedAt": "2026-11-21T01:29:39.225435+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,13 +17,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 15,
-        "time": "04:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-20"
       }
     },
     "harpalgeo-nashtar": {
@@ -44,11 +37,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 33,
+        "number": 34,
         "time": "20:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-20"
+        "date": "2026-11-21"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -97,13 +90,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 32,
-        "time": "01:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-20"
       }
     },
     "hum-aangan": {
@@ -135,11 +121,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 37,
+        "number": 38,
         "time": "21:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-20"
+        "date": "2026-11-21"
       }
     },
     "hum-bombay-tailors": {
@@ -242,12 +228,12 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/Khushi-500.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 65,
-        "id": "vv0wQ4vLiRM",
-        "title": "Khushi - Episode 65 - [Eng Sub] 16th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "date": "2026-11-16",
+        "number": 69,
+        "id": "lyPplOgbgKs",
+        "title": "Khushi - Episode 69 - 20th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "date": "2026-11-20",
         "source": "Official YouTube upload",
-        "availableGB": true,
+        "availableGB": false,
         "availablePK": true,
         "embeddable": true
       }
@@ -322,12 +308,12 @@
       "poster": "https://humenglish341f88e60e.blob.core.windows.net/humenglish/Hum_Tv/uploads/2026/09/TT-500.jpg.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 25,
-        "id": "gBsU06jK2AE",
-        "title": "Tark-e-Tamanna - Episode 25 - [Eng Sub] 16 Nov 2026 | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
-        "date": "2026-11-16",
+        "number": 29,
+        "id": "ohj-GMdpmZI",
+        "title": "Tark-e-Tamanna - Last Episode 29 [Eng Sub] - 19th Nov 2026 | ft. Mirza Zain Baig & Janice Tessa |",
+        "date": "2026-11-20",
         "source": "Official YouTube upload",
-        "availableGB": true,
+        "availableGB": false,
         "availablePK": true,
         "embeddable": true
       }

@@ -1,15 +1,125 @@
 {
   "videos": [
     {
+      "id": "ohj-GMdpmZI",
+      "title": "Tark-e-Tamanna - Last Episode 29 [Eng Sub] - 19th Nov 2026 | ft. Mirza Zain Baig & Janice Tessa |",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "category": "dramas",
+      "date": "2026-11-20",
+      "published": "2026-11-20T17:00:26Z",
+      "description": "Verified broadcaster-channel upload",
+      "availableGB": false,
+      "availablePK": true,
+      "embeddable": true
+    },
+    {
+      "id": "tX8DGm_IYgM",
+      "title": "Full UNCENSORED Podcast with Engineer Muhammad Ali Mirza on Islam, Pakistan and Blasphemy  #TPE 282",
+      "channel": "The Pakistan Experience",
+      "channelId": "pakexperience",
+      "youtubeChannelId": "UCaaWywA8uDHWz-A2_rTbrTg",
+      "category": "vloggers",
+      "date": "2026-11-20",
+      "published": "2026-11-20T16:00:06+00:00",
+      "description": "Official upload from The Pakistan Experience"
+    },
+    {
+      "id": "Y47osX1f-Zk",
+      "title": "Abdul El Sayed, Zohran Mamdani and the Hypocrisy of Pakistanis - Shehzad Ghias - #TPE",
+      "channel": "The Pakistan Experience",
+      "channelId": "pakexperience",
+      "youtubeChannelId": "UCaaWywA8uDHWz-A2_rTbrTg",
+      "category": "vloggers",
+      "date": "2026-11-20",
+      "published": "2026-11-20T16:00:05+00:00",
+      "description": "Official upload from The Pakistan Experience"
+    },
+    {
+      "id": "lyPplOgbgKs",
+      "title": "Khushi - Episode 69 - 20th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "category": "dramas",
+      "date": "2026-11-20",
+      "published": "2026-11-20T15:00:04Z",
+      "description": "Verified broadcaster-channel upload",
+      "availableGB": false,
+      "availablePK": true,
+      "embeddable": true
+    },
+    {
+      "id": "Mi4Ng9U-s4o",
+      "title": "The birth of the Bangladesh movement",
+      "channel": "The Pakistan Experience",
+      "channelId": "pakexperience",
+      "youtubeChannelId": "UCaaWywA8uDHWz-A2_rTbrTg",
+      "category": "vloggers",
+      "date": "2026-11-20",
+      "published": "2026-11-20T14:30:20+00:00",
+      "description": "Official upload from The Pakistan Experience"
+    },
+    {
+      "id": "drGiweF_sqo",
+      "title": "♥️♥️ #shortsfeed #trending ￼",
+      "channel": "Haim & Parishay Khan",
+      "channelId": "haimparishay",
+      "youtubeChannelId": "UC6jgnXHUJ4eDjrvHJNtAUYg",
+      "category": "kids",
+      "date": "2026-11-20",
+      "published": "2026-11-20T14:09:31+00:00",
+      "description": "Official upload from Haim & Parishay Khan"
+    },
+    {
+      "id": "1Nn7EEHF3Mo",
+      "title": "♥️😍 #shortsfeed #trending",
+      "channel": "Haim & Parishay Khan",
+      "channelId": "haimparishay",
+      "youtubeChannelId": "UC6jgnXHUJ4eDjrvHJNtAUYg",
+      "category": "kids",
+      "date": "2026-11-20",
+      "published": "2026-11-20T14:06:59+00:00",
+      "description": "Official upload from Haim & Parishay Khan"
+    },
+    {
+      "id": "uLC409ESVbM",
+      "title": "2nd Day Highlights | 3 Days Sunnah Inspired Ijtima | 19 Nov 2026 | Dhaka, Bangladesh",
+      "channel": "Kids Madani Channel",
+      "channelId": "kidsmadani",
+      "youtubeChannelId": "UC7xiEjMTy-8EvujnY4K6Mvw",
+      "category": "kids",
+      "date": "2026-11-20",
+      "published": "2026-11-20T13:34:55+00:00",
+      "description": "Official upload from Kids Madani Channel"
+    },
+    {
+      "id": "PNSpf5I1aXQ",
+      "title": "Did Ayub Khan create Bangladesh?",
+      "channel": "The Pakistan Experience",
+      "channelId": "pakexperience",
+      "youtubeChannelId": "UCaaWywA8uDHWz-A2_rTbrTg",
+      "category": "vloggers",
+      "date": "2026-11-20",
+      "published": "2026-11-20T13:00:05+00:00",
+      "description": "Official upload from The Pakistan Experience"
+    },
+    {
       "id": "Ccau4-xYJaA",
       "title": "Pakistan Crush Srilanka",
       "channel": "Wasay Habib",
       "channelId": "wasay",
       "youtubeChannelId": "UCs2-8ztgdlRqpbpHvfFFPFQ",
       "category": "sports",
+      "genre": "Sports analysis & creators",
       "date": "2026-11-20",
-      "published": "2026-11-20T11:45:10+00:00",
-      "description": "Official upload from Wasay Habib"
+      "published": "2026-11-20T11:45:10Z",
+      "description": "Video from the publisher’s YouTube channel",
+      "durationSeconds": 962,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": false,
+      "thumbnail": "https://i.ytimg.com/vi/Ccau4-xYJaA/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
     },
     {
       "id": "pkzvfBmHVe4",
@@ -374,17 +484,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/BxvGHPa-Sl0/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "tX8DGm_IYgM",
-      "title": "Full UNCENSORED Podcast with Engineer Muhammad Ali Mirza on Islam, Pakistan and Blasphemy  #TPE 282",
-      "channel": "The Pakistan Experience",
-      "channelId": "pakexperience",
-      "youtubeChannelId": "UCaaWywA8uDHWz-A2_rTbrTg",
-      "category": "vloggers",
-      "date": "2026-11-20",
-      "published": "2026-11-20T05:35:45+00:00",
-      "description": "Official upload from The Pakistan Experience"
     },
     {
       "id": "TpmW4qQgwh8",
@@ -1348,6 +1447,19 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/VjCR1N4oDx0/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "d7Rl4D26jJ4",
+      "title": "Khushi - Episode 67 - [Eng Sub] 18th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "category": "dramas",
+      "date": "2026-11-18",
+      "published": "2026-11-18T15:00:06Z",
+      "description": "Verified broadcaster-channel upload",
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true
     },
     {
       "id": "ZMsOyXB0mzM",
@@ -10264,17 +10376,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "dJruW-_JXFo",
-      "title": "Maryam Nawaz Gives New Orders! Important Developments in Punjab | Headlines 08AM | Neo News",
-      "channel": "Matiullah Jan MJtv",
-      "channelId": "matiullah",
-      "youtubeChannelId": "UCAsvFcpUQegneSh0QAUd64A",
-      "category": "vloggers",
-      "date": "2026-11-17",
-      "published": "2026-11-17T03:32:22+00:00",
-      "description": "Official upload from Matiullah Jan MJtv"
-    },
-    {
       "id": "Nmz_C0x14BI",
       "title": "Chaudhry Salik Hussain Sends Legal Notice to Azma Bukhari | 07 AM News Headlines | Samaa TV",
       "channel": "SAMAA TV",
@@ -10455,17 +10556,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "xNpvocRgFJE",
-      "title": "New Elections in Israel? Netanyahu Faces Another Challenge | Headlines 06AM | Neo News",
-      "channel": "Matiullah Jan MJtv",
-      "channelId": "matiullah",
-      "youtubeChannelId": "UCAsvFcpUQegneSh0QAUd64A",
-      "category": "vloggers",
-      "date": "2026-11-17",
-      "published": "2026-11-17T01:35:05+00:00",
-      "description": "Official upload from Matiullah Jan MJtv"
-    },
-    {
       "id": "6dr0cu6-tyo",
       "title": "Apne Aap Ko Daldal Mein Dhakel Diya Tumne 😔💔 || Bano || Har Pal Geo",
       "channel": "Har Pal Geo",
@@ -10536,17 +10626,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/Uguwiv_eepQ/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "kCqi-HYfhMA",
-      "title": "Historic Petrol Price Cut? Government Give Major Relief | Headlines 04AM | Neo News",
-      "channel": "Matiullah Jan MJtv",
-      "channelId": "matiullah",
-      "youtubeChannelId": "UCAsvFcpUQegneSh0QAUd64A",
-      "category": "vloggers",
-      "date": "2026-11-17",
-      "published": "2026-11-17T00:13:56+00:00",
-      "description": "Official upload from Matiullah Jan MJtv"
     },
     {
       "id": "pdCxS-eYX-o",
@@ -10657,17 +10736,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "MVErKkDLKL8",
-      "title": "Iran’s Major Announcement! Is a New Conflict Imminent? | Headlines 03AM | Neo News",
-      "channel": "Matiullah Jan MJtv",
-      "channelId": "matiullah",
-      "youtubeChannelId": "UCAsvFcpUQegneSh0QAUd64A",
-      "category": "vloggers",
-      "date": "2026-11-16",
-      "published": "2026-11-16T22:33:01+00:00",
-      "description": "Official upload from Matiullah Jan MJtv"
-    },
-    {
       "id": "pG5z4EJzY6A",
       "title": "Mohabbat Episode 14 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Feroze Khan - Saniya Shamshad - Nawal Saeed | HAR PAL GEO",
       "channel": "Har Pal Geo",
@@ -10776,17 +10844,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "Uey2IrLHd2Y",
-      "title": "Is Iran Preparing a Major Strike? US Military Bases in Focus! | Headlines 02AM | Neo News",
-      "channel": "Matiullah Jan MJtv",
-      "channelId": "matiullah",
-      "youtubeChannelId": "UCAsvFcpUQegneSh0QAUd64A",
-      "category": "vloggers",
-      "date": "2026-11-16",
-      "published": "2026-11-16T21:17:31+00:00",
-      "description": "Official upload from Matiullah Jan MJtv"
-    },
-    {
       "id": "kPl_KjqKwCM",
       "title": "Kabhi Apni Beti Ko Maaf Nahin Karungi 😡💔 || Bano || Har Pal Geo",
       "channel": "Har Pal Geo",
@@ -10877,17 +10934,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "h6jVckgXPLs",
-      "title": "Maryam Nawaz vs Chaudhry Salik! Shehbaz Sharif's Big Mistake? Punjab Govt in Trouble? Neo News",
-      "channel": "Matiullah Jan MJtv",
-      "channelId": "matiullah",
-      "youtubeChannelId": "UCAsvFcpUQegneSh0QAUd64A",
-      "category": "vloggers",
-      "date": "2026-11-16",
-      "published": "2026-11-16T20:20:12+00:00",
-      "description": "Official upload from Matiullah Jan MJtv"
-    },
-    {
       "id": "-3c11FEDQOg",
       "title": "Bharosa Kabhi Kabhi Bohat Dukh Deta Hai 💔 || Bano || Har Pal Geo",
       "channel": "Har Pal Geo",
@@ -10942,17 +10988,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "CWPwjgcOs0g",
-      "title": "Referendum Called a “Disgraceful” Option! Could It End the Government’s Existence? | NEO News",
-      "channel": "Matiullah Jan MJtv",
-      "channelId": "matiullah",
-      "youtubeChannelId": "UCAsvFcpUQegneSh0QAUd64A",
-      "category": "vloggers",
-      "date": "2026-11-16",
-      "published": "2026-11-16T20:00:02+00:00",
-      "description": "Official upload from Matiullah Jan MJtv"
-    },
-    {
       "id": "AjFPVpJLUCo",
       "title": "🔴 Morning Show Live: Watch Chai, Toast Aur Host | 16-11-2026 | Dawn News Live",
       "channel": "Dawn News",
@@ -10987,28 +11022,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/uBe_CFmCK4s/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "D_RnL0M-xv0",
-      "title": "Babar Awan EXPOSES the Real Game! Khan's Release, 190 Million Pound Case & PTI Leadership Rift! Neo",
-      "channel": "Matiullah Jan MJtv",
-      "channelId": "matiullah",
-      "youtubeChannelId": "UCAsvFcpUQegneSh0QAUd64A",
-      "category": "vloggers",
-      "date": "2026-11-16",
-      "published": "2026-11-16T19:45:07+00:00",
-      "description": "Official upload from Matiullah Jan MJtv"
-    },
-    {
-      "id": "J58FDJwnAe8",
-      "title": "Petrol Prices Reduced in Pakistan! Big Relief for Public | Headlines 12AM | Neo News",
-      "channel": "Matiullah Jan MJtv",
-      "channelId": "matiullah",
-      "youtubeChannelId": "UCAsvFcpUQegneSh0QAUd64A",
-      "category": "vloggers",
-      "date": "2026-11-16",
-      "published": "2026-11-16T19:34:23+00:00",
-      "description": "Official upload from Matiullah Jan MJtv"
     },
     {
       "id": "v8TEiv9pupk",
@@ -11083,17 +11096,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "LQJ3X7S4UTQ",
-      "title": "Imran Khan's Release Pressure Mounts | Major Front Against Field Marshal | PML-N Forward Bloc",
-      "channel": "Sabir Shakir",
-      "channelId": "sabir",
-      "youtubeChannelId": "UCY7eFg5TEMsk_aTqM0pVB4w",
-      "category": "vloggers",
-      "date": "2026-11-16",
-      "published": "2026-11-16T19:20:25+00:00",
-      "description": "Official upload from Sabir Shakir"
-    },
-    {
       "id": "fFhT5cuSlqQ",
       "title": "Petrol Price Reduced | Pakistan Fuel Prices | Latest Update | 12 AM HEADLINES 17 NOV 2026 Aaj News",
       "channel": "Aaj TV Official",
@@ -11164,17 +11166,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/6hhOhlydCwk/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "-ywiCppZfcs",
-      "title": "Referendum Preparations Complete? Big Decision Expected Before New Year! | Sahafi | NEO News",
-      "channel": "Matiullah Jan MJtv",
-      "channelId": "matiullah",
-      "youtubeChannelId": "UCAsvFcpUQegneSh0QAUd64A",
-      "category": "vloggers",
-      "date": "2026-11-16",
-      "published": "2026-11-16T19:08:03+00:00",
-      "description": "Official upload from Matiullah Jan MJtv"
     },
     {
       "id": "gUzg_Dglpv8",
@@ -11337,17 +11328,6 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/1LeOUucsxdI/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "nqTbzS75zb0",
-      "title": "New Provinces in the Making? Govt’s Big Plan Against Referendum Revealed! | Sahafi | NEO News",
-      "channel": "Matiullah Jan MJtv",
-      "channelId": "matiullah",
-      "youtubeChannelId": "UCAsvFcpUQegneSh0QAUd64A",
-      "category": "vloggers",
-      "date": "2026-11-16",
-      "published": "2026-11-16T18:47:31+00:00",
-      "description": "Official upload from Matiullah Jan MJtv"
     },
     {
       "id": "3kAkGHL4Jik",
@@ -11782,17 +11762,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "mH8zHNtfyYA",
-      "title": "Babar Awan EXPOSES Inside Story of Khan's Latter! Secret Deal? | Madd-e-Muqabil | Rauf Klasra | Neo",
-      "channel": "Matiullah Jan MJtv",
-      "channelId": "matiullah",
-      "youtubeChannelId": "UCAsvFcpUQegneSh0QAUd64A",
-      "category": "vloggers",
-      "date": "2026-11-16",
-      "published": "2026-11-16T18:26:05+00:00",
-      "description": "Official upload from Matiullah Jan MJtv"
-    },
-    {
       "id": "IkCrE25b45c",
       "title": "Petrol & Diesel Prices Drop in Pakistan | Big Relief for Public | ARY News 11 PM Headlines",
       "channel": "ARY News",
@@ -11916,6 +11885,78 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/X7QiDaNOhFE/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "2xFEPgkRYX4",
+      "title": "Apni Biwi Ko Auqaat Mein Rakho, Warna Acha Nahi Hoga..! #tarketamanna #janicetessa #humtv",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-11-16",
+      "published": "2026-11-16T18:15:28Z",
+      "description": "When hearts are consumed by hatred, love seems like an impossible dream. But sometimes, the strongest emotions hide behind the deepest resentment. Can two souls find their way to love, or will hatred destroy every chance of togetherness?",
+      "durationSeconds": 198,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/2xFEPgkRYX4/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "EyyPHyNShEg",
+      "title": "Tum aik psycho ho anas!! 😡😱 | Izzat | Merub Ali | ARY Digital Drama",
+      "channel": "ARY Digital",
+      "channelId": "arydigital",
+      "youtubeChannelId": "UC4JCksJF76g_MdzPVBJoC3Q",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-11-16",
+      "published": "2026-11-16T18:15:11Z",
+      "description": "Watch all the episode of Izzat Pakistani Drama Industry's biggest Platform, ARY Digital, is the Hub of exceptional and uninterrupted entertainment. You can watch quality dramas with relatable stories, Original Sound Tracks, Telefilms, and a lot more impressive content in HD.",
+      "durationSeconds": 104,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/EyyPHyNShEg/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "Iunx0cD9Utc",
+      "title": "Tony Tiger Bra Tiktoker Bna Phirta Hai Tu..! #hurmat #dananeer #shaveerjafry  #humtv",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-11-16",
+      "published": "2026-11-16T18:15:01Z",
+      "description": "Hurmat - Episode 13 - [ENG SUB] 16th Nov 2026 - [ Dananeer Mobeen & Shahveer Jafry ] - HUM TV Digitally associated by Vince Digitally presented by Diamond Paints Hurmat is a tale of love, pride, and tested ties. Caught between the heavy demands of honor and the unspoken yearnings of the heart, fragile relationships unravel under the weight of secrets and misunderstandings.",
+      "durationSeconds": 96,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/Iunx0cD9Utc/hqdefault.jpg",
+      "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "wz4_noPBRH4",
+      "title": "Tony Tiger Ka Game Over..!! #hurmat #dananeer #shaveerjafry #humtv",
+      "channel": "HUM TV",
+      "channelId": "hum",
+      "youtubeChannelId": "UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "category": "dramas",
+      "genre": "Dramas",
+      "date": "2026-11-16",
+      "published": "2026-11-16T18:15:00Z",
+      "description": "Hurmat - Episode 13 - [ENG SUB] 16th Nov 2026 - [ Dananeer Mobeen & Shahveer Jafry ] - HUM TV Digitally associated by Vince Digitally presented by Diamond Paints Hurmat is a tale of love, pride, and tested ties. Caught between the heavy demands of honor and the unspoken yearnings of the heart, fragile relationships unravel under the weight of secrets and misunderstandings.",
+      "durationSeconds": 181,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/wz4_noPBRH4/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
     }
   ],
