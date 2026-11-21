@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T16:20:14.370321+05:00",
+  "generatedAt": "2026-11-22T00:25:38.738541+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,13 +17,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 15,
-        "time": "16:30",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-21"
       }
     },
     "harpalgeo-nashtar": {
@@ -34,21 +27,21 @@
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
       "latestPublisherSource": "https://harpalgeo.tv/program/Nashtar",
       "latestUpload": {
-        "number": 29,
-        "id": "UfV-HRa99Og",
-        "title": "Nashtar Episode 29 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
-        "date": "2026-11-08",
+        "number": 34,
+        "id": "18hDt-lssvI",
+        "title": "Nashtar Episode 34 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
+        "date": "2026-11-21",
         "source": "Official YouTube upload",
-        "availableGB": true,
+        "availableGB": false,
         "availablePK": true,
         "embeddable": true
       },
       "tvToday": {
-        "number": 34,
+        "number": 35,
         "time": "20:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-21"
+        "date": "2026-11-22"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -69,12 +62,12 @@
     "harpalgeo-uswa": {
       "lastAttempt": "2026-11-19T16:51:15.260043+05:00",
       "latestUpload": {
-        "number": 57,
-        "id": "k2h_OrMiNIs",
-        "title": "Uswah Episode 57 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 19th November 2026",
-        "date": "2026-11-19",
+        "number": 59,
+        "id": "cWfeJ0Jf-t0",
+        "title": "Uswah Episode 59 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 21st November 2026",
+        "date": "2026-11-21",
         "source": "Official YouTube upload",
-        "availableGB": true,
+        "availableGB": false,
         "availablePK": true,
         "embeddable": true
       },
@@ -97,13 +90,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 32,
-        "time": "00:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-21"
       }
     },
     "hum-aangan": {
@@ -125,21 +111,21 @@
       "poster": "https://harpalgeo.tv/assets/uploads/programs/641_9919269_programs.jpg",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 36,
-        "id": "t-1WAqaKETY",
-        "title": "Bano Episode 36 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 19th Nov 2026 | HAR PAL GEO",
-        "date": "2026-11-19",
+        "number": 38,
+        "id": "UwoV1V76f_Y",
+        "title": "Bano Episode 38 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 21st Nov 2026 | HAR PAL GEO",
+        "date": "2026-11-21",
         "source": "Official YouTube upload",
         "availableGB": false,
         "availablePK": true,
         "embeddable": true
       },
       "tvToday": {
-        "number": 38,
+        "number": 39,
         "time": "21:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-21"
+        "date": "2026-11-22"
       }
     },
     "hum-bombay-tailors": {

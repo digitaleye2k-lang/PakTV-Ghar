@@ -18,6 +18,14 @@
         "checkedAt": "2026-11-20T20:29:19.616697+00:00"
       },
       {
+        "title": "Khushi - Episode 68 Highlights - Nov 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
+        "episode": 68,
+        "id": "xrJa3fU5NHA",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-11-20"
+      },
+      {
         "id": "d7Rl4D26jJ4",
         "title": "Khushi - Episode 67 - [Eng Sub] 18th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
         "episode": 67,
@@ -70,6 +78,14 @@
   "hum-gulbahar": {
     "episodes": [
       {
+        "title": "Gulbahar - Highlights - Episode 20 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
+        "episode": 20,
+        "id": "F0PecI9fgPI",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-11-20"
+      },
+      {
         "id": "dGo9gTg1Lpc",
         "title": "Gulbahar - Episode 20 - [ENG SUB] 19 Nov 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
         "episode": 20,
@@ -84,6 +100,26 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dGo9gTg1Lpc/hqdefault.jpg",
         "checkedAt": "2026-11-20T11:51:42.617028+00:00"
+      }
+    ]
+  },
+  "hum-aangan": {
+    "episodes": [
+      {
+        "title": "Aangan - Episode 15 [Eng Sub] - 20th Nov 2026 [Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain]",
+        "episode": 15,
+        "id": "5RRWNhZ3LwA",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Aangan - Episode 14 - Flashback [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
+        "episode": 14,
+        "id": "W1KHH7YU0l0",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-11-20"
       }
     ]
   },
@@ -104,6 +140,14 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ohj-GMdpmZI/hqdefault.jpg",
         "checkedAt": "2026-11-20T20:29:19.616697+00:00"
+      },
+      {
+        "title": "Tark-e-Tamanna - Episode 28 Highlights | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
+        "episode": 28,
+        "id": "LhDxRZM1uy8",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-11-20"
       },
       {
         "id": "XQoQrNn0k3o",
@@ -159,6 +203,42 @@
       }
     ]
   },
+  "arydigital-dar-e-nijaat": {
+    "episodes": [
+      {
+        "title": "Dar-e-Nijaat Episode 32 | 20 NOV 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
+        "episode": 32,
+        "id": "0bQept68Ayk",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Dar-e-Nijaat Episode 32 | 20 November 2026 | Sheheryar Munawar | Dur-e-Fishan | ARY Digital",
+        "episode": 32,
+        "id": "iTd0uPq4OsU",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-20"
+      },
+      {
+        "id": "wKGx32p8Bfg",
+        "title": "Dar-e-Nijaat Episode 29 | 7 November 2026 | ENG SUB | Sheheryar Munawar | Dur-e-Fishan | ARY Digital",
+        "episode": 29,
+        "date": "2026-11-07",
+        "published": "2026-11-07T16:00:34Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/wKGx32p8Bfg/hqdefault.jpg",
+        "checkedAt": "2026-11-09T00:58:35.933821+00:00"
+      }
+    ]
+  },
   "arydigital-hey-fam": {
     "episodes": [
       {
@@ -182,6 +262,14 @@
   "arydigital-lagan-lagi": {
     "episodes": [
       {
+        "title": "Lagan Lagi Episode 22 | 20 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 22,
+        "id": "2t-PgiQiD3M",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-20"
+      },
+      {
         "id": "whHUjgEd4xg",
         "title": "Lagan Lagi Episode 22 | 20 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
         "episode": 22,
@@ -196,6 +284,30 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/whHUjgEd4xg/hqdefault.jpg",
         "checkedAt": "2026-11-21T02:25:55.336770+00:00"
+      },
+      {
+        "title": "Divorce Papers Par Sign Karo! | Lagan Lagi Episode 21",
+        "episode": 21,
+        "id": "YazbZMnFFmo",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Lagan Lagi Episode 21 | Best Scene | ARY Digital",
+        "episode": 21,
+        "id": "UHRPNn23a5E",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Lagan Lagi EP 21 Best Scene | ARY Digital Drama",
+        "episode": 21,
+        "id": "cogGx0LMK_s",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-20"
       },
       {
         "id": "N_8zpc3VNC4",
@@ -423,42 +535,6 @@
       }
     ]
   },
-  "harpalgeo-mohabbat": {
-    "episodes": [
-      {
-        "title": "Mohabbat Episode 15 [Eng Sub] Feroze Khan - Nawal Saeed | 17th November 2026 - HAR PAL GEO",
-        "episode": 15,
-        "id": "JaG9A6ZoZ60",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-17"
-      },
-      {
-        "title": "Recap Mohabbat Episode 14 - 17th November 2026 - Har Pal Geo",
-        "episode": 14,
-        "id": "aNN2L7Q0yv0",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-17"
-      },
-      {
-        "id": "OM9zgC2_J8I",
-        "title": "Mohabbat Episode 13 [Eng Sub] Feroze Khan - Nawal Saeed | 9th November 2026 - HAR PAL GEO",
-        "episode": 13,
-        "date": "2026-11-09",
-        "published": "2026-11-09T16:00:23Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/OM9zgC2_J8I/hqdefault.jpg",
-        "checkedAt": "2026-11-09T22:28:51.373387+00:00"
-      }
-    ]
-  },
   "harpalgeo-uswa": {
     "episodes": [
       {
@@ -628,30 +704,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6yDMqBUJwfw/hqdefault.jpg",
         "checkedAt": "2026-11-19T20:45:27.642739+00:00"
-      },
-      {
-        "title": "Bano Episode 33 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 33,
-        "id": "LkJL3b4MS9Y",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-17"
-      },
-      {
-        "title": "Bano Episode 33 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 33,
-        "id": "1jE2Bk5KNTk",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-17"
-      },
-      {
-        "title": "Bano Episode 33 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 33,
-        "id": "PIqVGqbyxLA",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-17"
       },
       {
         "id": "fHMZtnVT5Gg",
@@ -987,7 +1039,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_kbFqp2nfmM/hqdefault.jpg",
-        "checkedAt": "2026-11-11T06:39:33.547695+00:00"
+        "checkedAt": "2026-11-21T19:25:01.518761+00:00"
       },
       {
         "id": "yxYz6Y2Kyyo",
@@ -1003,7 +1055,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yxYz6Y2Kyyo/hqdefault.jpg",
-        "checkedAt": "2026-11-11T06:39:33.547695+00:00"
+        "checkedAt": "2026-11-21T19:25:01.518761+00:00"
       }
     ]
   },
@@ -1023,7 +1075,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vbSfVB_VkrM/hqdefault.jpg",
-        "checkedAt": "2026-11-11T17:14:46.093271+00:00"
+        "checkedAt": "2026-11-21T19:25:01.518761+00:00"
       },
       {
         "id": "X9wTUew8Ze4",
@@ -21758,22 +21810,6 @@
         "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
-        "id": "aZzYKLYGMpA",
-        "title": "Fairy Tale 2 - Last Ep 15 - PART 01 - 25 NOV 2023 - Sponsored By BrookeBond Supreme, Glow & Lovely",
-        "episode": 15,
-        "date": "2023-11-25",
-        "published": "2023-11-25T16:00:02Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/aZzYKLYGMpA/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
-      },
-      {
         "id": "1-5-kcRE_EA",
         "title": "Fairy Tale EP 13 - 4th Apr 23 - Presented By Sunsilk, Powered By Glow & Lovely, Associated By Walls",
         "episode": 13,
@@ -21820,22 +21856,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Xg02NZt3Yfg/hqdefault.jpg",
         "checkedAt": "2026-11-17T16:11:32.460647+00:00"
-      },
-      {
-        "id": "A07sX5Xc9QY",
-        "title": "Fairy Tale 2 EP 09 - PART 01 [CC] 07 OCT - Presented By BrookeBond Supreme, Glow & Lovely, & Sunsilk",
-        "episode": 9,
-        "date": "2023-10-07",
-        "published": "2023-10-07T16:00:07Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/A07sX5Xc9QY/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
       },
       {
         "id": "UB53hLzGbxw",
@@ -21950,22 +21970,6 @@
         "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
-        "id": "wkYFVainKWg",
-        "title": "Fairy Tale 2 EP 04 PART 01 [CC] - 26 Aug - Presented By BrookeBond Supreme, Glow & Lovely, & Sunsilk",
-        "episode": 4,
-        "date": "2023-08-26",
-        "published": "2023-08-26T16:00:08Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/wkYFVainKWg/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
-      },
-      {
         "id": "33vDcNl0MYI",
         "title": "Fairy Tale EP 04 - 26 Mar 23 - Presented By Sunsilk, Powered By Glow & Lovely, Associated By Walls",
         "episode": 4,
@@ -22012,22 +22016,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nzl1m5OJOnc/hqdefault.jpg",
         "checkedAt": "2026-11-17T16:11:32.460647+00:00"
-      },
-      {
-        "id": "BsmrGAn2aS0",
-        "title": "Fairy Tale 2 Mega EP 02 - PART 02 [CC]  12 Aug 23 - Powered By Glow & Lovely & Associated By Sunsilk",
-        "episode": 2,
-        "date": "2023-08-12",
-        "published": "2023-08-12T17:00:07Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/BsmrGAn2aS0/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
       },
       {
         "id": "6F0wI7ybdKc",
@@ -22113,22 +22101,6 @@
   },
   "hum-fairy-tale-2": {
     "episodes": [
-      {
-        "id": "shwFpTL7av4",
-        "title": "Fairy Tale 2 - Last Ep 15 - PART 02 - 25 NOV 2023 - Sponsored By BrookeBond Supreme, Glow & Lovely",
-        "episode": 15,
-        "date": "2023-11-25",
-        "published": "2023-11-25T17:00:41Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/shwFpTL7av4/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
-      },
       {
         "id": "aZzYKLYGMpA",
         "title": "Fairy Tale 2 - Last Ep 15 - PART 01 - 25 NOV 2023 - Sponsored By BrookeBond Supreme, Glow & Lovely",
@@ -22482,22 +22454,6 @@
         "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
-        "id": "R6SKOPaDoFc",
-        "title": "Fairy Tale 2 EP 03 - PART 02 [CC] 19 Aug - Presented By BrookeBond Supreme, Glow & Lovely, & Sunsilk",
-        "episode": 3,
-        "date": "2023-08-19",
-        "published": "2023-08-19T16:45:07Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/R6SKOPaDoFc/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
-      },
-      {
         "id": "66UCsI2Ggbo",
         "title": "Fairy Tale 2 EP 03 - PART 01 [CC] 19 Aug - Presented By BrookeBond Supreme, Glow & Lovely, & Sunsilk",
         "episode": 3,
@@ -22758,22 +22714,6 @@
         "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
-        "id": "z6IchBIpmlY",
-        "title": "Hum Tum - Ep 16 - 18 Apr 22 - Presented By Lipton, Powered By Master Paints & Canon Home Appliances",
-        "episode": 16,
-        "date": "2022-04-18",
-        "published": "2022-04-18T17:00:14Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/z6IchBIpmlY/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
-      },
-      {
         "id": "-b5b-T7QxSU",
         "title": "Hum Tum - Ep 15 - 17 Apr 22 - Presented By Lipton, Powered By Master Paints & Canon Home Appliances",
         "episode": 15,
@@ -22916,22 +22856,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pWX0j_VAhe0/hqdefault.jpg",
         "checkedAt": "2026-11-18T01:00:13.353030+00:00"
-      },
-      {
-        "id": "n_TKrB1wruc",
-        "title": "Hum Tum - Ep 06 - 08 Apr 22 - Presented By Lipton, Powered By Master Paints & Canon Home Appliances",
-        "episode": 6,
-        "date": "2022-04-08",
-        "published": "2022-04-08T17:00:11Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/n_TKrB1wruc/hqdefault.jpg",
-        "checkedAt": "2026-11-07T17:46:00.709433+00:00"
       },
       {
         "id": "0Yo4AH9SB9o",
@@ -28395,26 +28319,6 @@
       }
     ]
   },
-  "arydigital-dar-e-nijaat": {
-    "episodes": [
-      {
-        "id": "wKGx32p8Bfg",
-        "title": "Dar-e-Nijaat Episode 29 | 7 November 2026 | ENG SUB | Sheheryar Munawar | Dur-e-Fishan | ARY Digital",
-        "episode": 29,
-        "date": "2026-11-07",
-        "published": "2026-11-07T16:00:34Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/wKGx32p8Bfg/hqdefault.jpg",
-        "checkedAt": "2026-11-09T00:58:35.933821+00:00"
-      }
-    ]
-  },
   "harpalgeo-humrahi": {
     "episodes": [
       {
@@ -28431,7 +28335,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7MI7S4KsaXE/hqdefault.jpg",
-        "checkedAt": "2026-11-11T17:14:46.093271+00:00"
+        "checkedAt": "2026-11-21T19:25:01.518761+00:00"
       },
       {
         "id": "NCXN9Y4tObg",
@@ -28448,6 +28352,26 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/NCXN9Y4tObg/hqdefault.jpg",
         "checkedAt": "2026-11-11T17:14:46.093271+00:00"
+      }
+    ]
+  },
+  "harpalgeo-mohabbat": {
+    "episodes": [
+      {
+        "id": "OM9zgC2_J8I",
+        "title": "Mohabbat Episode 13 [Eng Sub] Feroze Khan - Nawal Saeed | 9th November 2026 - HAR PAL GEO",
+        "episode": 13,
+        "date": "2026-11-09",
+        "published": "2026-11-09T16:00:23Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/OM9zgC2_J8I/hqdefault.jpg",
+        "checkedAt": "2026-11-09T22:28:51.373387+00:00"
       }
     ]
   },
