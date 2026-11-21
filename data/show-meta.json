@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T01:29:39.225435+05:00",
+  "generatedAt": "2026-11-21T07:26:23.816326+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,6 +17,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 15,
+        "time": "16:30",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-11-21"
       }
     },
     "harpalgeo-nashtar": {
@@ -90,6 +97,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 32,
+        "time": "00:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-11-21"
       }
     },
     "hum-aangan": {
@@ -336,13 +350,13 @@
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2FPoster_Image_280x400_With_Logo_1791124391063_c79ece2290.webp&w=1920&q=75",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 18,
-        "id": "LKcJf5wHnyM",
-        "title": "Lagan Lagi Episode 18 | 16 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
-        "date": "2026-11-16",
+        "number": 22,
+        "id": "whHUjgEd4xg",
+        "title": "Lagan Lagi Episode 22 | 20 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "date": "2026-11-20",
         "source": "Official YouTube upload",
-        "availableGB": false,
-        "availablePK": true,
+        "availableGB": true,
+        "availablePK": false,
         "embeddable": true
       }
     },
@@ -1608,10 +1622,10 @@
       "latestPublisherLabel": "Highest full episode listed on broadcaster website",
       "latestPublisherSource": "https://harpalgeo.tv/program/Siyani",
       "latestUpload": {
-        "number": 128,
-        "id": "feOAbqZsMsc",
-        "title": "Siyani Mega Ep 128 - [Eng Sub] - Anmol Baloch - Mohsin Abbas Haider -Saniya Shamshad - 18th Dec 2022",
-        "date": "2022-12-18",
+        "number": 108,
+        "id": "tiHYfPWoVTs",
+        "title": "Siyani Episode 108 - [Eng Sub]- Anmol Baloch - Mohsin Abbas Haider - Saniya Shamshad - 1st Dec 2022",
+        "date": "2022-12-01",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
