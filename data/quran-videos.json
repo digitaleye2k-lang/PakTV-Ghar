@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T02:26:27.226572+00:00",
+  "generatedAt": "2026-11-21T11:20:17.027787+00:00",
   "sources": [
     {
       "id": "homebased",
@@ -24,6 +24,36 @@
     }
   ],
   "videos": [
+    {
+      "id": "gyPAfpmJ0LY",
+      "title": "𝐄𝐩-24 | सीरतुन नबी ﷺ उँगलियों पर | नवां हिजरी साल (मदनी ज़िन्दगी) | Hindi | ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-21",
+      "source": "publisher YouTube Data API"
+    },
+    {
+      "id": "ZAqfzayAgsY",
+      "title": "𝐄𝐩-27 | सीरतुन नबी ﷺ उँगलियों पर | आठवां हिजरी साल (मदनी ज़िन्दगी) | Hindi | ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-21",
+      "source": "publisher YouTube Data API"
+    },
+    {
+      "id": "EPh3dnFELIg",
+      "title": "𝐄𝐩-26 | सीरतुन नबी ﷺ उँगलियों पर | ईआदा मदनी दौर का | Hindi | ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-21",
+      "source": "publisher YouTube Data API"
+    },
     {
       "id": "sm9X36ywaQQ",
       "title": "𝐄𝐩-16 | सीरतुन नबी ﷺ उँगलियों पर | पहला हिजरी साल (मदनी ज़िन्दगी) | Hindi | ‪@understandquran‬",
@@ -1255,6 +1285,6 @@
       "source": "verified official teaching upload"
     }
   ],
-  "count": 123,
+  "count": 126,
   "errors": []
 }

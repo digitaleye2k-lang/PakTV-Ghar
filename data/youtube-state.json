@@ -1,6 +1,6 @@
 {
-  "quotaDay": "2026-11-20",
-  "dailySearches": 24,
+  "quotaDay": "2026-11-21",
+  "dailySearches": 8,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -349,7 +349,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/iSsowAULHBM/hqdefault.jpg",
-        "checkedAt": "2026-11-10T23:28:49.659362+00:00"
+        "checkedAt": "2026-11-21T11:19:42.461355+00:00"
       }
     ],
     "arydigital-mirza-ki-heer": [
@@ -367,7 +367,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/JVflRbjyA3U/hqdefault.jpg",
-        "checkedAt": "2026-11-11T06:39:33.547695+00:00"
+        "checkedAt": "2026-11-21T11:19:42.461355+00:00"
       }
     ],
     "arydigital-toota-huwa-dil": [
@@ -385,7 +385,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/EeBtW9QO-ek/hqdefault.jpg",
-        "checkedAt": "2026-11-11T06:39:33.547695+00:00"
+        "checkedAt": "2026-11-21T11:19:42.461355+00:00"
       }
     ],
     "harpalgeo-beti-ka-ghar-konsa": [
@@ -18860,22 +18860,6 @@
         "checkedAt": "2026-11-17T03:58:58.318355+00:00"
       },
       {
-        "id": "MFmedlCpdaw",
-        "title": "Alif Allah Aur Insaan Episode #30 HUM TV Drama",
-        "episode": 30,
-        "date": "2019-08-04",
-        "published": "2019-08-04T15:00:03Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/MFmedlCpdaw/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
-      },
-      {
         "id": "A8hCY_ayjbU",
         "title": "Alif Allah Aur Insaan Episode #29 HUM TV Drama",
         "episode": 29,
@@ -18892,22 +18876,6 @@
         "checkedAt": "2026-11-17T03:58:58.318355+00:00"
       },
       {
-        "id": "5JiQIEc_7eQ",
-        "title": "Alif Allah Aur Insaan Episode #27 HUM TV Drama",
-        "episode": 27,
-        "date": "2019-08-04",
-        "published": "2019-08-04T15:00:02Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/5JiQIEc_7eQ/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
-      },
-      {
         "id": "z97uy2b2SU0",
         "title": "Alif Allah Aur Insaan Episode #26 HUM TV Drama",
         "episode": 26,
@@ -18922,22 +18890,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/z97uy2b2SU0/hqdefault.jpg",
         "checkedAt": "2026-11-17T03:58:58.318355+00:00"
-      },
-      {
-        "id": "iin7l6zBTzs",
-        "title": "Alif Allah Aur Insaan Episode #25 HUM TV Drama",
-        "episode": 25,
-        "date": "2019-08-04",
-        "published": "2019-08-04T14:30:00Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/iin7l6zBTzs/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
       },
       {
         "id": "rhwnQRkOZYI",
@@ -18972,22 +18924,6 @@
         "checkedAt": "2026-11-17T03:58:58.318355+00:00"
       },
       {
-        "id": "sVNwD1J-mR0",
-        "title": "Alif Allah Aur Insaan Episode #19 HUM TV Drama",
-        "episode": 19,
-        "date": "2019-08-04",
-        "published": "2019-08-04T14:00:07Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/sVNwD1J-mR0/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
-      },
-      {
         "id": "dRuuG9pogoY",
         "title": "Alif Allah Aur Insaan Episode #18 HUM TV Drama",
         "episode": 18,
@@ -19002,22 +18938,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dRuuG9pogoY/hqdefault.jpg",
         "checkedAt": "2026-11-17T03:58:58.318355+00:00"
-      },
-      {
-        "id": "0dR9iQBEEto",
-        "title": "Alif Allah Aur Insaan Episode #17 HUM TV Drama",
-        "episode": 17,
-        "date": "2019-08-04",
-        "published": "2019-08-04T14:00:00Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/0dR9iQBEEto/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
       },
       {
         "id": "RsbRhTYN5EY",
@@ -19632,38 +19552,6 @@
         "checkedAt": "2026-11-17T03:58:58.318355+00:00"
       },
       {
-        "id": "lD8gzMNt8bQ",
-        "title": "Chupke Chupke Episode 25 | Digitally Presented by Mezan & Powered by Master Paints | HUM TV | Drama",
-        "episode": 25,
-        "date": "2021-05-08",
-        "published": "2021-05-08T17:00:15Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/lD8gzMNt8bQ/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
-      },
-      {
-        "id": "OrjAOpvunHs",
-        "title": "Chupke Chupke Episode 24 | Digitally Presented by Mezan & Powered by Master Paints | HUM TV | Drama",
-        "episode": 24,
-        "date": "2021-05-07",
-        "published": "2021-05-07T17:00:16Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/OrjAOpvunHs/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
-      },
-      {
         "id": "l3d9UUQTdq4",
         "title": "Chupke Chupke Episode 23 | Digitally Presented by Mezan & Powered by Master Paints | HUM TV | Drama",
         "episode": 23,
@@ -20242,22 +20130,6 @@
         "checkedAt": "2026-11-17T16:11:32.460647+00:00"
       },
       {
-        "id": "xTvLMseulkg",
-        "title": "Diyar e Dil Episode 22 HUM TV Drama",
-        "episode": 22,
-        "date": "2020-08-20",
-        "published": "2020-08-20T11:30:09Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/xTvLMseulkg/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
-      },
-      {
         "id": "zeF0OhQQri8",
         "title": "Diyar e Dil Episode 21 HUM TV Drama",
         "episode": 21,
@@ -20336,22 +20208,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0-Nsk3YVOP0/hqdefault.jpg",
         "checkedAt": "2026-11-17T16:11:32.460647+00:00"
-      },
-      {
-        "id": "BfQqgLRSCTA",
-        "title": "Diyar e Dil Episode 16 HUM TV Drama",
-        "episode": 16,
-        "date": "2020-08-20",
-        "published": "2020-08-20T08:30:01Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/BfQqgLRSCTA/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
       },
       {
         "id": "wK-s_4sk9w8",
@@ -20512,22 +20368,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/RufuBwJ4aLI/hqdefault.jpg",
         "checkedAt": "2026-11-17T16:11:32.460647+00:00"
-      },
-      {
-        "id": "TN5psIZrF6Q",
-        "title": "Diyar e Dil Episode 5 HUM TV Drama",
-        "episode": 5,
-        "date": "2020-08-16",
-        "published": "2020-08-16T11:00:09Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/TN5psIZrF6Q/hqdefault.jpg",
-        "checkedAt": "2026-11-07T10:24:00.967173+00:00"
       },
       {
         "id": "xg0T65ir8SY",
@@ -28945,6 +28785,6 @@
       }
     ]
   },
-  "cursor": 22,
+  "cursor": 26,
   "apiValidated": true
 }
