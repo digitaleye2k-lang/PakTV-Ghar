@@ -18,14 +18,6 @@
         "checkedAt": "2026-11-20T20:29:19.616697+00:00"
       },
       {
-        "title": "Khushi - Episode 68 Highlights - Nov 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
-        "episode": 68,
-        "id": "xrJa3fU5NHA",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-11-20"
-      },
-      {
         "id": "d7Rl4D26jJ4",
         "title": "Khushi - Episode 67 - [Eng Sub] 18th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
         "episode": 67,
@@ -75,34 +67,6 @@
       }
     ]
   },
-  "hum-gulbahar": {
-    "episodes": [
-      {
-        "title": "Gulbahar - Highlights - Episode 20 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
-        "episode": 20,
-        "id": "F0PecI9fgPI",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-11-20"
-      },
-      {
-        "id": "dGo9gTg1Lpc",
-        "title": "Gulbahar - Episode 20 - [ENG SUB] 19 Nov 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
-        "episode": 20,
-        "date": "2026-11-19",
-        "published": "2026-11-19T16:00:15Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/dGo9gTg1Lpc/hqdefault.jpg",
-        "checkedAt": "2026-11-20T11:51:42.617028+00:00"
-      }
-    ]
-  },
   "hum-aangan": {
     "episodes": [
       {
@@ -140,14 +104,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ohj-GMdpmZI/hqdefault.jpg",
         "checkedAt": "2026-11-20T20:29:19.616697+00:00"
-      },
-      {
-        "title": "Tark-e-Tamanna - Episode 28 Highlights | ft. Mirza Zain Baig & Janice Tessa | HUM TV",
-        "episode": 28,
-        "id": "LhDxRZM1uy8",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-11-20"
       },
       {
         "id": "XQoQrNn0k3o",
@@ -244,14 +200,6 @@
         "source": "ARY Digital",
         "kind": "youtube",
         "date": "2026-11-21"
-      },
-      {
-        "title": "Lagan Lagi EP 21 Best Scene | ARY Digital Drama",
-        "episode": 21,
-        "id": "cogGx0LMK_s",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-20"
       },
       {
         "id": "N_8zpc3VNC4",
@@ -858,14 +806,6 @@
         "date": "2026-11-20"
       },
       {
-        "title": "Bano Episode 36 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 36,
-        "id": "vRSD6bUgFkQ",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-20"
-      },
-      {
         "id": "t-1WAqaKETY",
         "title": "Bano Episode 36 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 19th Nov 2026 | HAR PAL GEO",
         "episode": 36,
@@ -1455,7 +1395,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dhJj0oDY58w/hqdefault.jpg",
-        "checkedAt": "2026-11-12T00:49:10.998338+00:00"
+        "checkedAt": "2026-11-22T11:37:41.706784+00:00"
       }
     ]
   },
@@ -1475,7 +1415,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/EQ-baUqmNaA/hqdefault.jpg",
-        "checkedAt": "2026-11-12T11:27:36.092025+00:00"
+        "checkedAt": "2026-11-22T11:37:41.706784+00:00"
       },
       {
         "id": "-FXbu933_Bg",
@@ -1491,7 +1431,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-FXbu933_Bg/hqdefault.jpg",
-        "checkedAt": "2026-11-12T11:27:36.092025+00:00"
+        "checkedAt": "2026-11-22T11:37:41.706784+00:00"
+      },
+      {
+        "id": "zrbd1u81X2E",
+        "title": "Leader | Episode 27 Flashback -  [ Kinza Hashmi & Ali Raza ] Spons:Brighto Paints - HUMTV",
+        "episode": 27,
+        "date": "2026-09-20",
+        "published": "2026-09-20T14:45:19Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/zrbd1u81X2E/hqdefault.jpg",
+        "checkedAt": "2026-11-22T11:37:41.706784+00:00"
       }
     ]
   },
@@ -24390,22 +24346,6 @@
   "hum-mann-mayal": {
     "episodes": [
       {
-        "id": "14wo7UNycVA",
-        "title": "Mann Mayal Episode 32 HUM TV Drama",
-        "episode": 32,
-        "date": "2020-01-30",
-        "published": "2020-01-30T11:00:00Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/14wo7UNycVA/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
-      },
-      {
         "id": "SfsHJefmCug",
         "title": "Mann Mayal Episode 31 HUM TV Drama",
         "episode": 31,
@@ -24452,22 +24392,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/AA20M2bxvkk/hqdefault.jpg",
         "checkedAt": "2026-11-18T11:53:24.537329+00:00"
-      },
-      {
-        "id": "-I098qfuRa8",
-        "title": "Mann Mayal Episode 28 HUM TV Drama",
-        "episode": 28,
-        "date": "2020-01-29",
-        "published": "2020-01-29T19:15:00Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/-I098qfuRa8/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
       },
       {
         "id": "QCXeerK_K20",
@@ -24580,22 +24504,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/BFabcFFgT5Q/hqdefault.jpg",
         "checkedAt": "2026-11-18T11:53:24.537329+00:00"
-      },
-      {
-        "id": "7nx7uhlpAXI",
-        "title": "Mann Mayal Episode 20 HUM TV Drama",
-        "episode": 20,
-        "date": "2020-01-26",
-        "published": "2020-01-26T19:38:54Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/7nx7uhlpAXI/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
       },
       {
         "id": "dY6KmJmu0P0",
@@ -25032,22 +24940,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Ng-s0E2-6To/hqdefault.jpg",
         "checkedAt": "2026-11-18T11:53:24.537329+00:00"
-      },
-      {
-        "id": "s4wVyuWnKgk",
-        "title": "Meem Se Mohabbat - Episode 24 [CC] 6th Mar 2025 - Sponsored By foodpanda, Master Paints, Skin White",
-        "episode": 24,
-        "date": "2025-03-06",
-        "published": "2025-03-06T16:01:02Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/s4wVyuWnKgk/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
       },
       {
         "id": "dlkdxHmuLTI",
@@ -25856,22 +25748,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zK_OfxmGtLU/hqdefault.jpg",
         "checkedAt": "2026-11-18T20:39:16.999769+00:00"
-      },
-      {
-        "id": "P0-FnGLeZ-s",
-        "title": "Parizaad Episode 5 |Eng Sub| 17 Aug, Presented By ITEL Mobile, NISA Cosmetics & West Marina | HUM TV",
-        "episode": 5,
-        "date": "2021-08-17",
-        "published": "2021-08-17T15:53:12Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/P0-FnGLeZ-s/hqdefault.jpg",
-        "checkedAt": "2026-11-08T06:14:43.422711+00:00"
       },
       {
         "id": "kMORXV6ZEds",
@@ -28443,7 +28319,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GYARaiI6JCo/hqdefault.jpg",
-        "checkedAt": "2026-11-12T11:27:36.092025+00:00"
+        "checkedAt": "2026-11-22T11:37:41.706784+00:00"
       },
       {
         "id": "f4p4uLc4u-k",
@@ -28459,7 +28335,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/f4p4uLc4u-k/hqdefault.jpg",
-        "checkedAt": "2026-11-12T11:27:36.092025+00:00"
+        "checkedAt": "2026-11-22T11:37:41.706784+00:00"
       }
     ]
   },
@@ -29196,6 +29072,46 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SzSTgiG2Rew/hqdefault.jpg",
         "checkedAt": "2026-11-20T02:23:17.518531+00:00"
+      }
+    ]
+  },
+  "hum-gulbahar": {
+    "episodes": [
+      {
+        "id": "dGo9gTg1Lpc",
+        "title": "Gulbahar - Episode 20 - [ENG SUB] 19 Nov 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
+        "episode": 20,
+        "date": "2026-11-19",
+        "published": "2026-11-19T16:00:15Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/dGo9gTg1Lpc/hqdefault.jpg",
+        "checkedAt": "2026-11-20T11:51:42.617028+00:00"
+      }
+    ]
+  },
+  "hum-hadd": {
+    "episodes": [
+      {
+        "id": "kbJ0_aO-2w0",
+        "title": "Hadd - Last Ep 84 [Eng Sub] - 18th June 2026 [ Nabeel Zuberi, Minsa Malik & Arsalan Asad ] HUMTV",
+        "episode": 84,
+        "date": "2026-06-18",
+        "published": "2026-06-18T15:00:07Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/kbJ0_aO-2w0/hqdefault.jpg",
+        "checkedAt": "2026-11-22T11:37:41.706784+00:00"
       }
     ]
   }

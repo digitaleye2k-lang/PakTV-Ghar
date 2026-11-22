@@ -2,7 +2,7 @@
   "date": "2026-11-22",
   "weekday": "Sunday",
   "timezone": "Asia/Karachi",
-  "generatedAt": "2026-11-22T06:24:45.143672+05:00",
+  "generatedAt": "2026-11-22T16:38:11.654501+05:00",
   "items": [
     {
       "name": "Mohabbat",
@@ -245,8 +245,8 @@
       "sourceLabel": "Official broadcaster"
     },
     {
-      "name": "Dar-e-Nijaat",
-      "showId": "arydigital-dar-e-nijaat",
+      "name": "Jeeto Pakistan",
+      "showId": "arydigital-jeeto-pakistan",
       "channel": "ARY Digital",
       "time": "20:00",
       "episode": null,
@@ -293,16 +293,6 @@
       "repeat": null,
       "sourceUrl": "https://harpalgeo.tv/schedule",
       "sourceLabel": "Official broadcaster"
-    },
-    {
-      "name": "Tamasha season 5",
-      "showId": "arydigital-tamasha-season-5",
-      "channel": "ARY Digital",
-      "time": "22:00",
-      "episode": null,
-      "repeat": null,
-      "sourceUrl": "https://dramas.pk/?pdhs_date=2026-11-22",
-      "sourceLabel": "Dramas.pk TV guide (backup, not broadcaster)"
     },
     {
       "name": "Hasna Mana Hai",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T01:24:51.824027+00:00",
+  "generatedAt": "2026-11-22T11:38:19.201027+00:00",
   "sources": [
     {
       "id": "homebased",
@@ -24,6 +24,16 @@
     }
   ],
   "videos": [
+    {
+      "id": "lGQGbJ8wtAE",
+      "title": "𝐄𝐩-31 | सीरतुन नबी ﷺ उँगलियों पर | सीरत और हदीस | Hindi | ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-22",
+      "source": "publisher YouTube Data API"
+    },
     {
       "id": "gyPAfpmJ0LY",
       "title": "𝐄𝐩-24 | सीरतुन नबी ﷺ उँगलियों पर | नवां हिजरी साल (मदनी ज़िन्दगी) | Hindi | ‪@understandquran‬",
@@ -1305,6 +1315,6 @@
       "source": "verified official teaching upload"
     }
   ],
-  "count": 128,
+  "count": 129,
   "errors": []
 }
