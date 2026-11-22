@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T00:25:38.738541+05:00",
+  "generatedAt": "2026-11-22T06:24:49.719511+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,6 +17,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 15,
+        "time": "00:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-11-22"
       }
     },
     "harpalgeo-nashtar": {
@@ -90,6 +97,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 32,
+        "time": "04:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-11-22"
       }
     },
     "hum-aangan": {
@@ -580,9 +594,9 @@
       "latestPublisherSource": "https://harpalgeo.tv/program/Shaidai",
       "latestUpload": {
         "number": 30,
-        "id": "dIe4nDHGm-g",
-        "title": "Shaidai Last Episode 30 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Feroze Khan - Sahar Hashmi | Har Pal Geo",
-        "date": "2026-07-30",
+        "id": "kT5HHJDY8NA",
+        "title": "Shaidai Last Episode 30 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Feroze Khan - Sahar Hashmi | Har Pal Geo",
+        "date": "2026-07-31",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,

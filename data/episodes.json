@@ -167,42 +167,6 @@
       }
     ]
   },
-  "arydigital-izzat": {
-    "episodes": [
-      {
-        "id": "qCnMYXhclVA",
-        "title": "Ab Main Aapki Dost Nahi Ban Sakti | Izzat Episode 57 | ARY Digital",
-        "episode": 57,
-        "date": "2026-11-19",
-        "published": "2026-11-19T06:57:43Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/qCnMYXhclVA/hqdefault.jpg",
-        "checkedAt": "2026-11-19T20:45:27.642739+00:00"
-      },
-      {
-        "id": "q1oeYejthww",
-        "title": "Izzat Episode 50 | 5 November 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 50,
-        "date": "2026-11-08",
-        "published": "2026-11-08T15:00:05Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/q1oeYejthww/hqdefault.jpg",
-        "checkedAt": "2026-11-09T00:58:35.933821+00:00"
-      }
-    ]
-  },
   "arydigital-dar-e-nijaat": {
     "episodes": [
       {
@@ -236,26 +200,6 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/wKGx32p8Bfg/hqdefault.jpg",
         "checkedAt": "2026-11-09T00:58:35.933821+00:00"
-      }
-    ]
-  },
-  "arydigital-hey-fam": {
-    "episodes": [
-      {
-        "id": "7IDWrzmUy_s",
-        "title": "Hey Fam | EP 19 | 18 Nov 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan | ENG SUB | ARY Digital",
-        "episode": 19,
-        "date": "2026-11-18",
-        "published": "2026-11-18T16:00:12Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/7IDWrzmUy_s/hqdefault.jpg",
-        "checkedAt": "2026-11-19T11:50:57.636269+00:00"
       }
     ]
   },
@@ -538,6 +482,86 @@
   "harpalgeo-uswa": {
     "episodes": [
       {
+        "title": "Uswah Episode 59 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 21st November 2026",
+        "episode": 59,
+        "id": "cWfeJ0Jf-t0",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Uswah Episode 58 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 58,
+        "id": "u6t2ZU4KxHU",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Uswah Episode 58 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 58,
+        "id": "NsjBXBr60OI",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Uswah Episode 58 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 58,
+        "id": "_b9_BhRfxHc",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Uswah Episode 58 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 58,
+        "id": "gWzve1YHjrU",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Uswah Episode 58 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 58,
+        "id": "qINWRYVPgDE",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Uswah Episode 58 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 58,
+        "id": "3d2NQBDMRtg",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Uswah Episode 58 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 58,
+        "id": "TPub9tFoAno",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Uswah Episode 58 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Haroon Shahid - Saniya Shamshad - Ammara Malik | HAR PAL GEO",
+        "episode": 58,
+        "id": "Md6JIwo1bgY",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Uswah Episode 58 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 20th November 2026",
+        "episode": 58,
+        "id": "F8T3hlRBtTg",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-20"
+      },
+      {
         "id": "k2h_OrMiNIs",
         "title": "Uswah Episode 57 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 19th November 2026",
         "episode": 57,
@@ -635,30 +659,110 @@
       }
     ]
   },
-  "harpalgeo-khafa": {
+  "harpalgeo-nashtar": {
     "episodes": [
       {
-        "id": "TpmW4qQgwh8",
-        "title": "Khafa Episode 32 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
-        "episode": 32,
-        "date": "2026-11-19",
-        "published": "2026-11-19T22:30:19Z",
+        "title": "Nashtar Episode 34 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
+        "episode": 34,
+        "id": "18hDt-lssvI",
         "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
         "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/TpmW4qQgwh8/hqdefault.jpg",
-        "checkedAt": "2026-11-20T02:23:17.518531+00:00"
+        "date": "2026-11-21"
       },
       {
-        "id": "SzSTgiG2Rew",
-        "title": "Khafa Episode 32 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 19th Nov 2026 | HAR PAL GEO",
+        "title": "Recap Nashtar Episode 33 - 21st November 2026 - Har Pal Geo",
+        "episode": 33,
+        "id": "1nl2PQkEuXU",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Nashtar Episode 33 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 33,
+        "id": "z940S5AUm7Y",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Nashtar Episode 33 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 33,
+        "id": "VyqCHA90Ab0",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Nashtar Episode 33 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 33,
+        "id": "kF_c50QEp2c",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Nashtar Episode 33 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 33,
+        "id": "nzW7a27g1wQ",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Nashtar Episode 33 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 33,
+        "id": "mm5JwNm-G-o",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Nashtar Episode 33 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 33,
+        "id": "tPHsv1I0paE",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Nashtar Episode 33 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 33,
+        "id": "3Mf6DR4lTNM",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Nashtar Episode 33 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
+        "episode": 33,
+        "id": "ve87rTo0oxw",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Nashtar Episode 33 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
+        "episode": 33,
+        "id": "A3-fOmE_mOo",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Recap Nashtar Episode 32 - 20th November 2026 - Har Pal Geo",
         "episode": 32,
-        "date": "2026-11-19",
-        "published": "2026-11-19T16:00:16Z",
+        "id": "gmpIhf1ts3E",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-20"
+      },
+      {
+        "id": "XqVFy-Ifb4s",
+        "title": "Nashtar Episode 29 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
+        "episode": 29,
+        "date": "2026-11-08",
+        "published": "2026-11-08T16:00:23Z",
         "source": "Har Pal Geo",
         "channelId": "harpalgeo",
         "sourceType": "youtube_api",
@@ -666,13 +770,101 @@
         "embeddable": true,
         "availableGB": true,
         "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/SzSTgiG2Rew/hqdefault.jpg",
-        "checkedAt": "2026-11-20T02:23:17.518531+00:00"
+        "thumbnail": "https://i.ytimg.com/vi/XqVFy-Ifb4s/hqdefault.jpg",
+        "checkedAt": "2026-11-09T22:28:51.373387+00:00"
       }
     ]
   },
   "harpalgeo-bano": {
     "episodes": [
+      {
+        "title": "Bano Episode 38 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 21st Nov 2026 | HAR PAL GEO",
+        "episode": 38,
+        "id": "UwoV1V76f_Y",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Bano Episode 37 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 37,
+        "id": "DE_4ECGoCS4",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Bano Episode 37 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 37,
+        "id": "k0xv6IqRv_8",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Bano Episode 37 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 37,
+        "id": "48AKzwBnKuo",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Bano Episode 37 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 37,
+        "id": "dieKbSr-QkU",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Bano Episode 37 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 37,
+        "id": "ihMa40gs9j4",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Bano Episode 37 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 37,
+        "id": "eW4b4CoJ3xQ",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Bano Episode 37 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 37,
+        "id": "c-Cp-zpOJe0",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Bano Episode 37 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 37,
+        "id": "J6KYumIVlXU",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Bano Episode 37 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 20th Nov 2026 | HAR PAL GEO",
+        "episode": 37,
+        "id": "W94iRxwJZ_U",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Bano Episode 36 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 36,
+        "id": "vRSD6bUgFkQ",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-20"
+      },
       {
         "id": "t-1WAqaKETY",
         "title": "Bano Episode 36 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 19th Nov 2026 | HAR PAL GEO",
@@ -872,26 +1064,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/sMUAfO57eEA/hqdefault.jpg",
         "checkedAt": "2026-11-20T02:23:17.518531+00:00"
-      }
-    ]
-  },
-  "harpalgeo-nashtar": {
-    "episodes": [
-      {
-        "id": "XqVFy-Ifb4s",
-        "title": "Nashtar Episode 29 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
-        "episode": 29,
-        "date": "2026-11-08",
-        "published": "2026-11-08T16:00:23Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/XqVFy-Ifb4s/hqdefault.jpg",
-        "checkedAt": "2026-11-09T22:28:51.373387+00:00"
       }
     ]
   },
@@ -1098,6 +1270,22 @@
   "harpalgeo-shaidai": {
     "episodes": [
       {
+        "id": "kT5HHJDY8NA",
+        "title": "Shaidai Last Episode 30 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Feroze Khan - Sahar Hashmi | Har Pal Geo",
+        "episode": 30,
+        "date": "2026-07-31",
+        "published": "2026-07-31T10:00:02Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/kT5HHJDY8NA/hqdefault.jpg",
+        "checkedAt": "2026-11-22T01:24:27.223673+00:00"
+      },
+      {
         "id": "dIe4nDHGm-g",
         "title": "Shaidai Last Episode 30 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Feroze Khan - Sahar Hashmi | Har Pal Geo",
         "episode": 30,
@@ -1111,7 +1299,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dIe4nDHGm-g/hqdefault.jpg",
-        "checkedAt": "2026-11-11T17:14:46.093271+00:00"
+        "checkedAt": "2026-11-22T01:24:27.223673+00:00"
       },
       {
         "id": "TmWFxqx2aJo",
@@ -1127,7 +1315,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TmWFxqx2aJo/hqdefault.jpg",
-        "checkedAt": "2026-11-11T17:14:46.093271+00:00"
+        "checkedAt": "2026-11-22T01:24:27.223673+00:00"
+      },
+      {
+        "id": "wX1mLWoQOdA",
+        "title": "Shaidai Last Episode 30 [Eng Sub] Presented by Ujooba Beauty Cream, Happilac Paints & Fresh N Joy",
+        "episode": 30,
+        "date": "2026-07-30",
+        "published": "2026-07-30T16:04:51Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/wX1mLWoQOdA/hqdefault.jpg",
+        "checkedAt": "2026-11-22T01:24:27.223673+00:00"
       }
     ]
   },
@@ -1147,7 +1351,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/LDu-XHAWJM4/hqdefault.jpg",
-        "checkedAt": "2026-11-12T00:49:10.998338+00:00"
+        "checkedAt": "2026-11-22T01:24:27.223673+00:00"
       },
       {
         "id": "Gud4kMK5WrM",
@@ -1163,7 +1367,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Gud4kMK5WrM/hqdefault.jpg",
-        "checkedAt": "2026-11-12T00:49:10.998338+00:00"
+        "checkedAt": "2026-11-22T01:24:27.223673+00:00"
       },
       {
         "id": "GLVCe0bFBXw",
@@ -1179,7 +1383,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GLVCe0bFBXw/hqdefault.jpg",
-        "checkedAt": "2026-11-12T00:49:10.998338+00:00"
+        "checkedAt": "2026-11-22T01:24:27.223673+00:00"
       }
     ]
   },
@@ -1199,7 +1403,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nzE6TeRnstM/hqdefault.jpg",
-        "checkedAt": "2026-11-12T00:49:10.998338+00:00"
+        "checkedAt": "2026-11-22T01:24:27.223673+00:00"
       },
       {
         "id": "bCe2W5uakAY",
@@ -1215,7 +1419,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/bCe2W5uakAY/hqdefault.jpg",
-        "checkedAt": "2026-11-12T00:49:10.998338+00:00"
+        "checkedAt": "2026-11-22T01:24:27.223673+00:00"
       },
       {
         "id": "ym_DGbtvNNQ",
@@ -23426,22 +23630,6 @@
         "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
-        "id": "jgwHFrON9Q4",
-        "title": "Ishq Murshid - Episode 22 [𝐂𝐂] - 3rd Mar 24 - Sponsored By Khurshid Fans, Master Paints & Mothercare",
-        "episode": 22,
-        "date": "2024-03-03",
-        "published": "2024-03-03T16:00:25Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/jgwHFrON9Q4/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
-      },
-      {
         "id": "bmfA5xhGNJQ",
         "title": "Ishq Murshid - Episode 21 [𝐂𝐂] - 25 Feb 24 - Sponsored By Khurshid Fans, Master Paints & Mothercare",
         "episode": 21,
@@ -23618,22 +23806,6 @@
         "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
-        "id": "NMvM3hHL3Is",
-        "title": "Ishq Murshid - Episode 10 [𝐂𝐂] - 10 Dec 23 - Sponsored By Khurshid Fans, Master Paints & Mothercare",
-        "episode": 10,
-        "date": "2023-12-10",
-        "published": "2023-12-10T16:00:12Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/NMvM3hHL3Is/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
-      },
-      {
         "id": "PSghT6SYi7Q",
         "title": "Ishq Murshid - Episode 09 [𝐂𝐂] - 3rd Dec 23 - Sponsored By Khurshid Fans, Master Paints & Mothercare",
         "episode": 9,
@@ -23728,22 +23900,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TI7QEvvVQgA/hqdefault.jpg",
         "checkedAt": "2026-11-18T01:00:13.353030+00:00"
-      },
-      {
-        "id": "7zr3TUe6J1U",
-        "title": "Ishq Murshid - Episode 02 [𝐂𝐂] 15 Oct - Powered By Master Paints [ Bilal Abbas & Durefishan ] HUM TV",
-        "episode": 2,
-        "date": "2023-10-15",
-        "published": "2023-10-15T16:00:08Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/7zr3TUe6J1U/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
       },
       {
         "id": "j1j91RAoM8Y",
@@ -23846,22 +24002,6 @@
         "checkedAt": "2026-11-18T01:00:13.353030+00:00"
       },
       {
-        "id": "KME60KKdeI8",
-        "title": "Jafaa - Ep 27 [CC] - 22nd Nov 2024 - Sponsored By Salai, Masterpaints & Ujooba Beauty Cream - HUM TV",
-        "episode": 27,
-        "date": "2024-11-22",
-        "published": "2024-11-22T16:00:28Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/KME60KKdeI8/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
-      },
-      {
         "id": "rzlD9_i1pnY",
         "title": "Jafaa - Ep 26 [CC] - 15th Nov 2024 - Sponsored By Salai, Masterpaints & Ujooba Beauty Cream - HUM TV",
         "episode": 26,
@@ -23876,22 +24016,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rzlD9_i1pnY/hqdefault.jpg",
         "checkedAt": "2026-11-18T01:00:13.353030+00:00"
-      },
-      {
-        "id": "ZOpQmw-c2KY",
-        "title": "Jafaa - Ep 25 [CC] - 8th Nov 2024 - Sponsored By Salai, Masterpaints & Ujooba Beauty Cream - HUM TV",
-        "episode": 25,
-        "date": "2024-11-08",
-        "published": "2024-11-08T16:00:34Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ZOpQmw-c2KY/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
       },
       {
         "id": "dEd1ysw_GzM",
@@ -24004,22 +24128,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/P68GjnVIcC4/hqdefault.jpg",
         "checkedAt": "2026-11-18T01:00:13.353030+00:00"
-      },
-      {
-        "id": "k_xyqyyl2YA",
-        "title": "Jafaa - Ep 17 - [CC] 13th Sep 2024 - Sponsored By Salai, Masterpaints & Ujooba Beauty Cream - HUM TV",
-        "episode": 17,
-        "date": "2024-09-13",
-        "published": "2024-09-13T16:02:08Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/k_xyqyyl2YA/hqdefault.jpg",
-        "checkedAt": "2026-11-07T21:57:27.948326+00:00"
       },
       {
         "id": "Jx9syOm--kM",
@@ -28283,6 +28391,42 @@
       }
     ]
   },
+  "arydigital-izzat": {
+    "episodes": [
+      {
+        "id": "qCnMYXhclVA",
+        "title": "Ab Main Aapki Dost Nahi Ban Sakti | Izzat Episode 57 | ARY Digital",
+        "episode": 57,
+        "date": "2026-11-19",
+        "published": "2026-11-19T06:57:43Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/qCnMYXhclVA/hqdefault.jpg",
+        "checkedAt": "2026-11-19T20:45:27.642739+00:00"
+      },
+      {
+        "id": "q1oeYejthww",
+        "title": "Izzat Episode 50 | 5 November 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
+        "episode": 50,
+        "date": "2026-11-08",
+        "published": "2026-11-08T15:00:05Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/q1oeYejthww/hqdefault.jpg",
+        "checkedAt": "2026-11-09T00:58:35.933821+00:00"
+      }
+    ]
+  },
   "hum-muamma": {
     "episodes": [
       {
@@ -28996,6 +29140,62 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/ksnQXUQHgnE/hqdefault.jpg",
         "checkedAt": "2026-11-18T20:39:16.999769+00:00"
+      }
+    ]
+  },
+  "arydigital-hey-fam": {
+    "episodes": [
+      {
+        "id": "7IDWrzmUy_s",
+        "title": "Hey Fam | EP 19 | 18 Nov 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan | ENG SUB | ARY Digital",
+        "episode": 19,
+        "date": "2026-11-18",
+        "published": "2026-11-18T16:00:12Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/7IDWrzmUy_s/hqdefault.jpg",
+        "checkedAt": "2026-11-19T11:50:57.636269+00:00"
+      }
+    ]
+  },
+  "harpalgeo-khafa": {
+    "episodes": [
+      {
+        "id": "TpmW4qQgwh8",
+        "title": "Khafa Episode 32 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 32,
+        "date": "2026-11-19",
+        "published": "2026-11-19T22:30:19Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/TpmW4qQgwh8/hqdefault.jpg",
+        "checkedAt": "2026-11-20T02:23:17.518531+00:00"
+      },
+      {
+        "id": "SzSTgiG2Rew",
+        "title": "Khafa Episode 32 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 19th Nov 2026 | HAR PAL GEO",
+        "episode": 32,
+        "date": "2026-11-19",
+        "published": "2026-11-19T16:00:16Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/SzSTgiG2Rew/hqdefault.jpg",
+        "checkedAt": "2026-11-20T02:23:17.518531+00:00"
       }
     ]
   }
