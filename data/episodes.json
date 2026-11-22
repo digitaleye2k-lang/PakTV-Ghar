@@ -1,92 +1,4 @@
 {
-  "hum-khushi": {
-    "episodes": [
-      {
-        "id": "lyPplOgbgKs",
-        "title": "Khushi - Episode 69 - 20th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 69,
-        "date": "2026-11-20",
-        "published": "2026-11-20T15:00:04Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": false,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/lyPplOgbgKs/hqdefault.jpg",
-        "checkedAt": "2026-11-20T20:29:19.616697+00:00"
-      },
-      {
-        "id": "d7Rl4D26jJ4",
-        "title": "Khushi - Episode 67 - [Eng Sub] 18th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 67,
-        "date": "2026-11-18",
-        "published": "2026-11-18T15:00:06Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/d7Rl4D26jJ4/hqdefault.jpg",
-        "checkedAt": "2026-11-20T20:29:19.616697+00:00"
-      },
-      {
-        "id": "JXhP2wgDR3k",
-        "title": "Khushi - Episode 59 - [ENG SUB] 10th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 59,
-        "date": "2026-11-10",
-        "published": "2026-11-10T15:00:05Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": false,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/JXhP2wgDR3k/hqdefault.jpg",
-        "checkedAt": "2026-11-10T17:07:10.769636+00:00"
-      },
-      {
-        "id": "d3mWoR2cgHc",
-        "title": "Khushi - Episode 58 - [ENG SUB] 9th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 58,
-        "date": "2026-11-09",
-        "published": "2026-11-09T15:00:36Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/d3mWoR2cgHc/hqdefault.jpg",
-        "checkedAt": "2026-11-10T17:07:10.769636+00:00"
-      }
-    ]
-  },
-  "hum-aangan": {
-    "episodes": [
-      {
-        "title": "Aangan - Episode 15 [Eng Sub] - 20th Nov 2026 [Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain]",
-        "episode": 15,
-        "id": "5RRWNhZ3LwA",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-11-20"
-      },
-      {
-        "title": "Aangan - Episode 14 - Flashback [ Sajal Ali, Ahad Raza Mir, Ahsan Khan, Mawra Hussain ]",
-        "episode": 14,
-        "id": "W1KHH7YU0l0",
-        "source": "HUM TV",
-        "kind": "youtube",
-        "date": "2026-11-20"
-      }
-    ]
-  },
   "hum-tark-e-tamanna": {
     "episodes": [
       {
@@ -502,14 +414,6 @@
         "date": "2026-11-20"
       },
       {
-        "title": "Uswah Episode 58 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 20th November 2026",
-        "episode": 58,
-        "id": "F8T3hlRBtTg",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-20"
-      },
-      {
         "id": "k2h_OrMiNIs",
         "title": "Uswah Episode 57 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 19th November 2026",
         "episode": 57,
@@ -693,14 +597,6 @@
         "title": "Nashtar Episode 33 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
         "episode": 33,
         "id": "A3-fOmE_mOo",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-20"
-      },
-      {
-        "title": "Recap Nashtar Episode 32 - 20th November 2026 - Har Pal Geo",
-        "episode": 32,
-        "id": "gmpIhf1ts3E",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-11-20"
@@ -907,34 +803,6 @@
       }
     ]
   },
-  "arynews-the-reporters": {
-    "episodes": [
-      {
-        "title": "Zardari, Shehbaz & Mohsin Naqvi’s Key Meeting - What Was Decided? | The Reporters | 20th Nov 2026",
-        "episode": null,
-        "id": "hLn255pvQ5M",
-        "source": "ARY News",
-        "kind": "youtube",
-        "date": "2026-11-20"
-      },
-      {
-        "title": "Does Mohsin Naqvi Have More Powers Than the Prime Minister? Talal Chaudhry Explains | The Reporters",
-        "episode": null,
-        "id": "2ZjBD4PppUU",
-        "source": "ARY News",
-        "kind": "youtube",
-        "date": "2026-11-20"
-      },
-      {
-        "title": "Has PPP Changed Its Stance on the Creation of New Provinces? | The Reporters",
-        "episode": null,
-        "id": "kTgD9EGZx4s",
-        "source": "ARY News",
-        "kind": "youtube",
-        "date": "2026-11-20"
-      }
-    ]
-  },
   "geonews-naya-pakistan": {
     "episodes": [
       {
@@ -1004,6 +872,74 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/sMUAfO57eEA/hqdefault.jpg",
         "checkedAt": "2026-11-20T02:23:17.518531+00:00"
+      }
+    ]
+  },
+  "hum-khushi": {
+    "episodes": [
+      {
+        "id": "lyPplOgbgKs",
+        "title": "Khushi - Episode 69 - 20th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 69,
+        "date": "2026-11-20",
+        "published": "2026-11-20T15:00:04Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/lyPplOgbgKs/hqdefault.jpg",
+        "checkedAt": "2026-11-20T20:29:19.616697+00:00"
+      },
+      {
+        "id": "d7Rl4D26jJ4",
+        "title": "Khushi - Episode 67 - [Eng Sub] 18th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 67,
+        "date": "2026-11-18",
+        "published": "2026-11-18T15:00:06Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/d7Rl4D26jJ4/hqdefault.jpg",
+        "checkedAt": "2026-11-20T20:29:19.616697+00:00"
+      },
+      {
+        "id": "JXhP2wgDR3k",
+        "title": "Khushi - Episode 59 - [ENG SUB] 10th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 59,
+        "date": "2026-11-10",
+        "published": "2026-11-10T15:00:05Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/JXhP2wgDR3k/hqdefault.jpg",
+        "checkedAt": "2026-11-10T17:07:10.769636+00:00"
+      },
+      {
+        "id": "d3mWoR2cgHc",
+        "title": "Khushi - Episode 58 - [ENG SUB] 9th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 58,
+        "date": "2026-11-09",
+        "published": "2026-11-09T15:00:36Z",
+        "source": "HUM TV",
+        "channelId": "hum",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/d3mWoR2cgHc/hqdefault.jpg",
+        "checkedAt": "2026-11-10T17:07:10.769636+00:00"
       }
     ]
   },
@@ -1467,7 +1403,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wqiKk2kIMA0/hqdefault.jpg",
-        "checkedAt": "2026-11-12T11:27:36.092025+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "nw17xXuRiKM",
@@ -1483,7 +1419,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nw17xXuRiKM/hqdefault.jpg",
-        "checkedAt": "2026-11-12T11:27:36.092025+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       }
     ]
   },
@@ -1503,7 +1439,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/T-rg8ZWoMeI/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "mbujMW8PDK8",
@@ -1519,7 +1455,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mbujMW8PDK8/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       }
     ]
   },
@@ -1539,7 +1475,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/YrDVNI5w4dk/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
+      },
+      {
+        "id": "N-kTC38e7Lg",
+        "title": "Angna Episode 64 - 4th June 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 64,
+        "date": "2022-06-04",
+        "published": "2022-06-04T15:03:04Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/N-kTC38e7Lg/hqdefault.jpg",
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "vMmVoA41_nk",
@@ -1571,7 +1523,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6H_fha8BlHM/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
+      },
+      {
+        "id": "MaZ63L1je4Y",
+        "title": "Angna Episode 58 - 29th May 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 58,
+        "date": "2022-05-29",
+        "published": "2022-05-29T15:04:14Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": false,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/MaZ63L1je4Y/hqdefault.jpg",
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "3UMgzjID78Y",
@@ -1587,7 +1555,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3UMgzjID78Y/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "8FGefmw2VtM",
@@ -1603,7 +1571,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8FGefmw2VtM/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "vvqtDH2yCr4",
@@ -1622,6 +1590,22 @@
         "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
+        "id": "2k23VBBSOLk",
+        "title": "Angna Episode 52 - 23rd May 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 52,
+        "date": "2022-05-23",
+        "published": "2022-05-23T15:05:25Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/2k23VBBSOLk/hqdefault.jpg",
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
+      },
+      {
         "id": "PMe7H0VyUy4",
         "title": "Angna Episode 50 | 21st May 2022 (English Subtitles) | ARY Digital Drama",
         "episode": 50,
@@ -1635,7 +1619,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PMe7H0VyUy4/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "hXHsKYuV7Xk",
@@ -1683,7 +1667,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ZeNXOc9YtNc/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "qFLvfZObeds",
@@ -1715,7 +1699,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yhBhfHdG6mc/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "s2F6nErYkcM",
@@ -1731,7 +1715,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/s2F6nErYkcM/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
+      },
+      {
+        "id": "PHREzd42Mrg",
+        "title": "Angna Episode 41 (English Subtitles) ARY Digital Drama",
+        "episode": 41,
+        "date": "2022-05-12",
+        "published": "2022-05-12T15:01:56Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/PHREzd42Mrg/hqdefault.jpg",
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
+      },
+      {
+        "id": "Kyfxz3Gml-U",
+        "title": "Angna Episode 40 - 11th May 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 40,
+        "date": "2022-05-11",
+        "published": "2022-05-11T15:02:19Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Kyfxz3Gml-U/hqdefault.jpg",
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "nX2fSb6gZGQ",
@@ -1747,7 +1763,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nX2fSb6gZGQ/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
+      },
+      {
+        "id": "4GFjK0MXopw",
+        "title": "Angna Episode 38 - 9th May 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 38,
+        "date": "2022-05-09",
+        "published": "2022-05-09T15:03:28Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/4GFjK0MXopw/hqdefault.jpg",
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "sKbS-o7d1cA",
@@ -1827,7 +1859,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OFbUyzSYbd4/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "W746FGQvNWs",
@@ -1862,6 +1894,22 @@
         "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
+        "id": "Si-MtsC_ZSw",
+        "title": "Angna Episode 23 (English Subtitles) ARY Digital Drama",
+        "episode": 23,
+        "date": "2022-03-29",
+        "published": "2022-03-29T15:00:13Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Si-MtsC_ZSw/hqdefault.jpg",
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
+      },
+      {
         "id": "kBb6-kwZKVU",
         "title": "Angna Episode 22 - 28th March 2022 (English Subtitles) ARY Digital Drama",
         "episode": 22,
@@ -1875,7 +1923,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kBb6-kwZKVU/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "7n7qVk1EeHA",
@@ -1891,7 +1939,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7n7qVk1EeHA/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "37JiguVqcBI",
@@ -1910,6 +1958,54 @@
         "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
+        "id": "wnrDCMIncag",
+        "title": "Angna Episode 18 (English Subtitles) ARY Digital Drama",
+        "episode": 18,
+        "date": "2022-03-24",
+        "published": "2022-03-24T15:01:45Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/wnrDCMIncag/hqdefault.jpg",
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
+      },
+      {
+        "id": "F2gPmYTQZo8",
+        "title": "Angna Episode 17 - 23rd March 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 17,
+        "date": "2022-03-23",
+        "published": "2022-03-23T14:59:32Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/F2gPmYTQZo8/hqdefault.jpg",
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
+      },
+      {
+        "id": "EszfVCSM9wQ",
+        "title": "Angna Episode 16 - 22nd March 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 16,
+        "date": "2022-03-22",
+        "published": "2022-03-22T15:07:52Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/EszfVCSM9wQ/hqdefault.jpg",
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
+      },
+      {
         "id": "dAxNhYobr8c",
         "title": "Angna Episode 14 - 20th March 2022 (English Subtitles) ARY Digital Drama",
         "episode": 14,
@@ -1923,7 +2019,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dAxNhYobr8c/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "77HSL_fq-ZM",
@@ -1942,6 +2038,38 @@
         "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
+        "id": "gtJmxWGwxME",
+        "title": "Angna Episode 11 - 17th March 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 11,
+        "date": "2022-03-17",
+        "published": "2022-03-17T15:00:21Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/gtJmxWGwxME/hqdefault.jpg",
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
+      },
+      {
+        "id": "yuDxJ3NbWhU",
+        "title": "Angna Episode 10 (English Subtitles) ARY Digital Drama",
+        "episode": 10,
+        "date": "2022-03-16",
+        "published": "2022-03-16T15:00:36Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/yuDxJ3NbWhU/hqdefault.jpg",
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
+      },
+      {
         "id": "8vhfULKPusc",
         "title": "Angna Episode 8 - 14th March 2022 (English Subtitles) - ARY Digital Drama",
         "episode": 8,
@@ -1955,7 +2083,87 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8vhfULKPusc/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
+      },
+      {
+        "id": "V582zsl8DIg",
+        "title": "Angna Episode 7 (English Subtitles) ARY Digital Drama",
+        "episode": 7,
+        "date": "2022-03-13",
+        "published": "2022-03-13T15:09:25Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/V582zsl8DIg/hqdefault.jpg",
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
+      },
+      {
+        "id": "oIckzZCKg_U",
+        "title": "Angna Episode 6 - 12th March 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 6,
+        "date": "2022-03-12",
+        "published": "2022-03-12T15:00:19Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/oIckzZCKg_U/hqdefault.jpg",
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
+      },
+      {
+        "id": "3u-oXR0UiiM",
+        "title": "Angna Episode 5 - 11th March 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 5,
+        "date": "2022-03-11",
+        "published": "2022-03-11T15:06:49Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/3u-oXR0UiiM/hqdefault.jpg",
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
+      },
+      {
+        "id": "FCrNEEG3Y7Y",
+        "title": "Angna Episode 4 - 10th March 2022 (English Subtitles) ARY Digital Drama",
+        "episode": 4,
+        "date": "2022-03-10",
+        "published": "2022-03-10T15:07:01Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/FCrNEEG3Y7Y/hqdefault.jpg",
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
+      },
+      {
+        "id": "xQzYY2pX-t0",
+        "title": "Angna Episode 3 (English Subtitles) ARY Digital Drama",
+        "episode": 3,
+        "date": "2022-03-09",
+        "published": "2022-03-09T15:02:01Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/xQzYY2pX-t0/hqdefault.jpg",
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "rQ5_yc8p_hY",
@@ -1971,7 +2179,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rQ5_yc8p_hY/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "ITXXidXckcc",
@@ -1987,7 +2195,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ITXXidXckcc/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       }
     ]
   },
@@ -2007,7 +2215,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7cnfTErGmwQ/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "T8ttQtDT5dI",
@@ -2023,7 +2231,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/T8ttQtDT5dI/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "zwl7HtXL4uo",
@@ -2039,7 +2247,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zwl7HtXL4uo/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "ll3hVjnHQDw",
@@ -2071,7 +2279,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DtG4rF7QWZE/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "lj_O6mf5tN4",
@@ -2087,7 +2295,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lj_O6mf5tN4/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
+      },
+      {
+        "id": "QyQugso92s0",
+        "title": "Aulaad Episode 25 Presented By Brite | 3rd May 2021 | ARY Digital Drama",
+        "episode": 25,
+        "date": "2021-05-03",
+        "published": "2021-05-03T17:52:03Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/QyQugso92s0/hqdefault.jpg",
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "Ltm5QYV7NkI",
@@ -2103,7 +2327,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Ltm5QYV7NkI/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "7Obu5-GqbDc",
@@ -2119,7 +2343,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7Obu5-GqbDc/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "oPqftXPe9jg",
@@ -2135,7 +2359,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/oPqftXPe9jg/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "XzrjYYOTW5U",
@@ -2151,7 +2375,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XzrjYYOTW5U/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "lmN9K9zQyTQ",
@@ -2167,7 +2391,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lmN9K9zQyTQ/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "npwYUHy17Qs",
@@ -2183,7 +2407,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/npwYUHy17Qs/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
+      },
+      {
+        "id": "pwPf25BCJb4",
+        "title": "Aulaad Episode 14 | Presented By Brite | 23rd Mar 2021 | ARY Digital Drama",
+        "episode": 14,
+        "date": "2021-03-23",
+        "published": "2021-03-23T15:51:48Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/pwPf25BCJb4/hqdefault.jpg",
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
+      },
+      {
+        "id": "9dlSHNWyuYg",
+        "title": "Aulaad Episode 13 | Presented by Brite | 16th Mar 2021 | ARY Digital Drama",
+        "episode": 13,
+        "date": "2021-03-16",
+        "published": "2021-03-16T15:49:42Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/9dlSHNWyuYg/hqdefault.jpg",
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "s4CfZ0dyzDA",
@@ -2199,7 +2455,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/s4CfZ0dyzDA/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "UUjnfwowAsc",
@@ -2215,7 +2471,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UUjnfwowAsc/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "kcEkZtkTycA",
@@ -2231,7 +2487,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kcEkZtkTycA/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "fidGxRTtu5o",
@@ -2247,7 +2503,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fidGxRTtu5o/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "SuZRTBKVDQo",
@@ -2263,7 +2519,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SuZRTBKVDQo/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "maYoMZ2p4m0",
@@ -2279,7 +2535,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/maYoMZ2p4m0/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "8UdCqwg_Cl8",
@@ -2295,7 +2551,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8UdCqwg_Cl8/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "W4vTGkH_eN8",
@@ -2311,7 +2567,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/W4vTGkH_eN8/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "cIsxePYGd3k",
@@ -2327,7 +2583,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cIsxePYGd3k/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "Eix1QivK6qs",
@@ -2343,7 +2599,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Eix1QivK6qs/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
         "id": "n1Mmu3TfrvE",
@@ -2375,7 +2631,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vKF-ffjTnYw/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       }
     ]
   },
@@ -25850,118 +26106,6 @@
         "checkedAt": "2026-11-18T20:39:16.999769+00:00"
       },
       {
-        "id": "pA6TuPlur4U",
-        "title": "Ranjha Ranjha Kardi Episode #29 HUM TV Drama 18 May 2019",
-        "episode": 29,
-        "date": "2019-05-18",
-        "published": "2019-05-18T16:30:02Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/pA6TuPlur4U/hqdefault.jpg",
-        "checkedAt": "2026-11-08T13:38:30.488160+00:00"
-      },
-      {
-        "id": "geFFoSr0H5o",
-        "title": "Ranjha Ranjha Kardi Episode #28 HUM TV Drama 11 May 2019",
-        "episode": 28,
-        "date": "2019-05-11",
-        "published": "2019-05-11T16:12:18Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/geFFoSr0H5o/hqdefault.jpg",
-        "checkedAt": "2026-11-08T13:38:30.488160+00:00"
-      },
-      {
-        "id": "WW-tnQ_mYmM",
-        "title": "Ranjha Ranjha Kardi Episode #27 HUM TV Drama 4 May 2019",
-        "episode": 27,
-        "date": "2019-05-04",
-        "published": "2019-05-04T16:12:29Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/WW-tnQ_mYmM/hqdefault.jpg",
-        "checkedAt": "2026-11-08T13:38:30.488160+00:00"
-      },
-      {
-        "id": "x4YSZn_zBQs",
-        "title": "Ranjha Ranjha Kardi Episode #23 HUM TV Drama 6 April 2019",
-        "episode": 23,
-        "date": "2019-04-06",
-        "published": "2019-04-06T16:15:00Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/x4YSZn_zBQs/hqdefault.jpg",
-        "checkedAt": "2026-11-08T13:38:30.488160+00:00"
-      },
-      {
-        "id": "ksVuIq5ZfEM",
-        "title": "Ranjha Ranjha Kardi Episode #21 HUM TV Drama 23 March 2019",
-        "episode": 21,
-        "date": "2019-03-23",
-        "published": "2019-03-23T16:15:01Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ksVuIq5ZfEM/hqdefault.jpg",
-        "checkedAt": "2026-11-08T13:38:30.488160+00:00"
-      },
-      {
-        "id": "kzqfkpEpqRE",
-        "title": "Ranjha Ranjha Kardi Episode #20 HUM TV Drama 16 March 2019",
-        "episode": 20,
-        "date": "2019-03-16",
-        "published": "2019-03-16T16:15:01Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/kzqfkpEpqRE/hqdefault.jpg",
-        "checkedAt": "2026-11-08T13:38:30.488160+00:00"
-      },
-      {
-        "id": "50OkyOTM6wU",
-        "title": "Ranjha Ranjha Kardi Episode #17 HUM TV Drama 23 February 2019",
-        "episode": 17,
-        "date": "2019-02-23",
-        "published": "2019-02-23T16:16:03Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/50OkyOTM6wU/hqdefault.jpg",
-        "checkedAt": "2026-11-08T13:38:30.488160+00:00"
-      },
-      {
         "id": "dW-uWwajZCI",
         "title": "Ranjha Ranjha Kardi - Episode 15 - Iqra Aziz - Imran Ashraf - Syed Jibran - Hum TV",
         "episode": 15,
@@ -25976,22 +26120,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dW-uWwajZCI/hqdefault.jpg",
         "checkedAt": "2026-11-18T20:39:16.999769+00:00"
-      },
-      {
-        "id": "H1igptYCi6w",
-        "title": "Ranjha Ranjha Kardi Episode #14 HUM TV Drama 2 February 2019",
-        "episode": 14,
-        "date": "2019-02-02",
-        "published": "2019-02-02T16:15:00Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/H1igptYCi6w/hqdefault.jpg",
-        "checkedAt": "2026-11-08T13:38:30.488160+00:00"
       },
       {
         "id": "rBlkDm7Xz4w",
@@ -26122,22 +26250,6 @@
         "checkedAt": "2026-11-18T20:39:16.999769+00:00"
       },
       {
-        "id": "yTYPgaQYGRo",
-        "title": "Ranjha Ranjha Kardi Episode #05 HUM TV Drama 1 December 2018",
-        "episode": 5,
-        "date": "2018-12-01",
-        "published": "2018-12-01T16:40:01Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/yTYPgaQYGRo/hqdefault.jpg",
-        "checkedAt": "2026-11-08T13:38:30.488160+00:00"
-      },
-      {
         "id": "4B-bgrwEJfs",
         "title": "Ranjha Ranjha Kardi - Episode 04 - Iqra Aziz - Imran Ashraf - Syed Jibran - Hum TV",
         "episode": 4,
@@ -26200,22 +26312,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/sXgmHNm_W10/hqdefault.jpg",
         "checkedAt": "2026-11-18T20:39:16.999769+00:00"
-      },
-      {
-        "id": "eEbT-p8KOO8",
-        "title": "Ranjha Ranjha Kardi Episode #01 HUM TV Drama 3 November 2018",
-        "episode": 1,
-        "date": "2018-11-03",
-        "published": "2018-11-03T17:00:04Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/eEbT-p8KOO8/hqdefault.jpg",
-        "checkedAt": "2026-11-08T13:38:30.488160+00:00"
       }
     ]
   },
@@ -26284,22 +26380,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/VqYcJWuyYw8/hqdefault.jpg",
         "checkedAt": "2026-11-19T02:38:24.866692+00:00"
-      },
-      {
-        "id": "hWb3pv9b79E",
-        "title": "Sang-e-Mah Episode 23 - 25 Jan 2026 [ Hania Amir, Atif Aslam & And Kubra Khan ] HUM TV #haniaamir",
-        "episode": 23,
-        "date": "2026-01-25",
-        "published": "2026-01-25T12:01:15Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/hWb3pv9b79E/hqdefault.jpg",
-        "checkedAt": "2026-11-08T13:38:30.488160+00:00"
       },
       {
         "id": "uG2qQyDwpyE",
@@ -26478,22 +26558,6 @@
         "checkedAt": "2026-11-19T02:38:24.866692+00:00"
       },
       {
-        "id": "nwLk4WUM1lI",
-        "title": "Sang-e-Mah Episode 11 - 19 Jan 2026 [ Hania Amir, Atif Aslam & And Kubra Khan ] HUM TV #haniaamir",
-        "episode": 11,
-        "date": "2026-01-19",
-        "published": "2026-01-19T14:01:21Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/nwLk4WUM1lI/hqdefault.jpg",
-        "checkedAt": "2026-11-08T13:38:30.488160+00:00"
-      },
-      {
         "id": "yfv_sC0ASh4",
         "title": "Sang-e-Mah EP 11 [Eng Sub] 20 Mar 22 - Presented by Dawlance & Itel Mobile, Powered By Master Paints",
         "episode": 11,
@@ -26572,22 +26636,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/1si_1bXu7wU/hqdefault.jpg",
         "checkedAt": "2026-11-19T02:38:24.866692+00:00"
-      },
-      {
-        "id": "0CBTSppzY9U",
-        "title": "Sang-e-Mah EP 07 [Eng Sub] 20 Feb 22 - Presented by Dawlance & Itel Mobile, Powered By Master Paints",
-        "episode": 7,
-        "date": "2022-02-20",
-        "published": "2022-02-20T15:58:18Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/0CBTSppzY9U/hqdefault.jpg",
-        "checkedAt": "2026-11-08T13:38:30.488160+00:00"
       },
       {
         "id": "XimDbZMj2k4",
@@ -26670,22 +26718,6 @@
         "checkedAt": "2026-11-19T02:38:24.866692+00:00"
       },
       {
-        "id": "fdshNPZELZQ",
-        "title": "Sang-e-Mah Episode 02 - 10 January 2026 [ Hania Amir, Atif Aslam & And Kubra Khan ] HUM TV",
-        "episode": 2,
-        "date": "2026-01-10",
-        "published": "2026-01-10T17:01:06Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/fdshNPZELZQ/hqdefault.jpg",
-        "checkedAt": "2026-11-08T13:38:30.488160+00:00"
-      },
-      {
         "id": "Si2E7we0jE4",
         "title": "Sang-e-Mah EP 02 [Eng Sub] 16 Jan 22 - Presented by Dawlance & Itel Mobile, Powered By Master Paints",
         "episode": 2,
@@ -26754,22 +26786,6 @@
         "checkedAt": "2026-11-19T02:38:24.866692+00:00"
       },
       {
-        "id": "i0BIKuZaBn0",
-        "title": "Suno Chanda Episode #27 HUM TV Drama 12 June 2018",
-        "episode": 27,
-        "date": "2018-06-12",
-        "published": "2018-06-12T18:13:25Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/i0BIKuZaBn0/hqdefault.jpg",
-        "checkedAt": "2026-11-08T19:44:43.947432+00:00"
-      },
-      {
         "id": "xAAS4npEtQc",
         "title": "Suno Chanda Episode #26  HUM TV Drama 11 June 2018",
         "episode": 26,
@@ -26800,22 +26816,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/w6FCUjAHuRw/hqdefault.jpg",
         "checkedAt": "2026-11-19T02:38:24.866692+00:00"
-      },
-      {
-        "id": "2lYJyMs3PlI",
-        "title": "Suno Chanda Episode #24 HUM TV Drama 9 June 2018",
-        "episode": 24,
-        "date": "2018-06-09",
-        "published": "2018-06-09T17:51:57Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/2lYJyMs3PlI/hqdefault.jpg",
-        "checkedAt": "2026-11-08T19:44:43.947432+00:00"
       },
       {
         "id": "wF-5A2wS-lA",
@@ -26850,22 +26850,6 @@
         "checkedAt": "2026-11-19T02:38:24.866692+00:00"
       },
       {
-        "id": "IWpK1vvsO2s",
-        "title": "Suno Chanda Episode #21 HUM TV Drama 6 June 2018",
-        "episode": 21,
-        "date": "2018-06-06",
-        "published": "2018-06-06T17:25:50Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/IWpK1vvsO2s/hqdefault.jpg",
-        "checkedAt": "2026-11-08T19:44:43.947432+00:00"
-      },
-      {
         "id": "b3E2RTuA2Bg",
         "title": "Suno Chanda Episode #20 HUM TV Drama 5 June 2018",
         "episode": 20,
@@ -26880,22 +26864,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/b3E2RTuA2Bg/hqdefault.jpg",
         "checkedAt": "2026-11-19T02:38:24.866692+00:00"
-      },
-      {
-        "id": "afT3wJIY1CQ",
-        "title": "Suno Chanda Episode #19 HUM TV Drama 4 June 2018",
-        "episode": 19,
-        "date": "2018-06-04",
-        "published": "2018-06-04T18:34:11Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/afT3wJIY1CQ/hqdefault.jpg",
-        "checkedAt": "2026-11-08T19:44:43.947432+00:00"
       },
       {
         "id": "2ZtyMBLF8rM",
@@ -26928,38 +26896,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ixnz-lcSB7A/hqdefault.jpg",
         "checkedAt": "2026-11-19T02:38:24.866692+00:00"
-      },
-      {
-        "id": "xEL1_mG8RxA",
-        "title": "Suno Chanda Episode #16 HUM TV Drama 1 June 2018",
-        "episode": 16,
-        "date": "2018-06-01",
-        "published": "2018-06-01T18:57:50Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/xEL1_mG8RxA/hqdefault.jpg",
-        "checkedAt": "2026-11-08T19:44:43.947432+00:00"
-      },
-      {
-        "id": "FHQW7tmHf_U",
-        "title": "Suno Chanda Season 2 - Episode 15 - Iqra Aziz - Farhan Saeed - Mashal Khan- HUM TV",
-        "episode": 15,
-        "date": "2022-04-17",
-        "published": "2022-04-17T13:00:12Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/FHQW7tmHf_U/hqdefault.jpg",
-        "checkedAt": "2026-11-08T19:44:43.947432+00:00"
       },
       {
         "id": "R-O90t9VCSI",
@@ -27058,22 +26994,6 @@
         "checkedAt": "2026-11-19T02:38:24.866692+00:00"
       },
       {
-        "id": "OI-dpi8BWQU",
-        "title": "Suno Chanda Season 2 - Episode 10 - Iqra Aziz - Farhan Saeed - Mashal Khan- HUM TV",
-        "episode": 10,
-        "date": "2022-04-12",
-        "published": "2022-04-12T13:00:13Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/OI-dpi8BWQU/hqdefault.jpg",
-        "checkedAt": "2026-11-08T19:44:43.947432+00:00"
-      },
-      {
         "id": "0E0E1gJeIFg",
         "title": "Suno Chanda Episode #10 HUM TV Drama 26 May 2018",
         "episode": 10,
@@ -27136,22 +27056,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cUKZJ4PPxOM/hqdefault.jpg",
         "checkedAt": "2026-11-19T02:38:24.866692+00:00"
-      },
-      {
-        "id": "4cN4PC23uzk",
-        "title": "Suno Chanda Season 2 - Episode 05 - Iqra Aziz - Farhan Saeed - Mashal Khan- HUM TV",
-        "episode": 5,
-        "date": "2022-04-07",
-        "published": "2022-04-07T13:00:04Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/4cN4PC23uzk/hqdefault.jpg",
-        "checkedAt": "2026-11-08T19:44:43.947432+00:00"
       },
       {
         "id": "nY0FYp8y4Lo",
@@ -27414,22 +27318,6 @@
         "checkedAt": "2026-11-19T02:38:24.866692+00:00"
       },
       {
-        "id": "y2XFdg_DecM",
-        "title": "Udaari Episode 20 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 20,
-        "date": "2026-10-12",
-        "published": "2026-10-12T14:00:25Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/y2XFdg_DecM/hqdefault.jpg",
-        "checkedAt": "2026-11-08T19:44:43.947432+00:00"
-      },
-      {
         "id": "z7hej3KRf64",
         "title": "Udaari - Episode 20 - [ HD ] - ( Ahsan Khan - Urwa Hocane - Farhan Saeed ) - HUM TV Drama",
         "episode": 20,
@@ -27444,38 +27332,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/z7hej3KRf64/hqdefault.jpg",
         "checkedAt": "2026-11-19T02:38:24.866692+00:00"
-      },
-      {
-        "id": "ijI4zYgnP0o",
-        "title": "Udaari Episode 19 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 19,
-        "date": "2026-10-11",
-        "published": "2026-10-11T14:00:08Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ijI4zYgnP0o/hqdefault.jpg",
-        "checkedAt": "2026-11-08T19:44:43.947432+00:00"
-      },
-      {
-        "id": "HDUn0tDIkIU",
-        "title": "Udaari Episode 18 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 18,
-        "date": "2026-10-10",
-        "published": "2026-10-10T14:00:24Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/HDUn0tDIkIU/hqdefault.jpg",
-        "checkedAt": "2026-11-08T19:44:43.947432+00:00"
       },
       {
         "id": "TB67afm9kIQ",
@@ -27590,22 +27446,6 @@
         "checkedAt": "2026-11-19T02:38:24.866692+00:00"
       },
       {
-        "id": "ACFiGLNsZgU",
-        "title": "Udaari Episode 13 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 13,
-        "date": "2026-10-05",
-        "published": "2026-10-05T14:00:18Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ACFiGLNsZgU/hqdefault.jpg",
-        "checkedAt": "2026-11-08T19:44:43.947432+00:00"
-      },
-      {
         "id": "5titQREhaMU",
         "title": "Udaari - Episode 13 - [ HD ] - ( Ahsan Khan - Urwa Hocane - Farhan Saeed ) - HUM TV Drama",
         "episode": 13,
@@ -27702,22 +27542,6 @@
         "checkedAt": "2026-11-19T02:38:24.866692+00:00"
       },
       {
-        "id": "rnJ2VK1bh1k",
-        "title": "Udaari Episode 07 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 7,
-        "date": "2026-09-29",
-        "published": "2026-09-29T14:00:30Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/rnJ2VK1bh1k/hqdefault.jpg",
-        "checkedAt": "2026-11-08T19:44:43.947432+00:00"
-      },
-      {
         "id": "Rb4YxCK_Cqs",
         "title": "Udaari Episode 06 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
         "episode": 6,
@@ -27796,22 +27620,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/f2AByMb0SvM/hqdefault.jpg",
         "checkedAt": "2026-11-19T02:38:24.866692+00:00"
-      },
-      {
-        "id": "4eF78oT9-3I",
-        "title": "Udaari Episode 02 - [Enhanced Version] - Urwa Hocane, Farhan Saeed, Ahsan Khan - HUM TV",
-        "episode": 2,
-        "date": "2026-09-24",
-        "published": "2026-09-24T14:00:18Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/4eF78oT9-3I/hqdefault.jpg",
-        "checkedAt": "2026-11-08T19:44:43.947432+00:00"
       },
       {
         "id": "aw8iyRdRea4",

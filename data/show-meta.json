@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T16:38:16.090025+05:00",
+  "generatedAt": "2026-11-23T00:48:47.777044+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -19,11 +19,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 15,
-        "time": "00:00",
+        "number": 16,
+        "time": "20:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-22"
+        "date": "2026-11-23"
       }
     },
     "harpalgeo-nashtar": {
@@ -42,13 +42,6 @@
         "availableGB": false,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 35,
-        "time": "20:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-22"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -79,7 +72,14 @@
         "embeddable": true
       },
       "poster": "https://i.ytimg.com/vi/7mpQfSZvLZE/hqdefault.jpg",
-      "posterSource": "Official YouTube thumbnail"
+      "posterSource": "Official YouTube thumbnail",
+      "tvToday": {
+        "number": 60,
+        "time": "03:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-11-23"
+      }
     },
     "harpalgeo-khafa": {
       "lastAttempt": "2026-10-12T20:10:58.069948+05:00",
@@ -97,13 +97,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 32,
-        "time": "04:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-22"
       }
     },
     "hum-aangan": {
@@ -135,11 +128,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 39,
+        "number": 40,
         "time": "21:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-22"
+        "date": "2026-11-23"
       }
     },
     "hum-bombay-tailors": {
