@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T01:49:04.843009+00:00",
+  "generatedAt": "2026-11-23T13:06:08.395470+00:00",
   "sources": [
     {
       "id": "homebased",
@@ -24,6 +24,36 @@
     }
   ],
   "videos": [
+    {
+      "id": "cUSOvSHqVxs",
+      "title": "𝐄𝐩-35 | सीरतुन नबी ﷺ उँगलियों पर | सीरत अमली है | Hindi | ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-23",
+      "source": "publisher YouTube Data API"
+    },
+    {
+      "id": "bt_tp27T3So",
+      "title": "𝐄𝐩-34 | सीरतुन नबी ﷺ उँगलियों पर | सीरत कामिल है | Hindi | ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-23",
+      "source": "publisher YouTube Data API"
+    },
+    {
+      "id": "PkxtlKPPAQU",
+      "title": "सीरतुन नबी ﷺ उँगलियों पर | रसूल ﷺ की मक्की ज़िंदगी | असबाक़: 1 to 15 | Hindi | ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-23",
+      "source": "publisher YouTube Data API"
+    },
     {
       "id": "lGQGbJ8wtAE",
       "title": "𝐄𝐩-31 | सीरतुन नबी ﷺ उँगलियों पर | सीरत और हदीस | Hindi | ‪@understandquran‬",
@@ -455,6 +485,16 @@
       "source": "publisher YouTube Data API"
     },
     {
+      "id": "sY57e2vGbIU",
+      "title": "𝐒𝐞𝐞𝐫𝐚𝐭 𝐮𝐧 𝐍𝐚𝐛𝐢 ﷺ 𝐔𝐧𝐠𝐥𝐢𝐲𝐨𝐧 𝐩𝐚𝐫 | Quran & Seerah | 𝐋𝐞𝐬𝐬𝐨𝐧𝐬 𝟐𝟗 - 𝟒𝟎 | 𝐑𝐨𝐦𝐚𝐧| #𝐮𝐪𝐚𝐬𝐞𝐞𝐫𝐚𝐡𝐬𝐡𝐨𝐫𝐭𝐬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "general",
+      "date": "2026-09-29",
+      "source": "publisher YouTube Data API"
+    },
+    {
       "id": "nHahcj1lfyI",
       "title": "Allah Could Have Revealed the Quran Instantly",
       "channelId": "bayyinah",
@@ -541,6 +581,26 @@
       "channel": "Nouman Ali Khan - Official - Bayyinah",
       "language": "English / Urdu",
       "topic": "recitation",
+      "date": "2026-09-07",
+      "source": "publisher YouTube Data API"
+    },
+    {
+      "id": "UplrzniSNqo",
+      "title": "𝐒𝐞𝐞𝐫𝐚𝐭 𝐮𝐧 𝐍𝐚𝐛𝐢 ﷺ 𝐔𝐧𝐠𝐥𝐢𝐲𝐨𝐧 𝐩𝐚𝐫 | Quran & Seerah | 𝐋𝐞𝐬𝐬𝐨𝐧𝐬 29-40 | 𝐔𝐫𝐝𝐮 | #uqaseerahshorts",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "general",
+      "date": "2026-09-07",
+      "source": "publisher YouTube Data API"
+    },
+    {
+      "id": "7ZY6p5vlECQ",
+      "title": "𝐒𝐞𝐞𝐫𝐚𝐭 𝐮𝐧 𝐍𝐚𝐛𝐢 ﷺ 𝗼𝗻 𝗙𝗶𝗻𝗴𝗲𝗿𝘁𝗶𝗽𝘀 | Quran & Seerah | 𝐋𝐞𝐬𝐬𝐨𝐧𝐬 29-40 | 𝐄𝐧𝐠𝐥𝐢𝐬𝐡",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "general",
       "date": "2026-09-07",
       "source": "publisher YouTube Data API"
     },
@@ -1315,6 +1375,6 @@
       "source": "verified official teaching upload"
     }
   ],
-  "count": 129,
+  "count": 135,
   "errors": []
 }
