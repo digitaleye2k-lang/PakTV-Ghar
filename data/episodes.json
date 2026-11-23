@@ -35,42 +35,6 @@
       }
     ]
   },
-  "arydigital-dar-e-nijaat": {
-    "episodes": [
-      {
-        "title": "Dar-e-Nijaat Episode 32 | 20 NOV 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
-        "episode": 32,
-        "id": "0bQept68Ayk",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-20"
-      },
-      {
-        "title": "Dar-e-Nijaat Episode 32 | 20 November 2026 | Sheheryar Munawar | Dur-e-Fishan | ARY Digital",
-        "episode": 32,
-        "id": "iTd0uPq4OsU",
-        "source": "ARY Digital",
-        "kind": "youtube",
-        "date": "2026-11-20"
-      },
-      {
-        "id": "wKGx32p8Bfg",
-        "title": "Dar-e-Nijaat Episode 29 | 7 November 2026 | ENG SUB | Sheheryar Munawar | Dur-e-Fishan | ARY Digital",
-        "episode": 29,
-        "date": "2026-11-07",
-        "published": "2026-11-07T16:00:34Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/wKGx32p8Bfg/hqdefault.jpg",
-        "checkedAt": "2026-11-09T00:58:35.933821+00:00"
-      }
-    ]
-  },
   "arydigital-lagan-lagi": {
     "episodes": [
       {
@@ -589,14 +553,6 @@
         "title": "Nashtar Episode 33 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
         "episode": 33,
         "id": "ve87rTo0oxw",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-20"
-      },
-      {
-        "title": "Nashtar Episode 33 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
-        "episode": 33,
-        "id": "A3-fOmE_mOo",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-11-20"
@@ -2638,6 +2594,22 @@
   "arydigital-baby-baji": {
     "episodes": [
       {
+        "id": "rX8tE7YTIwI",
+        "title": "Baby Baji Episode 63 | 30th July 2023 (English Subtitles) ARY Digital Drama",
+        "episode": 63,
+        "date": "2023-07-30",
+        "published": "2023-07-30T15:15:08Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/rX8tE7YTIwI/hqdefault.jpg",
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
+      },
+      {
         "id": "2Ue5TvRJjrM",
         "title": "Baby Baji Episode 62 | 27th July 2023 (English Subtitles) | ARY Digital Drama",
         "episode": 62,
@@ -2651,7 +2623,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2Ue5TvRJjrM/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "h95zc_4ykI4",
@@ -2667,7 +2639,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/h95zc_4ykI4/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "sEFwiIloMpI",
@@ -2683,7 +2655,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/sEFwiIloMpI/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "ihuh07OK1tQ",
@@ -2731,7 +2703,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/qcJ0HxIYIto/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "MPUxzTqTeLI",
@@ -2750,6 +2722,22 @@
         "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
+        "id": "IZBqW9OGsGQ",
+        "title": "Baby Baji Episode 35 | 26th June 2023 (English Subtitles) ARY Digital Drama",
+        "episode": 35,
+        "date": "2023-06-26",
+        "published": "2023-06-26T15:00:09Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/IZBqW9OGsGQ/hqdefault.jpg",
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
+      },
+      {
         "id": "ZgqsPqOHDG4",
         "title": "Baby Baji Episode 34 | 25th June 2023 (English Subtitles) | ARY Digital Drama",
         "episode": 34,
@@ -2763,7 +2751,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ZgqsPqOHDG4/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "duaUSLSNQ-U",
@@ -2779,7 +2767,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/duaUSLSNQ-U/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "bV0vgpsHquI",
@@ -2795,7 +2783,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/bV0vgpsHquI/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "9aZeVxwLv50",
@@ -2811,7 +2799,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9aZeVxwLv50/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "0Ab4HwFHBwU",
@@ -2827,7 +2815,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0Ab4HwFHBwU/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "G3Ug0iUNlKI",
@@ -2875,7 +2863,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fDf7DpcqQCE/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "XC7DEZNWRUE",
@@ -2907,7 +2895,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/BTvexXta7Tw/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "G2-WzSIr3ec",
@@ -2939,7 +2927,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/e_DPk0v0Ris/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "Kp_LLT53_cs",
@@ -2955,7 +2943,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Kp_LLT53_cs/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "PrzZA40k928",
@@ -2971,7 +2959,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PrzZA40k928/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "MfY9QcTrstE",
@@ -2987,7 +2975,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/MfY9QcTrstE/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "3d12fXYa6sE",
@@ -3019,7 +3007,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9AegH_e6uB4/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "gQ6ZBX4ul0E",
@@ -3035,7 +3023,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/gQ6ZBX4ul0E/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "tOr1CFoqI0g",
@@ -3051,7 +3039,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/tOr1CFoqI0g/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "11ofIvVTEKM",
@@ -3067,7 +3055,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/11ofIvVTEKM/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "kuDgI-z4wGQ",
@@ -3083,7 +3071,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kuDgI-z4wGQ/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "gqmNJa-_RJ4",
@@ -3099,7 +3087,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/gqmNJa-_RJ4/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "r1znB29I7P0",
@@ -3115,7 +3103,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/r1znB29I7P0/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "GU_dlkOQnHI",
@@ -3131,7 +3119,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GU_dlkOQnHI/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "a4CD0Bz-g_I",
@@ -3147,7 +3135,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/a4CD0Bz-g_I/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "ZSiGLmXyQUE",
@@ -3163,7 +3151,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ZSiGLmXyQUE/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       }
     ]
   },
@@ -3186,6 +3174,22 @@
         "checkedAt": "2026-11-13T01:54:38.100353+00:00"
       },
       {
+        "id": "4kYsl6zYXJQ",
+        "title": "Baby Baji Ki Bahuwain 2nd Last Episode 74 | 5 Dec 2024 (English Subtitles) ARY Digital",
+        "episode": 74,
+        "date": "2024-12-05",
+        "published": "2024-12-05T15:00:05Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/4kYsl6zYXJQ/hqdefault.jpg",
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
+      },
+      {
         "id": "njHjcuvfUKU",
         "title": "Baby Baji Ki Bahuwain Episode 73 | 4 Dec 2024 (English Subtitles) ARY Digital",
         "episode": 73,
@@ -3199,7 +3203,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/njHjcuvfUKU/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "OHLOhlU4XLI",
@@ -3215,7 +3219,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OHLOhlU4XLI/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "-QrsJP67pF0",
@@ -3295,7 +3299,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-XK1Ti91U0U/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "yuFItbS3IQ0",
@@ -3346,6 +3350,54 @@
         "checkedAt": "2026-11-13T01:54:38.100353+00:00"
       },
       {
+        "id": "pY-7r_6KS-U",
+        "title": "Baby Baji Ki Bahuwain Episode 55 | Digitally Presented by Sensodyne | 16 November 2024 | ARY Digital",
+        "episode": 55,
+        "date": "2024-11-16",
+        "published": "2024-11-16T15:00:52Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/pY-7r_6KS-U/hqdefault.jpg",
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
+      },
+      {
+        "id": "O80WgMGOWLM",
+        "title": "Baby Baji Ki Bahuwain Episode 49 | Digitally Presented by Sensodyne | 10 November 2024 (Eng Sub) ARY",
+        "episode": 49,
+        "date": "2024-11-10",
+        "published": "2024-11-10T15:00:22Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/O80WgMGOWLM/hqdefault.jpg",
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
+      },
+      {
+        "id": "op3D2LkwotU",
+        "title": "Baby Baji Ki Bahuwain Episode 44 | Digitally Presented by Sensodyne | 5 November 2024 (Eng Sub) ARY",
+        "episode": 44,
+        "date": "2024-11-05",
+        "published": "2024-11-05T15:09:30Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/op3D2LkwotU/hqdefault.jpg",
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
+      },
+      {
         "id": "iXebkYoTSMo",
         "title": "Baby Baji Ki Bahuwain Episode 39 | Digitally Presented by Sensodyne | 31 October 2024 (Eng Sub) |ARY",
         "episode": 39,
@@ -3378,6 +3430,22 @@
         "checkedAt": "2026-11-13T01:54:38.100353+00:00"
       },
       {
+        "id": "4tQbkbpdJTg",
+        "title": "Baby Baji Ki Bahuwain Episode 37 | Digitally Presented by Sensodyne | 29 October 2024 (Eng Sub) |ARY",
+        "episode": 37,
+        "date": "2024-10-29",
+        "published": "2024-10-29T15:00:07Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/4tQbkbpdJTg/hqdefault.jpg",
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
+      },
+      {
         "id": "r1O8zP8DAtM",
         "title": "Baby Baji Ki Bahuwain Episode 35 | Digitally Presented by Sensodyne | 27 October 2024 (Eng Sub)| ARY",
         "episode": 35,
@@ -3391,7 +3459,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/r1O8zP8DAtM/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "IL-wyvusLJk",
@@ -3407,7 +3475,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/IL-wyvusLJk/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "r_m_7ycxnEg",
@@ -3423,7 +3491,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/r_m_7ycxnEg/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "-OTiA1ctd74",
@@ -3455,7 +3523,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Q7etsfwk6hs/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "kpoTTiywfWI",
@@ -3471,7 +3539,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kpoTTiywfWI/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "UgArgZ437QI",
@@ -3487,7 +3555,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UgArgZ437QI/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
+      },
+      {
+        "id": "Nuqa9VoaG1I",
+        "title": "Baby Baji Ki Bahuwain Episode 26 | 18 October 2024 (English Subtitles) ARY Digital",
+        "episode": 26,
+        "date": "2024-10-18",
+        "published": "2024-10-18T15:00:28Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Nuqa9VoaG1I/hqdefault.jpg",
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "uAY7rSZXsSs",
@@ -3535,7 +3619,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ewdmnhqD4Dk/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
+      },
+      {
+        "id": "GroUmL-Fv9Q",
+        "title": "Baby Baji Ki Bahuwain Episode 21 | 13 October 2024 (English Subtitles) ARY Digital",
+        "episode": 21,
+        "date": "2024-10-13",
+        "published": "2024-10-13T15:00:24Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/GroUmL-Fv9Q/hqdefault.jpg",
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "qcTkg7Fu_pw",
@@ -3583,7 +3683,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kVe_Al48XA4/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "ub5xd-Hzo70",
@@ -3599,7 +3699,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ub5xd-Hzo70/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "oUM1A2JmJYk",
@@ -3615,7 +3715,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/oUM1A2JmJYk/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "8aL1_jNUB2c",
@@ -3647,7 +3747,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GaEwhcYmIgU/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "R5IGubiv4yc",
@@ -3663,7 +3763,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/R5IGubiv4yc/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "dHXKBXFq6vA",
@@ -3679,7 +3779,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dHXKBXFq6vA/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "vOfD8KkDYwM",
@@ -3711,7 +3811,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Y2ETjAWSjAI/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "7G1T22wAw7g",
@@ -3727,7 +3827,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7G1T22wAw7g/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "a4CD0Bz-g_I",
@@ -3743,7 +3843,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/a4CD0Bz-g_I/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       }
     ]
   },
@@ -3763,7 +3863,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Y-FR5libzrg/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "Jxw5ySJp-v0",
@@ -3779,7 +3879,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Jxw5ySJp-v0/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "3nmCe67uz74",
@@ -3795,7 +3895,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3nmCe67uz74/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "TEA7THLYJss",
@@ -3811,7 +3911,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TEA7THLYJss/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "gNgwAX4eIxo",
@@ -3843,7 +3943,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2ecKtpZWV-I/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "vM48zKOndYg",
@@ -3859,7 +3959,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vM48zKOndYg/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "845xhUQJicE",
@@ -3875,7 +3975,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/845xhUQJicE/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "IYa0nJZCQhc",
@@ -3891,7 +3991,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/IYa0nJZCQhc/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "tGwWa1Sx17o",
@@ -3910,6 +4010,22 @@
         "checkedAt": "2026-11-13T01:54:38.100353+00:00"
       },
       {
+        "id": "bupUxQOjyCg",
+        "title": "Balaa Episode 29 | Bilal Abbas | Ushna Shah | ARY Digital",
+        "episode": 29,
+        "date": "2024-03-22",
+        "published": "2024-03-22T06:30:11Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/bupUxQOjyCg/hqdefault.jpg",
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
+      },
+      {
         "id": "VnaisgpxeQg",
         "title": "Balaa Episode 28 | Bilal Abbas | Ushna Shah | ARY Digital",
         "episode": 28,
@@ -3923,7 +4039,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/VnaisgpxeQg/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
+      },
+      {
+        "id": "ptrHA2V6mHA",
+        "title": "Balaa Episode 27 | Bilal Abbas | Ushna Shah | ARY Digital",
+        "episode": 27,
+        "date": "2024-03-21",
+        "published": "2024-03-21T06:30:14Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ptrHA2V6mHA/hqdefault.jpg",
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "LuNV1yQhmo4",
@@ -3955,7 +4087,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/L0M36h799i4/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
+      },
+      {
+        "id": "hxXUXULHCHM",
+        "title": "Balaa Episode 23 | Bilal Abbas | Ushna Shah | ARY Digital",
+        "episode": 23,
+        "date": "2024-03-19",
+        "published": "2024-03-19T07:00:17Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/hxXUXULHCHM/hqdefault.jpg",
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "P4j8GtpDFyA",
@@ -3971,7 +4119,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/P4j8GtpDFyA/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "65xOFT7Pn0c",
@@ -3987,7 +4135,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/65xOFT7Pn0c/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "figSPtCSyOU",
@@ -4003,7 +4151,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/figSPtCSyOU/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "31uFXM2Ajdw",
@@ -4019,7 +4167,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/31uFXM2Ajdw/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "Fu9fh7v2b7U",
@@ -4035,7 +4183,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Fu9fh7v2b7U/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "FYzBpzmttcI",
@@ -4051,7 +4199,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/FYzBpzmttcI/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "Qs3eY_6ftPk",
@@ -4067,7 +4215,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Qs3eY_6ftPk/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "3LLGnxNKCyk",
@@ -4083,7 +4231,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/3LLGnxNKCyk/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "vpa0pyMwiHM",
@@ -4099,7 +4247,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vpa0pyMwiHM/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "5Wmv0ymnmg8",
@@ -4115,7 +4263,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/5Wmv0ymnmg8/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "7VAd6rgjGMg",
@@ -4131,7 +4279,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7VAd6rgjGMg/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "d9Vzq6e2jSY",
@@ -4147,7 +4295,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/d9Vzq6e2jSY/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "pvNLV-_6pjM",
@@ -4163,7 +4311,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pvNLV-_6pjM/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "L7yEm-lRwFQ",
@@ -4179,7 +4327,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/L7yEm-lRwFQ/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "fFMwIsy_pT8",
@@ -4195,7 +4343,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fFMwIsy_pT8/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "2Kk8k7dhYFA",
@@ -4211,7 +4359,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2Kk8k7dhYFA/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
+      },
+      {
+        "id": "rB85zTTdjR8",
+        "title": "Balaa Episode 3 | Bilal Abbas | Ushna Shah | ARY Digital",
+        "episode": 3,
+        "date": "2024-03-08",
+        "published": "2024-03-08T08:00:35Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/rB85zTTdjR8/hqdefault.jpg",
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "2_DpCDkQu9Y",
@@ -4227,12 +4391,28 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2_DpCDkQu9Y/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       }
     ]
   },
   "arydigital-beti": {
     "episodes": [
+      {
+        "id": "AO690CQt0GY",
+        "title": "Betiyaan Episode 24 - 1st November 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 24,
+        "date": "2022-11-01",
+        "published": "2022-11-01T15:00:11Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/AO690CQt0GY/hqdefault.jpg",
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
+      },
       {
         "id": "efhYTGsxJP0",
         "title": "Beti Last Episode 24 |Part 2 | - 26th February 2019 - ARY Digital [Subtitle Eng]",
@@ -4247,7 +4427,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/efhYTGsxJP0/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "GGaN7kq_shM",
@@ -4263,7 +4443,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/GGaN7kq_shM/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "WaP0hdWtPl0",
@@ -4279,7 +4459,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/WaP0hdWtPl0/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "OAwF0eFn2Vo",
@@ -4295,7 +4475,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OAwF0eFn2Vo/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "KoG7k94qO-g",
@@ -4311,7 +4491,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/KoG7k94qO-g/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "NL8QkzNGyKM",
@@ -4327,7 +4507,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/NL8QkzNGyKM/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "Qepoow6y6Ko",
@@ -4343,7 +4523,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Qepoow6y6Ko/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "7aTI5cqM1eQ",
@@ -4359,7 +4539,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7aTI5cqM1eQ/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "151yQT3HJ3g",
@@ -4375,7 +4555,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/151yQT3HJ3g/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "KJjuyXyWulc",
@@ -4391,7 +4571,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/KJjuyXyWulc/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "jgXTjqEYQgw",
@@ -4407,7 +4587,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/jgXTjqEYQgw/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
+      },
+      {
+        "id": "q5O68Kcj8vQ",
+        "title": "Beti Episode 12 - 15th January 2019 - ARY Digital [Subtitle Eng]",
+        "episode": 12,
+        "date": "2019-01-16",
+        "published": "2019-01-16T05:00:02Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/q5O68Kcj8vQ/hqdefault.jpg",
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "PkiPxsTaT9o",
@@ -4423,7 +4619,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PkiPxsTaT9o/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
+      },
+      {
+        "id": "rvfW-VsYb6U",
+        "title": "Beti Episode 10 - 8th January 2019 - ARY Digital [Subtitle Eng]",
+        "episode": 10,
+        "date": "2019-01-09",
+        "published": "2019-01-09T05:00:03Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/rvfW-VsYb6U/hqdefault.jpg",
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "0ArCjb6SX5U",
@@ -4439,7 +4651,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0ArCjb6SX5U/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "Lbpb3L47qxs",
@@ -4455,7 +4667,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Lbpb3L47qxs/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "z3HQji3E6XM",
@@ -4471,7 +4683,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/z3HQji3E6XM/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "SvLr0i2Gpg4",
@@ -4487,7 +4699,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SvLr0i2Gpg4/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "T_SOFQaTwP4",
@@ -4503,7 +4715,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/T_SOFQaTwP4/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "zK0Lf_U3NMk",
@@ -4519,7 +4731,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zK0Lf_U3NMk/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "urgLfSzBPi4",
@@ -4535,7 +4747,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/urgLfSzBPi4/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
+      },
+      {
+        "id": "1_eTtjQi4B8",
+        "title": "Betiyaan Episode 2 - 10th October 2022 (English Subtitles) - ARY Digital Drama",
+        "episode": 2,
+        "date": "2022-10-10",
+        "published": "2022-10-10T15:04:44Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/1_eTtjQi4B8/hqdefault.jpg",
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "lUuQJA4km8I",
@@ -4551,7 +4779,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lUuQJA4km8I/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "KJ7UL2pUzVI",
@@ -4567,7 +4795,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/KJ7UL2pUzVI/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "vuakPzuj4vk",
@@ -4583,7 +4811,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vuakPzuj4vk/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
         "id": "zbXXEy0j7nA",
@@ -4599,7 +4827,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zbXXEy0j7nA/hqdefault.jpg",
-        "checkedAt": "2026-11-13T01:54:38.100353+00:00"
+        "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       }
     ]
   },
@@ -28092,22 +28320,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/qCnMYXhclVA/hqdefault.jpg",
         "checkedAt": "2026-11-19T20:45:27.642739+00:00"
-      },
-      {
-        "id": "q1oeYejthww",
-        "title": "Izzat Episode 50 | 5 November 2026 | Merub Ali | Atabik Mohsin | Hashaam Khan | ARY Digital",
-        "episode": 50,
-        "date": "2026-11-08",
-        "published": "2026-11-08T15:00:05Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/q1oeYejthww/hqdefault.jpg",
-        "checkedAt": "2026-11-09T00:58:35.933821+00:00"
       }
     ]
   },

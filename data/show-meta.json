@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T00:48:47.777044+05:00",
+  "generatedAt": "2026-11-23T06:49:01.536645+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -42,6 +42,13 @@
         "availableGB": false,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 35,
+        "time": "01:00",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-11-23"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -97,6 +104,13 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
+      },
+      "tvToday": {
+        "number": 32,
+        "time": "11:30",
+        "channel": "Har Pal Geo",
+        "source": "https://harpalgeo.tv/schedule",
+        "date": "2026-11-23"
       }
     },
     "hum-aangan": {
@@ -797,9 +811,9 @@
       "fetchWarning": "HTTPError",
       "latestUpload": {
         "number": 24,
-        "id": "efhYTGsxJP0",
-        "title": "Beti Last Episode 24 |Part 2 | - 26th February 2019 - ARY Digital [Subtitle Eng]",
-        "date": "2019-02-26",
+        "id": "AO690CQt0GY",
+        "title": "Betiyaan Episode 24 - 1st November 2022 (English Subtitles) - ARY Digital Drama",
+        "date": "2022-11-01",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,
