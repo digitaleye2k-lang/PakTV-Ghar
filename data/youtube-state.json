@@ -1,6 +1,6 @@
 {
-  "quotaDay": "2026-11-23",
-  "dailySearches": 16,
+  "quotaDay": "2026-11-24",
+  "dailySearches": 8,
   "channels": {
     "hum": {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
@@ -7212,7 +7212,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/s0vpKgphi6w/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "rUEseZtI3bs",
@@ -7228,7 +7228,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rUEseZtI3bs/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "47jyx0i7igg",
@@ -7244,7 +7244,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/47jyx0i7igg/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "GYtay4hwtt0",
@@ -7263,6 +7263,22 @@
         "checkedAt": "2026-11-13T19:49:46.445863+00:00"
       },
       {
+        "id": "vmWz5_NHkhc",
+        "title": "Jaan e Jahan Episode 37 | {Eng Sub} Hamza Ali Abbasi | Ayeza Khan | 10 May 2024 | ARY Digital",
+        "episode": 37,
+        "date": "2024-05-10",
+        "published": "2024-05-10T16:00:56Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/vmWz5_NHkhc/hqdefault.jpg",
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
+      },
+      {
         "id": "Rh4YY7ZWcl4",
         "title": "Jaan e Jahan Episode 36 {Eng Sub} Hamza Ali Abbasi | Ayeza Khan | 4 May 2024 | ARY Digital",
         "episode": 36,
@@ -7276,7 +7292,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Rh4YY7ZWcl4/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
+      },
+      {
+        "id": "By3cbJQAt5E",
+        "title": "Jaan e Jahan Episode 35 {Eng Sub} Hamza Ali Abbasi | Ayeza Khan | 3 May 2024 | ARY Digital",
+        "episode": 35,
+        "date": "2024-05-03",
+        "published": "2024-05-03T16:05:00Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/By3cbJQAt5E/hqdefault.jpg",
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "a9lgAbNzBDI",
@@ -7308,7 +7340,39 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wSwdJDcQsRM/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
+      },
+      {
+        "id": "0hIktaJYGJM",
+        "title": "Jaan e Jahan Episode 31 (Eng Sub) | Hamza Ali Abbasi | Ayeza Khan | 19 April 2024 | ARY Digital",
+        "episode": 31,
+        "date": "2024-04-19",
+        "published": "2024-04-19T16:00:02Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/0hIktaJYGJM/hqdefault.jpg",
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
+      },
+      {
+        "id": "mu8cRcZI_10",
+        "title": "Jaan e Jahan Episode 29 (Eng Sub) | Hamza Ali Abbasi | Ayeza Khan | 12 April 2024 | ARY Digital",
+        "episode": 29,
+        "date": "2024-04-12",
+        "published": "2024-04-12T16:00:43Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/mu8cRcZI_10/hqdefault.jpg",
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "I3dvJpMVBfg",
@@ -7324,7 +7388,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/I3dvJpMVBfg/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "kgNk4_xCsR4",
@@ -7340,7 +7404,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kgNk4_xCsR4/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "V98DAtBNYUo",
@@ -7356,7 +7420,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/V98DAtBNYUo/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "bWajYImpoMw",
@@ -7372,7 +7436,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/bWajYImpoMw/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "jnWYAS5v5a0",
@@ -7388,7 +7452,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/jnWYAS5v5a0/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "9r4fmrbFyL4",
@@ -7404,7 +7468,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9r4fmrbFyL4/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "lCEjDOpfdPg",
@@ -7420,7 +7484,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lCEjDOpfdPg/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "3_sPbIhqayw",
@@ -7452,7 +7516,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pMET2WBU2-A/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "-YiP2vFUki8",
@@ -7468,7 +7532,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-YiP2vFUki8/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "RiFhAGMtANo",
@@ -7484,7 +7548,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/RiFhAGMtANo/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "Alf0xBTulb0",
@@ -7500,7 +7564,55 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Alf0xBTulb0/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
+      },
+      {
+        "id": "XUThKVE_I4Y",
+        "title": "Jaan e Jahan Episode 13 {Eng Sub} Hamza Ali Abbasi | Ayeza Khan | 2 February 2024 | ARY Digital",
+        "episode": 13,
+        "date": "2024-02-02",
+        "published": "2024-02-02T16:16:18Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/XUThKVE_I4Y/hqdefault.jpg",
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
+      },
+      {
+        "id": "X2-wVKDc3eQ",
+        "title": "Jaan e Jahan Episode 12 {Eng Sub} Hamza Ali Abbasi | Ayeza Khan | 27 January 2024 | ARY Digital",
+        "episode": 12,
+        "date": "2024-01-27",
+        "published": "2024-01-27T16:00:19Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/X2-wVKDc3eQ/hqdefault.jpg",
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
+      },
+      {
+        "id": "tep4JVxOyKk",
+        "title": "Jaan e Jahan Episode 11 {Eng Sub} Hamza Ali Abbasi | Ayeza Khan | 26 January 2024 | ARY Digital",
+        "episode": 11,
+        "date": "2024-01-26",
+        "published": "2024-01-26T16:00:09Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/tep4JVxOyKk/hqdefault.jpg",
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "zTABrkCGWCI",
@@ -7516,7 +7628,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zTABrkCGWCI/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
+      },
+      {
+        "id": "Fq0RQJJokF4",
+        "title": "Jaan e Jahan Episode 9 {Eng Sub} | Hamza Ali Abbasi | Ayeza Khan | 19 January 2024 | ARY Digital",
+        "episode": 9,
+        "date": "2024-01-19",
+        "published": "2024-01-19T16:02:56Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Fq0RQJJokF4/hqdefault.jpg",
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "LjxHlmeKTPc",
@@ -7532,7 +7660,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/LjxHlmeKTPc/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "kjdRmho84cI",
@@ -7548,7 +7676,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/kjdRmho84cI/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "uVbhBdmLP-8",
@@ -7564,7 +7692,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/uVbhBdmLP-8/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "w2tmmuaCD-8",
@@ -7580,7 +7708,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/w2tmmuaCD-8/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
+      },
+      {
+        "id": "7WFKc4ihNeM",
+        "title": "Jaan e Jahan Episode 04 {Eng Sub} Hamza Ali Abbasi | Ayeza Khan | 30 Dec 2023 | ARY Digital",
+        "episode": 4,
+        "date": "2023-12-30",
+        "published": "2023-12-30T16:00:04Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/7WFKc4ihNeM/hqdefault.jpg",
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "q1rWoFIi_xI",
@@ -7596,7 +7740,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/q1rWoFIi_xI/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "agktzm-WTIg",
@@ -7612,7 +7756,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/agktzm-WTIg/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "w14APWbqbcM",
@@ -7628,7 +7772,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/w14APWbqbcM/hqdefault.jpg",
-        "checkedAt": "2026-11-13T19:49:46.445863+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       }
     ],
     "arydigital-jalan": [
@@ -7646,7 +7790,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Bu0sQ93Kc48/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
+      },
+      {
+        "id": "v3PUkqGFI-M",
+        "title": "Jalan Episode 28 | Minal Khan | Fahad Sheikh | ARY Digital Drama",
+        "episode": 28,
+        "date": "2020-12-08",
+        "published": "2020-12-08T15:56:06Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/v3PUkqGFI-M/hqdefault.jpg",
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "OtHd8uDQb-k",
@@ -7662,7 +7822,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OtHd8uDQb-k/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
+      },
+      {
+        "id": "1wROpBTsobk",
+        "title": "Jalan Episode 26 [Subtitle Eng] - 1st December 2020 -  ARY Digital Drama",
+        "episode": 26,
+        "date": "2020-12-01",
+        "published": "2020-12-01T16:09:14Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/1wROpBTsobk/hqdefault.jpg",
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "2th0MaNPDdQ",
@@ -7678,7 +7854,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/2th0MaNPDdQ/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "YaUnbP7_zA8",
@@ -7726,7 +7902,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/T5UZhHlJYZ8/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "lhZBNTrryXY",
@@ -7742,7 +7918,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lhZBNTrryXY/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "PO2lEZW0Ft4",
@@ -7758,7 +7934,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PO2lEZW0Ft4/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "ZtlPyd7w01s",
@@ -7774,7 +7950,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ZtlPyd7w01s/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "y6fcCuz9Lgw",
@@ -7790,7 +7966,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/y6fcCuz9Lgw/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "cRRqXxXLutU",
@@ -7806,7 +7982,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cRRqXxXLutU/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "hpHn7mvadmc",
@@ -7822,7 +7998,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/hpHn7mvadmc/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "8Jd5mkYtBXQ",
@@ -7841,6 +8017,22 @@
         "checkedAt": "2026-11-14T01:28:51.107335+00:00"
       },
       {
+        "id": "soWQaXiC3MI",
+        "title": "Jalan Episode 14 [Subtitle Eng] - 16th September 2020 - ARY Digital Drama",
+        "episode": 14,
+        "date": "2020-09-16",
+        "published": "2020-09-16T16:49:09Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/soWQaXiC3MI/hqdefault.jpg",
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
+      },
+      {
         "id": "VBiSeFTjwmY",
         "title": "Jalan Episode 13 [Subtitle Eng] Presented by Ariel - 9th September 2020 - ARY Digital Drama",
         "episode": 13,
@@ -7854,7 +8046,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/VBiSeFTjwmY/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "zefTuQoI_W0",
@@ -7886,7 +8078,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zkoGnWpFjHo/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "UfVyxUZzsK8",
@@ -7902,7 +8094,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UfVyxUZzsK8/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "EQ9VWq9Zr-Y",
@@ -7918,7 +8110,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/EQ9VWq9Zr-Y/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "bWLnDzUgDis",
@@ -7950,7 +8142,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9RnlU60Clvo/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
+      },
+      {
+        "id": "1E61U_hNlMQ",
+        "title": "Jalan Episode 4 - Presented by Ariel [Subtitle Eng] - 8th July 2020 - ARY Digital",
+        "episode": 4,
+        "date": "2020-07-08",
+        "published": "2020-07-08T15:49:56Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/1E61U_hNlMQ/hqdefault.jpg",
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "aF40tK46-lA",
@@ -7966,7 +8174,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/aF40tK46-lA/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "-gsx6TE94BU",
@@ -7982,7 +8190,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-gsx6TE94BU/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "zW-sE08pZuE",
@@ -7998,7 +8206,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zW-sE08pZuE/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       }
     ],
     "arydigital-kabhi-main-kabhi-tum": [
@@ -8016,7 +8224,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/EiNlWJfXKlU/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "4o79dvaA5Nk",
@@ -8033,6 +8241,22 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/4o79dvaA5Nk/hqdefault.jpg",
         "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+      },
+      {
+        "id": "MH2-06CZZDc",
+        "title": "Kabhi Main Kabhi Tum Episode 30 | Fahad Mustafa | Hania Aamir | 21 Oct 2024 (Eng Sub) | ARY Digital",
+        "episode": 30,
+        "date": "2024-10-21",
+        "published": "2024-10-21T16:06:46Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/MH2-06CZZDc/hqdefault.jpg",
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "lv5_uKvxfXo",
@@ -8083,6 +8307,22 @@
         "checkedAt": "2026-11-14T01:28:51.107335+00:00"
       },
       {
+        "id": "Tk1n_9mAkj4",
+        "title": "Kabhi Main Kabhi Tum Episode 25 | Fahad Mustafa | Hania Aamir | 1 Oct 2024 (Eng Sub) | ARY Digital",
+        "episode": 25,
+        "date": "2024-10-01",
+        "published": "2024-10-01T16:00:24Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/Tk1n_9mAkj4/hqdefault.jpg",
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
+      },
+      {
         "id": "KoIF6nNh51Y",
         "title": "Kabhi Main Kabhi Tum Episode 23 | Fahad Mustafa | Hania Aamir | 24 Sep 2024 (Eng Sub) | ARY Digital",
         "episode": 23,
@@ -8096,7 +8336,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/KoIF6nNh51Y/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "T6j2bi-Za9E",
@@ -8112,7 +8352,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/T6j2bi-Za9E/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "3HjQ0orl7So",
@@ -8128,7 +8368,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/3HjQ0orl7So/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "hPF8twsmzsg",
@@ -8144,7 +8384,23 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/hPF8twsmzsg/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
+      },
+      {
+        "id": "cXslaKL0Ltc",
+        "title": "Kabhi Main Kabhi Tum Episode 19 | Fahad Mustafa | Hania Aamir | 9 Sep 2024 (Eng Sub) | ARY Digital",
+        "episode": 19,
+        "date": "2024-09-09",
+        "published": "2024-09-09T16:05:36Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/cXslaKL0Ltc/hqdefault.jpg",
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "C6eSmWvSFxM",
@@ -8176,7 +8432,23 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/ASYV7uX1nV8/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
+      },
+      {
+        "id": "kJbSj113Zs8",
+        "title": "Kabhi Main Kabhi Tum Episode 16 | Fahad Mustafa | Hania Aamir | 27 August 2024 (Eng Sub) ARY Digital",
+        "episode": 16,
+        "date": "2024-08-27",
+        "published": "2024-08-27T16:06:08Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/kJbSj113Zs8/hqdefault.jpg",
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "Rv5mGPt5Fdc",
@@ -8192,7 +8464,39 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/Rv5mGPt5Fdc/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
+      },
+      {
+        "id": "A_gA2bT7ukE",
+        "title": "Kabhi Main Kabhi Tum Episode 14 | Fahad Mustafa | Hania Aamir | 20 August 2024 (Eng Sub) ARY Digital",
+        "episode": 14,
+        "date": "2024-08-20",
+        "published": "2024-08-20T16:00:07Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/A_gA2bT7ukE/hqdefault.jpg",
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
+      },
+      {
+        "id": "1QSHG4Mw36w",
+        "title": "Kabhi Main Kabhi Tum Episode 13 | Fahad Mustafa | Hania Aamir | 19 August 2024 (Eng Sub) ARY Digital",
+        "episode": 13,
+        "date": "2024-08-19",
+        "published": "2024-08-19T16:05:08Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/1QSHG4Mw36w/hqdefault.jpg",
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "qeqRKbF4Cwk",
@@ -8208,7 +8512,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/qeqRKbF4Cwk/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "UADPQ5uHC30",
@@ -8240,7 +8544,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/Krda9nJnaX0/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "Ntq96WdJl4w",
@@ -8256,7 +8560,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/Ntq96WdJl4w/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "xmSkEX-SaiU",
@@ -8272,7 +8576,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/xmSkEX-SaiU/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "yM9MHWkrXdw",
@@ -8288,7 +8592,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/yM9MHWkrXdw/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "av9BiY6pb7M",
@@ -8304,7 +8608,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/av9BiY6pb7M/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "f1FobBUfz1s",
@@ -8320,7 +8624,23 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/f1FobBUfz1s/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
+      },
+      {
+        "id": "V3WOyOa20oQ",
+        "title": "Kabhi Main Kabhi Tum Episode 4 | Fahad Mustafa | Hania Aamir | 15 July 2024 (Eng Sub) | ARY Digital",
+        "episode": 4,
+        "date": "2024-07-15",
+        "published": "2024-07-15T16:00:40Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/V3WOyOa20oQ/hqdefault.jpg",
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       },
       {
         "id": "SfV-PMI3UTg",
@@ -8339,6 +8659,22 @@
         "checkedAt": "2026-11-14T01:28:51.107335+00:00"
       },
       {
+        "id": "u6k5fE0QAp4",
+        "title": "Kabhi Main Kabhi Tum - Episode 2 | Fahad Mustafa | Hania Aamir | 8 July 2024 (Eng Sub) | ARY Digital",
+        "episode": 2,
+        "date": "2024-07-08",
+        "published": "2024-07-08T17:10:13Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/u6k5fE0QAp4/hqdefault.jpg",
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
+      },
+      {
         "id": "MyLZnzEcnG8",
         "title": "Kabhi Main Kabhi Tum - Episode 1 | Fahad Mustafa | Hania Aamir | 2 July 2024 (Eng Sub) | ARY Digital",
         "episode": 1,
@@ -8352,7 +8688,7 @@
         "availableGB": true,
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/MyLZnzEcnG8/hqdefault.jpg",
-        "checkedAt": "2026-11-14T01:28:51.107335+00:00"
+        "checkedAt": "2026-11-24T13:53:31.540315+00:00"
       }
     ],
     "arydigital-kuch-ankahi": [
@@ -28139,24 +28475,6 @@
         "checkedAt": "2026-11-21T02:25:55.336770+00:00"
       }
     ],
-    "hum-bombay-tailors": [
-      {
-        "id": "6xPzMoQ32Ys",
-        "title": "Bombay Tailors - Last Episode 35 - 9th Nov 2026 [ Anika Zulfikar & Ali Ansari ] - HUM TV",
-        "episode": 35,
-        "date": "2026-11-09",
-        "published": "2026-11-09T17:00:07Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/6xPzMoQ32Ys/hqdefault.jpg",
-        "checkedAt": "2026-11-10T07:27:53.301435+00:00"
-      }
-    ],
     "hum-zehar-e-mohabbat": [
       {
         "id": "h6IYi5zhDC4",
@@ -28844,6 +29162,6 @@
       }
     ]
   },
-  "cursor": 54,
+  "cursor": 58,
   "apiValidated": true
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:17:28.717235+00:00",
+  "generatedAt": "2026-11-24T13:53:55.963600+00:00",
   "sources": [
     {
       "id": "homebased",
@@ -25,8 +25,18 @@
   ],
   "videos": [
     {
+      "id": "BcBPXaxw_dk",
+      "title": "𝐄𝐩-39 | सीरतुन नबी ﷺ उँगलियों पर | रसूल ﷺ से मुहब्बत | Hindi | ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-24",
+      "source": "publisher YouTube Data API"
+    },
+    {
       "id": "zHkcFf6dWko",
-      "title": "We Gained From Battles We Never Fought | Deeper Look: Surah Al-Hashr | Nouman Ali Khan",
+      "title": "Carrying Resentment & Hatred In Your Heart | Deeper Look: Surah Al-Hashr | Nouman Ali Khan",
       "channelId": "bayyinah",
       "channel": "Nouman Ali Khan - Official - Bayyinah",
       "language": "English / Urdu",
@@ -1415,6 +1425,6 @@
       "source": "verified official teaching upload"
     }
   ],
-  "count": 139,
+  "count": 140,
   "errors": []
 }
