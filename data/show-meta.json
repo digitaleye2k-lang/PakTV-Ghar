@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T18:53:52.631350+05:00",
+  "generatedAt": "2026-11-25T04:56:44.959944+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,13 +17,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 17,
-        "time": "20:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-24"
       }
     },
     "harpalgeo-nashtar": {
@@ -42,13 +35,6 @@
         "availableGB": false,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 35,
-        "time": "16:30",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-24"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -79,14 +65,7 @@
         "embeddable": true
       },
       "poster": "https://i.ytimg.com/vi/7mpQfSZvLZE/hqdefault.jpg",
-      "posterSource": "Official YouTube thumbnail",
-      "tvToday": {
-        "number": 61,
-        "time": "03:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-24"
-      }
+      "posterSource": "Official YouTube thumbnail"
     },
     "harpalgeo-khafa": {
       "lastAttempt": "2026-10-12T20:10:58.069948+05:00",
@@ -106,11 +85,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 32,
-        "time": "00:00",
+        "number": 33,
+        "time": "20:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-24"
+        "date": "2026-11-25"
       }
     },
     "hum-aangan": {
@@ -142,11 +121,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 41,
+        "number": 42,
         "time": "21:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-24"
+        "date": "2026-11-25"
       }
     },
     "hum-bombay-tailors": {
@@ -1377,10 +1356,10 @@
       "poster": "https://arydigital.tv/_next/image/?url=https%3A%2F%2Fbackend.arydigital.tv%2Fuploads%2F280x400_1761310383206_fd29d4c15c.webp&w=1920&q=75",
       "posterSource": "Official broadcaster",
       "latestUpload": {
-        "number": 60,
-        "id": "l81QKXZHAn4",
-        "title": "Mayi Ri | Episode 60 | 1st October 2023 (English Subtitles) ARY Digital Drama",
-        "date": "2023-10-01",
+        "number": 62,
+        "id": "yuvSAKM3FSU",
+        "title": "Mayi Ri | Episode 62 | 3 October 2023 (English Subtitles) ARY Digital Drama",
+        "date": "2023-10-03",
         "source": "Official YouTube upload",
         "availableGB": true,
         "availablePK": true,

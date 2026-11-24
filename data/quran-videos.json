@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T13:53:55.963600+00:00",
+  "generatedAt": "2026-11-24T23:56:47.855106+00:00",
   "sources": [
     {
       "id": "homebased",
@@ -24,6 +24,16 @@
     }
   ],
   "videos": [
+    {
+      "id": "LNp6wGUEuxI",
+      "title": "𝐄𝐩-40 | सीरतुन नबी ﷺ उँगलियों पर | सीरत पर अमल कैसे? | Hindi | ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-24",
+      "source": "publisher YouTube Data API"
+    },
     {
       "id": "BcBPXaxw_dk",
       "title": "𝐄𝐩-39 | सीरतुन नबी ﷺ उँगलियों पर | रसूल ﷺ से मुहब्बत | Hindi | ‪@understandquran‬",
@@ -1425,6 +1435,6 @@
       "source": "verified official teaching upload"
     }
   ],
-  "count": 140,
+  "count": 141,
   "errors": []
 }
