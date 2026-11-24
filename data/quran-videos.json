@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T13:06:08.395470+00:00",
+  "generatedAt": "2026-11-24T02:17:28.717235+00:00",
   "sources": [
     {
       "id": "homebased",
@@ -25,6 +25,36 @@
   ],
   "videos": [
     {
+      "id": "zHkcFf6dWko",
+      "title": "We Gained From Battles We Never Fought | Deeper Look: Surah Al-Hashr | Nouman Ali Khan",
+      "channelId": "bayyinah",
+      "channel": "Nouman Ali Khan - Official - Bayyinah",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-23",
+      "source": "publisher YouTube Data API"
+    },
+    {
+      "id": "qW4nf5PQRag",
+      "title": "𝐄𝐩-38 | सीरतुन नबी ﷺ उँगलियों पर | गज़वात पर एतराज़ात का जाएज़ा | Hindi | ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-23",
+      "source": "publisher YouTube Data API"
+    },
+    {
+      "id": "ld2q-oOJI_s",
+      "title": "𝐄𝐩-37 | सीरतुन नबी ﷺ उँगलियों पर | रसूल ﷺ के निकाहों पर एतराज़ात | Hindi | ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-23",
+      "source": "publisher YouTube Data API"
+    },
+    {
       "id": "cUSOvSHqVxs",
       "title": "𝐄𝐩-35 | सीरतुन नबी ﷺ उँगलियों पर | सीरत अमली है | Hindi | ‪@understandquran‬",
       "channelId": "understand",
@@ -47,6 +77,16 @@
     {
       "id": "PkxtlKPPAQU",
       "title": "सीरतुन नबी ﷺ उँगलियों पर | रसूल ﷺ की मक्की ज़िंदगी | असबाक़: 1 to 15 | Hindi | ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-23",
+      "source": "publisher YouTube Data API"
+    },
+    {
+      "id": "HcOt9RLBdzk",
+      "title": "𝐄𝐩-36 | सीरतुन नबी ﷺ उँगलियों पर | रसूल ﷺ का घराना | Hindi | ‪@understandquran‬",
       "channelId": "understand",
       "channel": "Understand Al-Quran Official",
       "language": "English / Urdu",
@@ -1375,6 +1415,6 @@
       "source": "verified official teaching upload"
     }
   ],
-  "count": 135,
+  "count": 139,
   "errors": []
 }

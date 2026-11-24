@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T18:06:05.485560+05:00",
+  "generatedAt": "2026-11-24T07:17:25.165811+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -19,11 +19,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 16,
+        "number": 17,
         "time": "20:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-23"
+        "date": "2026-11-24"
       }
     },
     "harpalgeo-nashtar": {
@@ -42,13 +42,6 @@
         "availableGB": false,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 35,
-        "time": "01:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-23"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -81,11 +74,11 @@
       "poster": "https://i.ytimg.com/vi/7mpQfSZvLZE/hqdefault.jpg",
       "posterSource": "Official YouTube thumbnail",
       "tvToday": {
-        "number": 60,
+        "number": 61,
         "time": "03:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-23"
+        "date": "2026-11-24"
       }
     },
     "harpalgeo-khafa": {
@@ -104,13 +97,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 32,
-        "time": "11:30",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-23"
       }
     },
     "hum-aangan": {
@@ -142,11 +128,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 40,
+        "number": 41,
         "time": "21:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-23"
+        "date": "2026-11-24"
       }
     },
     "hum-bombay-tailors": {
