@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-24T23:56:17.911919+00:00",
+  "generatedAt": "2026-11-25T08:46:10.411251+00:00",
   "dateTimezone": "UTC",
-  "cursor": 30,
-  "musicCursor": 6,
+  "cursor": 36,
+  "musicCursor": 12,
   "channels": {
     "geonews": {
       "youtubeId": "UC_vt34wimdCzdkrzVejwX9g",
@@ -246,14 +246,14 @@
       "uploadsId": "UU2PYniNHljOED9xNaMpiMiQ",
       "handle": "ARYFilms",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-11-20T20:29:22.783828+00:00"
+      "lastFetchedAt": "2026-11-25T08:46:10.411251+00:00"
     },
     "drmmovies": {
       "youtubeId": "UCDmQsP_LTEWPZ2AXS9eWTrQ",
       "uploadsId": "UUDmQsP_LTEWPZ2AXS9eWTrQ",
       "handle": "pakistani_movies",
       "checkedAt": "2026-10-12T18:35:15.578265+00:00",
-      "lastFetchedAt": "2026-11-20T20:29:22.783828+00:00"
+      "lastFetchedAt": "2026-11-25T08:46:10.411251+00:00"
     },
     "pcb": {
       "youtubeId": "UCiWrjBhlICf_L_RK5y6Vrxw",
@@ -295,7 +295,7 @@
       "uploadsId": "UUs2-8ztgdlRqpbpHvfFFPFQ",
       "handle": "wasayhabib",
       "checkedAt": "2026-10-18T15:47:35.454766+00:00",
-      "lastFetchedAt": "2026-11-20T20:29:22.783828+00:00"
+      "lastFetchedAt": "2026-11-25T08:46:10.411251+00:00"
     },
     "kidsland": {
       "youtubeId": "UCZMKZS3L9GfhcFkMyBRoVFg",
@@ -351,21 +351,21 @@
       "uploadsId": "UUMlGWm_woMhMcVYhJu8zsvA",
       "handle": "LollywoodCinema",
       "checkedAt": "2026-10-18T17:28:01.603474+00:00",
-      "lastFetchedAt": "2026-11-20T20:29:22.783828+00:00"
+      "lastFetchedAt": "2026-11-25T08:46:10.411251+00:00"
     },
     "movieboxmovies": {
       "youtubeId": "UC8Artr_jqToYkRKjgjhezmw",
       "uploadsId": "UU8Artr_jqToYkRKjgjhezmw",
       "handle": "movieboxmovies",
       "checkedAt": "2026-10-18T17:28:01.603474+00:00",
-      "lastFetchedAt": "2026-11-20T20:29:22.783828+00:00"
+      "lastFetchedAt": "2026-11-25T08:46:10.411251+00:00"
     },
     "lollywoodclassics": {
       "youtubeId": "UCV-z8APBalmSWNrre62xKxg",
       "uploadsId": "UUV-z8APBalmSWNrre62xKxg",
       "handle": "lollywoodclassics",
       "checkedAt": "2026-10-18T17:48:49.190558+00:00",
-      "lastFetchedAt": "2026-11-20T20:29:22.783828+00:00"
+      "lastFetchedAt": "2026-11-25T08:46:10.411251+00:00"
     },
     "cokestudio": {
       "youtubeId": "UCM1VesJtJ9vTXcMLLr_FfdQ",
@@ -400,28 +400,28 @@
       "uploadsId": "UU6s1zz1-t7rPf-4scKVYD8g",
       "handle": "Jaubi",
       "checkedAt": "2026-10-18T20:04:20.517484+00:00",
-      "lastFetchedAt": "2026-11-24T02:17:13.305852+00:00"
+      "lastFetchedAt": "2026-11-25T08:46:10.411251+00:00"
     },
     "atifs": {
       "youtubeId": "UC3FnOdo2ooBS4TrEcmwUR_Q",
       "uploadsId": "UU3FnOdo2ooBS4TrEcmwUR_Q",
       "handle": "AtifAslamOfficial",
       "checkedAt": "2026-10-18T19:47:58.539938+00:00",
-      "lastFetchedAt": "2026-11-24T02:17:13.305852+00:00"
+      "lastFetchedAt": "2026-11-25T08:46:10.411251+00:00"
     },
     "bayaan": {
       "youtubeId": "UCqOLlRNuWqswf30c9AJC-Cg",
       "uploadsId": "UUqOLlRNuWqswf30c9AJC-Cg",
       "handle": "BayaanOfficial",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-11-24T02:17:13.305852+00:00"
+      "lastFetchedAt": "2026-11-25T08:46:10.411251+00:00"
     },
     "abdulhannan": {
       "youtubeId": "UCZ1FCXu6uAhE6YkAsKQDGNg",
       "uploadsId": "UUZ1FCXu6uAhE6YkAsKQDGNg",
       "handle": "abdulhannanmusic",
       "checkedAt": "2026-10-18T22:19:00.832783+00:00",
-      "lastFetchedAt": "2026-11-24T02:17:13.305852+00:00"
+      "lastFetchedAt": "2026-11-25T08:46:10.411251+00:00"
     },
     "hasanraheem": {
       "youtubeId": "UCaQvtCweOs1RpgFIO3-ezMA",
@@ -39731,7 +39731,7 @@
       "availablePK": true,
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/Pxu_ijWWgO8/hqdefault.jpg",
-      "sourceType": "youtube_search_verified_publisher"
+      "sourceType": "youtube_uploads_playlist"
     },
     {
       "id": "NP7aNdLb_40",
@@ -66590,60 +66590,6 @@
       "sourceType": "youtube_uploads_playlist"
     },
     {
-      "id": "ycvf7auR7AU",
-      "title": "Fariha Aur Maine Try Ki Skating!!! #shorts #maazsafder #maazsafderworld",
-      "channel": "Maaz Safder",
-      "channelId": "maaz",
-      "youtubeChannelId": "UCz0M2pV4jOUUQ88lOd2q08A",
-      "category": "vloggers",
-      "genre": "Lifestyle & vlogs",
-      "date": "2026-11-02",
-      "published": "2026-11-02T12:16:30Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 159,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/ycvf7auR7AU/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "Iluc1RYwNL0",
-      "title": "Basil Ne Ki TuTu Ki Potti Saaf #shorts #maazsafder #maazsafderworld",
-      "channel": "Maaz Safder",
-      "channelId": "maaz",
-      "youtubeChannelId": "UCz0M2pV4jOUUQ88lOd2q08A",
-      "category": "vloggers",
-      "genre": "Lifestyle & vlogs",
-      "date": "2026-11-02",
-      "published": "2026-11-02T12:14:40Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 147,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/Iluc1RYwNL0/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
-      "id": "oeYY7ImWjCs",
-      "title": "Chughtai Aur Taifi Mian Mein Jhagra, Hamsayon Ne Sulah Karwane Ki Thaan Li! 🤣 | Azizi | Hasb-e-Haal",
-      "channel": "Hasb-e-Haal Official",
-      "channelId": "hasbehaal",
-      "youtubeChannelId": "UCyiJNpF7RgpPhyeKc4wnQkg",
-      "category": "comedy",
-      "genre": "Comedy & satire",
-      "date": "2026-11-02",
-      "published": "2026-11-02T12:00:09Z",
-      "description": "Video from the publisher’s YouTube channel",
-      "durationSeconds": 770,
-      "availableGB": true,
-      "availablePK": true,
-      "embeddable": true,
-      "thumbnail": "https://i.ytimg.com/vi/oeYY7ImWjCs/hqdefault.jpg",
-      "sourceType": "youtube_uploads_playlist"
-    },
-    {
       "id": "iCQ1MfeI2d0",
       "title": "Qasam | Coke Studio Nu.WAV | Shae Gill x Afusic x Abdullah Kasumbi",
       "channel": "Coke Studio Pakistan",
@@ -66786,6 +66732,24 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/mSX94FytWis/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "SnkHNxB9XPw",
+      "title": "GERNAIL SINGH (1987) | SUPERHIT PAKISTANI PUNJABI MOVIE | FULL FILM",
+      "channel": "LollywoodCinema",
+      "channelId": "lollywoodcinema",
+      "youtubeChannelId": "UCMlGWm_woMhMcVYhJu8zsvA",
+      "category": "movies",
+      "genre": "Classic Pakistani Movies",
+      "date": "2026-10-09",
+      "published": "2026-10-09T14:00:08Z",
+      "description": "Gernail Singh (1987) ek classic Pakistani Punjabi action film hai, jismein legendary Sultan Rahi ke saath Anjuman, Mustafa Qureshi, Chakori, Kaifee aur Nanha jaise popular artists nazar aate hain. Film 1947 ke Partition ke background mein bravery, sacrifice, conflict aur watan se mohabbat ki kahani ko action aur drama ke saath pesh karti hai.Film ka direction Yunus Malik ne kiya tha aur music",
+      "durationSeconds": 7567,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/SnkHNxB9XPw/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "-uRX7UTb0aA",
@@ -67020,6 +66984,24 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/ljR36OuRULo/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "F1v5B_9PqoA",
+      "title": "BESHARAM - FULL MOVIE | ZAHID AHMED | SABA QAMAR | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-09-20",
+      "published": "2026-09-20T15:00:05Z",
+      "description": "BESHARAM - FULL MOVIE | SABA QAMAR | ZAHID AHMED | 19 Sep 2026 | ARY FILMS Mashal is a supermodel, she needs more confidence, and a lot more confidence for the people who hate her profession because she loves who she is! Airs SUNDAY at 8:00 PM, only on ARY Films",
+      "durationSeconds": 8658,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/F1v5B_9PqoA/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "8Ix-ekSoEdY",
@@ -68388,6 +68370,24 @@
       "embeddable": true,
       "thumbnail": "https://i.ytimg.com/vi/Ot-0wmYeHNc/hqdefault.jpg",
       "sourceType": "youtube_uploads_playlist"
+    },
+    {
+      "id": "db-ee9yNMIg",
+      "title": "MERI ZINDAGI HAI TU - FULL MOVIE | HANIA AAMIR | BILAL ABBAS | ARY FILMS",
+      "channel": "ARY Films",
+      "channelId": "aryfilms",
+      "youtubeChannelId": "UC2PYniNHljOED9xNaMpiMiQ",
+      "category": "movies",
+      "genre": "Pakistani films & TV movies",
+      "date": "2026-05-10",
+      "published": "2026-05-10T16:01:03Z",
+      "description": "MERI ZINDAGI HAI TU - FULL MOVIE | HANIA AAMIR | BILAL ABBAS | 10 MAY 2026 | ARY FILMS Meri Zindagi Hai Tu brings together the most awaited duo, Hania Aamir and Bilal Abbas Khan, in a heartfelt story of love and destiny. Bilal Abbas Khan as Kamyar.",
+      "durationSeconds": 8842,
+      "availableGB": true,
+      "availablePK": true,
+      "embeddable": true,
+      "thumbnail": "https://i.ytimg.com/vi/db-ee9yNMIg/hqdefault.jpg",
+      "sourceType": "youtube_search_verified_publisher"
     },
     {
       "id": "IvZPdew21A4",
@@ -79640,6 +79640,6 @@
       "sourceType": "youtube_uploads_playlist"
     }
   ],
-  "lastError": "NESCAFÉ Basement: channel unavailable; Sajjad Ali: channel unavailable",
+  "lastError": "Mekaal Hasan Band: channel unavailable; Rahat Fateh Ali Khan: channel unavailable",
   "notes": "Videos are links to original publishers, not stored here. Country availability can change."
 }

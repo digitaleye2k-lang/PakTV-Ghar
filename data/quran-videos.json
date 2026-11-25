@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T23:56:47.855106+00:00",
+  "generatedAt": "2026-11-25T08:46:29.768170+00:00",
   "sources": [
     {
       "id": "homebased",
@@ -24,6 +24,16 @@
     }
   ],
   "videos": [
+    {
+      "id": "OQSssO3TZsY",
+      "title": "सीरतुन नबी ﷺ उँगलियों पर | रसूल ﷺ की मदनी ज़िंदगी | असबाक़: 16 to 28 | Hindi | ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-25",
+      "source": "publisher YouTube Data API"
+    },
     {
       "id": "LNp6wGUEuxI",
       "title": "𝐄𝐩-40 | सीरतुन नबी ﷺ उँगलियों पर | सीरत पर अमल कैसे? | Hindi | ‪@understandquran‬",
@@ -1435,6 +1445,6 @@
       "source": "verified official teaching upload"
     }
   ],
-  "count": 141,
+  "count": 142,
   "errors": []
 }
