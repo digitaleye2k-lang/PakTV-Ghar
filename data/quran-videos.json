@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:46:29.768170+00:00",
+  "generatedAt": "2026-11-25T19:24:26.633238+00:00",
   "sources": [
     {
       "id": "homebased",
@@ -31,6 +31,26 @@
       "channel": "Understand Al-Quran Official",
       "language": "English / Urdu",
       "topic": "meaning",
+      "date": "2026-11-25",
+      "source": "publisher YouTube Data API"
+    },
+    {
+      "id": "4NAKvHt-KZQ",
+      "title": "सीरतुन नबी ﷺ उँगलियों पर | क़ुरआन और सीरत | असबाक़: 29 to 40 | Hindi | ‪@understandquran‬",
+      "channelId": "understand",
+      "channel": "Understand Al-Quran Official",
+      "language": "English / Urdu",
+      "topic": "meaning",
+      "date": "2026-11-25",
+      "source": "publisher YouTube Data API"
+    },
+    {
+      "id": "1NW6jF2tdxA",
+      "title": "Introducing Bayyinah Arabic: Learn the Language of the Quran",
+      "channelId": "bayyinah",
+      "channel": "Nouman Ali Khan - Official - Bayyinah",
+      "language": "English / Urdu",
+      "topic": "general",
       "date": "2026-11-25",
       "source": "publisher YouTube Data API"
     },
@@ -1445,6 +1465,6 @@
       "source": "verified official teaching upload"
     }
   ],
-  "count": 142,
+  "count": 144,
   "errors": []
 }
