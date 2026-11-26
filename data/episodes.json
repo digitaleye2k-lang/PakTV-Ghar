@@ -1,61 +1,313 @@
 {
-  "harpalgeo-uswa": {
+  "hum-khushi": {
     "episodes": [
       {
-        "title": "Uswah Episode 59 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 21st November 2026",
-        "episode": 59,
-        "id": "cWfeJ0Jf-t0",
-        "source": "Har Pal Geo",
+        "title": "Khushi - Episode 74 [ENG SUB] - 25th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 74,
+        "id": "jykbXOeCrG8",
+        "source": "HUM TV",
         "kind": "youtube",
-        "date": "2026-11-21"
+        "date": "2026-11-25"
       },
       {
-        "id": "k2h_OrMiNIs",
-        "title": "Uswah Episode 57 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 19th November 2026",
-        "episode": 57,
-        "date": "2026-11-19",
-        "published": "2026-11-19T15:00:01Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
+        "title": "Khushi - Episode 73 Highlights - Nov 2026 [ Mariam Ejaz, Summiya Bukhsh & Ahin Babar] - HUM TV",
+        "episode": 73,
+        "id": "NumiidvHMtY",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-11-25"
+      },
+      {
+        "id": "lyPplOgbgKs",
+        "title": "Khushi - Episode 69 - 20th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 69,
+        "date": "2026-11-20",
+        "published": "2026-11-20T15:00:04Z",
+        "source": "HUM TV",
+        "channelId": "hum",
         "sourceType": "youtube_api",
         "kind": "youtube",
         "embeddable": true,
-        "availableGB": true,
+        "availableGB": false,
         "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/k2h_OrMiNIs/hqdefault.jpg",
-        "checkedAt": "2026-11-20T11:51:42.617028+00:00"
+        "thumbnail": "https://i.ytimg.com/vi/lyPplOgbgKs/hqdefault.jpg",
+        "checkedAt": "2026-11-20T20:29:19.616697+00:00"
       },
       {
-        "id": "ZMsOyXB0mzM",
-        "title": "Uswah Episode 56 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 18th November 2026",
-        "episode": 56,
+        "id": "d7Rl4D26jJ4",
+        "title": "Khushi - Episode 67 - [Eng Sub] 18th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
+        "episode": 67,
         "date": "2026-11-18",
-        "published": "2026-11-18T15:00:04Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
+        "published": "2026-11-18T15:00:06Z",
+        "source": "HUM TV",
+        "channelId": "hum",
         "sourceType": "youtube_api",
         "kind": "youtube",
         "embeddable": true,
         "availableGB": true,
         "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ZMsOyXB0mzM/hqdefault.jpg",
-        "checkedAt": "2026-11-20T11:51:42.617028+00:00"
+        "thumbnail": "https://i.ytimg.com/vi/d7Rl4D26jJ4/hqdefault.jpg",
+        "checkedAt": "2026-11-20T20:29:19.616697+00:00"
+      }
+    ]
+  },
+  "hum-hurmat": {
+    "episodes": [
+      {
+        "title": "Hurmat - Episode 16 - Highlights | ft. Dananeer Mobeen & Shahveer Jafry - HUM TV",
+        "episode": 16,
+        "id": "DQlInasmObc",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-11-25"
+      }
+    ]
+  },
+  "hum-gulbahar": {
+    "episodes": [
+      {
+        "title": "Gulbahar - Episode 21 - [ENG SUB] 25 Nov 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
+        "episode": 21,
+        "id": "VSlpU24zRAY",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-11-25"
       },
       {
-        "id": "sfNhOhI3GpY",
-        "title": "Uswah Episode 55 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 17th November 2026",
-        "episode": 55,
-        "date": "2026-11-17",
-        "published": "2026-11-17T15:00:06Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
+        "title": "Gulbahar - Flashback - Episode  20 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
+        "episode": 20,
+        "id": "e5813hMmyNs",
+        "source": "HUM TV",
+        "kind": "youtube",
+        "date": "2026-11-25"
+      },
+      {
+        "id": "dGo9gTg1Lpc",
+        "title": "Gulbahar - Episode 20 - [ENG SUB] 19 Nov 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
+        "episode": 20,
+        "date": "2026-11-19",
+        "published": "2026-11-19T16:00:15Z",
+        "source": "HUM TV",
+        "channelId": "hum",
         "sourceType": "youtube_api",
         "kind": "youtube",
         "embeddable": true,
         "availableGB": true,
         "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/sfNhOhI3GpY/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/dGo9gTg1Lpc/hqdefault.jpg",
         "checkedAt": "2026-11-20T11:51:42.617028+00:00"
+      }
+    ]
+  },
+  "arydigital-rutba": {
+    "episodes": [
+      {
+        "title": "Rutba Episode 15 | BEST MOMENT | Hiba Bukhari | Mehwish Hayat | ARY Digital",
+        "episode": 15,
+        "id": "ownuSDiTgXQ",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-25"
+      }
+    ]
+  },
+  "arydigital-hey-fam": {
+    "episodes": [
+      {
+        "title": "Hey Fam | EP 21 | 25 Nov 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ENG SUB | ARY Digital",
+        "episode": 21,
+        "id": "OXsLNnzyhTQ",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "Hey Fam | EP 21 | 25 Nov 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan  | ARY Digital",
+        "episode": 21,
+        "id": "l_ubTzd6Nig",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-25"
+      },
+      {
+        "id": "7IDWrzmUy_s",
+        "title": "Hey Fam | EP 19 | 18 Nov 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan | ENG SUB | ARY Digital",
+        "episode": 19,
+        "date": "2026-11-18",
+        "published": "2026-11-18T16:00:12Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/7IDWrzmUy_s/hqdefault.jpg",
+        "checkedAt": "2026-11-19T11:50:57.636269+00:00"
+      }
+    ]
+  },
+  "arydigital-lagan-lagi": {
+    "episodes": [
+      {
+        "title": "Lagan Lagi Ep 25 | 25 November 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 25,
+        "id": "3nVSQXOYQI4",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "Lagan Lagi Ep 25 | 25 November 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 25,
+        "id": "815-ojlaaDk",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "Bohat Fuzool Kharchi Karti Ho Tum | Lagan Lagi Episode 24 | ARY Digital",
+        "episode": 24,
+        "id": "EQFWyiiNvVs",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "Tumhein Kya Zaroorat Hai Itni Jaldi Shadi Karne Ki | Lagan Lagi Episode 24 | ARY Digital",
+        "episode": 24,
+        "id": "swpk49eicU0",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "Lagan Lagi Ep 23 | Best Scene | ARY Digital",
+        "episode": 23,
+        "id": "DZNrVoXce-c",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "Pareshan Mat Hona, Sab Theek Ho Jayega 😨 | Lagan Lagi Episode 23",
+        "episode": 23,
+        "id": "z4WDCs-RTyo",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-25"
+      },
+      {
+        "id": "whHUjgEd4xg",
+        "title": "Lagan Lagi Episode 22 | 20 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 22,
+        "date": "2026-11-20",
+        "published": "2026-11-20T17:00:07Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/whHUjgEd4xg/hqdefault.jpg",
+        "checkedAt": "2026-11-21T02:25:55.336770+00:00"
+      },
+      {
+        "id": "N_8zpc3VNC4",
+        "title": "Lagan Lagi Episode 21 | 19 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 21,
+        "date": "2026-11-19",
+        "published": "2026-11-19T17:00:35Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/N_8zpc3VNC4/hqdefault.jpg",
+        "checkedAt": "2026-11-21T02:25:55.336770+00:00"
+      },
+      {
+        "id": "Hf0pMc6-ehU",
+        "title": "Lagan Lagi Episode 20 | 18 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 20,
+        "date": "2026-11-18",
+        "published": "2026-11-18T17:00:09Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/Hf0pMc6-ehU/hqdefault.jpg",
+        "checkedAt": "2026-11-21T02:25:55.336770+00:00"
+      },
+      {
+        "id": "EWu3FS4YfVg",
+        "title": "Lagan Lagi Episode 19 | 17 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 19,
+        "date": "2026-11-17",
+        "published": "2026-11-17T17:00:10Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/EWu3FS4YfVg/hqdefault.jpg",
+        "checkedAt": "2026-11-21T02:25:55.336770+00:00"
+      },
+      {
+        "id": "-ecSrktp6W4",
+        "title": "Lagan Lagi Episode 18 | 16 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
+        "episode": 18,
+        "date": "2026-11-16",
+        "published": "2026-11-16T17:00:03Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/-ecSrktp6W4/hqdefault.jpg",
+        "checkedAt": "2026-11-21T02:25:55.336770+00:00"
+      },
+      {
+        "id": "W4T93S-3jtU",
+        "title": "Lagan Lagi Episode 17 | 13 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB |",
+        "episode": 17,
+        "date": "2026-11-13",
+        "published": "2026-11-13T17:00:00Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": false,
+        "thumbnail": "https://i.ytimg.com/vi/W4T93S-3jtU/hqdefault.jpg",
+        "checkedAt": "2026-11-21T02:25:55.336770+00:00"
+      },
+      {
+        "id": "zptfzGBbndw",
+        "title": "Lagan Lagi Ep 1 | 22 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB | ARY Digital",
+        "episode": 1,
+        "date": "2026-10-22",
+        "published": "2026-10-22T17:03:38Z",
+        "source": "ARY Digital",
+        "channelId": "arydigital",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/zptfzGBbndw/hqdefault.jpg",
+        "checkedAt": "2026-11-21T02:25:55.336770+00:00"
       }
     ]
   },
@@ -68,30 +320,6 @@
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-11-21"
-      },
-      {
-        "title": "Recap Nashtar Episode 33 - 21st November 2026 - Har Pal Geo",
-        "episode": 33,
-        "id": "1nl2PQkEuXU",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-21"
-      },
-      {
-        "title": "Nashtar Episode 33 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
-        "episode": 33,
-        "id": "z940S5AUm7Y",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-21"
-      },
-      {
-        "title": "Nashtar Episode 33 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Danish Taimoor - Anmol Baloch | Har Pal Geo",
-        "episode": 33,
-        "id": "VyqCHA90Ab0",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-21"
       }
     ]
   },
@@ -101,38 +329,6 @@
         "title": "Bano Episode 38 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 21st Nov 2026 | HAR PAL GEO",
         "episode": 38,
         "id": "UwoV1V76f_Y",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-21"
-      },
-      {
-        "title": "Bano Episode 37 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 37,
-        "id": "DE_4ECGoCS4",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-21"
-      },
-      {
-        "title": "Bano Episode 37 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 37,
-        "id": "k0xv6IqRv_8",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-21"
-      },
-      {
-        "title": "Bano Episode 37 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 37,
-        "id": "48AKzwBnKuo",
-        "source": "Har Pal Geo",
-        "kind": "youtube",
-        "date": "2026-11-21"
-      },
-      {
-        "title": "Bano Episode 37 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
-        "episode": 37,
-        "id": "dieKbSr-QkU",
         "source": "Har Pal Geo",
         "kind": "youtube",
         "date": "2026-11-21"
@@ -168,6 +364,18 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6yDMqBUJwfw/hqdefault.jpg",
         "checkedAt": "2026-11-19T20:45:27.642739+00:00"
+      }
+    ]
+  },
+  "arydigital-bulbulay": {
+    "episodes": [
+      {
+        "title": "Bulbulay House Bana Hospital! 🏥🚑🩺 | Momo | Khoobsurat | Non Stop Comedy",
+        "episode": null,
+        "id": "iS-zHydLAFw",
+        "source": "ARY Digital",
+        "kind": "youtube",
+        "date": "2026-11-25"
       }
     ]
   },
@@ -283,39 +491,55 @@
       }
     ]
   },
-  "hum-khushi": {
+  "harpalgeo-uswa": {
     "episodes": [
       {
-        "id": "lyPplOgbgKs",
-        "title": "Khushi - Episode 69 - 20th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 69,
-        "date": "2026-11-20",
-        "published": "2026-11-20T15:00:04Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": false,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/lyPplOgbgKs/hqdefault.jpg",
-        "checkedAt": "2026-11-20T20:29:19.616697+00:00"
-      },
-      {
-        "id": "d7Rl4D26jJ4",
-        "title": "Khushi - Episode 67 - [Eng Sub] 18th Nov 2026 [Sumaiyya Bukhsh, Mariam Ejaz, & Arslan Khan] - HUM TV",
-        "episode": 67,
-        "date": "2026-11-18",
-        "published": "2026-11-18T15:00:06Z",
-        "source": "HUM TV",
-        "channelId": "hum",
+        "id": "k2h_OrMiNIs",
+        "title": "Uswah Episode 57 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 19th November 2026",
+        "episode": 57,
+        "date": "2026-11-19",
+        "published": "2026-11-19T15:00:01Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
         "sourceType": "youtube_api",
         "kind": "youtube",
         "embeddable": true,
         "availableGB": true,
         "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/d7Rl4D26jJ4/hqdefault.jpg",
-        "checkedAt": "2026-11-20T20:29:19.616697+00:00"
+        "thumbnail": "https://i.ytimg.com/vi/k2h_OrMiNIs/hqdefault.jpg",
+        "checkedAt": "2026-11-20T11:51:42.617028+00:00"
+      },
+      {
+        "id": "ZMsOyXB0mzM",
+        "title": "Uswah Episode 56 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 18th November 2026",
+        "episode": 56,
+        "date": "2026-11-18",
+        "published": "2026-11-18T15:00:04Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/ZMsOyXB0mzM/hqdefault.jpg",
+        "checkedAt": "2026-11-20T11:51:42.617028+00:00"
+      },
+      {
+        "id": "sfNhOhI3GpY",
+        "title": "Uswah Episode 55 [Eng Sub] Omer Shahzad - Saniya Shamshad - Haroon Shahid | 17th November 2026",
+        "episode": 55,
+        "date": "2026-11-17",
+        "published": "2026-11-17T15:00:06Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/sfNhOhI3GpY/hqdefault.jpg",
+        "checkedAt": "2026-11-20T11:51:42.617028+00:00"
       }
     ]
   },
@@ -15703,7 +15927,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/WeZ-RIUlIxQ/hqdefault.jpg",
-        "checkedAt": "2026-11-15T06:44:56.254814+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "OW6eA-o_Rts",
@@ -15719,7 +15943,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OW6eA-o_Rts/hqdefault.jpg",
-        "checkedAt": "2026-11-15T06:44:56.254814+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "mRf7KeKI1Oc",
@@ -15735,7 +15959,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mRf7KeKI1Oc/hqdefault.jpg",
-        "checkedAt": "2026-11-15T06:44:56.254814+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
+      },
+      {
+        "id": "vDwXIFskwjk",
+        "title": "Kaffara Episode 78 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 6th October 2024",
+        "episode": 78,
+        "date": "2024-10-06",
+        "published": "2024-10-06T17:00:44Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/vDwXIFskwjk/hqdefault.jpg",
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "fmNvvQDhBEg",
@@ -15751,7 +15991,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fmNvvQDhBEg/hqdefault.jpg",
-        "checkedAt": "2026-11-15T06:44:56.254814+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
+      },
+      {
+        "id": "WuXCyGunJxU",
+        "title": "Kaffara Episode 70 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 1st October 2024",
+        "episode": 70,
+        "date": "2024-10-01",
+        "published": "2024-10-01T17:00:44Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/WuXCyGunJxU/hqdefault.jpg",
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "4Rw2xABsSSc",
@@ -15767,7 +16023,55 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4Rw2xABsSSc/hqdefault.jpg",
-        "checkedAt": "2026-11-15T06:44:56.254814+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
+      },
+      {
+        "id": "l2Rxfy8rmqI",
+        "title": "Kaffara Episode 66 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 27th September 2024",
+        "episode": 66,
+        "date": "2024-09-27",
+        "published": "2024-09-27T17:01:01Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/l2Rxfy8rmqI/hqdefault.jpg",
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
+      },
+      {
+        "id": "K0p5t_MoeFM",
+        "title": "Kaffara Episode 62 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 25th September 2024",
+        "episode": 62,
+        "date": "2024-09-25",
+        "published": "2024-09-25T16:00:18Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/K0p5t_MoeFM/hqdefault.jpg",
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
+      },
+      {
+        "id": "Bf3OqLPZ4Ko",
+        "title": "Kaffara Episode 55 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 19th September 2024",
+        "episode": 55,
+        "date": "2024-09-19",
+        "published": "2024-09-19T16:00:10Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Bf3OqLPZ4Ko/hqdefault.jpg",
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "74eBtzIAqPI",
@@ -15783,7 +16087,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/74eBtzIAqPI/hqdefault.jpg",
-        "checkedAt": "2026-11-15T06:44:56.254814+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "8QQ7pGdHv0c",
@@ -15799,7 +16103,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8QQ7pGdHv0c/hqdefault.jpg",
-        "checkedAt": "2026-11-15T06:44:56.254814+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "4-7FQDSdQ9o",
@@ -15815,7 +16119,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4-7FQDSdQ9o/hqdefault.jpg",
-        "checkedAt": "2026-11-15T06:44:56.254814+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "yWYFZqU1MyY",
@@ -15834,6 +16138,22 @@
         "checkedAt": "2026-11-15T06:44:56.254814+00:00"
       },
       {
+        "id": "GFRzw29gXdE",
+        "title": "Kaffara Episode 45 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 10th September 2024",
+        "episode": 45,
+        "date": "2024-09-10",
+        "published": "2024-09-10T17:00:15Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/GFRzw29gXdE/hqdefault.jpg",
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
+      },
+      {
         "id": "rcZdrQC1Cdg",
         "title": "Kaffara Episode 44 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 9th September 2024",
         "episode": 44,
@@ -15847,7 +16167,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rcZdrQC1Cdg/hqdefault.jpg",
-        "checkedAt": "2026-11-15T06:44:56.254814+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "yHprzPETRAM",
@@ -15863,7 +16183,71 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/yHprzPETRAM/hqdefault.jpg",
-        "checkedAt": "2026-11-15T06:44:56.254814+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
+      },
+      {
+        "id": "da0CQ-F53Yg",
+        "title": "Kaffara Episode 37 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 2nd September - HAR PAL GEO",
+        "episode": 37,
+        "date": "2024-09-02",
+        "published": "2024-09-02T17:00:34Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/da0CQ-F53Yg/hqdefault.jpg",
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
+      },
+      {
+        "id": "w3ujlameuFY",
+        "title": "Kaffara Episode 34 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 30th Aug 2024 - HAR PAL GEO",
+        "episode": 34,
+        "date": "2024-08-30",
+        "published": "2024-08-30T17:01:00Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/w3ujlameuFY/hqdefault.jpg",
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
+      },
+      {
+        "id": "SM34eR7x2vE",
+        "title": "Kaffara Episode 27 - [Eng Sub] - Digitally Presented by Nestlé Nangrow - 23rd Aug 2024 - HAR PAL GEO",
+        "episode": 27,
+        "date": "2024-08-23",
+        "published": "2024-08-23T17:00:20Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/SM34eR7x2vE/hqdefault.jpg",
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
+      },
+      {
+        "id": "0wgxZ8iYkzM",
+        "title": "Kaffara Episode 22 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 18th Aug 2024 - HAR PAL GEO",
+        "episode": 22,
+        "date": "2024-08-18",
+        "published": "2024-08-18T17:00:00Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/0wgxZ8iYkzM/hqdefault.jpg",
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "H54oWz5cfGQ",
@@ -15882,6 +16266,38 @@
         "checkedAt": "2026-11-15T06:44:56.254814+00:00"
       },
       {
+        "id": "d862zOfdTCA",
+        "title": "Kaffara Episode 20 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 16th Aug 2024 - HAR PAL GEO",
+        "episode": 20,
+        "date": "2024-08-16",
+        "published": "2024-08-16T17:00:24Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/d862zOfdTCA/hqdefault.jpg",
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
+      },
+      {
+        "id": "6wwz4hqkd4E",
+        "title": "Kaffara Episode 17 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 13th Aug 2024 - HAR PAL GEO",
+        "episode": 17,
+        "date": "2024-08-13",
+        "published": "2024-08-13T17:00:04Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/6wwz4hqkd4E/hqdefault.jpg",
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
+      },
+      {
         "id": "DimtWhYRV-U",
         "title": "Kaffara Episode 16 - [Eng Sub] - Ali Ansari - Laiba Khan - Zoya Nasir - 12th Aug 2024 - HAR PAL GEO",
         "episode": 16,
@@ -15895,7 +16311,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DimtWhYRV-U/hqdefault.jpg",
-        "checkedAt": "2026-11-15T06:44:56.254814+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "FVKbZCnm9xo",
@@ -15927,7 +16343,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/50FwBkg9raw/hqdefault.jpg",
-        "checkedAt": "2026-11-15T06:44:56.254814+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "lDhHbzC9fzo",
@@ -15959,7 +16375,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/jrnG1jgrTOU/hqdefault.jpg",
-        "checkedAt": "2026-11-15T06:44:56.254814+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "qufX0JLsTPI",
@@ -15975,7 +16391,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/qufX0JLsTPI/hqdefault.jpg",
-        "checkedAt": "2026-11-15T06:44:56.254814+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "UlyhO5_b_88",
@@ -15991,7 +16407,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UlyhO5_b_88/hqdefault.jpg",
-        "checkedAt": "2026-11-15T06:44:56.254814+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "Sn6EHkJ3pzQ",
@@ -16007,7 +16423,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Sn6EHkJ3pzQ/hqdefault.jpg",
-        "checkedAt": "2026-11-15T06:44:56.254814+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "xOc-vQvKWmE",
@@ -16023,7 +16439,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xOc-vQvKWmE/hqdefault.jpg",
-        "checkedAt": "2026-11-15T06:44:56.254814+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "cStJOkpW4Qk",
@@ -16039,7 +16455,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/cStJOkpW4Qk/hqdefault.jpg",
-        "checkedAt": "2026-11-15T06:44:56.254814+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "QX4T2Ndndd4",
@@ -16055,7 +16471,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QX4T2Ndndd4/hqdefault.jpg",
-        "checkedAt": "2026-11-15T06:44:56.254814+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "CQnMwNkideo",
@@ -16071,7 +16487,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/CQnMwNkideo/hqdefault.jpg",
-        "checkedAt": "2026-11-15T06:44:56.254814+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "TujCFlBMNLo",
@@ -16087,7 +16503,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/TujCFlBMNLo/hqdefault.jpg",
-        "checkedAt": "2026-11-15T06:44:56.254814+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "OAzNGqVD8G8",
@@ -16103,12 +16519,44 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OAzNGqVD8G8/hqdefault.jpg",
-        "checkedAt": "2026-11-15T06:44:56.254814+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       }
     ]
   },
   "harpalgeo-khaali-haath": {
     "episodes": [
+      {
+        "id": "6AeiH2oGo8M",
+        "title": "Khaali Haath - Episode 25 | Kiran Haq | Shahzad Sheikh | Aimen",
+        "episode": 25,
+        "date": "2020-04-12",
+        "published": "2020-04-12T13:30:01Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/6AeiH2oGo8M/hqdefault.jpg",
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
+      },
+      {
+        "id": "118v_EPhLDI",
+        "title": "Khaali Haath - Episode 25 | Har Pal Geo",
+        "episode": 25,
+        "date": "2017-09-08",
+        "published": "2017-09-08T12:44:32Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/118v_EPhLDI/hqdefault.jpg",
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
+      },
       {
         "id": "gmxZm_2ZnuU",
         "title": "Khaali Haath - Episode 25 | Har Pal Geo",
@@ -16123,7 +16571,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/gmxZm_2ZnuU/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "Bejy4xwuLeE",
@@ -16139,7 +16587,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Bejy4xwuLeE/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "8Zh_gcnu-0Y",
@@ -16171,7 +16619,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/QH6eeEnXFpY/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
+      },
+      {
+        "id": "Of0glVQbhMI",
+        "title": "Khaali Haath - Episode 21 | Kiran Haq | Shahzad Sheikh | Aimen",
+        "episode": 21,
+        "date": "2020-04-12",
+        "published": "2020-04-12T09:17:47Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Of0glVQbhMI/hqdefault.jpg",
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "0WPf1It2ODg",
@@ -16187,7 +16651,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0WPf1It2ODg/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "D5dMvgErrxQ",
@@ -16219,7 +16683,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/mhbTmf6uTJc/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "LXOtP6tJEZY",
@@ -16251,7 +16715,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/c_CjbiS9ylo/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "lVchCxMRKGY",
@@ -16267,7 +16731,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lVchCxMRKGY/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "-ozeR0Tm4-M",
@@ -16283,7 +16747,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-ozeR0Tm4-M/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "kY_QPTLBU_o",
@@ -16315,7 +16779,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/97-jUzgpJ74/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "6mFOFqJrGeY",
@@ -16331,7 +16795,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6mFOFqJrGeY/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "KarTfWzoSZs",
@@ -16347,7 +16811,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/KarTfWzoSZs/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "DBw-Pm7Ie6k",
@@ -16363,7 +16827,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/DBw-Pm7Ie6k/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "VaLeKYBArXw",
@@ -16379,7 +16843,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/VaLeKYBArXw/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "B1QmX-M_mcA",
@@ -16395,7 +16859,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/B1QmX-M_mcA/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "gGlT1WcY6DU",
@@ -16411,7 +16875,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/gGlT1WcY6DU/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "WEcKWbOvILE",
@@ -16443,7 +16907,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Vna0PHOi7q4/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "MI-kRZizSog",
@@ -16459,7 +16923,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/MI-kRZizSog/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
+      },
+      {
+        "id": "Sg6MGLdMGUg",
+        "title": "Khaali Haath - Episode 1 | Kiran Haq | Shahzad Sheikh | Aimen",
+        "episode": 1,
+        "date": "2020-04-04",
+        "published": "2020-04-04T11:59:33Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/Sg6MGLdMGUg/hqdefault.jpg",
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "bGXXdjS2XOI",
@@ -16475,7 +16955,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/bGXXdjS2XOI/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       }
     ]
   },
@@ -16511,7 +16991,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vdMnDUNnJ9w/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "o_nMO3LEems",
@@ -16527,7 +17007,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/o_nMO3LEems/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "JqiCHsCQy1M",
@@ -16543,7 +17023,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/JqiCHsCQy1M/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "6r9OBGWCuJs",
@@ -16559,7 +17039,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6r9OBGWCuJs/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "erOOTq4trH0",
@@ -16591,7 +17071,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8xlgSKd7mZ8/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "G7PVVW3tNio",
@@ -16607,7 +17087,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/G7PVVW3tNio/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "rpgSJh6BBIQ",
@@ -16623,7 +17103,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/rpgSJh6BBIQ/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "SUdjqURSRwE",
@@ -16639,7 +17119,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SUdjqURSRwE/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "Ll9vjCcAz3w",
@@ -16655,7 +17135,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Ll9vjCcAz3w/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "o4SWpojXOfg",
@@ -16687,7 +17167,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Gywh47dL7Kk/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "vlA9I7fcsU0",
@@ -16703,7 +17183,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vlA9I7fcsU0/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "x3uvuctaMhc",
@@ -16719,7 +17199,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/x3uvuctaMhc/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "vTMYP2Hnfaw",
@@ -16735,7 +17215,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/vTMYP2Hnfaw/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "ssreu3V947Y",
@@ -16751,7 +17231,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ssreu3V947Y/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "v615LUZe8Uc",
@@ -16767,7 +17247,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/v615LUZe8Uc/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "JYmxhz29ewQ",
@@ -16783,7 +17263,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/JYmxhz29ewQ/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "h9ogtinqt2Q",
@@ -16799,7 +17279,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/h9ogtinqt2Q/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "bmJGrEvqhnY",
@@ -16815,7 +17295,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/bmJGrEvqhnY/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "Q78iPnouFes",
@@ -16847,7 +17327,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-cq6_0cNpCQ/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "X5s8bQpnYLU",
@@ -16863,7 +17343,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/X5s8bQpnYLU/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "MY2q5NtTR0g",
@@ -16895,7 +17375,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_BHFtMV3heU/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "wsOyFsn8hps",
@@ -16911,7 +17391,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/wsOyFsn8hps/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "IAjciCd92E0",
@@ -16927,7 +17407,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/IAjciCd92E0/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "g_ZMJLSNfUI",
@@ -16943,7 +17423,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/g_ZMJLSNfUI/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       },
       {
         "id": "oAoi_Yt-x2Y",
@@ -16959,7 +17439,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/oAoi_Yt-x2Y/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-26T17:01:47.482206+00:00"
       }
     ]
   },
@@ -29211,122 +29691,6 @@
       }
     ]
   },
-  "arydigital-lagan-lagi": {
-    "episodes": [
-      {
-        "id": "whHUjgEd4xg",
-        "title": "Lagan Lagi Episode 22 | 20 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
-        "episode": 22,
-        "date": "2026-11-20",
-        "published": "2026-11-20T17:00:07Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/whHUjgEd4xg/hqdefault.jpg",
-        "checkedAt": "2026-11-21T02:25:55.336770+00:00"
-      },
-      {
-        "id": "N_8zpc3VNC4",
-        "title": "Lagan Lagi Episode 21 | 19 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
-        "episode": 21,
-        "date": "2026-11-19",
-        "published": "2026-11-19T17:00:35Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/N_8zpc3VNC4/hqdefault.jpg",
-        "checkedAt": "2026-11-21T02:25:55.336770+00:00"
-      },
-      {
-        "id": "Hf0pMc6-ehU",
-        "title": "Lagan Lagi Episode 20 | 18 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
-        "episode": 20,
-        "date": "2026-11-18",
-        "published": "2026-11-18T17:00:09Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/Hf0pMc6-ehU/hqdefault.jpg",
-        "checkedAt": "2026-11-21T02:25:55.336770+00:00"
-      },
-      {
-        "id": "EWu3FS4YfVg",
-        "title": "Lagan Lagi Episode 19 | 17 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
-        "episode": 19,
-        "date": "2026-11-17",
-        "published": "2026-11-17T17:00:10Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/EWu3FS4YfVg/hqdefault.jpg",
-        "checkedAt": "2026-11-21T02:25:55.336770+00:00"
-      },
-      {
-        "id": "-ecSrktp6W4",
-        "title": "Lagan Lagi Episode 18 | 16 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ARY Digital",
-        "episode": 18,
-        "date": "2026-11-16",
-        "published": "2026-11-16T17:00:03Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/-ecSrktp6W4/hqdefault.jpg",
-        "checkedAt": "2026-11-21T02:25:55.336770+00:00"
-      },
-      {
-        "id": "W4T93S-3jtU",
-        "title": "Lagan Lagi Episode 17 | 13 Nov 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB |",
-        "episode": 17,
-        "date": "2026-11-13",
-        "published": "2026-11-13T17:00:00Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/W4T93S-3jtU/hqdefault.jpg",
-        "checkedAt": "2026-11-21T02:25:55.336770+00:00"
-      },
-      {
-        "id": "zptfzGBbndw",
-        "title": "Lagan Lagi Ep 1 | 22 Oct 2026 | Haris Waheed | Hina Chaudhary | Saad Qureshi | ENG SUB | ARY Digital",
-        "episode": 1,
-        "date": "2026-10-22",
-        "published": "2026-10-22T17:03:38Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/zptfzGBbndw/hqdefault.jpg",
-        "checkedAt": "2026-11-21T02:25:55.336770+00:00"
-      }
-    ]
-  },
   "hum-pyar-ke-sadqay": {
     "episodes": [
       {
@@ -29875,26 +30239,6 @@
       }
     ]
   },
-  "arydigital-hey-fam": {
-    "episodes": [
-      {
-        "id": "7IDWrzmUy_s",
-        "title": "Hey Fam | EP 19 | 18 Nov 2026 | Zaviyar Ejaz | Duaa Zahra | Zarrar Khan | ENG SUB | ARY Digital",
-        "episode": 19,
-        "date": "2026-11-18",
-        "published": "2026-11-18T16:00:12Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": false,
-        "thumbnail": "https://i.ytimg.com/vi/7IDWrzmUy_s/hqdefault.jpg",
-        "checkedAt": "2026-11-19T11:50:57.636269+00:00"
-      }
-    ]
-  },
   "harpalgeo-khafa": {
     "episodes": [
       {
@@ -29928,26 +30272,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SzSTgiG2Rew/hqdefault.jpg",
         "checkedAt": "2026-11-20T02:23:17.518531+00:00"
-      }
-    ]
-  },
-  "hum-gulbahar": {
-    "episodes": [
-      {
-        "id": "dGo9gTg1Lpc",
-        "title": "Gulbahar - Episode 20 - [ENG SUB] 19 Nov 2026 [ Sanam Saeed, Emmad Irfani & Komal Meer ] - HUM TV",
-        "episode": 20,
-        "date": "2026-11-19",
-        "published": "2026-11-19T16:00:15Z",
-        "source": "HUM TV",
-        "channelId": "hum",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/dGo9gTg1Lpc/hqdefault.jpg",
-        "checkedAt": "2026-11-20T11:51:42.617028+00:00"
       }
     ]
   },
