@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T19:24:26.633238+00:00",
+  "generatedAt": "2026-11-26T03:38:36.210775+00:00",
   "sources": [
     {
       "id": "homebased",
@@ -24,6 +24,16 @@
     }
   ],
   "videos": [
+    {
+      "id": "oHbzjZboOxY",
+      "title": "[Live] We Just Launched A New Arabic App | A Chat With Nouman Ali Khan",
+      "channelId": "bayyinah",
+      "channel": "Nouman Ali Khan - Official - Bayyinah",
+      "language": "English / Urdu",
+      "topic": "general",
+      "date": "2026-11-25",
+      "source": "publisher YouTube Data API"
+    },
     {
       "id": "OQSssO3TZsY",
       "title": "सीरतुन नबी ﷺ उँगलियों पर | रसूल ﷺ की मदनी ज़िंदगी | असबाक़: 16 to 28 | Hindi | ‪@understandquran‬",
@@ -1465,6 +1475,6 @@
       "source": "verified official teaching upload"
     }
   ],
-  "count": 144,
+  "count": 145,
   "errors": []
 }
