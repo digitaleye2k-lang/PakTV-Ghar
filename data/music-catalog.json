@@ -1,20 +1,44 @@
 {
-  "generatedAt": "2026-11-27T01:47:42.454036+00:00",
+  "generatedAt": "2026-11-27T12:41:27.315584+00:00",
   "source": "verified_publisher_uploads_and_official_starters",
-  "count": 725,
+  "count": 723,
   "publishers": {
+    "cokestudio": 130,
+    "emipakistan": 257,
     "talhaanjum": 69,
-    "cokestudio": 129,
-    "emipakistan": 256,
-    "natashabaig": 94,
+    "natashabaig": 91,
     "abdulhannan": 38,
     "hasanraheem": 66,
     "bayaan": 30,
-    "youngstunners": 41,
+    "youngstunners": 40,
     "jaubi": 1,
     "sajjadali": 1
   },
   "videos": [
+    {
+      "id": "Ponou7WNKlk",
+      "title": "Diwanay Dil | Studio Version",
+      "channel": "Coke Studio Pakistan",
+      "channelId": "cokestudio",
+      "category": "music",
+      "genre": "Sufi & Fusion",
+      "published": "2026-11-27T11:59:14Z",
+      "date": "2026-11-27",
+      "embeddable": true,
+      "durationSeconds": 231
+    },
+    {
+      "id": "GYpUU2-E1MA",
+      "title": "Wada Karo Tum - Ghulam Ali | Beautiful Romantic Song | Old Is Gold | EMI Pakistan",
+      "channel": "EMI Pakistan",
+      "channelId": "emipakistan",
+      "category": "music",
+      "genre": "Golden Classics",
+      "published": "2026-11-26T15:00:10Z",
+      "date": "2026-11-26",
+      "embeddable": true,
+      "durationSeconds": 433
+    },
     {
       "id": "u7eXcP2Kgno",
       "title": "96: ORIGINS - Talha Anjum - Troublesome 96'",
@@ -8630,54 +8654,6 @@
       "date": "2017-07-22",
       "embeddable": true,
       "durationSeconds": 241
-    },
-    {
-      "id": "h2E2wiz3sug",
-      "title": "Real Talk - Young Stunners - Official Music Video",
-      "channel": "Young Stunners",
-      "channelId": "youngstunners",
-      "category": "music",
-      "genre": "Hip-Hop & Rap",
-      "published": "2017-07-22T17:37:12Z",
-      "date": "2017-07-22",
-      "embeddable": true,
-      "durationSeconds": 229
-    },
-    {
-      "id": "_lyz5gdtOa4",
-      "title": "Ya Moula | Natasha Baig ft. YBQ - Burushaski Song 2017",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-07-11T09:22:06Z",
-      "date": "2017-07-11",
-      "embeddable": true,
-      "durationSeconds": 265
-    },
-    {
-      "id": "HKPO2aghrhU",
-      "title": "Meri Maa | Natasha Baig (Mother's Day Special Song)",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-05-07T12:10:26Z",
-      "date": "2017-05-07",
-      "embeddable": true,
-      "durationSeconds": 218
-    },
-    {
-      "id": "rm3Ludiw2jE",
-      "title": "Jhoom Le | Natasha Baig | Armeena Rana Khan | Bilal Ashraf | Ali Rahman | Janaan 2016",
-      "channel": "Natasha Baig",
-      "channelId": "natashabaig",
-      "category": "music",
-      "genre": "Covers & Sufi",
-      "published": "2017-03-31T08:13:19Z",
-      "date": "2017-03-31",
-      "embeddable": true,
-      "durationSeconds": 187
     },
     {
       "id": "kw4tT7SCmaY",
