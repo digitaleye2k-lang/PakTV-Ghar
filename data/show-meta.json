@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T22:02:28.336651+05:00",
+  "generatedAt": "2026-11-27T06:47:47.111235+05:00",
   "shows": {
     "harpalgeo-mohabbat": {
       "lastAttempt": "2026-10-12T20:10:58.070876+05:00",
@@ -17,13 +17,6 @@
         "availableGB": true,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 17,
-        "time": "16:30",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-26"
       }
     },
     "harpalgeo-nashtar": {
@@ -44,11 +37,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 35,
-        "time": "11:30",
+        "number": 36,
+        "time": "20:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-26"
+        "date": "2026-11-27"
       }
     },
     "harpalgeo-kaisa-yeh-ishq": {
@@ -97,13 +90,6 @@
         "availableGB": false,
         "availablePK": true,
         "embeddable": true
-      },
-      "tvToday": {
-        "number": 34,
-        "time": "20:00",
-        "channel": "Har Pal Geo",
-        "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-26"
       }
     },
     "hum-aangan": {
@@ -135,11 +121,11 @@
         "embeddable": true
       },
       "tvToday": {
-        "number": 43,
+        "number": 44,
         "time": "21:00",
         "channel": "Har Pal Geo",
         "source": "https://harpalgeo.tv/schedule",
-        "date": "2026-11-26"
+        "date": "2026-11-27"
       }
     },
     "hum-bombay-tailors": {
@@ -1729,10 +1715,10 @@
       "posterSource": "Official YouTube thumbnail"
     },
     "hum-yaqeen-ka-safar": {
-      "lastAttempt": "2026-11-20T01:45:42.957821+05:00"
+      "lastAttempt": "2026-11-27T06:47:47.110699+05:00"
     },
     "hum-zindagi-gulzar-hai": {
-      "lastAttempt": "2026-11-20T01:45:42.957930+05:00",
+      "lastAttempt": "2026-11-27T06:47:47.110992+05:00",
       "latestUpload": {
         "number": 26,
         "id": "6ldpYcSAxOg",

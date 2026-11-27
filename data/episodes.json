@@ -311,27 +311,251 @@
       }
     ]
   },
-  "harpalgeo-nashtar": {
+  "harpalgeo-khafa": {
     "episodes": [
       {
-        "title": "Nashtar Episode 34 [Eng Sub] Digitally Presented by Happilac Paints | Danish Taimoor - Anmol Baloch",
+        "title": "Khafa Episode 34 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 26th Nov 2026 | HAR PAL GEO",
         "episode": 34,
-        "id": "18hDt-lssvI",
+        "id": "OeW4bIiL2i4",
         "source": "Har Pal Geo",
         "kind": "youtube",
-        "date": "2026-11-21"
+        "date": "2026-11-26"
+      },
+      {
+        "title": "Recap Khafa Episode 33 - 26th November 2026 - Har Pal Geo",
+        "episode": 33,
+        "id": "1NXTenFEkb4",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "Khafa Episode 33 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 33,
+        "id": "kCxN7kH3ruA",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "Khafa Episode 33 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 33,
+        "id": "dBl4tomHX_4",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "Khafa Episode 33 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 33,
+        "id": "XbrcvLRNnak",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "Khafa Episode 33 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 33,
+        "id": "JJVeR5RmDAY",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "Khafa Episode 33 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 33,
+        "id": "OXEA-IC9nA4",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "Khafa Episode 33 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 33,
+        "id": "3kVDRS8e_WY",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "Khafa Episode 33 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 33,
+        "id": "yXq1fGM1dkU",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "Khafa Episode 33 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 33,
+        "id": "Iz6Vrq5NOVc",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "Khafa Episode 33 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 25th Nov 2026 | HAR PAL GEO",
+        "episode": 33,
+        "id": "GyeI8KdrT-c",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "Recap Khafa Episode 32 - 25th November 2026 - Har Pal Geo",
+        "episode": 32,
+        "id": "VAjCzcNB5kc",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-25"
+      },
+      {
+        "id": "TpmW4qQgwh8",
+        "title": "Khafa Episode 32 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
+        "episode": 32,
+        "date": "2026-11-19",
+        "published": "2026-11-19T22:30:19Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/TpmW4qQgwh8/hqdefault.jpg",
+        "checkedAt": "2026-11-20T02:23:17.518531+00:00"
+      },
+      {
+        "id": "SzSTgiG2Rew",
+        "title": "Khafa Episode 32 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 19th Nov 2026 | HAR PAL GEO",
+        "episode": 32,
+        "date": "2026-11-19",
+        "published": "2026-11-19T16:00:16Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/SzSTgiG2Rew/hqdefault.jpg",
+        "checkedAt": "2026-11-20T02:23:17.518531+00:00"
       }
     ]
   },
   "harpalgeo-bano": {
     "episodes": [
       {
-        "title": "Bano Episode 38 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 21st Nov 2026 | HAR PAL GEO",
-        "episode": 38,
-        "id": "UwoV1V76f_Y",
+        "title": "Bano Episode 43 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 26th Nov 2026 | HAR PAL GEO",
+        "episode": 43,
+        "id": "uiEB38Edp78",
         "source": "Har Pal Geo",
         "kind": "youtube",
-        "date": "2026-11-21"
+        "date": "2026-11-26"
+      },
+      {
+        "title": "Recap Bano Episode 42 - 26th November 2026 - Har Pal Geo",
+        "episode": 42,
+        "id": "qgwPM1iLVrQ",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "Bano Episode 42 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 42,
+        "id": "9243zmvKHbE",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "Bano Episode 42 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 42,
+        "id": "-wgVLO3HAxs",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "Bano Episode 42 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 42,
+        "id": "u3OnQkSbkyI",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "Bano Episode 42 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 42,
+        "id": "6lYIwHbiX3s",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "Bano Episode 42 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 42,
+        "id": "hZ5tGC_mbZg",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "Bano Episode 42 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 42,
+        "id": "a-dSCzFJALI",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "Bano Episode 42 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟐 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 42,
+        "id": "tQc7hspdz30",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "Bano Episode 42 | 𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞 𝟎𝟏 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 42,
+        "id": "GSfEkh33nDA",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "Bano Episode 42 [Eng Sub] Haris Waheed - Hina Tariq - Aqeel Yousaf | 25th Nov 2026 | HAR PAL GEO",
+        "episode": 42,
+        "id": "6EB5jxkMtcM",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "Recap Bano Episode 41 - 25th November 2026 - Har Pal Geo",
+        "episode": 41,
+        "id": "HMVls3mFpsQ",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "Bano Episode 41 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 41,
+        "id": "9Sulcbwu41c",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "Bano Episode 41 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟑 | Hina Tariq - Haris Waheed - Aqeel Yousaf | HAR PAL GEO",
+        "episode": 41,
+        "id": "mSwibNO5cYw",
+        "source": "Har Pal Geo",
+        "kind": "youtube",
+        "date": "2026-11-25"
       },
       {
         "id": "t-1WAqaKETY",
@@ -1062,22 +1286,6 @@
         "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
-        "id": "vMmVoA41_nk",
-        "title": "Angna Episode 62 - 2nd June 2022 (English Subtitles) ARY Digital Drama",
-        "episode": 62,
-        "date": "2022-06-02",
-        "published": "2022-06-02T15:05:11Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/vMmVoA41_nk/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
-      },
-      {
         "id": "6H_fha8BlHM",
         "title": "Angna Episode 59 - 30th May 2022 (English Subtitles) - ARY Digital Drama",
         "episode": 59,
@@ -1142,22 +1350,6 @@
         "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
-        "id": "vvqtDH2yCr4",
-        "title": "Angna Episode 53 (English Subtitles) ARY Digital Drama",
-        "episode": 53,
-        "date": "2022-05-24",
-        "published": "2022-05-24T15:00:48Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/vvqtDH2yCr4/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
-      },
-      {
         "id": "2k23VBBSOLk",
         "title": "Angna Episode 52 - 23rd May 2022 (English Subtitles) ARY Digital Drama",
         "episode": 52,
@@ -1190,38 +1382,6 @@
         "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
-        "id": "hXHsKYuV7Xk",
-        "title": "Angna Episode 49 | 20th May 2022 (English Subtitles) ARY Digital Drama",
-        "episode": 49,
-        "date": "2022-05-20",
-        "published": "2022-05-20T15:04:28Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/hXHsKYuV7Xk/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
-      },
-      {
-        "id": "UVDNBvHmQaA",
-        "title": "Angna Episode 47 | 18th May 2022 (English Subtitles) | ARY Digital Drama",
-        "episode": 47,
-        "date": "2022-05-18",
-        "published": "2022-05-18T15:08:01Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/UVDNBvHmQaA/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
-      },
-      {
         "id": "ZeNXOc9YtNc",
         "title": "Angna Episode 46 | 17th May 2022 (English Subtitles) | ARY Digital Drama",
         "episode": 46,
@@ -1236,22 +1396,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ZeNXOc9YtNc/hqdefault.jpg",
         "checkedAt": "2026-11-22T19:48:31.221775+00:00"
-      },
-      {
-        "id": "qFLvfZObeds",
-        "title": "Angna Episode 45 - 16th May 2022 (English Subtitles) | ARY Digital Drama",
-        "episode": 45,
-        "date": "2022-05-16",
-        "published": "2022-05-16T15:03:06Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/qFLvfZObeds/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "yhBhfHdG6mc",
@@ -1350,70 +1494,6 @@
         "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
-        "id": "sKbS-o7d1cA",
-        "title": "Angna Episode 37 - 8th May 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 37,
-        "date": "2022-05-08",
-        "published": "2022-05-08T15:06:51Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/sKbS-o7d1cA/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
-      },
-      {
-        "id": "g054ifYUBmc",
-        "title": "Angna Episode 34 - 27th April 2022 (English Subtitles) ARY Digital Drama",
-        "episode": 34,
-        "date": "2022-04-27",
-        "published": "2022-04-27T18:06:38Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/g054ifYUBmc/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
-      },
-      {
-        "id": "XHEC_ozg3zY",
-        "title": "Angna Episode 33 (English Subtitles) ARY Digital Drama",
-        "episode": 33,
-        "date": "2022-04-21",
-        "published": "2022-04-21T17:53:11Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/XHEC_ozg3zY/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
-      },
-      {
-        "id": "7yIcfmxCmm8",
-        "title": "Angna Episode 29 - 7th April 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 29,
-        "date": "2022-04-07",
-        "published": "2022-04-07T19:08:32Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/7yIcfmxCmm8/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
-      },
-      {
         "id": "OFbUyzSYbd4",
         "title": "Angna Episode 28 - 6th April 2022 (English Subtitles) ARY Digital Drama",
         "episode": 28,
@@ -1428,38 +1508,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OFbUyzSYbd4/hqdefault.jpg",
         "checkedAt": "2026-11-22T19:48:31.221775+00:00"
-      },
-      {
-        "id": "W746FGQvNWs",
-        "title": "Angna Episode 27 (English Subtitles) ARY Digital Drama",
-        "episode": 27,
-        "date": "2022-04-02",
-        "published": "2022-04-02T15:00:40Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/W746FGQvNWs/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
-      },
-      {
-        "id": "76We-RyIlgI",
-        "title": "Angna Episode 24 - 30th March 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 24,
-        "date": "2022-03-30",
-        "published": "2022-03-30T15:01:11Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/76We-RyIlgI/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "Si-MtsC_ZSw",
@@ -1508,22 +1556,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7n7qVk1EeHA/hqdefault.jpg",
         "checkedAt": "2026-11-22T19:48:31.221775+00:00"
-      },
-      {
-        "id": "37JiguVqcBI",
-        "title": "Angna Episode 20 - 26th March 2022 (English Subtitles) - ARY Digital Drama",
-        "episode": 20,
-        "date": "2022-03-26",
-        "published": "2022-03-26T15:00:01Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/37JiguVqcBI/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "wnrDCMIncag",
@@ -1588,22 +1620,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/dAxNhYobr8c/hqdefault.jpg",
         "checkedAt": "2026-11-22T19:48:31.221775+00:00"
-      },
-      {
-        "id": "77HSL_fq-ZM",
-        "title": "Angna Episode 13 - 19th March 2022 (English Subtitles) ARY Digital Drama",
-        "episode": 13,
-        "date": "2022-03-19",
-        "published": "2022-03-19T15:00:08Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/77HSL_fq-ZM/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "gtJmxWGwxME",
@@ -1816,22 +1832,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/zwl7HtXL4uo/hqdefault.jpg",
         "checkedAt": "2026-11-22T19:48:31.221775+00:00"
-      },
-      {
-        "id": "ll3hVjnHQDw",
-        "title": "Aulaad Episode 28 | Part 2 | Presented By Brite | 18th May 2021 | ARY Digital Drama",
-        "episode": 28,
-        "date": "2021-05-18",
-        "published": "2021-05-18T17:00:13Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ll3hVjnHQDw/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "DtG4rF7QWZE",
@@ -2170,22 +2170,6 @@
         "checkedAt": "2026-11-22T19:48:31.221775+00:00"
       },
       {
-        "id": "n1Mmu3TfrvE",
-        "title": "Aulaad Episode 2 | Presented By Brite | 29th Dec 2020 | ARY Digital Drama",
-        "episode": 2,
-        "date": "2020-12-29",
-        "published": "2020-12-29T15:58:55Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/n1Mmu3TfrvE/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
-      },
-      {
         "id": "vKF-ffjTnYw",
         "title": "Aulaad Episode 1 | Presented By Brite | 22nd Dec 2020 | ARY Digital Drama",
         "episode": 1,
@@ -2270,38 +2254,6 @@
         "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
-        "id": "ihuh07OK1tQ",
-        "title": "Baby Baji Episode 48 | 13th July 2023 (English Subtitles) ARY Digital Drama",
-        "episode": 48,
-        "date": "2023-07-13",
-        "published": "2023-07-13T15:15:06Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/ihuh07OK1tQ/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
-      },
-      {
-        "id": "I-ybNiLh53U",
-        "title": "Baby Baji Episode 40 | 5th July 2023 (English Subtitles) ARY Digital Drama",
-        "episode": 40,
-        "date": "2023-07-05",
-        "published": "2023-07-05T15:00:09Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/I-ybNiLh53U/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
-      },
-      {
         "id": "qcJ0HxIYIto",
         "title": "Baby Baji Episode 39 | 4th July 2023 (English Subtitles) ARY Digital Drama",
         "episode": 39,
@@ -2316,22 +2268,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/qcJ0HxIYIto/hqdefault.jpg",
         "checkedAt": "2026-11-23T01:48:43.276057+00:00"
-      },
-      {
-        "id": "MPUxzTqTeLI",
-        "title": "Baby Baji Episode 36 | 27th June 2023 (English Subtitles) | ARY Digital Drama",
-        "episode": 36,
-        "date": "2023-06-27",
-        "published": "2023-06-27T15:00:10Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/MPUxzTqTeLI/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "IZBqW9OGsGQ",
@@ -2430,38 +2366,6 @@
         "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
-        "id": "G3Ug0iUNlKI",
-        "title": "Baby Baji Episode 27 | 18th June 2023 (English Subtitles) | ARY Digital Drama",
-        "episode": 27,
-        "date": "2023-06-18",
-        "published": "2023-06-18T15:00:09Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/G3Ug0iUNlKI/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
-      },
-      {
-        "id": "AcOJwPygJZw",
-        "title": "Baby Baji Episode 26 | 17th June 2023 (English Subtitles) ARY Digital Drama",
-        "episode": 26,
-        "date": "2023-06-17",
-        "published": "2023-06-17T15:00:20Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/AcOJwPygJZw/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
-      },
-      {
         "id": "fDf7DpcqQCE",
         "title": "Baby Baji Episode 24 | 15th June 2023 (English Subtitles) | ARY Digital Drama",
         "episode": 24,
@@ -2478,22 +2382,6 @@
         "checkedAt": "2026-11-23T01:48:43.276057+00:00"
       },
       {
-        "id": "XC7DEZNWRUE",
-        "title": "Baby Baji Episode 22 | 13th June 2023 (English Subtitles) | ARY Digital Drama",
-        "episode": 22,
-        "date": "2023-06-13",
-        "published": "2023-06-13T15:01:06Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/XC7DEZNWRUE/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
-      },
-      {
         "id": "BTvexXta7Tw",
         "title": "Baby Baji Episode 20 | 11th June 2023 (English Subtitles) | ARY Digital Drama",
         "episode": 20,
@@ -2508,22 +2396,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/BTvexXta7Tw/hqdefault.jpg",
         "checkedAt": "2026-11-23T01:48:43.276057+00:00"
-      },
-      {
-        "id": "G2-WzSIr3ec",
-        "title": "Baby Baji Episode 19 | 10th June 2023 (English Subtitles) | ARY Digital Drama",
-        "episode": 19,
-        "date": "2023-06-10",
-        "published": "2023-06-10T15:00:27Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/G2-WzSIr3ec/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "e_DPk0v0Ris",
@@ -2588,22 +2460,6 @@
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/MfY9QcTrstE/hqdefault.jpg",
         "checkedAt": "2026-11-23T01:48:43.276057+00:00"
-      },
-      {
-        "id": "3d12fXYa6sE",
-        "title": "Baby Baji Episode 11 | 2nd June 2023 (English Subtitles) ARY Digital Drama",
-        "episode": 11,
-        "date": "2023-06-02",
-        "published": "2023-06-02T15:02:01Z",
-        "source": "ARY Digital",
-        "channelId": "arydigital",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/3d12fXYa6sE/hqdefault.jpg",
-        "checkedAt": "2026-11-12T20:03:31.025192+00:00"
       },
       {
         "id": "9AegH_e6uB4",
@@ -17459,7 +17315,55 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_tPCT_22sQk/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
+      },
+      {
+        "id": "O0csdOTxbXo",
+        "title": "Mann Mast Malang 2nd Last Ep 55 [Eng Sub] Presented by Diamond Paints & Ujooba Beauty Cream",
+        "episode": 55,
+        "date": "2025-06-28",
+        "published": "2025-06-28T16:00:39Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/O0csdOTxbXo/hqdefault.jpg",
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
+      },
+      {
+        "id": "WnKqBnFd1DU",
+        "title": "Mann Mast Malang Episode 51 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟐 | Danish Taimoor - Sahar Hashmi | HAR PAL GEO",
+        "episode": 51,
+        "date": "2025-06-23",
+        "published": "2025-06-23T10:20:01Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/WnKqBnFd1DU/hqdefault.jpg",
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
+      },
+      {
+        "id": "G6CXlgjgTBw",
+        "title": "Mann Mast Malang Ep 50 [Eng Sub] Presented by Diamond Paints - 15th June 2025 - Har Pal Geo",
+        "episode": 50,
+        "date": "2025-06-15",
+        "published": "2025-06-15T16:00:25Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/G6CXlgjgTBw/hqdefault.jpg",
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "SCUpryLuiME",
@@ -17475,7 +17379,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/SCUpryLuiME/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "9ZZxUOpfHc0",
@@ -17491,7 +17395,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/9ZZxUOpfHc0/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "1jV0uSGMB_c",
@@ -17539,7 +17443,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/MFTkK0kdRBU/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "KRHfPTG6QTo",
@@ -17555,7 +17459,55 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/KRHfPTG6QTo/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
+      },
+      {
+        "id": "xogij-eiCCo",
+        "title": "Mann Mast Malang Ep 42  [Eng Sub] Presented by Diamond Paints & Ujooba Beauty Cream - 30th May 2025",
+        "episode": 42,
+        "date": "2025-05-30",
+        "published": "2025-05-30T16:01:43Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/xogij-eiCCo/hqdefault.jpg",
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
+      },
+      {
+        "id": "hpq5Wm2PCTg",
+        "title": "Mann Mast Malang Ep 41 [Eng Sub] Presented by Diamond Paints - 25th May 2025 - Har Pal Geo",
+        "episode": 41,
+        "date": "2025-05-25",
+        "published": "2025-05-25T16:01:05Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/hpq5Wm2PCTg/hqdefault.jpg",
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
+      },
+      {
+        "id": "2jG47RBKpuk",
+        "title": "Mann Mast Malang Ep 40 [Eng Sub] Presented by Diamond Paints & Ujooba Beauty Cream - 24th May 2025",
+        "episode": 40,
+        "date": "2025-05-24",
+        "published": "2025-05-24T16:00:09Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/2jG47RBKpuk/hqdefault.jpg",
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "BSzmQ5eYmU8",
@@ -17571,7 +17523,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/BSzmQ5eYmU8/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "4L6w_tuDxIU",
@@ -17587,7 +17539,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4L6w_tuDxIU/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "MAihwfjeGl8",
@@ -17651,7 +17603,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/pWG8Dx0hMe8/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
+      },
+      {
+        "id": "zNBingJMXPk",
+        "title": "Mann Mast Malang Ep27 [Eng Sub] Presented by Diamond Paints - Ujooba Beauty Cream & Nestle Lactogrow",
+        "episode": 27,
+        "date": "2025-04-25",
+        "published": "2025-04-25T16:01:46Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/zNBingJMXPk/hqdefault.jpg",
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "C6EX0ZZjqzA",
@@ -17667,7 +17635,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/C6EX0ZZjqzA/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "-934qKDuzVU",
@@ -17699,7 +17667,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Rx2jBse1to0/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "LPxe4I5iSXI",
@@ -17715,7 +17683,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/LPxe4I5iSXI/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "N6ddV0FtHZQ",
@@ -17731,7 +17699,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/N6ddV0FtHZQ/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "SewGFTWPhwU",
@@ -17750,6 +17718,38 @@
         "checkedAt": "2026-11-15T16:26:13.363433+00:00"
       },
       {
+        "id": "lJ67gcI5U-A",
+        "title": "Mann Mast Malang Episode 18 - [Eng Sub] - Digitally Presented by Diamond Paints - 30th March 2025",
+        "episode": 18,
+        "date": "2025-03-30",
+        "published": "2025-03-30T16:00:54Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/lJ67gcI5U-A/hqdefault.jpg",
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
+      },
+      {
+        "id": "pbHcZg1pWr8",
+        "title": "Mann Mast Malang Ep 17 [Eng Sub] Presented by Diamond Paints - Ujooba Beauty Cream - 29th March 2025",
+        "episode": 17,
+        "date": "2025-03-29",
+        "published": "2025-03-29T16:01:01Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/pbHcZg1pWr8/hqdefault.jpg",
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
+      },
+      {
         "id": "Zd9Zs_u8xPM",
         "title": "Mann Mast Malang Ep 16 [Eng Sub] Presented by Diamond Paints - Ujooba Beauty Cream - 28th March 2025",
         "episode": 16,
@@ -17763,7 +17763,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Zd9Zs_u8xPM/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
+      },
+      {
+        "id": "DckbOD8V418",
+        "title": "Mann Mast Malang Episode 15 - [Eng Sub] - Digitally Presented by Diamond Paints - 23rd March 2025",
+        "episode": 15,
+        "date": "2025-03-23",
+        "published": "2025-03-23T16:00:18Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/DckbOD8V418/hqdefault.jpg",
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "lHErur3sZic",
@@ -17779,7 +17795,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lHErur3sZic/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "7SrcCQBL6XY",
@@ -17795,7 +17811,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/7SrcCQBL6XY/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "xUup5atyqzA",
@@ -17811,7 +17827,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/xUup5atyqzA/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "m8F029Nq4NY",
@@ -17827,7 +17843,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/m8F029Nq4NY/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "r75wJlVL1bo",
@@ -17843,7 +17859,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/r75wJlVL1bo/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "_ubBrl459g4",
@@ -17859,7 +17875,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/_ubBrl459g4/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "fDIJyANQh64",
@@ -17875,7 +17891,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/fDIJyANQh64/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "51RIBf8FvrU",
@@ -17891,7 +17907,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/51RIBf8FvrU/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "nGn96Dr2ok8",
@@ -17907,7 +17923,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/nGn96Dr2ok8/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "giLWS6ShhWw",
@@ -17923,7 +17939,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/giLWS6ShhWw/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "PVcG_gjmcL8",
@@ -17939,7 +17955,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PVcG_gjmcL8/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "i9swPAKkjf8",
@@ -17955,7 +17971,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/i9swPAKkjf8/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "8yslaApEuH4",
@@ -17971,7 +17987,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/8yslaApEuH4/hqdefault.jpg",
-        "checkedAt": "2026-11-15T16:26:13.363433+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       }
     ]
   },
@@ -17991,7 +18007,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/OPmT7x3da5w/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "shc0PC_mn38",
@@ -18007,7 +18023,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/shc0PC_mn38/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "VwgXooADw9o",
@@ -18023,7 +18039,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/VwgXooADw9o/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "BwHz4c8dkHE",
@@ -18055,7 +18071,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/jL33r-ohE_4/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "-VEDsBMKdKo",
@@ -18071,7 +18087,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-VEDsBMKdKo/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "j7BtQyeEsPE",
@@ -18087,7 +18103,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/j7BtQyeEsPE/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "Bb1oPO9-O50",
@@ -18103,7 +18119,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Bb1oPO9-O50/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "P7H3fl1LKGI",
@@ -18119,7 +18135,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/P7H3fl1LKGI/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "lopZumgGn8Y",
@@ -18135,7 +18151,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/lopZumgGn8Y/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "soIOXqGtmSk",
@@ -18151,7 +18167,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/soIOXqGtmSk/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "0lHW8B-CNxw",
@@ -18167,7 +18183,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/0lHW8B-CNxw/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "CtTBzVF-rEA",
@@ -18183,7 +18199,23 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/CtTBzVF-rEA/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
+      },
+      {
+        "id": "zFgt_4xxULg",
+        "title": "Mannat Murad Episode 16 - [Eng Sub] - Digitally Presented by PEL - 20th November 2023 - Iqra Aziz",
+        "episode": 16,
+        "date": "2023-11-20",
+        "published": "2023-11-20T16:00:44Z",
+        "source": "Har Pal Geo",
+        "channelId": "harpalgeo",
+        "sourceType": "youtube_api",
+        "kind": "youtube",
+        "embeddable": true,
+        "availableGB": true,
+        "availablePK": true,
+        "thumbnail": "https://i.ytimg.com/vi/zFgt_4xxULg/hqdefault.jpg",
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "PNSRYjwnz20",
@@ -18199,7 +18231,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/PNSRYjwnz20/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "UDjq_uS2COk",
@@ -18215,7 +18247,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/UDjq_uS2COk/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "F0FgNyqjit8",
@@ -18231,7 +18263,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/F0FgNyqjit8/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "ZGIIZgqVF5c",
@@ -18247,7 +18279,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/ZGIIZgqVF5c/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "r8dHwGbg1Cg",
@@ -18263,7 +18295,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/r8dHwGbg1Cg/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "B94_TgDmA84",
@@ -18279,7 +18311,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/B94_TgDmA84/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "b9nGsQJYqO8",
@@ -18295,7 +18327,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/b9nGsQJYqO8/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "6kX65ltaIFQ",
@@ -18311,7 +18343,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/6kX65ltaIFQ/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "4syfpzJyCqE",
@@ -18327,7 +18359,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/4syfpzJyCqE/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "q52NdC7v3BA",
@@ -18343,7 +18375,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/q52NdC7v3BA/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "1l9ZtJRyUE4",
@@ -18359,7 +18391,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/1l9ZtJRyUE4/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "Cmbwrh8zuXM",
@@ -18375,7 +18407,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/Cmbwrh8zuXM/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "-4JAWEULnl0",
@@ -18391,7 +18423,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/-4JAWEULnl0/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "XZyeW0f94p8",
@@ -18407,7 +18439,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/XZyeW0f94p8/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       },
       {
         "id": "EK_G34munLg",
@@ -18423,7 +18455,7 @@
         "availableGB": true,
         "availablePK": true,
         "thumbnail": "https://i.ytimg.com/vi/EK_G34munLg/hqdefault.jpg",
-        "checkedAt": "2026-11-15T22:56:06.984736+00:00"
+        "checkedAt": "2026-11-27T01:47:13.100958+00:00"
       }
     ]
   },
@@ -30236,42 +30268,6 @@
         "availablePK": false,
         "thumbnail": "https://i.ytimg.com/vi/ksnQXUQHgnE/hqdefault.jpg",
         "checkedAt": "2026-11-18T20:39:16.999769+00:00"
-      }
-    ]
-  },
-  "harpalgeo-khafa": {
-    "episodes": [
-      {
-        "id": "TpmW4qQgwh8",
-        "title": "Khafa Episode 32 | 𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭 𝟎𝟒 | Mikaal Zulfiqar - Hira Mani - Ayesha Rajpoot | HAR PAL GEO",
-        "episode": 32,
-        "date": "2026-11-19",
-        "published": "2026-11-19T22:30:19Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/TpmW4qQgwh8/hqdefault.jpg",
-        "checkedAt": "2026-11-20T02:23:17.518531+00:00"
-      },
-      {
-        "id": "SzSTgiG2Rew",
-        "title": "Khafa Episode 32 [Eng Sub] Mikaal Zulfiqar - Hira Mani - Saif Ali Khan | 19th Nov 2026 | HAR PAL GEO",
-        "episode": 32,
-        "date": "2026-11-19",
-        "published": "2026-11-19T16:00:16Z",
-        "source": "Har Pal Geo",
-        "channelId": "harpalgeo",
-        "sourceType": "youtube_api",
-        "kind": "youtube",
-        "embeddable": true,
-        "availableGB": true,
-        "availablePK": true,
-        "thumbnail": "https://i.ytimg.com/vi/SzSTgiG2Rew/hqdefault.jpg",
-        "checkedAt": "2026-11-20T02:23:17.518531+00:00"
       }
     ]
   },
